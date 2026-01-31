@@ -314,18 +314,20 @@
   {
     "callsign": "ASA702",
     "flightNumber": "AS702",
-    "aircraftType": null,
+    "aircraftType": "B38M",
     "origin": "SNA",
     "destination": "SEA",
     "firstSeen": "2026-01-30T18:19:02.929Z",
-    "lastSeen": "2026-01-30T18:19:02.929Z",
-    "duration": 0,
-    "closestDistance": 1.1772250559827853,
-    "closestAltitude": 36000,
-    "closestSpeed": 393,
+    "lastSeen": "2026-01-31T18:16:19.143Z",
+    "duration": 86236,
+    "closestDistance": 1.170887954841215,
+    "closestAltitude": 39975,
+    "closestSpeed": 427,
     "initialDistance": 1.1772250559827853,
     "initialAltitude": 36000,
-    "initialSpeed": 393
+    "initialSpeed": 393,
+    "icao": "AB1BF9",
+    "registration": "N815AK"
   },
   {
     "callsign": "BTQ352",
