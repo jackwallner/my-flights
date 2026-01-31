@@ -2228,5 +2228,24 @@
     "initialDistance": 1.4716203177926133,
     "initialAltitude": 1775,
     "initialSpeed": 139
+  },
+  {
+    "callsign": "ASA1311",
+    "flightNumber": "AS1311",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AB1842",
+    "registration": "N814AK",
+    "firstSeen": "2026-01-31T20:15:51.129Z",
+    "lastSeen": "2026-01-31T20:15:51.129Z",
+    "duration": 0,
+    "closestDistance": 1.4348461101263332,
+    "closestAltitude": 37850,
+    "closestSpeed": 460,
+    "initialDistance": 1.4348461101263332,
+    "initialAltitude": 37850,
+    "initialSpeed": 460
   }
 ]
