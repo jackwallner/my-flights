@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 1275,
-    "speed": 143,
-    "timestamp": "2026-01-31T20:45:14.135Z",
-    "lat": 45.6149,
-    "lon": -122.5565,
+    "distance": 1.36,
+    "altitude": 36000,
+    "speed": 469,
+    "timestamp": "2026-01-31T20:52:42.605Z",
+    "lat": 45.6165,
+    "lon": -122.5579,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N751PS",
-    "aircraftType": "S22T",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-01-30T21:01:02.984Z"
+    "callsign": "SKW3736",
+    "aircraftType": "E175",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-01-30T20:57:13.756Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-01-31T20:46:17.044Z"
+  "status": "tracking",
+  "timestamp": "2026-01-31T20:52:42.606Z"
 }
