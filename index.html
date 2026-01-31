@@ -1623,7 +1623,7 @@
             <span class="map-icon">🗺️</span>
             <span class="map-title">Flight Path</span>
           </div>
-          <div id="flight-map" style="width: 100%; height: 350px; border-radius: 8px;"></div>
+          <div id="flight-map" style="width: 100%; height: 220px; border-radius: 8px;"></div>
           <div class="map-route">
             <span class="map-airport" title="${getAirportName(flight.origin)}">${flight.origin || '???'}</span>
             <span class="map-arrow">→</span>
@@ -1718,8 +1718,9 @@
       L.marker([dest.lat, dest.lon], { icon: destIcon }).addTo(map)
         .bindPopup(`<b>${flight.destination}</b><br>${getAirportName(flight.destination)}`);
       
-      // Draw route line
-      L.polyline([[origin.lat, origin.lon], [dest.lat, dest.lon]], {
+      // Draw curved route line (great circle)
+      const routePoints = calculateGreatCirclePoints(origin, dest, 50);
+      L.polyline(routePoints.map(p => [p.lat, p.lon]), {
         color: '#3b82f6',
         weight: 3,
         opacity: 0.7,
@@ -1786,6 +1787,36 @@
                                       Math.cos(d) - Math.sin(lat1) * Math.sin(lat2));
       
       return { lat: toDeg(lat2), lon: toDeg(lon2) };
+    }
+    
+    function calculateGreatCirclePoints(origin, dest, numPoints) {
+      const points = [];
+      const toRad = deg => deg * Math.PI / 180;
+      const toDeg = rad => rad * 180 / Math.PI;
+      
+      const lat1 = toRad(origin.lat);
+      const lon1 = toRad(origin.lon);
+      const lat2 = toRad(dest.lat);
+      const lon2 = toRad(dest.lon);
+      
+      const d = Math.acos(Math.sin(lat1) * Math.sin(lat2) + Math.cos(lat1) * Math.cos(lat2) * Math.cos(lon2 - lon1));
+      
+      for (let i = 0; i <= numPoints; i++) {
+        const f = i / numPoints;
+        const A = Math.sin((1 - f) * d) / Math.sin(d);
+        const B = Math.sin(f * d) / Math.sin(d);
+        
+        const x = A * Math.cos(lat1) * Math.cos(lon1) + B * Math.cos(lat2) * Math.cos(lon2);
+        const y = A * Math.cos(lat1) * Math.sin(lon1) + B * Math.cos(lat2) * Math.sin(lon2);
+        const z = A * Math.sin(lat1) + B * Math.sin(lat2);
+        
+        const lat = toDeg(Math.atan2(z, Math.sqrt(x * x + y * y)));
+        const lon = toDeg(Math.atan2(y, x));
+        
+        points.push({ lat, lon });
+      }
+      
+      return points;
     }
     
     function calculateClosestPointOnLine(px, py, x1, y1, x2, y2) {
