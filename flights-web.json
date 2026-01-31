@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.78,
-    "altitude": 33025,
-    "speed": 431,
-    "timestamp": "2026-01-31T18:27:50.326Z",
-    "lat": 45.634,
-    "lon": -122.5142,
+    "distance": 1.32,
+    "altitude": 36000,
+    "speed": 463,
+    "timestamp": "2026-01-31T18:35:58.563Z",
+    "lat": 45.6219,
+    "lon": -122.5592,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA4430",
-    "aircraftType": "737 ",
-    "origin": "PHX",
+    "callsign": "ASA1365",
+    "aircraftType": "B39M",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T18:27:50.326Z"
+    "firstSeen": "2026-01-31T18:35:58.562Z"
   },
-  "overheadScore": 0.78,
-  "isOverhead": true,
+  "overheadScore": 1.32,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-01-31T18:28:48.890Z"
+  "timestamp": "2026-01-31T18:36:56.634Z"
 }
