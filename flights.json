@@ -1992,5 +1992,24 @@
     "initialDistance": 1.2811197508911225,
     "initialAltitude": 36000,
     "initialSpeed": 408
+  },
+  {
+    "callsign": "ASA479",
+    "flightNumber": "AS479",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AAF47A",
+    "registration": "N805AK",
+    "firstSeen": "2026-01-31T18:03:26.010Z",
+    "lastSeen": "2026-01-31T18:03:26.010Z",
+    "duration": 0,
+    "closestDistance": 0.8730674148405049,
+    "closestAltitude": 36000,
+    "closestSpeed": 412,
+    "initialDistance": 0.8730674148405049,
+    "initialAltitude": 36000,
+    "initialSpeed": 412
   }
 ]
