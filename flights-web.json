@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.44,
-    "altitude": 36000,
-    "speed": 442,
-    "timestamp": "2026-01-31T23:40:12.306Z",
-    "lat": 45.6307,
-    "lon": -122.5615,
+    "distance": 1.01,
+    "altitude": 44975,
+    "speed": 461,
+    "timestamp": "2026-01-31T23:50:01.073Z",
+    "lat": 45.6158,
+    "lon": -122.5479,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3789",
-    "aircraftType": "E175",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T23:40:12.301Z"
+    "callsign": "LXJ579",
+    "aircraftType": "CL35",
+    "origin": "PSP",
+    "destination": "BFI",
+    "firstSeen": "2026-01-31T23:50:01.071Z"
   },
-  "overheadScore": 1.44,
+  "overheadScore": 1.01,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-01-31T23:41:15.195Z"
+  "status": "tracking",
+  "timestamp": "2026-01-31T23:50:01.073Z"
 }

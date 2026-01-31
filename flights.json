@@ -2684,5 +2684,24 @@
     "initialDistance": 1.4391490385325207,
     "initialAltitude": 36000,
     "initialSpeed": 442
+  },
+  {
+    "callsign": "LXJ579",
+    "flightNumber": "LXJ579",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "BFI",
+    "icao": "A7706B",
+    "registration": "N579FX",
+    "firstSeen": "2026-01-31T23:50:01.071Z",
+    "lastSeen": "2026-01-31T23:50:01.071Z",
+    "duration": 0,
+    "closestDistance": 1.0072256813690195,
+    "closestAltitude": 44975,
+    "closestSpeed": 461,
+    "initialDistance": 1.0072256813690195,
+    "initialAltitude": 44975,
+    "initialSpeed": 461
   }
 ]
