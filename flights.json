@@ -1767,5 +1767,24 @@
     "initialDistance": 1.2309962984499663,
     "initialAltitude": 39875,
     "initialSpeed": 416
+  },
+  {
+    "callsign": "ASA323",
+    "flightNumber": "AS323",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "ADA51E",
+    "registration": "N979AK",
+    "firstSeen": "2026-01-31T16:13:42.843Z",
+    "lastSeen": "2026-01-31T16:13:42.843Z",
+    "duration": 0,
+    "closestDistance": 0.7480908676456341,
+    "closestAltitude": 38000,
+    "closestSpeed": 427,
+    "initialDistance": 0.7480908676456341,
+    "initialAltitude": 38000,
+    "initialSpeed": 427
   }
 ]
