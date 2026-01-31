@@ -256,18 +256,20 @@
   {
     "callsign": "ASA701",
     "flightNumber": "AS701",
-    "aircraftType": null,
+    "aircraftType": "B39M",
     "origin": "LAS",
     "destination": "SEA",
     "firstSeen": "2026-01-30T17:02:55.501Z",
-    "lastSeen": "2026-01-30T17:02:55.501Z",
-    "duration": 0,
+    "lastSeen": "2026-01-31T16:53:53.367Z",
+    "duration": 85858,
     "closestDistance": 0.9625867625651842,
     "closestAltitude": 38000,
     "closestSpeed": 424,
     "initialDistance": 0.9625867625651842,
     "initialAltitude": 38000,
-    "initialSpeed": 424
+    "initialSpeed": 424,
+    "icao": "ACFFB4",
+    "registration": "N937AK"
   },
   {
     "callsign": "ASA705",
