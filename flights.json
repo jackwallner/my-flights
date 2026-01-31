@@ -1817,5 +1817,24 @@
     "initialDistance": 1.0366911201695073,
     "initialAltitude": 36000,
     "initialSpeed": 433
+  },
+  {
+    "callsign": "DAL2530",
+    "flightNumber": "DL2530",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A45B96",
+    "registration": "N380DA",
+    "firstSeen": "2026-01-31T16:59:32.777Z",
+    "lastSeen": "2026-01-31T16:59:32.777Z",
+    "duration": 0,
+    "closestDistance": 0.8320947851944277,
+    "closestAltitude": 39825,
+    "closestSpeed": 416,
+    "initialDistance": 0.8320947851944277,
+    "initialAltitude": 39825,
+    "initialSpeed": 416
   }
 ]
