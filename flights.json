@@ -2131,5 +2131,24 @@
     "initialDistance": 1.245662292915559,
     "initialAltitude": 37500,
     "initialSpeed": 424
+  },
+  {
+    "callsign": "DAL976",
+    "flightNumber": "DL976",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A0311D",
+    "registration": "N111NG",
+    "firstSeen": "2026-01-31T19:39:39.397Z",
+    "lastSeen": "2026-01-31T19:39:39.397Z",
+    "duration": 0,
+    "closestDistance": 1.3982844707711117,
+    "closestAltitude": 24000,
+    "closestSpeed": 453,
+    "initialDistance": 1.3982844707711117,
+    "initialAltitude": 24000,
+    "initialSpeed": 453
   }
 ]
