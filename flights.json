@@ -2551,5 +2551,24 @@
     "initialDistance": 1.2053008756822243,
     "initialAltitude": 36000,
     "initialSpeed": 441
+  },
+  {
+    "callsign": "ASA1358",
+    "flightNumber": "AS1358",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A9D63B",
+    "registration": "N733AL",
+    "firstSeen": "2026-01-31T22:32:02.230Z",
+    "lastSeen": "2026-01-31T22:32:02.230Z",
+    "duration": 0,
+    "closestDistance": 1.3285137006019454,
+    "closestAltitude": 36000,
+    "closestSpeed": 472,
+    "initialDistance": 1.3285137006019454,
+    "initialAltitude": 36000,
+    "initialSpeed": 472
   }
 ]
