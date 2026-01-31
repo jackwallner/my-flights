@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 1775,
-    "speed": 139,
-    "timestamp": "2026-01-31T20:08:49.500Z",
-    "lat": 45.6015,
-    "lon": -122.5366,
+    "distance": 1.31,
+    "altitude": 34350,
+    "speed": 441,
+    "timestamp": "2026-01-31T20:11:30.460Z",
+    "lat": 45.6146,
+    "lon": -122.501,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N756YC",
-    "aircraftType": "T206",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-01-31T20:08:49.499Z"
+    "callsign": "ASA1378",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-01-30T20:32:25.470Z"
   },
-  "overheadScore": 1.47,
+  "overheadScore": 1.31,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-01-31T20:09:51.890Z"
+  "status": "tracking",
+  "timestamp": "2026-01-31T20:11:30.460Z"
 }
