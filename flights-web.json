@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.82,
-    "altitude": 36875,
-    "speed": 431,
-    "timestamp": "2026-01-31T17:21:46.955Z",
-    "lat": 45.6259,
-    "lon": -122.5087,
+    "distance": 1.29,
+    "altitude": 33425,
+    "speed": 439,
+    "timestamp": "2026-01-31T17:24:18.335Z",
+    "lat": 45.6144,
+    "lon": -122.5015,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA179",
-    "aircraftType": "737",
-    "origin": "PSP",
+    "callsign": "DAL1293",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-01-30T16:57:17.045Z"
+    "firstSeen": "2026-01-31T17:24:18.334Z"
   },
-  "overheadScore": 0.82,
-  "isOverhead": true,
+  "overheadScore": 1.29,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-01-31T17:21:46.955Z"
+  "timestamp": "2026-01-31T17:24:18.335Z"
 }
