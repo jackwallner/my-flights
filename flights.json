@@ -172,18 +172,20 @@
   {
     "callsign": "ASA709",
     "flightNumber": "AS709",
-    "aircraftType": null,
+    "aircraftType": "B738",
     "origin": "SAN",
     "destination": "SEA",
     "firstSeen": "2026-01-30T16:37:14.539Z",
-    "lastSeen": "2026-01-30T16:37:14.539Z",
-    "duration": 0,
-    "closestDistance": 1.3132876635915494,
-    "closestAltitude": 36000,
-    "closestSpeed": 424,
+    "lastSeen": "2026-01-31T16:39:06.713Z",
+    "duration": 86512,
+    "closestDistance": 1.2651974967766115,
+    "closestAltitude": 37850,
+    "closestSpeed": 428,
     "initialDistance": 1.3132876635915494,
     "initialAltitude": 36000,
-    "initialSpeed": 424
+    "initialSpeed": 424,
+    "icao": "A6B7EC",
+    "registration": "N532AS"
   },
   {
     "callsign": "ASA491",
