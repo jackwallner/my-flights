@@ -190,18 +190,20 @@
   {
     "callsign": "ASA491",
     "flightNumber": "AS491",
-    "aircraftType": null,
+    "aircraftType": "B39M",
     "origin": "BUR",
     "destination": "SEA",
     "firstSeen": "2026-01-30T16:47:43.173Z",
-    "lastSeen": "2026-01-30T16:47:43.173Z",
-    "duration": 0,
-    "closestDistance": 0.8679032632825492,
-    "closestAltitude": 36000,
-    "closestSpeed": 419,
+    "lastSeen": "2026-01-31T16:48:04.288Z",
+    "duration": 86421,
+    "closestDistance": 0.764085616206689,
+    "closestAltitude": 37200,
+    "closestSpeed": 428,
     "initialDistance": 0.8679032632825492,
     "initialAltitude": 36000,
-    "initialSpeed": 419
+    "initialSpeed": 419,
+    "icao": "A9AEBC",
+    "registration": "N723AL"
   },
   {
     "callsign": "ASA179",
