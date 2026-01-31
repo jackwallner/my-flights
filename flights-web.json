@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.41,
-    "altitude": 1300,
-    "speed": 78,
-    "timestamp": "2026-01-31T21:26:55.412Z",
-    "lat": 45.6193,
-    "lon": -122.5605,
-    "precision": "tracked"
+    "distance": 1,
+    "altitude": 1400,
+    "speed": 76,
+    "timestamp": "2026-01-31T21:27:57.846Z",
+    "lat": 45.609,
+    "lon": -122.5331,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N5201H",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-01-30T20:33:02.235Z"
   },
-  "overheadScore": 1.41,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-01-31T21:26:55.412Z"
+  "overheadScore": 1,
+  "isOverhead": true,
+  "pathSnapshots": 5,
+  "status": "completed",
+  "timestamp": "2026-01-31T21:28:40.273Z"
 }
