@@ -208,18 +208,20 @@
   {
     "callsign": "ASA179",
     "flightNumber": "AS179",
-    "aircraftType": null,
+    "aircraftType": "B739",
     "origin": "PSP",
     "destination": "SEA",
     "firstSeen": "2026-01-30T16:57:17.045Z",
-    "lastSeen": "2026-01-30T16:57:17.045Z",
-    "duration": 0,
-    "closestDistance": 1.2299472156401983,
-    "closestAltitude": 38000,
-    "closestSpeed": 423,
+    "lastSeen": "2026-01-31T17:21:46.954Z",
+    "duration": 87870,
+    "closestDistance": 0.8159241605150505,
+    "closestAltitude": 36875,
+    "closestSpeed": 431,
     "initialDistance": 1.2299472156401983,
     "initialAltitude": 38000,
-    "initialSpeed": 423
+    "initialSpeed": 423,
+    "icao": "A1C868",
+    "registration": "N214AK"
   },
   {
     "callsign": "ASA1325",
