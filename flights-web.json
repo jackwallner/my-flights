@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
+    "distance": 1.33,
     "altitude": 36000,
-    "speed": 439,
-    "timestamp": "2026-01-31T20:26:57.656Z",
-    "lat": 45.6292,
-    "lon": -122.5611,
+    "speed": 464,
+    "timestamp": "2026-01-31T20:33:33.721Z",
+    "lat": 45.6224,
+    "lon": -122.5596,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2344",
+    "callsign": "SKW3026",
     "aircraftType": "E175",
-    "origin": "STS",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-01-30T20:27:09.483Z"
+    "firstSeen": "2026-01-31T20:33:33.720Z"
   },
-  "overheadScore": 1.4,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-01-31T20:27:56.819Z"
+  "timestamp": "2026-01-31T20:34:36.113Z"
 }
