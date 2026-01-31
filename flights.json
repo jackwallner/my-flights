@@ -2589,5 +2589,24 @@
     "initialDistance": 1.3310299181679082,
     "initialAltitude": 35275,
     "initialSpeed": 466
+  },
+  {
+    "callsign": "N5094L",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A65E4E",
+    "registration": "N5094L",
+    "firstSeen": "2026-01-31T22:47:23.955Z",
+    "lastSeen": "2026-01-31T22:47:23.955Z",
+    "duration": 0,
+    "closestDistance": 1.4490610284146466,
+    "closestAltitude": 1300,
+    "closestSpeed": 79,
+    "initialDistance": 1.4490610284146466,
+    "initialAltitude": 1300,
+    "initialSpeed": 79
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 35275,
-    "speed": 466,
-    "timestamp": "2026-01-31T22:43:42.703Z",
-    "lat": 45.6247,
-    "lon": -122.5598,
+    "distance": 1.45,
+    "altitude": 1300,
+    "speed": 79,
+    "timestamp": "2026-01-31T22:47:23.956Z",
+    "lat": 45.6106,
+    "lon": -122.5555,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL1008",
-    "aircraftType": "A320",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T22:43:42.702Z"
+    "callsign": "N5094L",
+    "aircraftType": "C152",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-01-31T22:47:23.955Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.45,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-01-31T22:44:46.142Z"
+  "status": "tracking",
+  "timestamp": "2026-01-31T22:47:23.956Z"
 }
