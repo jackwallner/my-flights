@@ -932,6 +932,10 @@
           <div id="private-flights" class="stat-value">-</div>
           <div class="stat-label">Private</div>
         </div>
+        <div class="stat-item">
+          <div id="last-plane" class="stat-value">-</div>
+          <div class="stat-label">Last Plane</div>
+        </div>
       </div>
       
       <button class="theme-toggle" onclick="toggleTheme()">
@@ -1539,6 +1543,26 @@
       
       const privateCount = filtered.filter(f => detectFlightType(f) === 'private').length;
       document.getElementById('private-flights').textContent = privateCount;
+      
+      // Last plane detected time
+      const lastPlaneTime = filtered.length > 0
+        ? Math.max(...filtered.map(f => new Date(f.lastSeen || f.firstSeen || 0).getTime()))
+        : 0;
+      document.getElementById('last-plane').textContent = lastPlaneTime > 0
+        ? formatTimeAgo(lastPlaneTime)
+        : '-';
+    }
+    
+    function formatTimeAgo(timestamp) {
+      const now = Date.now();
+      const diff = now - timestamp;
+      const minutes = Math.floor(diff / 60000);
+      const hours = Math.floor(diff / 3600000);
+      
+      if (minutes < 1) return 'Now';
+      if (minutes < 60) return `${minutes}m ago`;
+      if (hours < 24) return `${hours}h ago`;
+      return `${Math.floor(hours / 24)}d ago`;
     }
 
     function renderCurrentFlight(data) {
