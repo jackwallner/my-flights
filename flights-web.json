@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.45,
-    "altitude": 2350,
-    "speed": 112,
-    "timestamp": "2026-01-31T20:20:55.201Z",
-    "lat": 45.6059,
-    "lon": -122.5486,
+    "distance": 1.4,
+    "altitude": 36000,
+    "speed": 439,
+    "timestamp": "2026-01-31T20:26:57.656Z",
+    "lat": 45.6292,
+    "lon": -122.5611,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N756YC",
-    "aircraftType": "T206",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-01-31T20:08:49.499Z"
+    "callsign": "QXE2344",
+    "aircraftType": "E175",
+    "origin": "STS",
+    "destination": "SEA",
+    "firstSeen": "2026-01-30T20:27:09.483Z"
   },
-  "overheadScore": 1.45,
+  "overheadScore": 1.4,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-01-31T20:21:53.393Z"
+  "timestamp": "2026-01-31T20:27:56.819Z"
 }
