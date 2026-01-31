@@ -368,18 +368,20 @@
   {
     "callsign": "ASA642",
     "flightNumber": "AS642",
-    "aircraftType": null,
+    "aircraftType": "B739",
     "origin": "RNO",
     "destination": "SEA",
     "firstSeen": "2026-01-30T18:51:55.037Z",
-    "lastSeen": "2026-01-30T18:51:55.037Z",
-    "duration": 0,
-    "closestDistance": 1.8344293166703425,
-    "closestAltitude": 38525,
-    "closestSpeed": 420,
+    "lastSeen": "2026-01-31T18:41:24.728Z",
+    "duration": 85770,
+    "closestDistance": 0.8712660763480361,
+    "closestAltitude": 34000,
+    "closestSpeed": 453,
     "initialDistance": 1.8344293166703425,
     "initialAltitude": 38525,
-    "initialSpeed": 420
+    "initialSpeed": 420,
+    "icao": "A2B562",
+    "registration": "N274AK"
   },
   {
     "callsign": "SWA433",
