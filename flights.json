@@ -2513,5 +2513,43 @@
     "initialDistance": 1.050473602303584,
     "initialAltitude": 35700,
     "initialSpeed": 454
+  },
+  {
+    "callsign": "ASA685",
+    "flightNumber": "AS685",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A59D63",
+    "registration": "N461AS",
+    "firstSeen": "2026-01-31T22:26:04.139Z",
+    "lastSeen": "2026-01-31T22:26:04.139Z",
+    "duration": 0,
+    "closestDistance": 0.8440115379058801,
+    "closestAltitude": 34000,
+    "closestSpeed": 448,
+    "initialDistance": 0.8440115379058801,
+    "initialAltitude": 34000,
+    "initialSpeed": 448
+  },
+  {
+    "callsign": "DAL1045",
+    "flightNumber": "DL1045",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A4414A",
+    "registration": "N3730B",
+    "firstSeen": "2026-01-31T22:27:28.603Z",
+    "lastSeen": "2026-01-31T22:27:28.603Z",
+    "duration": 0,
+    "closestDistance": 1.2053008756822243,
+    "closestAltitude": 36000,
+    "closestSpeed": 441,
+    "initialDistance": 1.2053008756822243,
+    "initialAltitude": 36000,
+    "initialSpeed": 441
   }
 ]
