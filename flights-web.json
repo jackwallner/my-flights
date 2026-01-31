@@ -1,11 +1,11 @@
 {
   "closestApproach": {
-    "distance": 0.76,
-    "altitude": 33050,
+    "distance": 0.78,
+    "altitude": 33025,
     "speed": 431,
-    "timestamp": "2026-01-31T18:27:48.479Z",
-    "lat": 45.63,
-    "lon": -122.5115,
+    "timestamp": "2026-01-31T18:27:50.326Z",
+    "lat": 45.634,
+    "lon": -122.5142,
     "precision": "tracked"
   },
   "flight": {
@@ -13,11 +13,11 @@
     "aircraftType": "737 ",
     "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T18:27:48.478Z"
+    "firstSeen": "2026-01-31T18:27:50.326Z"
   },
-  "overheadScore": 0.76,
+  "overheadScore": 0.78,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-01-31T18:27:48.479Z"
+  "status": "completed",
+  "timestamp": "2026-01-31T18:28:48.890Z"
 }
