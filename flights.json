@@ -224,18 +224,20 @@
   {
     "callsign": "ASA1325",
     "flightNumber": "AS1325",
-    "aircraftType": null,
+    "aircraftType": "B738",
     "origin": "SNA",
     "destination": "SEA",
     "firstSeen": "2026-01-30T16:58:43.950Z",
-    "lastSeen": "2026-01-30T16:58:43.950Z",
-    "duration": 0,
-    "closestDistance": 1.9147937489857,
-    "closestAltitude": 38025,
-    "closestSpeed": 432,
+    "lastSeen": "2026-01-31T16:57:32.613Z",
+    "duration": 86329,
+    "closestDistance": 0.8783854794914455,
+    "closestAltitude": 40000,
+    "closestSpeed": 415,
     "initialDistance": 1.9147937489857,
     "initialAltitude": 38025,
-    "initialSpeed": 432
+    "initialSpeed": 432,
+    "icao": "A6BF5A",
+    "registration": "N534AS"
   },
   {
     "callsign": "ASA504",
