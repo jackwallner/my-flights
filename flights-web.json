@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 1900,
-    "speed": 93,
-    "timestamp": "2026-01-31T20:41:52.816Z",
-    "lat": 45.6347,
-    "lon": -122.5586,
+    "distance": 1.24,
+    "altitude": 33900,
+    "speed": 447,
+    "timestamp": "2026-01-31T20:43:42.918Z",
+    "lat": 45.606,
+    "lon": -122.5177,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N172MR",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-01-31T20:41:52.816Z"
+    "callsign": "N22VK",
+    "aircraftType": "PRM1",
+    "origin": "HSH",
+    "destination": "RNT",
+    "firstSeen": "2026-01-31T20:43:42.917Z"
   },
-  "overheadScore": 1.4,
+  "overheadScore": 1.24,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-01-31T20:41:52.816Z"
+  "status": "completed",
+  "timestamp": "2026-01-31T20:44:42.675Z"
 }
