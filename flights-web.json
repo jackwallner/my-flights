@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 2175,
-    "speed": 144,
-    "timestamp": "2026-01-31T21:45:56.090Z",
-    "lat": 45.615,
-    "lon": -122.5595,
+    "distance": 0.79,
+    "altitude": 34000,
+    "speed": 454,
+    "timestamp": "2026-01-31T21:48:42.766Z",
+    "lat": 45.6267,
+    "lon": -122.5093,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ354",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-01-31T21:45:56.090Z"
+    "callsign": "ASA735",
+    "aircraftType": "B39M",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T21:48:42.762Z"
   },
-  "overheadScore": 1.46,
-  "isOverhead": false,
+  "overheadScore": 0.79,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-01-31T21:46:56.823Z"
+  "status": "tracking",
+  "timestamp": "2026-01-31T21:48:42.766Z"
 }
