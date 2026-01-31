@@ -278,18 +278,20 @@
   {
     "callsign": "ASA705",
     "flightNumber": "AS705",
-    "aircraftType": null,
+    "aircraftType": "B739",
     "origin": "OAK",
     "destination": "SEA",
     "firstSeen": "2026-01-30T17:30:47.445Z",
-    "lastSeen": "2026-01-30T17:30:47.445Z",
-    "duration": 0,
-    "closestDistance": 1.5186713760944675,
+    "lastSeen": "2026-01-31T17:18:41.755Z",
+    "duration": 85674,
+    "closestDistance": 1.3468962642591642,
     "closestAltitude": 36000,
-    "closestSpeed": 389,
+    "closestSpeed": 446,
     "initialDistance": 1.5186713760944675,
     "initialAltitude": 36000,
-    "initialSpeed": 389
+    "initialSpeed": 389,
+    "icao": "A5D007",
+    "registration": "N474AS"
   },
   {
     "callsign": "ASA338",
