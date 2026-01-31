@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 1200,
-    "speed": 108,
-    "timestamp": "2026-01-31T19:49:56.098Z",
-    "lat": 45.636,
-    "lon": -122.4976,
+    "distance": 1.48,
+    "altitude": 36000,
+    "speed": 447,
+    "timestamp": "2026-01-31T19:58:49.689Z",
+    "lat": 45.6115,
+    "lon": -122.499,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6758H",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-01-31T19:49:55.976Z"
+    "callsign": "DAL1714",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-01-30T20:30:26.347Z"
   },
-  "overheadScore": 1.43,
+  "overheadScore": 1.48,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-01-31T19:50:57.845Z"
+  "timestamp": "2026-01-31T19:59:51.556Z"
 }
