@@ -1855,5 +1855,24 @@
     "initialDistance": 1.378072183005431,
     "initialAltitude": 36000,
     "initialSpeed": 435
+  },
+  {
+    "callsign": "DAL2980",
+    "flightNumber": "DL2980",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AB1FFE",
+    "registration": "N816DN",
+    "firstSeen": "2026-01-31T17:12:58.726Z",
+    "lastSeen": "2026-01-31T17:12:58.726Z",
+    "duration": 0,
+    "closestDistance": 0.9668610989736238,
+    "closestAltitude": 37850,
+    "closestSpeed": 439,
+    "initialDistance": 0.9668610989736238,
+    "initialAltitude": 37850,
+    "initialSpeed": 439
   }
 ]
