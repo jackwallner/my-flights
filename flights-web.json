@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 38000,
-    "speed": 437,
-    "timestamp": "2026-01-31T19:42:28.748Z",
-    "lat": 45.6265,
-    "lon": -122.5605,
+    "distance": 1.43,
+    "altitude": 1200,
+    "speed": 108,
+    "timestamp": "2026-01-31T19:49:56.098Z",
+    "lat": 45.636,
+    "lon": -122.4976,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA279",
-    "aircraftType": "B737",
-    "origin": "OAK",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T19:42:28.747Z"
+    "callsign": "N6758H",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-01-31T19:49:55.976Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.43,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-01-31T19:43:26.955Z"
+  "status": "tracking",
+  "timestamp": "2026-01-31T19:49:56.098Z"
 }

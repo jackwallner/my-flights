@@ -2171,5 +2171,24 @@
     "initialDistance": 1.3619142205019759,
     "initialAltitude": 38000,
     "initialSpeed": 437
+  },
+  {
+    "callsign": "N6758H",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A8F1C3",
+    "registration": "N6758H",
+    "firstSeen": "2026-01-31T19:49:55.976Z",
+    "lastSeen": "2026-01-31T19:49:55.976Z",
+    "duration": 0,
+    "closestDistance": 1.4336276911241725,
+    "closestAltitude": 1200,
+    "closestSpeed": 108,
+    "initialDistance": 1.4336276911241725,
+    "initialAltitude": 1200,
+    "initialSpeed": 108
   }
 ]
