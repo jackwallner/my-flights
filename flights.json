@@ -2190,5 +2190,24 @@
     "initialDistance": 1.4336276911241725,
     "initialAltitude": 1200,
     "initialSpeed": 108
+  },
+  {
+    "callsign": "N779SH",
+    "flightNumber": null,
+    "aircraftType": "R22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "AA8C0E",
+    "registration": "N779SH",
+    "firstSeen": "2026-01-31T20:05:27.645Z",
+    "lastSeen": "2026-01-31T20:05:27.645Z",
+    "duration": 0,
+    "closestDistance": 1.4814686349968087,
+    "closestAltitude": 450,
+    "closestSpeed": 75,
+    "initialDistance": 1.4814686349968087,
+    "initialAltitude": 450,
+    "initialSpeed": 75
   }
 ]
