@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 1675,
-    "speed": 87,
-    "timestamp": "2026-01-31T17:54:26.052Z",
-    "lat": 45.6203,
-    "lon": -122.5158,
-    "precision": "high"
+    "distance": 1.08,
+    "altitude": 28775,
+    "speed": 420,
+    "timestamp": "2026-01-31T17:56:29.795Z",
+    "lat": 45.6185,
+    "lon": -122.5044,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-01-31T17:53:27.139Z"
+    "callsign": "SKW5004",
+    "aircraftType": "CRJ",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T17:56:29.794Z"
   },
-  "overheadScore": 0.6,
-  "isOverhead": true,
-  "pathSnapshots": 6,
+  "overheadScore": 1.08,
+  "isOverhead": false,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-01-31T17:55:17.648Z"
+  "timestamp": "2026-01-31T17:57:28.214Z"
 }
