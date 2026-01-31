@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.04,
-    "altitude": 36000,
-    "speed": 433,
-    "timestamp": "2026-01-31T16:30:07.194Z",
-    "lat": 45.6198,
-    "lon": -122.5047,
+    "distance": 1.34,
+    "altitude": 35100,
+    "speed": 435,
+    "timestamp": "2026-01-31T16:31:46.969Z",
+    "lat": 45.6244,
+    "lon": -122.56,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6253",
-    "aircraftType": "E175",
-    "origin": "PHX",
+    "callsign": "ASA416",
+    "aircraftType": "737",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T16:30:07.192Z"
+    "firstSeen": "2026-01-30T16:29:39.731Z"
   },
-  "overheadScore": 1.04,
+  "overheadScore": 1.34,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-01-31T16:30:07.194Z"
+  "status": "completed",
+  "timestamp": "2026-01-31T16:32:45.550Z"
 }
