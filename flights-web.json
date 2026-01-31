@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.17,
-    "altitude": 39975,
-    "speed": 427,
-    "timestamp": "2026-01-31T18:16:19.144Z",
-    "lat": 45.6171,
-    "lon": -122.5028,
+    "distance": 0.76,
+    "altitude": 33050,
+    "speed": 431,
+    "timestamp": "2026-01-31T18:27:48.479Z",
+    "lat": 45.63,
+    "lon": -122.5115,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA702",
+    "callsign": "SWA4430",
     "aircraftType": "737 ",
-    "origin": "SNA",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-01-30T18:19:02.929Z"
+    "firstSeen": "2026-01-31T18:27:48.478Z"
   },
-  "overheadScore": 1.17,
-  "isOverhead": false,
+  "overheadScore": 0.76,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-01-31T18:17:17.293Z"
+  "status": "tracking",
+  "timestamp": "2026-01-31T18:27:48.479Z"
 }
