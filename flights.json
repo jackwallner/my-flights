@@ -2627,5 +2627,24 @@
     "initialDistance": 0.9392298719333027,
     "initialAltitude": 35975,
     "initialSpeed": 437
+  },
+  {
+    "callsign": "N612T",
+    "flightNumber": null,
+    "aircraftType": "BE35",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A7F7D5",
+    "registration": "N612T",
+    "firstSeen": "2026-01-31T23:23:01.580Z",
+    "lastSeen": "2026-01-31T23:23:01.580Z",
+    "duration": 0,
+    "closestDistance": 1.3202498078783818,
+    "closestAltitude": 1400,
+    "closestSpeed": 125,
+    "initialDistance": 1.3202498078783818,
+    "initialAltitude": 1400,
+    "initialSpeed": 125
   }
 ]
