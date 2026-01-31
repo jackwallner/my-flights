@@ -2285,5 +2285,24 @@
     "initialDistance": 1.429919457894369,
     "initialAltitude": 35625,
     "initialSpeed": 474
+  },
+  {
+    "callsign": "N172MR",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A121BE",
+    "registration": "N172MR",
+    "firstSeen": "2026-01-31T20:41:52.816Z",
+    "lastSeen": "2026-01-31T20:41:52.816Z",
+    "duration": 0,
+    "closestDistance": 1.399441824588109,
+    "closestAltitude": 1900,
+    "closestSpeed": 93,
+    "initialDistance": 1.399441824588109,
+    "initialAltitude": 1900,
+    "initialSpeed": 93
   }
 ]
