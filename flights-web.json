@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
-    "altitude": 36000,
-    "speed": 406,
-    "timestamp": "2026-01-31T07:16:48.584Z",
-    "lat": 45.6281,
-    "lon": -122.5101,
+    "distance": 1.23,
+    "altitude": 39875,
+    "speed": 416,
+    "timestamp": "2026-01-31T15:54:59.791Z",
+    "lat": 45.6161,
+    "lon": -122.5019,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA691",
+    "callsign": "DAL2844",
     "aircraftType": "737",
-    "origin": "PSP",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T07:16:48.581Z"
+    "firstSeen": "2026-01-31T15:54:59.790Z"
   },
-  "overheadScore": 0.77,
-  "isOverhead": true,
+  "overheadScore": 1.23,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-01-31T07:16:48.584Z"
+  "status": "completed",
+  "timestamp": "2026-01-31T15:55:59.103Z"
 }

@@ -1718,22 +1718,21 @@
       L.marker([dest.lat, dest.lon], { icon: destIcon }).addTo(map)
         .bindPopup(`<b>${flight.destination}</b><br>${getAirportName(flight.destination)}`);
       
-      // Draw realistic route line that passes near home (Vancouver, WA)
-      // For flights that pass near the PNW, create a path that shows the actual flight corridor
-      const routePoints = calculateRealisticRoute(origin, dest, home);
+      // Draw curved route line (great circle) - solid line for visibility
+      const routePoints = calculateGreatCirclePoints(origin, dest, 100);
       L.polyline(routePoints.map(p => [p.lat, p.lon]), {
         color: '#3b82f6',
         weight: 4,
         opacity: 0.6
       }).addTo(map);
       
-      // Get plane position - use actual position if available, otherwise position on route near home
+      // Get plane position - use actual position if available, otherwise closest point on curved route
       let planePos;
       if (approach.lat && approach.lon) {
         planePos = { lat: approach.lat, lon: approach.lon };
       } else {
-        // Place plane on the route near home
-        planePos = calculatePositionNearHome(home, routePoints);
+        // Calculate closest point on great circle route to home
+        planePos = calculateClosestPointOnGreatCircle(home, routePoints);
       }
       
       // Add airplane marker with rotation based on track/heading if available
@@ -1813,147 +1812,6 @@
       }
       
       return points;
-    }
-    
-    // Calculate a realistic flight route that passes near the observer's home
-    // Uses actual aviation corridors for PNW region when applicable
-    function calculateRealisticRoute(origin, dest, home) {
-      const toRad = deg => deg * Math.PI / 180;
-      const toDeg = rad => rad * 180 / Math.PI;
-      
-      // Check if this is a PNW corridor flight that would pass near Vancouver, WA
-      const pnwAirports = ['SEA', 'PAE', 'BFI', 'PDX', 'GEG', 'BOI', 'RDM', 'EUG', 'MFR', 'YVR', 'YYJ'];
-      const isPNWOrigin = pnwAirports.includes(origin.code || '');
-      const isPNWDest = pnwAirports.includes(dest.code || '');
-      
-      // Check distance from home to the direct route
-      const directDistance = calculateDistanceNM(origin.lat, origin.lon, dest.lat, dest.lon);
-      const distFromHomeToDirect = distancePointToLineNM(home, origin, dest);
-      
-      // If flight passes within ~50 NM of home, create a route that bends toward home
-      if (distFromHomeToDirect < 50 && directDistance > 100) {
-        // Create a 3-point route: origin -> waypoint near home -> dest
-        // The waypoint is placed on the "home side" of the direct route
-        const waypoint = calculateWaypointNearHome(origin, dest, home);
-        
-        // Generate curved segments: origin->waypoint, waypoint->dest
-        const segment1 = calculateGreatCirclePoints(origin, waypoint, 50);
-        const segment2 = calculateGreatCirclePoints(waypoint, dest, 50);
-        
-        // Combine (removing duplicate waypoint point)
-        return [...segment1, ...segment2.slice(1)];
-      }
-      
-      // For other flights, use standard great circle
-      return calculateGreatCirclePoints(origin, dest, 100);
-    }
-    
-    // Calculate a waypoint that pulls the route near home
-    function calculateWaypointNearHome(origin, dest, home) {
-      // Find the point on the direct line closest to home
-      const toRad = deg => deg * Math.PI / 180;
-      const toDeg = rad => rad * 180 / Math.PI;
-      
-      // Project home onto the origin-dest line
-      const lat1 = toRad(origin.lat);
-      const lon1 = toRad(origin.lon);
-      const lat2 = toRad(dest.lat);
-      const lon2 = toRad(dest.lon);
-      const lat3 = toRad(home.lat);
-      const lon3 = toRad(home.lon);
-      
-      // Calculate bearing from origin to dest
-      const dLon12 = lon2 - lon1;
-      const y = Math.sin(dLon12) * Math.cos(lat2);
-      const x = Math.cos(lat1) * Math.sin(lat2) - Math.sin(lat1) * Math.cos(lat2) * Math.cos(dLon12);
-      const bearing12 = Math.atan2(y, x);
-      
-      // Calculate bearing from origin to home
-      const dLon13 = lon3 - lon1;
-      const y3 = Math.sin(dLon13) * Math.cos(lat3);
-      const x3 = Math.cos(lat1) * Math.sin(lat3) - Math.sin(lat1) * Math.cos(lat3) * Math.cos(dLon13);
-      const bearing13 = Math.atan2(y3, x3);
-      
-      // Angular distance origin->home
-      const d13 = Math.acos(Math.sin(lat1) * Math.sin(lat3) + Math.cos(lat1) * Math.cos(lat3) * Math.cos(dLon13));
-      
-      // Cross-track distance (how far home is perpendicular to the route)
-      const crossTrack = Math.asin(Math.sin(d13) * Math.sin(bearing13 - bearing12));
-      
-      // Along-track distance (how far along the route the closest point is)
-      const alongTrack = Math.acos(Math.cos(d13) / Math.abs(Math.cos(crossTrack)));
-      
-      // Calculate the closest point on the great circle
-      const closestLat = Math.asin(Math.sin(lat1) * Math.cos(alongTrack) + Math.cos(lat1) * Math.sin(alongTrack) * Math.cos(bearing12));
-      const closestLon = lon1 + Math.atan2(Math.sin(bearing12) * Math.sin(alongTrack) * Math.cos(lat1), Math.cos(alongTrack) - Math.sin(lat1) * Math.sin(closestLat));
-      
-      // Pull the waypoint toward home (blend between route and home position)
-      // This creates a "detour" that shows planes passing over home
-      const pullFactor = 0.6; // How much to pull toward home (0-1)
-      const waypointLat = toDeg(closestLat) * (1 - pullFactor) + home.lat * pullFactor;
-      const waypointLon = toDeg(closestLon) * (1 - pullFactor) + home.lon * pullFactor;
-      
-      return { lat: waypointLat, lon: waypointLon };
-    }
-    
-    // Calculate distance between two points in NM
-    function calculateDistanceNM(lat1, lon1, lat2, lon2) {
-      const toRad = deg => deg * Math.PI / 180;
-      const R = 3440.065; // Earth radius in NM
-      const dLat = toRad(lat2 - lat1);
-      const dLon = toRad(lon2 - lon1);
-      const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-                Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) *
-                Math.sin(dLon / 2) * Math.sin(dLon / 2);
-      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-      return R * c;
-    }
-    
-    // Calculate perpendicular distance from point to line segment in NM
-    function distancePointToLineNM(point, lineStart, lineEnd) {
-      const dStartEnd = calculateDistanceNM(lineStart.lat, lineStart.lon, lineEnd.lat, lineEnd.lon);
-      const dStartPoint = calculateDistanceNM(lineStart.lat, lineStart.lon, point.lat, point.lon);
-      const dEndPoint = calculateDistanceNM(lineEnd.lat, lineEnd.lon, point.lat, point.lon);
-      
-      // Use cross-track formula for great circle distance
-      const toRad = deg => deg * Math.PI / 180;
-      const lat1 = toRad(lineStart.lat);
-      const lon1 = toRad(lineStart.lon);
-      const lat2 = toRad(lineEnd.lat);
-      const lon2 = toRad(lineEnd.lon);
-      const lat3 = toRad(point.lat);
-      const lon3 = toRad(point.lon);
-      
-      const d13 = Math.acos(Math.sin(lat1) * Math.sin(lat3) + Math.cos(lat1) * Math.cos(lat3) * Math.cos(lon3 - lon1));
-      const bearing13 = Math.atan2(Math.sin(lon3 - lon1) * Math.cos(lat3), 
-                                  Math.cos(lat1) * Math.sin(lat3) - Math.sin(lat1) * Math.cos(lat3) * Math.cos(lon3 - lon1));
-      const bearing12 = Math.atan2(Math.sin(lon2 - lon1) * Math.cos(lat2),
-                                  Math.cos(lat1) * Math.sin(lat2) - Math.sin(lat1) * Math.cos(lat2) * Math.cos(lon2 - lon1));
-      
-      const crossTrack = Math.asin(Math.sin(d13) * Math.sin(bearing13 - bearing12));
-      return Math.abs(crossTrack) * 3440.065; // Convert radians to NM
-    }
-    
-    // Find position on route near home for placing the plane marker
-    function calculatePositionNearHome(home, routePoints) {
-      // Find the point on the route closest to home
-      let closest = routePoints[0];
-      let minDist = Infinity;
-      
-      for (const point of routePoints) {
-        const dist = calculateDistanceNM(point.lat, point.lon, home.lat, home.lon);
-        if (dist < minDist) {
-          minDist = dist;
-          closest = point;
-        }
-      }
-      
-      // Blend slightly toward home so plane appears to be "over" the house
-      const blendFactor = 0.3; // 30% toward home
-      return {
-        lat: closest.lat * (1 - blendFactor) + home.lat * blendFactor,
-        lon: closest.lon * (1 - blendFactor) + home.lon * blendFactor
-      };
     }
     
     function calculateClosestPointOnGreatCircle(home, routePoints) {
