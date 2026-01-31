@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 5350,
-    "speed": 124,
-    "timestamp": "2026-01-31T21:40:44.731Z",
-    "lat": 45.6126,
-    "lon": -122.557,
+    "distance": 1.46,
+    "altitude": 2175,
+    "speed": 144,
+    "timestamp": "2026-01-31T21:45:56.090Z",
+    "lat": 45.615,
+    "lon": -122.5595,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5124B",
-    "aircraftType": "C152",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-01-31T21:40:44.690Z"
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 1.43,
+  "overheadScore": 1.46,
   "isOverhead": false,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-01-31T21:41:54.418Z"
+  "timestamp": "2026-01-31T21:46:56.823Z"
 }

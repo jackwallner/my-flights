@@ -2418,5 +2418,24 @@
     "initialDistance": 1.432247059769563,
     "initialAltitude": 5350,
     "initialSpeed": 124
+  },
+  {
+    "callsign": "BTQ354",
+    "flightNumber": "4B354",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "PDT",
+    "icao": "A031E5",
+    "registration": "N111WG",
+    "firstSeen": "2026-01-31T21:45:56.090Z",
+    "lastSeen": "2026-01-31T21:45:56.090Z",
+    "duration": 0,
+    "closestDistance": 1.455455572286226,
+    "closestAltitude": 2175,
+    "closestSpeed": 144,
+    "initialDistance": 1.455455572286226,
+    "initialAltitude": 2175,
+    "initialSpeed": 144
   }
 ]
