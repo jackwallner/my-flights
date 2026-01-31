@@ -240,18 +240,20 @@
   {
     "callsign": "ASA504",
     "flightNumber": "AS504",
-    "aircraftType": null,
+    "aircraftType": "B738",
     "origin": "LAX",
     "destination": "SEA",
     "firstSeen": "2026-01-30T16:59:50.607Z",
-    "lastSeen": "2026-01-30T16:59:50.607Z",
-    "duration": 0,
+    "lastSeen": "2026-01-31T16:55:32.733Z",
+    "duration": 86142,
     "closestDistance": 1.373694424751165,
     "closestAltitude": 34200,
     "closestSpeed": 413,
     "initialDistance": 1.373694424751165,
     "initialAltitude": 34200,
-    "initialSpeed": 413
+    "initialSpeed": 413,
+    "icao": "A78C43",
+    "registration": "N586AS"
   },
   {
     "callsign": "ASA701",
