@@ -2570,5 +2570,24 @@
     "initialDistance": 1.3285137006019454,
     "initialAltitude": 36000,
     "initialSpeed": 472
+  },
+  {
+    "callsign": "UAL1008",
+    "flightNumber": "UA1008",
+    "aircraftType": "A320",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A620B7",
+    "registration": "N494UA",
+    "firstSeen": "2026-01-31T22:43:42.702Z",
+    "lastSeen": "2026-01-31T22:43:42.702Z",
+    "duration": 0,
+    "closestDistance": 1.3310299181679082,
+    "closestAltitude": 35275,
+    "closestSpeed": 466,
+    "initialDistance": 1.3310299181679082,
+    "initialAltitude": 35275,
+    "initialSpeed": 466
   }
 ]
