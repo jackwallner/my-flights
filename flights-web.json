@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.87,
-    "altitude": 34000,
-    "speed": 453,
-    "timestamp": "2026-01-31T18:41:24.728Z",
-    "lat": 45.6241,
-    "lon": -122.5075,
+    "distance": 1.4,
+    "altitude": 35975,
+    "speed": 449,
+    "timestamp": "2026-01-31T18:43:14.782Z",
+    "lat": 45.6286,
+    "lon": -122.5611,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA642",
-    "aircraftType": "737",
-    "origin": "RNO",
+    "callsign": "UAL2340",
+    "aircraftType": "A319",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-01-30T18:51:55.037Z"
+    "firstSeen": "2026-01-31T18:43:14.781Z"
   },
-  "overheadScore": 0.87,
-  "isOverhead": true,
+  "overheadScore": 1.4,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-01-31T18:41:24.728Z"
+  "timestamp": "2026-01-31T18:43:14.782Z"
 }

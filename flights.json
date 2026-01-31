@@ -2093,5 +2093,24 @@
     "initialDistance": 1.3174991003093404,
     "initialAltitude": 36000,
     "initialSpeed": 463
+  },
+  {
+    "callsign": "UAL2340",
+    "flightNumber": "UA2340",
+    "aircraftType": "A319",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "ABACD2",
+    "registration": "N851UA",
+    "firstSeen": "2026-01-31T18:43:14.781Z",
+    "lastSeen": "2026-01-31T18:43:14.781Z",
+    "duration": 0,
+    "closestDistance": 1.3967108798100956,
+    "closestAltitude": 35975,
+    "closestSpeed": 449,
+    "initialDistance": 1.3967108798100956,
+    "initialAltitude": 35975,
+    "initialSpeed": 449
   }
 ]
