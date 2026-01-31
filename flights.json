@@ -466,18 +466,20 @@
   {
     "callsign": "ASA1368",
     "flightNumber": "AS1368",
-    "aircraftType": null,
+    "aircraftType": "B38M",
     "origin": "SAN",
     "destination": "SEA",
     "firstSeen": "2026-01-30T19:48:06.632Z",
-    "lastSeen": "2026-01-30T19:48:06.632Z",
-    "duration": 0,
-    "closestDistance": 1.4545814751189734,
-    "closestAltitude": 37300,
-    "closestSpeed": 415,
+    "lastSeen": "2026-01-31T19:41:09.053Z",
+    "duration": 85982,
+    "closestDistance": 1.086464045035253,
+    "closestAltitude": 35125,
+    "closestSpeed": 451,
     "initialDistance": 1.4545814751189734,
     "initialAltitude": 37300,
-    "initialSpeed": 415
+    "initialSpeed": 415,
+    "icao": "AB349C",
+    "registration": "N821AK"
   },
   {
     "callsign": "SKW3735",
