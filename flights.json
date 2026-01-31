@@ -2209,5 +2209,24 @@
     "initialDistance": 1.4814686349968087,
     "initialAltitude": 450,
     "initialSpeed": 75
+  },
+  {
+    "callsign": "N756YC",
+    "flightNumber": null,
+    "aircraftType": "T206",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "AA327C",
+    "registration": "N756YC",
+    "firstSeen": "2026-01-31T20:08:49.499Z",
+    "lastSeen": "2026-01-31T20:08:49.499Z",
+    "duration": 0,
+    "closestDistance": 1.4716203177926133,
+    "closestAltitude": 1775,
+    "closestSpeed": 139,
+    "initialDistance": 1.4716203177926133,
+    "initialAltitude": 1775,
+    "initialSpeed": 139
   }
 ]
