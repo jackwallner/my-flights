@@ -1874,5 +1874,24 @@
     "initialDistance": 0.9668610989736238,
     "initialAltitude": 37850,
     "initialSpeed": 439
+  },
+  {
+    "callsign": "ASA133",
+    "flightNumber": "AS133",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "EUG",
+    "destination": "SEA",
+    "icao": "AAE59E",
+    "registration": "N801AK",
+    "firstSeen": "2026-01-31T17:13:56.613Z",
+    "lastSeen": "2026-01-31T17:13:56.613Z",
+    "duration": 0,
+    "closestDistance": 1.145643677918289,
+    "closestAltitude": 30000,
+    "closestSpeed": 431,
+    "initialDistance": 1.145643677918289,
+    "initialAltitude": 30000,
+    "initialSpeed": 431
   }
 ]
