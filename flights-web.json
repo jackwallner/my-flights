@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.75,
-    "altitude": 38000,
-    "speed": 427,
-    "timestamp": "2026-01-31T16:13:42.845Z",
-    "lat": 45.6306,
-    "lon": -122.512,
+    "distance": 1.04,
+    "altitude": 36000,
+    "speed": 433,
+    "timestamp": "2026-01-31T16:30:07.194Z",
+    "lat": 45.6198,
+    "lon": -122.5047,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA323",
-    "aircraftType": "B39M",
-    "origin": "RNO",
+    "callsign": "SKW6253",
+    "aircraftType": "E175",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T16:13:42.843Z"
+    "firstSeen": "2026-01-31T16:30:07.192Z"
   },
-  "overheadScore": 0.75,
-  "isOverhead": true,
+  "overheadScore": 1.04,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-01-31T16:14:40.605Z"
+  "status": "tracking",
+  "timestamp": "2026-01-31T16:30:07.194Z"
 }
