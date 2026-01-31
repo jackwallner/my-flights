@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.08,
-    "altitude": 28775,
-    "speed": 420,
-    "timestamp": "2026-01-31T17:56:29.795Z",
-    "lat": 45.6185,
-    "lon": -122.5044,
+    "distance": 1.28,
+    "altitude": 36000,
+    "speed": 408,
+    "timestamp": "2026-01-31T18:01:25.463Z",
+    "lat": 45.6151,
+    "lon": -122.5013,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5004",
-    "aircraftType": "CRJ",
-    "origin": "PHX",
+    "callsign": "SKW3345",
+    "aircraftType": "E175",
+    "origin": "FAT",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T17:56:29.794Z"
+    "firstSeen": "2026-01-31T18:01:25.462Z"
   },
-  "overheadScore": 1.08,
+  "overheadScore": 1.28,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-01-31T17:57:28.214Z"
+  "status": "tracking",
+  "timestamp": "2026-01-31T18:01:25.464Z"
 }
