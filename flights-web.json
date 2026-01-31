@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.79,
-    "altitude": 35875,
-    "speed": 451,
-    "timestamp": "2026-01-31T22:11:03.178Z",
-    "lat": 45.6267,
-    "lon": -122.5093,
+    "distance": 1.05,
+    "altitude": 35700,
+    "speed": 454,
+    "timestamp": "2026-01-31T22:24:57.031Z",
+    "lat": 45.6195,
+    "lon": -122.5045,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA315",
-    "aircraftType": "B39M",
-    "origin": "PSP",
+    "callsign": "ASA548",
+    "aircraftType": "737",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T22:11:03.176Z"
+    "firstSeen": "2026-01-31T22:24:57.030Z"
   },
-  "overheadScore": 0.79,
-  "isOverhead": true,
+  "overheadScore": 1.05,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-01-31T22:12:10.810Z"
+  "status": "tracking",
+  "timestamp": "2026-01-31T22:24:57.031Z"
 }
