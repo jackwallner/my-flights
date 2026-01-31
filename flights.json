@@ -2323,5 +2323,24 @@
     "initialDistance": 1.237433513132611,
     "initialAltitude": 33900,
     "initialSpeed": 447
+  },
+  {
+    "callsign": "SKW4439",
+    "flightNumber": "DL4439",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A35B0B",
+    "registration": "N315SY",
+    "firstSeen": "2026-01-31T20:59:06.888Z",
+    "lastSeen": "2026-01-31T20:59:06.888Z",
+    "duration": 0,
+    "closestDistance": 1.4258983585183014,
+    "closestAltitude": 34000,
+    "closestSpeed": 417,
+    "initialDistance": 1.4258983585183014,
+    "initialAltitude": 34000,
+    "initialSpeed": 417
   }
 ]
