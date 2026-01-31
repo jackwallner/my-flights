@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 1100,
-    "speed": 79,
-    "timestamp": "2026-01-31T22:48:23.199Z",
-    "lat": 45.6025,
-    "lon": -122.5274,
-    "precision": "high"
+    "distance": 0.94,
+    "altitude": 35975,
+    "speed": 437,
+    "timestamp": "2026-01-31T23:18:37.871Z",
+    "lat": 45.6225,
+    "lon": -122.5061,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5094L",
-    "aircraftType": "C152",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-01-31T22:47:23.955Z"
+    "callsign": "SKW5403",
+    "aircraftType": "E175",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T23:18:37.870Z"
   },
-  "overheadScore": 1.37,
-  "isOverhead": false,
-  "pathSnapshots": 3,
+  "overheadScore": 0.94,
+  "isOverhead": true,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-01-31T22:48:44.170Z"
+  "timestamp": "2026-01-31T23:19:42.350Z"
 }
