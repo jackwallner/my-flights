@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1,
-    "altitude": 1400,
-    "speed": 76,
-    "timestamp": "2026-01-31T21:27:57.846Z",
-    "lat": 45.609,
-    "lon": -122.5331,
-    "precision": "high"
+    "distance": 1.43,
+    "altitude": 5350,
+    "speed": 124,
+    "timestamp": "2026-01-31T21:40:44.731Z",
+    "lat": 45.6126,
+    "lon": -122.557,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5201H",
-    "aircraftType": "C172",
-    "origin": "TTD",
+    "callsign": "N5124B",
+    "aircraftType": "C152",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-01-30T20:33:02.235Z"
+    "firstSeen": "2026-01-31T21:40:44.690Z"
   },
-  "overheadScore": 1,
-  "isOverhead": true,
-  "pathSnapshots": 5,
-  "status": "completed",
-  "timestamp": "2026-01-31T21:28:40.273Z"
+  "overheadScore": 1.43,
+  "isOverhead": false,
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-01-31T21:40:44.731Z"
 }

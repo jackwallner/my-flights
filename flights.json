@@ -2399,5 +2399,24 @@
     "initialDistance": 0.7466114393338283,
     "initialAltitude": 35150,
     "initialSpeed": 446
+  },
+  {
+    "callsign": "N5124B",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A66BC3",
+    "registration": "N5124B",
+    "firstSeen": "2026-01-31T21:40:44.690Z",
+    "lastSeen": "2026-01-31T21:40:44.690Z",
+    "duration": 0,
+    "closestDistance": 1.432247059769563,
+    "closestAltitude": 5350,
+    "closestSpeed": 124,
+    "initialDistance": 1.432247059769563,
+    "initialAltitude": 5350,
+    "initialSpeed": 124
   }
 ]
