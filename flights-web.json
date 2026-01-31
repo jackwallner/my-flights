@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.32,
-    "altitude": 1400,
-    "speed": 125,
-    "timestamp": "2026-01-31T23:23:01.581Z",
-    "lat": 45.6052,
-    "lon": -122.5153,
+    "distance": 1.08,
+    "altitude": 35975,
+    "speed": 446,
+    "timestamp": "2026-01-31T23:34:00.502Z",
+    "lat": 45.6189,
+    "lon": -122.504,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N612T",
-    "aircraftType": "BE35",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-01-31T23:23:01.580Z"
+    "callsign": "ASA741",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T23:34:00.502Z"
   },
-  "overheadScore": 1.32,
+  "overheadScore": 1.08,
   "isOverhead": false,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-01-31T23:24:10.787Z"
+  "timestamp": "2026-01-31T23:35:07.079Z"
 }
