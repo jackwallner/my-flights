@@ -2016,43 +2016,6 @@
           const historyData = await historyResponse.json();
           if (Array.isArray(historyData)) {
             flightHistory = historyData;
-            
-            // Add current flight to history table if it exists and has data
-            if (data.status !== 'waiting' && data.flight) {
-              const currentFlight = data.flight;
-              const approach = data.closestApproach || {};
-              
-              // Check if this flight is already in history (by callsign and firstSeen)
-              const existingIndex = flightHistory.findIndex(f => 
-                f.callsign === currentFlight.callsign && 
-                f.firstSeen === currentFlight.firstSeen
-              );
-              
-              const flightEntry = {
-                callsign: currentFlight.callsign,
-                flightNumber: currentFlight.flightNumber || null,
-                aircraftType: currentFlight.aircraftType || null,
-                origin: currentFlight.origin,
-                destination: currentFlight.destination,
-                firstSeen: currentFlight.firstSeen,
-                lastSeen: data.timestamp,
-                duration: currentFlight.duration || 0,
-                closestDistance: approach.distance || 0,
-                closestAltitude: approach.altitude || 0,
-                closestSpeed: approach.speed || 0,
-                icao: currentFlight.icao,
-                registration: currentFlight.registration
-              };
-              
-              if (existingIndex >= 0) {
-                // Update existing entry with latest data
-                flightHistory[existingIndex] = { ...flightHistory[existingIndex], ...flightEntry };
-              } else {
-                // Add new entry at the beginning (most recent)
-                flightHistory.unshift(flightEntry);
-              }
-            }
-            
             updateStats();
             renderHistoryTable();
           }
