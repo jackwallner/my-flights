@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.09,
-    "altitude": 36000,
-    "speed": 461,
-    "timestamp": "2026-02-01T01:37:36.885Z",
-    "lat": 45.6187,
-    "lon": -122.504,
+    "distance": 0.76,
+    "altitude": 35575,
+    "speed": 475,
+    "timestamp": "2026-02-01T01:46:00.781Z",
+    "lat": 45.6317,
+    "lon": -122.5125,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2585",
+    "callsign": "DAL2880",
     "aircraftType": "737",
-    "origin": "PSP",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T00:56:22.074Z"
+    "firstSeen": "2026-01-31T05:03:26.725Z"
   },
-  "overheadScore": 1.09,
-  "isOverhead": false,
+  "overheadScore": 0.76,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T01:38:39.279Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T01:46:00.781Z"
 }
