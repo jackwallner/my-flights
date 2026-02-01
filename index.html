@@ -581,6 +581,38 @@
       background: var(--bg-hover);
     }
 
+    /* Current flight row highlighting */
+    tr.current-flight-row td {
+      background: rgba(59, 130, 246, 0.15);
+      border-left: 3px solid var(--accent);
+    }
+    
+    tr.current-flight-row:hover td {
+      background: rgba(59, 130, 246, 0.25);
+    }
+    
+    [data-theme="dark"] tr.current-flight-row td {
+      background: rgba(59, 130, 246, 0.2);
+    }
+    
+    [data-theme="dark"] tr.current-flight-row:hover td {
+      background: rgba(59, 130, 246, 0.3);
+    }
+
+    /* Current badge */
+    .current-badge {
+      display: inline-block;
+      margin-left: 6px;
+      padding: 2px 6px;
+      background: var(--accent);
+      color: white;
+      font-size: 10px;
+      font-weight: 600;
+      text-transform: uppercase;
+      border-radius: 4px;
+      letter-spacing: 0.05em;
+    }
+
     /* Flight Cell */
     .flight-cell {
       display: flex;
@@ -931,10 +963,6 @@
         <div class="stat-item">
           <div id="private-flights" class="stat-value">-</div>
           <div class="stat-label">Private</div>
-        </div>
-        <div class="stat-item">
-          <div id="last-plane" class="stat-value">-</div>
-          <div class="stat-label">Last Plane</div>
         </div>
       </div>
       
@@ -1543,26 +1571,6 @@
       
       const privateCount = filtered.filter(f => detectFlightType(f) === 'private').length;
       document.getElementById('private-flights').textContent = privateCount;
-      
-      // Last plane detected time
-      const lastPlaneTime = filtered.length > 0
-        ? Math.max(...filtered.map(f => new Date(f.lastSeen || f.firstSeen || 0).getTime()))
-        : 0;
-      document.getElementById('last-plane').textContent = lastPlaneTime > 0
-        ? formatTimeAgo(lastPlaneTime)
-        : '-';
-    }
-    
-    function formatTimeAgo(timestamp) {
-      const now = Date.now();
-      const diff = now - timestamp;
-      const minutes = Math.floor(diff / 60000);
-      const hours = Math.floor(diff / 3600000);
-      
-      if (minutes < 1) return 'Now';
-      if (minutes < 60) return `${minutes}m ago`;
-      if (hours < 24) return `${hours}h ago`;
-      return `${Math.floor(hours / 24)}d ago`;
     }
 
     function renderCurrentFlight(data) {
@@ -1623,7 +1631,7 @@
             <span class="map-icon">🗺️</span>
             <span class="map-title">Flight Path</span>
           </div>
-          <div id="flight-map" style="width: 100%; height: 220px; border-radius: 8px;"></div>
+          <div id="flight-map" style="width: 100%; height: 350px; border-radius: 8px;"></div>
           <div class="map-route">
             <span class="map-airport" title="${getAirportName(flight.origin)}">${flight.origin || '???'}</span>
             <span class="map-arrow">→</span>
@@ -1718,21 +1726,25 @@
       L.marker([dest.lat, dest.lon], { icon: destIcon }).addTo(map)
         .bindPopup(`<b>${flight.destination}</b><br>${getAirportName(flight.destination)}`);
       
-      // Draw curved route line (great circle) - solid line for visibility
-      const routePoints = calculateGreatCirclePoints(origin, dest, 100);
-      L.polyline(routePoints.map(p => [p.lat, p.lon]), {
+      // Draw route line
+      L.polyline([[origin.lat, origin.lon], [dest.lat, dest.lon]], {
         color: '#3b82f6',
-        weight: 4,
-        opacity: 0.6
+        weight: 3,
+        opacity: 0.7,
+        dashArray: '10, 8'
       }).addTo(map);
       
-      // Get plane position - use actual position if available, otherwise closest point on curved route
+      // Get plane position - use actual position if available, otherwise closest point on route
       let planePos;
       if (approach.lat && approach.lon) {
         planePos = { lat: approach.lat, lon: approach.lon };
       } else {
-        // Calculate closest point on great circle route to home
-        planePos = calculateClosestPointOnGreatCircle(home, routePoints);
+        // Calculate closest point on route to home
+        planePos = calculateClosestPointOnLine(
+          home.lat, home.lon,
+          origin.lat, origin.lon,
+          dest.lat, dest.lon
+        );
       }
       
       // Add airplane marker with rotation based on track/heading if available
@@ -1782,55 +1794,6 @@
                                       Math.cos(d) - Math.sin(lat1) * Math.sin(lat2));
       
       return { lat: toDeg(lat2), lon: toDeg(lon2) };
-    }
-    
-    function calculateGreatCirclePoints(origin, dest, numPoints) {
-      const points = [];
-      const toRad = deg => deg * Math.PI / 180;
-      const toDeg = rad => rad * 180 / Math.PI;
-      
-      const lat1 = toRad(origin.lat);
-      const lon1 = toRad(origin.lon);
-      const lat2 = toRad(dest.lat);
-      const lon2 = toRad(dest.lon);
-      
-      const d = Math.acos(Math.sin(lat1) * Math.sin(lat2) + Math.cos(lat1) * Math.cos(lat2) * Math.cos(lon2 - lon1));
-      
-      for (let i = 0; i <= numPoints; i++) {
-        const f = i / numPoints;
-        const A = Math.sin((1 - f) * d) / Math.sin(d);
-        const B = Math.sin(f * d) / Math.sin(d);
-        
-        const x = A * Math.cos(lat1) * Math.cos(lon1) + B * Math.cos(lat2) * Math.cos(lon2);
-        const y = A * Math.cos(lat1) * Math.sin(lon1) + B * Math.cos(lat2) * Math.sin(lon2);
-        const z = A * Math.sin(lat1) + B * Math.sin(lat2);
-        
-        const lat = toDeg(Math.atan2(z, Math.sqrt(x * x + y * y)));
-        const lon = toDeg(Math.atan2(y, x));
-        
-        points.push({ lat, lon });
-      }
-      
-      return points;
-    }
-    
-    function calculateClosestPointOnGreatCircle(home, routePoints) {
-      // Find the closest point on the great circle route to home
-      let closest = routePoints[0];
-      let minDist = Infinity;
-      
-      for (const point of routePoints) {
-        const dist = Math.sqrt(
-          Math.pow(point.lat - home.lat, 2) + 
-          Math.pow(point.lon - home.lon, 2)
-        );
-        if (dist < minDist) {
-          minDist = dist;
-          closest = point;
-        }
-      }
-      
-      return closest;
     }
     
     function calculateClosestPointOnLine(px, py, x1, y1, x2, y2) {
@@ -1913,12 +1876,13 @@
         const flightType = detectFlightType(f);
         const distance = f.closestDistance || f.distance || 0;
         const distClass = getDistanceClass(distance);
+        const isCurrent = f.isCurrent;
         
         const typeIcons = { commercial: '✈️', private: '🚁', cargo: '📦', unknown: '?' };
         const typeClasses = { commercial: 'commercial', private: 'private', cargo: 'cargo', unknown: 'unknown' };
         
         return `
-          <tr>
+          <tr class="${isCurrent ? 'current-flight-row' : ''}">
             <td>
               <div class="flight-cell">
                 <div class="flight-icon-small ${flightType === 'private' ? 'private' : flightType === 'cargo' ? 'cargo' : ''}">
@@ -1959,6 +1923,7 @@
               <span class="type-badge ${typeClasses[flightType]}">
                 ${flightType.charAt(0).toUpperCase() + flightType.slice(1)}
               </span>
+              ${isCurrent ? '<span class="current-badge">Current</span>' : ''}
             </td>
           </tr>
         `;
@@ -2015,7 +1980,36 @@
         if (historyResponse.ok) {
           const historyData = await historyResponse.json();
           if (Array.isArray(historyData)) {
-            flightHistory = historyData;
+            // Merge current flight into history if it's a valid completed flight
+            let mergedHistory = [...historyData];
+            if (data.status === 'completed' && data.flight && data.flight.callsign) {
+              const currentFlight = {
+                callsign: data.flight.callsign,
+                flightNumber: data.flight.flightNumber || null,
+                aircraftType: data.flight.aircraftType || null,
+                origin: data.flight.origin,
+                destination: data.flight.destination,
+                firstSeen: data.flight.firstSeen,
+                lastSeen: data.timestamp || new Date().toISOString(),
+                closestDistance: data.closestApproach?.distance,
+                closestAltitude: data.closestApproach?.altitude,
+                closestSpeed: data.closestApproach?.speed,
+                // Mark as current so we can highlight it
+                isCurrent: true
+              };
+              
+              // Check if this flight is already in history (by callsign and firstSeen)
+              const exists = mergedHistory.some(f => 
+                f.callsign === currentFlight.callsign && 
+                f.firstSeen === currentFlight.firstSeen
+              );
+              
+              if (!exists) {
+                mergedHistory.unshift(currentFlight);
+              }
+            }
+            
+            flightHistory = mergedHistory;
             updateStats();
             renderHistoryTable();
           }
