@@ -3298,5 +3298,24 @@
     "initialDistance": 0.8791567772697291,
     "initialAltitude": 38000,
     "initialSpeed": 413
+  },
+  {
+    "callsign": "ASA656",
+    "flightNumber": "AS656",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A2F95C",
+    "registration": "N291BT",
+    "firstSeen": "2026-02-01T18:13:26.729Z",
+    "lastSeen": "2026-02-01T18:13:26.729Z",
+    "duration": 0,
+    "closestDistance": 1.331768400960292,
+    "closestAltitude": 32000,
+    "closestSpeed": 473,
+    "initialDistance": 1.331768400960292,
+    "initialAltitude": 32000,
+    "initialSpeed": 473
   }
 ]
