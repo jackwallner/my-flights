@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 34000,
-    "speed": 469,
-    "timestamp": "2026-02-01T15:05:16.368Z",
-    "lat": 45.6156,
-    "lon": -122.5576,
+    "distance": 1.49,
+    "altitude": 29975,
+    "speed": 529,
+    "timestamp": "2026-02-01T15:07:45.832Z",
+    "lat": 45.6315,
+    "lon": -122.5624,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA68",
-    "aircraftType": "737",
+    "callsign": "DAL2721",
+    "aircraftType": "A220",
     "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-01T15:05:16.367Z"
+    "firstSeen": "2026-01-31T15:14:53.781Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T15:06:12.894Z"
+  "timestamp": "2026-02-01T15:08:42.514Z"
 }
