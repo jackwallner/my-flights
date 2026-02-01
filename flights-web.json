@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.49,
-    "altitude": 29975,
-    "speed": 529,
-    "timestamp": "2026-02-01T15:07:45.832Z",
-    "lat": 45.6315,
-    "lon": -122.5624,
+    "distance": 1.42,
+    "altitude": 34000,
+    "speed": 477,
+    "timestamp": "2026-02-01T15:35:29.773Z",
+    "lat": 45.6135,
+    "lon": -122.5574,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2721",
-    "aircraftType": "A220",
-    "origin": "SFO",
+    "callsign": "SKW4075",
+    "aircraftType": "E175",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T15:14:53.781Z"
+    "firstSeen": "2026-01-31T15:43:28.091Z"
   },
-  "overheadScore": 1.49,
+  "overheadScore": 1.42,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T15:08:42.514Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T15:35:29.773Z"
 }
