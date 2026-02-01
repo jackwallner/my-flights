@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 36000,
-    "speed": 464,
-    "timestamp": "2026-02-01T16:50:57.884Z",
-    "lat": 45.6134,
-    "lon": -122.5004,
+    "distance": 0.77,
+    "altitude": 33900,
+    "speed": 447,
+    "timestamp": "2026-02-01T16:53:33.205Z",
+    "lat": 45.6288,
+    "lon": -122.5106,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA504",
-    "aircraftType": "B39M",
-    "origin": "LAX",
+    "callsign": "ASA701",
+    "aircraftType": "737",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-01-30T16:59:50.607Z"
+    "firstSeen": "2026-01-30T17:02:55.501Z"
   },
-  "overheadScore": 1.36,
-  "isOverhead": false,
+  "overheadScore": 0.77,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T16:51:55.101Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T16:53:33.205Z"
 }
