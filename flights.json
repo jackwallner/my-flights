@@ -3469,5 +3469,24 @@
     "initialDistance": 0.853324771506679,
     "initialAltitude": 40000,
     "initialSpeed": 403
+  },
+  {
+    "callsign": "N",
+    "flightNumber": null,
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": null,
+    "icao": "A899AF",
+    "registration": "N653UP",
+    "firstSeen": "2026-02-01T21:51:26.633Z",
+    "lastSeen": "2026-02-01T21:51:26.633Z",
+    "duration": 0,
+    "closestDistance": 0.7386409612818416,
+    "closestAltitude": 40000,
+    "closestSpeed": 431,
+    "initialDistance": 0.7386409612818416,
+    "initialAltitude": 40000,
+    "initialSpeed": 431
   }
 ]

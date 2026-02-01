@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
-    "altitude": 33750,
-    "speed": 442,
-    "timestamp": "2026-02-01T21:40:32.103Z",
-    "lat": 45.6276,
-    "lon": -122.5101,
+    "distance": 0.74,
+    "altitude": 40000,
+    "speed": 431,
+    "timestamp": "2026-02-01T21:51:26.634Z",
+    "lat": 45.6148,
+    "lon": -122.5189,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1045",
-    "aircraftType": "737",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T22:27:28.603Z"
+    "callsign": "N",
+    "aircraftType": "E55P",
+    "origin": "PSP",
+    "destination": null,
+    "firstSeen": "2026-02-01T21:51:26.633Z"
   },
-  "overheadScore": 0.77,
+  "overheadScore": 0.74,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T21:41:29.728Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T21:51:26.634Z"
 }
