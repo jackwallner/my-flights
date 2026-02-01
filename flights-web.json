@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 32025,
-    "speed": 473,
-    "timestamp": "2026-02-01T16:28:45.712Z",
-    "lat": 45.6169,
-    "lon": -122.5581,
+    "distance": 0.88,
+    "altitude": 38000,
+    "speed": 413,
+    "timestamp": "2026-02-01T16:44:37.222Z",
+    "lat": 45.6123,
+    "lon": -122.5378,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA416",
-    "aircraftType": "B39M",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-01-30T16:29:39.731Z"
+    "callsign": "N149WW",
+    "aircraftType": "Cita",
+    "origin": "BUR",
+    "destination": "BFI",
+    "firstSeen": "2026-02-01T16:44:37.220Z"
   },
-  "overheadScore": 1.36,
-  "isOverhead": false,
+  "overheadScore": 0.88,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T16:29:42.237Z"
+  "timestamp": "2026-02-01T16:45:33.678Z"
 }

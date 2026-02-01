@@ -3279,5 +3279,24 @@
     "initialDistance": 1.3258634128947355,
     "initialAltitude": 32000,
     "initialSpeed": 482
+  },
+  {
+    "callsign": "N149WW",
+    "flightNumber": null,
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "BFI",
+    "icao": "A0C628",
+    "registration": "N149WW",
+    "firstSeen": "2026-02-01T16:44:37.220Z",
+    "lastSeen": "2026-02-01T16:44:37.220Z",
+    "duration": 0,
+    "closestDistance": 0.8791567772697291,
+    "closestAltitude": 38000,
+    "closestSpeed": 413,
+    "initialDistance": 0.8791567772697291,
+    "initialAltitude": 38000,
+    "initialSpeed": 413
   }
 ]
