@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.86,
-    "altitude": 30000,
-    "speed": 491,
-    "timestamp": "2026-02-01T21:20:06.544Z",
-    "lat": 45.6122,
-    "lon": -122.5366,
+    "distance": 1.42,
+    "altitude": 34000,
+    "speed": 406,
+    "timestamp": "2026-02-01T21:24:39.445Z",
+    "lat": 45.613,
+    "lon": -122.557,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CES586",
-    "aircraftType": "777",
-    "origin": "LAX",
-    "destination": "PVG",
-    "firstSeen": "2026-02-01T21:20:06.542Z"
+    "callsign": "SKW3736",
+    "aircraftType": "E175",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-01-30T20:57:13.756Z"
   },
-  "overheadScore": 0.86,
-  "isOverhead": true,
+  "overheadScore": 1.42,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T21:21:03.235Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T21:24:39.445Z"
 }
