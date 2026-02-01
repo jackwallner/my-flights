@@ -3336,5 +3336,24 @@
     "initialDistance": 1.1230225360641308,
     "initialAltitude": 34000,
     "initialSpeed": 446
+  },
+  {
+    "callsign": "N383HC",
+    "flightNumber": null,
+    "aircraftType": "AC90",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": "TIW",
+    "icao": "A46721",
+    "registration": "N383HC",
+    "firstSeen": "2026-02-01T20:05:46.325Z",
+    "lastSeen": "2026-02-01T20:05:46.325Z",
+    "duration": 0,
+    "closestDistance": 1.468369646967338,
+    "closestAltitude": 20000,
+    "closestSpeed": 275,
+    "initialDistance": 1.468369646967338,
+    "initialAltitude": 20000,
+    "initialSpeed": 275
   }
 ]

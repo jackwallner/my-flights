@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 23975,
-    "speed": 388,
-    "timestamp": "2026-02-01T19:45:16.927Z",
-    "lat": 45.6209,
-    "lon": -122.5596,
+    "distance": 1.47,
+    "altitude": 20000,
+    "speed": 275,
+    "timestamp": "2026-02-01T20:05:46.326Z",
+    "lat": 45.6267,
+    "lon": -122.4932,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL976",
-    "aircraftType": "A220",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T19:39:39.397Z"
+    "callsign": "N383HC",
+    "aircraftType": "AC90",
+    "origin": "RDM",
+    "destination": "TIW",
+    "firstSeen": "2026-02-01T20:05:46.325Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.47,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T19:46:13.714Z"
+  "timestamp": "2026-02-01T20:06:42.621Z"
 }
