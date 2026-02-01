@@ -2722,5 +2722,24 @@
     "initialDistance": 1.3354160268189623,
     "initialAltitude": 36000,
     "initialSpeed": 450
+  },
+  {
+    "callsign": "ASA1342",
+    "flightNumber": "AS1342",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A6BF5A",
+    "registration": "N534AS",
+    "firstSeen": "2026-02-01T00:00:44.419Z",
+    "lastSeen": "2026-02-01T00:00:44.419Z",
+    "duration": 0,
+    "closestDistance": 1.3234576516333136,
+    "closestAltitude": 36650,
+    "closestSpeed": 459,
+    "initialDistance": 1.3234576516333136,
+    "initialAltitude": 36650,
+    "initialSpeed": 459
   }
 ]
