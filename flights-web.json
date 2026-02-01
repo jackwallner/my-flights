@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.45,
-    "altitude": 35300,
-    "speed": 472,
-    "timestamp": "2026-02-01T03:21:19.085Z",
-    "lat": 45.612,
-    "lon": -122.4994,
+    "distance": 1.33,
+    "altitude": 36075,
+    "speed": 480,
+    "timestamp": "2026-02-01T03:26:02.429Z",
+    "lat": 45.6199,
+    "lon": -122.5589,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA691",
-    "aircraftType": "B39M",
-    "origin": "PSP",
+    "callsign": "ABX3111",
+    "aircraftType": "767",
+    "origin": "SCK",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T07:16:48.581Z"
+    "firstSeen": "2026-02-01T03:26:02.427Z"
   },
-  "overheadScore": 1.45,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T03:22:20.953Z"
+  "timestamp": "2026-02-01T03:27:07.747Z"
 }
