@@ -3393,5 +3393,24 @@
     "initialDistance": 1.255545348259714,
     "initialAltitude": 38000,
     "initialSpeed": 477
+  },
+  {
+    "callsign": "DA42",
+    "flightNumber": null,
+    "aircraftType": "DA42",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-01T21:10:55.291Z",
+    "lastSeen": "2026-02-01T21:10:55.291Z",
+    "duration": 0,
+    "closestDistance": 1.2397528705203478,
+    "closestAltitude": 1800,
+    "closestSpeed": 110,
+    "initialDistance": 1.2397528705203478,
+    "initialAltitude": 1800,
+    "initialSpeed": 110
   }
 ]
