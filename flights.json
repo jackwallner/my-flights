@@ -88,18 +88,20 @@
   {
     "callsign": "ASA607",
     "flightNumber": "AS607",
-    "aircraftType": null,
+    "aircraftType": "B39M",
     "origin": "ONT",
     "destination": "SEA",
     "firstSeen": "2026-01-30T16:01:17.761Z",
-    "lastSeen": "2026-01-30T16:01:17.761Z",
-    "duration": 0,
+    "lastSeen": "2026-02-01T15:55:50.349Z",
+    "duration": 172473,
     "closestDistance": 0.8808728294807202,
     "closestAltitude": 36000,
     "closestSpeed": 416,
     "initialDistance": 0.8808728294807202,
     "initialAltitude": 36000,
-    "initialSpeed": 416
+    "initialSpeed": 416,
+    "icao": "ACF48F",
+    "registration": "N934AK"
   },
   {
     "callsign": "N724KP",
