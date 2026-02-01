@@ -2912,5 +2912,24 @@
     "initialDistance": 1.2745679478419738,
     "initialAltitude": 33050,
     "initialSpeed": 455
+  },
+  {
+    "callsign": "BTQ356",
+    "flightNumber": "4B356",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "PDT",
+    "icao": "A031E5",
+    "registration": "N111WG",
+    "firstSeen": "2026-02-01T01:16:07.516Z",
+    "lastSeen": "2026-02-01T01:16:07.516Z",
+    "duration": 0,
+    "closestDistance": 1.316089365181045,
+    "closestAltitude": 2000,
+    "closestSpeed": 143,
+    "initialDistance": 1.316089365181045,
+    "initialAltitude": 2000,
+    "initialSpeed": 143
   }
 ]
