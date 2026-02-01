@@ -2760,5 +2760,24 @@
     "initialDistance": 1.1181344918525824,
     "initialAltitude": 2400,
     "initialSpeed": 80
+  },
+  {
+    "callsign": "N12648",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A06D01",
+    "registration": "N12648",
+    "firstSeen": "2026-02-01T00:08:31.220Z",
+    "lastSeen": "2026-02-01T00:08:31.220Z",
+    "duration": 0,
+    "closestDistance": 1.4581011703437747,
+    "closestAltitude": 1725,
+    "closestSpeed": 117,
+    "initialDistance": 1.4581011703437747,
+    "initialAltitude": 1725,
+    "initialSpeed": 117
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.11,
-    "altitude": 35400,
-    "speed": 459,
-    "timestamp": "2026-02-01T00:05:51.197Z",
-    "lat": 45.6184,
-    "lon": -122.5037,
+    "distance": 1.46,
+    "altitude": 1725,
+    "speed": 117,
+    "timestamp": "2026-02-01T00:08:31.221Z",
+    "lat": 45.6026,
+    "lon": -122.5157,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA403",
-    "aircraftType": "B39M",
-    "origin": "PSP",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T00:26:00.641Z"
+    "callsign": "N12648",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-01T00:08:31.220Z"
   },
-  "overheadScore": 1.11,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T00:06:55.167Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T00:08:31.221Z"
 }
