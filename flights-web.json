@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.26,
-    "altitude": 38000,
-    "speed": 477,
-    "timestamp": "2026-02-01T21:02:10.024Z",
-    "lat": 45.6121,
-    "lon": -122.5049,
+    "distance": 1.05,
+    "altitude": 34000,
+    "speed": 419,
+    "timestamp": "2026-02-01T21:04:08.681Z",
+    "lat": 45.6082,
+    "lon": -122.5226,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "JZA845",
-    "aircraftType": "CRJ",
-    "origin": "SFO",
-    "destination": "YVR",
-    "firstSeen": "2026-02-01T21:02:10.022Z"
+    "callsign": "SKW4439",
+    "aircraftType": "E175",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T20:59:06.888Z"
   },
-  "overheadScore": 1.26,
+  "overheadScore": 1.05,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T21:03:06.694Z"
+  "timestamp": "2026-02-01T21:05:05.147Z"
 }
