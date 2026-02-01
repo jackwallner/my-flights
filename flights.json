@@ -3047,5 +3047,24 @@
     "initialDistance": 1.3192490684276899,
     "initialAltitude": 36575,
     "initialSpeed": 466
+  },
+  {
+    "callsign": "ASA276",
+    "flightNumber": "AS276",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "PVR",
+    "destination": "SEA",
+    "icao": "AD8ED4",
+    "registration": "N973AK",
+    "firstSeen": "2026-02-01T03:06:10.877Z",
+    "lastSeen": "2026-02-01T03:06:10.877Z",
+    "duration": 0,
+    "closestDistance": 1.1494932814534007,
+    "closestAltitude": 35450,
+    "closestSpeed": 474,
+    "initialDistance": 1.1494932814534007,
+    "initialAltitude": 35450,
+    "initialSpeed": 474
   }
 ]

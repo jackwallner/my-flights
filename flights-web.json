@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.32,
-    "altitude": 36575,
-    "speed": 466,
-    "timestamp": "2026-02-01T03:02:08.646Z",
-    "lat": 45.6143,
-    "lon": -122.5009,
+    "distance": 1.15,
+    "altitude": 35450,
+    "speed": 474,
+    "timestamp": "2026-02-01T03:06:10.878Z",
+    "lat": 45.6175,
+    "lon": -122.5031,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1837",
-    "aircraftType": "737",
-    "origin": "SJD",
+    "callsign": "ASA276",
+    "aircraftType": "B39M",
+    "origin": "PVR",
     "destination": "SEA",
-    "firstSeen": "2026-02-01T03:02:08.645Z"
+    "firstSeen": "2026-02-01T03:06:10.877Z"
   },
-  "overheadScore": 1.32,
+  "overheadScore": 1.15,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T03:03:12.086Z"
+  "timestamp": "2026-02-01T03:07:15.362Z"
 }
