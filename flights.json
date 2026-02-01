@@ -3431,5 +3431,24 @@
     "initialDistance": 1.3731064065287772,
     "initialAltitude": 34000,
     "initialSpeed": 429
+  },
+  {
+    "callsign": "CES586",
+    "flightNumber": "MU586",
+    "aircraftType": "B77W",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "PVG",
+    "icao": "780F3D",
+    "registration": "B-7349",
+    "firstSeen": "2026-02-01T21:20:06.542Z",
+    "lastSeen": "2026-02-01T21:20:06.542Z",
+    "duration": 0,
+    "closestDistance": 0.8624650836371273,
+    "closestAltitude": 30000,
+    "closestSpeed": 491,
+    "initialDistance": 0.8624650836371273,
+    "initialAltitude": 30000,
+    "initialSpeed": 491
   }
 ]

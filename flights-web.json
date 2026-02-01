@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 34000,
-    "speed": 429,
-    "timestamp": "2026-02-01T21:13:30.012Z",
-    "lat": 45.6136,
-    "lon": -122.5,
+    "distance": 0.86,
+    "altitude": 30000,
+    "speed": 491,
+    "timestamp": "2026-02-01T21:20:06.544Z",
+    "lat": 45.6122,
+    "lon": -122.5366,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1305",
-    "aircraftType": "B39M",
+    "callsign": "CES586",
+    "aircraftType": "777",
     "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-01T21:13:30.011Z"
+    "destination": "PVG",
+    "firstSeen": "2026-02-01T21:20:06.542Z"
   },
-  "overheadScore": 1.37,
-  "isOverhead": false,
+  "overheadScore": 0.86,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T21:14:27.062Z"
+  "timestamp": "2026-02-01T21:21:03.235Z"
 }
