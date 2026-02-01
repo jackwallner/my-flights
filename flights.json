@@ -3564,5 +3564,24 @@
     "initialDistance": 1.335576400488993,
     "initialAltitude": 38000,
     "initialSpeed": 443
+  },
+  {
+    "callsign": "ASA703",
+    "flightNumber": "AS703",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "A27F07",
+    "registration": "N260AK",
+    "firstSeen": "2026-02-01T23:45:07.627Z",
+    "lastSeen": "2026-02-01T23:45:07.627Z",
+    "duration": 0,
+    "closestDistance": 1.1586114346411494,
+    "closestAltitude": 36000,
+    "closestSpeed": 423,
+    "initialDistance": 1.1586114346411494,
+    "initialAltitude": 36000,
+    "initialSpeed": 423
   }
 ]
