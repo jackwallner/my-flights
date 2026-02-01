@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
-    "altitude": 34925,
-    "speed": 445,
-    "timestamp": "2026-02-01T19:38:40.276Z",
-    "lat": 45.6296,
-    "lon": -122.5109,
+    "distance": 0.9,
+    "altitude": 34000,
+    "speed": 418,
+    "timestamp": "2026-02-01T19:40:18.655Z",
+    "lat": 45.6234,
+    "lon": -122.5068,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1714",
+    "callsign": "ASA798",
     "aircraftType": "737",
     "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-01-30T20:30:26.347Z"
+    "firstSeen": "2026-01-31T19:34:16.990Z"
   },
-  "overheadScore": 0.77,
+  "overheadScore": 0.9,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-01T19:38:40.276Z"
+  "timestamp": "2026-02-01T19:40:18.655Z"
 }
