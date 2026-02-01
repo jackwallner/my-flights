@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.5,
-    "altitude": 34025,
-    "speed": 443,
-    "timestamp": "2026-02-01T19:00:35.198Z",
-    "lat": 45.6113,
-    "lon": -122.4986,
+    "distance": 0.84,
+    "altitude": 38000,
+    "speed": 453,
+    "timestamp": "2026-02-01T19:23:30.088Z",
+    "lat": 45.6254,
+    "lon": -122.5081,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FFT2407",
-    "aircraftType": "A321",
+    "callsign": "SWA2312",
+    "aircraftType": "B737",
     "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T18:26:08.443Z"
+    "firstSeen": "2026-01-31T05:50:13.889Z"
   },
-  "overheadScore": 1.5,
-  "isOverhead": false,
+  "overheadScore": 0.84,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T19:01:32.030Z"
+  "timestamp": "2026-02-01T19:24:26.843Z"
 }
