@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 34000,
-    "speed": 453,
-    "timestamp": "2026-02-01T17:02:59.805Z",
-    "lat": 45.6145,
-    "lon": -122.5576,
+    "distance": 1.27,
+    "altitude": 1500,
+    "speed": 163,
+    "timestamp": "2026-02-01T17:06:10.168Z",
+    "lat": 45.6076,
+    "lon": -122.5448,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4041",
-    "aircraftType": "E175",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T17:06:10.679Z"
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 1.4,
+  "overheadScore": 1.27,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T17:03:56.338Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T17:06:10.168Z"
 }
