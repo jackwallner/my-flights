@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.88,
-    "altitude": 38000,
-    "speed": 413,
-    "timestamp": "2026-02-01T16:44:37.222Z",
-    "lat": 45.6123,
-    "lon": -122.5378,
+    "distance": 0.73,
+    "altitude": 30000,
+    "speed": 475,
+    "timestamp": "2026-02-01T16:49:09.593Z",
+    "lat": 45.6312,
+    "lon": -122.5128,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N149WW",
-    "aircraftType": "Cita",
+    "callsign": "ASA491",
+    "aircraftType": "B39M",
     "origin": "BUR",
-    "destination": "BFI",
-    "firstSeen": "2026-02-01T16:44:37.220Z"
+    "destination": "SEA",
+    "firstSeen": "2026-01-30T16:47:43.173Z"
   },
-  "overheadScore": 0.88,
+  "overheadScore": 0.73,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T16:45:33.678Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T16:49:09.593Z"
 }
