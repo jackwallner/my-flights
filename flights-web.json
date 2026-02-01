@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.48,
-    "altitude": 36100,
-    "speed": 472,
-    "timestamp": "2026-02-01T00:21:33.471Z",
-    "lat": 45.6322,
-    "lon": -122.562,
+    "distance": 1.15,
+    "altitude": 33250,
+    "speed": 439,
+    "timestamp": "2026-02-01T00:22:47.605Z",
+    "lat": 45.6176,
+    "lon": -122.5031,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2037",
-    "aircraftType": "E175",
-    "origin": "RDD",
+    "callsign": "ASA622",
+    "aircraftType": "737",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T00:15:45.796Z"
+    "firstSeen": "2026-01-31T00:33:41.084Z"
   },
-  "overheadScore": 1.48,
+  "overheadScore": 1.15,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-01T00:21:33.471Z"
+  "timestamp": "2026-02-01T00:22:47.605Z"
 }
