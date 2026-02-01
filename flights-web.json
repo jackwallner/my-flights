@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.81,
+    "distance": 1.34,
     "altitude": 36000,
-    "speed": 439,
-    "timestamp": "2026-02-01T20:30:56.558Z",
-    "lat": 45.6258,
-    "lon": -122.5088,
+    "speed": 436,
+    "timestamp": "2026-02-01T20:38:04.277Z",
+    "lat": 45.6178,
+    "lon": -122.5583,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA777",
-    "aircraftType": "B39M",
-    "origin": "LAS",
-    "destination": "PAE",
-    "firstSeen": "2026-01-30T20:16:51.715Z"
+    "callsign": "QXE2344",
+    "aircraftType": "E175",
+    "origin": "STS",
+    "destination": "SEA",
+    "firstSeen": "2026-01-30T20:27:09.483Z"
   },
-  "overheadScore": 0.81,
-  "isOverhead": true,
+  "overheadScore": 1.34,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T20:31:53.521Z"
+  "timestamp": "2026-02-01T20:39:01.146Z"
 }
