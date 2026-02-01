@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.74,
-    "altitude": 40000,
-    "speed": 431,
-    "timestamp": "2026-02-01T21:51:26.634Z",
-    "lat": 45.6148,
-    "lon": -122.5189,
+    "distance": 0.77,
+    "altitude": 36000,
+    "speed": 406,
+    "timestamp": "2026-01-31T07:16:48.584Z",
+    "lat": 45.6281,
+    "lon": -122.5101,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N",
-    "aircraftType": "E55P",
+    "callsign": "ASA691",
+    "aircraftType": "737",
     "origin": "PSP",
-    "destination": null,
-    "firstSeen": "2026-02-01T21:51:26.633Z"
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T07:16:48.581Z"
   },
-  "overheadScore": 0.74,
+  "overheadScore": 0.77,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T21:52:24.373Z"
+  "timestamp": "2026-01-31T07:17:45.794Z"
 }
