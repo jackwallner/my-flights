@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.42,
-    "altitude": 1775,
-    "speed": 122,
-    "timestamp": "2026-02-01T02:17:40.840Z",
-    "lat": 45.602,
-    "lon": -122.5218,
+    "distance": 1.5,
+    "altitude": 1900,
+    "speed": 94,
+    "timestamp": "2026-02-01T02:28:13.461Z",
+    "lat": 45.6373,
+    "lon": -122.4968,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N756YC",
-    "aircraftType": "T206",
+    "callsign": "N7274G",
+    "aircraftType": "C150",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-01-31T20:08:49.499Z"
+    "firstSeen": "2026-02-01T02:28:13.419Z"
   },
-  "overheadScore": 1.42,
+  "overheadScore": 1.5,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T02:18:44.276Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T02:28:13.462Z"
 }

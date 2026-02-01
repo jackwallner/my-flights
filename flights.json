@@ -2969,5 +2969,24 @@
     "initialDistance": 0.9925438899882667,
     "initialAltitude": 36025,
     "initialSpeed": 473
+  },
+  {
+    "callsign": "N7274G",
+    "flightNumber": null,
+    "aircraftType": "C150",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A9C078",
+    "registration": "N7274G",
+    "firstSeen": "2026-02-01T02:28:13.419Z",
+    "lastSeen": "2026-02-01T02:28:13.419Z",
+    "duration": 0,
+    "closestDistance": 1.4996647876369522,
+    "closestAltitude": 1900,
+    "closestSpeed": 94,
+    "initialDistance": 1.4996647876369522,
+    "initialAltitude": 1900,
+    "initialSpeed": 94
   }
 ]
