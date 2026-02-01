@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 38000,
-    "speed": 472,
-    "timestamp": "2026-02-01T04:16:35.404Z",
-    "lat": 45.6243,
-    "lon": -122.5603,
+    "distance": 1.47,
+    "altitude": 1700,
+    "speed": 80,
+    "timestamp": "2026-02-01T04:24:04.210Z",
+    "lat": 45.6009,
+    "lon": -122.5317,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2019",
-    "aircraftType": "737",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T04:22:55.624Z"
+    "callsign": "N9185H",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-01-30T19:36:39.081Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.47,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T04:17:32.490Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T04:24:04.211Z"
 }

@@ -436,18 +436,20 @@
   {
     "callsign": "N9185H",
     "flightNumber": null,
-    "aircraftType": null,
+    "aircraftType": "C172",
     "origin": "TTD",
     "destination": null,
     "firstSeen": "2026-01-30T19:36:39.081Z",
-    "lastSeen": "2026-01-30T19:37:46.190Z",
-    "duration": 67,
+    "lastSeen": "2026-02-01T04:24:04.207Z",
+    "duration": 118045,
     "closestDistance": 0.8478463582349476,
     "closestAltitude": 2300,
     "closestSpeed": 170,
     "initialDistance": 1.9831489767312618,
     "initialAltitude": 3025,
-    "initialSpeed": 147
+    "initialSpeed": 147,
+    "icao": "ACB772",
+    "registration": "N9185H"
   },
   {
     "callsign": "SWA4781",
