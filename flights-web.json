@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.49,
-    "altitude": 1100,
-    "speed": 86,
-    "timestamp": "2026-02-01T00:12:30.106Z",
-    "lat": 45.6016,
-    "lon": -122.5387,
+    "distance": 1.46,
+    "altitude": 950,
+    "speed": 151,
+    "timestamp": "2026-02-01T00:18:05.830Z",
+    "lat": 45.6043,
+    "lon": -122.5455,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N8340S",
-    "aircraftType": "R22",
-    "origin": "TTD",
+    "callsign": "N721CD",
+    "aircraftType": "S22T",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-01T00:12:30.105Z"
+    "firstSeen": "2026-02-01T00:18:05.830Z"
   },
-  "overheadScore": 1.49,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T00:13:32.182Z"
+  "timestamp": "2026-02-01T00:19:06.124Z"
 }

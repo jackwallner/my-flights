@@ -2798,5 +2798,24 @@
     "initialDistance": 1.4897040434034454,
     "initialAltitude": 1100,
     "initialSpeed": 86
+  },
+  {
+    "callsign": "N721CD",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A9A779",
+    "registration": "N721CD",
+    "firstSeen": "2026-02-01T00:18:05.830Z",
+    "lastSeen": "2026-02-01T00:18:05.830Z",
+    "duration": 0,
+    "closestDistance": 1.456041715798857,
+    "closestAltitude": 950,
+    "closestSpeed": 151,
+    "initialDistance": 1.456041715798857,
+    "initialAltitude": 950,
+    "initialSpeed": 151
   }
 ]
