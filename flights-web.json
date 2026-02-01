@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.27,
-    "altitude": 1500,
-    "speed": 163,
-    "timestamp": "2026-02-01T17:06:10.168Z",
-    "lat": 45.6076,
-    "lon": -122.5448,
+    "distance": 1.45,
+    "altitude": 34000,
+    "speed": 468,
+    "timestamp": "2026-02-01T17:13:58.235Z",
+    "lat": 45.6118,
+    "lon": -122.4995,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ352",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-01-30T18:21:31.073Z"
+    "callsign": "DAL2530",
+    "aircraftType": "737",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T16:59:32.777Z"
   },
-  "overheadScore": 1.27,
+  "overheadScore": 1.45,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T17:07:06.839Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T17:13:58.235Z"
 }
