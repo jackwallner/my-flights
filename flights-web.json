@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 36025,
-    "speed": 468,
-    "timestamp": "2026-02-01T01:28:06.499Z",
-    "lat": 45.6129,
-    "lon": -122.5572,
+    "distance": 1.36,
+    "altitude": 30900,
+    "speed": 484,
+    "timestamp": "2026-02-01T01:29:41.974Z",
+    "lat": 45.6265,
+    "lon": -122.5604,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2606",
+    "callsign": "ASA422",
     "aircraftType": "737",
-    "origin": "LAX",
+    "origin": "SJD",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T01:49:09.468Z"
+    "firstSeen": "2026-01-31T01:51:53.937Z"
   },
-  "overheadScore": 1.43,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-01T01:28:06.499Z"
+  "timestamp": "2026-02-01T01:29:41.974Z"
 }
