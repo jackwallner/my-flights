@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.05,
-    "altitude": 36950,
-    "speed": 454,
-    "timestamp": "2026-02-01T00:31:39.974Z",
-    "lat": 45.6191,
-    "lon": -122.5046,
+    "distance": 1.33,
+    "altitude": 36700,
+    "speed": 470,
+    "timestamp": "2026-02-01T00:34:06.256Z",
+    "lat": 45.6219,
+    "lon": -122.5595,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2251",
-    "aircraftType": "A220",
-    "origin": "TUS",
+    "callsign": "ASA687",
+    "aircraftType": "737 ",
+    "origin": "SBA",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T02:23:29.013Z"
+    "firstSeen": "2026-01-31T01:17:09.399Z"
   },
-  "overheadScore": 1.05,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T00:32:41.850Z"
+  "timestamp": "2026-02-01T00:35:08.213Z"
 }
