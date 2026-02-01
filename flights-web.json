@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.01,
-    "altitude": 29975,
-    "speed": 441,
-    "timestamp": "2026-02-01T18:22:11.583Z",
-    "lat": 45.6146,
-    "lon": -122.5095,
+    "distance": 1.43,
+    "altitude": 34000,
+    "speed": 437,
+    "timestamp": "2026-02-01T18:25:52.684Z",
+    "lat": 45.6121,
+    "lon": -122.4998,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1365",
-    "aircraftType": "737",
-    "origin": "SMF",
+    "callsign": "DAL1293",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T18:35:58.562Z"
+    "firstSeen": "2026-01-31T17:24:18.334Z"
   },
-  "overheadScore": 1.01,
+  "overheadScore": 1.43,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T18:23:08.131Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T18:25:52.684Z"
 }
