@@ -2855,5 +2855,24 @@
     "initialDistance": 1.3353220299752313,
     "initialAltitude": 35075,
     "initialSpeed": 467
+  },
+  {
+    "callsign": "AIP162",
+    "flightNumber": "5A162",
+    "aircraftType": "B190",
+    "aircraftName": null,
+    "origin": "OLS",
+    "destination": "PAE",
+    "icao": "A113BE",
+    "registration": "N169GL",
+    "firstSeen": "2026-02-01T00:38:16.351Z",
+    "lastSeen": "2026-02-01T00:38:16.351Z",
+    "duration": 0,
+    "closestDistance": 0.853324771506679,
+    "closestAltitude": 24050,
+    "closestSpeed": 305,
+    "initialDistance": 0.853324771506679,
+    "initialAltitude": 24050,
+    "initialSpeed": 305
   }
 ]

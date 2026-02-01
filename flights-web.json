@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
-    "altitude": 35075,
-    "speed": 467,
-    "timestamp": "2026-02-01T00:36:22.155Z",
-    "lat": 45.6192,
-    "lon": -122.5587,
+    "distance": 0.85,
+    "altitude": 24050,
+    "speed": 305,
+    "timestamp": "2026-02-01T00:38:16.352Z",
+    "lat": 45.6238,
+    "lon": -122.5079,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3814",
-    "aircraftType": "E175",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-02-01T00:36:22.087Z"
+    "callsign": "AIP162",
+    "aircraftType": "Beec",
+    "origin": "OLS",
+    "destination": "PAE",
+    "firstSeen": "2026-02-01T00:38:16.351Z"
   },
-  "overheadScore": 1.34,
-  "isOverhead": false,
+  "overheadScore": 0.85,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T00:37:23.399Z"
+  "timestamp": "2026-02-01T00:39:17.690Z"
 }
