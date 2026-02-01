@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
-    "altitude": 34850,
-    "speed": 471,
-    "timestamp": "2026-02-01T05:08:21.141Z",
-    "lat": 45.629,
-    "lon": -122.5106,
+    "distance": 0.91,
+    "altitude": 36000,
+    "speed": 449,
+    "timestamp": "2026-02-01T05:18:20.925Z",
+    "lat": 45.623,
+    "lon": -122.5067,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA574",
-    "aircraftType": "737",
-    "origin": "SAN",
+    "callsign": "QXE2031",
+    "aircraftType": "E175",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T05:20:30.250Z"
+    "firstSeen": "2026-01-31T05:18:49.826Z"
   },
-  "overheadScore": 0.77,
+  "overheadScore": 0.91,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T05:09:18.711Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T05:18:20.925Z"
 }
