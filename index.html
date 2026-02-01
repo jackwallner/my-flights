@@ -1608,7 +1608,7 @@
         <!-- Flight Info Header -->
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-bottom: 20px; flex-wrap: wrap;">
           <span style="font-size: 24px; transform: rotate(${track}deg); display: inline-block;">✈️</span>
-          <a href="https://www.flightradar24.com/${flight.callsign || ''}" target="_blank" style="font-size: 24px; font-weight: 700; color: var(--text-primary); text-decoration: none;">${flight.callsign || 'UNKNOWN'}</a>
+          <a href="https://www.flightaware.com/live/flight/${flight.callsign || ''}" target="_blank" style="font-size: 24px; font-weight: 700; color: var(--text-primary); text-decoration: none;">${flight.callsign || 'UNKNOWN'}</a>
           <span style="color: var(--text-muted);">|</span>
           <span style="font-size: 18px; color: var(--text-secondary);">${flight.origin || '???'} → ${flight.destination || '???'}</span>
           <span style="color: var(--text-muted);">|</span>
@@ -1926,7 +1926,7 @@
                 </div>
                 <div class="flight-info">
                   <div class="flight-number">
-                    <a href="https://www.flightradar24.com/${f.callsign || ''}" target="_blank" rel="noopener">
+                    <a href="https://www.flightaware.com/live/flight/${f.callsign || ''}" target="_blank" rel="noopener">
                       ${f.callsign || 'N/A'}
                     </a>
                   </div>
