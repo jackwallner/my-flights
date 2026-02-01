@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.32,
-    "altitude": 2000,
-    "speed": 143,
-    "timestamp": "2026-02-01T01:16:07.518Z",
-    "lat": 45.6145,
-    "lon": -122.5554,
+    "distance": 0.88,
+    "altitude": 36000,
+    "speed": 428,
+    "timestamp": "2026-02-01T01:24:56.702Z",
+    "lat": 45.6237,
+    "lon": -122.5073,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ356",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-02-01T01:16:07.516Z"
+    "callsign": "SKW4031",
+    "aircraftType": "E175",
+    "origin": "ONT",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T01:27:59.982Z"
   },
-  "overheadScore": 1.32,
-  "isOverhead": false,
+  "overheadScore": 0.88,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T01:17:12.580Z"
+  "timestamp": "2026-02-01T01:25:58.575Z"
 }
