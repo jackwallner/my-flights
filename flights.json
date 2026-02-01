@@ -2741,5 +2741,24 @@
     "initialDistance": 1.3234576516333136,
     "initialAltitude": 36650,
     "initialSpeed": 459
+  },
+  {
+    "callsign": "N5107H",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A664C4",
+    "registration": "N5107H",
+    "firstSeen": "2026-02-01T00:01:51.535Z",
+    "lastSeen": "2026-02-01T00:03:12.792Z",
+    "duration": 81,
+    "closestDistance": 1.0077283529611112,
+    "closestAltitude": 2400,
+    "closestSpeed": 82,
+    "initialDistance": 1.1181344918525824,
+    "initialAltitude": 2400,
+    "initialSpeed": 80
   }
 ]
