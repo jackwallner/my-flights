@@ -2779,5 +2779,24 @@
     "initialDistance": 1.4581011703437747,
     "initialAltitude": 1725,
     "initialSpeed": 117
+  },
+  {
+    "callsign": "N8340S",
+    "flightNumber": null,
+    "aircraftType": "R22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "AB699F",
+    "registration": "N8340S",
+    "firstSeen": "2026-02-01T00:12:30.105Z",
+    "lastSeen": "2026-02-01T00:12:30.105Z",
+    "duration": 0,
+    "closestDistance": 1.4897040434034454,
+    "closestAltitude": 1100,
+    "closestSpeed": 86,
+    "initialDistance": 1.4897040434034454,
+    "initialAltitude": 1100,
+    "initialSpeed": 86
   }
 ]

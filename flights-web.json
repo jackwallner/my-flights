@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 1725,
-    "speed": 117,
-    "timestamp": "2026-02-01T00:08:31.221Z",
-    "lat": 45.6026,
-    "lon": -122.5157,
+    "distance": 1.49,
+    "altitude": 1100,
+    "speed": 86,
+    "timestamp": "2026-02-01T00:12:30.106Z",
+    "lat": 45.6016,
+    "lon": -122.5387,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N12648",
-    "aircraftType": "C172",
+    "callsign": "N8340S",
+    "aircraftType": "R22",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-01T00:08:31.220Z"
+    "firstSeen": "2026-02-01T00:12:30.105Z"
   },
-  "overheadScore": 1.46,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T00:09:30.981Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T00:12:30.106Z"
 }
