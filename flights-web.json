@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 34900,
-    "speed": 496,
-    "timestamp": "2026-02-01T04:54:00.755Z",
-    "lat": 45.6114,
-    "lon": -122.5567,
+    "distance": 1.48,
+    "altitude": 2750,
+    "speed": 113,
+    "timestamp": "2026-02-01T05:05:49.622Z",
+    "lat": 45.6045,
+    "lon": -122.5092,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1327",
-    "aircraftType": "B39M",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T04:53:31.654Z"
+    "callsign": "N12648",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-01T00:08:31.220Z"
   },
-  "overheadScore": 1.46,
+  "overheadScore": 1.48,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T04:55:00.144Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T05:05:49.622Z"
 }
