@@ -3450,5 +3450,24 @@
     "initialDistance": 0.8624650836371273,
     "initialAltitude": 30000,
     "initialSpeed": 491
+  },
+  {
+    "callsign": "EJA573",
+    "flightNumber": "EJA573",
+    "aircraftType": "C56X",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "BFI",
+    "icao": "A75AFD",
+    "registration": "N573QS",
+    "firstSeen": "2026-02-01T21:37:21.097Z",
+    "lastSeen": "2026-02-01T21:37:21.097Z",
+    "duration": 0,
+    "closestDistance": 0.853324771506679,
+    "closestAltitude": 40000,
+    "closestSpeed": 403,
+    "initialDistance": 0.853324771506679,
+    "initialAltitude": 40000,
+    "initialSpeed": 403
   }
 ]

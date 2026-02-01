@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.95,
-    "altitude": 34000,
-    "speed": 438,
-    "timestamp": "2026-02-01T21:35:22.253Z",
-    "lat": 45.622,
-    "lon": -122.5061,
+    "distance": 0.85,
+    "altitude": 40000,
+    "speed": 403,
+    "timestamp": "2026-02-01T21:37:21.139Z",
+    "lat": 45.6238,
+    "lon": -122.5079,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA654",
-    "aircraftType": "B39M",
-    "origin": "ONT",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T21:50:14.992Z"
+    "callsign": "EJA573",
+    "aircraftType": "Cita",
+    "origin": "LAS",
+    "destination": "BFI",
+    "firstSeen": "2026-02-01T21:37:21.097Z"
   },
-  "overheadScore": 0.95,
+  "overheadScore": 0.85,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-01T21:35:22.254Z"
+  "timestamp": "2026-02-01T21:37:21.140Z"
 }
