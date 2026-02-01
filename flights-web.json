@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1,
-    "altitude": 37125,
-    "speed": 452,
-    "timestamp": "2026-02-01T01:50:01.955Z",
-    "lat": 45.6208,
-    "lon": -122.5051,
+    "distance": 1.47,
+    "altitude": 34000,
+    "speed": 465,
+    "timestamp": "2026-02-01T01:53:53.871Z",
+    "lat": 45.6115,
+    "lon": -122.4991,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA665",
-    "aircraftType": "737 ",
-    "origin": "ONT",
+    "callsign": "ASA676",
+    "aircraftType": "B39M",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T02:17:17.068Z"
+    "firstSeen": "2026-01-31T02:20:11.889Z"
   },
-  "overheadScore": 1,
+  "overheadScore": 1.47,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T01:51:04.837Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T01:53:53.871Z"
 }
