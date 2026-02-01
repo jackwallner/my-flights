@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 30000,
-    "speed": 430,
-    "timestamp": "2026-02-01T18:28:12.118Z",
-    "lat": 45.6137,
-    "lon": -122.5567,
+    "distance": 0.77,
+    "altitude": 36000,
+    "speed": 464,
+    "timestamp": "2026-02-01T18:40:59.054Z",
+    "lat": 45.6282,
+    "lon": -122.5102,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2340",
-    "aircraftType": "A319",
-    "origin": "SFO",
+    "callsign": "ASA717",
+    "aircraftType": "737 ",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T18:43:14.781Z"
+    "firstSeen": "2026-01-30T18:37:40.065Z"
   },
-  "overheadScore": 1.39,
-  "isOverhead": false,
+  "overheadScore": 0.77,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T18:29:08.792Z"
+  "timestamp": "2026-02-01T18:41:56.509Z"
 }
