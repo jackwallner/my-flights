@@ -2988,5 +2988,24 @@
     "initialDistance": 1.4996647876369522,
     "initialAltitude": 1900,
     "initialSpeed": 94
+  },
+  {
+    "callsign": "ASA401",
+    "flightNumber": "AS401",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "A9C506",
+    "registration": "N729AL",
+    "firstSeen": "2026-02-01T02:33:42.681Z",
+    "lastSeen": "2026-02-01T02:33:42.681Z",
+    "duration": 0,
+    "closestDistance": 0.8587047622217995,
+    "closestAltitude": 34025,
+    "closestSpeed": 475,
+    "initialDistance": 0.8587047622217995,
+    "initialAltitude": 34025,
+    "initialSpeed": 475
   }
 ]
