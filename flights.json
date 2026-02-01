@@ -1042,8 +1042,8 @@
     "icao": "A09CFE",
     "registration": "N139DU",
     "firstSeen": "2026-01-31T02:23:29.013Z",
-    "lastSeen": "2026-01-31T02:23:29.013Z",
-    "duration": 0,
+    "lastSeen": "2026-02-01T00:31:39.973Z",
+    "duration": 79691,
     "closestDistance": 0.767893038508215,
     "closestAltitude": 35975,
     "closestSpeed": 394,
@@ -2817,5 +2817,24 @@
     "initialDistance": 1.456041715798857,
     "initialAltitude": 950,
     "initialSpeed": 151
+  },
+  {
+    "callsign": "DAL2533",
+    "flightNumber": "DL2533",
+    "aircraftType": "BCS3",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A35254",
+    "registration": "N313DU",
+    "firstSeen": "2026-02-01T00:30:06.670Z",
+    "lastSeen": "2026-02-01T00:30:06.670Z",
+    "duration": 0,
+    "closestDistance": 1.3965058554368885,
+    "closestAltitude": 36000,
+    "closestSpeed": 477,
+    "initialDistance": 1.3965058554368885,
+    "initialAltitude": 36000,
+    "initialSpeed": 477
   }
 ]
