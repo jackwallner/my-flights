@@ -3085,5 +3085,24 @@
     "initialDistance": 1.1822111003803835,
     "initialAltitude": 37775,
     "initialSpeed": 419
+  },
+  {
+    "callsign": "ASA1401",
+    "flightNumber": "AS1401",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJD",
+    "destination": "SEA",
+    "icao": "A2A686",
+    "registration": "N270AK",
+    "firstSeen": "2026-02-01T03:10:24.110Z",
+    "lastSeen": "2026-02-01T03:10:24.110Z",
+    "duration": 0,
+    "closestDistance": 1.1509117385386096,
+    "closestAltitude": 36000,
+    "closestSpeed": 457,
+    "initialDistance": 1.1509117385386096,
+    "initialAltitude": 36000,
+    "initialSpeed": 457
   }
 ]
