@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 2350,
-    "speed": 79,
-    "timestamp": "2026-02-01T02:29:18.956Z",
-    "lat": 45.6252,
-    "lon": -122.5312,
-    "precision": "high"
+    "distance": 0.77,
+    "altitude": 35225,
+    "speed": 462,
+    "timestamp": "2026-02-01T02:32:18.269Z",
+    "lat": 45.6288,
+    "lon": -122.5106,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7274G",
-    "aircraftType": "C150",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-01T02:28:13.419Z"
+    "callsign": "ASA760",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T01:35:57.513Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.77,
   "isOverhead": true,
-  "pathSnapshots": 8,
-  "status": "completed",
-  "timestamp": "2026-02-01T02:30:32.369Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-01T02:32:18.269Z"
 }
