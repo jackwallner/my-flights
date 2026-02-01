@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.31,
-    "altitude": 32000,
-    "speed": 507,
-    "timestamp": "2026-02-01T09:27:32.339Z",
-    "lat": 45.6147,
-    "lon": -122.5009,
+    "distance": 1.4,
+    "altitude": 31125,
+    "speed": 520,
+    "timestamp": "2026-02-01T14:43:29.462Z",
+    "lat": 45.614,
+    "lon": -122.5574,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ATN3378",
-    "aircraftType": "767",
-    "origin": "SBD",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T09:49:57.920Z"
+    "callsign": "CLX6296",
+    "aircraftType": "747",
+    "origin": "LAX",
+    "destination": null,
+    "firstSeen": "2026-02-01T14:43:29.459Z"
   },
-  "overheadScore": 1.31,
+  "overheadScore": 1.4,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T09:28:29.083Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T14:43:29.462Z"
 }

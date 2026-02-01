@@ -3182,5 +3182,24 @@
     "initialDistance": 1.138429540074886,
     "initialAltitude": 34000,
     "initialSpeed": 438
+  },
+  {
+    "callsign": "CLX6296",
+    "flightNumber": null,
+    "aircraftType": "B744",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": null,
+    "icao": "4D012C",
+    "registration": "LX-ICL",
+    "firstSeen": "2026-02-01T14:43:29.459Z",
+    "lastSeen": "2026-02-01T14:43:29.459Z",
+    "duration": 0,
+    "closestDistance": 1.4040675794911175,
+    "closestAltitude": 31125,
+    "closestSpeed": 520,
+    "initialDistance": 1.4040675794911175,
+    "initialAltitude": 31125,
+    "initialSpeed": 520
   }
 ]
