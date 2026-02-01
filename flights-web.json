@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.15,
+    "distance": 0.91,
     "altitude": 36000,
-    "speed": 457,
-    "timestamp": "2026-02-01T03:10:24.111Z",
-    "lat": 45.6176,
-    "lon": -122.503,
+    "speed": 470,
+    "timestamp": "2026-02-01T03:13:47.602Z",
+    "lat": 45.6228,
+    "lon": -122.5068,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1401",
+    "callsign": "DAL2640",
     "aircraftType": "737",
-    "origin": "SJD",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-01T03:10:24.110Z"
+    "firstSeen": "2026-01-31T04:34:34.057Z"
   },
-  "overheadScore": 1.15,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T03:11:33.318Z"
+  "overheadScore": 0.91,
+  "isOverhead": true,
+  "pathSnapshots": 2,
+  "status": "tracking",
+  "timestamp": "2026-02-01T03:14:51.507Z"
 }
