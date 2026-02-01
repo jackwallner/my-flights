@@ -2893,5 +2893,24 @@
     "initialDistance": 1.302822145978724,
     "initialAltitude": 1675,
     "initialSpeed": 126
+  },
+  {
+    "callsign": "ASA458",
+    "flightNumber": "AS458",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "A1C868",
+    "registration": "N214AK",
+    "firstSeen": "2026-02-01T00:59:19.893Z",
+    "lastSeen": "2026-02-01T00:59:19.893Z",
+    "duration": 0,
+    "closestDistance": 1.2745679478419738,
+    "closestAltitude": 33050,
+    "closestSpeed": 455,
+    "initialDistance": 1.2745679478419738,
+    "initialAltitude": 33050,
+    "initialSpeed": 455
   }
 ]
