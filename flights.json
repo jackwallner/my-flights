@@ -3545,5 +3545,24 @@
     "initialDistance": 1.2132898433389185,
     "initialAltitude": 36000,
     "initialSpeed": 426
+  },
+  {
+    "callsign": "ASA601",
+    "flightNumber": "AS601",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "A71D34",
+    "registration": "N558AS",
+    "firstSeen": "2026-02-01T23:41:45.357Z",
+    "lastSeen": "2026-02-01T23:41:45.357Z",
+    "duration": 0,
+    "closestDistance": 1.335576400488993,
+    "closestAltitude": 38000,
+    "closestSpeed": 443,
+    "initialDistance": 1.335576400488993,
+    "initialAltitude": 38000,
+    "initialSpeed": 443
   }
 ]
