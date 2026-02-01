@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 36025,
-    "speed": 454,
-    "timestamp": "2026-02-01T18:48:39.072Z",
-    "lat": 45.6124,
-    "lon": -122.4995,
+    "distance": 1.5,
+    "altitude": 34025,
+    "speed": 443,
+    "timestamp": "2026-02-01T19:00:35.198Z",
+    "lat": 45.6113,
+    "lon": -122.4986,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA642",
-    "aircraftType": "737",
-    "origin": "RNO",
+    "callsign": "FFT2407",
+    "aircraftType": "A321",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-01-30T18:51:55.037Z"
+    "firstSeen": "2026-01-31T18:26:08.443Z"
   },
-  "overheadScore": 1.43,
+  "overheadScore": 1.5,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T18:49:36.089Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T19:00:35.198Z"
 }
