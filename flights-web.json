@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.88,
-    "altitude": 36000,
-    "speed": 428,
-    "timestamp": "2026-02-01T01:24:56.702Z",
-    "lat": 45.6237,
-    "lon": -122.5073,
+    "distance": 1.43,
+    "altitude": 36025,
+    "speed": 468,
+    "timestamp": "2026-02-01T01:28:06.499Z",
+    "lat": 45.6129,
+    "lon": -122.5572,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4031",
-    "aircraftType": "E175",
-    "origin": "ONT",
+    "callsign": "DAL2606",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T01:27:59.982Z"
+    "firstSeen": "2026-01-31T01:49:09.468Z"
   },
-  "overheadScore": 0.88,
-  "isOverhead": true,
+  "overheadScore": 1.43,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T01:25:58.575Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T01:28:06.499Z"
 }
