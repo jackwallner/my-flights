@@ -3144,5 +3144,24 @@
     "initialDistance": 1.4293221965094365,
     "initialAltitude": 36000,
     "initialSpeed": 488
+  },
+  {
+    "callsign": "N246LT",
+    "flightNumber": null,
+    "aircraftType": "SLG2",
+    "aircraftName": null,
+    "origin": "PAE",
+    "destination": "BLI",
+    "icao": "A24755",
+    "registration": "N246LT",
+    "firstSeen": "2026-02-01T06:08:23.296Z",
+    "lastSeen": "2026-02-01T06:08:23.296Z",
+    "duration": 0,
+    "closestDistance": 1.4834550129801578,
+    "closestAltitude": 2475,
+    "closestSpeed": 85,
+    "initialDistance": 1.4834550129801578,
+    "initialAltitude": 2475,
+    "initialSpeed": 85
   }
 ]
