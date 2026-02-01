@@ -3374,5 +3374,24 @@
     "initialDistance": 1.26148996240641,
     "initialAltitude": 36000,
     "initialSpeed": 438
+  },
+  {
+    "callsign": "JZA845",
+    "flightNumber": "AC8845",
+    "aircraftType": "CRJ9",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "YVR",
+    "icao": "C05F0C",
+    "registration": "C-GJZV",
+    "firstSeen": "2026-02-01T21:02:10.022Z",
+    "lastSeen": "2026-02-01T21:02:10.022Z",
+    "duration": 0,
+    "closestDistance": 1.255545348259714,
+    "closestAltitude": 38000,
+    "closestSpeed": 477,
+    "initialDistance": 1.255545348259714,
+    "initialAltitude": 38000,
+    "initialSpeed": 477
   }
 ]
