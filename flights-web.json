@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.42,
-    "altitude": 34000,
-    "speed": 477,
-    "timestamp": "2026-02-01T15:35:29.773Z",
-    "lat": 45.6135,
-    "lon": -122.5574,
+    "distance": 1.33,
+    "altitude": 34900,
+    "speed": 463,
+    "timestamp": "2026-02-01T15:42:27.159Z",
+    "lat": 45.6238,
+    "lon": -122.5597,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4075",
-    "aircraftType": "E175",
-    "origin": "SMF",
+    "callsign": "ASA1304",
+    "aircraftType": "737",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T15:43:28.091Z"
+    "firstSeen": "2026-01-30T15:45:05.813Z"
   },
-  "overheadScore": 1.42,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T15:36:26.356Z"
+  "timestamp": "2026-02-01T15:43:23.738Z"
 }
