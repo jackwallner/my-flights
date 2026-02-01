@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.15,
-    "altitude": 35450,
-    "speed": 474,
-    "timestamp": "2026-02-01T03:06:10.878Z",
-    "lat": 45.6175,
-    "lon": -122.5031,
+    "distance": 1.18,
+    "altitude": 37775,
+    "speed": 419,
+    "timestamp": "2026-02-01T03:07:36.858Z",
+    "lat": 45.6227,
+    "lon": -122.5002,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA276",
+    "callsign": "ASA523",
     "aircraftType": "B39M",
-    "origin": "PVR",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-01T03:06:10.877Z"
+    "firstSeen": "2026-02-01T03:07:36.857Z"
   },
-  "overheadScore": 1.15,
+  "overheadScore": 1.18,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T03:07:15.362Z"
+  "timestamp": "2026-02-01T03:08:48.686Z"
 }
