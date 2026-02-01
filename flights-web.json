@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.18,
+    "distance": 0.76,
     "altitude": 34000,
-    "speed": 441,
-    "timestamp": "2026-02-01T17:21:01.234Z",
-    "lat": 45.6171,
-    "lon": -122.5026,
+    "speed": 448,
+    "timestamp": "2026-02-01T17:23:20.273Z",
+    "lat": 45.6289,
+    "lon": -122.5108,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4042",
+    "callsign": "SKW3345",
     "aircraftType": "E175",
-    "origin": "ONT",
+    "origin": "FAT",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T17:51:06.644Z"
+    "firstSeen": "2026-01-31T18:01:22.675Z"
   },
-  "overheadScore": 1.18,
-  "isOverhead": false,
+  "overheadScore": 0.76,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T17:21:57.735Z"
+  "timestamp": "2026-02-01T17:24:16.879Z"
 }
