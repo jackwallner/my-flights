@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.26,
+    "distance": 1.49,
     "altitude": 36000,
-    "speed": 438,
-    "timestamp": "2026-02-01T20:17:53.672Z",
-    "lat": 45.6154,
-    "lon": -122.5016,
+    "speed": 447,
+    "timestamp": "2026-02-01T20:25:11.279Z",
+    "lat": 45.6105,
+    "lon": -122.5565,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA629",
-    "aircraftType": "B39M",
-    "origin": "LAS",
+    "callsign": "SKW3026",
+    "aircraftType": "E175",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-01T20:17:53.671Z"
+    "firstSeen": "2026-01-31T20:33:33.720Z"
   },
-  "overheadScore": 1.26,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T20:18:50.481Z"
+  "timestamp": "2026-02-01T20:26:08.146Z"
 }
