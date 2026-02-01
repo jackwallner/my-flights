@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.45,
-    "altitude": 32000,
-    "speed": 487,
-    "timestamp": "2026-02-01T15:03:28.441Z",
-    "lat": 45.6118,
-    "lon": -122.5567,
+    "distance": 1.37,
+    "altitude": 34000,
+    "speed": 469,
+    "timestamp": "2026-02-01T15:05:16.368Z",
+    "lat": 45.6156,
+    "lon": -122.5576,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3677",
+    "callsign": "ASA68",
     "aircraftType": "737",
-    "origin": "SMF",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-01T15:03:28.439Z"
+    "firstSeen": "2026-02-01T15:05:16.367Z"
   },
-  "overheadScore": 1.45,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-01T15:03:28.441Z"
+  "timestamp": "2026-02-01T15:05:16.368Z"
 }

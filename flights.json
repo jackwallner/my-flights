@@ -3220,5 +3220,24 @@
     "initialDistance": 1.447891325671699,
     "initialAltitude": 32000,
     "initialSpeed": 487
+  },
+  {
+    "callsign": "ASA68",
+    "flightNumber": "AS68",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A29CBF",
+    "registration": "N268AK",
+    "firstSeen": "2026-02-01T15:05:16.367Z",
+    "lastSeen": "2026-02-01T15:05:16.367Z",
+    "duration": 0,
+    "closestDistance": 1.3679160936498784,
+    "closestAltitude": 34000,
+    "closestSpeed": 469,
+    "initialDistance": 1.3679160936498784,
+    "initialAltitude": 34000,
+    "initialSpeed": 469
   }
 ]
