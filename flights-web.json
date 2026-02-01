@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.5,
-    "altitude": 1900,
-    "speed": 94,
-    "timestamp": "2026-02-01T02:28:13.461Z",
-    "lat": 45.6373,
-    "lon": -122.4968,
-    "precision": "tracked"
+    "distance": 0.13,
+    "altitude": 2350,
+    "speed": 79,
+    "timestamp": "2026-02-01T02:29:18.956Z",
+    "lat": 45.6252,
+    "lon": -122.5312,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N7274G",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-01T02:28:13.419Z"
   },
-  "overheadScore": 1.5,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-01T02:28:13.462Z"
+  "overheadScore": 0.13,
+  "isOverhead": true,
+  "pathSnapshots": 8,
+  "status": "completed",
+  "timestamp": "2026-02-01T02:30:32.369Z"
 }
