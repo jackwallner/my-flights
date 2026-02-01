@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1,
-    "altitude": 1975,
-    "speed": 92,
-    "timestamp": "2026-02-01T04:25:01.008Z",
-    "lat": 45.6164,
-    "lon": -122.5081,
+    "distance": 0.23,
+    "altitude": 1500,
+    "speed": 95,
+    "timestamp": "2026-02-01T04:49:32.170Z",
+    "lat": 45.6278,
+    "lon": -122.5323,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9185H",
+    "callsign": "N5107H",
     "aircraftType": "C172",
-    "origin": "TTD",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-01-30T19:36:39.081Z"
+    "firstSeen": "2026-02-01T00:01:51.535Z"
   },
-  "overheadScore": 1,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 4,
-  "status": "completed",
-  "timestamp": "2026-02-01T04:25:31.959Z"
+  "pathSnapshots": 7,
+  "status": "tracking",
+  "timestamp": "2026-02-01T04:50:13.419Z"
 }
