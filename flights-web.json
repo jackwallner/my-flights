@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 20000,
-    "speed": 275,
-    "timestamp": "2026-02-01T20:05:46.326Z",
-    "lat": 45.6267,
-    "lon": -122.4932,
+    "distance": 0.87,
+    "altitude": 36025,
+    "speed": 435,
+    "timestamp": "2026-02-01T20:08:26.363Z",
+    "lat": 45.6243,
+    "lon": -122.5074,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N383HC",
-    "aircraftType": "AC90",
-    "origin": "RDM",
-    "destination": "TIW",
-    "firstSeen": "2026-02-01T20:05:46.325Z"
+    "callsign": "ASA1378",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-01-30T20:32:25.470Z"
   },
-  "overheadScore": 1.47,
-  "isOverhead": false,
+  "overheadScore": 0.87,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T20:06:42.621Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T20:08:26.363Z"
 }
