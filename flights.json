@@ -3260,5 +3260,24 @@
     "initialDistance": 1.0624921117536057,
     "initialAltitude": 37175,
     "initialSpeed": 471
+  },
+  {
+    "callsign": "ASA1320",
+    "flightNumber": "AS1320",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A24A0A",
+    "registration": "N247AK",
+    "firstSeen": "2026-02-01T15:56:57.449Z",
+    "lastSeen": "2026-02-01T15:56:57.449Z",
+    "duration": 0,
+    "closestDistance": 1.3258634128947355,
+    "closestAltitude": 32000,
+    "closestSpeed": 482,
+    "initialDistance": 1.3258634128947355,
+    "initialAltitude": 32000,
+    "initialSpeed": 482
   }
 ]

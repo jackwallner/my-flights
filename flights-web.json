@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.98,
-    "altitude": 36000,
-    "speed": 455,
-    "timestamp": "2026-02-01T15:55:50.350Z",
-    "lat": 45.6215,
-    "lon": -122.5055,
+    "distance": 1.33,
+    "altitude": 32000,
+    "speed": 482,
+    "timestamp": "2026-02-01T15:56:57.451Z",
+    "lat": 45.6207,
+    "lon": -122.559,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA607",
-    "aircraftType": "B39M",
-    "origin": "ONT",
+    "callsign": "ASA1320",
+    "aircraftType": "737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-01-30T16:01:17.761Z"
+    "firstSeen": "2026-02-01T15:56:57.449Z"
   },
-  "overheadScore": 0.98,
-  "isOverhead": true,
+  "overheadScore": 1.33,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-01T15:55:50.350Z"
+  "status": "completed",
+  "timestamp": "2026-02-01T15:57:54.201Z"
 }
