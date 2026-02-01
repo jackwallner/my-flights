@@ -2874,5 +2874,24 @@
     "initialDistance": 0.853324771506679,
     "initialAltitude": 24050,
     "initialSpeed": 305
+  },
+  {
+    "callsign": "N822CP",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "AB3889",
+    "registration": "N822CP",
+    "firstSeen": "2026-02-01T00:41:03.077Z",
+    "lastSeen": "2026-02-01T00:41:03.077Z",
+    "duration": 0,
+    "closestDistance": 1.302822145978724,
+    "closestAltitude": 1675,
+    "closestSpeed": 126,
+    "initialDistance": 1.302822145978724,
+    "initialAltitude": 1675,
+    "initialSpeed": 126
   }
 ]

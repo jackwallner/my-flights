@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.85,
-    "altitude": 24050,
-    "speed": 305,
-    "timestamp": "2026-02-01T00:38:16.352Z",
-    "lat": 45.6238,
-    "lon": -122.5079,
+    "distance": 1.3,
+    "altitude": 1675,
+    "speed": 126,
+    "timestamp": "2026-02-01T00:41:03.078Z",
+    "lat": 45.6069,
+    "lon": -122.5446,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AIP162",
-    "aircraftType": "Beec",
-    "origin": "OLS",
-    "destination": "PAE",
-    "firstSeen": "2026-02-01T00:38:16.351Z"
+    "callsign": "N822CP",
+    "aircraftType": "S22T",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-01T00:41:03.077Z"
   },
-  "overheadScore": 0.85,
-  "isOverhead": true,
+  "overheadScore": 1.3,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T00:39:17.690Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T00:41:03.078Z"
 }
