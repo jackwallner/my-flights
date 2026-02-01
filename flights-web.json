@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 31125,
-    "speed": 520,
-    "timestamp": "2026-02-01T14:43:29.462Z",
-    "lat": 45.614,
-    "lon": -122.5574,
+    "distance": 1.45,
+    "altitude": 32000,
+    "speed": 487,
+    "timestamp": "2026-02-01T15:03:28.441Z",
+    "lat": 45.6118,
+    "lon": -122.5567,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CLX6296",
-    "aircraftType": "747",
-    "origin": "LAX",
-    "destination": null,
-    "firstSeen": "2026-02-01T14:43:29.459Z"
+    "callsign": "SWA3677",
+    "aircraftType": "737",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-02-01T15:03:28.439Z"
   },
-  "overheadScore": 1.4,
+  "overheadScore": 1.45,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-01T14:44:26.121Z"
+  "status": "tracking",
+  "timestamp": "2026-02-01T15:03:28.441Z"
 }
