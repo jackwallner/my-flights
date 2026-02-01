@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.44,
-    "altitude": 37575,
-    "speed": 455,
-    "timestamp": "2026-02-01T22:25:36.051Z",
-    "lat": 45.6122,
-    "lon": -122.4993,
+    "distance": 0.94,
+    "altitude": 36875,
+    "speed": 453,
+    "timestamp": "2026-02-01T22:26:54.846Z",
+    "lat": 45.6147,
+    "lon": -122.5115,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA548",
-    "aircraftType": "737",
-    "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T22:24:57.030Z"
+    "callsign": "N7670B",
+    "aircraftType": "CL30",
+    "origin": "TRM",
+    "destination": "BFI",
+    "firstSeen": "2026-02-01T22:26:54.845Z"
   },
-  "overheadScore": 1.44,
-  "isOverhead": false,
+  "overheadScore": 0.94,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-01T22:25:36.052Z"
+  "status": "completed",
+  "timestamp": "2026-02-01T22:27:51.539Z"
 }

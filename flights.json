@@ -3507,5 +3507,24 @@
     "initialDistance": 1.3871053866573584,
     "initialAltitude": 1875,
     "initialSpeed": 161
+  },
+  {
+    "callsign": "N7670B",
+    "flightNumber": null,
+    "aircraftType": "CL30",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "BFI",
+    "icao": "AA5DE3",
+    "registration": "N7670B",
+    "firstSeen": "2026-02-01T22:26:54.845Z",
+    "lastSeen": "2026-02-01T22:26:54.845Z",
+    "duration": 0,
+    "closestDistance": 0.9434831371799858,
+    "closestAltitude": 36875,
+    "closestSpeed": 453,
+    "initialDistance": 0.9434831371799858,
+    "initialAltitude": 36875,
+    "initialSpeed": 453
   }
 ]
