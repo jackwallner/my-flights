@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.3,
-    "altitude": 1675,
-    "speed": 126,
-    "timestamp": "2026-02-01T00:41:03.078Z",
-    "lat": 45.6069,
-    "lon": -122.5446,
+    "distance": 1.39,
+    "altitude": 1600,
+    "speed": 87,
+    "timestamp": "2026-02-01T00:42:24.372Z",
+    "lat": 45.647,
+    "lon": -122.5164,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N822CP",
-    "aircraftType": "S22T",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-01T00:41:03.077Z"
+    "callsign": "N5107H",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-01T00:01:51.535Z"
   },
-  "overheadScore": 1.3,
+  "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-01T00:41:03.078Z"
+  "status": "completed",
+  "timestamp": "2026-02-01T00:43:25.191Z"
 }
