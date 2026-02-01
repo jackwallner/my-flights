@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 36000,
-    "speed": 428,
-    "timestamp": "2026-02-01T23:47:55.354Z",
-    "lat": 45.6136,
-    "lon": -122.5001,
+    "distance": 1.31,
+    "altitude": 1250,
+    "speed": 143,
+    "timestamp": "2026-02-01T23:52:19.355Z",
+    "lat": 45.6225,
+    "lon": -122.559,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA741",
-    "aircraftType": "B39M",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T23:34:00.502Z"
+    "callsign": "N310UD",
+    "aircraftType": "C310",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-01T23:52:19.354Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.31,
   "isOverhead": false,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-01T23:48:53.029Z"
+  "timestamp": "2026-02-01T23:53:26.225Z"
 }

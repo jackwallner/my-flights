@@ -3583,5 +3583,24 @@
     "initialDistance": 1.1586114346411494,
     "initialAltitude": 36000,
     "initialSpeed": 423
+  },
+  {
+    "callsign": "N310UD",
+    "flightNumber": null,
+    "aircraftType": "C310",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A34897",
+    "registration": "N310UD",
+    "firstSeen": "2026-02-01T23:52:19.354Z",
+    "lastSeen": "2026-02-01T23:53:15.933Z",
+    "duration": 57,
+    "closestDistance": 1.3077067830354123,
+    "closestAltitude": 1250,
+    "closestSpeed": 143,
+    "initialDistance": 1.3077067830354123,
+    "initialAltitude": 1250,
+    "initialSpeed": 143
   }
 ]
