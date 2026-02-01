@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.85,
-    "altitude": 40000,
-    "speed": 403,
-    "timestamp": "2026-02-01T21:37:21.139Z",
-    "lat": 45.6238,
-    "lon": -122.5079,
+    "distance": 0.77,
+    "altitude": 33750,
+    "speed": 442,
+    "timestamp": "2026-02-01T21:40:32.103Z",
+    "lat": 45.6276,
+    "lon": -122.5101,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA573",
-    "aircraftType": "Cita",
-    "origin": "LAS",
-    "destination": "BFI",
-    "firstSeen": "2026-02-01T21:37:21.097Z"
+    "callsign": "DAL1045",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T22:27:28.603Z"
   },
-  "overheadScore": 0.85,
+  "overheadScore": 0.77,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T21:38:18.368Z"
+  "timestamp": "2026-02-01T21:41:29.728Z"
 }
