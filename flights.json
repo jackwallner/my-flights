@@ -2836,5 +2836,24 @@
     "initialDistance": 1.3965058554368885,
     "initialAltitude": 36000,
     "initialSpeed": 477
+  },
+  {
+    "callsign": "SKW3814",
+    "flightNumber": "DL3814",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A33EB1",
+    "registration": "N308SY",
+    "firstSeen": "2026-02-01T00:36:22.087Z",
+    "lastSeen": "2026-02-01T00:36:22.087Z",
+    "duration": 0,
+    "closestDistance": 1.3353220299752313,
+    "closestAltitude": 35075,
+    "closestSpeed": 467,
+    "initialDistance": 1.3353220299752313,
+    "initialAltitude": 35075,
+    "initialSpeed": 467
   }
 ]
