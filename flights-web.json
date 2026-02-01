@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 1600,
-    "speed": 87,
-    "timestamp": "2026-02-01T00:42:24.372Z",
-    "lat": 45.647,
-    "lon": -122.5164,
+    "distance": 1.4,
+    "altitude": 37650,
+    "speed": 476,
+    "timestamp": "2026-02-01T00:48:18.772Z",
+    "lat": 45.6136,
+    "lon": -122.5571,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5107H",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-01T00:01:51.535Z"
+    "callsign": "ASA745",
+    "aircraftType": "B39M",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T01:18:59.488Z"
   },
-  "overheadScore": 1.39,
+  "overheadScore": 1.4,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T00:43:25.191Z"
+  "timestamp": "2026-02-01T00:49:20.668Z"
 }
