@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.98,
-    "altitude": 33275,
-    "speed": 487,
-    "timestamp": "2026-02-01T06:32:42.340Z",
-    "lat": 45.6225,
-    "lon": -122.505,
+    "distance": 1.14,
+    "altitude": 34000,
+    "speed": 438,
+    "timestamp": "2026-02-01T06:37:17.129Z",
+    "lat": 45.6178,
+    "lon": -122.5032,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA532",
-    "aircraftType": "B39M",
+    "callsign": "SKW5408",
+    "aircraftType": "E175",
     "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T05:55:59.558Z"
+    "firstSeen": "2026-02-01T06:37:17.041Z"
   },
-  "overheadScore": 0.98,
-  "isOverhead": true,
+  "overheadScore": 1.14,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-01T06:33:38.905Z"
+  "timestamp": "2026-02-01T06:38:13.921Z"
 }
