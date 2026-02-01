@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.24,
-    "altitude": 1800,
-    "speed": 110,
-    "timestamp": "2026-02-01T21:10:55.293Z",
-    "lat": 45.6082,
-    "lon": -122.5447,
+    "distance": 1.39,
+    "altitude": 36000,
+    "speed": 445,
+    "timestamp": "2026-02-01T21:12:33.449Z",
+    "lat": 45.6278,
+    "lon": -122.561,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DA42",
-    "aircraftType": "DA42",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-01T21:10:55.291Z"
+    "callsign": "ASA580",
+    "aircraftType": "737",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T21:15:05.367Z"
   },
-  "overheadScore": 1.24,
+  "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-01T21:10:55.293Z"
+  "timestamp": "2026-02-01T21:12:33.449Z"
 }
