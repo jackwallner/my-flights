@@ -3239,5 +3239,24 @@
     "initialDistance": 1.3679160936498784,
     "initialAltitude": 34000,
     "initialSpeed": 469
+  },
+  {
+    "callsign": "LAE2525",
+    "flightNumber": "L72525",
+    "aircraftType": "B763",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "E8021C",
+    "registration": "CC-CXE",
+    "firstSeen": "2026-02-01T15:52:49.728Z",
+    "lastSeen": "2026-02-01T15:52:49.728Z",
+    "duration": 0,
+    "closestDistance": 1.0624921117536057,
+    "closestAltitude": 37175,
+    "closestSpeed": 471,
+    "initialDistance": 1.0624921117536057,
+    "initialAltitude": 37175,
+    "initialSpeed": 471
   }
 ]
