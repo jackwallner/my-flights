@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.14,
-    "altitude": 1525,
-    "speed": 123,
-    "timestamp": "2026-02-02T23:24:20.053Z",
-    "lat": 45.6153,
-    "lon": -122.5051,
-    "precision": "high"
+    "distance": 1.29,
+    "altitude": 38000,
+    "speed": 400,
+    "timestamp": "2026-02-02T23:31:43.102Z",
+    "lat": 45.6148,
+    "lon": -122.5012,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N451LF",
-    "aircraftType": "B407",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-02T23:23:22.298Z"
+    "callsign": "ASA601",
+    "aircraftType": "737",
+    "origin": "RNO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T23:31:43.100Z"
   },
-  "overheadScore": 1.14,
+  "overheadScore": 1.29,
   "isOverhead": false,
-  "pathSnapshots": 3,
-  "status": "completed",
-  "timestamp": "2026-02-02T23:24:40.736Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-02T23:31:43.103Z"
 }
