@@ -5377,5 +5377,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 394,
     "_sessionKey": "SWA2580_2026-02-02T19"
+  },
+  {
+    "callsign": "EJA554",
+    "flightNumber": null,
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": null,
+    "icao": "A70FB6",
+    "registration": "N554QS",
+    "firstSeen": "2026-02-02T19:43:13.432Z",
+    "lastSeen": "2026-02-02T19:43:13.432Z",
+    "duration": 0,
+    "closestDistance": 0.8800426373645306,
+    "closestAltitude": 43000,
+    "closestSpeed": 411,
+    "initialDistance": 0.8800426373645306,
+    "initialAltitude": 43000,
+    "initialSpeed": 411,
+    "_sessionKey": "EJA554_2026-02-02T19"
   }
 ]

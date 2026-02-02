@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.06,
-    "altitude": 38000,
-    "speed": 394,
-    "timestamp": "2026-02-02T19:40:21.981Z",
-    "lat": 45.6192,
-    "lon": -122.5045,
+    "distance": 0.88,
+    "altitude": 43000,
+    "speed": 411,
+    "timestamp": "2026-02-02T19:43:13.433Z",
+    "lat": 45.6243,
+    "lon": -122.5072,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2580",
-    "aircraftType": "737",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T19:40:21.979Z"
+    "callsign": "EJA554",
+    "aircraftType": "C68A",
+    "origin": "SNA",
+    "destination": null,
+    "firstSeen": "2026-02-02T19:43:13.432Z"
   },
-  "overheadScore": 1.06,
-  "isOverhead": false,
+  "overheadScore": 0.88,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T19:41:19.822Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T19:43:13.433Z"
 }
