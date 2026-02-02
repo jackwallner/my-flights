@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.13,
-    "altitude": 26000,
-    "speed": 376,
-    "timestamp": "2026-02-02T17:18:10.679Z",
-    "lat": 45.6179,
-    "lon": -122.5033,
+    "distance": 1.07,
+    "altitude": 38000,
+    "speed": 374,
+    "timestamp": "2026-02-02T17:19:29.869Z",
+    "lat": 45.6192,
+    "lon": -122.5042,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2980",
+    "callsign": "ASA491",
     "aircraftType": "737",
-    "origin": "LAX",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T17:18:10.677Z"
+    "firstSeen": "2026-02-02T17:19:29.867Z"
   },
-  "overheadScore": 1.13,
+  "overheadScore": 1.07,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-02T17:18:10.679Z"
+  "status": "completed",
+  "timestamp": "2026-02-02T17:20:27.990Z"
 }

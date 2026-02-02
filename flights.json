@@ -4877,5 +4877,25 @@
     "initialAltitude": 26000,
     "initialSpeed": 376,
     "_sessionKey": "DAL2980_2026-02-02T17"
+  },
+  {
+    "callsign": "ASA491",
+    "flightNumber": "AS491",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "A7687B",
+    "registration": "N577AS",
+    "firstSeen": "2026-02-02T17:19:29.867Z",
+    "lastSeen": "2026-02-02T17:19:29.867Z",
+    "duration": 0,
+    "closestDistance": 1.068394209678759,
+    "closestAltitude": 38000,
+    "closestSpeed": 374,
+    "initialDistance": 1.068394209678759,
+    "initialAltitude": 38000,
+    "initialSpeed": 374,
+    "_sessionKey": "ASA491_2026-02-02T17"
   }
 ]
