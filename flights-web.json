@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.94,
-    "altitude": 34000,
-    "speed": 401,
-    "timestamp": "2026-02-02T03:07:20.690Z",
-    "lat": 45.6221,
-    "lon": -122.5061,
+    "distance": 0.79,
+    "altitude": 36000,
+    "speed": 417,
+    "timestamp": "2026-02-02T03:15:20.313Z",
+    "lat": 45.6259,
+    "lon": -122.5093,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA774",
+    "callsign": "DAL1837",
     "aircraftType": "737",
-    "origin": "SNA",
+    "origin": "SJD",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T03:07:20.689Z"
+    "firstSeen": "2026-02-02T03:15:20.311Z"
   },
-  "overheadScore": 0.94,
+  "overheadScore": 0.79,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T03:08:18.431Z"
+  "timestamp": "2026-02-02T03:16:17.937Z"
 }
