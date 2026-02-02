@@ -1949,13 +1949,12 @@
         const flightType = detectFlightType(f);
         const distance = f.closestDistance || f.distance || 0;
         const distClass = getDistanceClass(distance);
-        const isCurrent = f.isCurrent;
         
         const typeIcons = { commercial: '✈️', private: '🚁', cargo: '📦', unknown: '?' };
         const typeClasses = { commercial: 'commercial', private: 'private', cargo: 'cargo', unknown: 'unknown' };
         
         return `
-          <tr class="${isCurrent ? 'current-flight-row' : ''}">
+          <tr>
             <td>
               <div class="flight-cell">
                 <div class="flight-icon-small ${flightType === 'private' ? 'private' : flightType === 'cargo' ? 'cargo' : ''}">
@@ -1996,7 +1995,6 @@
               <span class="type-badge ${typeClasses[flightType]}">
                 ${flightType.charAt(0).toUpperCase() + flightType.slice(1)}
               </span>
-              ${isCurrent ? '<span class="current-badge">Current</span>' : ''}
             </td>
           </tr>
         `;
@@ -2084,21 +2082,12 @@
               closestAltitude: data.closestApproach?.altitude,
               closestSpeed: data.closestApproach?.speed,
               duration: 0,
-              isCurrent: true,
               _sessionKey: sessionKey // Track this session
             };
             
             flightHistory.unshift(currentFlight);
           }
         }
-        
-        // Clear isCurrent from flights older than 2 hours
-        flightHistory.forEach(f => {
-          const age = Date.now() - new Date(f.lastSeen || f.firstSeen).getTime();
-          if (age > TWO_HOURS && f.isCurrent) {
-            delete f.isCurrent;
-          }
-        });
         
         updateStats();
         renderHistoryTable();
