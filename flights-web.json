@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.84,
+    "distance": 1.01,
     "altitude": 36000,
-    "speed": 413,
-    "timestamp": "2026-02-02T02:15:08.285Z",
-    "lat": 45.6249,
-    "lon": -122.508,
+    "speed": 410,
+    "timestamp": "2026-02-02T02:18:40.304Z",
+    "lat": 45.616,
+    "lon": -122.5482,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA683",
+    "callsign": "ASA408",
     "aircraftType": "737",
-    "origin": "SAN",
+    "origin": "FAT",
     "destination": "SEA",
-    "firstSeen": "2026-02-01T02:36:53.534Z"
+    "firstSeen": "2026-01-31T02:36:40.009Z"
   },
-  "overheadScore": 0.84,
-  "isOverhead": true,
+  "overheadScore": 1.01,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T02:16:06.026Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T02:18:40.304Z"
 }
