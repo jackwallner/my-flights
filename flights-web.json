@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.78,
-    "altitude": 38000,
-    "speed": 392,
-    "timestamp": "2026-02-02T19:03:14.756Z",
-    "lat": 45.6276,
-    "lon": -122.5098,
-    "precision": "tracked"
+    "distance": 0.41,
+    "altitude": 3200,
+    "speed": 61,
+    "timestamp": "2026-02-02T19:16:30.734Z",
+    "lat": 45.6312,
+    "lon": -122.5332,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "DAL2585",
-    "aircraftType": "737",
-    "origin": "PSP",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T19:03:14.755Z"
+    "callsign": "N7274G",
+    "aircraftType": "C150",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-02T19:15:22.174Z"
   },
-  "overheadScore": 0.78,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T19:04:12.954Z"
+  "pathSnapshots": 7,
+  "status": "tracking",
+  "timestamp": "2026-02-02T19:17:11.912Z"
 }
