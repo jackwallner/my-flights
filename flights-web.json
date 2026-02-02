@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.38,
-    "altitude": 36000,
-    "speed": 433,
-    "timestamp": "2026-02-02T01:33:45.455Z",
-    "lat": 45.6164,
-    "lon": -122.5585,
+    "distance": 0.94,
+    "altitude": 38000,
+    "speed": 446,
+    "timestamp": "2026-02-02T01:40:43.385Z",
+    "lat": 45.622,
+    "lon": -122.5063,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2572",
-    "aircraftType": "A223",
-    "origin": "SAN",
+    "callsign": "ASA760",
+    "aircraftType": "737 ",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T01:39:14.820Z"
+    "firstSeen": "2026-01-31T01:35:57.513Z"
   },
-  "overheadScore": 1.38,
-  "isOverhead": false,
+  "overheadScore": 0.94,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T01:34:43.455Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T01:40:43.385Z"
 }
