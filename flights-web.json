@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 1550,
-    "speed": 114,
-    "timestamp": "2026-02-02T21:33:24.647Z",
-    "lat": 45.6296,
-    "lon": -122.5173,
-    "precision": "high"
+    "distance": 1.42,
+    "altitude": 34000,
+    "speed": 417,
+    "timestamp": "2026-02-02T21:37:21.682Z",
+    "lat": 45.6133,
+    "lon": -122.5572,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-02T21:32:26.983Z"
+    "callsign": "ASA1305",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T21:37:21.680Z"
   },
-  "overheadScore": 0.52,
-  "isOverhead": true,
-  "pathSnapshots": 5,
-  "status": "completed",
-  "timestamp": "2026-02-02T21:34:05.888Z"
+  "overheadScore": 1.42,
+  "isOverhead": false,
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-02T21:37:21.682Z"
 }
