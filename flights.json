@@ -5677,5 +5677,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 405,
     "_sessionKey": "SKW4439_2026-02-02T21"
+  },
+  {
+    "callsign": "QXE2203",
+    "flightNumber": "AS2203",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A83569",
+    "registration": "N628QX",
+    "firstSeen": "2026-02-02T21:09:00.344Z",
+    "lastSeen": "2026-02-02T21:09:00.344Z",
+    "duration": 0,
+    "closestDistance": 1.347592835588537,
+    "closestAltitude": 34000,
+    "closestSpeed": 403,
+    "initialDistance": 1.347592835588537,
+    "initialAltitude": 34000,
+    "initialSpeed": 403,
+    "_sessionKey": "QXE2203_2026-02-02T21"
   }
 ]

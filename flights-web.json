@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 32000,
-    "speed": 405,
-    "timestamp": "2026-02-02T21:00:07.611Z",
-    "lat": 45.6169,
-    "lon": -122.5582,
+    "distance": 1.35,
+    "altitude": 34000,
+    "speed": 403,
+    "timestamp": "2026-02-02T21:09:00.346Z",
+    "lat": 45.6257,
+    "lon": -122.5602,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4439",
+    "callsign": "QXE2203",
     "aircraftType": "E175",
-    "origin": "SMF",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T21:00:07.609Z"
+    "firstSeen": "2026-02-02T21:09:00.344Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.35,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T21:01:05.675Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T21:09:00.346Z"
 }
