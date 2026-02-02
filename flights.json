@@ -3640,5 +3640,24 @@
     "initialDistance": 1.2890360494731168,
     "initialAltitude": 41425,
     "initialSpeed": 455
+  },
+  {
+    "callsign": "SWA1983",
+    "flightNumber": "WN1983",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A1D44E",
+    "registration": "N217JC",
+    "firstSeen": "2026-02-02T00:41:17.581Z",
+    "lastSeen": "2026-02-02T00:41:17.581Z",
+    "duration": 0,
+    "closestDistance": 1.347819989817356,
+    "closestAltitude": 40000,
+    "closestSpeed": 459,
+    "initialDistance": 1.347819989817356,
+    "initialAltitude": 40000,
+    "initialSpeed": 459
   }
 ]
