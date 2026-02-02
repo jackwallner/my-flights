@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.8,
-    "altitude": 30000,
-    "speed": 399,
-    "timestamp": "2026-02-02T20:15:49.788Z",
-    "lat": 45.6265,
-    "lon": -122.5091,
+    "distance": 1.33,
+    "altitude": 36000,
+    "speed": 421,
+    "timestamp": "2026-02-02T20:22:06.585Z",
+    "lat": 45.6213,
+    "lon": -122.5592,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2844",
+    "callsign": "ASA1311",
     "aircraftType": "737",
-    "origin": "LAS",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T20:15:49.787Z"
+    "firstSeen": "2026-02-02T20:22:06.583Z"
   },
-  "overheadScore": 0.8,
-  "isOverhead": true,
+  "overheadScore": 1.33,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T20:16:47.613Z"
+  "timestamp": "2026-02-02T20:23:04.656Z"
 }
