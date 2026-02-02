@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.1,
-    "altitude": 1375,
-    "speed": 159,
-    "timestamp": "2026-02-02T21:50:18.513Z",
-    "lat": 45.6116,
-    "lon": -122.5455,
+    "distance": 1.49,
+    "altitude": 1325,
+    "speed": 81,
+    "timestamp": "2026-02-02T21:52:46.868Z",
+    "lat": 45.6048,
+    "lon": -122.5481,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
+    "callsign": "N603HH",
+    "aircraftType": "R22",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-02T21:50:18.511Z"
+    "firstSeen": "2026-02-02T21:52:46.867Z"
   },
-  "overheadScore": 1.1,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-02T21:50:18.513Z"
+  "status": "completed",
+  "timestamp": "2026-02-02T21:53:48.026Z"
 }

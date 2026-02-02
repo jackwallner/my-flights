@@ -5937,5 +5937,25 @@
     "initialAltitude": 1375,
     "initialSpeed": 159,
     "_sessionKey": "PC12_2026-02-02T21"
+  },
+  {
+    "callsign": "N603HH",
+    "flightNumber": null,
+    "aircraftType": "R22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A7D31B",
+    "registration": "N603HH",
+    "firstSeen": "2026-02-02T21:52:46.867Z",
+    "lastSeen": "2026-02-02T21:52:46.867Z",
+    "duration": 0,
+    "closestDistance": 1.4888656802151563,
+    "closestAltitude": 1325,
+    "closestSpeed": 81,
+    "initialDistance": 1.4888656802151563,
+    "initialAltitude": 1325,
+    "initialSpeed": 81,
+    "_sessionKey": "N603HH_2026-02-02T21"
   }
 ]
