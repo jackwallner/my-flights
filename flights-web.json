@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.29,
+    "distance": 1.23,
     "altitude": 38000,
-    "speed": 400,
-    "timestamp": "2026-02-02T23:31:43.102Z",
-    "lat": 45.6148,
-    "lon": -122.5012,
+    "speed": 407,
+    "timestamp": "2026-02-02T23:44:10.771Z",
+    "lat": 45.6159,
+    "lon": -122.5021,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA601",
-    "aircraftType": "737",
-    "origin": "RNO",
+    "callsign": "ASA703",
+    "aircraftType": "737 ",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T23:31:43.100Z"
+    "firstSeen": "2026-02-02T23:44:10.769Z"
   },
-  "overheadScore": 1.29,
+  "overheadScore": 1.23,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T23:32:40.993Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T23:44:10.771Z"
 }

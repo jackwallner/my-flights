@@ -6217,5 +6217,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 400,
     "_sessionKey": "ASA601_2026-02-02T23"
+  },
+  {
+    "callsign": "ASA703",
+    "flightNumber": "AS703",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "AC5F5F",
+    "registration": "N897AK",
+    "firstSeen": "2026-02-02T23:44:10.769Z",
+    "lastSeen": "2026-02-02T23:44:10.769Z",
+    "duration": 0,
+    "closestDistance": 1.2289508025093554,
+    "closestAltitude": 38000,
+    "closestSpeed": 407,
+    "initialDistance": 1.2289508025093554,
+    "initialAltitude": 38000,
+    "initialSpeed": 407,
+    "_sessionKey": "ASA703_2026-02-02T23"
   }
 ]
