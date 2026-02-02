@@ -1576,9 +1576,9 @@
       const privateCount = filtered.filter(f => detectFlightType(f) === 'private').length;
       document.getElementById('private-flights').textContent = privateCount;
       
-      // Last plane detected time
-      const lastPlaneTime = filtered.length > 0
-        ? Math.max(...filtered.map(f => new Date(f.lastSeen || f.firstSeen || 0).getTime()))
+      // Last plane detected time (use ALL flights, not just filtered)
+      const lastPlaneTime = flightHistory.length > 0
+        ? Math.max(...flightHistory.map(f => new Date(f.lastSeen || f.firstSeen || 0).getTime()))
         : 0;
       document.getElementById('last-plane').textContent = lastPlaneTime > 0
         ? formatTimeAgo(lastPlaneTime)
@@ -2033,6 +2033,16 @@
       indicator.classList.add('active');
       
       try {
+        // Load history FIRST (most important)
+        const historyResponse = await fetch(`flights.json?t=${Date.now()}`);
+        if (historyResponse.ok) {
+          const historyData = await historyResponse.json();
+          if (Array.isArray(historyData)) {
+            flightHistory = historyData;
+          }
+        }
+        
+        // Then load current flight and merge it
         const response = await fetch(`flights-web.json?t=${Date.now()}`);
         if (!response.ok) throw new Error('Failed to fetch');
         
@@ -2044,52 +2054,36 @@
           renderCurrentFlight(data);
         }
         
-        // Load history from flights.json
-        const historyResponse = await fetch(`flights.json?t=${Date.now()}`);
-        if (historyResponse.ok) {
-          const historyData = await historyResponse.json();
-          console.log('[DEBUG] History loaded:', historyData.length, 'flights');
-          if (Array.isArray(historyData)) {
-            // Merge current flight into history if it's a valid completed flight
-            let mergedHistory = [...historyData];
-            console.log('[DEBUG] Web data status:', data.status, 'callsign:', data.flight?.callsign);
-            if (data.status === 'completed' && data.flight && data.flight.callsign) {
-              const currentFlight = {
-                callsign: data.flight.callsign,
-                flightNumber: data.flight.flightNumber || null,
-                aircraftType: data.flight.aircraftType || null,
-                origin: data.flight.origin,
-                destination: data.flight.destination,
-                firstSeen: data.flight.firstSeen,
-                lastSeen: data.timestamp || new Date().toISOString(),
-                closestDistance: data.closestApproach?.distance,
-                closestAltitude: data.closestApproach?.altitude,
-                closestSpeed: data.closestApproach?.speed,
-                isCurrent: true
-              };
-              
-              const existingIndex = mergedHistory.findIndex(f => 
-                f.callsign === currentFlight.callsign && 
-                f.firstSeen === currentFlight.firstSeen
-              );
-              
-              console.log('[DEBUG] Existing index:', existingIndex, 'for', currentFlight.callsign);
-              
-              if (existingIndex === -1) {
-                mergedHistory.unshift(currentFlight);
-                console.log('[DEBUG] Added new flight to history');
-              } else {
-                mergedHistory[existingIndex] = { ...mergedHistory[existingIndex], ...currentFlight };
-                console.log('[DEBUG] Updated existing flight with isCurrent');
-              }
-            }
-            
-            flightHistory = mergedHistory;
-            console.log('[DEBUG] flightHistory length:', flightHistory.length);
-            updateStats();
-            renderHistoryTable();
+        // Merge current flight into history
+        if (data.status === 'completed' && data.flight && data.flight.callsign && Array.isArray(flightHistory)) {
+          const currentFlight = {
+            callsign: data.flight.callsign,
+            flightNumber: data.flight.flightNumber || null,
+            aircraftType: data.flight.aircraftType || null,
+            origin: data.flight.origin,
+            destination: data.flight.destination,
+            firstSeen: data.flight.firstSeen,
+            lastSeen: data.timestamp || new Date().toISOString(),
+            closestDistance: data.closestApproach?.distance,
+            closestAltitude: data.closestApproach?.altitude,
+            closestSpeed: data.closestApproach?.speed,
+            isCurrent: true
+          };
+          
+          const existingIndex = flightHistory.findIndex(f => 
+            f.callsign === currentFlight.callsign && 
+            f.firstSeen === currentFlight.firstSeen
+          );
+          
+          if (existingIndex === -1) {
+            flightHistory.unshift(currentFlight);
+          } else {
+            flightHistory[existingIndex] = { ...flightHistory[existingIndex], ...currentFlight };
           }
         }
+        
+        updateStats();
+        renderHistoryTable();
         
         document.getElementById('timestamp').textContent = `Last updated: ${new Date().toLocaleTimeString()}`;
         
