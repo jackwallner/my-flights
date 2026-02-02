@@ -5997,5 +5997,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 421,
     "_sessionKey": "ASA315_2026-02-02T22"
+  },
+  {
+    "callsign": "VJA310",
+    "flightNumber": "VJA310",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "BFI",
+    "icao": "A3479E",
+    "registration": "N310JE",
+    "firstSeen": "2026-02-02T22:29:55.216Z",
+    "lastSeen": "2026-02-02T22:29:55.216Z",
+    "duration": 0,
+    "closestDistance": 1.02482833520075,
+    "closestAltitude": 43000,
+    "closestSpeed": 430,
+    "initialDistance": 1.02482833520075,
+    "initialAltitude": 43000,
+    "initialSpeed": 430,
+    "_sessionKey": "VJA310_2026-02-02T22"
   }
 ]
