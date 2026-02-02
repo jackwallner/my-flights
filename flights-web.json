@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.1,
-    "altitude": 32000,
-    "speed": 366,
-    "timestamp": "2026-02-02T05:22:07.359Z",
-    "lat": 45.6188,
-    "lon": -122.5037,
+    "distance": 0.62,
+    "altitude": 31725,
+    "speed": 363,
+    "timestamp": "2026-02-02T05:24:49.847Z",
+    "lat": 45.6206,
+    "lon": -122.5149,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2031",
-    "aircraftType": "E175",
-    "origin": "RNO",
+    "callsign": "DAL2613",
+    "aircraftType": "737",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T05:22:07.358Z"
+    "firstSeen": "2026-02-02T05:24:49.846Z"
   },
-  "overheadScore": 1.1,
-  "isOverhead": false,
+  "overheadScore": 0.62,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T05:23:06.586Z"
+  "timestamp": "2026-02-02T05:25:55.513Z"
 }
