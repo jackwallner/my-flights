@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.18,
-    "altitude": 1600,
-    "speed": 157,
-    "timestamp": "2026-02-02T16:21:41.224Z",
-    "lat": 45.6064,
-    "lon": -122.5355,
+    "distance": 1.39,
+    "altitude": 38375,
+    "speed": 406,
+    "timestamp": "2026-02-02T16:24:32.541Z",
+    "lat": 45.6251,
+    "lon": -122.5613,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N475TW",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-02T16:21:41.222Z"
+    "callsign": "SWA862",
+    "aircraftType": "737 ",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T16:24:32.540Z"
   },
-  "overheadScore": 1.18,
+  "overheadScore": 1.39,
   "isOverhead": false,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T16:22:49.169Z"
+  "timestamp": "2026-02-02T16:25:30.616Z"
 }
