@@ -6277,5 +6277,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 424,
     "_sessionKey": "ASA741_2026-02-02T23"
+  },
+  {
+    "callsign": "ASA1342",
+    "flightNumber": "AS1342",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AD4AFB",
+    "registration": "N956AK",
+    "firstSeen": "2026-02-02T23:57:54.519Z",
+    "lastSeen": "2026-02-02T23:57:54.519Z",
+    "duration": 0,
+    "closestDistance": 1.3406222400969579,
+    "closestAltitude": 33975,
+    "closestSpeed": 424,
+    "initialDistance": 1.3406222400969579,
+    "initialAltitude": 33975,
+    "initialSpeed": 424,
+    "_sessionKey": "ASA1342_2026-02-02T23"
   }
 ]
