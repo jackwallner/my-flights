@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.44,
-    "altitude": 34000,
-    "speed": 422,
-    "timestamp": "2026-02-02T21:18:50.655Z",
-    "lat": 45.612,
+    "distance": 1.23,
+    "altitude": 1525,
+    "speed": 141,
+    "timestamp": "2026-02-02T21:29:21.684Z",
+    "lat": 45.6208,
     "lon": -122.4996,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2101",
-    "aircraftType": "A223",
-    "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T21:18:50.653Z"
+    "callsign": "N9185H",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-02T21:28:23.255Z"
   },
-  "overheadScore": 1.44,
+  "overheadScore": 1.23,
   "isOverhead": false,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-02T21:19:48.487Z"
+  "timestamp": "2026-02-02T21:29:32.021Z"
 }
