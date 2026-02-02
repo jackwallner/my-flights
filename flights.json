@@ -5877,5 +5877,25 @@
     "initialAltitude": 1000,
     "initialSpeed": 139,
     "_sessionKey": "N425JA_2026-02-02T21"
+  },
+  {
+    "callsign": "N624ST",
+    "flightNumber": null,
+    "aircraftType": "RV12",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": null,
+    "icao": "A826BB",
+    "registration": "N624ST",
+    "firstSeen": "2026-02-02T21:45:58.538Z",
+    "lastSeen": "2026-02-02T21:45:58.538Z",
+    "duration": 0,
+    "closestDistance": 1.2313163379590877,
+    "closestAltitude": 1900,
+    "closestSpeed": 122,
+    "initialDistance": 1.2313163379590877,
+    "initialAltitude": 1900,
+    "initialSpeed": 122,
+    "_sessionKey": "N624ST_2026-02-02T21"
   }
 ]
