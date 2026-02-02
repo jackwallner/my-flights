@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.13,
-    "altitude": 36000,
-    "speed": 420,
-    "timestamp": "2026-02-02T00:58:45.085Z",
-    "lat": 45.6173,
-    "lon": -122.5037,
+    "distance": 0.48,
+    "altitude": 34000,
+    "speed": 410,
+    "timestamp": "2026-02-02T01:02:02.451Z",
+    "lat": 45.6316,
+    "lon": -122.5213,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA403",
+    "callsign": "ASA745",
     "aircraftType": "B39M",
-    "origin": "PSP",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T00:26:00.641Z"
+    "firstSeen": "2026-01-31T01:18:59.488Z"
   },
-  "overheadScore": 1.13,
-  "isOverhead": false,
+  "overheadScore": 0.48,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T00:59:43.200Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T01:02:02.452Z"
 }
