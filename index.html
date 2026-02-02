@@ -2058,44 +2058,47 @@
           renderCurrentFlight(data);
         }
         
-        // Merge current flight into history (only if seen within last 2 hours)
+        // Add current flight as NEW entry each time it appears (daily routes tracked separately)
+        // Only add if within last 2 hours (fresh data)
         const TWO_HOURS = 2 * 60 * 60 * 1000;
         const flightTimestamp = new Date(data.timestamp || 0).getTime();
         const isRecent = (Date.now() - flightTimestamp) < TWO_HOURS;
         
         if (data.status === 'completed' && data.flight && data.flight.callsign && Array.isArray(flightHistory) && isRecent) {
-          const currentFlight = {
-            callsign: data.flight.callsign,
-            flightNumber: data.flight.flightNumber || null,
-            aircraftType: data.flight.aircraftType || null,
-            origin: data.flight.origin,
-            destination: data.flight.destination,
-            firstSeen: data.flight.firstSeen,
-            lastSeen: data.timestamp || new Date().toISOString(),
-            closestDistance: data.closestApproach?.distance,
-            closestAltitude: data.closestApproach?.altitude,
-            closestSpeed: data.closestApproach?.speed,
-            isCurrent: true
-          };
+          // Create a unique "session" key based on timestamp to track each overhead pass separately
+          const sessionKey = `${data.flight.callsign}_${data.timestamp?.slice(0, 13)}`; // Hour-level grouping
           
-          const existingIndex = flightHistory.findIndex(f => 
-            f.callsign === currentFlight.callsign && 
-            f.firstSeen === currentFlight.firstSeen
-          );
+          // Check if we already added this session
+          const alreadyAdded = flightHistory.some(f => f._sessionKey === sessionKey);
           
-          if (existingIndex === -1) {
+          if (!alreadyAdded) {
+            const currentFlight = {
+              callsign: data.flight.callsign,
+              flightNumber: data.flight.flightNumber || null,
+              aircraftType: data.flight.aircraftType || null,
+              origin: data.flight.origin,
+              destination: data.flight.destination,
+              firstSeen: data.timestamp || new Date().toISOString(), // Use current timestamp as firstSeen
+              lastSeen: data.timestamp || new Date().toISOString(),
+              closestDistance: data.closestApproach?.distance,
+              closestAltitude: data.closestApproach?.altitude,
+              closestSpeed: data.closestApproach?.speed,
+              duration: 0,
+              isCurrent: true,
+              _sessionKey: sessionKey // Track this session
+            };
+            
             flightHistory.unshift(currentFlight);
-          } else {
-            flightHistory[existingIndex] = { ...flightHistory[existingIndex], ...currentFlight };
           }
-        } else if (!isRecent && data.flight) {
-          // Clear isCurrent from old flights
-          flightHistory.forEach(f => {
-            if (f.callsign === data.flight.callsign && f.firstSeen === data.flight.firstSeen) {
-              delete f.isCurrent;
-            }
-          });
         }
+        
+        // Clear isCurrent from flights older than 2 hours
+        flightHistory.forEach(f => {
+          const age = Date.now() - new Date(f.lastSeen || f.firstSeen).getTime();
+          if (age > TWO_HOURS && f.isCurrent) {
+            delete f.isCurrent;
+          }
+        });
         
         updateStats();
         renderHistoryTable();
