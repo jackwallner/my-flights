@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.05,
-    "altitude": 36000,
-    "speed": 399,
-    "timestamp": "2026-02-02T02:10:16.892Z",
-    "lat": 45.6368,
-    "lon": -122.5092,
+    "distance": 1.33,
+    "altitude": 32325,
+    "speed": 425,
+    "timestamp": "2026-02-02T02:13:59.933Z",
+    "lat": 45.6188,
+    "lon": -122.5584,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA591",
-    "aircraftType": "B39M",
-    "origin": "SFO",
+    "callsign": "ASA1345",
+    "aircraftType": "737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-01T02:00:12.418Z"
+    "firstSeen": "2026-02-02T02:13:59.931Z"
   },
-  "overheadScore": 1.05,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T02:11:14.828Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T02:13:59.934Z"
 }

@@ -3678,5 +3678,24 @@
     "initialDistance": 1.4730235351191858,
     "initialAltitude": 1150,
     "initialSpeed": 136
+  },
+  {
+    "callsign": "ASA1345",
+    "flightNumber": "AS1345",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A2DCE1",
+    "registration": "N284AK",
+    "firstSeen": "2026-02-02T02:13:59.931Z",
+    "lastSeen": "2026-02-02T02:13:59.931Z",
+    "duration": 0,
+    "closestDistance": 1.3300397344084807,
+    "closestAltitude": 32325,
+    "closestSpeed": 425,
+    "initialDistance": 1.3300397344084807,
+    "initialAltitude": 32325,
+    "initialSpeed": 425
   }
 ]
