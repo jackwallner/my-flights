@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.78,
+    "distance": 1.47,
     "altitude": 32000,
-    "speed": 381,
-    "timestamp": "2026-02-02T06:02:26.327Z",
-    "lat": 45.6268,
-    "lon": -122.5096,
+    "speed": 370,
+    "timestamp": "2026-02-02T06:09:48.256Z",
+    "lat": 45.6116,
+    "lon": -122.499,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA530",
-    "aircraftType": "B39M",
-    "origin": "BUR",
+    "callsign": "DAL1551",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T06:02:26.325Z"
+    "firstSeen": "2026-02-02T06:09:48.215Z"
   },
-  "overheadScore": 0.78,
-  "isOverhead": true,
+  "overheadScore": 1.47,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T06:03:24.966Z"
+  "timestamp": "2026-02-02T06:10:46.860Z"
 }
