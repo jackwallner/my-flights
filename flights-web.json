@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.14,
-    "altitude": 35750,
-    "speed": 409,
-    "timestamp": "2026-02-02T22:53:54.311Z",
-    "lat": 45.6252,
-    "lon": -122.5552,
+    "distance": 1.33,
+    "altitude": 34000,
+    "speed": 425,
+    "timestamp": "2026-02-02T23:08:19.302Z",
+    "lat": 45.6236,
+    "lon": -122.5598,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2325",
-    "aircraftType": "B737",
-    "origin": "OAK",
+    "callsign": "UAL1008",
+    "aircraftType": "B39M",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T22:53:54.309Z"
+    "firstSeen": "2026-02-02T23:08:19.300Z"
   },
-  "overheadScore": 1.14,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T22:54:52.614Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T23:08:19.302Z"
 }

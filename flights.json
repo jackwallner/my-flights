@@ -6097,5 +6097,25 @@
     "initialAltitude": 35750,
     "initialSpeed": 409,
     "_sessionKey": "SWA2325_2026-02-02T22"
+  },
+  {
+    "callsign": "UAL1008",
+    "flightNumber": "UA1008",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A12A81",
+    "registration": "N17407",
+    "firstSeen": "2026-02-02T23:08:19.300Z",
+    "lastSeen": "2026-02-02T23:08:19.300Z",
+    "duration": 0,
+    "closestDistance": 1.3344064153922095,
+    "closestAltitude": 34000,
+    "closestSpeed": 425,
+    "initialDistance": 1.3344064153922095,
+    "initialAltitude": 34000,
+    "initialSpeed": 425,
+    "_sessionKey": "UAL1008_2026-02-02T23"
   }
 ]
