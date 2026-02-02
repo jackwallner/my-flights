@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.23,
-    "altitude": 1900,
-    "speed": 122,
-    "timestamp": "2026-02-02T21:45:58.540Z",
-    "lat": 45.6149,
-    "lon": -122.5534,
-    "precision": "tracked"
+    "distance": 0.68,
+    "altitude": 1575,
+    "speed": 101,
+    "timestamp": "2026-02-02T21:46:56.388Z",
+    "lat": 45.6252,
+    "lon": -122.5119,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N624ST",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-02T21:45:58.538Z"
   },
-  "overheadScore": 1.23,
-  "isOverhead": false,
-  "pathSnapshots": 1,
+  "overheadScore": 0.68,
+  "isOverhead": true,
+  "pathSnapshots": 6,
   "status": "tracking",
-  "timestamp": "2026-02-02T21:45:58.540Z"
+  "timestamp": "2026-02-02T21:47:37.497Z"
 }
