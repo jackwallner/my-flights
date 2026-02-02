@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.03,
-    "altitude": 43000,
-    "speed": 424,
-    "timestamp": "2026-02-02T21:17:01.292Z",
-    "lat": 45.6197,
-    "lon": -122.5049,
+    "distance": 1.44,
+    "altitude": 34000,
+    "speed": 422,
+    "timestamp": "2026-02-02T21:18:50.655Z",
+    "lat": 45.612,
+    "lon": -122.4996,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N838LJ",
-    "aircraftType": "Cita",
-    "origin": "LAS",
-    "destination": "BFI",
-    "firstSeen": "2026-02-02T21:17:01.290Z"
+    "callsign": "DAL2101",
+    "aircraftType": "A223",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T21:18:50.653Z"
   },
-  "overheadScore": 1.03,
+  "overheadScore": 1.44,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-02T21:17:01.292Z"
+  "status": "completed",
+  "timestamp": "2026-02-02T21:19:48.487Z"
 }
