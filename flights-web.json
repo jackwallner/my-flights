@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 36000,
-    "speed": 427,
-    "timestamp": "2026-02-02T02:55:27.547Z",
+    "distance": 1.31,
+    "altitude": 31950,
+    "speed": 412,
+    "timestamp": "2026-02-02T03:03:37.949Z",
     "lat": 45.62,
-    "lon": -122.5589,
+    "lon": -122.5584,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1359",
-    "aircraftType": "737",
-    "origin": "OAK",
+    "callsign": "FFT1177",
+    "aircraftType": "A321",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T02:55:27.544Z"
+    "firstSeen": "2026-02-02T03:03:37.948Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.31,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T02:56:25.655Z"
+  "timestamp": "2026-02-02T03:04:35.947Z"
 }
