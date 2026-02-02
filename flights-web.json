@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.38,
-    "altitude": 34000,
-    "speed": 404,
-    "timestamp": "2026-02-02T20:29:43.095Z",
-    "lat": 45.615,
-    "lon": -122.5576,
+    "distance": 1.4,
+    "altitude": 675,
+    "speed": 86,
+    "timestamp": "2026-02-02T20:37:23.244Z",
+    "lat": 45.6117,
+    "lon": -122.5552,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2344",
-    "aircraftType": "E175",
-    "origin": "STS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T20:29:43.094Z"
+    "callsign": "N49194",
+    "aircraftType": "C152",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-02-02T20:37:23.242Z"
   },
-  "overheadScore": 1.38,
+  "overheadScore": 1.4,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T20:30:41.156Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T20:37:23.244Z"
 }

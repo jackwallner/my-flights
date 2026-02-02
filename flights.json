@@ -5577,5 +5577,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 404,
     "_sessionKey": "QXE2344_2026-02-02T20"
+  },
+  {
+    "callsign": "N49194",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A6177F",
+    "registration": "N49194",
+    "firstSeen": "2026-02-02T20:37:23.242Z",
+    "lastSeen": "2026-02-02T20:37:23.242Z",
+    "duration": 0,
+    "closestDistance": 1.399595206297116,
+    "closestAltitude": 675,
+    "closestSpeed": 86,
+    "initialDistance": 1.399595206297116,
+    "initialAltitude": 675,
+    "initialSpeed": 86,
+    "_sessionKey": "N49194_2026-02-02T20"
   }
 ]
