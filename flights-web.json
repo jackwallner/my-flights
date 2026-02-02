@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
-    "altitude": 36000,
-    "speed": 402,
-    "timestamp": "2026-02-02T18:44:46.569Z",
-    "lat": 45.6242,
-    "lon": -122.5599,
+    "distance": 0.84,
+    "altitude": 33975,
+    "speed": 371,
+    "timestamp": "2026-02-02T18:50:12.379Z",
+    "lat": 45.625,
+    "lon": -122.508,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA762",
-    "aircraftType": "B39M",
-    "origin": "SJC",
+    "callsign": "FFT2407",
+    "aircraftType": "A320",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T18:44:46.567Z"
+    "firstSeen": "2026-02-02T18:50:12.377Z"
   },
-  "overheadScore": 1.34,
-  "isOverhead": false,
+  "overheadScore": 0.84,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T18:45:44.616Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T18:50:12.379Z"
 }

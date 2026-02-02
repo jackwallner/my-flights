@@ -5197,5 +5197,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 402,
     "_sessionKey": "ASA762_2026-02-02T18"
+  },
+  {
+    "callsign": "FFT2407",
+    "flightNumber": "F92407",
+    "aircraftType": "A20N",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A4BFC1",
+    "registration": "N405FR",
+    "firstSeen": "2026-02-02T18:50:12.377Z",
+    "lastSeen": "2026-02-02T18:50:12.377Z",
+    "duration": 0,
+    "closestDistance": 0.844642613739988,
+    "closestAltitude": 33975,
+    "closestSpeed": 371,
+    "initialDistance": 0.844642613739988,
+    "initialAltitude": 33975,
+    "initialSpeed": 371,
+    "_sessionKey": "FFT2407_2026-02-02T18"
   }
 ]
