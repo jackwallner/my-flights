@@ -5397,5 +5397,25 @@
     "initialAltitude": 43000,
     "initialSpeed": 411,
     "_sessionKey": "EJA554_2026-02-02T19"
+  },
+  {
+    "callsign": "DAL976",
+    "flightNumber": "DL976",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A09CFE",
+    "registration": "N139DU",
+    "firstSeen": "2026-02-02T19:47:57.891Z",
+    "lastSeen": "2026-02-02T19:47:57.891Z",
+    "duration": 0,
+    "closestDistance": 1.475667130729639,
+    "closestAltitude": 30000,
+    "closestSpeed": 434,
+    "initialDistance": 1.475667130729639,
+    "initialAltitude": 30000,
+    "initialSpeed": 434,
+    "_sessionKey": "DAL976_2026-02-02T19"
   }
 ]

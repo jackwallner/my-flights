@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.88,
-    "altitude": 43000,
-    "speed": 411,
-    "timestamp": "2026-02-02T19:43:13.433Z",
-    "lat": 45.6243,
-    "lon": -122.5072,
+    "distance": 1.48,
+    "altitude": 30000,
+    "speed": 434,
+    "timestamp": "2026-02-02T19:47:57.893Z",
+    "lat": 45.6117,
+    "lon": -122.5574,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA554",
-    "aircraftType": "C68A",
-    "origin": "SNA",
-    "destination": null,
-    "firstSeen": "2026-02-02T19:43:13.432Z"
+    "callsign": "DAL976",
+    "aircraftType": "A220",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T19:47:57.891Z"
   },
-  "overheadScore": 0.88,
-  "isOverhead": true,
+  "overheadScore": 1.48,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T19:44:11.258Z"
+  "timestamp": "2026-02-02T19:48:56.128Z"
 }
