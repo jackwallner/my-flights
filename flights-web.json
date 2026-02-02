@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.79,
-    "altitude": 36000,
-    "speed": 417,
-    "timestamp": "2026-02-02T03:15:20.313Z",
-    "lat": 45.6259,
-    "lon": -122.5093,
+    "distance": 0.68,
+    "altitude": 36025,
+    "speed": 455,
+    "timestamp": "2026-02-02T03:19:02.852Z",
+    "lat": 45.6145,
+    "lon": -122.533,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1837",
-    "aircraftType": "737",
-    "origin": "SJD",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T03:15:20.311Z"
+    "callsign": "CPA077",
+    "aircraftType": "747",
+    "origin": "GDL",
+    "destination": "ANC",
+    "firstSeen": "2026-02-02T03:19:02.851Z"
   },
-  "overheadScore": 0.79,
+  "overheadScore": 0.68,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T03:16:17.937Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T03:19:02.852Z"
 }

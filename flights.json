@@ -3817,5 +3817,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 417,
     "_sessionKey": "DAL1837_2026-02-02T03"
+  },
+  {
+    "callsign": "CPA077",
+    "flightNumber": "CX77",
+    "aircraftType": "B748",
+    "aircraftName": null,
+    "origin": "GDL",
+    "destination": "ANC",
+    "icao": "780A29",
+    "registration": "B-LJG",
+    "firstSeen": "2026-02-02T03:19:02.851Z",
+    "lastSeen": "2026-02-02T03:19:02.851Z",
+    "duration": 0,
+    "closestDistance": 0.6790336275500914,
+    "closestAltitude": 36025,
+    "closestSpeed": 455,
+    "initialDistance": 0.6790336275500914,
+    "initialAltitude": 36025,
+    "initialSpeed": 455,
+    "_sessionKey": "CPA077_2026-02-02T03"
   }
 ]
