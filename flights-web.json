@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.17,
-    "altitude": 35200,
-    "speed": 402,
-    "timestamp": "2026-02-02T16:03:28.634Z",
-    "lat": 45.6171,
-    "lon": -122.5027,
+    "distance": 1.29,
+    "altitude": 42975,
+    "speed": 436,
+    "timestamp": "2026-02-02T16:05:49.290Z",
+    "lat": 45.6041,
+    "lon": -122.5336,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA607",
-    "aircraftType": "B39M",
-    "origin": "ONT",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T16:03:28.632Z"
+    "callsign": "LXJ575",
+    "aircraftType": "CL35",
+    "origin": "VNY",
+    "destination": "BFI",
+    "firstSeen": "2026-02-02T16:05:49.248Z"
   },
-  "overheadScore": 1.17,
+  "overheadScore": 1.29,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-02T16:03:28.634Z"
+  "timestamp": "2026-02-02T16:05:49.290Z"
 }

@@ -4597,5 +4597,25 @@
     "initialAltitude": 35200,
     "initialSpeed": 402,
     "_sessionKey": "ASA607_2026-02-02T16"
+  },
+  {
+    "callsign": "LXJ575",
+    "flightNumber": "LXJ575",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "A7618F",
+    "registration": "N575FX",
+    "firstSeen": "2026-02-02T16:05:49.248Z",
+    "lastSeen": "2026-02-02T16:05:49.248Z",
+    "duration": 0,
+    "closestDistance": 1.2924027096515727,
+    "closestAltitude": 42975,
+    "closestSpeed": 436,
+    "initialDistance": 1.2924027096515727,
+    "initialAltitude": 42975,
+    "initialSpeed": 436,
+    "_sessionKey": "LXJ575_2026-02-02T16"
   }
 ]
