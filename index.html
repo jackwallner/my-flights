@@ -2058,8 +2058,12 @@
           renderCurrentFlight(data);
         }
         
-        // Merge current flight into history
-        if (data.status === 'completed' && data.flight && data.flight.callsign && Array.isArray(flightHistory)) {
+        // Merge current flight into history (only if seen within last 2 hours)
+        const TWO_HOURS = 2 * 60 * 60 * 1000;
+        const flightTimestamp = new Date(data.timestamp || 0).getTime();
+        const isRecent = (Date.now() - flightTimestamp) < TWO_HOURS;
+        
+        if (data.status === 'completed' && data.flight && data.flight.callsign && Array.isArray(flightHistory) && isRecent) {
           const currentFlight = {
             callsign: data.flight.callsign,
             flightNumber: data.flight.flightNumber || null,
@@ -2084,6 +2088,13 @@
           } else {
             flightHistory[existingIndex] = { ...flightHistory[existingIndex], ...currentFlight };
           }
+        } else if (!isRecent && data.flight) {
+          // Clear isCurrent from old flights
+          flightHistory.forEach(f => {
+            if (f.callsign === data.flight.callsign && f.firstSeen === data.flight.firstSeen) {
+              delete f.isCurrent;
+            }
+          });
         }
         
         updateStats();
