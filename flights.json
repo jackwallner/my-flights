@@ -4417,5 +4417,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 379,
     "_sessionKey": "SWA2580_2026-02-02T06"
+  },
+  {
+    "callsign": "ASA652",
+    "flightNumber": "AS652",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A22642",
+    "registration": "N238AK",
+    "firstSeen": "2026-02-02T06:56:06.053Z",
+    "lastSeen": "2026-02-02T06:56:06.053Z",
+    "duration": 0,
+    "closestDistance": 1.12834495504395,
+    "closestAltitude": 32000,
+    "closestSpeed": 386,
+    "initialDistance": 1.12834495504395,
+    "initialAltitude": 32000,
+    "initialSpeed": 386,
+    "_sessionKey": "ASA652_2026-02-02T06"
   }
 ]
