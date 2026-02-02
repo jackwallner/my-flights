@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.49,
-    "altitude": 1325,
-    "speed": 81,
-    "timestamp": "2026-02-02T21:52:46.868Z",
-    "lat": 45.6048,
-    "lon": -122.5481,
+    "distance": 1.09,
+    "altitude": 34000,
+    "speed": 408,
+    "timestamp": "2026-02-02T22:05:28.432Z",
+    "lat": 45.6116,
+    "lon": -122.5109,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N603HH",
-    "aircraftType": "R22",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-02T21:52:46.867Z"
+    "callsign": "ASA685",
+    "aircraftType": "B39M",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T22:05:28.429Z"
   },
-  "overheadScore": 1.49,
+  "overheadScore": 1.09,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T21:53:48.026Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T22:05:28.432Z"
 }
