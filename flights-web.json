@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.09,
-    "altitude": 34000,
-    "speed": 408,
-    "timestamp": "2026-02-02T22:05:28.432Z",
-    "lat": 45.6116,
-    "lon": -122.5109,
+    "distance": 1.36,
+    "altitude": 36000,
+    "speed": 421,
+    "timestamp": "2026-02-02T22:21:13.043Z",
+    "lat": 45.6174,
+    "lon": -122.5584,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA685",
+    "callsign": "ASA315",
     "aircraftType": "B39M",
-    "origin": "SAN",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T22:05:28.429Z"
+    "firstSeen": "2026-02-02T22:21:13.041Z"
   },
-  "overheadScore": 1.09,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T22:06:27.569Z"
+  "timestamp": "2026-02-02T22:22:11.047Z"
 }

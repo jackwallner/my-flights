@@ -5977,5 +5977,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 408,
     "_sessionKey": "ASA685_2026-02-02T22"
+  },
+  {
+    "callsign": "ASA315",
+    "flightNumber": "AS315",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "ACA1DA",
+    "registration": "N913AK",
+    "firstSeen": "2026-02-02T22:21:13.041Z",
+    "lastSeen": "2026-02-02T22:21:13.041Z",
+    "duration": 0,
+    "closestDistance": 1.3570270770976232,
+    "closestAltitude": 36000,
+    "closestSpeed": 421,
+    "initialDistance": 1.3570270770976232,
+    "initialAltitude": 36000,
+    "initialSpeed": 421,
+    "_sessionKey": "ASA315_2026-02-02T22"
   }
 ]
