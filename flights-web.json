@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.19,
-    "altitude": 28025,
-    "speed": 386,
-    "timestamp": "2026-02-02T18:02:34.106Z",
-    "lat": 45.6118,
-    "lon": -122.5489,
+    "distance": 1.17,
+    "altitude": 36000,
+    "speed": 380,
+    "timestamp": "2026-02-02T18:05:25.714Z",
+    "lat": 45.6173,
+    "lon": -122.5028,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5004",
-    "aircraftType": "CRJ",
-    "origin": "PHX",
+    "callsign": "ASA479",
+    "aircraftType": "737",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T18:02:34.104Z"
+    "firstSeen": "2026-02-02T18:05:25.713Z"
   },
-  "overheadScore": 1.19,
+  "overheadScore": 1.17,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T18:03:32.351Z"
+  "timestamp": "2026-02-02T18:06:23.886Z"
 }
