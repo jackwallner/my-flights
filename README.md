@@ -12,10 +12,11 @@
 
 A GitHub Pages site that displays flight data collected by a local tracker service running on your Mac. Unlike [overhead-flights](https://github.com/jackwallner/overhead-flights) which fetches data directly from the browser, this system uses a dedicated service to:
 
-- Poll FlightRadar24 API every 10 seconds
+- Poll FlightRadar24 API every 10 seconds (1.5 NM radius)
 - Track closest approach for each aircraft
+- Create separate entries for each overhead pass (5-min session buffer)
 - Display flights on an AWTRIX pixel clock
-- Export data to this website automatically
+- Export data to this website automatically (sync every 2 min)
 
 ## System Architecture
 
@@ -134,32 +135,61 @@ launchctl load ~/Library/LaunchAgents/com.yourname.flight-tracker.plist
 
 ## Data Format
 
-The site displays flights from `flights-web.json`:
+## Session-Based Tracking
 
+Unlike systems that update existing entries, this tracker creates **separate records** for each overhead pass:
+
+- Same flight (ASA123) passing at 2:00 PM and 2:30 PM = **2 separate table rows**
+- Same flight passing tomorrow = **new entry** (not updating yesterday's)
+- Private planes doing circuits = **each pass tracked separately**
+
+This is achieved via:
+- **Session Key**: `callsign_YYYY-MM-DDTHH` (hour-level grouping)
+- **Buffer Window**: 5 minutes (prevents duplicate entries for the same pass)
+
+## Data Format
+
+### Current Flight (`flights-web.json`)
 ```json
 {
-  "flights": [
-    {
-      "callsign": "ASA123",
-      "airline": "Alaska Airlines",
-      "aircraftType": "Boeing 737-800",
-      "registration": "N512AS",
-      "route": "SEA → LAX",
-      "closestDistance": 0.8,
-      "closestAltitude": 8500,
-      "closestSpeed": 245,
-      "firstSeen": "2026-01-30T14:23:00.000Z",
-      "lastSeen": "2026-01-30T14:28:00.000Z",
-      "flightType": "commercial"
-    }
-  ],
-  "stats": {
-    "totalFlights": 42,
-    "closestFlight": 0.3,
-    "todayCount": 12
+  "closestApproach": {
+    "distance": 0.77,
+    "altitude": 36000,
+    "speed": 406,
+    "timestamp": "2026-01-31T07:16:48.584Z",
+    "lat": 45.6281,
+    "lon": -122.5101,
+    "precision": "tracked"
   },
-  "lastUpdated": "2026-01-30T14:30:00.000Z"
+  "flight": {
+    "callsign": "ASA691",
+    "aircraftType": "737",
+    "origin": "PSP",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T07:16:48.581Z"
+  },
+  "status": "tracking",
+  "timestamp": "2026-01-31T07:16:48.584Z"
 }
+```
+
+### Flight History (`flights.json`)
+```json
+[
+  {
+    "callsign": "ASA691",
+    "flightNumber": "AS691", 
+    "aircraftType": "B739",
+    "origin": "PSP",
+    "destination": "SEA",
+    "firstSeen": "2026-01-31T07:16:48.581Z",
+    "lastSeen": "2026-01-31T07:16:48.581Z",
+    "closestDistance": 0.77,
+    "closestAltitude": 36000,
+    "closestSpeed": 406,
+    "_sessionKey": "ASA691_2026-01-31T07"
+  }
+]
 ```
 
 ## Comparison: my-flights vs overhead-flights
