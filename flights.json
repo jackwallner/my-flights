@@ -3737,5 +3737,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 469,
     "_sessionKey": "UPS51_2026-02-02T02"
+  },
+  {
+    "callsign": "ASA1359",
+    "flightNumber": "AS1359",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A5B764",
+    "registration": "N468AS",
+    "firstSeen": "2026-02-02T02:55:27.544Z",
+    "lastSeen": "2026-02-02T02:55:27.544Z",
+    "duration": 0,
+    "closestDistance": 1.3311433116445606,
+    "closestAltitude": 36000,
+    "closestSpeed": 427,
+    "initialDistance": 1.3311433116445606,
+    "initialAltitude": 36000,
+    "initialSpeed": 427,
+    "_sessionKey": "ASA1359_2026-02-02T02"
   }
 ]

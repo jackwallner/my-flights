@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.94,
-    "altitude": 40000,
-    "speed": 469,
-    "timestamp": "2026-02-02T02:31:43.802Z",
-    "lat": 45.61,
-    "lon": -122.5333,
+    "distance": 1.33,
+    "altitude": 36000,
+    "speed": 427,
+    "timestamp": "2026-02-02T02:55:27.547Z",
+    "lat": 45.62,
+    "lon": -122.5589,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UPS51",
-    "aircraftType": "747",
-    "origin": "ONT",
-    "destination": "ANC",
-    "firstSeen": "2026-02-02T02:31:43.800Z"
+    "callsign": "ASA1359",
+    "aircraftType": "737",
+    "origin": "OAK",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T02:55:27.544Z"
   },
-  "overheadScore": 0.94,
-  "isOverhead": true,
+  "overheadScore": 1.33,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T02:32:41.996Z"
+  "timestamp": "2026-02-02T02:56:25.655Z"
 }
