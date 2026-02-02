@@ -6177,5 +6177,25 @@
     "initialAltitude": 33675,
     "initialSpeed": 385,
     "_sessionKey": "SKW5403_2026-02-02T23"
+  },
+  {
+    "callsign": "N451LF",
+    "flightNumber": null,
+    "aircraftType": "B407",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A576D3",
+    "registration": "N451LF",
+    "firstSeen": "2026-02-02T23:23:22.298Z",
+    "lastSeen": "2026-02-02T23:24:30.330Z",
+    "duration": 68,
+    "closestDistance": 1.1370420784517725,
+    "closestAltitude": 1525,
+    "closestSpeed": 123,
+    "initialDistance": 1.3206573388422256,
+    "initialAltitude": 1450,
+    "initialSpeed": 122,
+    "_sessionKey": "N451LF_2026-02-02T23"
   }
 ]
