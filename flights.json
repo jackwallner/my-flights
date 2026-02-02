@@ -4397,5 +4397,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 385,
     "_sessionKey": "ASA402_2026-02-02T06"
+  },
+  {
+    "callsign": "SWA2580",
+    "flightNumber": "WN2580",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AC5ADA",
+    "registration": "N8954Q",
+    "firstSeen": "2026-02-02T06:53:23.762Z",
+    "lastSeen": "2026-02-02T06:53:23.762Z",
+    "duration": 0,
+    "closestDistance": 1.342244781545853,
+    "closestAltitude": 32000,
+    "closestSpeed": 379,
+    "initialDistance": 1.342244781545853,
+    "initialAltitude": 32000,
+    "initialSpeed": 379,
+    "_sessionKey": "SWA2580_2026-02-02T06"
   }
 ]
