@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 38000,
-    "speed": 413,
-    "timestamp": "2026-02-02T19:30:31.838Z",
-    "lat": 45.6216,
-    "lon": -122.5601,
+    "distance": 1.37,
+    "altitude": 36000,
+    "speed": 404,
+    "timestamp": "2026-02-02T19:35:47.454Z",
+    "lat": 45.6161,
+    "lon": -122.5579,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1304",
+    "callsign": "ASA798",
     "aircraftType": "737",
-    "origin": "SJC",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T19:30:31.836Z"
+    "firstSeen": "2026-02-02T19:35:47.453Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T19:31:30.176Z"
+  "timestamp": "2026-02-02T19:36:45.187Z"
 }
