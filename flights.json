@@ -3917,5 +3917,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 360,
     "_sessionKey": "DAL2318_2026-02-02T03"
+  },
+  {
+    "callsign": "ASA552",
+    "flightNumber": "AS552",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A4B420",
+    "registration": "N402AS",
+    "firstSeen": "2026-02-02T03:35:53.069Z",
+    "lastSeen": "2026-02-02T03:35:53.069Z",
+    "duration": 0,
+    "closestDistance": 1.372098335972175,
+    "closestAltitude": 36000,
+    "closestSpeed": 423,
+    "initialDistance": 1.372098335972175,
+    "initialAltitude": 36000,
+    "initialSpeed": 423,
+    "_sessionKey": "ASA552_2026-02-02T03"
   }
 ]
