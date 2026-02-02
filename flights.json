@@ -4297,5 +4297,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 369,
     "_sessionKey": "SWA447_2026-02-02T05"
+  },
+  {
+    "callsign": "ASA530",
+    "flightNumber": "AS530",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "AD8ED4",
+    "registration": "N973AK",
+    "firstSeen": "2026-02-02T06:02:26.325Z",
+    "lastSeen": "2026-02-02T06:02:26.325Z",
+    "duration": 0,
+    "closestDistance": 0.7826156582312316,
+    "closestAltitude": 32000,
+    "closestSpeed": 381,
+    "initialDistance": 0.7826156582312316,
+    "initialAltitude": 32000,
+    "initialSpeed": 381,
+    "_sessionKey": "ASA530_2026-02-02T06"
   }
 ]
