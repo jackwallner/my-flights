@@ -3957,5 +3957,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 371,
     "_sessionKey": "SKW4049_2026-02-02T03"
+  },
+  {
+    "callsign": "SKW3030",
+    "flightNumber": "AS3030",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MRY",
+    "destination": "SEA",
+    "icao": "A15C54",
+    "registration": "N187SY",
+    "firstSeen": "2026-02-02T03:43:18.061Z",
+    "lastSeen": "2026-02-02T03:43:18.061Z",
+    "duration": 0,
+    "closestDistance": 1.3933578518149465,
+    "closestAltitude": 28025,
+    "closestSpeed": 390,
+    "initialDistance": 1.3933578518149465,
+    "initialAltitude": 28025,
+    "initialSpeed": 390,
+    "_sessionKey": "SKW3030_2026-02-02T03"
   }
 ]
