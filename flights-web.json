@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.38,
-    "altitude": 36000,
-    "speed": 426,
-    "timestamp": "2026-02-02T03:30:11.221Z",
-    "lat": 45.617,
-    "lon": -122.5587,
+    "distance": 1.13,
+    "altitude": 24000,
+    "speed": 360,
+    "timestamp": "2026-02-02T03:32:51.832Z",
+    "lat": 45.6176,
+    "lon": -122.5035,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA523",
-    "aircraftType": "B39M",
-    "origin": "SJC",
+    "callsign": "DAL2318",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T03:30:11.219Z"
+    "firstSeen": "2026-02-02T03:32:51.831Z"
   },
-  "overheadScore": 1.38,
+  "overheadScore": 1.13,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T03:31:08.984Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T03:32:51.833Z"
 }

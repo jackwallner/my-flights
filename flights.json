@@ -3897,5 +3897,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 426,
     "_sessionKey": "ASA523_2026-02-02T03"
+  },
+  {
+    "callsign": "DAL2318",
+    "flightNumber": "DL2318",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A09CFE",
+    "registration": "N139DU",
+    "firstSeen": "2026-02-02T03:32:51.831Z",
+    "lastSeen": "2026-02-02T03:32:51.831Z",
+    "duration": 0,
+    "closestDistance": 1.1317059820680122,
+    "closestAltitude": 24000,
+    "closestSpeed": 360,
+    "initialDistance": 1.1317059820680122,
+    "initialAltitude": 24000,
+    "initialSpeed": 360,
+    "_sessionKey": "DAL2318_2026-02-02T03"
   }
 ]
