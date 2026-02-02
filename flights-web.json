@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 36025,
-    "speed": 455,
-    "timestamp": "2026-02-02T03:19:02.852Z",
-    "lat": 45.6145,
-    "lon": -122.533,
+    "distance": 0.91,
+    "altitude": 36000,
+    "speed": 411,
+    "timestamp": "2026-02-02T03:23:06.353Z",
+    "lat": 45.6225,
+    "lon": -122.5068,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CPA077",
-    "aircraftType": "747",
-    "origin": "GDL",
-    "destination": "ANC",
-    "firstSeen": "2026-02-02T03:19:02.851Z"
+    "callsign": "ASA691",
+    "aircraftType": "737",
+    "origin": "PSP",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T03:23:06.351Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.91,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T03:20:00.709Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T03:23:06.353Z"
 }

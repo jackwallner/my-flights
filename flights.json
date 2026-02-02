@@ -3837,5 +3837,25 @@
     "initialAltitude": 36025,
     "initialSpeed": 455,
     "_sessionKey": "CPA077_2026-02-02T03"
+  },
+  {
+    "callsign": "ASA691",
+    "flightNumber": "AS691",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "A2D573",
+    "registration": "N282AK",
+    "firstSeen": "2026-02-02T03:23:06.351Z",
+    "lastSeen": "2026-02-02T03:23:06.351Z",
+    "duration": 0,
+    "closestDistance": 0.9103197214412205,
+    "closestAltitude": 36000,
+    "closestSpeed": 411,
+    "initialDistance": 0.9103197214412205,
+    "initialAltitude": 36000,
+    "initialSpeed": 411,
+    "_sessionKey": "ASA691_2026-02-02T03"
   }
 ]
