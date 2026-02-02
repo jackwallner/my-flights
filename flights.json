@@ -5657,5 +5657,25 @@
     "initialAltitude": 1075,
     "initialSpeed": 142,
     "_sessionKey": "N511EX_2026-02-02T20"
+  },
+  {
+    "callsign": "SKW4439",
+    "flightNumber": "DL4439",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A26BB8",
+    "registration": "N255SY",
+    "firstSeen": "2026-02-02T21:00:07.609Z",
+    "lastSeen": "2026-02-02T21:00:07.609Z",
+    "duration": 0,
+    "closestDistance": 1.3599826718244474,
+    "closestAltitude": 32000,
+    "closestSpeed": 405,
+    "initialDistance": 1.3599826718244474,
+    "initialAltitude": 32000,
+    "initialSpeed": 405,
+    "_sessionKey": "SKW4439_2026-02-02T21"
   }
 ]
