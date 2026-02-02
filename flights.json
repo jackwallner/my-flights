@@ -4337,5 +4337,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 370,
     "_sessionKey": "DAL1551_2026-02-02T06"
+  },
+  {
+    "callsign": "ASA532",
+    "flightNumber": "AS532",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AAE59E",
+    "registration": "N801AK",
+    "firstSeen": "2026-02-02T06:12:20.112Z",
+    "lastSeen": "2026-02-02T06:12:20.112Z",
+    "duration": 0,
+    "closestDistance": 1.3954246242203243,
+    "closestAltitude": 32000,
+    "closestSpeed": 376,
+    "initialDistance": 1.3954246242203243,
+    "initialAltitude": 32000,
+    "initialSpeed": 376,
+    "_sessionKey": "ASA532_2026-02-02T06"
   }
 ]
