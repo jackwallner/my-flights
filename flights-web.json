@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.76,
+    "distance": 1.47,
     "altitude": 34000,
-    "speed": 417,
-    "timestamp": "2026-02-02T00:23:08.159Z",
-    "lat": 45.6313,
-    "lon": -122.5122,
+    "speed": 430,
+    "timestamp": "2026-02-02T00:32:09.084Z",
+    "lat": 45.611,
+    "lon": -122.5564,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6278",
+    "callsign": "QXE2037",
     "aircraftType": "E175",
-    "origin": "PHX",
+    "origin": "RDD",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T00:27:50.201Z"
+    "firstSeen": "2026-01-31T00:15:45.796Z"
   },
-  "overheadScore": 0.76,
-  "isOverhead": true,
+  "overheadScore": 1.47,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T00:24:05.748Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T00:32:09.084Z"
 }
