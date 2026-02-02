@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.07,
-    "altitude": 2125,
-    "speed": 166,
-    "timestamp": "2026-02-02T22:52:56.594Z",
-    "lat": 45.6155,
-    "lon": -122.5495,
+    "distance": 1.14,
+    "altitude": 35750,
+    "speed": 409,
+    "timestamp": "2026-02-02T22:53:54.311Z",
+    "lat": 45.6252,
+    "lon": -122.5552,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BOE1AU",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "MWH",
-    "firstSeen": "2026-02-02T22:52:56.592Z"
+    "callsign": "SWA2325",
+    "aircraftType": "B737",
+    "origin": "OAK",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T22:53:54.309Z"
   },
-  "overheadScore": 1.07,
+  "overheadScore": 1.14,
   "isOverhead": false,
-  "pathSnapshots": 2,
-  "status": "tracking",
-  "timestamp": "2026-02-02T22:53:54.311Z"
+  "pathSnapshots": 1,
+  "status": "completed",
+  "timestamp": "2026-02-02T22:54:52.614Z"
 }
