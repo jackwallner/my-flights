@@ -4277,5 +4277,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 403,
     "_sessionKey": "ASA1310_2026-02-02T05"
+  },
+  {
+    "callsign": "SWA447",
+    "flightNumber": "WN447",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A557C3",
+    "registration": "N443WN",
+    "firstSeen": "2026-02-02T05:41:50.922Z",
+    "lastSeen": "2026-02-02T05:41:50.922Z",
+    "duration": 0,
+    "closestDistance": 1.4581075048697083,
+    "closestAltitude": 36000,
+    "closestSpeed": 369,
+    "initialDistance": 1.4581075048697083,
+    "initialAltitude": 36000,
+    "initialSpeed": 369,
+    "_sessionKey": "SWA447_2026-02-02T05"
   }
 ]
