@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.24,
-    "altitude": 750,
-    "speed": 89,
-    "timestamp": "2026-02-02T20:38:20.908Z",
-    "lat": 45.6049,
-    "lon": -122.5232,
-    "precision": "high"
+    "distance": 1.33,
+    "altitude": 3025,
+    "speed": 114,
+    "timestamp": "2026-02-02T20:40:45.206Z",
+    "lat": 45.6204,
+    "lon": -122.559,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N49194",
-    "aircraftType": "C152",
-    "origin": "HIO",
+    "callsign": "N7274G",
+    "aircraftType": "C150",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-02T20:37:23.242Z"
+    "firstSeen": "2026-02-02T20:40:45.204Z"
   },
-  "overheadScore": 1.24,
+  "overheadScore": 1.33,
   "isOverhead": false,
-  "pathSnapshots": 3,
-  "status": "completed",
-  "timestamp": "2026-02-02T20:38:41.539Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-02T20:40:45.207Z"
 }
