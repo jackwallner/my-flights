@@ -2090,6 +2090,7 @@
         renderHistoryTable();
         
         document.getElementById('timestamp').textContent = `Last updated: ${new Date().toLocaleTimeString()}`;
+        document.getElementById('data-updated').textContent = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
         
       } catch (err) {
         console.log('Fetch error:', err.message);
