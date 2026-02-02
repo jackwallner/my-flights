@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 34000,
-    "speed": 403,
-    "timestamp": "2026-02-02T21:09:00.346Z",
-    "lat": 45.6257,
-    "lon": -122.5602,
+    "distance": 1.07,
+    "altitude": 43000,
+    "speed": 436,
+    "timestamp": "2026-02-02T21:10:19.480Z",
+    "lat": 45.6187,
+    "lon": -122.5044,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2203",
-    "aircraftType": "E175",
-    "origin": "OAK",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T21:09:00.344Z"
+    "callsign": "CL35",
+    "aircraftType": "CL35",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-02T21:10:19.478Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.07,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-02T21:09:00.346Z"
+  "status": "completed",
+  "timestamp": "2026-02-02T21:11:17.317Z"
 }

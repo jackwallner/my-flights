@@ -5697,5 +5697,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 403,
     "_sessionKey": "QXE2203_2026-02-02T21"
+  },
+  {
+    "callsign": "CL35",
+    "flightNumber": null,
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-02T21:10:19.478Z",
+    "lastSeen": "2026-02-02T21:10:19.478Z",
+    "duration": 0,
+    "closestDistance": 1.0712145668394617,
+    "closestAltitude": 43000,
+    "closestSpeed": 436,
+    "initialDistance": 1.0712145668394617,
+    "initialAltitude": 43000,
+    "initialSpeed": 436,
+    "_sessionKey": "CL35_2026-02-02T21"
   }
 ]
