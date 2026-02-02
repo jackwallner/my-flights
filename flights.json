@@ -4617,5 +4617,25 @@
     "initialAltitude": 42975,
     "initialSpeed": 436,
     "_sessionKey": "LXJ575_2026-02-02T16"
+  },
+  {
+    "callsign": "ASA323",
+    "flightNumber": "AS323",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "A5A888",
+    "registration": "N464AS",
+    "firstSeen": "2026-02-02T16:17:06.208Z",
+    "lastSeen": "2026-02-02T16:17:06.208Z",
+    "duration": 0,
+    "closestDistance": 1.1275606706902397,
+    "closestAltitude": 39775,
+    "closestSpeed": 387,
+    "initialDistance": 1.1275606706902397,
+    "initialAltitude": 39775,
+    "initialSpeed": 387,
+    "_sessionKey": "ASA323_2026-02-02T16"
   }
 ]
