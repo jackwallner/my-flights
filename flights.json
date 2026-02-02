@@ -6017,5 +6017,25 @@
     "initialAltitude": 43000,
     "initialSpeed": 430,
     "_sessionKey": "VJA310_2026-02-02T22"
+  },
+  {
+    "callsign": "FA50",
+    "flightNumber": null,
+    "aircraftType": "FA50",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-02T22:32:46.450Z",
+    "lastSeen": "2026-02-02T22:32:46.450Z",
+    "duration": 0,
+    "closestDistance": 1.3516069120255019,
+    "closestAltitude": 39325,
+    "closestSpeed": 407,
+    "initialDistance": 1.3516069120255019,
+    "initialAltitude": 39325,
+    "initialSpeed": 407,
+    "_sessionKey": "FA50_2026-02-02T22"
   }
 ]
