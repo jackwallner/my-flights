@@ -1651,7 +1651,10 @@
         <!-- Flight Info Header -->
         <div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-bottom: 20px; flex-wrap: wrap;">
           <span style="font-size: 24px; transform: rotate(${track}deg); display: inline-block;">✈️</span>
-          <a href="https://www.flightaware.com/live/flight/${flight.callsign || ''}" target="_blank" style="font-size: 24px; font-weight: 700; color: var(--text-primary); text-decoration: none;">${flight.callsign || 'UNKNOWN'}</a>
+          <div style="text-align: center;">
+            <div style="font-size: 13px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em;">${airline.name}</div>
+            <a href="https://www.flightaware.com/live/flight/${flight.callsign || ''}" target="_blank" style="font-size: 24px; font-weight: 700; color: var(--text-primary); text-decoration: none;">${flight.callsign || 'UNKNOWN'}</a>
+          </div>
           <span style="color: var(--text-muted);">|</span>
           <span style="font-size: 18px; color: var(--text-secondary);">${flight.origin || '???'} → ${flight.destination || '???'}</span>
           <span style="color: var(--text-muted);">|</span>
@@ -2064,10 +2067,10 @@
         }
         
         // Add current flight as NEW entry each time it appears (daily routes tracked separately)
-        // Only add if within last 2 hours (fresh data)
-        const TWO_HOURS = 2 * 60 * 60 * 1000;
+        // Only add if within last 5 minutes (fresh data) - short buffer for private planes
+        const FIVE_MINUTES = 5 * 60 * 1000;
         const flightTimestamp = new Date(data.timestamp || 0).getTime();
-        const isRecent = (Date.now() - flightTimestamp) < TWO_HOURS;
+        const isRecent = (Date.now() - flightTimestamp) < FIVE_MINUTES;
         
         if (data.status === 'completed' && data.flight && data.flight.callsign && Array.isArray(flightHistory) && isRecent) {
           // Create a unique "session" key based on timestamp to track each overhead pass separately
