@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 3025,
-    "speed": 114,
-    "timestamp": "2026-02-02T20:40:45.206Z",
-    "lat": 45.6204,
-    "lon": -122.559,
+    "distance": 0.89,
+    "altitude": 32000,
+    "speed": 410,
+    "timestamp": "2026-02-02T20:44:38.268Z",
+    "lat": 45.6236,
+    "lon": -122.5071,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7274G",
-    "aircraftType": "C150",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-02T20:40:45.204Z"
+    "callsign": "ASA777",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "PAE",
+    "firstSeen": "2026-02-02T20:44:38.267Z"
   },
-  "overheadScore": 1.33,
-  "isOverhead": false,
+  "overheadScore": 0.89,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T20:41:42.828Z"
+  "timestamp": "2026-02-02T20:45:36.351Z"
 }
