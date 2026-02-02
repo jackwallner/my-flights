@@ -5537,5 +5537,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 421,
     "_sessionKey": "ASA1311_2026-02-02T20"
+  },
+  {
+    "callsign": "EJA686",
+    "flightNumber": "EJA686",
+    "aircraftType": "C56X",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "BFI",
+    "icao": "A91AF0",
+    "registration": "N686QS",
+    "firstSeen": "2026-02-02T20:26:51.828Z",
+    "lastSeen": "2026-02-02T20:26:51.828Z",
+    "duration": 0,
+    "closestDistance": 1.3592291251172433,
+    "closestAltitude": 32000,
+    "closestSpeed": 389,
+    "initialDistance": 1.3592291251172433,
+    "initialAltitude": 32000,
+    "initialSpeed": 389,
+    "_sessionKey": "EJA686_2026-02-02T20"
   }
 ]
