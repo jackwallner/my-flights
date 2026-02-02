@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.45,
-    "altitude": 29550,
-    "speed": 363,
-    "timestamp": "2026-02-02T05:04:51.306Z",
-    "lat": 45.6122,
-    "lon": -122.557,
+    "distance": 1.16,
+    "altitude": 28000,
+    "speed": 394,
+    "timestamp": "2026-02-02T05:17:42.308Z",
+    "lat": 45.6174,
+    "lon": -122.5029,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1327",
+    "callsign": "ASA753",
     "aircraftType": "737",
-    "origin": "SFO",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T05:04:51.140Z"
+    "firstSeen": "2026-02-02T05:17:42.307Z"
   },
-  "overheadScore": 1.45,
+  "overheadScore": 1.16,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T05:05:49.945Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T05:17:42.308Z"
 }
