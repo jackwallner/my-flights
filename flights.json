@@ -5237,5 +5237,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 383,
     "_sessionKey": "SKW5992_2026-02-02T18"
+  },
+  {
+    "callsign": "N475TW",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A5D56B",
+    "registration": "N475TW",
+    "firstSeen": "2026-02-02T18:55:24.482Z",
+    "lastSeen": "2026-02-02T18:56:22.321Z",
+    "duration": 58,
+    "closestDistance": 1.2817401655859606,
+    "closestAltitude": 1600,
+    "closestSpeed": 155,
+    "initialDistance": 1.2817401655859606,
+    "initialAltitude": 1600,
+    "initialSpeed": 155,
+    "_sessionKey": "N475TW_2026-02-02T18"
   }
 ]
