@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.1,
+    "distance": 1.46,
     "altitude": 36000,
-    "speed": 422,
-    "timestamp": "2026-02-02T00:47:52.470Z",
-    "lat": 45.6184,
-    "lon": -122.5039,
+    "speed": 429,
+    "timestamp": "2026-02-02T00:49:52.335Z",
+    "lat": 45.6127,
+    "lon": -122.5578,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA622",
-    "aircraftType": "B39M",
-    "origin": "SAN",
+    "callsign": "ASA687",
+    "aircraftType": "737",
+    "origin": "SBA",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T00:33:41.084Z"
+    "firstSeen": "2026-01-31T01:17:09.399Z"
   },
-  "overheadScore": 1.1,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-02T00:47:52.470Z"
+  "timestamp": "2026-02-02T00:49:52.335Z"
 }
