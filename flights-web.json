@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.91,
-    "altitude": 36000,
-    "speed": 411,
-    "timestamp": "2026-02-02T03:23:06.353Z",
-    "lat": 45.6225,
-    "lon": -122.5068,
+    "distance": 1.39,
+    "altitude": 38000,
+    "speed": 459,
+    "timestamp": "2026-02-02T03:27:50.762Z",
+    "lat": 45.628,
+    "lon": -122.5609,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA691",
-    "aircraftType": "737",
-    "origin": "PSP",
+    "callsign": "ABX3111",
+    "aircraftType": "767",
+    "origin": "SCK",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T03:23:06.351Z"
+    "firstSeen": "2026-02-02T03:27:50.761Z"
   },
-  "overheadScore": 0.91,
-  "isOverhead": true,
+  "overheadScore": 1.39,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T03:24:04.012Z"
+  "timestamp": "2026-02-02T03:28:48.897Z"
 }
