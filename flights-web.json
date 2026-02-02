@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.42,
-    "altitude": 34000,
-    "speed": 417,
-    "timestamp": "2026-02-02T21:37:21.682Z",
-    "lat": 45.6133,
-    "lon": -122.5572,
+    "distance": 1.5,
+    "altitude": 1000,
+    "speed": 139,
+    "timestamp": "2026-02-02T21:40:22.798Z",
+    "lat": 45.6012,
+    "lon": -122.5187,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1305",
-    "aircraftType": "737",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T21:37:21.680Z"
+    "callsign": "N425JA",
+    "aircraftType": "SR22",
+    "origin": "CVO",
+    "destination": null,
+    "firstSeen": "2026-02-02T21:40:22.796Z"
   },
-  "overheadScore": 1.42,
+  "overheadScore": 1.5,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T21:38:19.504Z"
+  "timestamp": "2026-02-02T21:41:20.360Z"
 }

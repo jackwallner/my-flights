@@ -5857,5 +5857,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 417,
     "_sessionKey": "ASA1305_2026-02-02T21"
+  },
+  {
+    "callsign": "N425JA",
+    "flightNumber": null,
+    "aircraftType": "SR22",
+    "aircraftName": null,
+    "origin": "CVO",
+    "destination": null,
+    "icao": "A50EFB",
+    "registration": "N425JA",
+    "firstSeen": "2026-02-02T21:40:22.796Z",
+    "lastSeen": "2026-02-02T21:40:22.796Z",
+    "duration": 0,
+    "closestDistance": 1.4988593290892938,
+    "closestAltitude": 1000,
+    "closestSpeed": 139,
+    "initialDistance": 1.4988593290892938,
+    "initialAltitude": 1000,
+    "initialSpeed": 139,
+    "_sessionKey": "N425JA_2026-02-02T21"
   }
 ]
