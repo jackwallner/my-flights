@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.31,
-    "altitude": 1250,
-    "speed": 143,
-    "timestamp": "2026-02-01T23:52:19.355Z",
-    "lat": 45.6225,
-    "lon": -122.559,
+    "distance": 1.35,
+    "altitude": 34000,
+    "speed": 431,
+    "timestamp": "2026-02-02T00:04:14.400Z",
+    "lat": 45.617,
+    "lon": -122.5581,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N310UD",
-    "aircraftType": "C310",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-01T23:52:19.354Z"
+    "callsign": "SKW3814",
+    "aircraftType": "E175",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-02-01T00:36:22.087Z"
   },
-  "overheadScore": 1.31,
+  "overheadScore": 1.35,
   "isOverhead": false,
-  "pathSnapshots": 2,
-  "status": "completed",
-  "timestamp": "2026-02-01T23:53:26.225Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-02T00:04:14.401Z"
 }
