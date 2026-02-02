@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.01,
-    "altitude": 36000,
-    "speed": 410,
-    "timestamp": "2026-02-02T02:18:40.304Z",
-    "lat": 45.616,
-    "lon": -122.5482,
+    "distance": 1.42,
+    "altitude": 34000,
+    "speed": 395,
+    "timestamp": "2026-02-02T02:25:58.913Z",
+    "lat": 45.6127,
+    "lon": -122.4996,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA408",
-    "aircraftType": "737",
-    "origin": "FAT",
+    "callsign": "SKW6481",
+    "aircraftType": "E175",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T02:36:40.009Z"
+    "firstSeen": "2026-02-01T02:14:25.293Z"
   },
-  "overheadScore": 1.01,
+  "overheadScore": 1.42,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T02:19:38.045Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T02:25:58.913Z"
 }
