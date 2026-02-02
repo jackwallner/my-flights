@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 32000,
-    "speed": 389,
-    "timestamp": "2026-02-02T20:26:51.830Z",
-    "lat": 45.6223,
-    "lon": -122.5602,
+    "distance": 1.38,
+    "altitude": 34000,
+    "speed": 404,
+    "timestamp": "2026-02-02T20:29:43.095Z",
+    "lat": 45.615,
+    "lon": -122.5576,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA686",
-    "aircraftType": "Cita",
-    "origin": "RNO",
-    "destination": "BFI",
-    "firstSeen": "2026-02-02T20:26:51.828Z"
+    "callsign": "QXE2344",
+    "aircraftType": "E175",
+    "origin": "STS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T20:29:43.094Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.38,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T20:27:49.567Z"
+  "timestamp": "2026-02-02T20:30:41.156Z"
 }
