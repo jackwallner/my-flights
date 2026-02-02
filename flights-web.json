@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 25700,
-    "speed": 402,
-    "timestamp": "2026-02-02T03:47:31.207Z",
-    "lat": 45.6113,
-    "lon": -122.5565,
+    "distance": 1.33,
+    "altitude": 32000,
+    "speed": 393,
+    "timestamp": "2026-02-02T03:55:10.444Z",
+    "lat": 45.6197,
+    "lon": -122.5587,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA433",
-    "aircraftType": "B737",
-    "origin": "OAK",
+    "callsign": "DAL2640",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T03:47:31.206Z"
+    "firstSeen": "2026-02-02T03:55:10.442Z"
   },
-  "overheadScore": 1.46,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T03:48:29.300Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T03:55:10.444Z"
 }
