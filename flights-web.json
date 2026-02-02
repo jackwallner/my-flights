@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.13,
-    "altitude": 32000,
-    "speed": 386,
-    "timestamp": "2026-02-02T06:56:06.054Z",
-    "lat": 45.6179,
-    "lon": -122.5034,
+    "distance": 1.36,
+    "altitude": 37975,
+    "speed": 395,
+    "timestamp": "2026-02-02T06:57:57.165Z",
+    "lat": 45.6137,
+    "lon": -122.5003,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA652",
+    "callsign": "ASA574",
     "aircraftType": "737",
     "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T06:56:06.053Z"
+    "firstSeen": "2026-02-02T06:57:57.164Z"
   },
-  "overheadScore": 1.13,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-02T06:56:06.054Z"
+  "status": "completed",
+  "timestamp": "2026-02-02T06:58:55.460Z"
 }
