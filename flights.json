@@ -4717,5 +4717,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 410,
     "_sessionKey": "ASA416_2026-02-02T16"
+  },
+  {
+    "callsign": "SWA3677",
+    "flightNumber": "WN3677",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "AA73A0",
+    "registration": "N7726A",
+    "firstSeen": "2026-02-02T16:47:32.052Z",
+    "lastSeen": "2026-02-02T16:47:32.052Z",
+    "duration": 0,
+    "closestDistance": 1.4029948193585449,
+    "closestAltitude": 32650,
+    "closestSpeed": 398,
+    "initialDistance": 1.4029948193585449,
+    "initialAltitude": 32650,
+    "initialSpeed": 398,
+    "_sessionKey": "SWA3677_2026-02-02T16"
   }
 ]
