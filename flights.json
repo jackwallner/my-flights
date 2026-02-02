@@ -5917,5 +5917,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 411,
     "_sessionKey": "ASA654_2026-02-02T21"
+  },
+  {
+    "callsign": "PC12",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-02T21:50:18.511Z",
+    "lastSeen": "2026-02-02T21:50:18.511Z",
+    "duration": 0,
+    "closestDistance": 1.099032144598238,
+    "closestAltitude": 1375,
+    "closestSpeed": 159,
+    "initialDistance": 1.099032144598238,
+    "initialAltitude": 1375,
+    "initialSpeed": 159,
+    "_sessionKey": "PC12_2026-02-02T21"
   }
 ]

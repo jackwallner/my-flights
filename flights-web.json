@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.97,
-    "altitude": 36000,
-    "speed": 411,
-    "timestamp": "2026-02-02T21:47:37.497Z",
-    "lat": 45.6214,
-    "lon": -122.5058,
+    "distance": 1.1,
+    "altitude": 1375,
+    "speed": 159,
+    "timestamp": "2026-02-02T21:50:18.513Z",
+    "lat": 45.6116,
+    "lon": -122.5455,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA654",
-    "aircraftType": "737",
-    "origin": "ONT",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T21:47:37.495Z"
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-02T21:50:18.511Z"
   },
-  "overheadScore": 0.97,
-  "isOverhead": true,
+  "overheadScore": 1.1,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T21:48:35.277Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T21:50:18.513Z"
 }
