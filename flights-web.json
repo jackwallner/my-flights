@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.94,
-    "altitude": 34000,
-    "speed": 394,
-    "timestamp": "2026-02-02T10:49:04.549Z",
-    "lat": 45.6133,
-    "lon": -122.5138,
+    "distance": 1.43,
+    "altitude": 31375,
+    "speed": 393,
+    "timestamp": "2026-02-02T15:25:15.586Z",
+    "lat": 45.6288,
+    "lon": -122.5617,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ATN3378",
-    "aircraftType": "767",
-    "origin": "SBD",
+    "callsign": "DAL2721",
+    "aircraftType": "A223",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T10:49:04.545Z"
+    "firstSeen": "2026-02-02T15:25:15.582Z"
   },
-  "overheadScore": 0.94,
-  "isOverhead": true,
+  "overheadScore": 1.43,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T10:50:02.723Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T15:25:15.586Z"
 }
