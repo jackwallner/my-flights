@@ -5757,5 +5757,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 402,
     "_sessionKey": "DAL2922_2026-02-02T21"
+  },
+  {
+    "callsign": "N838LJ",
+    "flightNumber": null,
+    "aircraftType": "C680",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "BFI",
+    "icao": "AB7715",
+    "registration": "N838LJ",
+    "firstSeen": "2026-02-02T21:17:01.290Z",
+    "lastSeen": "2026-02-02T21:17:01.290Z",
+    "duration": 0,
+    "closestDistance": 1.0306675542828345,
+    "closestAltitude": 43000,
+    "closestSpeed": 424,
+    "initialDistance": 1.0306675542828345,
+    "initialAltitude": 43000,
+    "initialSpeed": 424,
+    "_sessionKey": "N838LJ_2026-02-02T21"
   }
 ]
