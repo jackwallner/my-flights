@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.48,
-    "altitude": 7300,
-    "speed": 240,
-    "timestamp": "2026-02-02T23:12:13.281Z",
-    "lat": 45.6373,
-    "lon": -122.4974,
+    "distance": 1.33,
+    "altitude": 36000,
+    "speed": 416,
+    "timestamp": "2026-02-02T23:19:22.171Z",
+    "lat": 45.6205,
+    "lon": -122.5591,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ346",
-    "aircraftType": "E55P",
-    "origin": "PDX",
-    "destination": "TIW",
-    "firstSeen": "2026-02-02T23:12:13.279Z"
+    "callsign": "SWA3678",
+    "aircraftType": "B737",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T23:19:22.169Z"
   },
-  "overheadScore": 1.48,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T23:13:11.063Z"
+  "timestamp": "2026-02-02T23:20:20.180Z"
 }
