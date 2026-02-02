@@ -4917,5 +4917,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 388,
     "_sessionKey": "ASA338_2026-02-02T17"
+  },
+  {
+    "callsign": "N624ST",
+    "flightNumber": null,
+    "aircraftType": "RV12",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A826BB",
+    "registration": "N624ST",
+    "firstSeen": "2026-02-02T17:23:30.193Z",
+    "lastSeen": "2026-02-02T17:24:38.005Z",
+    "duration": 68,
+    "closestDistance": 0.9452530401277884,
+    "closestAltitude": 1525,
+    "closestSpeed": 82,
+    "initialDistance": 1.4735809727037903,
+    "initialAltitude": 1350,
+    "initialSpeed": 87,
+    "_sessionKey": "N624ST_2026-02-02T17"
   }
 ]
