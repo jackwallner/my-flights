@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 36000,
-    "speed": 416,
-    "timestamp": "2026-02-02T23:19:22.171Z",
-    "lat": 45.6205,
-    "lon": -122.5591,
+    "distance": 1.32,
+    "altitude": 33675,
+    "speed": 385,
+    "timestamp": "2026-02-02T23:21:22.200Z",
+    "lat": 45.6144,
+    "lon": -122.5007,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3678",
-    "aircraftType": "B737",
-    "origin": "SMF",
+    "callsign": "SKW5403",
+    "aircraftType": "E175",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T23:19:22.169Z"
+    "firstSeen": "2026-02-02T23:21:22.198Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.32,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T23:20:20.180Z"
+  "timestamp": "2026-02-02T23:22:20.031Z"
 }
