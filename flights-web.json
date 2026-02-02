@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.07,
-    "altitude": 43000,
-    "speed": 436,
-    "timestamp": "2026-02-02T21:10:19.480Z",
-    "lat": 45.6187,
-    "lon": -122.5044,
+    "distance": 0.49,
+    "altitude": 30000,
+    "speed": 402,
+    "timestamp": "2026-02-02T21:13:48.584Z",
+    "lat": 45.6177,
+    "lon": -122.5238,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CL35",
-    "aircraftType": "CL35",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-02T21:10:19.478Z"
+    "callsign": "DAL2922",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T21:13:48.582Z"
   },
-  "overheadScore": 1.07,
-  "isOverhead": false,
+  "overheadScore": 0.49,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T21:11:17.317Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T21:13:48.584Z"
 }
