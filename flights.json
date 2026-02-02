@@ -4097,5 +4097,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 378,
     "_sessionKey": "SKW4100_2026-02-02T04"
+  },
+  {
+    "callsign": "DAL2955",
+    "flightNumber": "DL2955",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AB1FFE",
+    "registration": "N816DN",
+    "firstSeen": "2026-02-02T04:47:32.572Z",
+    "lastSeen": "2026-02-02T04:47:32.572Z",
+    "duration": 0,
+    "closestDistance": 1.0663567040731967,
+    "closestAltitude": 30725,
+    "closestSpeed": 362,
+    "initialDistance": 1.0663567040731967,
+    "initialAltitude": 30725,
+    "initialSpeed": 362,
+    "_sessionKey": "DAL2955_2026-02-02T04"
   }
 ]
