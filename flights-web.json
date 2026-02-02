@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 34000,
-    "speed": 425,
-    "timestamp": "2026-02-02T23:08:19.302Z",
-    "lat": 45.6236,
-    "lon": -122.5598,
+    "distance": 1.48,
+    "altitude": 7300,
+    "speed": 240,
+    "timestamp": "2026-02-02T23:12:13.281Z",
+    "lat": 45.6373,
+    "lon": -122.4974,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL1008",
-    "aircraftType": "B39M",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T23:08:19.300Z"
+    "callsign": "LXJ346",
+    "aircraftType": "E55P",
+    "origin": "PDX",
+    "destination": "TIW",
+    "firstSeen": "2026-02-02T23:12:13.279Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.48,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T23:09:17.465Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T23:12:13.281Z"
 }

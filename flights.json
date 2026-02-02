@@ -6117,5 +6117,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 425,
     "_sessionKey": "UAL1008_2026-02-02T23"
+  },
+  {
+    "callsign": "LXJ346",
+    "flightNumber": "LXJ346",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "TIW",
+    "icao": "A3D42B",
+    "registration": "N346FX",
+    "firstSeen": "2026-02-02T23:12:13.279Z",
+    "lastSeen": "2026-02-02T23:12:13.279Z",
+    "duration": 0,
+    "closestDistance": 1.4776321799055745,
+    "closestAltitude": 7300,
+    "closestSpeed": 240,
+    "initialDistance": 1.4776321799055745,
+    "initialAltitude": 7300,
+    "initialSpeed": 240,
+    "_sessionKey": "LXJ346_2026-02-02T23"
   }
 ]
