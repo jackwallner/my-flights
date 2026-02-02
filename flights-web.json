@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 40000,
-    "speed": 459,
-    "timestamp": "2026-02-02T00:41:17.582Z",
-    "lat": 45.6247,
-    "lon": -122.5602,
+    "distance": 1.1,
+    "altitude": 36000,
+    "speed": 422,
+    "timestamp": "2026-02-02T00:47:52.470Z",
+    "lat": 45.6184,
+    "lon": -122.5039,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1983",
-    "aircraftType": "B737",
-    "origin": "SJC",
+    "callsign": "ASA622",
+    "aircraftType": "B39M",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T00:41:17.581Z"
+    "firstSeen": "2026-01-31T00:33:41.084Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.1,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T00:42:15.783Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T00:47:52.470Z"
 }
