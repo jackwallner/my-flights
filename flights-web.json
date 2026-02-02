@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.48,
-    "altitude": 900,
-    "speed": 112,
-    "timestamp": "2026-02-02T18:26:35.905Z",
-    "lat": 45.6046,
-    "lon": -122.5471,
+    "distance": 1.28,
+    "altitude": 34000,
+    "speed": 390,
+    "timestamp": "2026-02-02T18:29:26.738Z",
+    "lat": 45.615,
+    "lon": -122.5013,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "C182",
-    "aircraftType": "C182",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-02T18:26:35.903Z"
+    "callsign": "ASA702",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-02-02T18:29:26.737Z"
   },
-  "overheadScore": 1.48,
+  "overheadScore": 1.28,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T18:27:33.477Z"
+  "timestamp": "2026-02-02T18:30:24.317Z"
 }
