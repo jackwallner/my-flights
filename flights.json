@@ -3621,5 +3621,24 @@
     "initialDistance": 1.1959582923525789,
     "initialAltitude": 40000,
     "initialSpeed": 441
+  },
+  {
+    "callsign": "DAL9964",
+    "flightNumber": "DL9964",
+    "aircraftType": "B752",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A6FB2E",
+    "registration": "N549US",
+    "firstSeen": "2026-02-02T00:38:15.742Z",
+    "lastSeen": "2026-02-02T00:38:15.742Z",
+    "duration": 0,
+    "closestDistance": 1.2890360494731168,
+    "closestAltitude": 41425,
+    "closestSpeed": 455,
+    "initialDistance": 1.2890360494731168,
+    "initialAltitude": 41425,
+    "initialSpeed": 455
   }
 ]

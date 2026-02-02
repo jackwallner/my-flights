@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 34000,
-    "speed": 430,
-    "timestamp": "2026-02-02T00:32:09.084Z",
-    "lat": 45.611,
-    "lon": -122.5564,
+    "distance": 1.29,
+    "altitude": 41425,
+    "speed": 455,
+    "timestamp": "2026-02-02T00:38:15.743Z",
+    "lat": 45.6159,
+    "lon": -122.5005,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2037",
-    "aircraftType": "E175",
-    "origin": "RDD",
+    "callsign": "DAL9964",
+    "aircraftType": "757",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-01-31T00:15:45.796Z"
+    "firstSeen": "2026-02-02T00:38:15.742Z"
   },
-  "overheadScore": 1.47,
+  "overheadScore": 1.29,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T00:33:07.213Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T00:38:15.743Z"
 }
