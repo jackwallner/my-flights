@@ -4637,5 +4637,25 @@
     "initialAltitude": 39775,
     "initialSpeed": 387,
     "_sessionKey": "ASA323_2026-02-02T16"
+  },
+  {
+    "callsign": "N475TW",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A5D56B",
+    "registration": "N475TW",
+    "firstSeen": "2026-02-02T16:21:41.222Z",
+    "lastSeen": "2026-02-02T16:21:41.222Z",
+    "duration": 0,
+    "closestDistance": 1.175287534913138,
+    "closestAltitude": 1600,
+    "closestSpeed": 157,
+    "initialDistance": 1.175287534913138,
+    "initialAltitude": 1600,
+    "initialSpeed": 157,
+    "_sessionKey": "N475TW_2026-02-02T16"
   }
 ]

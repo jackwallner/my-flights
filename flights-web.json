@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.13,
-    "altitude": 39775,
-    "speed": 387,
-    "timestamp": "2026-02-02T16:17:06.210Z",
-    "lat": 45.6181,
-    "lon": -122.5033,
+    "distance": 1.18,
+    "altitude": 1600,
+    "speed": 157,
+    "timestamp": "2026-02-02T16:21:41.224Z",
+    "lat": 45.6064,
+    "lon": -122.5355,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA323",
-    "aircraftType": "737",
-    "origin": "RNO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T16:17:06.208Z"
+    "callsign": "N475TW",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-02T16:21:41.222Z"
   },
-  "overheadScore": 1.13,
+  "overheadScore": 1.18,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T16:18:04.081Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T16:21:41.224Z"
 }
