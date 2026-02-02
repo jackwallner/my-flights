@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 28025,
-    "speed": 390,
-    "timestamp": "2026-02-02T03:43:18.062Z",
-    "lat": 45.6278,
-    "lon": -122.5611,
+    "distance": 1.46,
+    "altitude": 25700,
+    "speed": 402,
+    "timestamp": "2026-02-02T03:47:31.207Z",
+    "lat": 45.6113,
+    "lon": -122.5565,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3030",
-    "aircraftType": "E175",
-    "origin": "MRY",
+    "callsign": "SWA433",
+    "aircraftType": "B737",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T03:43:18.061Z"
+    "firstSeen": "2026-02-02T03:47:31.206Z"
   },
-  "overheadScore": 1.39,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T03:44:15.887Z"
+  "timestamp": "2026-02-02T03:48:29.300Z"
 }
