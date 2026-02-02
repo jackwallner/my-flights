@@ -5217,5 +5217,25 @@
     "initialAltitude": 33975,
     "initialSpeed": 371,
     "_sessionKey": "FFT2407_2026-02-02T18"
+  },
+  {
+    "callsign": "SKW5992",
+    "flightNumber": "UA5992",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AC0504",
+    "registration": "N87380",
+    "firstSeen": "2026-02-02T18:53:34.532Z",
+    "lastSeen": "2026-02-02T18:53:34.532Z",
+    "duration": 0,
+    "closestDistance": 1.4558474979300664,
+    "closestAltitude": 34000,
+    "closestSpeed": 383,
+    "initialDistance": 1.4558474979300664,
+    "initialAltitude": 34000,
+    "initialSpeed": 383,
+    "_sessionKey": "SKW5992_2026-02-02T18"
   }
 ]

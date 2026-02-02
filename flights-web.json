@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.84,
-    "altitude": 33975,
-    "speed": 371,
-    "timestamp": "2026-02-02T18:50:12.379Z",
-    "lat": 45.625,
-    "lon": -122.508,
+    "distance": 1.46,
+    "altitude": 34000,
+    "speed": 383,
+    "timestamp": "2026-02-02T18:53:34.533Z",
+    "lat": 45.6119,
+    "lon": -122.4992,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FFT2407",
-    "aircraftType": "A320",
-    "origin": "LAS",
+    "callsign": "SKW5992",
+    "aircraftType": "E175",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T18:50:12.377Z"
+    "firstSeen": "2026-02-02T18:53:34.532Z"
   },
-  "overheadScore": 0.84,
-  "isOverhead": true,
+  "overheadScore": 1.46,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T18:51:10.495Z"
+  "timestamp": "2026-02-02T18:54:32.982Z"
 }
