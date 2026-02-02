@@ -6257,5 +6257,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 409,
     "_sessionKey": "SKW3789_2026-02-02T23"
+  },
+  {
+    "callsign": "ASA741",
+    "flightNumber": "AS741",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A9D9F2",
+    "registration": "N734AL",
+    "firstSeen": "2026-02-02T23:55:43.835Z",
+    "lastSeen": "2026-02-02T23:55:43.835Z",
+    "duration": 0,
+    "closestDistance": 0.823860217921881,
+    "closestAltitude": 34000,
+    "closestSpeed": 424,
+    "initialDistance": 0.823860217921881,
+    "initialAltitude": 34000,
+    "initialSpeed": 424,
+    "_sessionKey": "ASA741_2026-02-02T23"
   }
 ]
