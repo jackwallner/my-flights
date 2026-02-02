@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 34000,
-    "speed": 431,
-    "timestamp": "2026-02-02T00:04:14.400Z",
-    "lat": 45.617,
-    "lon": -122.5581,
+    "distance": 1.2,
+    "altitude": 40000,
+    "speed": 441,
+    "timestamp": "2026-02-02T00:17:43.671Z",
+    "lat": 45.6194,
+    "lon": -122.5009,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3814",
-    "aircraftType": "E175",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-02-01T00:36:22.087Z"
+    "callsign": "EJA324",
+    "aircraftType": "Cita",
+    "origin": "LAS",
+    "destination": "BFI",
+    "firstSeen": "2026-02-02T00:17:43.670Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.2,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T00:05:12.347Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T00:17:43.671Z"
 }

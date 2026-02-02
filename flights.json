@@ -3602,5 +3602,24 @@
     "initialDistance": 1.3077067830354123,
     "initialAltitude": 1250,
     "initialSpeed": 143
+  },
+  {
+    "callsign": "EJA324",
+    "flightNumber": "EJA324",
+    "aircraftType": "C680",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "BFI",
+    "icao": "A37E9B",
+    "registration": "N324QS",
+    "firstSeen": "2026-02-02T00:17:43.670Z",
+    "lastSeen": "2026-02-02T00:17:43.670Z",
+    "duration": 0,
+    "closestDistance": 1.1959582923525789,
+    "closestAltitude": 40000,
+    "closestSpeed": 441,
+    "initialDistance": 1.1959582923525789,
+    "initialAltitude": 40000,
+    "initialSpeed": 441
   }
 ]
