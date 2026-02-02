@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 36000,
-    "speed": 423,
-    "timestamp": "2026-02-02T03:35:53.071Z",
-    "lat": 45.6134,
-    "lon": -122.5002,
+    "distance": 1.33,
+    "altitude": 34000,
+    "speed": 371,
+    "timestamp": "2026-02-02T03:38:34.070Z",
+    "lat": 45.6218,
+    "lon": -122.5593,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA552",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "SKW4049",
+    "aircraftType": "E175",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T03:35:53.069Z"
+    "firstSeen": "2026-02-02T03:38:34.069Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T03:36:51.164Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T03:38:34.070Z"
 }
