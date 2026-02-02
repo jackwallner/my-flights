@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 34000,
-    "speed": 397,
-    "timestamp": "2026-02-02T17:13:59.985Z",
-    "lat": 45.6116,
-    "lon": -122.499,
+    "distance": 1.42,
+    "altitude": 32000,
+    "speed": 393,
+    "timestamp": "2026-02-02T17:15:59.894Z",
+    "lat": 45.613,
+    "lon": -122.5571,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA179",
-    "aircraftType": "737",
-    "origin": "PSP",
+    "callsign": "SKW4041",
+    "aircraftType": "E175",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T17:13:59.983Z"
+    "firstSeen": "2026-02-02T17:15:59.892Z"
   },
-  "overheadScore": 1.47,
+  "overheadScore": 1.42,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-02T17:13:59.985Z"
+  "timestamp": "2026-02-02T17:15:59.894Z"
 }
