@@ -5637,5 +5637,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 410,
     "_sessionKey": "ASA777_2026-02-02T20"
+  },
+  {
+    "callsign": "N511EX",
+    "flightNumber": null,
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "FRD",
+    "icao": "A665A0",
+    "registration": "N511EX",
+    "firstSeen": "2026-02-02T20:45:56.983Z",
+    "lastSeen": "2026-02-02T20:47:04.870Z",
+    "duration": 68,
+    "closestDistance": 1.0557502865548405,
+    "closestAltitude": 1975,
+    "closestSpeed": 152,
+    "initialDistance": 1.4618618699118642,
+    "initialAltitude": 1075,
+    "initialSpeed": 142,
+    "_sessionKey": "N511EX_2026-02-02T20"
   }
 ]

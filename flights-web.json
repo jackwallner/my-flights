@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.89,
-    "altitude": 32000,
-    "speed": 410,
-    "timestamp": "2026-02-02T20:44:38.268Z",
-    "lat": 45.6236,
-    "lon": -122.5071,
-    "precision": "tracked"
+    "distance": 1.06,
+    "altitude": 1975,
+    "speed": 152,
+    "timestamp": "2026-02-02T20:46:54.590Z",
+    "lat": 45.6381,
+    "lon": -122.5109,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA777",
-    "aircraftType": "737",
-    "origin": "LAS",
-    "destination": "PAE",
-    "firstSeen": "2026-02-02T20:44:38.267Z"
+    "callsign": "N511EX",
+    "aircraftType": "Cara",
+    "origin": "PDX",
+    "destination": "FRD",
+    "firstSeen": "2026-02-02T20:45:56.983Z"
   },
-  "overheadScore": 0.89,
-  "isOverhead": true,
-  "pathSnapshots": 1,
+  "overheadScore": 1.06,
+  "isOverhead": false,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-02T20:45:36.351Z"
+  "timestamp": "2026-02-02T20:47:15.169Z"
 }
