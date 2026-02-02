@@ -1010,8 +1010,8 @@
     "icao": "A7197D",
     "registration": "N557AS",
     "firstSeen": "2026-01-31T02:17:17.068Z",
-    "lastSeen": "2026-02-01T01:50:01.952Z",
-    "duration": 84765,
+    "lastSeen": "2026-02-02T02:03:53.416Z",
+    "duration": 171996,
     "closestDistance": 0.7617090971766286,
     "closestAltitude": 38000,
     "closestSpeed": 385,
@@ -3659,5 +3659,24 @@
     "initialDistance": 1.347819989817356,
     "initialAltitude": 40000,
     "initialSpeed": 459
+  },
+  {
+    "callsign": "N456LF",
+    "flightNumber": null,
+    "aircraftType": "B407",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A58966",
+    "registration": "N456LF",
+    "firstSeen": "2026-02-02T02:02:55.616Z",
+    "lastSeen": "2026-02-02T02:02:55.616Z",
+    "duration": 0,
+    "closestDistance": 1.4730235351191858,
+    "closestAltitude": 1150,
+    "closestSpeed": 136,
+    "initialDistance": 1.4730235351191858,
+    "initialAltitude": 1150,
+    "initialSpeed": 136
   }
 ]
