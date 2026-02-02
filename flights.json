@@ -4997,5 +4997,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 364,
     "_sessionKey": "SKW4042_2026-02-02T17"
+  },
+  {
+    "callsign": "SKW5004",
+    "flightNumber": "AA5004",
+    "aircraftType": "CRJ7",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "A95D96",
+    "registration": "N702SK",
+    "firstSeen": "2026-02-02T18:02:34.104Z",
+    "lastSeen": "2026-02-02T18:02:34.104Z",
+    "duration": 0,
+    "closestDistance": 1.1904591028151081,
+    "closestAltitude": 28025,
+    "closestSpeed": 386,
+    "initialDistance": 1.1904591028151081,
+    "initialAltitude": 28025,
+    "initialSpeed": 386,
+    "_sessionKey": "SKW5004_2026-02-02T18"
   }
 ]
