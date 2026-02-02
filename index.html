@@ -1487,6 +1487,13 @@
     function detectFlightType(flight) {
       const callsign = flight.callsign || '';
       const flightNum = flight.flightNumber || '';
+      const aircraftType = flight.aircraftType || '';
+      
+      // GA aircraft types are always private
+      const gaTypes = ['PC12', 'C172', 'C182', 'C208', 'SR22', 'BE20', 'BE36', 'PA31', 'PA32', 
+                       'C56X', 'CL60', 'GLEX', 'GLF4', 'GLF5', 'GLF6', 'FA7X', 'FA8X', 
+                       'C25A', 'C25B', 'C25C', 'C680', 'C700', 'C750'];
+      if (gaTypes.includes(aircraftType.toUpperCase())) return 'private';
       
       if (/^N[0-9]/.test(callsign)) return 'private';
       if (/^(FDX|UPS|ATN|GTI|ABX|DHL|AMF)/.test(callsign)) return 'cargo';
