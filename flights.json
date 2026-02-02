@@ -3717,5 +3717,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 401,
     "_sessionKey": "DAL2606_2026-02-02T02"
+  },
+  {
+    "callsign": "UPS51",
+    "flightNumber": "5X51",
+    "aircraftType": "B748",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "ANC",
+    "icao": "A83F8C",
+    "registration": "N630UP",
+    "firstSeen": "2026-02-02T02:31:43.800Z",
+    "lastSeen": "2026-02-02T02:31:43.800Z",
+    "duration": 0,
+    "closestDistance": 0.9429617705585145,
+    "closestAltitude": 40000,
+    "closestSpeed": 469,
+    "initialDistance": 0.9429617705585145,
+    "initialAltitude": 40000,
+    "initialSpeed": 469,
+    "_sessionKey": "UPS51_2026-02-02T02"
   }
 ]

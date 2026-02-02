@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.9,
-    "altitude": 34000,
-    "speed": 401,
-    "timestamp": "2026-02-02T02:28:31.719Z",
-    "lat": 45.6234,
-    "lon": -122.5068,
+    "distance": 0.94,
+    "altitude": 40000,
+    "speed": 469,
+    "timestamp": "2026-02-02T02:31:43.802Z",
+    "lat": 45.61,
+    "lon": -122.5333,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2606",
-    "aircraftType": "A321",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-02T02:28:31.718Z"
+    "callsign": "UPS51",
+    "aircraftType": "747",
+    "origin": "ONT",
+    "destination": "ANC",
+    "firstSeen": "2026-02-02T02:31:43.800Z"
   },
-  "overheadScore": 0.9,
+  "overheadScore": 0.94,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-02T02:29:29.637Z"
+  "timestamp": "2026-02-02T02:32:41.996Z"
 }
