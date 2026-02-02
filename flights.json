@@ -4797,5 +4797,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 387,
     "_sessionKey": "DAL2530_2026-02-02T17"
+  },
+  {
+    "callsign": "ASA504",
+    "flightNumber": "AS504",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A5B3AD",
+    "registration": "N467AS",
+    "firstSeen": "2026-02-02T17:12:20.785Z",
+    "lastSeen": "2026-02-02T17:12:20.785Z",
+    "duration": 0,
+    "closestDistance": 1.0406739647450243,
+    "closestAltitude": 34025,
+    "closestSpeed": 393,
+    "initialDistance": 1.0406739647450243,
+    "initialAltitude": 34025,
+    "initialSpeed": 393,
+    "_sessionKey": "ASA504_2026-02-02T17"
   }
 ]
