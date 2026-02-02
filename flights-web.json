@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.17,
-    "altitude": 36000,
-    "speed": 380,
-    "timestamp": "2026-02-02T18:05:25.714Z",
+    "distance": 1.16,
+    "altitude": 32000,
+    "speed": 384,
+    "timestamp": "2026-02-02T18:07:56.834Z",
     "lat": 45.6173,
-    "lon": -122.5028,
+    "lon": -122.5029,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA479",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "SKW3345",
+    "aircraftType": "E175",
+    "origin": "FAT",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T18:05:25.713Z"
+    "firstSeen": "2026-02-02T18:07:56.833Z"
   },
-  "overheadScore": 1.17,
+  "overheadScore": 1.16,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T18:06:23.886Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T18:07:56.834Z"
 }

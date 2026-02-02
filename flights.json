@@ -5037,5 +5037,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 380,
     "_sessionKey": "ASA479_2026-02-02T18"
+  },
+  {
+    "callsign": "SKW3345",
+    "flightNumber": "AS3345",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "FAT",
+    "destination": "SEA",
+    "icao": "A1512F",
+    "registration": "N184SY",
+    "firstSeen": "2026-02-02T18:07:56.833Z",
+    "lastSeen": "2026-02-02T18:07:56.833Z",
+    "duration": 0,
+    "closestDistance": 1.1620731726448144,
+    "closestAltitude": 32000,
+    "closestSpeed": 384,
+    "initialDistance": 1.1620731726448144,
+    "initialAltitude": 32000,
+    "initialSpeed": 384,
+    "_sessionKey": "SKW3345_2026-02-02T18"
   }
 ]
