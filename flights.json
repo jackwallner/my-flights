@@ -4897,5 +4897,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 374,
     "_sessionKey": "ASA491_2026-02-02T17"
+  },
+  {
+    "callsign": "ASA338",
+    "flightNumber": "AS338",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": "SEA",
+    "icao": "A2DCE1",
+    "registration": "N284AK",
+    "firstSeen": "2026-02-02T17:20:59.019Z",
+    "lastSeen": "2026-02-02T17:20:59.019Z",
+    "duration": 0,
+    "closestDistance": 0.8989175777297272,
+    "closestAltitude": 34000,
+    "closestSpeed": 388,
+    "initialDistance": 0.8989175777297272,
+    "initialAltitude": 34000,
+    "initialSpeed": 388,
+    "_sessionKey": "ASA338_2026-02-02T17"
   }
 ]
