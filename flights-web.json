@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
+    "distance": 1.36,
     "altitude": 38000,
-    "speed": 389,
-    "timestamp": "2026-02-02T19:18:34.450Z",
-    "lat": 45.6226,
-    "lon": -122.5595,
+    "speed": 413,
+    "timestamp": "2026-02-02T19:30:31.838Z",
+    "lat": 45.6216,
+    "lon": -122.5601,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA433",
-    "aircraftType": "B737",
-    "origin": "OAK",
+    "callsign": "ASA1304",
+    "aircraftType": "737",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-02T19:18:34.408Z"
+    "firstSeen": "2026-02-02T19:30:31.836Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-02T19:19:32.259Z"
+  "status": "tracking",
+  "timestamp": "2026-02-02T19:30:31.838Z"
 }

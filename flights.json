@@ -5317,5 +5317,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 389,
     "_sessionKey": "SWA433_2026-02-02T19"
+  },
+  {
+    "callsign": "ASA1304",
+    "flightNumber": "AS1304",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A6CA7F",
+    "registration": "N537AS",
+    "firstSeen": "2026-02-02T19:30:31.836Z",
+    "lastSeen": "2026-02-02T19:30:31.836Z",
+    "duration": 0,
+    "closestDistance": 1.3612628204607,
+    "closestAltitude": 38000,
+    "closestSpeed": 413,
+    "initialDistance": 1.3612628204607,
+    "initialAltitude": 38000,
+    "initialSpeed": 413,
+    "_sessionKey": "ASA1304_2026-02-02T19"
   }
 ]
