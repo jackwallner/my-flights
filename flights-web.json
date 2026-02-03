@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 1025,
-    "speed": 69,
-    "timestamp": "2026-02-03T23:48:22.998Z",
-    "lat": 45.6152,
-    "lon": -122.5224,
-    "precision": "high"
+    "distance": 1.36,
+    "altitude": 33975,
+    "speed": 425,
+    "timestamp": "2026-02-03T23:53:50.487Z",
+    "lat": 45.6182,
+    "lon": -122.5589,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N18586",
-    "aircraftType": "C150",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-03T23:47:15.224Z"
+    "callsign": "DAL1412",
+    "aircraftType": "A220",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-03T23:53:50.484Z"
   },
-  "overheadScore": 0.65,
-  "isOverhead": true,
-  "pathSnapshots": 8,
-  "status": "completed",
-  "timestamp": "2026-02-03T23:49:25.082Z"
+  "overheadScore": 1.36,
+  "isOverhead": false,
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-03T23:53:50.487Z"
 }
