@@ -6637,5 +6637,25 @@
     "initialAltitude": 30425,
     "initialSpeed": 411,
     "_sessionKey": "UAL2279_2026-02-03T01"
+  },
+  {
+    "callsign": "SKW4031",
+    "flightNumber": "DL4031",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "SEA",
+    "icao": "A35B0B",
+    "registration": "N315SY",
+    "firstSeen": "2026-02-03T01:42:36.301Z",
+    "lastSeen": "2026-02-03T01:42:36.301Z",
+    "duration": 0,
+    "closestDistance": 0.9639984385110336,
+    "closestAltitude": 36000,
+    "closestSpeed": 415,
+    "initialDistance": 0.9639984385110336,
+    "initialAltitude": 36000,
+    "initialSpeed": 415,
+    "_sessionKey": "SKW4031_2026-02-03T01"
   }
 ]
