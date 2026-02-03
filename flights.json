@@ -9117,5 +9117,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 412,
     "_sessionKey": "ASA703_2026-02-03T23"
+  },
+  {
+    "callsign": "N18586",
+    "flightNumber": null,
+    "aircraftType": "C150",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A156CE",
+    "registration": "N18586",
+    "firstSeen": "2026-02-03T23:47:15.224Z",
+    "lastSeen": "2026-02-03T23:47:15.224Z",
+    "duration": 0,
+    "closestDistance": 1.4236067130255932,
+    "closestAltitude": 1375,
+    "closestSpeed": 78,
+    "initialDistance": 1.4236067130255932,
+    "initialAltitude": 1375,
+    "initialSpeed": 78,
+    "_sessionKey": "N18586_2026-02-03T23"
   }
 ]
