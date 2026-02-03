@@ -6597,5 +6597,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 414,
     "_sessionKey": "DAL2585_2026-02-03T01"
+  },
+  {
+    "callsign": "PC12",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-03T01:11:33.659Z",
+    "lastSeen": "2026-02-03T01:11:33.659Z",
+    "duration": 0,
+    "closestDistance": 1.1259994496980987,
+    "closestAltitude": 1425,
+    "closestSpeed": 151,
+    "initialDistance": 1.1259994496980987,
+    "initialAltitude": 1425,
+    "initialSpeed": 151,
+    "_sessionKey": "PC12_2026-02-03T01"
   }
 ]
