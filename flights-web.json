@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.05,
-    "altitude": 1200,
-    "speed": 63,
-    "timestamp": "2026-02-03T00:24:00.861Z",
-    "lat": 45.6273,
-    "lon": -122.5529,
-    "precision": "tracked"
+    "distance": 0.49,
+    "altitude": 1225,
+    "speed": 57,
+    "timestamp": "2026-02-03T00:24:58.873Z",
+    "lat": 45.6186,
+    "lon": -122.5349,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N603HH",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-03T00:24:00.858Z"
   },
-  "overheadScore": 1.05,
-  "isOverhead": false,
-  "pathSnapshots": 2,
-  "status": "tracking",
-  "timestamp": "2026-02-03T00:24:00.861Z"
+  "overheadScore": 0.49,
+  "isOverhead": true,
+  "pathSnapshots": 10,
+  "status": "completed",
+  "timestamp": "2026-02-03T00:26:31.546Z"
 }
