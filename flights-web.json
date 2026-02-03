@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.48,
-    "altitude": 30000,
-    "speed": 420,
-    "timestamp": "2026-02-03T01:03:34.535Z",
-    "lat": 45.6107,
-    "lon": -122.5565,
+    "distance": 0.86,
+    "altitude": 36000,
+    "speed": 414,
+    "timestamp": "2026-02-03T01:07:59.985Z",
+    "lat": 45.6241,
+    "lon": -122.5076,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3814",
-    "aircraftType": "E175",
-    "origin": "SMF",
+    "callsign": "DAL2585",
+    "aircraftType": "737",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-03T01:03:34.533Z"
+    "firstSeen": "2026-02-03T01:07:59.983Z"
   },
-  "overheadScore": 1.48,
-  "isOverhead": false,
+  "overheadScore": 0.86,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-03T01:04:32.850Z"
+  "timestamp": "2026-02-03T01:08:58.319Z"
 }
