@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 1225,
-    "speed": 57,
-    "timestamp": "2026-02-03T00:24:58.873Z",
-    "lat": 45.6186,
-    "lon": -122.5349,
-    "precision": "high"
+    "distance": 1.35,
+    "altitude": 30000,
+    "speed": 434,
+    "timestamp": "2026-02-03T00:28:35.361Z",
+    "lat": 45.6199,
+    "lon": -122.5594,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N603HH",
-    "aircraftType": "R22",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-03T00:24:00.858Z"
+    "callsign": "DAL1412",
+    "aircraftType": "A220",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-03T00:28:35.360Z"
   },
-  "overheadScore": 0.49,
-  "isOverhead": true,
-  "pathSnapshots": 10,
-  "status": "completed",
-  "timestamp": "2026-02-03T00:26:31.546Z"
+  "overheadScore": 1.35,
+  "isOverhead": false,
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-03T00:28:35.361Z"
 }

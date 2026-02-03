@@ -6417,5 +6417,25 @@
     "initialAltitude": 1200,
     "initialSpeed": 63,
     "_sessionKey": "N603HH_2026-02-03T00"
+  },
+  {
+    "callsign": "DAL1412",
+    "flightNumber": "DL1412",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A0311D",
+    "registration": "N111NG",
+    "firstSeen": "2026-02-03T00:28:35.360Z",
+    "lastSeen": "2026-02-03T00:28:35.360Z",
+    "duration": 0,
+    "closestDistance": 1.3529660864827318,
+    "closestAltitude": 30000,
+    "closestSpeed": 434,
+    "initialDistance": 1.3529660864827318,
+    "initialAltitude": 30000,
+    "initialSpeed": 434,
+    "_sessionKey": "DAL1412_2026-02-03T00"
   }
 ]
