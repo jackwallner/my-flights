@@ -6717,5 +6717,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 406,
     "_sessionKey": "SWA1740_2026-02-03T01"
+  },
+  {
+    "callsign": "ASA676",
+    "flightNumber": "AS676",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AD6B0C",
+    "registration": "N964AK",
+    "firstSeen": "2026-02-03T01:51:58.462Z",
+    "lastSeen": "2026-02-03T01:51:58.462Z",
+    "duration": 0,
+    "closestDistance": 1.3156133656334312,
+    "closestAltitude": 36000,
+    "closestSpeed": 411,
+    "initialDistance": 1.3156133656334312,
+    "initialAltitude": 36000,
+    "initialSpeed": 411,
+    "_sessionKey": "ASA676_2026-02-03T01"
   }
 ]

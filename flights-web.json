@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 34000,
-    "speed": 406,
-    "timestamp": "2026-02-03T01:48:15.844Z",
-    "lat": 45.6237,
-    "lon": -122.5598,
+    "distance": 1.32,
+    "altitude": 36000,
+    "speed": 411,
+    "timestamp": "2026-02-03T01:51:58.465Z",
+    "lat": 45.6143,
+    "lon": -122.501,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1740",
-    "aircraftType": "B737",
-    "origin": "SJC",
+    "callsign": "ASA676",
+    "aircraftType": "B39M",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-03T01:48:15.842Z"
+    "firstSeen": "2026-02-03T01:51:58.462Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.32,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-03T01:49:13.708Z"
+  "timestamp": "2026-02-03T01:52:56.354Z"
 }
