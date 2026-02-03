@@ -6437,5 +6437,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 434,
     "_sessionKey": "DAL1412_2026-02-03T00"
+  },
+  {
+    "callsign": "ASA1309",
+    "flightNumber": "AS1309",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A69424",
+    "registration": "N523AS",
+    "firstSeen": "2026-02-03T00:31:27.335Z",
+    "lastSeen": "2026-02-03T00:31:27.335Z",
+    "duration": 0,
+    "closestDistance": 1.3432093345520772,
+    "closestAltitude": 36000,
+    "closestSpeed": 416,
+    "initialDistance": 1.3432093345520772,
+    "initialAltitude": 36000,
+    "initialSpeed": 416,
+    "_sessionKey": "ASA1309_2026-02-03T00"
   }
 ]
