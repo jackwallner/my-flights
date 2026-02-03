@@ -6537,5 +6537,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 416,
     "_sessionKey": "ASA745_2026-02-03T00"
+  },
+  {
+    "callsign": "ASA585",
+    "flightNumber": "AS585",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A7687B",
+    "registration": "N577AS",
+    "firstSeen": "2026-02-03T01:00:11.579Z",
+    "lastSeen": "2026-02-03T01:00:11.579Z",
+    "duration": 0,
+    "closestDistance": 1.00800889027727,
+    "closestAltitude": 34000,
+    "closestSpeed": 408,
+    "initialDistance": 1.00800889027727,
+    "initialAltitude": 34000,
+    "initialSpeed": 408,
+    "_sessionKey": "ASA585_2026-02-03T01"
   }
 ]
