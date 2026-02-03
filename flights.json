@@ -6357,5 +6357,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 408,
     "_sessionKey": "DAL2533_2026-02-03T00"
+  },
+  {
+    "callsign": "ASA403",
+    "flightNumber": "AS403",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "A2B919",
+    "registration": "N275AK",
+    "firstSeen": "2026-02-03T00:17:57.473Z",
+    "lastSeen": "2026-02-03T00:17:57.473Z",
+    "duration": 0,
+    "closestDistance": 1.464906424672351,
+    "closestAltitude": 34000,
+    "closestSpeed": 419,
+    "initialDistance": 1.464906424672351,
+    "initialAltitude": 34000,
+    "initialSpeed": 419,
+    "_sessionKey": "ASA403_2026-02-03T00"
   }
 ]
