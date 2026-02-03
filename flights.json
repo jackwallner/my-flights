@@ -6797,5 +6797,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 411,
     "_sessionKey": "ASA760_2026-02-03T02"
+  },
+  {
+    "callsign": "ASA1345",
+    "flightNumber": "AS1345",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A720EB",
+    "registration": "N559AS",
+    "firstSeen": "2026-02-03T02:11:58.980Z",
+    "lastSeen": "2026-02-03T02:11:58.980Z",
+    "duration": 0,
+    "closestDistance": 1.4550298931170833,
+    "closestAltitude": 36000,
+    "closestSpeed": 419,
+    "initialDistance": 1.4550298931170833,
+    "initialAltitude": 36000,
+    "initialSpeed": 419,
+    "_sessionKey": "ASA1345_2026-02-03T02"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.98,
+    "distance": 1.46,
     "altitude": 36000,
-    "speed": 411,
-    "timestamp": "2026-02-03T02:07:34.566Z",
-    "lat": 45.6211,
-    "lon": -122.5055,
+    "speed": 419,
+    "timestamp": "2026-02-03T02:11:58.982Z",
+    "lat": 45.6119,
+    "lon": -122.557,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA760",
+    "callsign": "ASA1345",
     "aircraftType": "737",
-    "origin": "SNA",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-03T02:07:34.565Z"
+    "firstSeen": "2026-02-03T02:11:58.980Z"
   },
-  "overheadScore": 0.98,
-  "isOverhead": true,
+  "overheadScore": 1.46,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-03T02:08:32.644Z"
+  "timestamp": "2026-02-03T02:12:57.234Z"
 }
