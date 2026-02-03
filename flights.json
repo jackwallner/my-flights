@@ -6297,5 +6297,25 @@
     "initialAltitude": 33975,
     "initialSpeed": 424,
     "_sessionKey": "ASA1342_2026-02-02T23"
+  },
+  {
+    "callsign": "DAL2905",
+    "flightNumber": "DL2905",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A44DB3",
+    "registration": "N3769L",
+    "firstSeen": "2026-02-02T23:59:54.374Z",
+    "lastSeen": "2026-02-02T23:59:54.374Z",
+    "duration": 0,
+    "closestDistance": 1.0253072341284282,
+    "closestAltitude": 34000,
+    "closestSpeed": 428,
+    "initialDistance": 1.0253072341284282,
+    "initialAltitude": 34000,
+    "initialSpeed": 428,
+    "_sessionKey": "DAL2905_2026-02-02T23"
   }
 ]
