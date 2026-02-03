@@ -6737,5 +6737,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 411,
     "_sessionKey": "ASA676_2026-02-03T01"
+  },
+  {
+    "callsign": "DAL2606",
+    "flightNumber": "DL2606",
+    "aircraftType": "A321",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A3DF1E",
+    "registration": "N349DX",
+    "firstSeen": "2026-02-03T01:53:27.459Z",
+    "lastSeen": "2026-02-03T01:53:27.459Z",
+    "duration": 0,
+    "closestDistance": 0.9684842617933511,
+    "closestAltitude": 32000,
+    "closestSpeed": 405,
+    "initialDistance": 0.9684842617933511,
+    "initialAltitude": 32000,
+    "initialSpeed": 405,
+    "_sessionKey": "DAL2606_2026-02-03T01"
   }
 ]
