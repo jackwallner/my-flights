@@ -6497,5 +6497,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 425,
     "_sessionKey": "DAL1045_2026-02-03T00"
+  },
+  {
+    "callsign": "ASA622",
+    "flightNumber": "AS622",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "ACED21",
+    "registration": "N932AK",
+    "firstSeen": "2026-02-03T00:47:14.566Z",
+    "lastSeen": "2026-02-03T00:47:14.566Z",
+    "duration": 0,
+    "closestDistance": 0.9949383206125729,
+    "closestAltitude": 34000,
+    "closestSpeed": 420,
+    "initialDistance": 0.9949383206125729,
+    "initialAltitude": 34000,
+    "initialSpeed": 420,
+    "_sessionKey": "ASA622_2026-02-03T00"
   }
 ]
