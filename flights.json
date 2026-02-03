@@ -6677,5 +6677,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 414,
     "_sessionKey": "ASA422_2026-02-03T01"
+  },
+  {
+    "callsign": "DAL2572",
+    "flightNumber": "DL2572",
+    "aircraftType": "BCS3",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A36130",
+    "registration": "N317DU",
+    "firstSeen": "2026-02-03T01:46:25.807Z",
+    "lastSeen": "2026-02-03T01:46:25.807Z",
+    "duration": 0,
+    "closestDistance": 1.3728648609775171,
+    "closestAltitude": 36000,
+    "closestSpeed": 422,
+    "initialDistance": 1.3728648609775171,
+    "initialAltitude": 36000,
+    "initialSpeed": 422,
+    "_sessionKey": "DAL2572_2026-02-03T01"
   }
 ]
