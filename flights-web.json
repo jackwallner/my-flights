@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 1325,
-    "speed": 143,
-    "timestamp": "2026-02-03T02:45:18.916Z",
-    "lat": 45.6039,
-    "lon": -122.5452,
-    "precision": "tracked"
+    "distance": 0.92,
+    "altitude": 2875,
+    "speed": 166,
+    "timestamp": "2026-02-03T02:46:16.783Z",
+    "lat": 45.6399,
+    "lon": -122.5214,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N723KP",
@@ -15,9 +15,9 @@
     "destination": "BFI",
     "firstSeen": "2026-02-03T02:45:18.912Z"
   },
-  "overheadScore": 1.47,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-03T02:45:18.916Z"
+  "overheadScore": 0.92,
+  "isOverhead": true,
+  "pathSnapshots": 3,
+  "status": "completed",
+  "timestamp": "2026-02-03T02:46:37.563Z"
 }
