@@ -11377,5 +11377,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 474,
     "_sessionKey": "DAL976_2026-02-04T20"
+  },
+  {
+    "callsign": "N5107H",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A664C4",
+    "registration": "N5107H",
+    "firstSeen": "2026-02-04T20:55:54.548Z",
+    "lastSeen": "2026-02-04T20:55:54.548Z",
+    "duration": 0,
+    "closestDistance": 1.3658119488030704,
+    "closestAltitude": 1100,
+    "closestSpeed": 116,
+    "initialDistance": 1.3658119488030704,
+    "initialAltitude": 1100,
+    "initialSpeed": 116,
+    "_sessionKey": "N5107H_2026-02-04T20"
   }
 ]
