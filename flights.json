@@ -10397,5 +10397,25 @@
     "initialAltitude": 1900,
     "initialSpeed": 150,
     "_sessionKey": "AMF1992_2026-02-04T15"
+  },
+  {
+    "callsign": "PC12",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-04T16:02:38.784Z",
+    "lastSeen": "2026-02-04T16:02:38.784Z",
+    "duration": 0,
+    "closestDistance": 1.2891735284149572,
+    "closestAltitude": 1550,
+    "closestSpeed": 145,
+    "initialDistance": 1.2891735284149572,
+    "initialAltitude": 1550,
+    "initialSpeed": 145,
+    "_sessionKey": "PC12_2026-02-04T16"
   }
 ]

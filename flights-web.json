@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.32,
-    "altitude": 1900,
-    "speed": 150,
-    "timestamp": "2026-02-04T15:58:04.056Z",
-    "lat": 45.6135,
-    "lon": -122.5547,
+    "distance": 1.29,
+    "altitude": 1550,
+    "speed": 145,
+    "timestamp": "2026-02-04T16:02:38.786Z",
+    "lat": 45.6083,
+    "lon": -122.5469,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AMF1992",
-    "aircraftType": "BE99",
-    "origin": "PDX",
-    "destination": "HES",
-    "firstSeen": "2026-02-04T15:58:04.053Z"
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-04T16:02:38.784Z"
   },
-  "overheadScore": 1.32,
+  "overheadScore": 1.29,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T15:59:02.184Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T16:02:38.786Z"
 }
