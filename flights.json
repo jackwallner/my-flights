@@ -11037,5 +11037,25 @@
     "initialAltitude": 39975,
     "initialSpeed": 466,
     "_sessionKey": "EJA796_2026-02-04T19"
+  },
+  {
+    "callsign": "SWA4781",
+    "flightNumber": "WN4781",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "AD5460",
+    "registration": "N958WN",
+    "firstSeen": "2026-02-04T19:15:52.078Z",
+    "lastSeen": "2026-02-04T19:15:52.078Z",
+    "duration": 0,
+    "closestDistance": 0.8838546792137744,
+    "closestAltitude": 38000,
+    "closestSpeed": 447,
+    "initialDistance": 0.8838546792137744,
+    "initialAltitude": 38000,
+    "initialSpeed": 447,
+    "_sessionKey": "SWA4781_2026-02-04T19"
   }
 ]

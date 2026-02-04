@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.86,
-    "altitude": 39975,
-    "speed": 466,
-    "timestamp": "2026-02-04T19:07:40.734Z",
-    "lat": 45.6235,
-    "lon": -122.5079,
+    "distance": 0.88,
+    "altitude": 38000,
+    "speed": 447,
+    "timestamp": "2026-02-04T19:15:52.080Z",
+    "lat": 45.6236,
+    "lon": -122.5072,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA796",
-    "aircraftType": "CL35",
-    "origin": "SNA",
-    "destination": "BFI",
-    "firstSeen": "2026-02-04T19:07:40.731Z"
+    "callsign": "SWA4781",
+    "aircraftType": "B737",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T19:15:52.078Z"
   },
-  "overheadScore": 0.86,
+  "overheadScore": 0.88,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T19:08:38.717Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T19:15:52.080Z"
 }
