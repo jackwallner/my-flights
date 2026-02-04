@@ -11277,5 +11277,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 457,
     "_sessionKey": "QXE2344_2026-02-04T20"
+  },
+  {
+    "callsign": "BOE101",
+    "flightNumber": "BOE101",
+    "aircraftType": "B3XM",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "BFI",
+    "icao": "A2C39E",
+    "registration": "N27751",
+    "firstSeen": "2026-02-04T20:34:43.844Z",
+    "lastSeen": "2026-02-04T20:34:43.844Z",
+    "duration": 0,
+    "closestDistance": 1.1660012641912638,
+    "closestAltitude": 29700,
+    "closestSpeed": 459,
+    "initialDistance": 1.1660012641912638,
+    "initialAltitude": 29700,
+    "initialSpeed": 459,
+    "_sessionKey": "BOE101_2026-02-04T20"
   }
 ]

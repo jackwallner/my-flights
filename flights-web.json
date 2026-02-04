@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 34000,
-    "speed": 457,
-    "timestamp": "2026-02-04T20:32:12.007Z",
-    "lat": 45.6235,
-    "lon": -122.5598,
+    "distance": 1.17,
+    "altitude": 29700,
+    "speed": 459,
+    "timestamp": "2026-02-04T20:34:43.847Z",
+    "lat": 45.6155,
+    "lon": -122.5521,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2344",
-    "aircraftType": "E175",
-    "origin": "STS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-04T20:32:12.004Z"
+    "callsign": "BOE101",
+    "aircraftType": "B3XM",
+    "origin": "BFI",
+    "destination": "BFI",
+    "firstSeen": "2026-02-04T20:34:43.844Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.17,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T20:33:10.934Z"
+  "timestamp": "2026-02-04T20:35:41.734Z"
 }
