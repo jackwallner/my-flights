@@ -9697,5 +9697,25 @@
     "initialAltitude": 37975,
     "initialSpeed": 429,
     "_sessionKey": "ASA9803_2026-02-04T02"
+  },
+  {
+    "callsign": "SKW4703",
+    "flightNumber": "UA4703",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "ABDD64",
+    "registration": "N86372",
+    "firstSeen": "2026-02-04T02:48:56.867Z",
+    "lastSeen": "2026-02-04T02:48:56.867Z",
+    "duration": 0,
+    "closestDistance": 0.9320628905443616,
+    "closestAltitude": 34000,
+    "closestSpeed": 413,
+    "initialDistance": 0.9320628905443616,
+    "initialAltitude": 34000,
+    "initialSpeed": 413,
+    "_sessionKey": "SKW4703_2026-02-04T02"
   }
 ]
