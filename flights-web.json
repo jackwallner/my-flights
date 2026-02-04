@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.44,
-    "altitude": 36000,
-    "speed": 453,
-    "timestamp": "2026-02-04T23:54:34.106Z",
-    "lat": 45.6308,
-    "lon": -122.5616,
+    "distance": 1.5,
+    "altitude": 1625,
+    "speed": 133,
+    "timestamp": "2026-02-04T23:58:47.539Z",
+    "lat": 45.6054,
+    "lon": -122.5497,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3814",
-    "aircraftType": "E175",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-02-04T23:54:34.104Z"
+    "callsign": "N475TW",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-04T23:58:47.536Z"
   },
-  "overheadScore": 1.44,
+  "overheadScore": 1.5,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T23:55:31.827Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T23:58:47.539Z"
 }
