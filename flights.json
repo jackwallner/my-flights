@@ -9797,5 +9797,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 444,
     "_sessionKey": "SWA1290_2026-02-04T03"
+  },
+  {
+    "callsign": "ASA523",
+    "flightNumber": "AS523",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A715C6",
+    "registration": "N556AS",
+    "firstSeen": "2026-02-04T03:26:49.460Z",
+    "lastSeen": "2026-02-04T03:26:49.460Z",
+    "duration": 0,
+    "closestDistance": 1.3448782304734057,
+    "closestAltitude": 38000,
+    "closestSpeed": 440,
+    "initialDistance": 1.3448782304734057,
+    "initialAltitude": 38000,
+    "initialSpeed": 440,
+    "_sessionKey": "ASA523_2026-02-04T03"
   }
 ]
