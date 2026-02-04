@@ -10837,5 +10837,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 444,
     "_sessionKey": "ASA717_2026-02-04T17"
+  },
+  {
+    "callsign": "ASA1365",
+    "flightNumber": "AS1365",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A29908",
+    "registration": "N267AK",
+    "firstSeen": "2026-02-04T18:08:02.772Z",
+    "lastSeen": "2026-02-04T18:08:02.772Z",
+    "duration": 0,
+    "closestDistance": 1.4076902472660489,
+    "closestAltitude": 37400,
+    "closestSpeed": 458,
+    "initialDistance": 1.4076902472660489,
+    "initialAltitude": 37400,
+    "initialSpeed": 458,
+    "_sessionKey": "ASA1365_2026-02-04T18"
   }
 ]

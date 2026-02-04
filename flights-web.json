@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.04,
-    "altitude": 36000,
-    "speed": 444,
-    "timestamp": "2026-02-04T17:56:35.144Z",
-    "lat": 45.6199,
-    "lon": -122.5046,
+    "distance": 1.41,
+    "altitude": 37400,
+    "speed": 458,
+    "timestamp": "2026-02-04T18:08:02.776Z",
+    "lat": 45.6286,
+    "lon": -122.5613,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA717",
-    "aircraftType": "737 ",
-    "origin": "LAX",
+    "callsign": "ASA1365",
+    "aircraftType": "737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T17:56:35.140Z"
+    "firstSeen": "2026-02-04T18:08:02.772Z"
   },
-  "overheadScore": 1.04,
+  "overheadScore": 1.41,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T17:57:32.800Z"
+  "timestamp": "2026-02-04T18:09:01.406Z"
 }
