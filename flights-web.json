@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.48,
-    "altitude": 30000,
-    "speed": 433,
-    "timestamp": "2026-02-04T01:02:50.081Z",
-    "lat": 45.6115,
-    "lon": -122.4989,
+    "distance": 1.38,
+    "altitude": 34000,
+    "speed": 439,
+    "timestamp": "2026-02-04T01:29:18.611Z",
+    "lat": 45.6155,
+    "lon": -122.5578,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2585",
+    "callsign": "ASA422",
     "aircraftType": "737",
-    "origin": "PSP",
+    "origin": "SJD",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T01:02:50.078Z"
+    "firstSeen": "2026-02-04T01:29:18.609Z"
   },
-  "overheadScore": 1.48,
+  "overheadScore": 1.38,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T01:03:47.819Z"
+  "timestamp": "2026-02-04T01:30:16.809Z"
 }
