@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.07,
-    "altitude": 1550,
-    "speed": 149,
-    "timestamp": "2026-02-04T22:30:34.321Z",
-    "lat": 45.6096,
-    "lon": -122.5404,
+    "distance": 1.4,
+    "altitude": 1025,
+    "speed": 113,
+    "timestamp": "2026-02-04T22:46:49.259Z",
+    "lat": 45.6024,
+    "lon": -122.535,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N724KP",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
+    "callsign": "EC35",
+    "aircraftType": "EC35",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-04T22:30:34.317Z"
+    "firstSeen": "2026-02-04T22:46:49.256Z"
   },
-  "overheadScore": 1.07,
+  "overheadScore": 1.4,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T22:31:32.841Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T22:46:49.259Z"
 }

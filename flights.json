@@ -11697,5 +11697,25 @@
     "initialAltitude": 1550,
     "initialSpeed": 149,
     "_sessionKey": "N724KP_2026-02-04T22"
+  },
+  {
+    "callsign": "EC35",
+    "flightNumber": null,
+    "aircraftType": "EC35",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-04T22:46:49.256Z",
+    "lastSeen": "2026-02-04T22:46:49.256Z",
+    "duration": 0,
+    "closestDistance": 1.403882030843794,
+    "closestAltitude": 1025,
+    "closestSpeed": 113,
+    "initialDistance": 1.403882030843794,
+    "initialAltitude": 1025,
+    "initialSpeed": 113,
+    "_sessionKey": "EC35_2026-02-04T22"
   }
 ]
