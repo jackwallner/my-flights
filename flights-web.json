@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.79,
-    "altitude": 35175,
-    "speed": 464,
-    "timestamp": "2026-02-04T20:38:36.718Z",
-    "lat": 45.6272,
-    "lon": -122.5096,
+    "distance": 1.35,
+    "altitude": 15625,
+    "speed": 386,
+    "timestamp": "2026-02-04T20:41:49.547Z",
+    "lat": 45.6175,
+    "lon": -122.5583,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2922",
-    "aircraftType": "737",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-04T20:38:36.717Z"
+    "callsign": "BOE131",
+    "aircraftType": "737 ",
+    "origin": "VCV",
+    "destination": "BFI",
+    "firstSeen": "2026-02-04T20:41:49.544Z"
   },
-  "overheadScore": 0.79,
-  "isOverhead": true,
+  "overheadScore": 1.35,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T20:39:34.929Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T20:41:49.547Z"
 }

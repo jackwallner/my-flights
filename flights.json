@@ -11317,5 +11317,25 @@
     "initialAltitude": 35175,
     "initialSpeed": 464,
     "_sessionKey": "DAL2922_2026-02-04T20"
+  },
+  {
+    "callsign": "BOE131",
+    "flightNumber": "BOE131",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "VCV",
+    "destination": "BFI",
+    "icao": "4BBD0D",
+    "registration": "TC-OHM",
+    "firstSeen": "2026-02-04T20:41:49.544Z",
+    "lastSeen": "2026-02-04T20:41:49.544Z",
+    "duration": 0,
+    "closestDistance": 1.3510033389405978,
+    "closestAltitude": 15625,
+    "closestSpeed": 386,
+    "initialDistance": 1.3510033389405978,
+    "initialAltitude": 15625,
+    "initialSpeed": 386,
+    "_sessionKey": "BOE131_2026-02-04T20"
   }
 ]
