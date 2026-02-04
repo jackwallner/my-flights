@@ -9517,5 +9517,25 @@
     "initialAltitude": 1725,
     "initialSpeed": 144,
     "_sessionKey": "N723KP_2026-02-04T01"
+  },
+  {
+    "callsign": "C172",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-04T01:46:11.920Z",
+    "lastSeen": "2026-02-04T01:46:11.920Z",
+    "duration": 0,
+    "closestDistance": 1.4276717569858615,
+    "closestAltitude": 1675,
+    "closestSpeed": 85,
+    "initialDistance": 1.4276717569858615,
+    "initialAltitude": 1675,
+    "initialSpeed": 85,
+    "_sessionKey": "C172_2026-02-04T01"
   }
 ]
