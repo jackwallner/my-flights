@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.03,
+    "distance": 1.33,
     "altitude": 34000,
-    "speed": 417,
-    "timestamp": "2026-02-04T03:52:39.475Z",
-    "lat": 45.6199,
-    "lon": -122.5047,
+    "speed": 426,
+    "timestamp": "2026-02-04T03:54:49.508Z",
+    "lat": 45.6179,
+    "lon": -122.5581,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA84",
-    "aircraftType": "B39M",
-    "origin": "LAX",
+    "callsign": "QXE2230",
+    "aircraftType": "E175",
+    "origin": "SBP",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T03:52:39.473Z"
+    "firstSeen": "2026-02-04T03:54:49.506Z"
   },
-  "overheadScore": 1.03,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-04T03:52:39.475Z"
+  "timestamp": "2026-02-04T03:54:49.508Z"
 }
