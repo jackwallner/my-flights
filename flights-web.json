@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 2550,
-    "speed": 155,
-    "timestamp": "2026-02-04T16:17:00.663Z",
-    "lat": 45.6189,
-    "lon": -122.5603,
+    "distance": 1.14,
+    "altitude": 35975,
+    "speed": 447,
+    "timestamp": "2026-02-04T16:19:41.223Z",
+    "lat": 45.6178,
+    "lon": -122.5031,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N475TW",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-04T16:17:00.660Z"
+    "callsign": "ASA323",
+    "aircraftType": "B39M",
+    "origin": "RNO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T16:19:41.220Z"
   },
-  "overheadScore": 1.4,
+  "overheadScore": 1.14,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T16:17:58.006Z"
+  "timestamp": "2026-02-04T16:20:39.449Z"
 }
