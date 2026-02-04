@@ -9857,5 +9857,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 436,
     "_sessionKey": "SKW4049_2026-02-04T03"
+  },
+  {
+    "callsign": "DAL2640",
+    "flightNumber": "DL2640",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A44591",
+    "registration": "N3744F",
+    "firstSeen": "2026-02-04T03:34:21.187Z",
+    "lastSeen": "2026-02-04T03:34:21.187Z",
+    "duration": 0,
+    "closestDistance": 0.7992989811722417,
+    "closestAltitude": 39950,
+    "closestSpeed": 420,
+    "initialDistance": 0.7992989811722417,
+    "initialAltitude": 39950,
+    "initialSpeed": 420,
+    "_sessionKey": "DAL2640_2026-02-04T03"
   }
 ]
