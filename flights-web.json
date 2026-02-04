@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.09,
-    "altitude": 37600,
-    "speed": 454,
-    "timestamp": "2026-02-04T23:48:50.057Z",
-    "lat": 45.6187,
-    "lon": -122.5038,
+    "distance": 1.37,
+    "altitude": 34000,
+    "speed": 487,
+    "timestamp": "2026-02-04T23:51:52.266Z",
+    "lat": 45.6176,
+    "lon": -122.5588,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1309",
-    "aircraftType": "737",
-    "origin": "LAX",
+    "callsign": "DAL1412",
+    "aircraftType": "A220",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T23:48:50.054Z"
+    "firstSeen": "2026-02-04T23:51:52.263Z"
   },
-  "overheadScore": 1.09,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T23:49:48.107Z"
+  "timestamp": "2026-02-04T23:52:50.925Z"
 }

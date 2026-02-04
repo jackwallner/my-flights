@@ -11997,5 +11997,25 @@
     "initialAltitude": 37600,
     "initialSpeed": 454,
     "_sessionKey": "ASA1309_2026-02-04T23"
+  },
+  {
+    "callsign": "DAL1412",
+    "flightNumber": "DL1412",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A0757F",
+    "registration": "N129DU",
+    "firstSeen": "2026-02-04T23:51:52.263Z",
+    "lastSeen": "2026-02-04T23:51:52.263Z",
+    "duration": 0,
+    "closestDistance": 1.3686879214527163,
+    "closestAltitude": 34000,
+    "closestSpeed": 487,
+    "initialDistance": 1.3686879214527163,
+    "initialAltitude": 34000,
+    "initialSpeed": 487,
+    "_sessionKey": "DAL1412_2026-02-04T23"
   }
 ]
