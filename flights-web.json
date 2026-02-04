@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 34000,
-    "speed": 456,
-    "timestamp": "2026-02-04T08:03:34.689Z",
-    "lat": 45.6142,
-    "lon": -122.5574,
+    "distance": 0.76,
+    "altitude": 36000,
+    "speed": 458,
+    "timestamp": "2026-02-04T11:49:37.923Z",
+    "lat": 45.6309,
+    "lon": -122.512,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5579",
-    "aircraftType": "E175",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-04T08:03:34.687Z"
+    "callsign": "UPS984",
+    "aircraftType": "767",
+    "origin": "ONT",
+    "destination": "BFI",
+    "firstSeen": "2026-02-04T11:49:37.919Z"
   },
-  "overheadScore": 1.4,
-  "isOverhead": false,
+  "overheadScore": 0.76,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T08:04:32.433Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T11:49:37.923Z"
 }

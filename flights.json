@@ -10297,5 +10297,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 456,
     "_sessionKey": "SKW5579_2026-02-04T08"
+  },
+  {
+    "callsign": "UPS984",
+    "flightNumber": "5X984",
+    "aircraftType": "B763",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "BFI",
+    "icao": "A46488",
+    "registration": "N382UP",
+    "firstSeen": "2026-02-04T11:49:37.919Z",
+    "lastSeen": "2026-02-04T11:49:37.919Z",
+    "duration": 0,
+    "closestDistance": 0.7559548287892374,
+    "closestAltitude": 36000,
+    "closestSpeed": 458,
+    "initialDistance": 0.7559548287892374,
+    "initialAltitude": 36000,
+    "initialSpeed": 458,
+    "_sessionKey": "UPS984_2026-02-04T11"
   }
 ]
