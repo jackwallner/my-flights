@@ -10197,5 +10197,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 425,
     "_sessionKey": "QXE2031_2026-02-04T05"
+  },
+  {
+    "callsign": "ASA532",
+    "flightNumber": "AS532",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A96E9A",
+    "registration": "N707AL",
+    "firstSeen": "2026-02-04T05:43:01.952Z",
+    "lastSeen": "2026-02-04T05:43:01.952Z",
+    "duration": 0,
+    "closestDistance": 1.352531402105027,
+    "closestAltitude": 36000,
+    "closestSpeed": 438,
+    "initialDistance": 1.352531402105027,
+    "initialAltitude": 36000,
+    "initialSpeed": 438,
+    "_sessionKey": "ASA532_2026-02-04T05"
   }
 ]
