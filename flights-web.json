@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 39975,
-    "speed": 435,
-    "timestamp": "2026-02-04T16:44:33.054Z",
-    "lat": 45.6175,
-    "lon": -122.5583,
+    "distance": 1.39,
+    "altitude": 38000,
+    "speed": 445,
+    "timestamp": "2026-02-04T16:47:35.112Z",
+    "lat": 45.6131,
+    "lon": -122.5001,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3677",
-    "aircraftType": "B737",
-    "origin": "SMF",
+    "callsign": "ASA491",
+    "aircraftType": "737",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T16:44:33.051Z"
+    "firstSeen": "2026-02-04T16:47:35.109Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T16:45:30.971Z"
+  "timestamp": "2026-02-04T16:48:32.712Z"
 }

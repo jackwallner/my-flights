@@ -10537,5 +10537,25 @@
     "initialAltitude": 39975,
     "initialSpeed": 435,
     "_sessionKey": "SWA3677_2026-02-04T16"
+  },
+  {
+    "callsign": "ASA491",
+    "flightNumber": "AS491",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "A5521C",
+    "registration": "N442AS",
+    "firstSeen": "2026-02-04T16:47:35.109Z",
+    "lastSeen": "2026-02-04T16:47:35.109Z",
+    "duration": 0,
+    "closestDistance": 1.3851151295628612,
+    "closestAltitude": 38000,
+    "closestSpeed": 445,
+    "initialDistance": 1.3851151295628612,
+    "initialAltitude": 38000,
+    "initialSpeed": 445,
+    "_sessionKey": "ASA491_2026-02-04T16"
   }
 ]
