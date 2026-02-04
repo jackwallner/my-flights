@@ -10137,5 +10137,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 428,
     "_sessionKey": "DAL2613_2026-02-04T05"
+  },
+  {
+    "callsign": "ASA574",
+    "flightNumber": "AS574",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A735D7",
+    "registration": "N564AS",
+    "firstSeen": "2026-02-04T05:12:12.477Z",
+    "lastSeen": "2026-02-04T05:12:12.477Z",
+    "duration": 0,
+    "closestDistance": 1.1275606706902397,
+    "closestAltitude": 34000,
+    "closestSpeed": 432,
+    "initialDistance": 1.1275606706902397,
+    "initialAltitude": 34000,
+    "initialSpeed": 432,
+    "_sessionKey": "ASA574_2026-02-04T05"
   }
 ]
