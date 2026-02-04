@@ -11657,5 +11657,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 464,
     "_sessionKey": "ASA1358_2026-02-04T22"
+  },
+  {
+    "callsign": "QXE2052",
+    "flightNumber": "AS2052",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A8C0D2",
+    "registration": "N663QX",
+    "firstSeen": "2026-02-04T22:13:57.727Z",
+    "lastSeen": "2026-02-04T22:13:57.727Z",
+    "duration": 0,
+    "closestDistance": 1.4893684144308617,
+    "closestAltitude": 30000,
+    "closestSpeed": 465,
+    "initialDistance": 1.4893684144308617,
+    "initialAltitude": 30000,
+    "initialSpeed": 465,
+    "_sessionKey": "QXE2052_2026-02-04T22"
   }
 ]

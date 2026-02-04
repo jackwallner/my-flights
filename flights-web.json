@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 36000,
-    "speed": 464,
-    "timestamp": "2026-02-04T22:12:59.606Z",
-    "lat": 45.6262,
-    "lon": -122.5604,
+    "distance": 1.49,
+    "altitude": 30000,
+    "speed": 465,
+    "timestamp": "2026-02-04T22:13:57.730Z",
+    "lat": 45.6056,
+    "lon": -122.5497,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1358",
-    "aircraftType": "737",
-    "origin": "SMF",
+    "callsign": "QXE2052",
+    "aircraftType": "E175",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T22:12:59.604Z"
+    "firstSeen": "2026-02-04T22:13:57.727Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-04T22:12:59.606Z"
+  "status": "completed",
+  "timestamp": "2026-02-04T22:14:55.559Z"
 }
