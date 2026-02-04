@@ -11017,5 +11017,25 @@
     "initialAltitude": 36675,
     "initialSpeed": 457,
     "_sessionKey": "ASA642_2026-02-04T18"
+  },
+  {
+    "callsign": "EJA796",
+    "flightNumber": "EJA796",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "BFI",
+    "icao": "AACFBE",
+    "registration": "N796QS",
+    "firstSeen": "2026-02-04T19:07:40.731Z",
+    "lastSeen": "2026-02-04T19:07:40.731Z",
+    "duration": 0,
+    "closestDistance": 0.8553908487814319,
+    "closestAltitude": 39975,
+    "closestSpeed": 466,
+    "initialDistance": 0.8553908487814319,
+    "initialAltitude": 39975,
+    "initialSpeed": 466,
+    "_sessionKey": "EJA796_2026-02-04T19"
   }
 ]
