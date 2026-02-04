@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.76,
-    "altitude": 1800,
-    "speed": 99,
-    "timestamp": "2026-02-04T23:10:10.095Z",
-    "lat": 45.629,
-    "lon": -122.5454,
-    "precision": "high"
+    "distance": 1.07,
+    "altitude": 38000,
+    "speed": 458,
+    "timestamp": "2026-02-04T23:22:43.074Z",
+    "lat": 45.6192,
+    "lon": -122.5042,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N61338",
-    "aircraftType": "C150",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T23:09:12.147Z"
+    "callsign": "ASA703",
+    "aircraftType": "737",
+    "origin": "BUR",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T23:22:43.071Z"
   },
-  "overheadScore": 0.76,
-  "isOverhead": true,
-  "pathSnapshots": 5,
-  "status": "completed",
-  "timestamp": "2026-02-04T23:10:51.266Z"
+  "overheadScore": 1.07,
+  "isOverhead": false,
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-04T23:22:43.074Z"
 }
