@@ -11557,5 +11557,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 454,
     "_sessionKey": "ASA685_2026-02-04T21"
+  },
+  {
+    "callsign": "BOE102",
+    "flightNumber": null,
+    "aircraftType": "B3XM",
+    "aircraftName": null,
+    "origin": "LMT",
+    "destination": null,
+    "icao": "A2C39F",
+    "registration": "N27752",
+    "firstSeen": "2026-02-04T21:53:16.354Z",
+    "lastSeen": "2026-02-04T21:53:16.354Z",
+    "duration": 0,
+    "closestDistance": 1.4404810339041494,
+    "closestAltitude": 32000,
+    "closestSpeed": 478,
+    "initialDistance": 1.4404810339041494,
+    "initialAltitude": 32000,
+    "initialSpeed": 478,
+    "_sessionKey": "BOE102_2026-02-04T21"
   }
 ]

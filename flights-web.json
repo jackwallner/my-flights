@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 36000,
-    "speed": 454,
-    "timestamp": "2026-02-04T21:46:48.176Z",
-    "lat": 45.6228,
-    "lon": -122.5597,
+    "distance": 1.44,
+    "altitude": 32000,
+    "speed": 478,
+    "timestamp": "2026-02-04T21:53:16.357Z",
+    "lat": 45.6233,
+    "lon": -122.5623,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA685",
-    "aircraftType": "B39M",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-02-04T21:46:48.173Z"
+    "callsign": "BOE102",
+    "aircraftType": "B3XM",
+    "origin": "LMT",
+    "destination": null,
+    "firstSeen": "2026-02-04T21:53:16.354Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.44,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T21:47:46.449Z"
+  "timestamp": "2026-02-04T21:54:14.471Z"
 }
