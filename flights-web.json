@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 1025,
-    "speed": 113,
-    "timestamp": "2026-02-04T22:46:49.259Z",
-    "lat": 45.6024,
-    "lon": -122.535,
+    "distance": 1.35,
+    "altitude": 38000,
+    "speed": 441,
+    "timestamp": "2026-02-04T22:55:44.941Z",
+    "lat": 45.6239,
+    "lon": -122.5601,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EC35",
-    "aircraftType": "EC35",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T22:46:49.256Z"
+    "callsign": "SWA2325",
+    "aircraftType": "B737",
+    "origin": "OAK",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T22:55:44.938Z"
   },
-  "overheadScore": 1.4,
+  "overheadScore": 1.35,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T22:47:49.622Z"
+  "timestamp": "2026-02-04T22:56:42.995Z"
 }

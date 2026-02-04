@@ -11717,5 +11717,25 @@
     "initialAltitude": 1025,
     "initialSpeed": 113,
     "_sessionKey": "EC35_2026-02-04T22"
+  },
+  {
+    "callsign": "SWA2325",
+    "flightNumber": "WN2325",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "AAAA64",
+    "registration": "N7869A",
+    "firstSeen": "2026-02-04T22:55:44.938Z",
+    "lastSeen": "2026-02-04T22:55:44.938Z",
+    "duration": 0,
+    "closestDistance": 1.3457347298887539,
+    "closestAltitude": 38000,
+    "closestSpeed": 441,
+    "initialDistance": 1.3457347298887539,
+    "initialAltitude": 38000,
+    "initialSpeed": 441,
+    "_sessionKey": "SWA2325_2026-02-04T22"
   }
 ]
