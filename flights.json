@@ -11677,5 +11677,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 465,
     "_sessionKey": "QXE2052_2026-02-04T22"
+  },
+  {
+    "callsign": "N724KP",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A9B357",
+    "registration": "N724KP",
+    "firstSeen": "2026-02-04T22:30:34.317Z",
+    "lastSeen": "2026-02-04T22:30:34.317Z",
+    "duration": 0,
+    "closestDistance": 1.0736172536296316,
+    "closestAltitude": 1550,
+    "closestSpeed": 149,
+    "initialDistance": 1.0736172536296316,
+    "initialAltitude": 1550,
+    "initialSpeed": 149,
+    "_sessionKey": "N724KP_2026-02-04T22"
   }
 ]
