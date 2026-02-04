@@ -9997,5 +9997,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 434,
     "_sessionKey": "DAL1922_2026-02-04T03"
+  },
+  {
+    "callsign": "UAL2019",
+    "flightNumber": "UA2019",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A8D4F6",
+    "registration": "N66848",
+    "firstSeen": "2026-02-04T04:17:13.546Z",
+    "lastSeen": "2026-02-04T04:17:13.546Z",
+    "duration": 0,
+    "closestDistance": 1.3353220299752313,
+    "closestAltitude": 36000,
+    "closestSpeed": 432,
+    "initialDistance": 1.3353220299752313,
+    "initialAltitude": 36000,
+    "initialSpeed": 432,
+    "_sessionKey": "UAL2019_2026-02-04T04"
   }
 ]

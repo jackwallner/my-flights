@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 34000,
-    "speed": 434,
-    "timestamp": "2026-02-04T03:59:44.918Z",
-    "lat": 45.6177,
-    "lon": -122.5584,
+    "distance": 1.34,
+    "altitude": 36000,
+    "speed": 432,
+    "timestamp": "2026-02-04T04:17:13.549Z",
+    "lat": 45.6192,
+    "lon": -122.5587,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1922",
+    "callsign": "UAL2019",
     "aircraftType": "737",
-    "origin": "PVR",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T03:59:44.875Z"
+    "firstSeen": "2026-02-04T04:17:13.546Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.34,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T04:00:42.573Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T04:17:13.550Z"
 }
