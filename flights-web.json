@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 1100,
-    "speed": 116,
-    "timestamp": "2026-02-04T20:55:54.551Z",
-    "lat": 45.635,
-    "lon": -122.4987,
-    "precision": "tracked"
+    "distance": 0.01,
+    "altitude": 1400,
+    "speed": 105,
+    "timestamp": "2026-02-04T20:57:43.966Z",
+    "lat": 45.6251,
+    "lon": -122.5281,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N5107H",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-04T20:55:54.548Z"
   },
-  "overheadScore": 1.37,
-  "isOverhead": false,
-  "pathSnapshots": 1,
+  "overheadScore": 0.01,
+  "isOverhead": true,
+  "pathSnapshots": 12,
   "status": "tracking",
-  "timestamp": "2026-02-04T20:55:54.551Z"
+  "timestamp": "2026-02-04T20:58:35.453Z"
 }
