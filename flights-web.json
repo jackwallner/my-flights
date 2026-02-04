@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.17,
-    "altitude": 29700,
-    "speed": 459,
-    "timestamp": "2026-02-04T20:34:43.847Z",
-    "lat": 45.6155,
-    "lon": -122.5521,
+    "distance": 0.79,
+    "altitude": 35175,
+    "speed": 464,
+    "timestamp": "2026-02-04T20:38:36.718Z",
+    "lat": 45.6272,
+    "lon": -122.5096,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BOE101",
-    "aircraftType": "B3XM",
-    "origin": "BFI",
-    "destination": "BFI",
-    "firstSeen": "2026-02-04T20:34:43.844Z"
+    "callsign": "DAL2922",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T20:38:36.717Z"
   },
-  "overheadScore": 1.17,
-  "isOverhead": false,
+  "overheadScore": 0.79,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T20:35:41.734Z"
+  "timestamp": "2026-02-04T20:39:34.929Z"
 }

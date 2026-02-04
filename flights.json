@@ -11297,5 +11297,25 @@
     "initialAltitude": 29700,
     "initialSpeed": 459,
     "_sessionKey": "BOE101_2026-02-04T20"
+  },
+  {
+    "callsign": "DAL2922",
+    "flightNumber": "DL2922",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AB477D",
+    "registration": "N826DN",
+    "firstSeen": "2026-02-04T20:38:36.717Z",
+    "lastSeen": "2026-02-04T20:38:36.717Z",
+    "duration": 0,
+    "closestDistance": 0.78577477373028,
+    "closestAltitude": 35175,
+    "closestSpeed": 464,
+    "initialDistance": 0.78577477373028,
+    "initialAltitude": 35175,
+    "initialSpeed": 464,
+    "_sessionKey": "DAL2922_2026-02-04T20"
   }
 ]
