@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.31,
-    "altitude": 2275,
-    "speed": 76,
-    "timestamp": "2026-02-04T23:02:37.027Z",
-    "lat": 45.6388,
-    "lon": -122.5525,
-    "precision": "high"
+    "distance": 1.15,
+    "altitude": 36000,
+    "speed": 466,
+    "timestamp": "2026-02-04T23:04:40.646Z",
+    "lat": 45.6177,
+    "lon": -122.5029,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N64259",
-    "aircraftType": "C172",
-    "origin": "YKM",
-    "destination": "PDX",
-    "firstSeen": "2026-02-04T23:01:39.153Z"
+    "callsign": "SKW5403",
+    "aircraftType": "E175",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T23:04:40.643Z"
   },
-  "overheadScore": 1.31,
+  "overheadScore": 1.15,
   "isOverhead": false,
-  "pathSnapshots": 4,
-  "status": "completed",
-  "timestamp": "2026-02-04T23:03:07.927Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-04T23:04:40.646Z"
 }
