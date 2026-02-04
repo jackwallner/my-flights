@@ -9717,5 +9717,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 413,
     "_sessionKey": "SKW4703_2026-02-04T02"
+  },
+  {
+    "callsign": "CL60",
+    "flightNumber": null,
+    "aircraftType": "CL60",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-04T02:54:02.924Z",
+    "lastSeen": "2026-02-04T02:54:02.924Z",
+    "duration": 0,
+    "closestDistance": 1.402435549542702,
+    "closestAltitude": 33975,
+    "closestSpeed": 456,
+    "initialDistance": 1.402435549542702,
+    "initialAltitude": 33975,
+    "initialSpeed": 456,
+    "_sessionKey": "CL60_2026-02-04T02"
   }
 ]
