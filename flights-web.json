@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.26,
-    "altitude": 2300,
-    "speed": 164,
-    "timestamp": "2026-02-04T18:29:04.361Z",
-    "lat": 45.6457,
-    "lon": -122.5208,
+    "distance": 1.28,
+    "altitude": 1075,
+    "speed": 136,
+    "timestamp": "2026-02-04T18:33:47.521Z",
+    "lat": 45.609,
+    "lon": -122.5479,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AMF1992",
-    "aircraftType": "BE99",
-    "origin": "HES",
-    "destination": "PDX",
-    "firstSeen": "2026-02-04T18:29:04.359Z"
+    "callsign": "N310UD",
+    "aircraftType": "C310",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-04T18:33:47.519Z"
   },
-  "overheadScore": 1.26,
+  "overheadScore": 1.28,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T18:30:04.194Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T18:33:47.521Z"
 }
