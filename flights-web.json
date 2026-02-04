@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
+    "distance": 0.77,
     "altitude": 36000,
-    "speed": 431,
-    "timestamp": "2026-02-03T23:58:04.829Z",
-    "lat": 45.6284,
-    "lon": -122.561,
+    "speed": 424,
+    "timestamp": "2026-02-03T23:59:35.031Z",
+    "lat": 45.6281,
+    "lon": -122.5102,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3789",
-    "aircraftType": "E175",
-    "origin": "SJC",
+    "callsign": "ASA1309",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-03T23:58:04.827Z"
+    "firstSeen": "2026-02-03T23:59:35.029Z"
   },
-  "overheadScore": 1.39,
-  "isOverhead": false,
+  "overheadScore": 0.77,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-03T23:58:04.829Z"
+  "timestamp": "2026-02-03T23:59:35.031Z"
 }

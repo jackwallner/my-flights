@@ -9197,5 +9197,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 431,
     "_sessionKey": "SKW3789_2026-02-03T23"
+  },
+  {
+    "callsign": "ASA1309",
+    "flightNumber": "AS1309",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A688FF",
+    "registration": "N520AS",
+    "firstSeen": "2026-02-03T23:59:35.029Z",
+    "lastSeen": "2026-02-03T23:59:35.029Z",
+    "duration": 0,
+    "closestDistance": 0.7708950269137922,
+    "closestAltitude": 36000,
+    "closestSpeed": 424,
+    "initialDistance": 0.7708950269137922,
+    "initialAltitude": 36000,
+    "initialSpeed": 424,
+    "_sessionKey": "ASA1309_2026-02-03T23"
   }
 ]
