@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 34075,
-    "speed": 441,
-    "timestamp": "2026-02-04T00:50:54.176Z",
-    "lat": 45.6261,
-    "lon": -122.5605,
+    "distance": 0.97,
+    "altitude": 38000,
+    "speed": 418,
+    "timestamp": "2026-02-04T00:57:23.187Z",
+    "lat": 45.6217,
+    "lon": -122.5057,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA745",
-    "aircraftType": "737",
-    "origin": "SJC",
+    "callsign": "ASA585",
+    "aircraftType": "737 ",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T00:50:54.173Z"
+    "firstSeen": "2026-02-04T00:57:23.184Z"
   },
-  "overheadScore": 1.36,
-  "isOverhead": false,
+  "overheadScore": 0.97,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T00:51:52.305Z"
+  "timestamp": "2026-02-04T00:58:21.324Z"
 }
