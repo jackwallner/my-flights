@@ -9537,5 +9537,25 @@
     "initialAltitude": 1675,
     "initialSpeed": 85,
     "_sessionKey": "C172_2026-02-04T01"
+  },
+  {
+    "callsign": "ASA760",
+    "flightNumber": "AS760",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A6504B",
+    "registration": "N506AS",
+    "firstSeen": "2026-02-04T01:52:29.924Z",
+    "lastSeen": "2026-02-04T01:52:29.924Z",
+    "duration": 0,
+    "closestDistance": 0.7626950064291538,
+    "closestAltitude": 38000,
+    "closestSpeed": 427,
+    "initialDistance": 0.7626950064291538,
+    "initialAltitude": 38000,
+    "initialSpeed": 427,
+    "_sessionKey": "ASA760_2026-02-04T01"
   }
 ]
