@@ -10577,5 +10577,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 447,
     "_sessionKey": "ASA701_2026-02-04T16"
+  },
+  {
+    "callsign": "ASA1325",
+    "flightNumber": "AS1325",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "AB10D4",
+    "registration": "N812AK",
+    "firstSeen": "2026-02-04T16:59:08.197Z",
+    "lastSeen": "2026-02-04T16:59:08.197Z",
+    "duration": 0,
+    "closestDistance": 0.7559548287892374,
+    "closestAltitude": 39025,
+    "closestSpeed": 438,
+    "initialDistance": 0.7559548287892374,
+    "initialAltitude": 39025,
+    "initialSpeed": 438,
+    "_sessionKey": "ASA1325_2026-02-04T16"
   }
 ]
