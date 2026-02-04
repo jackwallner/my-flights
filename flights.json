@@ -10697,5 +10697,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 440,
     "_sessionKey": "SKW4041_2026-02-04T17"
+  },
+  {
+    "callsign": "ASA705",
+    "flightNumber": "AS705",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A69F49",
+    "registration": "N526AS",
+    "firstSeen": "2026-02-04T17:16:57.510Z",
+    "lastSeen": "2026-02-04T17:16:57.510Z",
+    "duration": 0,
+    "closestDistance": 1.3340565029961415,
+    "closestAltitude": 38025,
+    "closestSpeed": 449,
+    "initialDistance": 1.3340565029961415,
+    "initialAltitude": 38025,
+    "initialSpeed": 449,
+    "_sessionKey": "ASA705_2026-02-04T17"
   }
 ]
