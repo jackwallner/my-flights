@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.88,
-    "altitude": 36000,
-    "speed": 448,
-    "timestamp": "2026-02-04T17:47:47.074Z",
-    "lat": 45.6241,
-    "lon": -122.5073,
+    "distance": 1.21,
+    "altitude": 34000,
+    "speed": 410,
+    "timestamp": "2026-02-04T17:52:11.244Z",
+    "lat": 45.6164,
+    "lon": -122.5022,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5004",
-    "aircraftType": "CRJ",
-    "origin": "PHX",
+    "callsign": "SKW4042",
+    "aircraftType": "E175",
+    "origin": "ONT",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T17:47:47.072Z"
+    "firstSeen": "2026-02-04T17:52:11.242Z"
   },
-  "overheadScore": 0.88,
-  "isOverhead": true,
+  "overheadScore": 1.21,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T17:48:45.061Z"
+  "timestamp": "2026-02-04T17:53:08.939Z"
 }

@@ -10797,5 +10797,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 448,
     "_sessionKey": "SKW5004_2026-02-04T17"
+  },
+  {
+    "callsign": "SKW4042",
+    "flightNumber": "DL4042",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "SEA",
+    "icao": "A2D710",
+    "registration": "N282SY",
+    "firstSeen": "2026-02-04T17:52:11.242Z",
+    "lastSeen": "2026-02-04T17:52:11.242Z",
+    "duration": 0,
+    "closestDistance": 1.2117093407655375,
+    "closestAltitude": 34000,
+    "closestSpeed": 410,
+    "initialDistance": 1.2117093407655375,
+    "initialAltitude": 34000,
+    "initialSpeed": 410,
+    "_sessionKey": "SKW4042_2026-02-04T17"
   }
 ]
