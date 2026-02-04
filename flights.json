@@ -11137,5 +11137,25 @@
     "initialAltitude": 37475,
     "initialSpeed": 451,
     "_sessionKey": "DAL1714_2026-02-04T19"
+  },
+  {
+    "callsign": "N9185H",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "ACB772",
+    "registration": "N9185H",
+    "firstSeen": "2026-02-04T19:41:17.999Z",
+    "lastSeen": "2026-02-04T19:41:17.999Z",
+    "duration": 0,
+    "closestDistance": 1.2861646577313783,
+    "closestAltitude": 1650,
+    "closestSpeed": 116,
+    "initialDistance": 1.2861646577313783,
+    "initialAltitude": 1650,
+    "initialSpeed": 116,
+    "_sessionKey": "N9185H_2026-02-04T19"
   }
 ]
