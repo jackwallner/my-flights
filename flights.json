@@ -9277,5 +9277,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 425,
     "_sessionKey": "ASA403_2026-02-04T00"
+  },
+  {
+    "callsign": "N64269",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A86FF5",
+    "registration": "N64269",
+    "firstSeen": "2026-02-04T00:11:12.231Z",
+    "lastSeen": "2026-02-04T00:12:19.918Z",
+    "duration": 68,
+    "closestDistance": 0.19654081646965169,
+    "closestAltitude": 975,
+    "closestSpeed": 81,
+    "initialDistance": 1.3019018598502685,
+    "initialAltitude": 1100,
+    "initialSpeed": 80,
+    "_sessionKey": "N64269_2026-02-04T00"
   }
 ]
