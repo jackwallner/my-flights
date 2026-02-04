@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.29,
-    "altitude": 1650,
+    "distance": 1.06,
+    "altitude": 1625,
     "speed": 116,
-    "timestamp": "2026-02-04T19:41:18.003Z",
-    "lat": 45.6222,
-    "lon": -122.4978,
-    "precision": "tracked"
+    "timestamp": "2026-02-04T19:42:16.302Z",
+    "lat": 45.6092,
+    "lon": -122.5386,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N9185H",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-04T19:41:17.999Z"
   },
-  "overheadScore": 1.29,
+  "overheadScore": 1.06,
   "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-04T19:41:18.003Z"
+  "pathSnapshots": 3,
+  "status": "completed",
+  "timestamp": "2026-02-04T19:42:36.850Z"
 }
