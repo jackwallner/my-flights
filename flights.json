@@ -9937,5 +9937,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 433,
     "_sessionKey": "SKW4100_2026-02-04T03"
+  },
+  {
+    "callsign": "ASA84",
+    "flightNumber": "AS84",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AD928B",
+    "registration": "N974AK",
+    "firstSeen": "2026-02-04T03:52:39.473Z",
+    "lastSeen": "2026-02-04T03:52:39.473Z",
+    "duration": 0,
+    "closestDistance": 1.0348002555648548,
+    "closestAltitude": 34000,
+    "closestSpeed": 417,
+    "initialDistance": 1.0348002555648548,
+    "initialAltitude": 34000,
+    "initialSpeed": 417,
+    "_sessionKey": "ASA84_2026-02-04T03"
   }
 ]
