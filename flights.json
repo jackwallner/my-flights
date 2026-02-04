@@ -11077,5 +11077,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 425,
     "_sessionKey": "SWA433_2026-02-04T19"
+  },
+  {
+    "callsign": "ASA798",
+    "flightNumber": "AS798",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "ACFFB4",
+    "registration": "N937AK",
+    "firstSeen": "2026-02-04T19:19:41.530Z",
+    "lastSeen": "2026-02-04T19:19:41.530Z",
+    "duration": 0,
+    "closestDistance": 1.1221310533313742,
+    "closestAltitude": 34000,
+    "closestSpeed": 446,
+    "initialDistance": 1.1221310533313742,
+    "initialAltitude": 34000,
+    "initialSpeed": 446,
+    "_sessionKey": "ASA798_2026-02-04T19"
   }
 ]
