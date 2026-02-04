@@ -10177,5 +10177,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 431,
     "_sessionKey": "SKW3036_2026-02-04T05"
+  },
+  {
+    "callsign": "QXE2031",
+    "flightNumber": "AS2031",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "A8B5AD",
+    "registration": "N660QX",
+    "firstSeen": "2026-02-04T05:19:51.762Z",
+    "lastSeen": "2026-02-04T05:19:51.762Z",
+    "duration": 0,
+    "closestDistance": 1.459453721518216,
+    "closestAltitude": 36000,
+    "closestSpeed": 425,
+    "initialDistance": 1.459453721518216,
+    "initialAltitude": 36000,
+    "initialSpeed": 425,
+    "_sessionKey": "QXE2031_2026-02-04T05"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
+    "distance": 1.46,
     "altitude": 36000,
-    "speed": 431,
-    "timestamp": "2026-02-04T05:18:32.270Z",
-    "lat": 45.6226,
-    "lon": -122.5595,
+    "speed": 425,
+    "timestamp": "2026-02-04T05:19:51.764Z",
+    "lat": 45.6064,
+    "lon": -122.55,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3036",
+    "callsign": "QXE2031",
     "aircraftType": "E175",
-    "origin": "SMF",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T05:18:32.267Z"
+    "firstSeen": "2026-02-04T05:19:51.762Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T05:19:30.987Z"
+  "timestamp": "2026-02-04T05:20:49.767Z"
 }
