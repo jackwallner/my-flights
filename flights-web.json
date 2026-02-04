@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.95,
-    "altitude": 37950,
-    "speed": 467,
-    "timestamp": "2026-02-04T21:37:31.320Z",
-    "lat": 45.622,
-    "lon": -122.5061,
+    "distance": 0.75,
+    "altitude": 34000,
+    "speed": 475,
+    "timestamp": "2026-02-04T21:43:39.872Z",
+    "lat": 45.6299,
+    "lon": -122.5114,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1045",
+    "callsign": "ASA1305",
     "aircraftType": "737",
     "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T21:37:31.317Z"
+    "firstSeen": "2026-02-04T21:43:39.869Z"
   },
-  "overheadScore": 0.95,
+  "overheadScore": 0.75,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T21:38:30.624Z"
+  "timestamp": "2026-02-04T21:44:38.201Z"
 }

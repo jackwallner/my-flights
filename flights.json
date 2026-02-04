@@ -11497,5 +11497,25 @@
     "initialAltitude": 37950,
     "initialSpeed": 467,
     "_sessionKey": "DAL1045_2026-02-04T21"
+  },
+  {
+    "callsign": "ASA1305",
+    "flightNumber": "AS1305",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A2D1BC",
+    "registration": "N281AK",
+    "firstSeen": "2026-02-04T21:43:39.869Z",
+    "lastSeen": "2026-02-04T21:43:39.869Z",
+    "duration": 0,
+    "closestDistance": 0.7545095866353801,
+    "closestAltitude": 34000,
+    "closestSpeed": 475,
+    "initialDistance": 0.7545095866353801,
+    "initialAltitude": 34000,
+    "initialSpeed": 475,
+    "_sessionKey": "ASA1305_2026-02-04T21"
   }
 ]
