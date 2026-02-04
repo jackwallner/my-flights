@@ -9357,5 +9357,25 @@
     "initialAltitude": 1375,
     "initialSpeed": 142,
     "_sessionKey": "PC12_2026-02-04T00"
+  },
+  {
+    "callsign": "ASA745",
+    "flightNumber": "AS745",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A29CBF",
+    "registration": "N268AK",
+    "firstSeen": "2026-02-04T00:50:54.173Z",
+    "lastSeen": "2026-02-04T00:50:54.173Z",
+    "duration": 0,
+    "closestDistance": 1.3608391613950757,
+    "closestAltitude": 34075,
+    "closestSpeed": 441,
+    "initialDistance": 1.3608391613950757,
+    "initialAltitude": 34075,
+    "initialSpeed": 441,
+    "_sessionKey": "ASA745_2026-02-04T00"
   }
 ]

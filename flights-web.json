@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.29,
-    "altitude": 1375,
-    "speed": 142,
-    "timestamp": "2026-02-04T00:46:19.524Z",
-    "lat": 45.6119,
-    "lon": -122.552,
+    "distance": 1.36,
+    "altitude": 34075,
+    "speed": 441,
+    "timestamp": "2026-02-04T00:50:54.176Z",
+    "lat": 45.6261,
+    "lon": -122.5605,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T00:46:19.521Z"
+    "callsign": "ASA745",
+    "aircraftType": "737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T00:50:54.173Z"
   },
-  "overheadScore": 1.29,
+  "overheadScore": 1.36,
   "isOverhead": false,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T00:47:27.347Z"
+  "timestamp": "2026-02-04T00:51:52.305Z"
 }
