@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.76,
-    "altitude": 36000,
-    "speed": 458,
-    "timestamp": "2026-02-04T11:49:37.923Z",
-    "lat": 45.6309,
-    "lon": -122.512,
+    "distance": 1.48,
+    "altitude": 1275,
+    "speed": 131,
+    "timestamp": "2026-02-04T14:42:10.493Z",
+    "lat": 45.6056,
+    "lon": -122.5493,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UPS984",
-    "aircraftType": "767",
-    "origin": "ONT",
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-02-04T11:49:37.919Z"
+    "firstSeen": "2026-02-04T14:42:10.489Z"
   },
-  "overheadScore": 0.76,
-  "isOverhead": true,
+  "overheadScore": 1.48,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T11:50:35.779Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T14:42:10.494Z"
 }
