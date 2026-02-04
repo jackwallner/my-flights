@@ -10997,5 +10997,25 @@
     "initialAltitude": 1075,
     "initialSpeed": 136,
     "_sessionKey": "N310UD_2026-02-04T18"
+  },
+  {
+    "callsign": "ASA642",
+    "flightNumber": "AS642",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "A22642",
+    "registration": "N238AK",
+    "firstSeen": "2026-02-04T18:46:26.196Z",
+    "lastSeen": "2026-02-04T18:46:26.196Z",
+    "duration": 0,
+    "closestDistance": 1.036219620457094,
+    "closestAltitude": 36675,
+    "closestSpeed": 457,
+    "initialDistance": 1.036219620457094,
+    "initialAltitude": 36675,
+    "initialSpeed": 457,
+    "_sessionKey": "ASA642_2026-02-04T18"
   }
 ]
