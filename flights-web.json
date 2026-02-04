@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 36000,
-    "speed": 433,
-    "timestamp": "2026-02-04T04:54:13.511Z",
-    "lat": 45.6316,
-    "lon": -122.5618,
+    "distance": 1.39,
+    "altitude": 38000,
+    "speed": 435,
+    "timestamp": "2026-02-04T04:58:06.934Z",
+    "lat": 45.6147,
+    "lon": -122.5575,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1327",
-    "aircraftType": "737",
-    "origin": "SFO",
+    "callsign": "SWA447",
+    "aircraftType": "B737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T04:54:13.509Z"
+    "firstSeen": "2026-02-04T04:58:06.931Z"
   },
-  "overheadScore": 1.46,
+  "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T04:55:11.393Z"
+  "timestamp": "2026-02-04T04:59:04.803Z"
 }
