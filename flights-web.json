@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1,
-    "altitude": 2575,
-    "speed": 147,
-    "timestamp": "2026-02-04T16:03:36.071Z",
-    "lat": 45.6418,
-    "lon": -122.5246,
-    "precision": "high"
+    "distance": 1.4,
+    "altitude": 2550,
+    "speed": 155,
+    "timestamp": "2026-02-04T16:17:00.663Z",
+    "lat": 45.6189,
+    "lon": -122.5603,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
+    "callsign": "N475TW",
     "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T16:02:38.784Z"
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-04T16:17:00.660Z"
   },
-  "overheadScore": 1,
+  "overheadScore": 1.4,
   "isOverhead": false,
-  "pathSnapshots": 3,
-  "status": "completed",
-  "timestamp": "2026-02-04T16:03:56.685Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-04T16:17:00.663Z"
 }
