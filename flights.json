@@ -9757,5 +9757,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 412,
     "_sessionKey": "ASA774_2026-02-04T03"
+  },
+  {
+    "callsign": "DAL2318",
+    "flightNumber": "DL2318",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A02C91",
+    "registration": "N110DU",
+    "firstSeen": "2026-02-04T03:17:29.063Z",
+    "lastSeen": "2026-02-04T03:17:29.063Z",
+    "duration": 0,
+    "closestDistance": 1.1721832124021356,
+    "closestAltitude": 34000,
+    "closestSpeed": 441,
+    "initialDistance": 1.1721832124021356,
+    "initialAltitude": 34000,
+    "initialSpeed": 441,
+    "_sessionKey": "DAL2318_2026-02-04T03"
   }
 ]

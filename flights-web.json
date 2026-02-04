@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.2,
+    "distance": 1.17,
     "altitude": 34000,
-    "speed": 412,
-    "timestamp": "2026-02-04T03:02:24.371Z",
-    "lat": 45.6166,
-    "lon": -122.5025,
+    "speed": 441,
+    "timestamp": "2026-02-04T03:17:29.066Z",
+    "lat": 45.6169,
+    "lon": -122.5029,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA774",
-    "aircraftType": "737",
+    "callsign": "DAL2318",
+    "aircraftType": "A220",
     "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T03:02:24.369Z"
+    "firstSeen": "2026-02-04T03:17:29.063Z"
   },
-  "overheadScore": 1.2,
+  "overheadScore": 1.17,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T03:03:22.439Z"
+  "timestamp": "2026-02-04T03:18:26.840Z"
 }
