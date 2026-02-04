@@ -10237,5 +10237,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 448,
     "_sessionKey": "ASA1346_2026-02-04T05"
+  },
+  {
+    "callsign": "SWA2312",
+    "flightNumber": "WN2312",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "ABC3EC",
+    "registration": "N8571Z",
+    "firstSeen": "2026-02-04T05:50:50.018Z",
+    "lastSeen": "2026-02-04T05:50:50.018Z",
+    "duration": 0,
+    "closestDistance": 0.750606415341043,
+    "closestAltitude": 40000,
+    "closestSpeed": 405,
+    "initialDistance": 0.750606415341043,
+    "initialAltitude": 40000,
+    "initialSpeed": 405,
+    "_sessionKey": "SWA2312_2026-02-04T05"
   }
 ]
