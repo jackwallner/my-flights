@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.97,
-    "altitude": 38000,
-    "speed": 418,
-    "timestamp": "2026-02-04T00:57:23.187Z",
-    "lat": 45.6217,
-    "lon": -122.5057,
+    "distance": 1.48,
+    "altitude": 30000,
+    "speed": 433,
+    "timestamp": "2026-02-04T01:02:50.081Z",
+    "lat": 45.6115,
+    "lon": -122.4989,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA585",
-    "aircraftType": "737 ",
-    "origin": "LAX",
+    "callsign": "DAL2585",
+    "aircraftType": "737",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T00:57:23.184Z"
+    "firstSeen": "2026-02-04T01:02:50.078Z"
   },
-  "overheadScore": 0.97,
-  "isOverhead": true,
+  "overheadScore": 1.48,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T00:58:21.324Z"
+  "timestamp": "2026-02-04T01:03:47.819Z"
 }
