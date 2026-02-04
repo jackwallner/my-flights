@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.2,
-    "altitude": 39125,
-    "speed": 512,
-    "timestamp": "2026-02-04T23:31:14.573Z",
-    "lat": 45.6055,
-    "lon": -122.5317,
+    "distance": 0.78,
+    "altitude": 38000,
+    "speed": 458,
+    "timestamp": "2026-02-04T23:34:38.395Z",
+    "lat": 45.6325,
+    "lon": -122.5128,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GLF6",
-    "aircraftType": "Gulf",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T23:31:14.571Z"
+    "callsign": "DAL2905",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T23:34:38.392Z"
   },
-  "overheadScore": 1.2,
-  "isOverhead": false,
+  "overheadScore": 0.78,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T23:32:13.975Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T23:34:38.395Z"
 }
