@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.75,
-    "altitude": 38000,
-    "speed": 445,
-    "timestamp": "2026-02-04T15:49:22.144Z",
-    "lat": 45.6278,
-    "lon": -122.5105,
+    "distance": 1.32,
+    "altitude": 1900,
+    "speed": 150,
+    "timestamp": "2026-02-04T15:58:04.056Z",
+    "lat": 45.6135,
+    "lon": -122.5547,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1304",
-    "aircraftType": "737",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-04T15:49:22.140Z"
+    "callsign": "AMF1992",
+    "aircraftType": "BE99",
+    "origin": "PDX",
+    "destination": "HES",
+    "firstSeen": "2026-02-04T15:58:04.053Z"
   },
-  "overheadScore": 0.75,
-  "isOverhead": true,
+  "overheadScore": 1.32,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T15:50:19.939Z"
+  "timestamp": "2026-02-04T15:59:02.184Z"
 }

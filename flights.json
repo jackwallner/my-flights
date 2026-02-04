@@ -10377,5 +10377,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 445,
     "_sessionKey": "ASA1304_2026-02-04T15"
+  },
+  {
+    "callsign": "AMF1992",
+    "flightNumber": "A81992",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "HES",
+    "icao": "A9A734",
+    "registration": "N7209W",
+    "firstSeen": "2026-02-04T15:58:04.053Z",
+    "lastSeen": "2026-02-04T15:58:04.053Z",
+    "duration": 0,
+    "closestDistance": 1.321717344847763,
+    "closestAltitude": 1900,
+    "closestSpeed": 150,
+    "initialDistance": 1.321717344847763,
+    "initialAltitude": 1900,
+    "initialSpeed": 150,
+    "_sessionKey": "AMF1992_2026-02-04T15"
   }
 ]
