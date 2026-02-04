@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
-    "altitude": 38000,
-    "speed": 481,
-    "timestamp": "2026-02-04T23:37:39.348Z",
-    "lat": 45.6252,
-    "lon": -122.5601,
+    "distance": 0.77,
+    "altitude": 36000,
+    "speed": 475,
+    "timestamp": "2026-02-04T23:44:48.530Z",
+    "lat": 45.6277,
+    "lon": -122.5101,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FDX3884",
-    "aircraftType": "767",
-    "origin": "OAK",
+    "callsign": "ASA741",
+    "aircraftType": "B39M",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T23:37:39.346Z"
+    "firstSeen": "2026-02-04T23:44:48.527Z"
   },
-  "overheadScore": 1.34,
-  "isOverhead": false,
+  "overheadScore": 0.77,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T23:38:37.156Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T23:44:48.530Z"
 }
