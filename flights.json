@@ -11337,5 +11337,25 @@
     "initialAltitude": 15625,
     "initialSpeed": 386,
     "_sessionKey": "BOE131_2026-02-04T20"
+  },
+  {
+    "callsign": "SKW4439",
+    "flightNumber": "DL4439",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A231A6",
+    "registration": "N240SY",
+    "firstSeen": "2026-02-04T20:49:39.999Z",
+    "lastSeen": "2026-02-04T20:49:39.999Z",
+    "duration": 0,
+    "closestDistance": 1.3340557625537421,
+    "closestAltitude": 36000,
+    "closestSpeed": 464,
+    "initialDistance": 1.3340557625537421,
+    "initialAltitude": 36000,
+    "initialSpeed": 464,
+    "_sessionKey": "SKW4439_2026-02-04T20"
   }
 ]

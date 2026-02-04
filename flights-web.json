@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 15625,
-    "speed": 386,
-    "timestamp": "2026-02-04T20:41:49.547Z",
-    "lat": 45.6175,
-    "lon": -122.5583,
+    "distance": 1.33,
+    "altitude": 36000,
+    "speed": 464,
+    "timestamp": "2026-02-04T20:49:40.002Z",
+    "lat": 45.6188,
+    "lon": -122.5585,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BOE131",
-    "aircraftType": "737 ",
-    "origin": "VCV",
-    "destination": "BFI",
-    "firstSeen": "2026-02-04T20:41:49.544Z"
+    "callsign": "SKW4439",
+    "aircraftType": "E175",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T20:49:39.999Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T20:42:47.618Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T20:49:40.002Z"
 }
