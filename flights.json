@@ -9317,5 +9317,25 @@
     "initialAltitude": 2075,
     "initialSpeed": 117,
     "_sessionKey": "N12648_2026-02-04T00"
+  },
+  {
+    "callsign": "ASA687",
+    "flightNumber": "AS687",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SBA",
+    "destination": "SEA",
+    "icao": "A4F5A0",
+    "registration": "N419AS",
+    "firstSeen": "2026-02-04T00:28:17.508Z",
+    "lastSeen": "2026-02-04T00:28:17.508Z",
+    "duration": 0,
+    "closestDistance": 1.3755234664927143,
+    "closestAltitude": 38000,
+    "closestSpeed": 423,
+    "initialDistance": 1.3755234664927143,
+    "initialAltitude": 38000,
+    "initialSpeed": 423,
+    "_sessionKey": "ASA687_2026-02-04T00"
   }
 ]
