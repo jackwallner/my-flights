@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
+    "distance": 1.47,
     "altitude": 36000,
-    "speed": 475,
-    "timestamp": "2026-02-04T23:44:48.530Z",
-    "lat": 45.6277,
-    "lon": -122.5101,
+    "speed": 474,
+    "timestamp": "2026-02-04T23:45:57.482Z",
+    "lat": 45.6319,
+    "lon": -122.5617,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA741",
-    "aircraftType": "B39M",
-    "origin": "LAS",
+    "callsign": "SKW3789",
+    "aircraftType": "E175",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T23:44:48.527Z"
+    "firstSeen": "2026-02-04T23:45:57.479Z"
   },
-  "overheadScore": 0.77,
-  "isOverhead": true,
+  "overheadScore": 1.47,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-04T23:44:48.530Z"
+  "status": "completed",
+  "timestamp": "2026-02-04T23:46:56.360Z"
 }
