@@ -11917,5 +11917,25 @@
     "initialAltitude": 37175,
     "initialSpeed": 478,
     "_sessionKey": "ASA1342_2026-02-04T23"
+  },
+  {
+    "callsign": "FDX3884",
+    "flightNumber": "FX3884",
+    "aircraftType": "B763",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A0E869",
+    "registration": "N158FE",
+    "firstSeen": "2026-02-04T23:37:39.346Z",
+    "lastSeen": "2026-02-04T23:37:39.346Z",
+    "duration": 0,
+    "closestDistance": 1.3431731312719386,
+    "closestAltitude": 38000,
+    "closestSpeed": 481,
+    "initialDistance": 1.3431731312719386,
+    "initialAltitude": 38000,
+    "initialSpeed": 481,
+    "_sessionKey": "FDX3884_2026-02-04T23"
   }
 ]
