@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.75,
-    "altitude": 36475,
-    "speed": 469,
-    "timestamp": "2026-02-04T21:56:08.377Z",
-    "lat": 45.6313,
-    "lon": -122.5125,
+    "distance": 0.82,
+    "altitude": 35800,
+    "speed": 454,
+    "timestamp": "2026-02-04T21:57:07.962Z",
+    "lat": 45.6258,
+    "lon": -122.5086,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA654",
+    "callsign": "ASA735",
     "aircraftType": "B39M",
-    "origin": "ONT",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T21:56:08.374Z"
+    "firstSeen": "2026-02-04T21:57:07.960Z"
   },
-  "overheadScore": 0.75,
+  "overheadScore": 0.82,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-04T21:56:08.377Z"
+  "status": "completed",
+  "timestamp": "2026-02-04T21:58:06.306Z"
 }

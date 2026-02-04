@@ -11597,5 +11597,25 @@
     "initialAltitude": 36475,
     "initialSpeed": 469,
     "_sessionKey": "ASA654_2026-02-04T21"
+  },
+  {
+    "callsign": "ASA735",
+    "flightNumber": "AS735",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A96E9A",
+    "registration": "N707AL",
+    "firstSeen": "2026-02-04T21:57:07.960Z",
+    "lastSeen": "2026-02-04T21:57:07.960Z",
+    "duration": 0,
+    "closestDistance": 0.8198690478392396,
+    "closestAltitude": 35800,
+    "closestSpeed": 454,
+    "initialDistance": 0.8198690478392396,
+    "initialAltitude": 35800,
+    "initialSpeed": 454,
+    "_sessionKey": "ASA735_2026-02-04T21"
   }
 ]
