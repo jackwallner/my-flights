@@ -11857,5 +11857,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 458,
     "_sessionKey": "ASA703_2026-02-04T23"
+  },
+  {
+    "callsign": "GLF6",
+    "flightNumber": null,
+    "aircraftType": "GLF6",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-04T23:31:14.571Z",
+    "lastSeen": "2026-02-04T23:31:14.571Z",
+    "duration": 0,
+    "closestDistance": 1.1971490326597285,
+    "closestAltitude": 39125,
+    "closestSpeed": 512,
+    "initialDistance": 1.1971490326597285,
+    "initialAltitude": 39125,
+    "initialSpeed": 512,
+    "_sessionKey": "GLF6_2026-02-04T23"
   }
 ]
