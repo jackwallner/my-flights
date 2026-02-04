@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.8,
-    "altitude": 39950,
-    "speed": 420,
-    "timestamp": "2026-02-04T03:34:21.190Z",
-    "lat": 45.6268,
-    "lon": -122.5092,
+    "distance": 1.21,
+    "altitude": 32000,
+    "speed": 436,
+    "timestamp": "2026-02-04T03:36:31.324Z",
+    "lat": 45.6164,
+    "lon": -122.5022,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2640",
-    "aircraftType": "737",
-    "origin": "LAX",
+    "callsign": "ASA552",
+    "aircraftType": "B39M",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T03:34:21.187Z"
+    "firstSeen": "2026-02-04T03:36:31.322Z"
   },
-  "overheadScore": 0.8,
-  "isOverhead": true,
+  "overheadScore": 1.21,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T03:35:18.826Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T03:36:31.324Z"
 }
