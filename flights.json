@@ -9557,5 +9557,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 427,
     "_sessionKey": "ASA760_2026-02-04T01"
+  },
+  {
+    "callsign": "DAL2880",
+    "flightNumber": "DL2880",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A44DB3",
+    "registration": "N3769L",
+    "firstSeen": "2026-02-04T01:54:19.527Z",
+    "lastSeen": "2026-02-04T01:54:19.527Z",
+    "duration": 0,
+    "closestDistance": 1.2234925287176073,
+    "closestAltitude": 39400,
+    "closestSpeed": 419,
+    "initialDistance": 1.2234925287176073,
+    "initialAltitude": 39400,
+    "initialSpeed": 419,
+    "_sessionKey": "DAL2880_2026-02-04T01"
   }
 ]
