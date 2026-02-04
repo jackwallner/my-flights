@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.38,
-    "altitude": 36000,
-    "speed": 463,
-    "timestamp": "2026-02-04T17:00:57.831Z",
-    "lat": 45.6134,
-    "lon": -122.5,
+    "distance": 0.78,
+    "altitude": 38000,
+    "speed": 458,
+    "timestamp": "2026-02-04T17:02:36.606Z",
+    "lat": 45.6276,
+    "lon": -122.5099,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA179",
+    "callsign": "ASA504",
     "aircraftType": "737",
-    "origin": "PSP",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T17:00:57.829Z"
+    "firstSeen": "2026-02-04T17:02:36.602Z"
   },
-  "overheadScore": 1.38,
-  "isOverhead": false,
+  "overheadScore": 0.78,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-04T17:00:57.831Z"
+  "timestamp": "2026-02-04T17:02:36.606Z"
 }
