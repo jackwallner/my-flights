@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.1,
-    "altitude": 36000,
-    "speed": 418,
-    "timestamp": "2026-02-04T16:31:43.318Z",
-    "lat": 45.6185,
-    "lon": -122.5037,
+    "distance": 1.35,
+    "altitude": 39975,
+    "speed": 435,
+    "timestamp": "2026-02-04T16:44:33.054Z",
+    "lat": 45.6175,
+    "lon": -122.5583,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6253",
-    "aircraftType": "E175",
-    "origin": "PHX",
+    "callsign": "SWA3677",
+    "aircraftType": "B737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T16:31:43.315Z"
+    "firstSeen": "2026-02-04T16:44:33.051Z"
   },
-  "overheadScore": 1.1,
+  "overheadScore": 1.35,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T16:32:41.577Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T16:44:33.054Z"
 }
