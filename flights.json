@@ -11237,5 +11237,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 459,
     "_sessionKey": "ASA777_2026-02-04T20"
+  },
+  {
+    "callsign": "SKW3026",
+    "flightNumber": "AS3026",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A14D78",
+    "registration": "N183SY",
+    "firstSeen": "2026-02-04T20:18:08.663Z",
+    "lastSeen": "2026-02-04T20:18:08.663Z",
+    "duration": 0,
+    "closestDistance": 1.378295836171141,
+    "closestAltitude": 34000,
+    "closestSpeed": 475,
+    "initialDistance": 1.378295836171141,
+    "initialAltitude": 34000,
+    "initialSpeed": 475,
+    "_sessionKey": "SKW3026_2026-02-04T20"
   }
 ]
