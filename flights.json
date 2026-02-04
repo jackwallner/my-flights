@@ -10497,5 +10497,25 @@
     "initialAltitude": 39450,
     "initialSpeed": 445,
     "_sessionKey": "ASA709_2026-02-04T16"
+  },
+  {
+    "callsign": "SKW6253",
+    "flightNumber": "AA6253",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "A64A73",
+    "registration": "N504SY",
+    "firstSeen": "2026-02-04T16:31:43.315Z",
+    "lastSeen": "2026-02-04T16:31:43.315Z",
+    "duration": 0,
+    "closestDistance": 1.10296702543917,
+    "closestAltitude": 36000,
+    "closestSpeed": 418,
+    "initialDistance": 1.10296702543917,
+    "initialAltitude": 36000,
+    "initialSpeed": 418,
+    "_sessionKey": "SKW6253_2026-02-04T16"
   }
 ]
