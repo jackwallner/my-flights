@@ -10557,5 +10557,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 445,
     "_sessionKey": "ASA491_2026-02-04T16"
+  },
+  {
+    "callsign": "ASA701",
+    "flightNumber": "AS701",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A2DCE1",
+    "registration": "N284AK",
+    "firstSeen": "2026-02-04T16:49:34.918Z",
+    "lastSeen": "2026-02-04T16:49:34.918Z",
+    "duration": 0,
+    "closestDistance": 0.888026341691096,
+    "closestAltitude": 36000,
+    "closestSpeed": 447,
+    "initialDistance": 0.888026341691096,
+    "initialAltitude": 36000,
+    "initialSpeed": 447,
+    "_sessionKey": "ASA701_2026-02-04T16"
   }
 ]
