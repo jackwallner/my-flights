@@ -11617,5 +11617,25 @@
     "initialAltitude": 35800,
     "initialSpeed": 454,
     "_sessionKey": "ASA735_2026-02-04T21"
+  },
+  {
+    "callsign": "ASA315",
+    "flightNumber": "AS315",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "A7197D",
+    "registration": "N557AS",
+    "firstSeen": "2026-02-04T22:07:33.937Z",
+    "lastSeen": "2026-02-04T22:07:33.937Z",
+    "duration": 0,
+    "closestDistance": 1.1298707610082823,
+    "closestAltitude": 35550,
+    "closestSpeed": 460,
+    "initialDistance": 1.1298707610082823,
+    "initialAltitude": 35550,
+    "initialSpeed": 460,
+    "_sessionKey": "ASA315_2026-02-04T22"
   }
 ]
