@@ -11757,5 +11757,25 @@
     "initialAltitude": 34650,
     "initialSpeed": 504,
     "_sessionKey": "BOX475_2026-02-04T22"
+  },
+  {
+    "callsign": "N64259",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "YKM",
+    "destination": "PDX",
+    "icao": "A86FD2",
+    "registration": "N64259",
+    "firstSeen": "2026-02-04T23:01:39.153Z",
+    "lastSeen": "2026-02-04T23:02:57.623Z",
+    "duration": 78,
+    "closestDistance": 1.3066399257242154,
+    "closestAltitude": 2275,
+    "closestSpeed": 76,
+    "initialDistance": 1.4143020431923532,
+    "initialAltitude": 1650,
+    "initialSpeed": 65,
+    "_sessionKey": "N64259_2026-02-04T23"
   }
 ]
