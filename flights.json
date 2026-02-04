@@ -10157,5 +10157,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 432,
     "_sessionKey": "ASA574_2026-02-04T05"
+  },
+  {
+    "callsign": "SKW3036",
+    "flightNumber": "AS3036",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A4D97E",
+    "registration": "N411SY",
+    "firstSeen": "2026-02-04T05:18:32.267Z",
+    "lastSeen": "2026-02-04T05:18:32.267Z",
+    "duration": 0,
+    "closestDistance": 1.3277905684214037,
+    "closestAltitude": 36000,
+    "closestSpeed": 431,
+    "initialDistance": 1.3277905684214037,
+    "initialAltitude": 36000,
+    "initialSpeed": 431,
+    "_sessionKey": "SKW3036_2026-02-04T05"
   }
 ]

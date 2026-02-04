@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.13,
-    "altitude": 34000,
-    "speed": 432,
-    "timestamp": "2026-02-04T05:12:12.491Z",
-    "lat": 45.6181,
-    "lon": -122.5033,
+    "distance": 1.33,
+    "altitude": 36000,
+    "speed": 431,
+    "timestamp": "2026-02-04T05:18:32.270Z",
+    "lat": 45.6226,
+    "lon": -122.5595,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA574",
-    "aircraftType": "737",
-    "origin": "SAN",
+    "callsign": "SKW3036",
+    "aircraftType": "E175",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T05:12:12.477Z"
+    "firstSeen": "2026-02-04T05:18:32.267Z"
   },
-  "overheadScore": 1.13,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T05:13:10.256Z"
+  "timestamp": "2026-02-04T05:19:30.987Z"
 }
