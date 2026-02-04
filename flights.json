@@ -11737,5 +11737,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 441,
     "_sessionKey": "SWA2325_2026-02-04T22"
+  },
+  {
+    "callsign": "BOX475",
+    "flightNumber": "3S475",
+    "aircraftType": "B77L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "3C4587",
+    "registration": "D-AALG",
+    "firstSeen": "2026-02-04T22:58:16.222Z",
+    "lastSeen": "2026-02-04T22:58:16.222Z",
+    "duration": 0,
+    "closestDistance": 1.3252091735521567,
+    "closestAltitude": 34650,
+    "closestSpeed": 504,
+    "initialDistance": 1.3252091735521567,
+    "initialAltitude": 34650,
+    "initialSpeed": 504,
+    "_sessionKey": "BOX475_2026-02-04T22"
   }
 ]
