@@ -10657,5 +10657,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 458,
     "_sessionKey": "DAL2530_2026-02-04T17"
+  },
+  {
+    "callsign": "DAL2980",
+    "flightNumber": "DL2980",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A4A0CD",
+    "registration": "N398DA",
+    "firstSeen": "2026-02-04T17:10:02.298Z",
+    "lastSeen": "2026-02-04T17:10:02.298Z",
+    "duration": 0,
+    "closestDistance": 0.7909567264887445,
+    "closestAltitude": 36000,
+    "closestSpeed": 445,
+    "initialDistance": 0.7909567264887445,
+    "initialAltitude": 36000,
+    "initialSpeed": 445,
+    "_sessionKey": "DAL2980_2026-02-04T17"
   }
 ]
