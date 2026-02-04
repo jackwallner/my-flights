@@ -10017,5 +10017,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 432,
     "_sessionKey": "UAL2019_2026-02-04T04"
+  },
+  {
+    "callsign": "DAL2955",
+    "flightNumber": "DL2955",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AC671B",
+    "registration": "N899DN",
+    "firstSeen": "2026-02-04T04:38:41.175Z",
+    "lastSeen": "2026-02-04T04:38:41.175Z",
+    "duration": 0,
+    "closestDistance": 1.2745679478419738,
+    "closestAltitude": 34000,
+    "closestSpeed": 427,
+    "initialDistance": 1.2745679478419738,
+    "initialAltitude": 34000,
+    "initialSpeed": 427,
+    "_sessionKey": "DAL2955_2026-02-04T04"
   }
 ]
