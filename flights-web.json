@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.2,
-    "altitude": 38000,
-    "speed": 409,
-    "timestamp": "2026-02-04T00:01:14.271Z",
-    "lat": 45.6265,
-    "lon": -122.4996,
+    "distance": 1.34,
+    "altitude": 36000,
+    "speed": 411,
+    "timestamp": "2026-02-04T00:03:34.439Z",
+    "lat": 45.6186,
+    "lon": -122.5585,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FDX3884",
-    "aircraftType": "767",
-    "origin": "OAK",
+    "callsign": "QXE2037",
+    "aircraftType": "E175",
+    "origin": "RDD",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T00:01:14.268Z"
+    "firstSeen": "2026-02-04T00:03:34.437Z"
   },
-  "overheadScore": 1.2,
+  "overheadScore": 1.34,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T00:02:11.882Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T00:03:34.439Z"
 }
