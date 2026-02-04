@@ -10917,5 +10917,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 451,
     "_sessionKey": "ASA656_2026-02-04T18"
+  },
+  {
+    "callsign": "UAL2340",
+    "flightNumber": "UA2340",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A12711",
+    "registration": "N17328",
+    "firstSeen": "2026-02-04T18:25:51.788Z",
+    "lastSeen": "2026-02-04T18:25:51.788Z",
+    "duration": 0,
+    "closestDistance": 1.4900443623260735,
+    "closestAltitude": 36000,
+    "closestSpeed": 464,
+    "initialDistance": 1.4900443623260735,
+    "initialAltitude": 36000,
+    "initialSpeed": 464,
+    "_sessionKey": "UAL2340_2026-02-04T18"
   }
 ]
