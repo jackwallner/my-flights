@@ -9777,5 +9777,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 441,
     "_sessionKey": "DAL2318_2026-02-04T03"
+  },
+  {
+    "callsign": "SWA1290",
+    "flightNumber": "WN1290",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "AC578C",
+    "registration": "N8947Q",
+    "firstSeen": "2026-02-04T03:21:53.511Z",
+    "lastSeen": "2026-02-04T03:21:53.511Z",
+    "duration": 0,
+    "closestDistance": 1.3409137043297568,
+    "closestAltitude": 34000,
+    "closestSpeed": 444,
+    "initialDistance": 1.3409137043297568,
+    "initialAltitude": 34000,
+    "initialSpeed": 444,
+    "_sessionKey": "SWA1290_2026-02-04T03"
   }
 ]
