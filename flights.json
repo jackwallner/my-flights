@@ -10877,5 +10877,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 447,
     "_sessionKey": "ASA702_2026-02-04T18"
+  },
+  {
+    "callsign": "ASA762",
+    "flightNumber": "AS762",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AD237C",
+    "registration": "N946AK",
+    "firstSeen": "2026-02-04T18:19:36.692Z",
+    "lastSeen": "2026-02-04T18:19:36.692Z",
+    "duration": 0,
+    "closestDistance": 1.3335454494783205,
+    "closestAltitude": 38000,
+    "closestSpeed": 461,
+    "initialDistance": 1.3335454494783205,
+    "initialAltitude": 38000,
+    "initialSpeed": 461,
+    "_sessionKey": "ASA762_2026-02-04T18"
   }
 ]
