@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 1700,
-    "speed": 80,
-    "timestamp": "2026-02-04T23:09:12.151Z",
-    "lat": 45.6488,
-    "lon": -122.5186,
-    "precision": "tracked"
+    "distance": 0.76,
+    "altitude": 1800,
+    "speed": 99,
+    "timestamp": "2026-02-04T23:10:10.095Z",
+    "lat": 45.629,
+    "lon": -122.5454,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N61338",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-04T23:09:12.147Z"
   },
-  "overheadScore": 1.47,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-04T23:09:12.151Z"
+  "overheadScore": 0.76,
+  "isOverhead": true,
+  "pathSnapshots": 5,
+  "status": "completed",
+  "timestamp": "2026-02-04T23:10:51.266Z"
 }
