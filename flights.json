@@ -11637,5 +11637,25 @@
     "initialAltitude": 35550,
     "initialSpeed": 460,
     "_sessionKey": "ASA315_2026-02-04T22"
+  },
+  {
+    "callsign": "ASA1358",
+    "flightNumber": "AS1358",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A5D007",
+    "registration": "N474AS",
+    "firstSeen": "2026-02-04T22:12:59.604Z",
+    "lastSeen": "2026-02-04T22:12:59.604Z",
+    "duration": 0,
+    "closestDistance": 1.3568728615868881,
+    "closestAltitude": 36000,
+    "closestSpeed": 464,
+    "initialDistance": 1.3568728615868881,
+    "initialAltitude": 36000,
+    "initialSpeed": 464,
+    "_sessionKey": "ASA1358_2026-02-04T22"
   }
 ]

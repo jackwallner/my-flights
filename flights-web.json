@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.13,
-    "altitude": 35550,
-    "speed": 460,
-    "timestamp": "2026-02-04T22:07:33.939Z",
-    "lat": 45.618,
-    "lon": -122.5033,
+    "distance": 1.36,
+    "altitude": 36000,
+    "speed": 464,
+    "timestamp": "2026-02-04T22:12:59.606Z",
+    "lat": 45.6262,
+    "lon": -122.5604,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA315",
+    "callsign": "ASA1358",
     "aircraftType": "737",
-    "origin": "PSP",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T22:07:33.937Z"
+    "firstSeen": "2026-02-04T22:12:59.604Z"
   },
-  "overheadScore": 1.13,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T22:08:32.026Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T22:12:59.606Z"
 }
