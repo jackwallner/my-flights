@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
-    "altitude": 36000,
-    "speed": 424,
-    "timestamp": "2026-02-03T23:59:35.031Z",
-    "lat": 45.6281,
-    "lon": -122.5102,
+    "distance": 1.2,
+    "altitude": 38000,
+    "speed": 409,
+    "timestamp": "2026-02-04T00:01:14.271Z",
+    "lat": 45.6265,
+    "lon": -122.4996,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1309",
-    "aircraftType": "737",
-    "origin": "LAX",
+    "callsign": "FDX3884",
+    "aircraftType": "767",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-03T23:59:35.029Z"
+    "firstSeen": "2026-02-04T00:01:14.268Z"
   },
-  "overheadScore": 0.77,
-  "isOverhead": true,
+  "overheadScore": 1.2,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-03T23:59:35.031Z"
+  "status": "completed",
+  "timestamp": "2026-02-04T00:02:11.882Z"
 }
