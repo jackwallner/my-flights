@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.49,
-    "altitude": 36000,
-    "speed": 464,
-    "timestamp": "2026-02-04T18:25:51.790Z",
-    "lat": 45.6103,
-    "lon": -122.5564,
+    "distance": 1.26,
+    "altitude": 2300,
+    "speed": 164,
+    "timestamp": "2026-02-04T18:29:04.361Z",
+    "lat": 45.6457,
+    "lon": -122.5208,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2340",
-    "aircraftType": "737 ",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-04T18:25:51.788Z"
+    "callsign": "AMF1992",
+    "aircraftType": "BE99",
+    "origin": "HES",
+    "destination": "PDX",
+    "firstSeen": "2026-02-04T18:29:04.359Z"
   },
-  "overheadScore": 1.49,
+  "overheadScore": 1.26,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T18:26:49.693Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T18:29:04.361Z"
 }
