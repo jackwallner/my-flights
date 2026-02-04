@@ -10477,5 +10477,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 456,
     "_sessionKey": "SWA862_2026-02-04T16"
+  },
+  {
+    "callsign": "ASA709",
+    "flightNumber": "AS709",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "AB1842",
+    "registration": "N814AK",
+    "firstSeen": "2026-02-04T16:28:51.851Z",
+    "lastSeen": "2026-02-04T16:28:51.851Z",
+    "duration": 0,
+    "closestDistance": 0.784917299907688,
+    "closestAltitude": 39450,
+    "closestSpeed": 445,
+    "initialDistance": 0.784917299907688,
+    "initialAltitude": 39450,
+    "initialSpeed": 445,
+    "_sessionKey": "ASA709_2026-02-04T16"
   }
 ]

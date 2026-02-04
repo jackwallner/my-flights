@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.38,
-    "altitude": 40000,
-    "speed": 456,
-    "timestamp": "2026-02-04T16:24:37.026Z",
+    "distance": 0.78,
+    "altitude": 39450,
+    "speed": 445,
+    "timestamp": "2026-02-04T16:28:51.855Z",
     "lat": 45.6271,
-    "lon": -122.5608,
+    "lon": -122.5096,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA862",
+    "callsign": "ASA709",
     "aircraftType": "737 ",
-    "origin": "SJC",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T16:24:37.024Z"
+    "firstSeen": "2026-02-04T16:28:51.851Z"
   },
-  "overheadScore": 1.38,
-  "isOverhead": false,
+  "overheadScore": 0.78,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-04T16:25:35.573Z"
+  "status": "tracking",
+  "timestamp": "2026-02-04T16:28:51.855Z"
 }
