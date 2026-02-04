@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.49,
-    "altitude": 32000,
-    "speed": 431,
-    "timestamp": "2026-02-04T01:57:54.584Z",
-    "lat": 45.6167,
-    "lon": -122.5615,
+    "distance": 1.4,
+    "altitude": 36000,
+    "speed": 430,
+    "timestamp": "2026-02-04T02:03:52.036Z",
+    "lat": 45.6288,
+    "lon": -122.5611,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA408",
+    "callsign": "ASA591",
     "aircraftType": "737",
-    "origin": "FAT",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T01:57:54.583Z"
+    "firstSeen": "2026-02-04T02:03:52.034Z"
   },
-  "overheadScore": 1.49,
+  "overheadScore": 1.4,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T01:58:52.150Z"
+  "timestamp": "2026-02-04T02:04:49.919Z"
 }
