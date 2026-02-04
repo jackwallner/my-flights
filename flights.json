@@ -9677,5 +9677,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 437,
     "_sessionKey": "ASA683_2026-02-04T02"
+  },
+  {
+    "callsign": "ASA9803",
+    "flightNumber": "AS9803",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AD4AFB",
+    "registration": "N956AK",
+    "firstSeen": "2026-02-04T02:41:57.895Z",
+    "lastSeen": "2026-02-04T02:41:57.895Z",
+    "duration": 0,
+    "closestDistance": 0.8159241605150505,
+    "closestAltitude": 37975,
+    "closestSpeed": 429,
+    "initialDistance": 0.8159241605150505,
+    "initialAltitude": 37975,
+    "initialSpeed": 429,
+    "_sessionKey": "ASA9803_2026-02-04T02"
   }
 ]
