@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 1825,
-    "speed": 86,
-    "timestamp": "2026-02-04T19:51:09.768Z",
-    "lat": 45.6236,
-    "lon": -122.5228,
-    "precision": "high"
+    "distance": 1.13,
+    "altitude": 35975,
+    "speed": 471,
+    "timestamp": "2026-02-04T20:05:07.057Z",
+    "lat": 45.6198,
+    "lon": -122.5023,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T19:50:10.910Z"
+    "callsign": "ASA629",
+    "aircraftType": "B39M",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T20:05:07.054Z"
   },
-  "overheadScore": 0.24,
-  "isOverhead": true,
-  "pathSnapshots": 7,
+  "overheadScore": 1.13,
+  "isOverhead": false,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-04T19:52:11.871Z"
+  "timestamp": "2026-02-04T20:06:06.444Z"
 }
