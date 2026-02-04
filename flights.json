@@ -11577,5 +11577,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 478,
     "_sessionKey": "BOE102_2026-02-04T21"
+  },
+  {
+    "callsign": "ASA654",
+    "flightNumber": "AS654",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "SEA",
+    "icao": "A97608",
+    "registration": "N709AL",
+    "firstSeen": "2026-02-04T21:56:08.374Z",
+    "lastSeen": "2026-02-04T21:56:08.374Z",
+    "duration": 0,
+    "closestDistance": 0.7485217650888247,
+    "closestAltitude": 36475,
+    "closestSpeed": 469,
+    "initialDistance": 0.7485217650888247,
+    "initialAltitude": 36475,
+    "initialSpeed": 469,
+    "_sessionKey": "ASA654_2026-02-04T21"
   }
 ]
