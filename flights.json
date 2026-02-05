@@ -12857,5 +12857,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 467,
     "_sessionKey": "QXE2230_2026-02-05T03"
+  },
+  {
+    "callsign": "ASA661",
+    "flightNumber": "AS661",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "PVR",
+    "destination": "SEA",
+    "icao": "ADBDC1",
+    "registration": "N985AK",
+    "firstSeen": "2026-02-05T04:02:04.589Z",
+    "lastSeen": "2026-02-05T04:02:04.589Z",
+    "duration": 0,
+    "closestDistance": 1.3691844178893748,
+    "closestAltitude": 36000,
+    "closestSpeed": 487,
+    "initialDistance": 1.3691844178893748,
+    "initialAltitude": 36000,
+    "initialSpeed": 487,
+    "_sessionKey": "ASA661_2026-02-05T04"
   }
 ]

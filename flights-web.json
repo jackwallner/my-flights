@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.42,
+    "distance": 1.37,
     "altitude": 36000,
-    "speed": 467,
-    "timestamp": "2026-02-05T03:45:37.707Z",
-    "lat": 45.613,
-    "lon": -122.557,
+    "speed": 487,
+    "timestamp": "2026-02-05T04:02:04.592Z",
+    "lat": 45.6157,
+    "lon": -122.5577,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2230",
-    "aircraftType": "E175",
-    "origin": "SBP",
+    "callsign": "ASA661",
+    "aircraftType": "B39M",
+    "origin": "PVR",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T03:45:37.704Z"
+    "firstSeen": "2026-02-05T04:02:04.589Z"
   },
-  "overheadScore": 1.42,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T03:46:35.279Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T04:02:04.592Z"
 }
