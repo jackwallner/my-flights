@@ -13457,5 +13457,25 @@
     "initialAltitude": 31450,
     "initialSpeed": 476,
     "_sessionKey": "ASA607_2026-02-05T15"
+  },
+  {
+    "callsign": "SWA1290",
+    "flightNumber": "WN1290",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A2BB10",
+    "registration": "N275WN",
+    "firstSeen": "2026-02-05T15:51:25.382Z",
+    "lastSeen": "2026-02-05T15:51:25.382Z",
+    "duration": 0,
+    "closestDistance": 1.3669468104289462,
+    "closestAltitude": 36525,
+    "closestSpeed": 460,
+    "initialDistance": 1.3669468104289462,
+    "initialAltitude": 36525,
+    "initialSpeed": 460,
+    "_sessionKey": "SWA1290_2026-02-05T15"
   }
 ]
