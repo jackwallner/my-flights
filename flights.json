@@ -14517,5 +14517,25 @@
     "initialAltitude": 32625,
     "initialSpeed": 475,
     "_sessionKey": "ASA1388_2026-02-05T21"
+  },
+  {
+    "callsign": "DAL1714",
+    "flightNumber": "DL1714",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AA7833",
+    "registration": "N774DE",
+    "firstSeen": "2026-02-05T21:46:32.822Z",
+    "lastSeen": "2026-02-05T21:46:32.822Z",
+    "duration": 0,
+    "closestDistance": 1.064349167569253,
+    "closestAltitude": 34075,
+    "closestSpeed": 496,
+    "initialDistance": 1.064349167569253,
+    "initialAltitude": 34075,
+    "initialSpeed": 496,
+    "_sessionKey": "DAL1714_2026-02-05T21"
   }
 ]

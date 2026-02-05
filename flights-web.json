@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
-    "altitude": 32625,
-    "speed": 475,
-    "timestamp": "2026-02-05T21:41:06.714Z",
-    "lat": 45.6273,
-    "lon": -122.5099,
+    "distance": 1.06,
+    "altitude": 34075,
+    "speed": 496,
+    "timestamp": "2026-02-05T21:46:32.825Z",
+    "lat": 45.6194,
+    "lon": -122.5042,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1388",
+    "callsign": "DAL1714",
     "aircraftType": "737",
-    "origin": "BUR",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T21:41:06.711Z"
+    "firstSeen": "2026-02-05T21:46:32.822Z"
   },
-  "overheadScore": 0.77,
-  "isOverhead": true,
+  "overheadScore": 1.06,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T21:42:05.175Z"
+  "timestamp": "2026-02-05T21:47:33.211Z"
 }
