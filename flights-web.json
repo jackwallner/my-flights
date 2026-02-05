@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 32100,
-    "speed": 485,
-    "timestamp": "2026-02-05T20:30:40.789Z",
-    "lat": 45.6285,
-    "lon": -122.5609,
+    "distance": 1.41,
+    "altitude": 32900,
+    "speed": 488,
+    "timestamp": "2026-02-05T20:43:50.068Z",
+    "lat": 45.6293,
+    "lon": -122.5613,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1378",
-    "aircraftType": "737",
-    "origin": "SNA",
+    "callsign": "QXE2344",
+    "aircraftType": "E175",
+    "origin": "STS",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T20:30:40.785Z"
+    "firstSeen": "2026-02-05T20:43:50.065Z"
   },
-  "overheadScore": 1.39,
+  "overheadScore": 1.41,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T20:31:38.904Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T20:43:50.068Z"
 }
