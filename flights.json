@@ -13557,5 +13557,25 @@
     "initialAltitude": 31125,
     "initialSpeed": 470,
     "_sessionKey": "ASA709_2026-02-05T16"
+  },
+  {
+    "callsign": "ASA416",
+    "flightNumber": "AS416",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A5EC61",
+    "registration": "N481AS",
+    "firstSeen": "2026-02-05T16:21:51.861Z",
+    "lastSeen": "2026-02-05T16:21:51.861Z",
+    "duration": 0,
+    "closestDistance": 1.3606873404675024,
+    "closestAltitude": 31625,
+    "closestSpeed": 483,
+    "initialDistance": 1.3606873404675024,
+    "initialAltitude": 31625,
+    "initialSpeed": 483,
+    "_sessionKey": "ASA416_2026-02-05T16"
   }
 ]

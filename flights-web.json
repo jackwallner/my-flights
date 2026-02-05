@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.75,
-    "altitude": 31125,
-    "speed": 470,
-    "timestamp": "2026-02-05T16:16:57.767Z",
-    "lat": 45.6306,
-    "lon": -122.512,
+    "distance": 1.36,
+    "altitude": 31625,
+    "speed": 483,
+    "timestamp": "2026-02-05T16:21:51.863Z",
+    "lat": 45.6162,
+    "lon": -122.5578,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA709",
-    "aircraftType": "B39M",
-    "origin": "SAN",
+    "callsign": "ASA416",
+    "aircraftType": "737",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T16:16:57.765Z"
+    "firstSeen": "2026-02-05T16:21:51.861Z"
   },
-  "overheadScore": 0.75,
-  "isOverhead": true,
+  "overheadScore": 1.36,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T16:17:55.454Z"
+  "timestamp": "2026-02-05T16:22:49.884Z"
 }
