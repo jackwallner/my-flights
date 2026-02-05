@@ -13637,5 +13637,25 @@
     "initialAltitude": 33475,
     "initialSpeed": 476,
     "_sessionKey": "ASA179_2026-02-05T16"
+  },
+  {
+    "callsign": "ASA504",
+    "flightNumber": "AS504",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "ADA167",
+    "registration": "N978AK",
+    "firstSeen": "2026-02-05T16:46:00.282Z",
+    "lastSeen": "2026-02-05T16:46:00.282Z",
+    "duration": 0,
+    "closestDistance": 1.4243182119186535,
+    "closestAltitude": 31625,
+    "closestSpeed": 477,
+    "initialDistance": 1.4243182119186535,
+    "initialAltitude": 31625,
+    "initialSpeed": 477,
+    "_sessionKey": "ASA504_2026-02-05T16"
   }
 ]

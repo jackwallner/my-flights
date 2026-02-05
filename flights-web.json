@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.28,
-    "altitude": 33475,
-    "speed": 476,
-    "timestamp": "2026-02-05T16:39:01.030Z",
-    "lat": 45.6151,
-    "lon": -122.5014,
+    "distance": 1.42,
+    "altitude": 31625,
+    "speed": 477,
+    "timestamp": "2026-02-05T16:46:00.286Z",
+    "lat": 45.6286,
+    "lon": -122.5617,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA179",
+    "callsign": "ASA504",
     "aircraftType": "B39M",
-    "origin": "PSP",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T16:39:01.028Z"
+    "firstSeen": "2026-02-05T16:46:00.282Z"
   },
-  "overheadScore": 1.28,
+  "overheadScore": 1.42,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T16:39:59.404Z"
+  "timestamp": "2026-02-05T16:46:59.017Z"
 }
