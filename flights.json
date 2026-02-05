@@ -12617,5 +12617,25 @@
     "initialAltitude": 35125,
     "initialSpeed": 486,
     "_sessionKey": "ASA523_2026-02-05T03"
+  },
+  {
+    "callsign": "DAL2640",
+    "flightNumber": "DL2640",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A4491F",
+    "registration": "N3753",
+    "firstSeen": "2026-02-05T03:16:16.453Z",
+    "lastSeen": "2026-02-05T03:16:16.453Z",
+    "duration": 0,
+    "closestDistance": 0.7695653901968778,
+    "closestAltitude": 37250,
+    "closestSpeed": 463,
+    "initialDistance": 0.7695653901968778,
+    "initialAltitude": 37250,
+    "initialSpeed": 463,
+    "_sessionKey": "DAL2640_2026-02-05T03"
   }
 ]
