@@ -12757,5 +12757,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 464,
     "_sessionKey": "SKW4049_2026-02-05T03"
+  },
+  {
+    "callsign": "SKW4100",
+    "flightNumber": "DL4100",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A37ED3",
+    "registration": "N324SY",
+    "firstSeen": "2026-02-05T03:36:11.405Z",
+    "lastSeen": "2026-02-05T03:36:11.405Z",
+    "duration": 0,
+    "closestDistance": 1.3429436740713192,
+    "closestAltitude": 34000,
+    "closestSpeed": 483,
+    "initialDistance": 1.3429436740713192,
+    "initialAltitude": 34000,
+    "initialSpeed": 483,
+    "_sessionKey": "SKW4100_2026-02-05T03"
   }
 ]
