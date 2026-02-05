@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.22,
-    "altitude": 28725,
-    "speed": 458,
-    "timestamp": "2026-02-05T06:44:53.135Z",
-    "lat": 45.6171,
-    "lon": -122.5014,
+    "distance": 1.49,
+    "altitude": 2150,
+    "speed": 65,
+    "timestamp": "2026-02-05T06:48:57.807Z",
+    "lat": 45.6063,
+    "lon": -122.5509,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6444",
-    "aircraftType": "CRJ",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T06:44:53.133Z"
+    "callsign": "N246LT",
+    "aircraftType": "SLG2",
+    "origin": "PAE",
+    "destination": "PDX",
+    "firstSeen": "2026-02-05T06:48:57.804Z"
   },
-  "overheadScore": 1.22,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T06:45:51.309Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T06:48:57.808Z"
 }

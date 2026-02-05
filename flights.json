@@ -13237,5 +13237,25 @@
     "initialAltitude": 28725,
     "initialSpeed": 458,
     "_sessionKey": "SKW6444_2026-02-05T06"
+  },
+  {
+    "callsign": "N246LT",
+    "flightNumber": null,
+    "aircraftType": "SLG2",
+    "aircraftName": null,
+    "origin": "PAE",
+    "destination": "PDX",
+    "icao": "A24755",
+    "registration": "N246LT",
+    "firstSeen": "2026-02-05T06:48:57.804Z",
+    "lastSeen": "2026-02-05T06:48:57.804Z",
+    "duration": 0,
+    "closestDistance": 1.4881434993219105,
+    "closestAltitude": 2150,
+    "closestSpeed": 65,
+    "initialDistance": 1.4881434993219105,
+    "initialAltitude": 2150,
+    "initialSpeed": 65,
+    "_sessionKey": "N246LT_2026-02-05T06"
   }
 ]
