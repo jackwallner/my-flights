@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 33875,
-    "speed": 477,
-    "timestamp": "2026-02-05T19:23:08.481Z",
-    "lat": 45.6135,
-    "lon": -122.5006,
+    "distance": 0.8,
+    "altitude": 33475,
+    "speed": 458,
+    "timestamp": "2026-02-05T19:27:12.244Z",
+    "lat": 45.6276,
+    "lon": -122.5093,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA798",
-    "aircraftType": "737 ",
-    "origin": "LAX",
+    "callsign": "AAL1447",
+    "aircraftType": "A321",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T19:23:08.478Z"
+    "firstSeen": "2026-02-05T19:27:12.241Z"
   },
-  "overheadScore": 1.35,
-  "isOverhead": false,
+  "overheadScore": 0.8,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T19:24:06.580Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T19:27:12.244Z"
 }

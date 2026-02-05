@@ -14057,5 +14057,25 @@
     "initialAltitude": 33875,
     "initialSpeed": 477,
     "_sessionKey": "ASA798_2026-02-05T19"
+  },
+  {
+    "callsign": "AAL1447",
+    "flightNumber": "AA1447",
+    "aircraftType": "A321",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "A71B43",
+    "registration": "N557UW",
+    "firstSeen": "2026-02-05T19:27:12.241Z",
+    "lastSeen": "2026-02-05T19:27:12.241Z",
+    "duration": 0,
+    "closestDistance": 0.8020541112165124,
+    "closestAltitude": 33475,
+    "closestSpeed": 458,
+    "initialDistance": 0.8020541112165124,
+    "initialAltitude": 33475,
+    "initialSpeed": 458,
+    "_sessionKey": "AAL1447_2026-02-05T19"
   }
 ]
