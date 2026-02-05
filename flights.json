@@ -13797,5 +13797,25 @@
     "initialAltitude": 32950,
     "initialSpeed": 481,
     "_sessionKey": "DAL1293_2026-02-05T17"
+  },
+  {
+    "callsign": "N723KP",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A9AFA0",
+    "registration": "N723KP",
+    "firstSeen": "2026-02-05T17:29:28.913Z",
+    "lastSeen": "2026-02-05T17:29:28.913Z",
+    "duration": 0,
+    "closestDistance": 1.4218739320304292,
+    "closestAltitude": 1975,
+    "closestSpeed": 133,
+    "initialDistance": 1.4218739320304292,
+    "initialAltitude": 1975,
+    "initialSpeed": 133,
+    "_sessionKey": "N723KP_2026-02-05T17"
   }
 ]
