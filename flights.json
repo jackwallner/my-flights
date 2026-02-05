@@ -13977,5 +13977,25 @@
     "initialAltitude": 33025,
     "initialSpeed": 489,
     "_sessionKey": "SKW5992_2026-02-05T18"
+  },
+  {
+    "callsign": "ASA642",
+    "flightNumber": "AS642",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "A7687B",
+    "registration": "N577AS",
+    "firstSeen": "2026-02-05T18:35:05.520Z",
+    "lastSeen": "2026-02-05T18:35:05.520Z",
+    "duration": 0,
+    "closestDistance": 1.3975721500141776,
+    "closestAltitude": 32875,
+    "closestSpeed": 482,
+    "initialDistance": 1.3975721500141776,
+    "initialAltitude": 32875,
+    "initialSpeed": 482,
+    "_sessionKey": "ASA642_2026-02-05T18"
   }
 ]
