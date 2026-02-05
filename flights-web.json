@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.31,
-    "altitude": 35200,
-    "speed": 470,
-    "timestamp": "2026-02-05T00:12:41.036Z",
-    "lat": 45.6145,
-    "lon": -122.5009,
+    "distance": 0.87,
+    "altitude": 38000,
+    "speed": 459,
+    "timestamp": "2026-02-05T00:18:59.054Z",
+    "lat": 45.6242,
+    "lon": -122.5075,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA403",
-    "aircraftType": "B39M",
-    "origin": "PSP",
+    "callsign": "ASA622",
+    "aircraftType": "737 ",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T00:12:41.034Z"
+    "firstSeen": "2026-02-05T00:18:59.051Z"
   },
-  "overheadScore": 1.31,
-  "isOverhead": false,
+  "overheadScore": 0.87,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T00:13:39.300Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T00:18:59.054Z"
 }

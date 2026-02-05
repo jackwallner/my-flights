@@ -12137,5 +12137,25 @@
     "initialAltitude": 35200,
     "initialSpeed": 470,
     "_sessionKey": "ASA403_2026-02-05T00"
+  },
+  {
+    "callsign": "ASA622",
+    "flightNumber": "AS622",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "AB1842",
+    "registration": "N814AK",
+    "firstSeen": "2026-02-05T00:18:59.051Z",
+    "lastSeen": "2026-02-05T00:18:59.051Z",
+    "duration": 0,
+    "closestDistance": 0.8679032632825492,
+    "closestAltitude": 38000,
+    "closestSpeed": 459,
+    "initialDistance": 0.8679032632825492,
+    "initialAltitude": 38000,
+    "initialSpeed": 459,
+    "_sessionKey": "ASA622_2026-02-05T00"
   }
 ]
