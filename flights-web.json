@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.42,
-    "altitude": 37825,
-    "speed": 465,
-    "timestamp": "2026-02-05T00:52:53.822Z",
-    "lat": 45.6277,
-    "lon": -122.5618,
+    "distance": 1.48,
+    "altitude": 36000,
+    "speed": 484,
+    "timestamp": "2026-02-05T00:54:44.557Z",
+    "lat": 45.6108,
+    "lon": -122.5567,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA687",
-    "aircraftType": "737",
-    "origin": "SBA",
+    "callsign": "ASA745",
+    "aircraftType": "B39M",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T00:52:53.818Z"
+    "firstSeen": "2026-02-05T00:54:44.554Z"
   },
-  "overheadScore": 1.42,
+  "overheadScore": 1.48,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T00:53:52.948Z"
+  "timestamp": "2026-02-05T00:55:43.235Z"
 }
