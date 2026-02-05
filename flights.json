@@ -14277,5 +14277,25 @@
     "initialAltitude": 31575,
     "initialSpeed": 486,
     "_sessionKey": "DAL2922_2026-02-05T20"
+  },
+  {
+    "callsign": "SKW3779",
+    "flightNumber": "DL3779",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A2C5DB",
+    "registration": "N278SY",
+    "firstSeen": "2026-02-05T20:48:22.587Z",
+    "lastSeen": "2026-02-05T20:48:22.587Z",
+    "duration": 0,
+    "closestDistance": 0.9054780920111777,
+    "closestAltitude": 30000,
+    "closestSpeed": 442,
+    "initialDistance": 0.9054780920111777,
+    "initialAltitude": 30000,
+    "initialSpeed": 442,
+    "_sessionKey": "SKW3779_2026-02-05T20"
   }
 ]
