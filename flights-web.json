@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 32000,
+    "distance": 1.03,
+    "altitude": 31900,
     "speed": 477,
-    "timestamp": "2026-02-05T20:11:16.999Z",
-    "lat": 45.6284,
-    "lon": -122.561,
+    "timestamp": "2026-02-05T20:12:16.015Z",
+    "lat": 45.6199,
+    "lon": -122.5047,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1311",
+    "callsign": "ASA629",
     "aircraftType": "B39M",
-    "origin": "SJC",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T20:11:16.996Z"
+    "firstSeen": "2026-02-05T20:12:16.011Z"
   },
-  "overheadScore": 1.39,
+  "overheadScore": 1.03,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-05T20:11:16.999Z"
+  "status": "completed",
+  "timestamp": "2026-02-05T20:13:14.325Z"
 }
