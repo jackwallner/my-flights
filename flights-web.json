@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.87,
-    "altitude": 2825,
-    "speed": 80,
-    "timestamp": "2026-02-05T06:49:55.800Z",
-    "lat": 45.6267,
-    "lon": -122.5488,
-    "precision": "high"
+    "distance": 1.36,
+    "altitude": 34000,
+    "speed": 482,
+    "timestamp": "2026-02-05T07:56:45.269Z",
+    "lat": 45.6259,
+    "lon": -122.5604,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N246LT",
-    "aircraftType": "SLG2",
-    "origin": "PAE",
-    "destination": "PDX",
-    "firstSeen": "2026-02-05T06:48:57.804Z"
+    "callsign": "SKW5579",
+    "aircraftType": "E175",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T07:56:45.264Z"
   },
-  "overheadScore": 0.87,
-  "isOverhead": true,
-  "pathSnapshots": 7,
-  "status": "completed",
-  "timestamp": "2026-02-05T06:50:57.623Z"
+  "overheadScore": 1.36,
+  "isOverhead": false,
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-05T07:56:45.269Z"
 }

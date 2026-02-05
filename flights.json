@@ -13257,5 +13257,25 @@
     "initialAltitude": 2150,
     "initialSpeed": 65,
     "_sessionKey": "N246LT_2026-02-05T06"
+  },
+  {
+    "callsign": "SKW5579",
+    "flightNumber": "UA5579",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A81F83",
+    "registration": "N622UX",
+    "firstSeen": "2026-02-05T07:56:45.264Z",
+    "lastSeen": "2026-02-05T07:56:45.264Z",
+    "duration": 0,
+    "closestDistance": 1.3562629868070417,
+    "closestAltitude": 34000,
+    "closestSpeed": 482,
+    "initialDistance": 1.3562629868070417,
+    "initialAltitude": 34000,
+    "initialSpeed": 482,
+    "_sessionKey": "SKW5579_2026-02-05T07"
   }
 ]
