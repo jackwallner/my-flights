@@ -14437,5 +14437,25 @@
     "initialAltitude": 33175,
     "initialSpeed": 484,
     "_sessionKey": "ASA580_2026-02-05T21"
+  },
+  {
+    "callsign": "SWA4430",
+    "flightNumber": "WN4430",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "AC2F83",
+    "registration": "N8843S",
+    "firstSeen": "2026-02-05T21:18:03.475Z",
+    "lastSeen": "2026-02-05T21:18:03.475Z",
+    "duration": 0,
+    "closestDistance": 0.760264950200159,
+    "closestAltitude": 34775,
+    "closestSpeed": 502,
+    "initialDistance": 0.760264950200159,
+    "initialAltitude": 34775,
+    "initialSpeed": 502,
+    "_sessionKey": "SWA4430_2026-02-05T21"
   }
 ]

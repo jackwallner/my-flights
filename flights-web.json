@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 33175,
-    "speed": 484,
-    "timestamp": "2026-02-05T21:15:42.276Z",
-    "lat": 45.6189,
-    "lon": -122.5584,
+    "distance": 0.76,
+    "altitude": 34775,
+    "speed": 502,
+    "timestamp": "2026-02-05T21:18:03.478Z",
+    "lat": 45.6285,
+    "lon": -122.5106,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA580",
-    "aircraftType": "B737",
-    "origin": "SFO",
+    "callsign": "SWA4430",
+    "aircraftType": "737 ",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T21:15:42.273Z"
+    "firstSeen": "2026-02-05T21:18:03.475Z"
   },
-  "overheadScore": 1.33,
-  "isOverhead": false,
+  "overheadScore": 0.76,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-05T21:15:42.276Z"
+  "timestamp": "2026-02-05T21:18:03.478Z"
 }
