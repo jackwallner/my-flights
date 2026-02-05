@@ -12597,5 +12597,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 473,
     "_sessionKey": "DAL1837_2026-02-05T03"
+  },
+  {
+    "callsign": "ASA523",
+    "flightNumber": "AS523",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A96AE3",
+    "registration": "N706AL",
+    "firstSeen": "2026-02-05T03:10:07.661Z",
+    "lastSeen": "2026-02-05T03:10:07.661Z",
+    "duration": 0,
+    "closestDistance": 1.3324669559836184,
+    "closestAltitude": 35125,
+    "closestSpeed": 486,
+    "initialDistance": 1.3324669559836184,
+    "initialAltitude": 35125,
+    "initialSpeed": 486,
+    "_sessionKey": "ASA523_2026-02-05T03"
   }
 ]
