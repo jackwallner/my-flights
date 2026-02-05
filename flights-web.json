@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.49,
-    "altitude": 2150,
-    "speed": 65,
-    "timestamp": "2026-02-05T06:48:57.807Z",
-    "lat": 45.6063,
-    "lon": -122.5509,
-    "precision": "tracked"
+    "distance": 0.87,
+    "altitude": 2825,
+    "speed": 80,
+    "timestamp": "2026-02-05T06:49:55.800Z",
+    "lat": 45.6267,
+    "lon": -122.5488,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N246LT",
@@ -15,9 +15,9 @@
     "destination": "PDX",
     "firstSeen": "2026-02-05T06:48:57.804Z"
   },
-  "overheadScore": 1.49,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-05T06:48:57.808Z"
+  "overheadScore": 0.87,
+  "isOverhead": true,
+  "pathSnapshots": 7,
+  "status": "completed",
+  "timestamp": "2026-02-05T06:50:57.623Z"
 }
