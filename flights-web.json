@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 35925,
-    "speed": 510,
-    "timestamp": "2026-02-05T11:33:15.746Z",
-    "lat": 45.61,
-    "lon": -122.5524,
+    "distance": 0.82,
+    "altitude": 38000,
+    "speed": 501,
+    "timestamp": "2026-02-05T11:47:38.046Z",
+    "lat": 45.6262,
+    "lon": -122.5087,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FDX1885",
+    "callsign": "UPS984",
     "aircraftType": "767",
-    "origin": "OAK",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T11:33:15.741Z"
+    "origin": "ONT",
+    "destination": "BFI",
+    "firstSeen": "2026-02-05T11:47:38.043Z"
   },
-  "overheadScore": 1.37,
-  "isOverhead": false,
+  "overheadScore": 0.82,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T11:34:13.941Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T11:47:38.046Z"
 }
