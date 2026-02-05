@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
-    "altitude": 33825,
-    "speed": 463,
-    "timestamp": "2026-02-05T17:14:50.348Z",
-    "lat": 45.6322,
-    "lon": -122.5128,
+    "distance": 0.9,
+    "altitude": 32950,
+    "speed": 481,
+    "timestamp": "2026-02-05T17:16:50.177Z",
+    "lat": 45.6225,
+    "lon": -122.507,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3345",
-    "aircraftType": "E175",
-    "origin": "FAT",
+    "callsign": "DAL1293",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T17:14:50.344Z"
+    "firstSeen": "2026-02-05T17:16:50.174Z"
   },
-  "overheadScore": 0.77,
+  "overheadScore": 0.9,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-05T17:14:50.348Z"
+  "timestamp": "2026-02-05T17:16:50.178Z"
 }
