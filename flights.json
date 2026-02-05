@@ -14377,5 +14377,25 @@
     "initialAltitude": 37800,
     "initialSpeed": 495,
     "_sessionKey": "SWA1037_2026-02-05T20"
+  },
+  {
+    "callsign": "AAL1577",
+    "flightNumber": "AA1577",
+    "aircraftType": "A319",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "A95A1C",
+    "registration": "N701UW",
+    "firstSeen": "2026-02-05T21:00:41.451Z",
+    "lastSeen": "2026-02-05T21:00:41.451Z",
+    "duration": 0,
+    "closestDistance": 1.0505449978622754,
+    "closestAltitude": 32175,
+    "closestSpeed": 493,
+    "initialDistance": 1.0505449978622754,
+    "initialAltitude": 32175,
+    "initialSpeed": 493,
+    "_sessionKey": "AAL1577_2026-02-05T21"
   }
 ]
