@@ -13297,5 +13297,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 479,
     "_sessionKey": "ACA7015_2026-02-05T09"
+  },
+  {
+    "callsign": "FDX1885",
+    "flightNumber": "FX1885",
+    "aircraftType": "B763",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A0E869",
+    "registration": "N158FE",
+    "firstSeen": "2026-02-05T11:33:15.741Z",
+    "lastSeen": "2026-02-05T11:33:15.741Z",
+    "duration": 0,
+    "closestDistance": 1.3718873230963822,
+    "closestAltitude": 35925,
+    "closestSpeed": 510,
+    "initialDistance": 1.3718873230963822,
+    "initialAltitude": 35925,
+    "initialSpeed": 510,
+    "_sessionKey": "FDX1885_2026-02-05T11"
   }
 ]

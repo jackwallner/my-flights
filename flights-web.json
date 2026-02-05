@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.21,
-    "altitude": 36000,
-    "speed": 479,
-    "timestamp": "2026-02-05T09:19:28.793Z",
-    "lat": 45.6209,
-    "lon": -122.5563,
+    "distance": 1.37,
+    "altitude": 35925,
+    "speed": 510,
+    "timestamp": "2026-02-05T11:33:15.746Z",
+    "lat": 45.61,
+    "lon": -122.5524,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ACA7015",
-    "aircraftType": "A320",
-    "origin": "LAX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-05T09:19:28.788Z"
+    "callsign": "FDX1885",
+    "aircraftType": "767",
+    "origin": "OAK",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T11:33:15.741Z"
   },
-  "overheadScore": 1.21,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T09:20:26.637Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T11:33:15.746Z"
 }
