@@ -14537,5 +14537,25 @@
     "initialAltitude": 34075,
     "initialSpeed": 496,
     "_sessionKey": "DAL1714_2026-02-05T21"
+  },
+  {
+    "callsign": "ASA735",
+    "flightNumber": "AS735",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A5320B",
+    "registration": "N434AS",
+    "firstSeen": "2026-02-05T21:48:24.701Z",
+    "lastSeen": "2026-02-05T21:48:24.701Z",
+    "duration": 0,
+    "closestDistance": 0.8842322324216929,
+    "closestAltitude": 31275,
+    "closestSpeed": 478,
+    "initialDistance": 0.8842322324216929,
+    "initialAltitude": 31275,
+    "initialSpeed": 478,
+    "_sessionKey": "ASA735_2026-02-05T21"
   }
 ]
