@@ -12877,5 +12877,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 487,
     "_sessionKey": "ASA661_2026-02-05T04"
+  },
+  {
+    "callsign": "UAL2019",
+    "flightNumber": "UA2019",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AA56DA",
+    "registration": "N76528",
+    "firstSeen": "2026-02-05T04:12:30.420Z",
+    "lastSeen": "2026-02-05T04:12:30.420Z",
+    "duration": 0,
+    "closestDistance": 1.3654938159716028,
+    "closestAltitude": 32375,
+    "closestSpeed": 495,
+    "initialDistance": 1.3654938159716028,
+    "initialAltitude": 32375,
+    "initialSpeed": 495,
+    "_sessionKey": "UAL2019_2026-02-05T04"
   }
 ]
