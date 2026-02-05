@@ -12457,5 +12457,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 462,
     "_sessionKey": "ASA676_2026-02-05T01"
+  },
+  {
+    "callsign": "N535WC",
+    "flightNumber": null,
+    "aircraftType": "C185",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A6C4F7",
+    "registration": "N535WC",
+    "firstSeen": "2026-02-05T01:51:05.589Z",
+    "lastSeen": "2026-02-05T01:51:05.589Z",
+    "duration": 0,
+    "closestDistance": 1.4281884665640117,
+    "closestAltitude": 3400,
+    "closestSpeed": 133,
+    "initialDistance": 1.4281884665640117,
+    "initialAltitude": 3400,
+    "initialSpeed": 133,
+    "_sessionKey": "N535WC_2026-02-05T01"
   }
 ]

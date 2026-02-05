@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.76,
-    "altitude": 36000,
-    "speed": 462,
-    "timestamp": "2026-02-05T01:43:35.645Z",
-    "lat": 45.6313,
-    "lon": -122.5123,
+    "distance": 1.43,
+    "altitude": 3400,
+    "speed": 133,
+    "timestamp": "2026-02-05T01:51:05.591Z",
+    "lat": 45.6466,
+    "lon": -122.5432,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA676",
-    "aircraftType": "737",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T01:43:35.639Z"
+    "callsign": "N535WC",
+    "aircraftType": "C185",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-02-05T01:51:05.589Z"
   },
-  "overheadScore": 0.76,
-  "isOverhead": true,
+  "overheadScore": 1.43,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T01:44:33.545Z"
+  "timestamp": "2026-02-05T01:52:03.668Z"
 }
