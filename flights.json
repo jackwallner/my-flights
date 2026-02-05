@@ -13597,5 +13597,25 @@
     "initialAltitude": 32675,
     "initialSpeed": 478,
     "_sessionKey": "FFT2407_2026-02-05T16"
+  },
+  {
+    "callsign": "ASA701",
+    "flightNumber": "AS701",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AB1842",
+    "registration": "N814AK",
+    "firstSeen": "2026-02-05T16:37:40.522Z",
+    "lastSeen": "2026-02-05T16:37:40.522Z",
+    "duration": 0,
+    "closestDistance": 1.2824885451448365,
+    "closestAltitude": 33525,
+    "closestSpeed": 475,
+    "initialDistance": 1.2824885451448365,
+    "initialAltitude": 33525,
+    "initialSpeed": 475,
+    "_sessionKey": "ASA701_2026-02-05T16"
   }
 ]
