@@ -13437,5 +13437,25 @@
     "initialAltitude": 32075,
     "initialSpeed": 479,
     "_sessionKey": "DAL2844_2026-02-05T15"
+  },
+  {
+    "callsign": "ASA607",
+    "flightNumber": "AS607",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "SEA",
+    "icao": "A61B4E",
+    "registration": "N493AS",
+    "firstSeen": "2026-02-05T15:49:44.694Z",
+    "lastSeen": "2026-02-05T15:49:44.694Z",
+    "duration": 0,
+    "closestDistance": 0.9320628905443616,
+    "closestAltitude": 31450,
+    "closestSpeed": 476,
+    "initialDistance": 0.9320628905443616,
+    "initialAltitude": 31450,
+    "initialSpeed": 476,
+    "_sessionKey": "ASA607_2026-02-05T15"
   }
 ]
