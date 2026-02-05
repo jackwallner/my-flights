@@ -1,23 +1,23 @@
 {
   "closestApproach": {
     "distance": 1.39,
-    "altitude": 8300,
-    "speed": 135,
-    "timestamp": "2026-02-05T19:28:42.354Z",
-    "lat": 45.6483,
-    "lon": -122.5245,
+    "altitude": 33875,
+    "speed": 497,
+    "timestamp": "2026-02-05T19:55:56.357Z",
+    "lat": 45.6156,
+    "lon": -122.5583,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7264H",
-    "aircraftType": "T206",
-    "origin": "DLS",
-    "destination": null,
-    "firstSeen": "2026-02-05T19:28:42.351Z"
+    "callsign": "DAL976",
+    "aircraftType": "A223",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T19:55:56.353Z"
   },
   "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T19:29:40.237Z"
+  "timestamp": "2026-02-05T19:56:56.611Z"
 }
