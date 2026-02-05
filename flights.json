@@ -13337,5 +13337,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 501,
     "_sessionKey": "UPS984_2026-02-05T11"
+  },
+  {
+    "callsign": "SWA3677",
+    "flightNumber": "WN3677",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "AC5E47",
+    "registration": "N8962L",
+    "firstSeen": "2026-02-05T14:57:12.525Z",
+    "lastSeen": "2026-02-05T14:57:12.525Z",
+    "duration": 0,
+    "closestDistance": 1.356153773194425,
+    "closestAltitude": 35525,
+    "closestSpeed": 485,
+    "initialDistance": 1.356153773194425,
+    "initialAltitude": 35525,
+    "initialSpeed": 485,
+    "_sessionKey": "SWA3677_2026-02-05T14"
   }
 ]
