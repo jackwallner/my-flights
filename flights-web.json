@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 37575,
-    "speed": 478,
-    "timestamp": "2026-02-05T03:39:24.200Z",
-    "lat": 45.6193,
-    "lon": -122.5587,
+    "distance": 0.87,
+    "altitude": 35350,
+    "speed": 473,
+    "timestamp": "2026-02-05T03:41:14.796Z",
+    "lat": 45.6239,
+    "lon": -122.5075,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1922",
+    "callsign": "ASA552",
     "aircraftType": "737",
-    "origin": "PVR",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T03:39:24.197Z"
+    "firstSeen": "2026-02-05T03:41:14.793Z"
   },
-  "overheadScore": 1.33,
-  "isOverhead": false,
+  "overheadScore": 0.87,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T03:40:22.871Z"
+  "timestamp": "2026-02-05T03:42:14.098Z"
 }
