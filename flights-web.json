@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.49,
-    "altitude": 35900,
-    "speed": 465,
-    "timestamp": "2026-02-05T00:09:59.813Z",
-    "lat": 45.6111,
-    "lon": -122.499,
+    "distance": 1.31,
+    "altitude": 35200,
+    "speed": 470,
+    "timestamp": "2026-02-05T00:12:41.036Z",
+    "lat": 45.6145,
+    "lon": -122.5009,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2251",
-    "aircraftType": "A220",
-    "origin": "TUS",
+    "callsign": "ASA403",
+    "aircraftType": "B39M",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T00:09:59.811Z"
+    "firstSeen": "2026-02-05T00:12:41.034Z"
   },
-  "overheadScore": 1.49,
+  "overheadScore": 1.31,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T00:10:57.995Z"
+  "timestamp": "2026-02-05T00:13:39.300Z"
 }
