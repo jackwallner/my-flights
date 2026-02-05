@@ -14417,5 +14417,25 @@
     "initialAltitude": 34025,
     "initialSpeed": 470,
     "_sessionKey": "DAL2101_2026-02-05T21"
+  },
+  {
+    "callsign": "ASA580",
+    "flightNumber": "AS580",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A7F9F4",
+    "registration": "N613AS",
+    "firstSeen": "2026-02-05T21:15:42.273Z",
+    "lastSeen": "2026-02-05T21:15:42.273Z",
+    "duration": 0,
+    "closestDistance": 1.3282946407707588,
+    "closestAltitude": 33175,
+    "closestSpeed": 484,
+    "initialDistance": 1.3282946407707588,
+    "initialAltitude": 33175,
+    "initialSpeed": 484,
+    "_sessionKey": "ASA580_2026-02-05T21"
   }
 ]

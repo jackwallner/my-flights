@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.74,
-    "altitude": 34025,
-    "speed": 470,
-    "timestamp": "2026-02-05T21:09:54.497Z",
-    "lat": 45.6285,
-    "lon": -122.5111,
+    "distance": 1.33,
+    "altitude": 33175,
+    "speed": 484,
+    "timestamp": "2026-02-05T21:15:42.276Z",
+    "lat": 45.6189,
+    "lon": -122.5584,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2101",
-    "aircraftType": "A223",
-    "origin": "SNA",
+    "callsign": "ASA580",
+    "aircraftType": "B737",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T21:09:54.495Z"
+    "firstSeen": "2026-02-05T21:15:42.273Z"
   },
-  "overheadScore": 0.74,
-  "isOverhead": true,
+  "overheadScore": 1.33,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T21:10:53.776Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T21:15:42.276Z"
 }
