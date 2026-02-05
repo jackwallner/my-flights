@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 3400,
-    "speed": 133,
-    "timestamp": "2026-02-05T01:51:05.591Z",
-    "lat": 45.6466,
-    "lon": -122.5432,
+    "distance": 0.78,
+    "altitude": 38000,
+    "speed": 467,
+    "timestamp": "2026-02-05T01:56:10.866Z",
+    "lat": 45.6273,
+    "lon": -122.5097,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N535WC",
-    "aircraftType": "C185",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-02-05T01:51:05.589Z"
+    "callsign": "ASA408",
+    "aircraftType": "B39M",
+    "origin": "FAT",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T01:56:10.864Z"
   },
-  "overheadScore": 1.43,
-  "isOverhead": false,
+  "overheadScore": 0.78,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T01:52:03.668Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T01:56:10.866Z"
 }
