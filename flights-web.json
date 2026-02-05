@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.02,
-    "altitude": 32350,
-    "speed": 466,
-    "timestamp": "2026-02-05T23:45:58.188Z",
-    "lat": 45.6199,
-    "lon": -122.505,
+    "distance": 1.36,
+    "altitude": 31500,
+    "speed": 476,
+    "timestamp": "2026-02-05T23:48:29.719Z",
+    "lat": 45.6163,
+    "lon": -122.5578,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA601",
+    "callsign": "ASA1342",
     "aircraftType": "737",
-    "origin": "RNO",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T23:45:58.185Z"
+    "firstSeen": "2026-02-05T23:48:29.716Z"
   },
-  "overheadScore": 1.02,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-05T23:45:58.188Z"
+  "timestamp": "2026-02-05T23:48:29.719Z"
 }
