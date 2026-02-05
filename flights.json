@@ -13577,5 +13577,25 @@
     "initialAltitude": 31625,
     "initialSpeed": 483,
     "_sessionKey": "ASA416_2026-02-05T16"
+  },
+  {
+    "callsign": "FFT2407",
+    "flightNumber": "F92407",
+    "aircraftType": "A321",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A987BF",
+    "registration": "N713FR",
+    "firstSeen": "2026-02-05T16:28:59.506Z",
+    "lastSeen": "2026-02-05T16:28:59.506Z",
+    "duration": 0,
+    "closestDistance": 0.813292771424565,
+    "closestAltitude": 32675,
+    "closestSpeed": 478,
+    "initialDistance": 0.813292771424565,
+    "initialAltitude": 32675,
+    "initialSpeed": 478,
+    "_sessionKey": "FFT2407_2026-02-05T16"
   }
 ]
