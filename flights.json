@@ -13897,5 +13897,25 @@
     "initialAltitude": 31275,
     "initialSpeed": 484,
     "_sessionKey": "ASA656_2026-02-05T18"
+  },
+  {
+    "callsign": "ASA1365",
+    "flightNumber": "AS1365",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A73D45",
+    "registration": "N566AS",
+    "firstSeen": "2026-02-05T18:14:38.703Z",
+    "lastSeen": "2026-02-05T18:14:38.703Z",
+    "duration": 0,
+    "closestDistance": 1.387930076491527,
+    "closestAltitude": 31350,
+    "closestSpeed": 471,
+    "initialDistance": 1.387930076491527,
+    "initialAltitude": 31350,
+    "initialSpeed": 471,
+    "_sessionKey": "ASA1365_2026-02-05T18"
   }
 ]
