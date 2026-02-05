@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.87,
-    "altitude": 35350,
+    "distance": 1.06,
+    "altitude": 34000,
     "speed": 473,
-    "timestamp": "2026-02-05T03:41:14.796Z",
-    "lat": 45.6239,
-    "lon": -122.5075,
+    "timestamp": "2026-02-05T03:43:47.142Z",
+    "lat": 45.6194,
+    "lon": -122.5044,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA552",
+    "callsign": "ASA84",
     "aircraftType": "737",
-    "origin": "LAS",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T03:41:14.793Z"
+    "firstSeen": "2026-02-05T03:43:47.140Z"
   },
-  "overheadScore": 0.87,
-  "isOverhead": true,
+  "overheadScore": 1.06,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T03:42:14.098Z"
+  "timestamp": "2026-02-05T03:44:45.836Z"
 }
