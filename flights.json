@@ -13697,5 +13697,25 @@
     "initialAltitude": 30875,
     "initialSpeed": 498,
     "_sessionKey": "CL60_2026-02-05T16"
+  },
+  {
+    "callsign": "ASA491",
+    "flightNumber": "AS491",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "A58C2E",
+    "registration": "N457AS",
+    "firstSeen": "2026-02-05T16:56:48.622Z",
+    "lastSeen": "2026-02-05T16:56:48.622Z",
+    "duration": 0,
+    "closestDistance": 1.4349019153245128,
+    "closestAltitude": 32075,
+    "closestSpeed": 487,
+    "initialDistance": 1.4349019153245128,
+    "initialAltitude": 32075,
+    "initialSpeed": 487,
+    "_sessionKey": "ASA491_2026-02-05T16"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 30875,
-    "speed": 498,
-    "timestamp": "2026-02-05T16:51:03.047Z",
-    "lat": 45.6196,
-    "lon": -122.5223,
+    "distance": 1.43,
+    "altitude": 32075,
+    "speed": 487,
+    "timestamp": "2026-02-05T16:56:48.625Z",
+    "lat": 45.6119,
+    "lon": -122.4998,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CL60",
-    "aircraftType": "Chal",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-05T16:51:03.044Z"
+    "callsign": "ASA491",
+    "aircraftType": "737",
+    "origin": "BUR",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T16:56:48.622Z"
   },
-  "overheadScore": 0.42,
-  "isOverhead": true,
+  "overheadScore": 1.43,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T16:52:00.920Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T16:56:48.625Z"
 }
