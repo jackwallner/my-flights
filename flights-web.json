@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 31625,
-    "speed": 493,
-    "timestamp": "2026-02-05T20:57:11.789Z",
-    "lat": 45.6115,
-    "lon": -122.5567,
+    "distance": 1.39,
+    "altitude": 37800,
+    "speed": 495,
+    "timestamp": "2026-02-05T20:58:31.173Z",
+    "lat": 45.6145,
+    "lon": -122.5574,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3736",
-    "aircraftType": "E175",
-    "origin": "SJC",
+    "callsign": "SWA1037",
+    "aircraftType": "B737",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T20:57:11.786Z"
+    "firstSeen": "2026-02-05T20:58:31.170Z"
   },
-  "overheadScore": 1.46,
+  "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-05T20:57:11.789Z"
+  "status": "completed",
+  "timestamp": "2026-02-05T20:59:29.394Z"
 }

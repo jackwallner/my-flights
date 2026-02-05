@@ -14357,5 +14357,25 @@
     "initialAltitude": 31625,
     "initialSpeed": 493,
     "_sessionKey": "SKW3736_2026-02-05T20"
+  },
+  {
+    "callsign": "SWA1037",
+    "flightNumber": "WN1037",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A1BF3A",
+    "registration": "N211WN",
+    "firstSeen": "2026-02-05T20:58:31.170Z",
+    "lastSeen": "2026-02-05T20:58:31.170Z",
+    "duration": 0,
+    "closestDistance": 1.3898306196806012,
+    "closestAltitude": 37800,
+    "closestSpeed": 495,
+    "initialDistance": 1.3898306196806012,
+    "initialAltitude": 37800,
+    "initialSpeed": 495,
+    "_sessionKey": "SWA1037_2026-02-05T20"
   }
 ]
