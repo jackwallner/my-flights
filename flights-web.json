@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 31575,
-    "speed": 480,
-    "timestamp": "2026-02-05T22:36:16.641Z",
-    "lat": 45.6172,
-    "lon": -122.5585,
+    "distance": 1.3,
+    "altitude": 31375,
+    "speed": 490,
+    "timestamp": "2026-02-05T22:42:24.325Z",
+    "lat": 45.6192,
+    "lon": -122.5579,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1358",
-    "aircraftType": "737",
-    "origin": "SMF",
+    "callsign": "UAL1008",
+    "aircraftType": "A320",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T22:36:16.638Z"
+    "firstSeen": "2026-02-05T22:42:24.323Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.3,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T22:37:15.325Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T22:42:24.325Z"
 }

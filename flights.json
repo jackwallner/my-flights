@@ -14717,5 +14717,25 @@
     "initialAltitude": 31575,
     "initialSpeed": 480,
     "_sessionKey": "ASA1358_2026-02-05T22"
+  },
+  {
+    "callsign": "UAL1008",
+    "flightNumber": "UA1008",
+    "aircraftType": "A320",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A5BCCD",
+    "registration": "N469UA",
+    "firstSeen": "2026-02-05T22:42:24.323Z",
+    "lastSeen": "2026-02-05T22:42:24.323Z",
+    "duration": 0,
+    "closestDistance": 1.303041082271792,
+    "closestAltitude": 31375,
+    "closestSpeed": 490,
+    "initialDistance": 1.303041082271792,
+    "initialAltitude": 31375,
+    "initialSpeed": 490,
+    "_sessionKey": "UAL1008_2026-02-05T22"
   }
 ]
