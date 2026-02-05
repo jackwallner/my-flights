@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 39375,
-    "speed": 471,
-    "timestamp": "2026-02-05T22:03:02.180Z",
-    "lat": 45.6265,
-    "lon": -122.5602,
+    "distance": 0.82,
+    "altitude": 31550,
+    "speed": 475,
+    "timestamp": "2026-02-05T22:05:02.270Z",
+    "lat": 45.6255,
+    "lon": -122.5086,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LAE1828",
-    "aircraftType": "767",
-    "origin": "LAX",
+    "callsign": "ASA315",
+    "aircraftType": "737",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T22:03:02.177Z"
+    "firstSeen": "2026-02-05T22:05:02.267Z"
   },
-  "overheadScore": 1.35,
-  "isOverhead": false,
+  "overheadScore": 0.82,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T22:04:00.441Z"
+  "timestamp": "2026-02-05T22:06:03.111Z"
 }
