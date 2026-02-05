@@ -14397,5 +14397,25 @@
     "initialAltitude": 32175,
     "initialSpeed": 493,
     "_sessionKey": "AAL1577_2026-02-05T21"
+  },
+  {
+    "callsign": "DAL2101",
+    "flightNumber": "DL2101",
+    "aircraftType": "BCS3",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A35254",
+    "registration": "N313DU",
+    "firstSeen": "2026-02-05T21:09:54.495Z",
+    "lastSeen": "2026-02-05T21:09:54.495Z",
+    "duration": 0,
+    "closestDistance": 0.7399801613004928,
+    "closestAltitude": 34025,
+    "closestSpeed": 470,
+    "initialDistance": 0.7399801613004928,
+    "initialAltitude": 34025,
+    "initialSpeed": 470,
+    "_sessionKey": "DAL2101_2026-02-05T21"
   }
 ]

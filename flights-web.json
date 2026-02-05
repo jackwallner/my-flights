@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.05,
-    "altitude": 32175,
-    "speed": 493,
-    "timestamp": "2026-02-05T21:00:41.454Z",
-    "lat": 45.6197,
-    "lon": -122.5044,
+    "distance": 0.74,
+    "altitude": 34025,
+    "speed": 470,
+    "timestamp": "2026-02-05T21:09:54.497Z",
+    "lat": 45.6285,
+    "lon": -122.5111,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AAL1577",
-    "aircraftType": "A319",
-    "origin": "PHX",
+    "callsign": "DAL2101",
+    "aircraftType": "A223",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T21:00:41.451Z"
+    "firstSeen": "2026-02-05T21:09:54.495Z"
   },
-  "overheadScore": 1.05,
-  "isOverhead": false,
+  "overheadScore": 0.74,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T21:01:40.645Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T21:09:54.497Z"
 }
