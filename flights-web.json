@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.8,
-    "altitude": 33475,
-    "speed": 458,
-    "timestamp": "2026-02-05T19:27:12.244Z",
-    "lat": 45.6276,
-    "lon": -122.5093,
+    "distance": 1.39,
+    "altitude": 8300,
+    "speed": 135,
+    "timestamp": "2026-02-05T19:28:42.354Z",
+    "lat": 45.6483,
+    "lon": -122.5245,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AAL1447",
-    "aircraftType": "A321",
-    "origin": "PHX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T19:27:12.241Z"
+    "callsign": "N7264H",
+    "aircraftType": "T206",
+    "origin": "DLS",
+    "destination": null,
+    "firstSeen": "2026-02-05T19:28:42.351Z"
   },
-  "overheadScore": 0.8,
-  "isOverhead": true,
+  "overheadScore": 1.39,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-05T19:27:12.244Z"
+  "status": "completed",
+  "timestamp": "2026-02-05T19:29:40.237Z"
 }

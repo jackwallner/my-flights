@@ -14077,5 +14077,25 @@
     "initialAltitude": 33475,
     "initialSpeed": 458,
     "_sessionKey": "AAL1447_2026-02-05T19"
+  },
+  {
+    "callsign": "N7264H",
+    "flightNumber": null,
+    "aircraftType": "T206",
+    "aircraftName": null,
+    "origin": "DLS",
+    "destination": null,
+    "icao": "A9BCC2",
+    "registration": "N7264H",
+    "firstSeen": "2026-02-05T19:28:42.351Z",
+    "lastSeen": "2026-02-05T19:28:42.351Z",
+    "duration": 0,
+    "closestDistance": 1.390397137330527,
+    "closestAltitude": 8300,
+    "closestSpeed": 135,
+    "initialDistance": 1.390397137330527,
+    "initialAltitude": 8300,
+    "initialSpeed": 135,
+    "_sessionKey": "N7264H_2026-02-05T19"
   }
 ]
