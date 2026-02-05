@@ -12197,5 +12197,25 @@
     "initialAltitude": 850,
     "initialSpeed": 111,
     "_sessionKey": "N813AT_2026-02-05T00"
+  },
+  {
+    "callsign": "ASA687",
+    "flightNumber": "AS687",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SBA",
+    "destination": "SEA",
+    "icao": "A70AA1",
+    "registration": "N553AS",
+    "firstSeen": "2026-02-05T00:52:53.818Z",
+    "lastSeen": "2026-02-05T00:52:53.818Z",
+    "duration": 0,
+    "closestDistance": 1.4219547774178802,
+    "closestAltitude": 37825,
+    "closestSpeed": 465,
+    "initialDistance": 1.4219547774178802,
+    "initialAltitude": 37825,
+    "initialSpeed": 465,
+    "_sessionKey": "ASA687_2026-02-05T00"
   }
 ]
