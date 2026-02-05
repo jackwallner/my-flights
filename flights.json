@@ -13037,5 +13037,25 @@
     "initialAltitude": 35975,
     "initialSpeed": 484,
     "_sessionKey": "DAL2613_2026-02-05T05"
+  },
+  {
+    "callsign": "QXE2031",
+    "flightNumber": "AS2031",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "A8A478",
+    "registration": "N656QX",
+    "firstSeen": "2026-02-05T05:12:12.679Z",
+    "lastSeen": "2026-02-05T05:12:12.679Z",
+    "duration": 0,
+    "closestDistance": 0.7644268264029449,
+    "closestAltitude": 36000,
+    "closestSpeed": 466,
+    "initialDistance": 0.7644268264029449,
+    "initialAltitude": 36000,
+    "initialSpeed": 466,
+    "_sessionKey": "QXE2031_2026-02-05T05"
   }
 ]
