@@ -13057,5 +13057,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 466,
     "_sessionKey": "QXE2031_2026-02-05T05"
+  },
+  {
+    "callsign": "CLX3",
+    "flightNumber": "CV3",
+    "aircraftType": "B744",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "4D012C",
+    "registration": "LX-ICL",
+    "firstSeen": "2026-02-05T05:14:02.762Z",
+    "lastSeen": "2026-02-05T05:14:02.762Z",
+    "duration": 0,
+    "closestDistance": 1.3360747204874168,
+    "closestAltitude": 34075,
+    "closestSpeed": 513,
+    "initialDistance": 1.3360747204874168,
+    "initialAltitude": 34075,
+    "initialSpeed": 513,
+    "_sessionKey": "CLX3_2026-02-05T05"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.76,
-    "altitude": 36000,
-    "speed": 466,
-    "timestamp": "2026-02-05T05:12:12.684Z",
-    "lat": 45.629,
-    "lon": -122.5107,
+    "distance": 1.34,
+    "altitude": 34075,
+    "speed": 513,
+    "timestamp": "2026-02-05T05:14:02.764Z",
+    "lat": 45.6243,
+    "lon": -122.5599,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2031",
-    "aircraftType": "E175",
-    "origin": "RNO",
+    "callsign": "CLX3",
+    "aircraftType": "747",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T05:12:12.679Z"
+    "firstSeen": "2026-02-05T05:14:02.762Z"
   },
-  "overheadScore": 0.76,
-  "isOverhead": true,
+  "overheadScore": 1.34,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-05T05:12:12.684Z"
+  "status": "completed",
+  "timestamp": "2026-02-05T05:15:00.863Z"
 }
