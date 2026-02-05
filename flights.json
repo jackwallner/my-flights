@@ -14657,5 +14657,25 @@
     "initialAltitude": 42300,
     "initialSpeed": 424,
     "_sessionKey": "JRE770_2026-02-05T22"
+  },
+  {
+    "callsign": "ASA1305",
+    "flightNumber": "AS1305",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A5521C",
+    "registration": "N442AS",
+    "firstSeen": "2026-02-05T22:20:26.685Z",
+    "lastSeen": "2026-02-05T22:20:26.685Z",
+    "duration": 0,
+    "closestDistance": 1.3402696102703173,
+    "closestAltitude": 31800,
+    "closestSpeed": 485,
+    "initialDistance": 1.3402696102703173,
+    "initialAltitude": 31800,
+    "initialSpeed": 485,
+    "_sessionKey": "ASA1305_2026-02-05T22"
   }
 ]
