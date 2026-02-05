@@ -13517,5 +13517,25 @@
     "initialAltitude": 35700,
     "initialSpeed": 457,
     "_sessionKey": "SKW6253_2026-02-05T16"
+  },
+  {
+    "callsign": "ASA323",
+    "flightNumber": "AS323",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "AAF831",
+    "registration": "N806AK",
+    "firstSeen": "2026-02-05T16:14:46.731Z",
+    "lastSeen": "2026-02-05T16:14:46.731Z",
+    "duration": 0,
+    "closestDistance": 1.4040782835580683,
+    "closestAltitude": 33525,
+    "closestSpeed": 486,
+    "initialDistance": 1.4040782835580683,
+    "initialAltitude": 33525,
+    "initialSpeed": 486,
+    "_sessionKey": "ASA323_2026-02-05T16"
   }
 ]
