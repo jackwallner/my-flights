@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.45,
-    "altitude": 31150,
-    "speed": 478,
-    "timestamp": "2026-02-05T21:59:29.352Z",
-    "lat": 45.6117,
-    "lon": -122.5568,
+    "distance": 1.35,
+    "altitude": 39375,
+    "speed": 471,
+    "timestamp": "2026-02-05T22:03:02.180Z",
+    "lat": 45.6265,
+    "lon": -122.5602,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA685",
-    "aircraftType": "B39M",
-    "origin": "SAN",
+    "callsign": "LAE1828",
+    "aircraftType": "767",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T21:59:29.349Z"
+    "firstSeen": "2026-02-05T22:03:02.177Z"
   },
-  "overheadScore": 1.45,
+  "overheadScore": 1.35,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T22:00:27.449Z"
+  "timestamp": "2026-02-05T22:04:00.441Z"
 }

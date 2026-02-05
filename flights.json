@@ -14597,5 +14597,25 @@
     "initialAltitude": 31150,
     "initialSpeed": 478,
     "_sessionKey": "ASA685_2026-02-05T21"
+  },
+  {
+    "callsign": "LAE1828",
+    "flightNumber": "L71828",
+    "aircraftType": "B763",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "E80422",
+    "registration": "CC-BDC",
+    "firstSeen": "2026-02-05T22:03:02.177Z",
+    "lastSeen": "2026-02-05T22:03:02.177Z",
+    "duration": 0,
+    "closestDistance": 1.349335993998059,
+    "closestAltitude": 39375,
+    "closestSpeed": 471,
+    "initialDistance": 1.349335993998059,
+    "initialAltitude": 39375,
+    "initialSpeed": 471,
+    "_sessionKey": "LAE1828_2026-02-05T22"
   }
 ]
