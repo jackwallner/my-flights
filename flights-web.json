@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 30000,
-    "speed": 473,
-    "timestamp": "2026-02-05T03:30:07.330Z",
-    "lat": 45.6136,
-    "lon": -122.5007,
+    "distance": 1.37,
+    "altitude": 36000,
+    "speed": 464,
+    "timestamp": "2026-02-05T03:32:28.173Z",
+    "lat": 45.6159,
+    "lon": -122.5578,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2318",
-    "aircraftType": "A220",
-    "origin": "SNA",
+    "callsign": "SKW4049",
+    "aircraftType": "E175",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T03:30:07.328Z"
+    "firstSeen": "2026-02-05T03:32:28.170Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-05T03:30:07.330Z"
+  "timestamp": "2026-02-05T03:32:28.174Z"
 }
