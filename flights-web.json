@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 31950,
-    "speed": 494,
-    "timestamp": "2026-02-05T23:41:05.567Z",
-    "lat": 45.6122,
-    "lon": -122.5567,
+    "distance": 1.41,
+    "altitude": 31275,
+    "speed": 492,
+    "timestamp": "2026-02-05T23:44:48.695Z",
+    "lat": 45.6297,
+    "lon": -122.5611,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FDX3884",
-    "aircraftType": "767",
-    "origin": "OAK",
+    "callsign": "SKW3789",
+    "aircraftType": "E175",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T23:41:05.563Z"
+    "firstSeen": "2026-02-05T23:44:48.691Z"
   },
-  "overheadScore": 1.43,
+  "overheadScore": 1.41,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T23:42:04.020Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T23:44:48.695Z"
 }
