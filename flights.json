@@ -12097,5 +12097,25 @@
     "initialAltitude": 22000,
     "initialSpeed": 409,
     "_sessionKey": "EJA554_2026-02-05T00"
+  },
+  {
+    "callsign": "DAL2251",
+    "flightNumber": "DL2251",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "TUS",
+    "destination": "SEA",
+    "icao": "A06E11",
+    "registration": "N127DU",
+    "firstSeen": "2026-02-05T00:09:59.811Z",
+    "lastSeen": "2026-02-05T00:09:59.811Z",
+    "duration": 0,
+    "closestDistance": 1.4897854227319751,
+    "closestAltitude": 35900,
+    "closestSpeed": 465,
+    "initialDistance": 1.4897854227319751,
+    "initialAltitude": 35900,
+    "initialSpeed": 465,
+    "_sessionKey": "DAL2251_2026-02-05T00"
   }
 ]

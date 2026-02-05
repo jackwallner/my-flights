@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.32,
-    "altitude": 22000,
-    "speed": 409,
-    "timestamp": "2026-02-05T00:08:40.159Z",
-    "lat": 45.6392,
-    "lon": -122.5039,
+    "distance": 1.49,
+    "altitude": 35900,
+    "speed": 465,
+    "timestamp": "2026-02-05T00:09:59.813Z",
+    "lat": 45.6111,
+    "lon": -122.499,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA554",
-    "aircraftType": "C68A",
-    "origin": "QSN",
-    "destination": "RNT",
-    "firstSeen": "2026-02-05T00:08:40.156Z"
+    "callsign": "DAL2251",
+    "aircraftType": "A220",
+    "origin": "TUS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T00:09:59.811Z"
   },
-  "overheadScore": 1.32,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T00:09:38.468Z"
+  "timestamp": "2026-02-05T00:10:57.995Z"
 }
