@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 31925,
-    "speed": 497,
-    "timestamp": "2026-02-05T23:39:24.520Z",
-    "lat": 45.6225,
-    "lon": -122.5601,
+    "distance": 1.43,
+    "altitude": 31950,
+    "speed": 494,
+    "timestamp": "2026-02-05T23:41:05.567Z",
+    "lat": 45.6122,
+    "lon": -122.5567,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2533",
-    "aircraftType": "A223",
-    "origin": "SAN",
+    "callsign": "FDX3884",
+    "aircraftType": "767",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T23:39:24.517Z"
+    "firstSeen": "2026-02-05T23:41:05.563Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.43,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T23:40:24.267Z"
+  "timestamp": "2026-02-05T23:42:04.020Z"
 }
