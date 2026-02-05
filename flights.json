@@ -12317,5 +12317,25 @@
     "initialAltitude": 31750,
     "initialSpeed": 468,
     "_sessionKey": "SKW4031_2026-02-05T01"
+  },
+  {
+    "callsign": "DAL2606",
+    "flightNumber": "DL2606",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "ABAF1E",
+    "registration": "N852DN",
+    "firstSeen": "2026-02-05T01:33:18.991Z",
+    "lastSeen": "2026-02-05T01:33:18.991Z",
+    "duration": 0,
+    "closestDistance": 1.050473602303584,
+    "closestAltitude": 36000,
+    "closestSpeed": 464,
+    "initialDistance": 1.050473602303584,
+    "initialAltitude": 36000,
+    "initialSpeed": 464,
+    "_sessionKey": "DAL2606_2026-02-05T01"
   }
 ]
