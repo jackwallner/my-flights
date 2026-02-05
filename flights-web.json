@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.19,
-    "altitude": 40000,
-    "speed": 465,
-    "timestamp": "2026-02-05T06:08:28.692Z",
-    "lat": 45.6168,
-    "lon": -122.5024,
+    "distance": 1.46,
+    "altitude": 37850,
+    "speed": 467,
+    "timestamp": "2026-02-05T06:09:47.761Z",
+    "lat": 45.6117,
+    "lon": -122.4992,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2305",
-    "aircraftType": "B737",
-    "origin": "PHX",
+    "callsign": "DAL1551",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T06:08:28.687Z"
+    "firstSeen": "2026-02-05T06:09:47.759Z"
   },
-  "overheadScore": 1.19,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-05T06:08:28.692Z"
+  "status": "completed",
+  "timestamp": "2026-02-05T06:10:45.903Z"
 }

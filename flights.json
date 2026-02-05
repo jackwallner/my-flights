@@ -13157,5 +13157,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 465,
     "_sessionKey": "SWA2305_2026-02-05T06"
+  },
+  {
+    "callsign": "DAL1551",
+    "flightNumber": "DL1551",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AC45AC",
+    "registration": "N890DN",
+    "firstSeen": "2026-02-05T06:09:47.759Z",
+    "lastSeen": "2026-02-05T06:09:47.759Z",
+    "duration": 0,
+    "closestDistance": 1.4625098992996268,
+    "closestAltitude": 37850,
+    "closestSpeed": 467,
+    "initialDistance": 1.4625098992996268,
+    "initialAltitude": 37850,
+    "initialSpeed": 467,
+    "_sessionKey": "DAL1551_2026-02-05T06"
   }
 ]
