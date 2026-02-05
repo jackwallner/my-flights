@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 36000,
-    "speed": 475,
-    "timestamp": "2026-02-05T03:27:39.921Z",
-    "lat": 45.6298,
-    "lon": -122.5615,
+    "distance": 1.35,
+    "altitude": 30000,
+    "speed": 473,
+    "timestamp": "2026-02-05T03:30:07.330Z",
+    "lat": 45.6136,
+    "lon": -122.5007,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1290",
-    "aircraftType": "737 ",
-    "origin": "OAK",
+    "callsign": "DAL2318",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T03:27:39.919Z"
+    "firstSeen": "2026-02-05T03:30:07.328Z"
   },
-  "overheadScore": 1.43,
+  "overheadScore": 1.35,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-05T03:27:39.921Z"
+  "timestamp": "2026-02-05T03:30:07.330Z"
 }
