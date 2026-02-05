@@ -12177,5 +12177,25 @@
     "initialAltitude": 1100,
     "initialSpeed": 79,
     "_sessionKey": "N61338_2026-02-05T00"
+  },
+  {
+    "callsign": "N813AT",
+    "flightNumber": null,
+    "aircraftType": "RV9",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "AB1493",
+    "registration": "N813AT",
+    "firstSeen": "2026-02-05T00:38:42.659Z",
+    "lastSeen": "2026-02-05T00:39:51.083Z",
+    "duration": 68,
+    "closestDistance": 0.8535420920656026,
+    "closestAltitude": 825,
+    "closestSpeed": 116,
+    "initialDistance": 1.451985487132847,
+    "initialAltitude": 850,
+    "initialSpeed": 111,
+    "_sessionKey": "N813AT_2026-02-05T00"
   }
 ]
