@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.03,
-    "altitude": 31900,
-    "speed": 477,
-    "timestamp": "2026-02-05T20:12:16.015Z",
-    "lat": 45.6199,
-    "lon": -122.5047,
-    "precision": "tracked"
+    "distance": 0.95,
+    "altitude": 2375,
+    "speed": 129,
+    "timestamp": "2026-02-05T20:17:38.045Z",
+    "lat": 45.641,
+    "lon": -122.5303,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA629",
-    "aircraftType": "B39M",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T20:12:16.011Z"
+    "callsign": "N278TC",
+    "aircraftType": "S22T",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-05T20:16:40.405Z"
   },
-  "overheadScore": 1.03,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T20:13:14.325Z"
+  "overheadScore": 0.95,
+  "isOverhead": true,
+  "pathSnapshots": 3,
+  "status": "tracking",
+  "timestamp": "2026-02-05T20:17:48.323Z"
 }

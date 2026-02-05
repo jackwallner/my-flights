@@ -14197,5 +14197,25 @@
     "initialAltitude": 31900,
     "initialSpeed": 477,
     "_sessionKey": "ASA629_2026-02-05T20"
+  },
+  {
+    "callsign": "N278TC",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A2C5E0",
+    "registration": "N278TC",
+    "firstSeen": "2026-02-05T20:16:40.405Z",
+    "lastSeen": "2026-02-05T20:17:48.319Z",
+    "duration": 68,
+    "closestDistance": 0.9482711626305838,
+    "closestAltitude": 2375,
+    "closestSpeed": 129,
+    "initialDistance": 1.2741155551594705,
+    "initialAltitude": 1575,
+    "initialSpeed": 107,
+    "_sessionKey": "N278TC_2026-02-05T20"
   }
 ]
