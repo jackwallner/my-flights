@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 31500,
-    "speed": 476,
-    "timestamp": "2026-02-05T23:48:29.719Z",
-    "lat": 45.6163,
-    "lon": -122.5578,
+    "distance": 1.46,
+    "altitude": 31300,
+    "speed": 475,
+    "timestamp": "2026-02-05T23:57:51.864Z",
+    "lat": 45.6312,
+    "lon": -122.5618,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1342",
-    "aircraftType": "737",
-    "origin": "SFO",
+    "callsign": "SKW3814",
+    "aircraftType": "E175",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T23:48:29.716Z"
+    "firstSeen": "2026-02-05T23:57:51.860Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T23:49:28.065Z"
+  "timestamp": "2026-02-05T23:58:50.977Z"
 }
