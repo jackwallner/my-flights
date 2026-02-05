@@ -14017,5 +14017,25 @@
     "initialAltitude": 32975,
     "initialSpeed": 483,
     "_sessionKey": "SWA2312_2026-02-05T19"
+  },
+  {
+    "callsign": "N217MJ",
+    "flightNumber": null,
+    "aircraftType": "LJ45",
+    "aircraftName": null,
+    "origin": "SUO",
+    "destination": null,
+    "icao": "A1D49F",
+    "registration": "N217MJ",
+    "firstSeen": "2026-02-05T19:19:46.445Z",
+    "lastSeen": "2026-02-05T19:19:46.445Z",
+    "duration": 0,
+    "closestDistance": 0.6776502651931382,
+    "closestAltitude": 29025,
+    "closestSpeed": 511,
+    "initialDistance": 0.6776502651931382,
+    "initialAltitude": 29025,
+    "initialSpeed": 511,
+    "_sessionKey": "N217MJ_2026-02-05T19"
   }
 ]
