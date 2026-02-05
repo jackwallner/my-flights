@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.75,
-    "altitude": 35975,
-    "speed": 469,
-    "timestamp": "2026-02-05T02:05:10.949Z",
-    "lat": 45.6293,
-    "lon": -122.5111,
+    "distance": 1.17,
+    "altitude": 36000,
+    "speed": 462,
+    "timestamp": "2026-02-05T02:38:47.954Z",
+    "lat": 45.6171,
+    "lon": -122.5028,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA422",
-    "aircraftType": "737",
-    "origin": "SJD",
+    "callsign": "SKW4703",
+    "aircraftType": "E175",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T02:05:10.947Z"
+    "firstSeen": "2026-02-05T02:38:47.950Z"
   },
-  "overheadScore": 0.75,
-  "isOverhead": true,
+  "overheadScore": 1.17,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T02:06:08.978Z"
+  "timestamp": "2026-02-05T02:39:46.968Z"
 }
