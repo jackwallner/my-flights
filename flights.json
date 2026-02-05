@@ -13537,5 +13537,25 @@
     "initialAltitude": 33525,
     "initialSpeed": 486,
     "_sessionKey": "ASA323_2026-02-05T16"
+  },
+  {
+    "callsign": "ASA709",
+    "flightNumber": "AS709",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A9D284",
+    "registration": "N732AL",
+    "firstSeen": "2026-02-05T16:16:57.765Z",
+    "lastSeen": "2026-02-05T16:16:57.765Z",
+    "duration": 0,
+    "closestDistance": 0.7480908676456341,
+    "closestAltitude": 31125,
+    "closestSpeed": 470,
+    "initialDistance": 0.7480908676456341,
+    "initialAltitude": 31125,
+    "initialSpeed": 470,
+    "_sessionKey": "ASA709_2026-02-05T16"
   }
 ]
