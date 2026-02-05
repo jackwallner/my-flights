@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.19,
-    "altitude": 1600,
-    "speed": 120,
-    "timestamp": "2026-02-05T20:07:33.598Z",
-    "lat": 45.6434,
-    "lon": -122.5165,
+    "distance": 1.39,
+    "altitude": 32000,
+    "speed": 477,
+    "timestamp": "2026-02-05T20:11:16.999Z",
+    "lat": 45.6284,
+    "lon": -122.561,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6655J",
-    "aircraftType": "P28A",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-05T20:07:33.596Z"
+    "callsign": "ASA1311",
+    "aircraftType": "B39M",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T20:11:16.996Z"
   },
-  "overheadScore": 1.19,
+  "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T20:08:32.216Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T20:11:16.999Z"
 }
