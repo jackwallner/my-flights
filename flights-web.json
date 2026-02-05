@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.44,
-    "altitude": 10725,
-    "speed": 186,
-    "timestamp": "2026-02-05T06:38:55.738Z",
-    "lat": 45.6015,
-    "lon": -122.5324,
+    "distance": 1.22,
+    "altitude": 28725,
+    "speed": 458,
+    "timestamp": "2026-02-05T06:44:53.135Z",
+    "lat": 45.6171,
+    "lon": -122.5014,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N370BM",
-    "aircraftType": "S22T",
-    "origin": "HIO",
-    "destination": "PSC",
-    "firstSeen": "2026-02-05T06:38:55.735Z"
+    "callsign": "SKW6444",
+    "aircraftType": "CRJ",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T06:44:53.133Z"
   },
-  "overheadScore": 1.44,
+  "overheadScore": 1.22,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T06:39:53.940Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T06:44:53.135Z"
 }
