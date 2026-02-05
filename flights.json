@@ -13277,5 +13277,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 482,
     "_sessionKey": "SKW5579_2026-02-05T07"
+  },
+  {
+    "callsign": "ACA7015",
+    "flightNumber": "AC7015",
+    "aircraftType": "A320",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "BFI",
+    "icao": "C01C02",
+    "registration": "C-FKPT",
+    "firstSeen": "2026-02-05T09:19:28.788Z",
+    "lastSeen": "2026-02-05T09:19:28.788Z",
+    "duration": 0,
+    "closestDistance": 1.2125180420583248,
+    "closestAltitude": 36000,
+    "closestSpeed": 479,
+    "initialDistance": 1.2125180420583248,
+    "initialAltitude": 36000,
+    "initialSpeed": 479,
+    "_sessionKey": "ACA7015_2026-02-05T09"
   }
 ]
