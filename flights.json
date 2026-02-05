@@ -14637,5 +14637,25 @@
     "initialAltitude": 31550,
     "initialSpeed": 475,
     "_sessionKey": "ASA315_2026-02-05T22"
+  },
+  {
+    "callsign": "JRE770",
+    "flightNumber": "JRE770",
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "HSH",
+    "destination": "PWT",
+    "icao": "AA69E0",
+    "registration": "N770JS",
+    "firstSeen": "2026-02-05T22:07:25.534Z",
+    "lastSeen": "2026-02-05T22:07:25.534Z",
+    "duration": 0,
+    "closestDistance": 1.2260784877294009,
+    "closestAltitude": 42300,
+    "closestSpeed": 424,
+    "initialDistance": 1.2260784877294009,
+    "initialAltitude": 42300,
+    "initialSpeed": 424,
+    "_sessionKey": "JRE770_2026-02-05T22"
   }
 ]
