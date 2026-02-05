@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
-    "altitude": 37250,
-    "speed": 463,
-    "timestamp": "2026-02-05T03:16:16.456Z",
-    "lat": 45.6332,
-    "lon": -122.5137,
+    "distance": 1.35,
+    "altitude": 36125,
+    "speed": 503,
+    "timestamp": "2026-02-05T03:20:41.610Z",
+    "lat": 45.6253,
+    "lon": -122.5602,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2640",
-    "aircraftType": "737",
-    "origin": "LAX",
+    "callsign": "ABX3111",
+    "aircraftType": "767",
+    "origin": "SCK",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T03:16:16.453Z"
+    "firstSeen": "2026-02-05T03:20:41.608Z"
   },
-  "overheadScore": 0.77,
-  "isOverhead": true,
+  "overheadScore": 1.35,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T03:17:15.407Z"
+  "timestamp": "2026-02-05T03:21:41.733Z"
 }
