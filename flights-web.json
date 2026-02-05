@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 37850,
-    "speed": 467,
-    "timestamp": "2026-02-05T06:09:47.761Z",
-    "lat": 45.6117,
-    "lon": -122.4992,
+    "distance": 1.07,
+    "altitude": 28200,
+    "speed": 505,
+    "timestamp": "2026-02-05T06:18:40.393Z",
+    "lat": 45.6202,
+    "lon": -122.5036,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1551",
-    "aircraftType": "737",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T06:09:47.759Z"
+    "callsign": "N108KC",
+    "aircraftType": "FA10",
+    "origin": "LAS",
+    "destination": "BFI",
+    "firstSeen": "2026-02-05T06:18:40.390Z"
   },
-  "overheadScore": 1.46,
+  "overheadScore": 1.07,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T06:10:45.903Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T06:18:40.393Z"
 }

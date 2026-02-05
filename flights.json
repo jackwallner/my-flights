@@ -13177,5 +13177,25 @@
     "initialAltitude": 37850,
     "initialSpeed": 467,
     "_sessionKey": "DAL1551_2026-02-05T06"
+  },
+  {
+    "callsign": "N108KC",
+    "flightNumber": null,
+    "aircraftType": "FA10",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "BFI",
+    "icao": "A02350",
+    "registration": "N108KC",
+    "firstSeen": "2026-02-05T06:18:40.390Z",
+    "lastSeen": "2026-02-05T06:18:40.390Z",
+    "duration": 0,
+    "closestDistance": 1.073519629049445,
+    "closestAltitude": 28200,
+    "closestSpeed": 505,
+    "initialDistance": 1.073519629049445,
+    "initialAltitude": 28200,
+    "initialSpeed": 505,
+    "_sessionKey": "N108KC_2026-02-05T06"
   }
 ]
