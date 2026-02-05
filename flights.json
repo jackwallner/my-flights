@@ -13397,5 +13397,25 @@
     "initialAltitude": 0,
     "initialSpeed": 150,
     "_sessionKey": "AMF1964_2026-02-05T15"
+  },
+  {
+    "callsign": "ASA1304",
+    "flightNumber": "AS1304",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A66CA5",
+    "registration": "N513AS",
+    "firstSeen": "2026-02-05T15:39:51.473Z",
+    "lastSeen": "2026-02-05T15:39:51.473Z",
+    "duration": 0,
+    "closestDistance": 1.3226035478236564,
+    "closestAltitude": 33875,
+    "closestSpeed": 474,
+    "initialDistance": 1.3226035478236564,
+    "initialAltitude": 33875,
+    "initialSpeed": 474,
+    "_sessionKey": "ASA1304_2026-02-05T15"
   }
 ]

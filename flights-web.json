@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 0,
-    "speed": 150,
-    "timestamp": "2026-02-05T15:33:22.644Z",
-    "lat": 45.6035,
-    "lon": -122.5195,
+    "distance": 1.32,
+    "altitude": 33875,
+    "speed": 474,
+    "timestamp": "2026-02-05T15:39:51.477Z",
+    "lat": 45.6222,
+    "lon": -122.5593,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AMF1964",
-    "aircraftType": "Beec",
-    "origin": "PDX",
-    "destination": "HES",
-    "firstSeen": "2026-02-05T15:33:22.640Z"
+    "callsign": "ASA1304",
+    "aircraftType": "737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T15:39:51.473Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.32,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T15:34:21.715Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T15:39:51.477Z"
 }
