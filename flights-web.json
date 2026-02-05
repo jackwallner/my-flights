@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.44,
-    "altitude": 33000,
-    "speed": 493,
-    "timestamp": "2026-02-05T15:10:12.766Z",
-    "lat": 45.613,
-    "lon": -122.5576,
+    "distance": 1.36,
+    "altitude": 0,
+    "speed": 150,
+    "timestamp": "2026-02-05T15:33:22.644Z",
+    "lat": 45.6035,
+    "lon": -122.5195,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2721",
-    "aircraftType": "A223",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T15:10:12.763Z"
+    "callsign": "AMF1964",
+    "aircraftType": "Beec",
+    "origin": "PDX",
+    "destination": "HES",
+    "firstSeen": "2026-02-05T15:33:22.640Z"
   },
-  "overheadScore": 1.44,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T15:11:11.893Z"
+  "timestamp": "2026-02-05T15:34:21.715Z"
 }

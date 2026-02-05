@@ -13377,5 +13377,25 @@
     "initialAltitude": 33000,
     "initialSpeed": 493,
     "_sessionKey": "DAL2721_2026-02-05T15"
+  },
+  {
+    "callsign": "AMF1964",
+    "flightNumber": "A81964",
+    "aircraftType": "B190",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "HES",
+    "icao": "A76192",
+    "registration": "N575G",
+    "firstSeen": "2026-02-05T15:33:22.640Z",
+    "lastSeen": "2026-02-05T15:33:22.640Z",
+    "duration": 0,
+    "closestDistance": 1.3567981805946996,
+    "closestAltitude": 0,
+    "closestSpeed": 150,
+    "initialDistance": 1.3567981805946996,
+    "initialAltitude": 0,
+    "initialSpeed": 150,
+    "_sessionKey": "AMF1964_2026-02-05T15"
   }
 ]
