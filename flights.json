@@ -12077,5 +12077,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 465,
     "_sessionKey": "QXE2037_2026-02-05T00"
+  },
+  {
+    "callsign": "EJA554",
+    "flightNumber": "EJA554",
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": "QSN",
+    "destination": "RNT",
+    "icao": "A70FB6",
+    "registration": "N554QS",
+    "firstSeen": "2026-02-05T00:08:40.156Z",
+    "lastSeen": "2026-02-05T00:08:40.156Z",
+    "duration": 0,
+    "closestDistance": 1.3159533595595325,
+    "closestAltitude": 22000,
+    "closestSpeed": 409,
+    "initialDistance": 1.3159533595595325,
+    "initialAltitude": 22000,
+    "initialSpeed": 409,
+    "_sessionKey": "EJA554_2026-02-05T00"
   }
 ]

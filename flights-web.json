@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.48,
-    "altitude": 36000,
-    "speed": 465,
-    "timestamp": "2026-02-05T00:02:41.630Z",
-    "lat": 45.6103,
-    "lon": -122.5562,
+    "distance": 1.32,
+    "altitude": 22000,
+    "speed": 409,
+    "timestamp": "2026-02-05T00:08:40.159Z",
+    "lat": 45.6392,
+    "lon": -122.5039,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2037",
-    "aircraftType": "E175",
-    "origin": "RDD",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T00:02:41.627Z"
+    "callsign": "EJA554",
+    "aircraftType": "C68A",
+    "origin": "QSN",
+    "destination": "RNT",
+    "firstSeen": "2026-02-05T00:08:40.156Z"
   },
-  "overheadScore": 1.48,
+  "overheadScore": 1.32,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T00:03:40.381Z"
+  "timestamp": "2026-02-05T00:09:38.468Z"
 }
