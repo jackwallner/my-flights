@@ -13197,5 +13197,25 @@
     "initialAltitude": 28200,
     "initialSpeed": 505,
     "_sessionKey": "N108KC_2026-02-05T06"
+  },
+  {
+    "callsign": "N370BM",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": "PSC",
+    "icao": "A433F0",
+    "registration": "N370BM",
+    "firstSeen": "2026-02-05T06:38:55.735Z",
+    "lastSeen": "2026-02-05T06:38:55.735Z",
+    "duration": 0,
+    "closestDistance": 1.439102272891077,
+    "closestAltitude": 10725,
+    "closestSpeed": 186,
+    "initialDistance": 1.439102272891077,
+    "initialAltitude": 10725,
+    "initialSpeed": 186,
+    "_sessionKey": "N370BM_2026-02-05T06"
   }
 ]
