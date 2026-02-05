@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 29025,
-    "speed": 511,
-    "timestamp": "2026-02-05T19:19:46.447Z",
-    "lat": 45.6189,
-    "lon": -122.5148,
+    "distance": 1.35,
+    "altitude": 33875,
+    "speed": 477,
+    "timestamp": "2026-02-05T19:23:08.481Z",
+    "lat": 45.6135,
+    "lon": -122.5006,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N217MJ",
-    "aircraftType": "LJ45",
-    "origin": "SUO",
-    "destination": null,
-    "firstSeen": "2026-02-05T19:19:46.445Z"
+    "callsign": "ASA798",
+    "aircraftType": "737 ",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T19:23:08.478Z"
   },
-  "overheadScore": 0.68,
-  "isOverhead": true,
+  "overheadScore": 1.35,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T19:20:44.489Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T19:23:08.481Z"
 }
