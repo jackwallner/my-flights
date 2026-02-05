@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 38000,
-    "speed": 477,
-    "timestamp": "2026-02-05T04:49:47.124Z",
-    "lat": 45.6236,
-    "lon": -122.5598,
+    "distance": 1.26,
+    "altitude": 37150,
+    "speed": 473,
+    "timestamp": "2026-02-05T04:58:30.165Z",
+    "lat": 45.6153,
+    "lon": -122.5016,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA447",
-    "aircraftType": "B737",
-    "origin": "SMF",
+    "callsign": "ASA574",
+    "aircraftType": "737",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T04:49:47.120Z"
+    "firstSeen": "2026-02-05T04:58:30.161Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.26,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T04:50:45.298Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T04:58:30.165Z"
 }
