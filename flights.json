@@ -13677,5 +13677,25 @@
     "initialAltitude": 34375,
     "initialSpeed": 492,
     "_sessionKey": "ASA1325_2026-02-05T16"
+  },
+  {
+    "callsign": "CL60",
+    "flightNumber": null,
+    "aircraftType": "CL60",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-05T16:51:03.044Z",
+    "lastSeen": "2026-02-05T16:51:03.044Z",
+    "duration": 0,
+    "closestDistance": 0.4193738676976146,
+    "closestAltitude": 30875,
+    "closestSpeed": 498,
+    "initialDistance": 0.4193738676976146,
+    "initialAltitude": 30875,
+    "initialSpeed": 498,
+    "_sessionKey": "CL60_2026-02-05T16"
   }
 ]

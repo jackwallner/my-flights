@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.44,
-    "altitude": 34375,
-    "speed": 492,
-    "timestamp": "2026-02-05T16:47:30.360Z",
-    "lat": 45.6305,
-    "lon": -122.5617,
+    "distance": 0.42,
+    "altitude": 30875,
+    "speed": 498,
+    "timestamp": "2026-02-05T16:51:03.047Z",
+    "lat": 45.6196,
+    "lon": -122.5223,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1325",
-    "aircraftType": "737",
-    "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T16:47:30.357Z"
+    "callsign": "CL60",
+    "aircraftType": "Chal",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-05T16:51:03.044Z"
   },
-  "overheadScore": 1.44,
-  "isOverhead": false,
+  "overheadScore": 0.42,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T16:48:28.457Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T16:51:03.047Z"
 }
