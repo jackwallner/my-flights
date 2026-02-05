@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 31100,
-    "speed": 452,
-    "timestamp": "2026-02-05T23:35:20.422Z",
-    "lat": 45.6117,
-    "lon": -122.4991,
+    "distance": 1.35,
+    "altitude": 31925,
+    "speed": 497,
+    "timestamp": "2026-02-05T23:39:24.520Z",
+    "lat": 45.6225,
+    "lon": -122.5601,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA741",
-    "aircraftType": "B39M",
-    "origin": "LAS",
+    "callsign": "DAL2533",
+    "aircraftType": "A223",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T23:35:20.418Z"
+    "firstSeen": "2026-02-05T23:39:24.517Z"
   },
-  "overheadScore": 1.47,
+  "overheadScore": 1.35,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T23:36:18.561Z"
+  "timestamp": "2026-02-05T23:40:24.267Z"
 }
