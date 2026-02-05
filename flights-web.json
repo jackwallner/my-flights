@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 33875,
-    "speed": 497,
-    "timestamp": "2026-02-05T19:55:56.357Z",
-    "lat": 45.6156,
-    "lon": -122.5583,
+    "distance": 1.19,
+    "altitude": 1600,
+    "speed": 120,
+    "timestamp": "2026-02-05T20:07:33.598Z",
+    "lat": 45.6434,
+    "lon": -122.5165,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL976",
-    "aircraftType": "A223",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T19:55:56.353Z"
+    "callsign": "N6655J",
+    "aircraftType": "P28A",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-05T20:07:33.596Z"
   },
-  "overheadScore": 1.39,
+  "overheadScore": 1.19,
   "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T19:56:56.611Z"
+  "pathSnapshots": 2,
+  "status": "tracking",
+  "timestamp": "2026-02-05T20:07:33.598Z"
 }
