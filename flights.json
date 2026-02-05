@@ -13117,5 +13117,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 463,
     "_sessionKey": "SWA2312_2026-02-05T05"
+  },
+  {
+    "callsign": "ASA1346",
+    "flightNumber": "AS1346",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "PAE",
+    "icao": "A99D87",
+    "registration": "N719AL",
+    "firstSeen": "2026-02-05T05:32:37.269Z",
+    "lastSeen": "2026-02-05T05:32:37.269Z",
+    "duration": 0,
+    "closestDistance": 0.7621780682331375,
+    "closestAltitude": 38000,
+    "closestSpeed": 480,
+    "initialDistance": 0.7621780682331375,
+    "initialAltitude": 38000,
+    "initialSpeed": 480,
+    "_sessionKey": "ASA1346_2026-02-05T05"
   }
 ]

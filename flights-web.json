@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.08,
+    "distance": 0.76,
     "altitude": 38000,
-    "speed": 463,
-    "timestamp": "2026-02-05T05:28:42.997Z",
-    "lat": 45.619,
-    "lon": -122.5041,
+    "speed": 480,
+    "timestamp": "2026-02-05T05:32:37.272Z",
+    "lat": 45.6129,
+    "lon": -122.5241,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2312",
-    "aircraftType": "737 ",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T05:28:42.993Z"
+    "callsign": "ASA1346",
+    "aircraftType": "B39M",
+    "origin": "LAX",
+    "destination": "PAE",
+    "firstSeen": "2026-02-05T05:32:37.269Z"
   },
-  "overheadScore": 1.08,
-  "isOverhead": false,
+  "overheadScore": 0.76,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-05T05:29:41.594Z"
+  "status": "tracking",
+  "timestamp": "2026-02-05T05:32:37.272Z"
 }
