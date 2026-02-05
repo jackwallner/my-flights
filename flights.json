@@ -12497,5 +12497,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 467,
     "_sessionKey": "ASA408_2026-02-05T01"
+  },
+  {
+    "callsign": "ASA591",
+    "flightNumber": "AS591",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A4CE21",
+    "registration": "N409AS",
+    "firstSeen": "2026-02-05T02:00:25.704Z",
+    "lastSeen": "2026-02-05T02:00:25.704Z",
+    "duration": 0,
+    "closestDistance": 1.3858462860245633,
+    "closestAltitude": 35950,
+    "closestSpeed": 479,
+    "initialDistance": 1.3858462860245633,
+    "initialAltitude": 35950,
+    "initialSpeed": 479,
+    "_sessionKey": "ASA591_2026-02-05T02"
   }
 ]
