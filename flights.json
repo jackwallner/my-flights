@@ -12897,5 +12897,25 @@
     "initialAltitude": 32375,
     "initialSpeed": 495,
     "_sessionKey": "UAL2019_2026-02-05T04"
+  },
+  {
+    "callsign": "SKW3991",
+    "flightNumber": "DL3991",
+    "aircraftType": "E75S",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A7FA2D",
+    "registration": "N613CZ",
+    "firstSeen": "2026-02-05T04:15:11.911Z",
+    "lastSeen": "2026-02-05T04:15:11.911Z",
+    "duration": 0,
+    "closestDistance": 1.322985096067166,
+    "closestAltitude": 34000,
+    "closestSpeed": 469,
+    "initialDistance": 1.322985096067166,
+    "initialAltitude": 34000,
+    "initialSpeed": 469,
+    "_sessionKey": "SKW3991_2026-02-05T04"
   }
 ]

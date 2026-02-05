@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 32375,
-    "speed": 495,
-    "timestamp": "2026-02-05T04:12:30.422Z",
-    "lat": 45.6154,
-    "lon": -122.5574,
+    "distance": 1.32,
+    "altitude": 34000,
+    "speed": 469,
+    "timestamp": "2026-02-05T04:15:11.914Z",
+    "lat": 45.6213,
+    "lon": -122.5591,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2019",
-    "aircraftType": "737",
+    "callsign": "SKW3991",
+    "aircraftType": "E175",
     "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T04:12:30.420Z"
+    "firstSeen": "2026-02-05T04:15:11.911Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.32,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-05T04:13:28.645Z"
+  "timestamp": "2026-02-05T04:16:09.641Z"
 }
