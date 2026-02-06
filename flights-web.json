@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.9,
-    "altitude": 35625,
-    "speed": 503,
-    "timestamp": "2026-02-06T05:24:52.415Z",
-    "lat": 45.6235,
-    "lon": -122.5069,
-    "precision": "tracked"
+    "distance": 0.46,
+    "altitude": 3300,
+    "speed": 94,
+    "timestamp": "2026-02-06T05:28:32.936Z",
+    "lat": 45.6328,
+    "lon": -122.5303,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA530",
-    "aircraftType": "737",
-    "origin": "BUR",
-    "destination": "SEA",
-    "firstSeen": "2026-02-06T05:24:52.411Z"
+    "callsign": "N5107H",
+    "aircraftType": "C172",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-06T05:27:23.903Z"
   },
-  "overheadScore": 0.9,
+  "overheadScore": 0.46,
   "isOverhead": true,
-  "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T05:25:51.245Z"
+  "pathSnapshots": 4,
+  "status": "tracking",
+  "timestamp": "2026-02-06T05:28:43.218Z"
 }

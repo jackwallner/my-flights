@@ -16237,5 +16237,25 @@
     "initialAltitude": 35625,
     "initialSpeed": 503,
     "_sessionKey": "ASA530_2026-02-06T05"
+  },
+  {
+    "callsign": "N5107H",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A664C4",
+    "registration": "N5107H",
+    "firstSeen": "2026-02-06T05:27:23.903Z",
+    "lastSeen": "2026-02-06T05:28:43.214Z",
+    "duration": 79,
+    "closestDistance": 0.4607326672711458,
+    "closestAltitude": 3300,
+    "closestSpeed": 94,
+    "initialDistance": 1.4436272753243113,
+    "initialAltitude": 2800,
+    "initialSpeed": 82,
+    "_sessionKey": "N5107H_2026-02-06T05"
   }
 ]
