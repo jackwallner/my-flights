@@ -15737,5 +15737,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 497,
     "_sessionKey": "ABX3111_2026-02-06T03"
+  },
+  {
+    "callsign": "ASA552",
+    "flightNumber": "AS552",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AD928B",
+    "registration": "N974AK",
+    "firstSeen": "2026-02-06T03:24:06.302Z",
+    "lastSeen": "2026-02-06T03:24:06.302Z",
+    "duration": 0,
+    "closestDistance": 0.7907323117036205,
+    "closestAltitude": 35875,
+    "closestSpeed": 493,
+    "initialDistance": 0.7907323117036205,
+    "initialAltitude": 35875,
+    "initialSpeed": 493,
+    "_sessionKey": "ASA552_2026-02-06T03"
   }
 ]

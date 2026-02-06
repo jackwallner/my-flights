@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 36000,
-    "speed": 497,
-    "timestamp": "2026-02-06T03:22:46.527Z",
-    "lat": 45.6168,
-    "lon": -122.558,
+    "distance": 0.79,
+    "altitude": 35875,
+    "speed": 493,
+    "timestamp": "2026-02-06T03:24:06.305Z",
+    "lat": 45.6277,
+    "lon": -122.5096,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ABX3111",
-    "aircraftType": "767",
-    "origin": "SCK",
+    "callsign": "ASA552",
+    "aircraftType": "B39M",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T03:22:46.523Z"
+    "firstSeen": "2026-02-06T03:24:06.302Z"
   },
-  "overheadScore": 1.35,
-  "isOverhead": false,
+  "overheadScore": 0.79,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T03:23:45.573Z"
+  "timestamp": "2026-02-06T03:25:04.477Z"
 }
