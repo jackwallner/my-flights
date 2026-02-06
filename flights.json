@@ -15537,5 +15537,25 @@
     "initialAltitude": 33400,
     "initialSpeed": 486,
     "_sessionKey": "ASA1359_2026-02-06T02"
+  },
+  {
+    "callsign": "ABX414",
+    "flightNumber": "GB414",
+    "aircraftType": "B763",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "SEA",
+    "icao": "AA41C4",
+    "registration": "N760CK",
+    "firstSeen": "2026-02-06T02:31:04.926Z",
+    "lastSeen": "2026-02-06T02:31:04.926Z",
+    "duration": 0,
+    "closestDistance": 1.2028998552793881,
+    "closestAltitude": 6175,
+    "closestSpeed": 253,
+    "initialDistance": 1.2028998552793881,
+    "initialAltitude": 6175,
+    "initialSpeed": 253,
+    "_sessionKey": "ABX414_2026-02-06T02"
   }
 ]

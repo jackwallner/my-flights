@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.44,
-    "altitude": 33400,
-    "speed": 486,
-    "timestamp": "2026-02-06T02:28:02.915Z",
-    "lat": 45.6303,
-    "lon": -122.5617,
+    "distance": 1.2,
+    "altitude": 6175,
+    "speed": 253,
+    "timestamp": "2026-02-06T02:31:04.930Z",
+    "lat": 45.6159,
+    "lon": -122.5028,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1359",
-    "aircraftType": "737",
-    "origin": "OAK",
+    "callsign": "ABX414",
+    "aircraftType": "767",
+    "origin": "PDX",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T02:28:02.911Z"
+    "firstSeen": "2026-02-06T02:31:04.926Z"
   },
-  "overheadScore": 1.44,
+  "overheadScore": 1.2,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T02:29:01.199Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T02:31:04.930Z"
 }
