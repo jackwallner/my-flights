@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.41,
-    "altitude": 38000,
-    "speed": 474,
-    "timestamp": "2026-02-06T16:09:40.027Z",
-    "lat": 45.6134,
-    "lon": -122.5572,
+    "distance": 0.98,
+    "altitude": 35975,
+    "speed": 491,
+    "timestamp": "2026-02-06T16:14:45.550Z",
+    "lat": 45.6215,
+    "lon": -122.5055,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA4045",
+    "callsign": "ASA323",
     "aircraftType": "737",
-    "origin": "SJC",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T16:09:40.023Z"
+    "firstSeen": "2026-02-06T16:14:45.547Z"
   },
-  "overheadScore": 1.41,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T16:10:38.268Z"
+  "overheadScore": 0.98,
+  "isOverhead": true,
+  "pathSnapshots": 2,
+  "status": "tracking",
+  "timestamp": "2026-02-06T16:15:43.699Z"
 }
