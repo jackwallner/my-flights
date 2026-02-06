@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 35250,
-    "speed": 504,
-    "timestamp": "2026-02-06T18:36:45.104Z",
-    "lat": 45.6265,
-    "lon": -122.5605,
+    "distance": 1.26,
+    "altitude": 1800,
+    "speed": 153,
+    "timestamp": "2026-02-06T18:55:34.643Z",
+    "lat": 45.6053,
+    "lon": -122.5376,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2340",
-    "aircraftType": "B39M",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-06T18:36:45.101Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-06T18:55:34.641Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.26,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T18:37:43.238Z"
+  "timestamp": "2026-02-06T18:56:32.581Z"
 }

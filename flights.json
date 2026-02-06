@@ -17097,5 +17097,25 @@
     "initialAltitude": 35250,
     "initialSpeed": 504,
     "_sessionKey": "UAL2340_2026-02-06T18"
+  },
+  {
+    "callsign": "N724KP",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A9B357",
+    "registration": "N724KP",
+    "firstSeen": "2026-02-06T18:55:34.641Z",
+    "lastSeen": "2026-02-06T18:55:34.641Z",
+    "duration": 0,
+    "closestDistance": 1.2640835569211701,
+    "closestAltitude": 1800,
+    "closestSpeed": 153,
+    "initialDistance": 1.2640835569211701,
+    "initialAltitude": 1800,
+    "initialSpeed": 153,
+    "_sessionKey": "N724KP_2026-02-06T18"
   }
 ]
