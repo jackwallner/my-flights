@@ -15937,5 +15937,25 @@
     "initialAltitude": 36675,
     "initialSpeed": 491,
     "_sessionKey": "DAL1922_2026-02-06T03"
+  },
+  {
+    "callsign": "QXE2230",
+    "flightNumber": "AS2230",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SBP",
+    "destination": "SEA",
+    "icao": "A842E7",
+    "registration": "N631QX",
+    "firstSeen": "2026-02-06T04:10:27.220Z",
+    "lastSeen": "2026-02-06T04:10:27.220Z",
+    "duration": 0,
+    "closestDistance": 1.343845205840235,
+    "closestAltitude": 36000,
+    "closestSpeed": 483,
+    "initialDistance": 1.343845205840235,
+    "initialAltitude": 36000,
+    "initialSpeed": 483,
+    "_sessionKey": "QXE2230_2026-02-06T04"
   }
 ]

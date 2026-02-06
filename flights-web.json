@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 36675,
-    "speed": 491,
-    "timestamp": "2026-02-06T03:49:44.550Z",
-    "lat": 45.614,
-    "lon": -122.5004,
+    "distance": 1.34,
+    "altitude": 36000,
+    "speed": 483,
+    "timestamp": "2026-02-06T04:10:27.225Z",
+    "lat": 45.6187,
+    "lon": -122.5587,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1922",
-    "aircraftType": "737",
-    "origin": "PVR",
+    "callsign": "QXE2230",
+    "aircraftType": "E175",
+    "origin": "SBP",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T03:49:44.546Z"
+    "firstSeen": "2026-02-06T04:10:27.220Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.34,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T03:50:42.374Z"
+  "timestamp": "2026-02-06T04:11:25.358Z"
 }
