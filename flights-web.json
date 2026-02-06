@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 33025,
-    "speed": 492,
-    "timestamp": "2026-02-06T00:32:39.994Z",
-    "lat": 45.6136,
-    "lon": -122.5003,
+    "distance": 1.47,
+    "altitude": 35825,
+    "speed": 483,
+    "timestamp": "2026-02-06T00:38:54.649Z",
+    "lat": 45.6116,
+    "lon": -122.557,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2585",
-    "aircraftType": "737",
-    "origin": "PSP",
+    "callsign": "SWA1983",
+    "aircraftType": "B737",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T00:32:39.991Z"
+    "firstSeen": "2026-02-06T00:38:54.645Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.47,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T00:33:38.994Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T00:38:54.649Z"
 }
