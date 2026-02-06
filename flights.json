@@ -15237,5 +15237,25 @@
     "initialAltitude": 31575,
     "initialSpeed": 492,
     "_sessionKey": "ASA760_2026-02-06T01"
+  },
+  {
+    "callsign": "UAL2279",
+    "flightNumber": "UA2279",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A44916",
+    "registration": "N37521",
+    "firstSeen": "2026-02-06T01:30:32.323Z",
+    "lastSeen": "2026-02-06T01:30:32.323Z",
+    "duration": 0,
+    "closestDistance": 1.4237908944819548,
+    "closestAltitude": 36000,
+    "closestSpeed": 510,
+    "initialDistance": 1.4237908944819548,
+    "initialAltitude": 36000,
+    "initialSpeed": 510,
+    "_sessionKey": "UAL2279_2026-02-06T01"
   }
 ]

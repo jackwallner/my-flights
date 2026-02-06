@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.04,
-    "altitude": 31575,
-    "speed": 492,
-    "timestamp": "2026-02-06T01:23:01.821Z",
-    "lat": 45.6415,
-    "lon": -122.5193,
+    "distance": 1.42,
+    "altitude": 36000,
+    "speed": 510,
+    "timestamp": "2026-02-06T01:30:32.326Z",
+    "lat": 45.6298,
+    "lon": -122.5614,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA760",
-    "aircraftType": "737 ",
-    "origin": "SNA",
+    "callsign": "UAL2279",
+    "aircraftType": "B39M",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T01:23:01.817Z"
+    "firstSeen": "2026-02-06T01:30:32.323Z"
   },
-  "overheadScore": 1.04,
+  "overheadScore": 1.42,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T01:24:00.865Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T01:30:32.326Z"
 }
