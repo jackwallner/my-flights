@@ -17077,5 +17077,25 @@
     "initialAltitude": 31600,
     "initialSpeed": 506,
     "_sessionKey": "VJA650_2026-02-06T18"
+  },
+  {
+    "callsign": "UAL2340",
+    "flightNumber": "UA2340",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AA7F48",
+    "registration": "N77592",
+    "firstSeen": "2026-02-06T18:36:45.101Z",
+    "lastSeen": "2026-02-06T18:36:45.101Z",
+    "duration": 0,
+    "closestDistance": 1.3619142205019759,
+    "closestAltitude": 35250,
+    "closestSpeed": 504,
+    "initialDistance": 1.3619142205019759,
+    "initialAltitude": 35250,
+    "initialSpeed": 504,
+    "_sessionKey": "UAL2340_2026-02-06T18"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.87,
-    "altitude": 31600,
-    "speed": 506,
-    "timestamp": "2026-02-06T18:23:55.431Z",
-    "lat": 45.6135,
-    "lon": -122.54,
+    "distance": 1.36,
+    "altitude": 35250,
+    "speed": 504,
+    "timestamp": "2026-02-06T18:36:45.104Z",
+    "lat": 45.6265,
+    "lon": -122.5605,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "VJA650",
-    "aircraftType": "E35L",
-    "origin": "VNY",
-    "destination": "BFI",
-    "firstSeen": "2026-02-06T18:23:55.427Z"
+    "callsign": "UAL2340",
+    "aircraftType": "B39M",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T18:36:45.101Z"
   },
-  "overheadScore": 0.87,
-  "isOverhead": true,
+  "overheadScore": 1.36,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T18:24:54.106Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T18:36:45.104Z"
 }
