@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.18,
-    "altitude": 35850,
-    "speed": 479,
-    "timestamp": "2026-02-06T00:21:39.354Z",
-    "lat": 45.6172,
-    "lon": -122.5026,
+    "distance": 1.4,
+    "altitude": 32075,
+    "speed": 482,
+    "timestamp": "2026-02-06T00:26:35.696Z",
+    "lat": 45.6129,
+    "lon": -122.5,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6278",
-    "aircraftType": "E175",
-    "origin": "PHX",
+    "callsign": "ASA622",
+    "aircraftType": "737",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T00:21:39.351Z"
+    "firstSeen": "2026-02-06T00:26:35.692Z"
   },
-  "overheadScore": 1.18,
+  "overheadScore": 1.4,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T00:22:37.832Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T00:26:35.696Z"
 }

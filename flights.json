@@ -15037,5 +15037,25 @@
     "initialAltitude": 35850,
     "initialSpeed": 479,
     "_sessionKey": "SKW6278_2026-02-06T00"
+  },
+  {
+    "callsign": "ASA622",
+    "flightNumber": "AS622",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A7A89D",
+    "registration": "N593AS",
+    "firstSeen": "2026-02-06T00:26:35.692Z",
+    "lastSeen": "2026-02-06T00:26:35.692Z",
+    "duration": 0,
+    "closestDistance": 1.395046156703398,
+    "closestAltitude": 32075,
+    "closestSpeed": 482,
+    "initialDistance": 1.395046156703398,
+    "initialAltitude": 32075,
+    "initialSpeed": 482,
+    "_sessionKey": "ASA622_2026-02-06T00"
   }
 ]
