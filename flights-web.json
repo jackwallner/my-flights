@@ -6,7 +6,7 @@
     "timestamp": "2026-02-06T20:38:48.970Z",
     "lat": 45.6275,
     "lon": -122.5313,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N519F",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.19,
   "isOverhead": true,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-06T20:38:48.970Z"
+  "pathSnapshots": 8,
+  "status": "completed",
+  "timestamp": "2026-02-06T20:40:58.963Z"
 }
