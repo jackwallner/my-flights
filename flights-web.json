@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 34000,
-    "speed": 488,
-    "timestamp": "2026-02-06T05:07:49.046Z",
-    "lat": 45.619,
-    "lon": -122.5585,
+    "distance": 0.99,
+    "altitude": 36000,
+    "speed": 490,
+    "timestamp": "2026-02-06T05:10:09.444Z",
+    "lat": 45.621,
+    "lon": -122.5053,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3991",
+    "callsign": "QXE2031",
     "aircraftType": "E175",
-    "origin": "SFO",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T05:07:49.042Z"
+    "firstSeen": "2026-02-06T05:10:09.439Z"
   },
-  "overheadScore": 1.33,
-  "isOverhead": false,
+  "overheadScore": 0.99,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-06T05:07:49.046Z"
+  "timestamp": "2026-02-06T05:10:09.444Z"
 }
