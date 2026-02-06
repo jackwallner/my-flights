@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 1375,
-    "speed": 87,
-    "timestamp": "2026-02-06T05:43:19.268Z",
-    "lat": 45.6277,
-    "lon": -122.5255,
-    "precision": "high"
+    "distance": 1.35,
+    "altitude": 38000,
+    "speed": 504,
+    "timestamp": "2026-02-06T06:26:12.442Z",
+    "lat": 45.6139,
+    "lon": -122.5004,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": "PDX",
-    "firstSeen": "2026-02-06T05:42:20.612Z"
+    "callsign": "ASA708",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T06:26:12.437Z"
   },
-  "overheadScore": 0.18,
-  "isOverhead": true,
-  "pathSnapshots": 6,
-  "status": "completed",
-  "timestamp": "2026-02-06T05:44:10.681Z"
+  "overheadScore": 1.35,
+  "isOverhead": false,
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-06T06:26:12.442Z"
 }
