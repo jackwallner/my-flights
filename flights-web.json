@@ -1,11 +1,11 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 400,
-    "speed": 62,
-    "timestamp": "2026-02-06T20:38:48.970Z",
-    "lat": 45.6275,
-    "lon": -122.5313,
+    "distance": 0.48,
+    "altitude": 600,
+    "speed": 74,
+    "timestamp": "2026-02-06T20:48:58.861Z",
+    "lat": 45.6271,
+    "lon": -122.5392,
     "precision": "high"
   },
   "flight": {
@@ -13,11 +13,11 @@
     "aircraftType": "CH7B",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-06T20:38:48.966Z"
+    "firstSeen": "2026-02-06T20:47:39.713Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.48,
   "isOverhead": true,
-  "pathSnapshots": 8,
-  "status": "completed",
-  "timestamp": "2026-02-06T20:40:58.963Z"
+  "pathSnapshots": 6,
+  "status": "tracking",
+  "timestamp": "2026-02-06T20:49:20.097Z"
 }
