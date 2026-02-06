@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 1100,
-    "speed": 88,
-    "timestamp": "2026-02-06T17:45:37.768Z",
-    "lat": 45.6072,
-    "lon": -122.5472,
-    "precision": "tracked"
+    "distance": 0.27,
+    "altitude": 1500,
+    "speed": 92,
+    "timestamp": "2026-02-06T17:46:35.982Z",
+    "lat": 45.6284,
+    "lon": -122.5326,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N345SW",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-06T17:45:37.765Z"
   },
-  "overheadScore": 1.35,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-06T17:45:37.768Z"
+  "overheadScore": 0.27,
+  "isOverhead": true,
+  "pathSnapshots": 6,
+  "status": "completed",
+  "timestamp": "2026-02-06T17:47:27.377Z"
 }
