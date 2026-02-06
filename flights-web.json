@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.27,
-    "altitude": 2000,
-    "speed": 94,
-    "timestamp": "2026-02-06T22:15:41.823Z",
-    "lat": 45.606,
-    "lon": -122.5405,
-    "precision": "tracked"
+    "distance": 0.62,
+    "altitude": 2800,
+    "speed": 107,
+    "timestamp": "2026-02-06T22:16:40.289Z",
+    "lat": 45.6249,
+    "lon": -122.5133,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N5436E",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-06T22:15:41.820Z"
   },
-  "overheadScore": 1.27,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-06T22:15:41.823Z"
+  "overheadScore": 0.62,
+  "isOverhead": true,
+  "pathSnapshots": 5,
+  "status": "completed",
+  "timestamp": "2026-02-06T22:17:21.404Z"
 }
