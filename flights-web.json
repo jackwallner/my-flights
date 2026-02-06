@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.12,
-    "altitude": 32000,
-    "speed": 490,
-    "timestamp": "2026-02-06T01:34:40.531Z",
-    "lat": 45.6316,
-    "lon": -122.503,
+    "distance": 0.7,
+    "altitude": 33975,
+    "speed": 484,
+    "timestamp": "2026-02-06T01:35:42.303Z",
+    "lat": 45.6232,
+    "lon": -122.5117,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2572",
-    "aircraftType": "A223",
-    "origin": "SAN",
+    "callsign": "DAL1412",
+    "aircraftType": "A220",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T01:34:40.528Z"
+    "firstSeen": "2026-02-06T01:35:42.301Z"
   },
-  "overheadScore": 1.12,
-  "isOverhead": false,
-  "pathSnapshots": 1,
+  "overheadScore": 0.7,
+  "isOverhead": true,
+  "pathSnapshots": 2,
   "status": "tracking",
-  "timestamp": "2026-02-06T01:34:40.531Z"
+  "timestamp": "2026-02-06T01:36:40.425Z"
 }
