@@ -15057,5 +15057,25 @@
     "initialAltitude": 32075,
     "initialSpeed": 482,
     "_sessionKey": "ASA622_2026-02-06T00"
+  },
+  {
+    "callsign": "ASA687",
+    "flightNumber": "AS687",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SBA",
+    "destination": "SEA",
+    "icao": "AAED0C",
+    "registration": "N803AK",
+    "firstSeen": "2026-02-06T00:29:58.949Z",
+    "lastSeen": "2026-02-06T00:29:58.949Z",
+    "duration": 0,
+    "closestDistance": 1.3915211815706348,
+    "closestAltitude": 33175,
+    "closestSpeed": 494,
+    "initialDistance": 1.3915211815706348,
+    "initialAltitude": 33175,
+    "initialSpeed": 494,
+    "_sessionKey": "ASA687_2026-02-06T00"
   }
 ]
