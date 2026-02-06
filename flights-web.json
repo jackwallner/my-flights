@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 550,
-    "speed": 81,
-    "timestamp": "2026-02-06T20:16:51.998Z",
-    "lat": 45.6259,
-    "lon": -122.538,
-    "precision": "high"
+    "distance": 0.27,
+    "altitude": 1300,
+    "speed": 116,
+    "timestamp": "2026-02-06T20:17:53.606Z",
+    "lat": 45.6283,
+    "lon": -122.5329,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N505PD",
-    "aircraftType": "C182",
+    "callsign": "N799AC",
+    "aircraftType": "C206",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-06T20:15:33.125Z"
+    "firstSeen": "2026-02-06T20:17:53.601Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.27,
   "isOverhead": true,
-  "pathSnapshots": 6,
-  "status": "tracking",
-  "timestamp": "2026-02-06T20:17:12.539Z"
+  "pathSnapshots": 1,
+  "status": "completed",
+  "timestamp": "2026-02-06T20:18:51.263Z"
 }
