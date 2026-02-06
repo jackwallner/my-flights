@@ -17677,5 +17677,25 @@
     "initialAltitude": 35750,
     "initialSpeed": 471,
     "_sessionKey": "DAL1045_2026-02-06T21"
+  },
+  {
+    "callsign": "ASA1388",
+    "flightNumber": "AS1388",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "A2EBBD",
+    "registration": "N288AK",
+    "firstSeen": "2026-02-06T21:48:21.745Z",
+    "lastSeen": "2026-02-06T21:48:21.745Z",
+    "duration": 0,
+    "closestDistance": 0.7992989811722417,
+    "closestAltitude": 36000,
+    "closestSpeed": 475,
+    "initialDistance": 0.7992989811722417,
+    "initialAltitude": 36000,
+    "initialSpeed": 475,
+    "_sessionKey": "ASA1388_2026-02-06T21"
   }
 ]
