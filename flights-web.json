@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.19,
-    "altitude": 3875,
-    "speed": 148,
-    "timestamp": "2026-02-06T22:47:58.278Z",
-    "lat": 45.6451,
-    "lon": -122.5276,
+    "distance": 1.38,
+    "altitude": 30000,
+    "speed": 488,
+    "timestamp": "2026-02-06T22:53:16.958Z",
+    "lat": 45.6153,
+    "lon": -122.5578,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N723KP",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-06T22:46:59.545Z"
+    "callsign": "UAL1008",
+    "aircraftType": "A320",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T22:53:16.955Z"
   },
-  "overheadScore": 1.19,
+  "overheadScore": 1.38,
   "isOverhead": false,
-  "pathSnapshots": 2,
-  "status": "completed",
-  "timestamp": "2026-02-06T22:48:08.520Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-06T22:53:16.958Z"
 }

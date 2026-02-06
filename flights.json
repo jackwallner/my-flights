@@ -17877,5 +17877,25 @@
     "initialAltitude": 2200,
     "initialSpeed": 134,
     "_sessionKey": "N723KP_2026-02-06T22"
+  },
+  {
+    "callsign": "UAL1008",
+    "flightNumber": "UA1008",
+    "aircraftType": "A320",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A61592",
+    "registration": "N491UA",
+    "firstSeen": "2026-02-06T22:53:16.955Z",
+    "lastSeen": "2026-02-06T22:53:16.955Z",
+    "duration": 0,
+    "closestDistance": 1.383233712133033,
+    "closestAltitude": 30000,
+    "closestSpeed": 488,
+    "initialDistance": 1.383233712133033,
+    "initialAltitude": 30000,
+    "initialSpeed": 488,
+    "_sessionKey": "UAL1008_2026-02-06T22"
   }
 ]
