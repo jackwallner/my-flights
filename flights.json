@@ -15597,5 +15597,25 @@
     "initialAltitude": 1700,
     "initialSpeed": 154,
     "_sessionKey": "N724KP_2026-02-06T02"
+  },
+  {
+    "callsign": "EJA983",
+    "flightNumber": null,
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": null,
+    "icao": "ADB7B8",
+    "registration": "N983QS",
+    "firstSeen": "2026-02-06T02:45:41.014Z",
+    "lastSeen": "2026-02-06T02:45:41.014Z",
+    "duration": 0,
+    "closestDistance": 1.0762414105090472,
+    "closestAltitude": 43000,
+    "closestSpeed": 457,
+    "initialDistance": 1.0762414105090472,
+    "initialAltitude": 43000,
+    "initialSpeed": 457,
+    "_sessionKey": "EJA983_2026-02-06T02"
   }
 ]
