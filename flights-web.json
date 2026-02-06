@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.71,
-    "altitude": 2225,
-    "speed": 118,
-    "timestamp": "2026-02-06T19:18:33.547Z",
-    "lat": 45.6289,
-    "lon": -122.512,
-    "precision": "high"
+    "distance": 1.17,
+    "altitude": 35875,
+    "speed": 468,
+    "timestamp": "2026-02-06T19:31:04.497Z",
+    "lat": 45.6062,
+    "lon": -122.534,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
+    "callsign": "LOST03",
+    "aircraftType": "C560",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-06T19:17:35.805Z"
+    "firstSeen": "2026-02-06T19:31:04.493Z"
   },
-  "overheadScore": 0.71,
-  "isOverhead": true,
-  "pathSnapshots": 4,
+  "overheadScore": 1.17,
+  "isOverhead": false,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T19:19:04.355Z"
+  "timestamp": "2026-02-06T19:32:03.194Z"
 }

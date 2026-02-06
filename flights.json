@@ -17157,5 +17157,25 @@
     "initialAltitude": 3050,
     "initialSpeed": 127,
     "_sessionKey": "N9185H_2026-02-06T19"
+  },
+  {
+    "callsign": "LOST03",
+    "flightNumber": null,
+    "aircraftType": "C560",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "ADFEBE",
+    "registration": "96-0108",
+    "firstSeen": "2026-02-06T19:31:04.493Z",
+    "lastSeen": "2026-02-06T19:31:04.493Z",
+    "duration": 0,
+    "closestDistance": 1.1719837721019322,
+    "closestAltitude": 35875,
+    "closestSpeed": 468,
+    "initialDistance": 1.1719837721019322,
+    "initialAltitude": 35875,
+    "initialSpeed": 468,
+    "_sessionKey": "LOST03_2026-02-06T19"
   }
 ]
