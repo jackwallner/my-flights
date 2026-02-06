@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.74,
-    "altitude": 35950,
-    "speed": 472,
-    "timestamp": "2026-02-06T17:10:10.458Z",
-    "lat": 45.6313,
-    "lon": -122.5127,
+    "distance": 1.32,
+    "altitude": 34000,
+    "speed": 510,
+    "timestamp": "2026-02-06T17:13:12.721Z",
+    "lat": 45.6214,
+    "lon": -122.5591,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2530",
+    "callsign": "DAL2980",
     "aircraftType": "737",
-    "origin": "SAN",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T17:10:10.455Z"
+    "firstSeen": "2026-02-06T17:13:12.716Z"
   },
-  "overheadScore": 0.74,
-  "isOverhead": true,
+  "overheadScore": 1.32,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T17:11:09.034Z"
+  "timestamp": "2026-02-06T17:14:11.179Z"
 }
