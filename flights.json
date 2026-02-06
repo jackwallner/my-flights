@@ -15917,5 +15917,25 @@
     "initialAltitude": 35575,
     "initialSpeed": 495,
     "_sessionKey": "ASA758_2026-02-06T03"
+  },
+  {
+    "callsign": "DAL1922",
+    "flightNumber": "DL1922",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "PVR",
+    "destination": "SEA",
+    "icao": "A445D9",
+    "registration": "N3746H",
+    "firstSeen": "2026-02-06T03:49:44.546Z",
+    "lastSeen": "2026-02-06T03:49:44.546Z",
+    "duration": 0,
+    "closestDistance": 1.3464495654869812,
+    "closestAltitude": 36675,
+    "closestSpeed": 491,
+    "initialDistance": 1.3464495654869812,
+    "initialAltitude": 36675,
+    "initialSpeed": 491,
+    "_sessionKey": "DAL1922_2026-02-06T03"
   }
 ]

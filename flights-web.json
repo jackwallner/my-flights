@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 35575,
-    "speed": 495,
-    "timestamp": "2026-02-06T03:46:41.829Z",
-    "lat": 45.6265,
-    "lon": -122.5605,
+    "distance": 1.35,
+    "altitude": 36675,
+    "speed": 491,
+    "timestamp": "2026-02-06T03:49:44.550Z",
+    "lat": 45.614,
+    "lon": -122.5004,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA758",
-    "aircraftType": "737 ",
-    "origin": "SFO",
+    "callsign": "DAL1922",
+    "aircraftType": "737",
+    "origin": "PVR",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T03:46:41.826Z"
+    "firstSeen": "2026-02-06T03:49:44.546Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.35,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T03:47:40.720Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T03:49:44.550Z"
 }
