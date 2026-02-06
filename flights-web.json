@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 36000,
-    "speed": 470,
-    "timestamp": "2026-02-06T03:33:02.713Z",
-    "lat": 45.6266,
-    "lon": -122.5605,
+    "distance": 0.88,
+    "altitude": 34000,
+    "speed": 483,
+    "timestamp": "2026-02-06T03:45:32.789Z",
+    "lat": 45.6241,
+    "lon": -122.5073,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4049",
-    "aircraftType": "E175",
-    "origin": "SMF",
+    "callsign": "ASA84",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T03:33:02.711Z"
+    "firstSeen": "2026-02-06T03:45:32.785Z"
   },
-  "overheadScore": 1.36,
-  "isOverhead": false,
+  "overheadScore": 0.88,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T03:34:01.443Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T03:45:32.789Z"
 }
