@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.98,
-    "altitude": 35975,
-    "speed": 491,
-    "timestamp": "2026-02-06T16:14:45.550Z",
-    "lat": 45.6215,
-    "lon": -122.5055,
-    "precision": "tracked"
+    "distance": 1.08,
+    "altitude": 2825,
+    "speed": 71,
+    "timestamp": "2026-02-06T16:15:43.699Z",
+    "lat": 45.6388,
+    "lon": -122.545,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA323",
-    "aircraftType": "737",
-    "origin": "RNO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-06T16:14:45.547Z"
+    "callsign": "N18586",
+    "aircraftType": "C150",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-06T16:15:43.695Z"
   },
-  "overheadScore": 0.98,
-  "isOverhead": true,
-  "pathSnapshots": 2,
-  "status": "tracking",
-  "timestamp": "2026-02-06T16:15:43.699Z"
+  "overheadScore": 1.08,
+  "isOverhead": false,
+  "pathSnapshots": 3,
+  "status": "completed",
+  "timestamp": "2026-02-06T16:17:02.019Z"
 }
