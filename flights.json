@@ -16977,5 +16977,25 @@
     "initialAltitude": 35175,
     "initialSpeed": 483,
     "_sessionKey": "BE40_2026-02-06T18"
+  },
+  {
+    "callsign": "ASA479",
+    "flightNumber": "AS479",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A720EB",
+    "registration": "N559AS",
+    "firstSeen": "2026-02-06T18:15:54.861Z",
+    "lastSeen": "2026-02-06T18:15:54.861Z",
+    "duration": 0,
+    "closestDistance": 1.064349167569253,
+    "closestAltitude": 35950,
+    "closestSpeed": 488,
+    "initialDistance": 1.064349167569253,
+    "initialAltitude": 35950,
+    "initialSpeed": 488,
+    "_sessionKey": "ASA479_2026-02-06T18"
   }
 ]

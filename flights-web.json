@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.73,
-    "altitude": 35175,
-    "speed": 483,
-    "timestamp": "2026-02-06T18:06:11.509Z",
-    "lat": 45.6285,
-    "lon": -122.5114,
+    "distance": 1.06,
+    "altitude": 35950,
+    "speed": 488,
+    "timestamp": "2026-02-06T18:15:54.865Z",
+    "lat": 45.6194,
+    "lon": -122.5042,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BE40",
-    "aircraftType": "BE40",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-06T18:06:11.506Z"
+    "callsign": "ASA479",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T18:15:54.861Z"
   },
-  "overheadScore": 0.73,
-  "isOverhead": true,
+  "overheadScore": 1.06,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T18:07:10.132Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T18:15:54.865Z"
 }
