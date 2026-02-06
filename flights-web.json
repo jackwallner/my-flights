@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.81,
-    "altitude": 2650,
-    "speed": 133,
-    "timestamp": "2026-02-06T22:12:19.736Z",
-    "lat": 45.6385,
-    "lon": -122.5246,
+    "distance": 1.27,
+    "altitude": 2000,
+    "speed": 94,
+    "timestamp": "2026-02-06T22:15:41.823Z",
+    "lat": 45.606,
+    "lon": -122.5405,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N444AN",
-    "aircraftType": "S22T",
+    "callsign": "N5436E",
+    "aircraftType": "C172",
     "origin": "PDX",
-    "destination": "GEG",
-    "firstSeen": "2026-02-06T22:12:19.734Z"
+    "destination": null,
+    "firstSeen": "2026-02-06T22:15:41.820Z"
   },
-  "overheadScore": 0.81,
-  "isOverhead": true,
+  "overheadScore": 1.27,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T22:13:17.905Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T22:15:41.823Z"
 }

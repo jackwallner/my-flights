@@ -17777,5 +17777,25 @@
     "initialAltitude": 2650,
     "initialSpeed": 133,
     "_sessionKey": "N444AN_2026-02-06T22"
+  },
+  {
+    "callsign": "N5436E",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A6E640",
+    "registration": "N5436E",
+    "firstSeen": "2026-02-06T22:15:41.820Z",
+    "lastSeen": "2026-02-06T22:15:41.820Z",
+    "duration": 0,
+    "closestDistance": 1.2691443565508482,
+    "closestAltitude": 2000,
+    "closestSpeed": 94,
+    "initialDistance": 1.2691443565508482,
+    "initialAltitude": 2000,
+    "initialSpeed": 94,
+    "_sessionKey": "N5436E_2026-02-06T22"
   }
 ]
