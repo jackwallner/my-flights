@@ -15157,5 +15157,25 @@
     "initialAltitude": 27800,
     "initialSpeed": 482,
     "_sessionKey": "SKW6481_2026-02-06T00"
+  },
+  {
+    "callsign": "ASA745",
+    "flightNumber": "AS745",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AD727A",
+    "registration": "N966AK",
+    "firstSeen": "2026-02-06T01:01:36.820Z",
+    "lastSeen": "2026-02-06T01:01:36.820Z",
+    "duration": 0,
+    "closestDistance": 1.37000983266744,
+    "closestAltitude": 31700,
+    "closestSpeed": 488,
+    "initialDistance": 1.37000983266744,
+    "initialAltitude": 31700,
+    "initialSpeed": 488,
+    "_sessionKey": "ASA745_2026-02-06T01"
   }
 ]

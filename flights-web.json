@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.93,
-    "altitude": 27800,
-    "speed": 482,
-    "timestamp": "2026-02-06T00:42:47.983Z",
-    "lat": 45.6221,
-    "lon": -122.5064,
+    "distance": 1.37,
+    "altitude": 31700,
+    "speed": 488,
+    "timestamp": "2026-02-06T01:01:36.823Z",
+    "lat": 45.6168,
+    "lon": -122.5584,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6481",
-    "aircraftType": "CRJ",
-    "origin": "LAX",
+    "callsign": "ASA745",
+    "aircraftType": "B39M",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T00:42:47.980Z"
+    "firstSeen": "2026-02-06T01:01:36.820Z"
   },
-  "overheadScore": 0.93,
-  "isOverhead": true,
+  "overheadScore": 1.37,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T00:43:46.295Z"
+  "timestamp": "2026-02-06T01:02:34.954Z"
 }
