@@ -17857,5 +17857,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 479,
     "_sessionKey": "SWA4764_2026-02-06T22"
+  },
+  {
+    "callsign": "N723KP",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A9AFA0",
+    "registration": "N723KP",
+    "firstSeen": "2026-02-06T22:46:59.545Z",
+    "lastSeen": "2026-02-06T22:47:58.275Z",
+    "duration": 59,
+    "closestDistance": 1.1901698693326959,
+    "closestAltitude": 3875,
+    "closestSpeed": 148,
+    "initialDistance": 1.2896603163816303,
+    "initialAltitude": 2200,
+    "initialSpeed": 134,
+    "_sessionKey": "N723KP_2026-02-06T22"
   }
 ]
