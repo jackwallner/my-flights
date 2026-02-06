@@ -15637,5 +15637,25 @@
     "initialAltitude": 37825,
     "initialSpeed": 498,
     "_sessionKey": "DAL1837_2026-02-06T02"
+  },
+  {
+    "callsign": "FFT1177",
+    "flightNumber": "F91177",
+    "aircraftType": "A21N",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A8C759",
+    "registration": "N665FR",
+    "firstSeen": "2026-02-06T02:58:57.166Z",
+    "lastSeen": "2026-02-06T02:58:57.166Z",
+    "duration": 0,
+    "closestDistance": 1.3824038929287388,
+    "closestAltitude": 34000,
+    "closestSpeed": 489,
+    "initialDistance": 1.3824038929287388,
+    "initialAltitude": 34000,
+    "initialSpeed": 489,
+    "_sessionKey": "FFT1177_2026-02-06T02"
   }
 ]
