@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.49,
-    "altitude": 1350,
-    "speed": 144,
-    "timestamp": "2026-02-06T21:27:10.283Z",
-    "lat": 45.6005,
-    "lon": -122.5303,
+    "distance": 1.46,
+    "altitude": 35700,
+    "speed": 504,
+    "timestamp": "2026-02-06T21:42:31.891Z",
+    "lat": 45.6314,
+    "lon": -122.5617,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N55EL",
-    "aircraftType": "RV6",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-06T21:27:10.279Z"
+    "callsign": "DAL8871",
+    "aircraftType": "A330",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T21:42:31.887Z"
   },
-  "overheadScore": 1.49,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T21:28:08.023Z"
+  "timestamp": "2026-02-06T21:43:30.029Z"
 }

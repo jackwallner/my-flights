@@ -17617,5 +17617,25 @@
     "initialAltitude": 1350,
     "initialSpeed": 144,
     "_sessionKey": "N55EL_2026-02-06T21"
+  },
+  {
+    "callsign": "DAL8871",
+    "flightNumber": "DL8871",
+    "aircraftType": "A332",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "ABB775",
+    "registration": "N854NW",
+    "firstSeen": "2026-02-06T21:42:31.887Z",
+    "lastSeen": "2026-02-06T21:42:31.887Z",
+    "duration": 0,
+    "closestDistance": 1.4573461749668228,
+    "closestAltitude": 35700,
+    "closestSpeed": 504,
+    "initialDistance": 1.4573461749668228,
+    "initialAltitude": 35700,
+    "initialSpeed": 504,
+    "_sessionKey": "DAL8871_2026-02-06T21"
   }
 ]
