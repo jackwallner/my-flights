@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 30000,
-    "speed": 502,
-    "timestamp": "2026-02-06T22:28:39.713Z",
-    "lat": 45.6144,
-    "lon": -122.5574,
+    "distance": 1.43,
+    "altitude": 36700,
+    "speed": 464,
+    "timestamp": "2026-02-06T22:36:50.100Z",
+    "lat": 45.6127,
+    "lon": -122.4993,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1358",
+    "callsign": "ASA548",
     "aircraftType": "737",
-    "origin": "SMF",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T22:28:39.710Z"
+    "firstSeen": "2026-02-06T22:36:50.097Z"
   },
-  "overheadScore": 1.39,
+  "overheadScore": 1.43,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T22:29:38.279Z"
+  "timestamp": "2026-02-06T22:37:47.911Z"
 }
