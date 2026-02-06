@@ -17997,5 +17997,25 @@
     "initialAltitude": 37150,
     "initialSpeed": 462,
     "_sessionKey": "DAL2905_2026-02-06T23"
+  },
+  {
+    "callsign": "SWA4854",
+    "flightNumber": "WN4854",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AC0F26",
+    "registration": "N8761L",
+    "firstSeen": "2026-02-06T23:29:47.342Z",
+    "lastSeen": "2026-02-06T23:29:47.342Z",
+    "duration": 0,
+    "closestDistance": 1.4020528635702885,
+    "closestAltitude": 38000,
+    "closestSpeed": 450,
+    "initialDistance": 1.4020528635702885,
+    "initialAltitude": 38000,
+    "initialSpeed": 450,
+    "_sessionKey": "SWA4854_2026-02-06T23"
   }
 ]

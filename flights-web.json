@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.75,
-    "altitude": 37150,
-    "speed": 462,
-    "timestamp": "2026-02-06T23:22:39.838Z",
-    "lat": 45.6302,
-    "lon": -122.5116,
+    "distance": 1.4,
+    "altitude": 38000,
+    "speed": 450,
+    "timestamp": "2026-02-06T23:29:47.346Z",
+    "lat": 45.6289,
+    "lon": -122.5611,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2905",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "SWA4854",
+    "aircraftType": "737 ",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T23:22:39.834Z"
+    "firstSeen": "2026-02-06T23:29:47.342Z"
   },
-  "overheadScore": 0.75,
-  "isOverhead": true,
+  "overheadScore": 1.4,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T23:23:37.717Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T23:29:47.346Z"
 }
