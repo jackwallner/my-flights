@@ -14957,5 +14957,25 @@
     "initialAltitude": 33175,
     "initialSpeed": 477,
     "_sessionKey": "QXE2037_2026-02-05T23"
+  },
+  {
+    "callsign": "ASA403",
+    "flightNumber": "AS403",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "A99262",
+    "registration": "N716AL",
+    "firstSeen": "2026-02-06T00:04:38.306Z",
+    "lastSeen": "2026-02-06T00:04:38.306Z",
+    "duration": 0,
+    "closestDistance": 0.8277492205223798,
+    "closestAltitude": 32425,
+    "closestSpeed": 478,
+    "initialDistance": 0.8277492205223798,
+    "initialAltitude": 32425,
+    "initialSpeed": 478,
+    "_sessionKey": "ASA403_2026-02-06T00"
   }
 ]

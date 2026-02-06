@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 33175,
-    "speed": 477,
-    "timestamp": "2026-02-05T23:59:01.472Z",
-    "lat": 45.6124,
-    "lon": -122.5568,
+    "distance": 0.83,
+    "altitude": 32425,
+    "speed": 478,
+    "timestamp": "2026-02-06T00:04:38.310Z",
+    "lat": 45.6251,
+    "lon": -122.5084,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2037",
-    "aircraftType": "E175",
-    "origin": "RDD",
+    "callsign": "ASA403",
+    "aircraftType": "B39M",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-05T23:59:01.469Z"
+    "firstSeen": "2026-02-06T00:04:38.306Z"
   },
-  "overheadScore": 1.43,
-  "isOverhead": false,
+  "overheadScore": 0.83,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T00:00:00.352Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T00:04:38.310Z"
 }
