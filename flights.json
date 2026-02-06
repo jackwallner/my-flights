@@ -16717,5 +16717,25 @@
     "initialAltitude": 35275,
     "initialSpeed": 492,
     "_sessionKey": "ASA709_2026-02-06T16"
+  },
+  {
+    "callsign": "RGY923",
+    "flightNumber": "RGY923",
+    "aircraftType": "BE40",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "BFI",
+    "icao": "ACCAC7",
+    "registration": "N923RA",
+    "firstSeen": "2026-02-06T16:43:58.309Z",
+    "lastSeen": "2026-02-06T16:43:58.309Z",
+    "duration": 0,
+    "closestDistance": 0.7737948265550108,
+    "closestAltitude": 37975,
+    "closestSpeed": 459,
+    "initialDistance": 0.7737948265550108,
+    "initialAltitude": 37975,
+    "initialSpeed": 459,
+    "_sessionKey": "RGY923_2026-02-06T16"
   }
 ]
