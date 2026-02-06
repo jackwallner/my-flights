@@ -16457,5 +16457,25 @@
     "initialAltitude": 1600,
     "initialSpeed": 149,
     "_sessionKey": "N723KP_2026-02-06T14"
+  },
+  {
+    "callsign": "SWA3677",
+    "flightNumber": "WN3677",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "ABEFBA",
+    "registration": "N8686A",
+    "firstSeen": "2026-02-06T14:57:01.071Z",
+    "lastSeen": "2026-02-06T14:57:01.071Z",
+    "duration": 0,
+    "closestDistance": 1.411285940741395,
+    "closestAltitude": 30975,
+    "closestSpeed": 487,
+    "initialDistance": 1.411285940741395,
+    "initialAltitude": 30975,
+    "initialSpeed": 487,
+    "_sessionKey": "SWA3677_2026-02-06T14"
   }
 ]

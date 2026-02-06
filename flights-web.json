@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.23,
-    "altitude": 2925,
-    "speed": 158,
-    "timestamp": "2026-02-06T14:52:33.337Z",
-    "lat": 45.6457,
-    "lon": -122.5307,
+    "distance": 1.41,
+    "altitude": 30975,
+    "speed": 487,
+    "timestamp": "2026-02-06T14:57:01.075Z",
+    "lat": 45.629,
+    "lon": -122.5613,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N723KP",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-06T14:51:35.318Z"
+    "callsign": "SWA3677",
+    "aircraftType": "737",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T14:57:01.071Z"
   },
-  "overheadScore": 1.23,
+  "overheadScore": 1.41,
   "isOverhead": false,
-  "pathSnapshots": 2,
-  "status": "completed",
-  "timestamp": "2026-02-06T14:52:43.606Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-06T14:57:01.075Z"
 }
