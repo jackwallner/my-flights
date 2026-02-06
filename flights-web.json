@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.84,
-    "altitude": 38525,
-    "speed": 466,
-    "timestamp": "2026-02-06T23:19:58.343Z",
-    "lat": 45.6251,
-    "lon": -122.5081,
+    "distance": 0.75,
+    "altitude": 37150,
+    "speed": 462,
+    "timestamp": "2026-02-06T23:22:39.838Z",
+    "lat": 45.6302,
+    "lon": -122.5116,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA601",
-    "aircraftType": "737 ",
-    "origin": "RNO",
+    "callsign": "DAL2905",
+    "aircraftType": "737",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T23:19:58.339Z"
+    "firstSeen": "2026-02-06T23:22:39.834Z"
   },
-  "overheadScore": 0.84,
+  "overheadScore": 0.75,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T23:20:57.091Z"
+  "timestamp": "2026-02-06T23:23:37.717Z"
 }
