@@ -17217,5 +17217,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 486,
     "_sessionKey": "ASA762_2026-02-06T19"
+  },
+  {
+    "callsign": "N5201H",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A68B71",
+    "registration": "N5201H",
+    "firstSeen": "2026-02-06T19:39:39.423Z",
+    "lastSeen": "2026-02-06T19:40:58.383Z",
+    "duration": 79,
+    "closestDistance": 0.4290911809479768,
+    "closestAltitude": 2000,
+    "closestSpeed": 94,
+    "initialDistance": 1.416287615296347,
+    "initialAltitude": 2400,
+    "initialSpeed": 104,
+    "_sessionKey": "N5201H_2026-02-06T19"
   }
 ]
