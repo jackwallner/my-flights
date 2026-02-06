@@ -17957,5 +17957,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 456,
     "_sessionKey": "SKW5403_2026-02-06T23"
+  },
+  {
+    "callsign": "ASA601",
+    "flightNumber": "AS601",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "AB1BF9",
+    "registration": "N815AK",
+    "firstSeen": "2026-02-06T23:19:58.339Z",
+    "lastSeen": "2026-02-06T23:19:58.339Z",
+    "duration": 0,
+    "closestDistance": 0.8403449313525388,
+    "closestAltitude": 38525,
+    "closestSpeed": 466,
+    "initialDistance": 0.8403449313525388,
+    "initialAltitude": 38525,
+    "initialSpeed": 466,
+    "_sessionKey": "ASA601_2026-02-06T23"
   }
 ]
