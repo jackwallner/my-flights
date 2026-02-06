@@ -17057,5 +17057,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 510,
     "_sessionKey": "ASA656_2026-02-06T18"
+  },
+  {
+    "callsign": "VJA650",
+    "flightNumber": "VJA650",
+    "aircraftType": "E35L",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "A88E65",
+    "registration": "N650TB",
+    "firstSeen": "2026-02-06T18:23:55.427Z",
+    "lastSeen": "2026-02-06T18:23:55.427Z",
+    "duration": 0,
+    "closestDistance": 0.8657430102349196,
+    "closestAltitude": 31600,
+    "closestSpeed": 506,
+    "initialDistance": 0.8657430102349196,
+    "initialAltitude": 31600,
+    "initialSpeed": 506,
+    "_sessionKey": "VJA650_2026-02-06T18"
   }
 ]

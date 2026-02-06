@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.08,
-    "altitude": 8800,
-    "speed": 134,
-    "timestamp": "2026-02-06T18:22:15.747Z",
-    "lat": 45.6377,
-    "lon": -122.5094,
-    "precision": "high"
+    "distance": 0.87,
+    "altitude": 31600,
+    "speed": 506,
+    "timestamp": "2026-02-06T18:23:55.431Z",
+    "lat": 45.6135,
+    "lon": -122.54,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "G20768",
-    "aircraftType": "H60",
-    "origin": "SLE",
-    "destination": null,
-    "firstSeen": "2026-02-06T18:21:17.213Z"
+    "callsign": "VJA650",
+    "aircraftType": "E35L",
+    "origin": "VNY",
+    "destination": "BFI",
+    "firstSeen": "2026-02-06T18:23:55.427Z"
   },
-  "overheadScore": 1.08,
-  "isOverhead": false,
-  "pathSnapshots": 3,
+  "overheadScore": 0.87,
+  "isOverhead": true,
+  "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-06T18:22:26.022Z"
+  "timestamp": "2026-02-06T18:23:55.432Z"
 }
