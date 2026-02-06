@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.79,
-    "altitude": 35875,
-    "speed": 493,
-    "timestamp": "2026-02-06T03:24:06.305Z",
-    "lat": 45.6277,
-    "lon": -122.5096,
+    "distance": 0.94,
+    "altitude": 34000,
+    "speed": 483,
+    "timestamp": "2026-02-06T03:26:26.841Z",
+    "lat": 45.6219,
+    "lon": -122.5063,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA552",
-    "aircraftType": "B39M",
-    "origin": "LAS",
+    "callsign": "DAL2318",
+    "aircraftType": "A223",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T03:24:06.302Z"
+    "firstSeen": "2026-02-06T03:26:26.837Z"
   },
-  "overheadScore": 0.79,
+  "overheadScore": 0.94,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T03:25:04.477Z"
+  "timestamp": "2026-02-06T03:27:26.368Z"
 }
