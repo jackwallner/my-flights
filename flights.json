@@ -15077,5 +15077,25 @@
     "initialAltitude": 33175,
     "initialSpeed": 494,
     "_sessionKey": "ASA687_2026-02-06T00"
+  },
+  {
+    "callsign": "DAL2585",
+    "flightNumber": "DL2585",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "A442F3",
+    "registration": "N374DA",
+    "firstSeen": "2026-02-06T00:32:39.991Z",
+    "lastSeen": "2026-02-06T00:32:39.991Z",
+    "duration": 0,
+    "closestDistance": 1.3622905911706131,
+    "closestAltitude": 33025,
+    "closestSpeed": 492,
+    "initialDistance": 1.3622905911706131,
+    "initialAltitude": 33025,
+    "initialSpeed": 492,
+    "_sessionKey": "DAL2585_2026-02-06T00"
   }
 ]
