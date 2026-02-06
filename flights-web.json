@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.23,
-    "altitude": 34000,
-    "speed": 511,
-    "timestamp": "2026-02-06T09:21:54.338Z",
-    "lat": 45.6092,
-    "lon": -122.5099,
+    "distance": 1.42,
+    "altitude": 1600,
+    "speed": 149,
+    "timestamp": "2026-02-06T14:51:35.324Z",
+    "lat": 45.6044,
+    "lon": -122.544,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ATN3378",
-    "aircraftType": "767",
-    "origin": "SBD",
-    "destination": "SEA",
-    "firstSeen": "2026-02-06T09:21:54.333Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-06T14:51:35.318Z"
   },
-  "overheadScore": 1.23,
+  "overheadScore": 1.42,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T09:22:52.363Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T14:51:35.324Z"
 }
