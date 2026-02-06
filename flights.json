@@ -17897,5 +17897,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 488,
     "_sessionKey": "UAL1008_2026-02-06T22"
+  },
+  {
+    "callsign": "N95740",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "AD51A5",
+    "registration": "N95740",
+    "firstSeen": "2026-02-06T22:55:17.087Z",
+    "lastSeen": "2026-02-06T22:55:17.087Z",
+    "duration": 0,
+    "closestDistance": 1.2569990616759623,
+    "closestAltitude": 3900,
+    "closestSpeed": 144,
+    "initialDistance": 1.2569990616759623,
+    "initialAltitude": 3900,
+    "initialSpeed": 144,
+    "_sessionKey": "N95740_2026-02-06T22"
   }
 ]
