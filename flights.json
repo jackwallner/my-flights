@@ -16997,5 +16997,25 @@
     "initialAltitude": 35950,
     "initialSpeed": 488,
     "_sessionKey": "ASA479_2026-02-06T18"
+  },
+  {
+    "callsign": "ASA717",
+    "flightNumber": "AS717",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AB10D4",
+    "registration": "N812AK",
+    "firstSeen": "2026-02-06T18:20:08.930Z",
+    "lastSeen": "2026-02-06T18:20:08.930Z",
+    "duration": 0,
+    "closestDistance": 0.8041737303462206,
+    "closestAltitude": 37450,
+    "closestSpeed": 462,
+    "initialDistance": 0.8041737303462206,
+    "initialAltitude": 37450,
+    "initialSpeed": 462,
+    "_sessionKey": "ASA717_2026-02-06T18"
   }
 ]
