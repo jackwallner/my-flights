@@ -16157,5 +16157,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 490,
     "_sessionKey": "QXE2031_2026-02-06T05"
+  },
+  {
+    "callsign": "ASA753",
+    "flightNumber": "AS753",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "AD2EA1",
+    "registration": "N949AK",
+    "firstSeen": "2026-02-06T05:11:07.603Z",
+    "lastSeen": "2026-02-06T05:11:07.603Z",
+    "duration": 0,
+    "closestDistance": 1.3819536028452581,
+    "closestAltitude": 38000,
+    "closestSpeed": 486,
+    "initialDistance": 1.3819536028452581,
+    "initialAltitude": 38000,
+    "initialSpeed": 486,
+    "_sessionKey": "ASA753_2026-02-06T05"
   }
 ]
