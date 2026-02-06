@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.74,
-    "altitude": 34775,
-    "speed": 490,
-    "timestamp": "2026-02-06T19:54:54.346Z",
-    "lat": 45.6287,
-    "lon": -122.5112,
+    "distance": 1.45,
+    "altitude": 3025,
+    "speed": 118,
+    "timestamp": "2026-02-06T20:08:45.341Z",
+    "lat": 45.6396,
+    "lon": -122.5004,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ585",
-    "aircraftType": "CL35",
-    "origin": "APC",
-    "destination": "BFI",
-    "firstSeen": "2026-02-06T19:54:54.342Z"
+    "callsign": "N6552U",
+    "aircraftType": "M20P",
+    "origin": "DLS",
+    "destination": null,
+    "firstSeen": "2026-02-06T20:08:45.338Z"
   },
-  "overheadScore": 0.74,
-  "isOverhead": true,
+  "overheadScore": 1.45,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T19:55:52.768Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T20:08:45.341Z"
 }

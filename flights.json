@@ -17297,5 +17297,25 @@
     "initialAltitude": 34775,
     "initialSpeed": 490,
     "_sessionKey": "LXJ585_2026-02-06T19"
+  },
+  {
+    "callsign": "N6552U",
+    "flightNumber": null,
+    "aircraftType": "M20P",
+    "aircraftName": null,
+    "origin": "DLS",
+    "destination": null,
+    "icao": "A8A1FE",
+    "registration": "N6552U",
+    "firstSeen": "2026-02-06T20:08:45.338Z",
+    "lastSeen": "2026-02-06T20:08:45.338Z",
+    "duration": 0,
+    "closestDistance": 1.4466419043959025,
+    "closestAltitude": 3025,
+    "closestSpeed": 118,
+    "initialDistance": 1.4466419043959025,
+    "initialAltitude": 3025,
+    "initialSpeed": 118,
+    "_sessionKey": "N6552U_2026-02-06T20"
   }
 ]
