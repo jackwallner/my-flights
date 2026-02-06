@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.45,
-    "altitude": 3025,
-    "speed": 118,
-    "timestamp": "2026-02-06T20:08:45.341Z",
-    "lat": 45.6396,
-    "lon": -122.5004,
-    "precision": "tracked"
+    "distance": 0.42,
+    "altitude": 550,
+    "speed": 81,
+    "timestamp": "2026-02-06T20:16:51.998Z",
+    "lat": 45.6259,
+    "lon": -122.538,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N6552U",
-    "aircraftType": "M20P",
-    "origin": "DLS",
+    "callsign": "N505PD",
+    "aircraftType": "C182",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-06T20:08:45.338Z"
+    "firstSeen": "2026-02-06T20:15:33.125Z"
   },
-  "overheadScore": 1.45,
-  "isOverhead": false,
-  "pathSnapshots": 2,
-  "status": "completed",
-  "timestamp": "2026-02-06T20:09:53.477Z"
+  "overheadScore": 0.42,
+  "isOverhead": true,
+  "pathSnapshots": 6,
+  "status": "tracking",
+  "timestamp": "2026-02-06T20:17:12.539Z"
 }

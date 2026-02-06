@@ -17317,5 +17317,25 @@
     "initialAltitude": 3025,
     "initialSpeed": 118,
     "_sessionKey": "N6552U_2026-02-06T20"
+  },
+  {
+    "callsign": "N505PD",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A64DCC",
+    "registration": "N505PD",
+    "firstSeen": "2026-02-06T20:15:33.125Z",
+    "lastSeen": "2026-02-06T20:17:12.535Z",
+    "duration": 99,
+    "closestDistance": 0.41686343721215335,
+    "closestAltitude": 550,
+    "closestSpeed": 81,
+    "initialDistance": 1.4843170014337084,
+    "initialAltitude": 875,
+    "initialSpeed": 121,
+    "_sessionKey": "N505PD_2026-02-06T20"
   }
 ]
