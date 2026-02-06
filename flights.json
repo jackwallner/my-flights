@@ -18117,5 +18117,25 @@
     "initialAltitude": 1700,
     "initialSpeed": 160,
     "_sessionKey": "N724KP_2026-02-06T23"
+  },
+  {
+    "callsign": "N18586",
+    "flightNumber": null,
+    "aircraftType": "C150",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": null,
+    "icao": "A156CE",
+    "registration": "N18586",
+    "firstSeen": "2026-02-06T23:57:53.810Z",
+    "lastSeen": "2026-02-06T23:57:53.810Z",
+    "duration": 0,
+    "closestDistance": 1.4809540986796768,
+    "closestAltitude": 1775,
+    "closestSpeed": 86,
+    "initialDistance": 1.4809540986796768,
+    "initialAltitude": 1775,
+    "initialSpeed": 86,
+    "_sessionKey": "N18586_2026-02-06T23"
   }
 ]
