@@ -15517,5 +15517,25 @@
     "initialAltitude": 35325,
     "initialSpeed": 489,
     "_sessionKey": "ASA683_2026-02-06T02"
+  },
+  {
+    "callsign": "ASA1359",
+    "flightNumber": "AS1359",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A720EB",
+    "registration": "N559AS",
+    "firstSeen": "2026-02-06T02:28:02.911Z",
+    "lastSeen": "2026-02-06T02:28:02.911Z",
+    "duration": 0,
+    "closestDistance": 1.442125658428681,
+    "closestAltitude": 33400,
+    "closestSpeed": 486,
+    "initialDistance": 1.442125658428681,
+    "initialAltitude": 33400,
+    "initialSpeed": 486,
+    "_sessionKey": "ASA1359_2026-02-06T02"
   }
 ]
