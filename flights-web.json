@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 38000,
-    "speed": 450,
-    "timestamp": "2026-02-06T23:29:47.346Z",
-    "lat": 45.6289,
-    "lon": -122.5611,
+    "distance": 0.83,
+    "altitude": 34675,
+    "speed": 457,
+    "timestamp": "2026-02-06T23:35:12.988Z",
+    "lat": 45.6263,
+    "lon": -122.5085,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA4854",
-    "aircraftType": "737 ",
-    "origin": "SFO",
+    "callsign": "ASA741",
+    "aircraftType": "737",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T23:29:47.342Z"
+    "firstSeen": "2026-02-06T23:35:12.984Z"
   },
-  "overheadScore": 1.4,
-  "isOverhead": false,
+  "overheadScore": 0.83,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T23:30:45.414Z"
+  "timestamp": "2026-02-06T23:36:11.441Z"
 }

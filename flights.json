@@ -18017,5 +18017,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 450,
     "_sessionKey": "SWA4854_2026-02-06T23"
+  },
+  {
+    "callsign": "ASA741",
+    "flightNumber": "AS741",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A30F85",
+    "registration": "N297AK",
+    "firstSeen": "2026-02-06T23:35:12.984Z",
+    "lastSeen": "2026-02-06T23:35:12.984Z",
+    "duration": 0,
+    "closestDistance": 0.8257427740330309,
+    "closestAltitude": 34675,
+    "closestSpeed": 457,
+    "initialDistance": 0.8257427740330309,
+    "initialAltitude": 34675,
+    "initialSpeed": 457,
+    "_sessionKey": "ASA741_2026-02-06T23"
   }
 ]
