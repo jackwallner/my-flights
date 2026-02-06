@@ -17637,5 +17637,25 @@
     "initialAltitude": 35700,
     "initialSpeed": 504,
     "_sessionKey": "DAL8871_2026-02-06T21"
+  },
+  {
+    "callsign": "N6552U",
+    "flightNumber": null,
+    "aircraftType": "M20P",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A8A1FE",
+    "registration": "N6552U",
+    "firstSeen": "2026-02-06T21:45:23.153Z",
+    "lastSeen": "2026-02-06T21:45:23.153Z",
+    "duration": 0,
+    "closestDistance": 1.382050129107269,
+    "closestAltitude": 2375,
+    "closestSpeed": 93,
+    "initialDistance": 1.382050129107269,
+    "initialAltitude": 2375,
+    "initialSpeed": 93,
+    "_sessionKey": "N6552U_2026-02-06T21"
   }
 ]

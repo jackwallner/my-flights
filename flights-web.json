@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 35700,
-    "speed": 504,
-    "timestamp": "2026-02-06T21:42:31.891Z",
-    "lat": 45.6314,
-    "lon": -122.5617,
+    "distance": 1.38,
+    "altitude": 2375,
+    "speed": 93,
+    "timestamp": "2026-02-06T21:45:23.157Z",
+    "lat": 45.614,
+    "lon": -122.5568,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL8871",
-    "aircraftType": "A330",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-06T21:42:31.887Z"
+    "callsign": "N6552U",
+    "aircraftType": "M20P",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-02-06T21:45:23.153Z"
   },
-  "overheadScore": 1.46,
+  "overheadScore": 1.38,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T21:43:30.029Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T21:45:23.157Z"
 }
