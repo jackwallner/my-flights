@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.82,
-    "altitude": 35950,
-    "speed": 479,
-    "timestamp": "2026-02-06T05:00:23.064Z",
-    "lat": 45.6262,
-    "lon": -122.5087,
+    "distance": 1.42,
+    "altitude": 36000,
+    "speed": 502,
+    "timestamp": "2026-02-06T05:03:04.369Z",
+    "lat": 45.613,
+    "lon": -122.5571,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA574",
-    "aircraftType": "737",
-    "origin": "SAN",
+    "callsign": "SWA1311",
+    "aircraftType": "B737",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T05:00:23.060Z"
+    "firstSeen": "2026-02-06T05:03:04.366Z"
   },
-  "overheadScore": 0.82,
-  "isOverhead": true,
+  "overheadScore": 1.42,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T05:01:21.150Z"
+  "timestamp": "2026-02-06T05:04:02.786Z"
 }
