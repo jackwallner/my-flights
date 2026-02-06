@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.17,
-    "altitude": 35875,
-    "speed": 468,
-    "timestamp": "2026-02-06T19:31:04.497Z",
-    "lat": 45.6062,
-    "lon": -122.534,
+    "distance": 1.33,
+    "altitude": 36000,
+    "speed": 486,
+    "timestamp": "2026-02-06T19:36:36.951Z",
+    "lat": 45.6189,
+    "lon": -122.5585,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LOST03",
-    "aircraftType": "C560",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-06T19:31:04.493Z"
+    "callsign": "ASA762",
+    "aircraftType": "737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T19:36:36.947Z"
   },
-  "overheadScore": 1.17,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T19:32:03.194Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T19:36:36.951Z"
 }
