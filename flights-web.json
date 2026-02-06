@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 32825,
-    "speed": 491,
-    "timestamp": "2026-02-06T19:52:23.801Z",
-    "lat": 45.6291,
-    "lon": -122.5609,
+    "distance": 0.74,
+    "altitude": 34775,
+    "speed": 490,
+    "timestamp": "2026-02-06T19:54:54.346Z",
+    "lat": 45.6287,
+    "lon": -122.5112,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1368",
-    "aircraftType": "737",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-02-06T19:52:23.797Z"
+    "callsign": "LXJ585",
+    "aircraftType": "CL35",
+    "origin": "APC",
+    "destination": "BFI",
+    "firstSeen": "2026-02-06T19:54:54.342Z"
   },
-  "overheadScore": 1.4,
-  "isOverhead": false,
+  "overheadScore": 0.74,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-06T19:52:23.801Z"
+  "timestamp": "2026-02-06T19:54:54.346Z"
 }

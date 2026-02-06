@@ -17277,5 +17277,25 @@
     "initialAltitude": 32825,
     "initialSpeed": 491,
     "_sessionKey": "ASA1368_2026-02-06T19"
+  },
+  {
+    "callsign": "LXJ585",
+    "flightNumber": "LXJ585",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "APC",
+    "destination": "BFI",
+    "icao": "A7890E",
+    "registration": "N585FX",
+    "firstSeen": "2026-02-06T19:54:54.342Z",
+    "lastSeen": "2026-02-06T19:54:54.342Z",
+    "duration": 0,
+    "closestDistance": 0.7391717091471621,
+    "closestAltitude": 34775,
+    "closestSpeed": 490,
+    "initialDistance": 0.7391717091471621,
+    "initialAltitude": 34775,
+    "initialSpeed": 490,
+    "_sessionKey": "LXJ585_2026-02-06T19"
   }
 ]
