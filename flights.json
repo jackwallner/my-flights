@@ -16017,5 +16017,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 510,
     "_sessionKey": "UAL2019_2026-02-06T04"
+  },
+  {
+    "callsign": "ASA1327",
+    "flightNumber": "AS1327",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A4CE21",
+    "registration": "N409AS",
+    "firstSeen": "2026-02-06T04:53:40.400Z",
+    "lastSeen": "2026-02-06T04:53:40.400Z",
+    "duration": 0,
+    "closestDistance": 1.330480329904544,
+    "closestAltitude": 34000,
+    "closestSpeed": 485,
+    "initialDistance": 1.330480329904544,
+    "initialAltitude": 34000,
+    "initialSpeed": 485,
+    "_sessionKey": "ASA1327_2026-02-06T04"
   }
 ]
