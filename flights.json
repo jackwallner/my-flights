@@ -17557,5 +17557,25 @@
     "initialAltitude": 29975,
     "initialSpeed": 488,
     "_sessionKey": "SWA1037_2026-02-06T21"
+  },
+  {
+    "callsign": "N505PD",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A64DCC",
+    "registration": "N505PD",
+    "firstSeen": "2026-02-06T21:09:58.652Z",
+    "lastSeen": "2026-02-06T21:11:06.724Z",
+    "duration": 68,
+    "closestDistance": 0.15874310186783933,
+    "closestAltitude": 650,
+    "closestSpeed": 66,
+    "initialDistance": 0.15874310186783933,
+    "initialAltitude": 650,
+    "initialSpeed": 66,
+    "_sessionKey": "N505PD_2026-02-06T21"
   }
 ]

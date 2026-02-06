@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.3,
-    "altitude": 29975,
-    "speed": 488,
-    "timestamp": "2026-02-06T21:08:18.555Z",
-    "lat": 45.6232,
-    "lon": -122.5589,
-    "precision": "tracked"
+    "distance": 0.16,
+    "altitude": 650,
+    "speed": 66,
+    "timestamp": "2026-02-06T21:09:58.655Z",
+    "lat": 45.6247,
+    "lon": -122.5318,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SWA1037",
-    "aircraftType": "B737",
-    "origin": "OAK",
-    "destination": "SEA",
-    "firstSeen": "2026-02-06T21:08:18.551Z"
+    "callsign": "N505PD",
+    "aircraftType": "C182",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-06T21:09:58.652Z"
   },
-  "overheadScore": 1.3,
-  "isOverhead": false,
-  "pathSnapshots": 1,
+  "overheadScore": 0.16,
+  "isOverhead": true,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-06T21:09:17.008Z"
+  "timestamp": "2026-02-06T21:11:17.015Z"
 }
