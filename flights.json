@@ -15677,5 +15677,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 493,
     "_sessionKey": "ASA774_2026-02-06T03"
+  },
+  {
+    "callsign": "SCW3916",
+    "flightNumber": null,
+    "aircraftType": "CRJ2",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "BFI",
+    "icao": "ACCAF4",
+    "registration": "N923SW",
+    "firstSeen": "2026-02-06T03:12:44.908Z",
+    "lastSeen": "2026-02-06T03:12:44.908Z",
+    "duration": 0,
+    "closestDistance": 1.2356376198880255,
+    "closestAltitude": 36000,
+    "closestSpeed": 499,
+    "initialDistance": 1.2356376198880255,
+    "initialAltitude": 36000,
+    "initialSpeed": 499,
+    "_sessionKey": "SCW3916_2026-02-06T03"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.98,
-    "altitude": 34000,
-    "speed": 493,
-    "timestamp": "2026-02-06T03:11:25.656Z",
-    "lat": 45.6212,
-    "lon": -122.5056,
+    "distance": 1.24,
+    "altitude": 36000,
+    "speed": 499,
+    "timestamp": "2026-02-06T03:12:44.911Z",
+    "lat": 45.6049,
+    "lon": -122.5322,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA774",
-    "aircraftType": "737 ",
-    "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-06T03:11:25.651Z"
+    "callsign": "SCW3916",
+    "aircraftType": "CRJ",
+    "origin": "LAX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-06T03:12:44.908Z"
   },
-  "overheadScore": 0.98,
-  "isOverhead": true,
+  "overheadScore": 1.24,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-06T03:11:25.656Z"
+  "status": "completed",
+  "timestamp": "2026-02-06T03:13:43.660Z"
 }
