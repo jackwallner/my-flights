@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
+    "distance": 1.08,
     "altitude": 36000,
-    "speed": 483,
-    "timestamp": "2026-02-06T04:10:27.225Z",
-    "lat": 45.6187,
-    "lon": -122.5587,
+    "speed": 488,
+    "timestamp": "2026-02-06T04:30:08.593Z",
+    "lat": 45.619,
+    "lon": -122.5039,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2230",
+    "callsign": "SKW5408",
     "aircraftType": "E175",
-    "origin": "SBP",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T04:10:27.220Z"
+    "firstSeen": "2026-02-06T04:30:08.588Z"
   },
-  "overheadScore": 1.34,
+  "overheadScore": 1.08,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T04:11:25.358Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T04:30:08.593Z"
 }
