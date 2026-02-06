@@ -16417,5 +16417,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 468,
     "_sessionKey": "ASA652_2026-02-06T06"
+  },
+  {
+    "callsign": "ATN3378",
+    "flightNumber": "8C3378",
+    "aircraftType": "B763",
+    "aircraftName": null,
+    "origin": "SBD",
+    "destination": "SEA",
+    "icao": "A45552",
+    "registration": "N379AZ",
+    "firstSeen": "2026-02-06T09:21:54.333Z",
+    "lastSeen": "2026-02-06T09:21:54.333Z",
+    "duration": 0,
+    "closestDistance": 1.2316933070480696,
+    "closestAltitude": 34000,
+    "closestSpeed": 511,
+    "initialDistance": 1.2316933070480696,
+    "initialAltitude": 34000,
+    "initialSpeed": 511,
+    "_sessionKey": "ATN3378_2026-02-06T09"
   }
 ]
