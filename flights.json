@@ -17917,5 +17917,25 @@
     "initialAltitude": 3900,
     "initialSpeed": 144,
     "_sessionKey": "N95740_2026-02-06T22"
+  },
+  {
+    "callsign": "N174AA",
+    "flightNumber": null,
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "HIO",
+    "icao": "A1280A",
+    "registration": "N174AA",
+    "firstSeen": "2026-02-06T22:58:59.693Z",
+    "lastSeen": "2026-02-06T22:58:59.693Z",
+    "duration": 0,
+    "closestDistance": 1.4355965532493575,
+    "closestAltitude": 4800,
+    "closestSpeed": 240,
+    "initialDistance": 1.4355965532493575,
+    "initialAltitude": 4800,
+    "initialSpeed": 240,
+    "_sessionKey": "N174AA_2026-02-06T22"
   }
 ]
