@@ -16597,5 +16597,25 @@
     "initialAltitude": 1825,
     "initialSpeed": 144,
     "_sessionKey": "PC12_2026-02-06T15"
+  },
+  {
+    "callsign": "SWA4045",
+    "flightNumber": "WN4045",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "ABBCA1",
+    "registration": "N8552Z",
+    "firstSeen": "2026-02-06T16:09:40.023Z",
+    "lastSeen": "2026-02-06T16:09:40.023Z",
+    "duration": 0,
+    "closestDistance": 1.414541579740478,
+    "closestAltitude": 38000,
+    "closestSpeed": 474,
+    "initialDistance": 1.414541579740478,
+    "initialAltitude": 38000,
+    "initialSpeed": 474,
+    "_sessionKey": "SWA4045_2026-02-06T16"
   }
 ]
