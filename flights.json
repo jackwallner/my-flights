@@ -15897,5 +15897,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 483,
     "_sessionKey": "ASA84_2026-02-06T03"
+  },
+  {
+    "callsign": "ASA758",
+    "flightNumber": "AS758",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AB148B",
+    "registration": "N813AK",
+    "firstSeen": "2026-02-06T03:46:41.826Z",
+    "lastSeen": "2026-02-06T03:46:41.826Z",
+    "duration": 0,
+    "closestDistance": 1.3619142205019759,
+    "closestAltitude": 35575,
+    "closestSpeed": 495,
+    "initialDistance": 1.3619142205019759,
+    "initialAltitude": 35575,
+    "initialSpeed": 495,
+    "_sessionKey": "ASA758_2026-02-06T03"
   }
 ]
