@@ -16897,5 +16897,25 @@
     "initialAltitude": 1625,
     "initialSpeed": 148,
     "_sessionKey": "N723KP_2026-02-06T17"
+  },
+  {
+    "callsign": "N345SW",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A3D186",
+    "registration": "N345SW",
+    "firstSeen": "2026-02-06T17:45:37.765Z",
+    "lastSeen": "2026-02-06T17:45:37.765Z",
+    "duration": 0,
+    "closestDistance": 1.349462629989729,
+    "closestAltitude": 1100,
+    "closestSpeed": 88,
+    "initialDistance": 1.349462629989729,
+    "initialAltitude": 1100,
+    "initialSpeed": 88,
+    "_sessionKey": "N345SW_2026-02-06T17"
   }
 ]
