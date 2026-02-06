@@ -17377,5 +17377,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 481,
     "_sessionKey": "ASA1378_2026-02-06T20"
+  },
+  {
+    "callsign": "ASA1311",
+    "flightNumber": "AS1311",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A5939C",
+    "registration": "N459AS",
+    "firstSeen": "2026-02-06T20:32:31.308Z",
+    "lastSeen": "2026-02-06T20:32:31.308Z",
+    "duration": 0,
+    "closestDistance": 1.3852261965012262,
+    "closestAltitude": 33250,
+    "closestSpeed": 505,
+    "initialDistance": 1.3852261965012262,
+    "initialAltitude": 33250,
+    "initialSpeed": 505,
+    "_sessionKey": "ASA1311_2026-02-06T20"
   }
 ]
