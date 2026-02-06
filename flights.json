@@ -17257,5 +17257,25 @@
     "initialAltitude": 34500,
     "initialSpeed": 498,
     "_sessionKey": "DAL1714_2026-02-06T19"
+  },
+  {
+    "callsign": "ASA1368",
+    "flightNumber": "AS1368",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A6EE47",
+    "registration": "N546AS",
+    "firstSeen": "2026-02-06T19:52:23.797Z",
+    "lastSeen": "2026-02-06T19:52:23.797Z",
+    "duration": 0,
+    "closestDistance": 1.395677730382994,
+    "closestAltitude": 32825,
+    "closestSpeed": 491,
+    "initialDistance": 1.395677730382994,
+    "initialAltitude": 32825,
+    "initialSpeed": 491,
+    "_sessionKey": "ASA1368_2026-02-06T19"
   }
 ]
