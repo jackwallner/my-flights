@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.98,
-    "altitude": 34000,
-    "speed": 483,
-    "timestamp": "2026-02-06T15:46:11.904Z",
-    "lat": 45.6213,
-    "lon": -122.5056,
+    "distance": 1.39,
+    "altitude": 38000,
+    "speed": 455,
+    "timestamp": "2026-02-06T15:56:15.750Z",
+    "lat": 45.6281,
+    "lon": -122.561,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA607",
-    "aircraftType": "B39M",
-    "origin": "ONT",
+    "callsign": "SWA1290",
+    "aircraftType": "B737",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T15:46:11.900Z"
+    "firstSeen": "2026-02-06T15:56:15.747Z"
   },
-  "overheadScore": 0.98,
-  "isOverhead": true,
-  "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T15:47:09.738Z"
+  "overheadScore": 1.39,
+  "isOverhead": false,
+  "pathSnapshots": 2,
+  "status": "tracking",
+  "timestamp": "2026-02-06T15:57:13.723Z"
 }
