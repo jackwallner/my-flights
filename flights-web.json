@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
-    "altitude": 37975,
-    "speed": 459,
-    "timestamp": "2026-02-06T16:43:58.312Z",
-    "lat": 45.6297,
-    "lon": -122.5108,
+    "distance": 1.14,
+    "altitude": 34000,
+    "speed": 466,
+    "timestamp": "2026-02-06T16:50:26.509Z",
+    "lat": 45.6177,
+    "lon": -122.5031,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "RGY923",
-    "aircraftType": "BE40",
+    "callsign": "ASA1325",
+    "aircraftType": "737",
     "origin": "SNA",
-    "destination": "BFI",
-    "firstSeen": "2026-02-06T16:43:58.309Z"
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T16:50:26.506Z"
   },
-  "overheadScore": 0.77,
-  "isOverhead": true,
+  "overheadScore": 1.14,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T16:44:56.384Z"
+  "timestamp": "2026-02-06T16:51:27.126Z"
 }
