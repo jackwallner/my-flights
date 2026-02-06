@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
-    "altitude": 33075,
-    "speed": 486,
-    "timestamp": "2026-02-06T18:04:21.954Z",
-    "lat": 45.6242,
-    "lon": -122.5599,
+    "distance": 0.73,
+    "altitude": 35175,
+    "speed": 483,
+    "timestamp": "2026-02-06T18:06:11.509Z",
+    "lat": 45.6285,
+    "lon": -122.5114,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1365",
-    "aircraftType": "737",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-02-06T18:04:21.951Z"
+    "callsign": "BE40",
+    "aircraftType": "BE40",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-06T18:06:11.506Z"
   },
-  "overheadScore": 1.34,
-  "isOverhead": false,
+  "overheadScore": 0.73,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-06T18:04:21.954Z"
+  "timestamp": "2026-02-06T18:06:11.509Z"
 }
