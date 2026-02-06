@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.41,
-    "altitude": 30975,
-    "speed": 487,
-    "timestamp": "2026-02-06T14:57:01.075Z",
-    "lat": 45.629,
-    "lon": -122.5613,
+    "distance": 1.37,
+    "altitude": 32000,
+    "speed": 495,
+    "timestamp": "2026-02-06T15:04:19.850Z",
+    "lat": 45.6249,
+    "lon": -122.5607,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3677",
-    "aircraftType": "737",
-    "origin": "SMF",
+    "callsign": "DAL2721",
+    "aircraftType": "A223",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T14:57:01.071Z"
+    "firstSeen": "2026-02-06T15:04:19.846Z"
   },
-  "overheadScore": 1.41,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T14:57:59.143Z"
+  "timestamp": "2026-02-06T15:05:18.210Z"
 }
