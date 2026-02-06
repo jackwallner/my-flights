@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
+    "distance": 0.86,
     "altitude": 36000,
-    "speed": 487,
-    "timestamp": "2026-02-06T20:59:27.047Z",
-    "lat": 45.6293,
-    "lon": -122.561,
+    "speed": 470,
+    "timestamp": "2026-02-06T21:00:25.896Z",
+    "lat": 45.6371,
+    "lon": -122.5166,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3736",
-    "aircraftType": "E175",
-    "origin": "SJC",
+    "callsign": "DAL2101",
+    "aircraftType": "A223",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T20:59:27.043Z"
+    "firstSeen": "2026-02-06T21:00:25.893Z"
   },
-  "overheadScore": 1.4,
-  "isOverhead": false,
-  "pathSnapshots": 1,
+  "overheadScore": 0.86,
+  "isOverhead": true,
+  "pathSnapshots": 2,
   "status": "tracking",
-  "timestamp": "2026-02-06T20:59:27.047Z"
+  "timestamp": "2026-02-06T21:01:23.984Z"
 }
