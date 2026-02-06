@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.2,
-    "altitude": 36000,
-    "speed": 488,
-    "timestamp": "2026-02-06T01:33:10.735Z",
-    "lat": 45.6169,
-    "lon": -122.5022,
+    "distance": 1.12,
+    "altitude": 32000,
+    "speed": 490,
+    "timestamp": "2026-02-06T01:34:40.531Z",
+    "lat": 45.6316,
+    "lon": -122.503,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2606",
-    "aircraftType": "A321",
-    "origin": "LAX",
+    "callsign": "DAL2572",
+    "aircraftType": "A223",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T01:33:10.731Z"
+    "firstSeen": "2026-02-06T01:34:40.528Z"
   },
-  "overheadScore": 1.2,
+  "overheadScore": 1.12,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-06T01:33:10.735Z"
+  "timestamp": "2026-02-06T01:34:40.531Z"
 }
