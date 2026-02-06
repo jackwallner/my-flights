@@ -17697,5 +17697,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 475,
     "_sessionKey": "ASA1388_2026-02-06T21"
+  },
+  {
+    "callsign": "ASA654",
+    "flightNumber": "AS654",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "SEA",
+    "icao": "A2D1BC",
+    "registration": "N281AK",
+    "firstSeen": "2026-02-06T22:03:44.171Z",
+    "lastSeen": "2026-02-06T22:03:44.171Z",
+    "duration": 0,
+    "closestDistance": 1.297151138405563,
+    "closestAltitude": 32625,
+    "closestSpeed": 501,
+    "initialDistance": 1.297151138405563,
+    "initialAltitude": 32625,
+    "initialSpeed": 501,
+    "_sessionKey": "ASA654_2026-02-06T22"
   }
 ]

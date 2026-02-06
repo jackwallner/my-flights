@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.8,
-    "altitude": 36000,
-    "speed": 475,
-    "timestamp": "2026-02-06T21:48:21.749Z",
-    "lat": 45.6268,
-    "lon": -122.5092,
+    "distance": 1.3,
+    "altitude": 32625,
+    "speed": 501,
+    "timestamp": "2026-02-06T22:03:44.176Z",
+    "lat": 45.6148,
+    "lon": -122.5011,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1388",
+    "callsign": "ASA654",
     "aircraftType": "737",
-    "origin": "BUR",
+    "origin": "ONT",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T21:48:21.745Z"
+    "firstSeen": "2026-02-06T22:03:44.171Z"
   },
-  "overheadScore": 0.8,
-  "isOverhead": true,
+  "overheadScore": 1.3,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T21:49:20.530Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T22:03:44.176Z"
 }
