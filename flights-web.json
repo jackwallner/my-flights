@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.44,
-    "altitude": 7400,
-    "speed": 122,
-    "timestamp": "2026-02-06T15:37:03.481Z",
-    "lat": 45.6459,
-    "lon": -122.5107,
-    "precision": "tracked"
+    "distance": 1,
+    "altitude": 7375,
+    "speed": 123,
+    "timestamp": "2026-02-06T15:38:01.710Z",
+    "lat": 45.6136,
+    "lon": -122.511,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N4922T",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-06T15:37:03.477Z"
   },
-  "overheadScore": 1.44,
+  "overheadScore": 1,
   "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-06T15:37:03.481Z"
+  "pathSnapshots": 3,
+  "status": "completed",
+  "timestamp": "2026-02-06T15:38:22.243Z"
 }
