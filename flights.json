@@ -15657,5 +15657,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 489,
     "_sessionKey": "FFT1177_2026-02-06T02"
+  },
+  {
+    "callsign": "ASA774",
+    "flightNumber": "AS774",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "AAF0C3",
+    "registration": "N804AK",
+    "firstSeen": "2026-02-06T03:11:25.651Z",
+    "lastSeen": "2026-02-06T03:11:25.651Z",
+    "duration": 0,
+    "closestDistance": 0.97651264118247,
+    "closestAltitude": 34000,
+    "closestSpeed": 493,
+    "initialDistance": 0.97651264118247,
+    "initialAltitude": 34000,
+    "initialSpeed": 493,
+    "_sessionKey": "ASA774_2026-02-06T03"
   }
 ]

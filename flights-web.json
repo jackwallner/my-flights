@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.38,
+    "distance": 0.98,
     "altitude": 34000,
-    "speed": 489,
-    "timestamp": "2026-02-06T02:58:57.169Z",
-    "lat": 45.6145,
-    "lon": -122.5572,
+    "speed": 493,
+    "timestamp": "2026-02-06T03:11:25.656Z",
+    "lat": 45.6212,
+    "lon": -122.5056,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FFT1177",
-    "aircraftType": "A321",
-    "origin": "LAX",
+    "callsign": "ASA774",
+    "aircraftType": "737 ",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T02:58:57.166Z"
+    "firstSeen": "2026-02-06T03:11:25.651Z"
   },
-  "overheadScore": 1.38,
-  "isOverhead": false,
+  "overheadScore": 0.98,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T02:59:56.422Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T03:11:25.656Z"
 }
