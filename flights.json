@@ -16497,5 +16497,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 495,
     "_sessionKey": "DAL2721_2026-02-06T15"
+  },
+  {
+    "callsign": "N4922T",
+    "flightNumber": null,
+    "aircraftType": "P28R",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A61A36",
+    "registration": "N4922T",
+    "firstSeen": "2026-02-06T15:37:03.477Z",
+    "lastSeen": "2026-02-06T15:37:03.477Z",
+    "duration": 0,
+    "closestDistance": 1.437698879296681,
+    "closestAltitude": 7400,
+    "closestSpeed": 122,
+    "initialDistance": 1.437698879296681,
+    "initialAltitude": 7400,
+    "initialSpeed": 122,
+    "_sessionKey": "N4922T_2026-02-06T15"
   }
 ]
