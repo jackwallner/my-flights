@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.42,
-    "altitude": 36000,
-    "speed": 502,
-    "timestamp": "2026-02-06T05:03:04.369Z",
-    "lat": 45.613,
-    "lon": -122.5571,
+    "distance": 1.33,
+    "altitude": 34000,
+    "speed": 488,
+    "timestamp": "2026-02-06T05:07:49.046Z",
+    "lat": 45.619,
+    "lon": -122.5585,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1311",
-    "aircraftType": "B737",
-    "origin": "SJC",
+    "callsign": "SKW3991",
+    "aircraftType": "E175",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T05:03:04.366Z"
+    "firstSeen": "2026-02-06T05:07:49.042Z"
   },
-  "overheadScore": 1.42,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T05:04:02.786Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T05:07:49.046Z"
 }
