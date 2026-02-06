@@ -16917,5 +16917,25 @@
     "initialAltitude": 1100,
     "initialSpeed": 88,
     "_sessionKey": "N345SW_2026-02-06T17"
+  },
+  {
+    "callsign": "ASA702",
+    "flightNumber": "AS702",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A79768",
+    "registration": "N589AS",
+    "firstSeen": "2026-02-06T17:57:55.048Z",
+    "lastSeen": "2026-02-06T17:57:55.048Z",
+    "duration": 0,
+    "closestDistance": 0.8838546792137744,
+    "closestAltitude": 35400,
+    "closestSpeed": 490,
+    "initialDistance": 0.8838546792137744,
+    "initialAltitude": 35400,
+    "initialSpeed": 490,
+    "_sessionKey": "ASA702_2026-02-06T17"
   }
 ]
