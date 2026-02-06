@@ -16517,5 +16517,25 @@
     "initialAltitude": 7400,
     "initialSpeed": 122,
     "_sessionKey": "N4922T_2026-02-06T15"
+  },
+  {
+    "callsign": "DAL2844",
+    "flightNumber": "DL2844",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A44DB3",
+    "registration": "N3769L",
+    "firstSeen": "2026-02-06T15:40:46.163Z",
+    "lastSeen": "2026-02-06T15:40:46.163Z",
+    "duration": 0,
+    "closestDistance": 0.8960935639703045,
+    "closestAltitude": 34000,
+    "closestSpeed": 484,
+    "initialDistance": 0.8960935639703045,
+    "initialAltitude": 34000,
+    "initialSpeed": 484,
+    "_sessionKey": "DAL2844_2026-02-06T15"
   }
 ]
