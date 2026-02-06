@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.93,
-    "altitude": 32350,
-    "speed": 482,
-    "timestamp": "2026-02-06T00:06:17.730Z",
-    "lat": 45.6224,
-    "lon": -122.5063,
+    "distance": 0.86,
+    "altitude": 32100,
+    "speed": 494,
+    "timestamp": "2026-02-06T00:07:27.782Z",
+    "lat": 45.6235,
+    "lon": -122.5079,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1309",
-    "aircraftType": "737",
-    "origin": "LAX",
+    "callsign": "DAL2251",
+    "aircraftType": "A220",
+    "origin": "TUS",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T00:06:17.727Z"
+    "firstSeen": "2026-02-06T00:07:27.778Z"
   },
-  "overheadScore": 0.93,
+  "overheadScore": 0.86,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-06T00:06:17.730Z"
+  "status": "completed",
+  "timestamp": "2026-02-06T00:08:25.899Z"
 }
