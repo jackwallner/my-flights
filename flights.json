@@ -15557,5 +15557,25 @@
     "initialAltitude": 6175,
     "initialSpeed": 253,
     "_sessionKey": "ABX414_2026-02-06T02"
+  },
+  {
+    "callsign": "ASA422",
+    "flightNumber": "AS422",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJD",
+    "destination": "SEA",
+    "icao": "A506D5",
+    "registration": "N423AS",
+    "firstSeen": "2026-02-06T02:32:13.865Z",
+    "lastSeen": "2026-02-06T02:32:13.865Z",
+    "duration": 0,
+    "closestDistance": 0.814171903518105,
+    "closestAltitude": 35975,
+    "closestSpeed": 494,
+    "initialDistance": 0.814171903518105,
+    "initialAltitude": 35975,
+    "initialSpeed": 494,
+    "_sessionKey": "ASA422_2026-02-06T02"
   }
 ]

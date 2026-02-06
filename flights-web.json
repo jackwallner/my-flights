@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.2,
-    "altitude": 6175,
-    "speed": 253,
-    "timestamp": "2026-02-06T02:31:04.930Z",
-    "lat": 45.6159,
-    "lon": -122.5028,
+    "distance": 0.81,
+    "altitude": 35975,
+    "speed": 494,
+    "timestamp": "2026-02-06T02:32:13.868Z",
+    "lat": 45.6265,
+    "lon": -122.5088,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ABX414",
-    "aircraftType": "767",
-    "origin": "PDX",
+    "callsign": "ASA422",
+    "aircraftType": "737",
+    "origin": "SJD",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T02:31:04.926Z"
+    "firstSeen": "2026-02-06T02:32:13.865Z"
   },
-  "overheadScore": 1.2,
-  "isOverhead": false,
+  "overheadScore": 0.81,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-06T02:31:04.930Z"
+  "status": "completed",
+  "timestamp": "2026-02-06T02:33:11.970Z"
 }
