@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.08,
-    "altitude": 43000,
-    "speed": 457,
-    "timestamp": "2026-02-06T02:45:41.017Z",
-    "lat": 45.6194,
-    "lon": -122.5039,
+    "distance": 0.75,
+    "altitude": 37825,
+    "speed": 498,
+    "timestamp": "2026-02-06T02:55:25.076Z",
+    "lat": 45.6315,
+    "lon": -122.5126,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA983",
-    "aircraftType": "C68A",
-    "origin": "SNA",
-    "destination": null,
-    "firstSeen": "2026-02-06T02:45:41.014Z"
+    "callsign": "DAL1837",
+    "aircraftType": "737",
+    "origin": "SJD",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T02:55:25.072Z"
   },
-  "overheadScore": 1.08,
-  "isOverhead": false,
+  "overheadScore": 0.75,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T02:46:38.985Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T02:55:25.076Z"
 }
