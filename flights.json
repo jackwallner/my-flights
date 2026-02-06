@@ -17228,8 +17228,8 @@
     "icao": "A68B71",
     "registration": "N5201H",
     "firstSeen": "2026-02-06T19:39:39.423Z",
-    "lastSeen": "2026-02-06T19:40:58.383Z",
-    "duration": 79,
+    "lastSeen": "2026-02-06T19:41:18.927Z",
+    "duration": 100,
     "closestDistance": 0.4290911809479768,
     "closestAltitude": 2000,
     "closestSpeed": 94,
@@ -17237,5 +17237,25 @@
     "initialAltitude": 2400,
     "initialSpeed": 104,
     "_sessionKey": "N5201H_2026-02-06T19"
+  },
+  {
+    "callsign": "DAL1714",
+    "flightNumber": "DL1714",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A45B96",
+    "registration": "N380DA",
+    "firstSeen": "2026-02-06T19:42:21.066Z",
+    "lastSeen": "2026-02-06T19:42:21.066Z",
+    "duration": 0,
+    "closestDistance": 1.3209755539821788,
+    "closestAltitude": 34500,
+    "closestSpeed": 498,
+    "initialDistance": 1.3209755539821788,
+    "initialAltitude": 34500,
+    "initialSpeed": 498,
+    "_sessionKey": "DAL1714_2026-02-06T19"
   }
 ]
