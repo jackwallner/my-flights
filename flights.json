@@ -16377,5 +16377,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 500,
     "_sessionKey": "SWA2580_2026-02-06T06"
+  },
+  {
+    "callsign": "SWA2305",
+    "flightNumber": "WN2305",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "ABA9E7",
+    "registration": "N8501V",
+    "firstSeen": "2026-02-06T06:39:46.115Z",
+    "lastSeen": "2026-02-06T06:39:46.115Z",
+    "duration": 0,
+    "closestDistance": 1.164812381502553,
+    "closestAltitude": 34850,
+    "closestSpeed": 506,
+    "initialDistance": 1.164812381502553,
+    "initialAltitude": 34850,
+    "initialSpeed": 506,
+    "_sessionKey": "SWA2305_2026-02-06T06"
   }
 ]
