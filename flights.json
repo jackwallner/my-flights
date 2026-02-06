@@ -17117,5 +17117,25 @@
     "initialAltitude": 1800,
     "initialSpeed": 153,
     "_sessionKey": "N724KP_2026-02-06T18"
+  },
+  {
+    "callsign": "ASA642",
+    "flightNumber": "AS642",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "AB148B",
+    "registration": "N813AK",
+    "firstSeen": "2026-02-06T19:12:40.277Z",
+    "lastSeen": "2026-02-06T19:12:40.277Z",
+    "duration": 0,
+    "closestDistance": 0.823860217921881,
+    "closestAltitude": 32000,
+    "closestSpeed": 503,
+    "initialDistance": 0.823860217921881,
+    "initialAltitude": 32000,
+    "initialSpeed": 503,
+    "_sessionKey": "ASA642_2026-02-06T19"
   }
 ]
