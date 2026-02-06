@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 36000,
-    "speed": 498,
-    "timestamp": "2026-02-06T05:30:46.858Z",
-    "lat": 45.6021,
-    "lon": -122.5313,
+    "distance": 1.36,
+    "altitude": 1400,
+    "speed": 92,
+    "timestamp": "2026-02-06T05:42:20.614Z",
+    "lat": 45.6056,
+    "lon": -122.5443,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1346",
-    "aircraftType": "B39M",
-    "origin": "LAX",
-    "destination": "PAE",
-    "firstSeen": "2026-02-06T05:30:46.854Z"
+    "callsign": "N9185H",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": "PDX",
+    "firstSeen": "2026-02-06T05:42:20.612Z"
   },
-  "overheadScore": 1.4,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T05:31:45.546Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T05:42:20.614Z"
 }
