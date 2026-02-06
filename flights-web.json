@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 36700,
-    "speed": 464,
-    "timestamp": "2026-02-06T22:36:50.100Z",
-    "lat": 45.6127,
-    "lon": -122.4993,
+    "distance": 1.49,
+    "altitude": 30000,
+    "speed": 479,
+    "timestamp": "2026-02-06T22:41:23.823Z",
+    "lat": 45.6105,
+    "lon": -122.5566,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA548",
-    "aircraftType": "737",
-    "origin": "SNA",
+    "callsign": "SWA4764",
+    "aircraftType": "737 ",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T22:36:50.097Z"
+    "firstSeen": "2026-02-06T22:41:23.819Z"
   },
-  "overheadScore": 1.43,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T22:37:47.911Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T22:41:23.823Z"
 }

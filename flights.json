@@ -17837,5 +17837,25 @@
     "initialAltitude": 36700,
     "initialSpeed": 464,
     "_sessionKey": "ASA548_2026-02-06T22"
+  },
+  {
+    "callsign": "SWA4764",
+    "flightNumber": "WN4764",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AC5B20",
+    "registration": "N8956Q",
+    "firstSeen": "2026-02-06T22:41:23.819Z",
+    "lastSeen": "2026-02-06T22:41:23.819Z",
+    "duration": 0,
+    "closestDistance": 1.4895624178874074,
+    "closestAltitude": 30000,
+    "closestSpeed": 479,
+    "initialDistance": 1.4895624178874074,
+    "initialAltitude": 30000,
+    "initialSpeed": 479,
+    "_sessionKey": "SWA4764_2026-02-06T22"
   }
 ]
