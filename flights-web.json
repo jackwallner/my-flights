@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.77,
-    "altitude": 34000,
-    "speed": 457,
-    "timestamp": "2026-02-06T23:37:54.418Z",
-    "lat": 45.6285,
-    "lon": -122.5104,
+    "distance": 1.42,
+    "altitude": 30000,
+    "speed": 464,
+    "timestamp": "2026-02-06T23:51:02.592Z",
+    "lat": 45.63,
+    "lon": -122.5613,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA703",
-    "aircraftType": "B39M",
-    "origin": "BUR",
+    "callsign": "SKW3789",
+    "aircraftType": "E175",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T23:37:54.414Z"
+    "firstSeen": "2026-02-06T23:51:02.588Z"
   },
-  "overheadScore": 0.77,
-  "isOverhead": true,
+  "overheadScore": 1.42,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T23:38:52.632Z"
+  "timestamp": "2026-02-06T23:52:00.452Z"
 }
