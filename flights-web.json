@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.79,
-    "altitude": 37850,
-    "speed": 479,
-    "timestamp": "2026-02-06T04:31:38.283Z",
-    "lat": 45.627,
-    "lon": -122.5094,
+    "distance": 1.46,
+    "altitude": 36000,
+    "speed": 510,
+    "timestamp": "2026-02-06T04:33:58.875Z",
+    "lat": 45.6117,
+    "lon": -122.5569,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2955",
+    "callsign": "UAL2019",
     "aircraftType": "737",
-    "origin": "LAS",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T04:31:38.280Z"
+    "firstSeen": "2026-02-06T04:33:58.872Z"
   },
-  "overheadScore": 0.79,
-  "isOverhead": true,
+  "overheadScore": 1.46,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-06T04:31:38.283Z"
+  "timestamp": "2026-02-06T04:33:58.875Z"
 }
