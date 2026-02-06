@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.02,
-    "altitude": 36000,
-    "speed": 500,
-    "timestamp": "2026-02-06T05:13:49.141Z",
-    "lat": 45.6207,
-    "lon": -122.5047,
+    "distance": 0.8,
+    "altitude": 34000,
+    "speed": 488,
+    "timestamp": "2026-02-06T05:20:27.439Z",
+    "lat": 45.6347,
+    "lon": -122.5146,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1310",
-    "aircraftType": "737",
-    "origin": "SNA",
+    "callsign": "ASA402",
+    "aircraftType": "737 ",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T05:13:49.138Z"
+    "firstSeen": "2026-02-06T05:20:27.434Z"
   },
-  "overheadScore": 1.02,
-  "isOverhead": false,
+  "overheadScore": 0.8,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T05:14:47.719Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T05:20:27.439Z"
 }
