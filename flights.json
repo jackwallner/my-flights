@@ -17757,5 +17757,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 510,
     "_sessionKey": "ASA685_2026-02-06T22"
+  },
+  {
+    "callsign": "N444AN",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "GEG",
+    "icao": "A55986",
+    "registration": "N444AN",
+    "firstSeen": "2026-02-06T22:12:19.734Z",
+    "lastSeen": "2026-02-06T22:12:19.734Z",
+    "duration": 0,
+    "closestDistance": 0.8072861779602785,
+    "closestAltitude": 2650,
+    "closestSpeed": 133,
+    "initialDistance": 0.8072861779602785,
+    "initialAltitude": 2650,
+    "initialSpeed": 133,
+    "_sessionKey": "N444AN_2026-02-06T22"
   }
 ]
