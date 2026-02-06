@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 2800,
-    "speed": 107,
-    "timestamp": "2026-02-06T22:16:40.289Z",
-    "lat": 45.6249,
-    "lon": -122.5133,
-    "precision": "high"
+    "distance": 1.39,
+    "altitude": 30000,
+    "speed": 502,
+    "timestamp": "2026-02-06T22:28:39.713Z",
+    "lat": 45.6144,
+    "lon": -122.5574,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5436E",
-    "aircraftType": "C172",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-06T22:15:41.820Z"
+    "callsign": "ASA1358",
+    "aircraftType": "737",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T22:28:39.710Z"
   },
-  "overheadScore": 0.62,
-  "isOverhead": true,
-  "pathSnapshots": 5,
+  "overheadScore": 1.39,
+  "isOverhead": false,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T22:17:21.404Z"
+  "timestamp": "2026-02-06T22:29:38.279Z"
 }
