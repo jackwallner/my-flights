@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 33250,
-    "speed": 505,
-    "timestamp": "2026-02-06T20:32:31.310Z",
-    "lat": 45.6144,
-    "lon": -122.5572,
+    "distance": 0.19,
+    "altitude": 400,
+    "speed": 62,
+    "timestamp": "2026-02-06T20:38:48.970Z",
+    "lat": 45.6275,
+    "lon": -122.5313,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1311",
-    "aircraftType": "737",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-06T20:32:31.308Z"
+    "callsign": "N519F",
+    "aircraftType": "CH7B",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-02-06T20:38:48.966Z"
   },
-  "overheadScore": 1.39,
-  "isOverhead": false,
+  "overheadScore": 0.19,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T20:33:29.641Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T20:38:48.970Z"
 }
