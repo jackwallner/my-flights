@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 2600,
-    "speed": 151,
-    "timestamp": "2026-02-06T22:04:42.932Z",
-    "lat": 45.627,
-    "lon": -122.5276,
+    "distance": 1.33,
+    "altitude": 30000,
+    "speed": 510,
+    "timestamp": "2026-02-06T22:11:21.299Z",
+    "lat": 45.6213,
+    "lon": -122.5593,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-06T22:04:42.930Z"
+    "callsign": "ASA685",
+    "aircraftType": "B39M",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T22:11:21.296Z"
   },
-  "overheadScore": 0.11,
-  "isOverhead": true,
+  "overheadScore": 1.33,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T22:05:40.972Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T22:11:21.299Z"
 }
