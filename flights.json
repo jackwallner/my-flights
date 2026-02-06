@@ -16217,5 +16217,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 488,
     "_sessionKey": "ASA402_2026-02-06T05"
+  },
+  {
+    "callsign": "ASA530",
+    "flightNumber": "AS530",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "A3133C",
+    "registration": "N298AK",
+    "firstSeen": "2026-02-06T05:24:52.411Z",
+    "lastSeen": "2026-02-06T05:24:52.411Z",
+    "duration": 0,
+    "closestDistance": 0.8970668638532548,
+    "closestAltitude": 35625,
+    "closestSpeed": 503,
+    "initialDistance": 0.8970668638532548,
+    "initialAltitude": 35625,
+    "initialSpeed": 503,
+    "_sessionKey": "ASA530_2026-02-06T05"
   }
 ]
