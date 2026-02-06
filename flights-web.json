@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.42,
+    "distance": 1.2,
     "altitude": 36000,
-    "speed": 510,
-    "timestamp": "2026-02-06T01:30:32.326Z",
-    "lat": 45.6298,
-    "lon": -122.5614,
+    "speed": 488,
+    "timestamp": "2026-02-06T01:33:10.735Z",
+    "lat": 45.6169,
+    "lon": -122.5022,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2279",
-    "aircraftType": "B39M",
-    "origin": "SFO",
+    "callsign": "DAL2606",
+    "aircraftType": "A321",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T01:30:32.323Z"
+    "firstSeen": "2026-02-06T01:33:10.731Z"
   },
-  "overheadScore": 1.42,
+  "overheadScore": 1.2,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-06T01:30:32.326Z"
+  "timestamp": "2026-02-06T01:33:10.735Z"
 }
