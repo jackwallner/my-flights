@@ -16177,5 +16177,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 486,
     "_sessionKey": "ASA753_2026-02-06T05"
+  },
+  {
+    "callsign": "ASA1310",
+    "flightNumber": "AS1310",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A682EF",
+    "registration": "N519AS",
+    "firstSeen": "2026-02-06T05:13:49.138Z",
+    "lastSeen": "2026-02-06T05:13:49.138Z",
+    "duration": 0,
+    "closestDistance": 1.020819175007889,
+    "closestAltitude": 36000,
+    "closestSpeed": 500,
+    "initialDistance": 1.020819175007889,
+    "initialAltitude": 36000,
+    "initialSpeed": 500,
+    "_sessionKey": "ASA1310_2026-02-06T05"
   }
 ]
