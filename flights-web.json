@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.86,
-    "altitude": 32100,
-    "speed": 494,
-    "timestamp": "2026-02-06T00:07:27.782Z",
-    "lat": 45.6235,
-    "lon": -122.5079,
+    "distance": 1.18,
+    "altitude": 35850,
+    "speed": 479,
+    "timestamp": "2026-02-06T00:21:39.354Z",
+    "lat": 45.6172,
+    "lon": -122.5026,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2251",
-    "aircraftType": "A220",
-    "origin": "TUS",
+    "callsign": "SKW6278",
+    "aircraftType": "E175",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T00:07:27.778Z"
+    "firstSeen": "2026-02-06T00:21:39.351Z"
   },
-  "overheadScore": 0.86,
-  "isOverhead": true,
+  "overheadScore": 1.18,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T00:08:25.899Z"
+  "timestamp": "2026-02-06T00:22:37.832Z"
 }
