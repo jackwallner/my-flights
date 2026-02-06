@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 35825,
-    "speed": 483,
-    "timestamp": "2026-02-06T00:38:54.649Z",
-    "lat": 45.6116,
-    "lon": -122.557,
+    "distance": 0.93,
+    "altitude": 27800,
+    "speed": 482,
+    "timestamp": "2026-02-06T00:42:47.983Z",
+    "lat": 45.6221,
+    "lon": -122.5064,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1983",
-    "aircraftType": "B737",
-    "origin": "SJC",
+    "callsign": "SKW6481",
+    "aircraftType": "CRJ",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T00:38:54.645Z"
+    "firstSeen": "2026-02-06T00:42:47.980Z"
   },
-  "overheadScore": 1.47,
-  "isOverhead": false,
+  "overheadScore": 0.93,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T00:39:53.118Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T00:42:47.983Z"
 }
