@@ -15457,5 +15457,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 483,
     "_sessionKey": "ASA703_2026-02-06T02"
+  },
+  {
+    "callsign": "ASA591",
+    "flightNumber": "AS591",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "ACD47E",
+    "registration": "N926AK",
+    "firstSeen": "2026-02-06T02:18:56.003Z",
+    "lastSeen": "2026-02-06T02:18:56.003Z",
+    "duration": 0,
+    "closestDistance": 1.4799356173885359,
+    "closestAltitude": 33425,
+    "closestSpeed": 486,
+    "initialDistance": 1.4799356173885359,
+    "initialAltitude": 33425,
+    "initialSpeed": 486,
+    "_sessionKey": "ASA591_2026-02-06T02"
   }
 ]

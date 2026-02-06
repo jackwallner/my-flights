@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.85,
-    "altitude": 36000,
-    "speed": 483,
-    "timestamp": "2026-02-06T02:10:34.422Z",
-    "lat": 45.6247,
-    "lon": -122.5078,
+    "distance": 1.48,
+    "altitude": 33425,
+    "speed": 486,
+    "timestamp": "2026-02-06T02:18:56.008Z",
+    "lat": 45.6323,
+    "lon": -122.5619,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA703",
-    "aircraftType": "737 ",
-    "origin": "BUR",
+    "callsign": "ASA591",
+    "aircraftType": "B39M",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-06T02:10:34.419Z"
+    "firstSeen": "2026-02-06T02:18:56.003Z"
   },
-  "overheadScore": 0.85,
-  "isOverhead": true,
+  "overheadScore": 1.48,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-06T02:11:33.051Z"
+  "status": "tracking",
+  "timestamp": "2026-02-06T02:18:56.008Z"
 }
