@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.24,
-    "altitude": 36000,
-    "speed": 499,
-    "timestamp": "2026-02-06T03:12:44.911Z",
-    "lat": 45.6049,
-    "lon": -122.5322,
+    "distance": 1.41,
+    "altitude": 35075,
+    "speed": 497,
+    "timestamp": "2026-02-06T03:20:04.316Z",
+    "lat": 45.6297,
+    "lon": -122.5612,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SCW3916",
-    "aircraftType": "CRJ",
-    "origin": "LAX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-06T03:12:44.908Z"
+    "callsign": "ASA523",
+    "aircraftType": "B39M",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T03:20:04.313Z"
   },
-  "overheadScore": 1.24,
+  "overheadScore": 1.41,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T03:13:43.660Z"
+  "timestamp": "2026-02-06T03:21:03.394Z"
 }
