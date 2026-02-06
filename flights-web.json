@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 1300,
-    "speed": 116,
-    "timestamp": "2026-02-06T20:17:53.606Z",
-    "lat": 45.6283,
-    "lon": -122.5329,
+    "distance": 0.86,
+    "altitude": 34000,
+    "speed": 481,
+    "timestamp": "2026-02-06T20:21:25.470Z",
+    "lat": 45.6244,
+    "lon": -122.5076,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N799AC",
-    "aircraftType": "C206",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-06T20:17:53.601Z"
+    "callsign": "ASA1378",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T20:21:25.466Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.86,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-06T20:18:51.263Z"
+  "timestamp": "2026-02-06T20:22:23.722Z"
 }
