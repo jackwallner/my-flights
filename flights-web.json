@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.38,
-    "altitude": 2375,
-    "speed": 93,
-    "timestamp": "2026-02-06T21:45:23.157Z",
-    "lat": 45.614,
-    "lon": -122.5568,
+    "distance": 1.14,
+    "altitude": 35750,
+    "speed": 471,
+    "timestamp": "2026-02-06T21:46:21.393Z",
+    "lat": 45.6178,
+    "lon": -122.5032,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6552U",
-    "aircraftType": "M20P",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-06T21:45:23.153Z"
+    "callsign": "DAL1045",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T21:46:21.389Z"
   },
-  "overheadScore": 1.38,
+  "overheadScore": 1.14,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-06T21:45:23.157Z"
+  "status": "completed",
+  "timestamp": "2026-02-06T21:47:19.906Z"
 }

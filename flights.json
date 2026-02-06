@@ -17657,5 +17657,25 @@
     "initialAltitude": 2375,
     "initialSpeed": 93,
     "_sessionKey": "N6552U_2026-02-06T21"
+  },
+  {
+    "callsign": "DAL1045",
+    "flightNumber": "DL1045",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A44CDA",
+    "registration": "N3763D",
+    "firstSeen": "2026-02-06T21:46:21.389Z",
+    "lastSeen": "2026-02-06T21:46:21.389Z",
+    "duration": 0,
+    "closestDistance": 1.138429540074886,
+    "closestAltitude": 35750,
+    "closestSpeed": 471,
+    "initialDistance": 1.138429540074886,
+    "initialAltitude": 35750,
+    "initialSpeed": 471,
+    "_sessionKey": "DAL1045_2026-02-06T21"
   }
 ]
