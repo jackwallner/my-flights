@@ -17597,5 +17597,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 496,
     "_sessionKey": "ASA580_2026-02-06T21"
+  },
+  {
+    "callsign": "N55EL",
+    "flightNumber": null,
+    "aircraftType": "RV6",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A6FD81",
+    "registration": "N55EL",
+    "firstSeen": "2026-02-06T21:27:10.279Z",
+    "lastSeen": "2026-02-06T21:27:10.279Z",
+    "duration": 0,
+    "closestDistance": 1.4906644667932125,
+    "closestAltitude": 1350,
+    "closestSpeed": 144,
+    "initialDistance": 1.4906644667932125,
+    "initialAltitude": 1350,
+    "initialSpeed": 144,
+    "_sessionKey": "N55EL_2026-02-06T21"
   }
 ]
