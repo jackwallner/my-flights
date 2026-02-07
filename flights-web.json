@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.87,
-    "altitude": 43000,
-    "speed": 454,
-    "timestamp": "2026-02-07T20:57:35.912Z",
-    "lat": 45.6235,
-    "lon": -122.5076,
+    "distance": 1.47,
+    "altitude": 24000,
+    "speed": 442,
+    "timestamp": "2026-02-07T21:10:14.837Z",
+    "lat": 45.6317,
+    "lon": -122.5618,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ263",
-    "aircraftType": "E545",
-    "origin": "LAS",
-    "destination": "BFI",
-    "firstSeen": "2026-02-07T20:57:35.908Z"
+    "callsign": "QXE2344",
+    "aircraftType": "E175",
+    "origin": "STS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-07T21:10:14.834Z"
   },
-  "overheadScore": 0.87,
-  "isOverhead": true,
+  "overheadScore": 1.47,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T20:58:34.535Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T21:10:14.837Z"
 }
