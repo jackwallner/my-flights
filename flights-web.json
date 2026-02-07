@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.03,
-    "altitude": 22000,
-    "speed": 445,
-    "timestamp": "2026-02-07T21:39:27.583Z",
-    "lat": 45.6117,
-    "lon": -122.513,
+    "distance": 1.11,
+    "altitude": 24000,
+    "speed": 383,
+    "timestamp": "2026-02-07T22:02:42.381Z",
+    "lat": 45.6184,
+    "lon": -122.5037,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "JZA597",
-    "aircraftType": "CRJ",
-    "origin": "SMF",
-    "destination": "YVR",
-    "firstSeen": "2026-02-07T21:39:27.580Z"
+    "callsign": "ASA654",
+    "aircraftType": "737",
+    "origin": "ONT",
+    "destination": "SEA",
+    "firstSeen": "2026-02-07T22:02:42.376Z"
   },
-  "overheadScore": 1.03,
+  "overheadScore": 1.11,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T21:40:25.674Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T22:02:42.381Z"
 }

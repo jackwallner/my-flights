@@ -20657,5 +20657,25 @@
     "initialAltitude": 22000,
     "initialSpeed": 445,
     "_sessionKey": "JZA597_2026-02-07T21"
+  },
+  {
+    "callsign": "ASA654",
+    "flightNumber": "AS654",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "SEA",
+    "icao": "A5939C",
+    "registration": "N459AS",
+    "firstSeen": "2026-02-07T22:02:42.376Z",
+    "lastSeen": "2026-02-07T22:02:42.376Z",
+    "duration": 0,
+    "closestDistance": 1.105198027158574,
+    "closestAltitude": 24000,
+    "closestSpeed": 383,
+    "initialDistance": 1.105198027158574,
+    "initialAltitude": 24000,
+    "initialSpeed": 383,
+    "_sessionKey": "ASA654_2026-02-07T22"
   }
 ]
