@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.05,
-    "altitude": 31700,
-    "speed": 470,
-    "timestamp": "2026-02-07T18:02:58.188Z",
-    "lat": 45.6107,
-    "lon": -122.5143,
+    "distance": 1.25,
+    "altitude": 1550,
+    "speed": 159,
+    "timestamp": "2026-02-07T18:07:34.043Z",
+    "lat": 45.6117,
+    "lon": -122.5506,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "IJA30",
-    "aircraftType": "LJ60",
-    "origin": "SNA",
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-02-07T18:02:58.184Z"
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 1.05,
+  "overheadScore": 1.25,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T18:03:57.501Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T18:07:34.043Z"
 }
