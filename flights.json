@@ -20437,5 +20437,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 427,
     "_sessionKey": "SKW3026_2026-02-07T20"
+  },
+  {
+    "callsign": "ASA777",
+    "flightNumber": "AS777",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "PAE",
+    "icao": "A97608",
+    "registration": "N709AL",
+    "firstSeen": "2026-02-07T20:33:48.744Z",
+    "lastSeen": "2026-02-07T20:33:48.744Z",
+    "duration": 0,
+    "closestDistance": 1.4625098992996268,
+    "closestAltitude": 36000,
+    "closestSpeed": 420,
+    "initialDistance": 1.4625098992996268,
+    "initialAltitude": 36000,
+    "initialSpeed": 420,
+    "_sessionKey": "ASA777_2026-02-07T20"
   }
 ]
