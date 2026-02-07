@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.44,
+    "distance": 0.83,
     "altitude": 36000,
-    "speed": 456,
-    "timestamp": "2026-02-07T00:57:40.851Z",
-    "lat": 45.6308,
-    "lon": -122.5614,
+    "speed": 428,
+    "timestamp": "2026-02-07T01:00:39.842Z",
+    "lat": 45.6252,
+    "lon": -122.5083,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA745",
+    "callsign": "DAL2585",
     "aircraftType": "737",
-    "origin": "SJC",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T00:57:40.847Z"
+    "firstSeen": "2026-02-07T01:00:39.838Z"
   },
-  "overheadScore": 1.44,
-  "isOverhead": false,
+  "overheadScore": 0.83,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T00:58:38.831Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T01:00:39.842Z"
 }
