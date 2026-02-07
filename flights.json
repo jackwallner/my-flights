@@ -18357,5 +18357,25 @@
     "initialAltitude": 1825,
     "initialSpeed": 202,
     "_sessionKey": "N369GX_2026-02-07T00"
+  },
+  {
+    "callsign": "N11HM",
+    "flightNumber": null,
+    "aircraftType": "GALX",
+    "aircraftName": null,
+    "origin": "CLD",
+    "destination": "PAE",
+    "icao": "A02A95",
+    "registration": "N11HM",
+    "firstSeen": "2026-02-07T00:44:17.141Z",
+    "lastSeen": "2026-02-07T00:44:17.141Z",
+    "duration": 0,
+    "closestDistance": 1.115849489342169,
+    "closestAltitude": 40000,
+    "closestSpeed": 487,
+    "initialDistance": 1.115849489342169,
+    "initialAltitude": 40000,
+    "initialSpeed": 487,
+    "_sessionKey": "N11HM_2026-02-07T00"
   }
 ]

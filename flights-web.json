@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.09,
-    "altitude": 1825,
-    "speed": 202,
-    "timestamp": "2026-02-07T00:37:09.401Z",
-    "lat": 45.6082,
-    "lon": -122.5368,
+    "distance": 1.12,
+    "altitude": 40000,
+    "speed": 487,
+    "timestamp": "2026-02-07T00:44:17.146Z",
+    "lat": 45.6076,
+    "lon": -122.5363,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N369GX",
-    "aircraftType": "EPIC",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-07T00:37:09.397Z"
+    "callsign": "N11HM",
+    "aircraftType": "GALX",
+    "origin": "CLD",
+    "destination": "PAE",
+    "firstSeen": "2026-02-07T00:44:17.141Z"
   },
-  "overheadScore": 1.09,
+  "overheadScore": 1.12,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T00:38:07.086Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T00:44:17.146Z"
 }
