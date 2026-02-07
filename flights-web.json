@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.99,
-    "altitude": 36025,
-    "speed": 394,
-    "timestamp": "2026-02-07T21:22:56.994Z",
-    "lat": 45.622,
-    "lon": -122.5051,
+    "distance": 1.36,
+    "altitude": 32000,
+    "speed": 412,
+    "timestamp": "2026-02-07T21:27:31.296Z",
+    "lat": 45.6134,
+    "lon": -122.5006,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CRJ2",
-    "aircraftType": "CRJ",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-07T21:22:56.990Z"
+    "callsign": "DAL2922",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-07T21:27:31.292Z"
   },
-  "overheadScore": 0.99,
-  "isOverhead": true,
+  "overheadScore": 1.36,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T21:23:55.363Z"
+  "timestamp": "2026-02-07T21:28:29.381Z"
 }

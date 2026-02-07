@@ -20557,5 +20557,25 @@
     "initialAltitude": 36025,
     "initialSpeed": 394,
     "_sessionKey": "CRJ2_2026-02-07T21"
+  },
+  {
+    "callsign": "DAL2922",
+    "flightNumber": "DL2922",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A445D9",
+    "registration": "N3746H",
+    "firstSeen": "2026-02-07T21:27:31.292Z",
+    "lastSeen": "2026-02-07T21:27:31.292Z",
+    "duration": 0,
+    "closestDistance": 1.3577772266927879,
+    "closestAltitude": 32000,
+    "closestSpeed": 412,
+    "initialDistance": 1.3577772266927879,
+    "initialAltitude": 32000,
+    "initialSpeed": 412,
+    "_sessionKey": "DAL2922_2026-02-07T21"
   }
 ]
