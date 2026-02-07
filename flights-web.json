@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 35975,
-    "speed": 432,
-    "timestamp": "2026-02-07T01:51:46.861Z",
-    "lat": 45.6224,
-    "lon": -122.5599,
+    "distance": 0.75,
+    "altitude": 37700,
+    "speed": 452,
+    "timestamp": "2026-02-07T02:08:51.961Z",
+    "lat": 45.6286,
+    "lon": -122.5108,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2279",
+    "callsign": "DAL2880",
     "aircraftType": "737",
-    "origin": "SFO",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T01:51:46.858Z"
+    "firstSeen": "2026-02-07T02:08:51.957Z"
   },
-  "overheadScore": 1.35,
-  "isOverhead": false,
+  "overheadScore": 0.75,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T01:52:44.837Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T02:08:51.961Z"
 }
