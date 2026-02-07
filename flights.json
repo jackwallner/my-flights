@@ -20277,5 +20277,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 445,
     "_sessionKey": "SWA2312_2026-02-07T19"
+  },
+  {
+    "callsign": "ASA798",
+    "flightNumber": "AS798",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AAF0C3",
+    "registration": "N804AK",
+    "firstSeen": "2026-02-07T19:39:39.535Z",
+    "lastSeen": "2026-02-07T19:39:39.535Z",
+    "duration": 0,
+    "closestDistance": 1.2848118350582116,
+    "closestAltitude": 37550,
+    "closestSpeed": 449,
+    "initialDistance": 1.2848118350582116,
+    "initialAltitude": 37550,
+    "initialSpeed": 449,
+    "_sessionKey": "ASA798_2026-02-07T19"
   }
 ]
