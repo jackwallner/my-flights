@@ -18237,5 +18237,25 @@
     "initialAltitude": 38100,
     "initialSpeed": 452,
     "_sessionKey": "FA50_2026-02-07T00"
+  },
+  {
+    "callsign": "QXE2037",
+    "flightNumber": "AS2037",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "RDD",
+    "destination": "SEA",
+    "icao": "A8557A",
+    "registration": "N636QX",
+    "firstSeen": "2026-02-07T00:21:12.580Z",
+    "lastSeen": "2026-02-07T00:21:12.580Z",
+    "duration": 0,
+    "closestDistance": 1.3409137043297568,
+    "closestAltitude": 32000,
+    "closestSpeed": 460,
+    "initialDistance": 1.3409137043297568,
+    "initialAltitude": 32000,
+    "initialSpeed": 460,
+    "_sessionKey": "QXE2037_2026-02-07T00"
   }
 ]
