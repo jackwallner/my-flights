@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
-    "altitude": 26000,
-    "speed": 407,
-    "timestamp": "2026-02-07T08:02:08.242Z",
-    "lat": 45.6248,
-    "lon": -122.56,
+    "distance": 1.26,
+    "altitude": 30000,
+    "speed": 415,
+    "timestamp": "2026-02-07T08:23:42.045Z",
+    "lat": 45.6157,
+    "lon": -122.5013,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5579",
-    "aircraftType": "E175",
-    "origin": "SFO",
+    "callsign": "SKW6444",
+    "aircraftType": "CRJ",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T08:02:08.238Z"
+    "firstSeen": "2026-02-07T08:23:42.040Z"
   },
-  "overheadScore": 1.34,
+  "overheadScore": 1.26,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T08:03:06.783Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T08:23:42.045Z"
 }
