@@ -18857,5 +18857,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 428,
     "_sessionKey": "ASA691_2026-02-07T03"
+  },
+  {
+    "callsign": "N7274G",
+    "flightNumber": null,
+    "aircraftType": "C150",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A9C078",
+    "registration": "N7274G",
+    "firstSeen": "2026-02-07T03:22:33.915Z",
+    "lastSeen": "2026-02-07T03:22:33.915Z",
+    "duration": 0,
+    "closestDistance": 1.382662059253383,
+    "closestAltitude": 2700,
+    "closestSpeed": 57,
+    "initialDistance": 1.382662059253383,
+    "initialAltitude": 2700,
+    "initialSpeed": 57,
+    "_sessionKey": "N7274G_2026-02-07T03"
   }
 ]
