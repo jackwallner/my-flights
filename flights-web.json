@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.32,
-    "altitude": 36825,
-    "speed": 429,
-    "timestamp": "2026-02-07T02:30:24.939Z",
-    "lat": 45.606,
-    "lon": -122.5434,
+    "distance": 1.4,
+    "altitude": 24000,
+    "speed": 404,
+    "timestamp": "2026-02-07T02:31:54.062Z",
+    "lat": 45.6143,
+    "lon": -122.5574,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE9990",
-    "aircraftType": "E175",
-    "origin": "MFR",
+    "callsign": "ASA1359",
+    "aircraftType": "737",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T02:30:24.935Z"
+    "firstSeen": "2026-02-07T02:31:54.058Z"
   },
-  "overheadScore": 1.32,
+  "overheadScore": 1.4,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-07T02:30:24.939Z"
+  "status": "completed",
+  "timestamp": "2026-02-07T02:32:51.971Z"
 }
