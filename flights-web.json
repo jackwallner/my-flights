@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
+    "distance": 1.38,
     "altitude": 24000,
-    "speed": 411,
-    "timestamp": "2026-02-07T04:01:43.393Z",
-    "lat": 45.6246,
-    "lon": -122.5603,
+    "speed": 410,
+    "timestamp": "2026-02-07T04:05:15.813Z",
+    "lat": 45.6151,
+    "lon": -122.5575,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2230",
+    "callsign": "SKW4100",
     "aircraftType": "E175",
-    "origin": "SBP",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T04:01:43.389Z"
+    "firstSeen": "2026-02-07T04:05:15.809Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.38,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T04:02:41.502Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T04:05:15.813Z"
 }
