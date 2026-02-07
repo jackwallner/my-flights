@@ -20517,5 +20517,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 420,
     "_sessionKey": "ASA550_2026-02-07T21"
+  },
+  {
+    "callsign": "SKW3736",
+    "flightNumber": "DL3736",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A324B0",
+    "registration": "N301SY",
+    "firstSeen": "2026-02-07T21:20:36.329Z",
+    "lastSeen": "2026-02-07T21:20:36.329Z",
+    "duration": 0,
+    "closestDistance": 1.4101073782749916,
+    "closestAltitude": 25600,
+    "closestSpeed": 440,
+    "initialDistance": 1.4101073782749916,
+    "initialAltitude": 25600,
+    "initialSpeed": 440,
+    "_sessionKey": "SKW3736_2026-02-07T21"
   }
 ]
