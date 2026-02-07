@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 1600,
-    "speed": 86,
-    "timestamp": "2026-02-06T23:58:51.524Z",
-    "lat": 45.6185,
-    "lon": -122.5285,
-    "precision": "high"
+    "distance": 1.33,
+    "altitude": 24000,
+    "speed": 415,
+    "timestamp": "2026-02-06T23:59:53.094Z",
+    "lat": 45.6227,
+    "lon": -122.5595,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N18586",
-    "aircraftType": "C150",
-    "origin": "MFR",
-    "destination": null,
-    "firstSeen": "2026-02-06T23:57:53.810Z"
+    "callsign": "SKW3814",
+    "aircraftType": "E175",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-02-06T23:59:53.089Z"
   },
-  "overheadScore": 0.41,
-  "isOverhead": true,
-  "pathSnapshots": 8,
-  "status": "tracking",
-  "timestamp": "2026-02-06T23:59:53.094Z"
+  "overheadScore": 1.33,
+  "isOverhead": false,
+  "pathSnapshots": 1,
+  "status": "completed",
+  "timestamp": "2026-02-07T00:00:51.676Z"
 }
