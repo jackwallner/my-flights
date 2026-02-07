@@ -20037,5 +20037,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 441,
     "_sessionKey": "SKW4042_2026-02-07T17"
+  },
+  {
+    "callsign": "DAL1293",
+    "flightNumber": "DL1293",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A01F13",
+    "registration": "N107DU",
+    "firstSeen": "2026-02-07T17:34:22.358Z",
+    "lastSeen": "2026-02-07T17:34:22.358Z",
+    "duration": 0,
+    "closestDistance": 0.7627730922480755,
+    "closestAltitude": 34700,
+    "closestSpeed": 454,
+    "initialDistance": 0.7627730922480755,
+    "initialAltitude": 34700,
+    "initialSpeed": 454,
+    "_sessionKey": "DAL1293_2026-02-07T17"
   }
 ]

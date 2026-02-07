@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.21,
-    "altitude": 36000,
-    "speed": 441,
-    "timestamp": "2026-02-07T17:26:42.339Z",
-    "lat": 45.6165,
-    "lon": -122.5023,
+    "distance": 0.76,
+    "altitude": 34700,
+    "speed": 454,
+    "timestamp": "2026-02-07T17:34:22.362Z",
+    "lat": 45.6274,
+    "lon": -122.5102,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4042",
-    "aircraftType": "E175",
-    "origin": "ONT",
+    "callsign": "DAL1293",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T17:26:42.335Z"
+    "firstSeen": "2026-02-07T17:34:22.358Z"
   },
-  "overheadScore": 1.21,
-  "isOverhead": false,
+  "overheadScore": 0.76,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T17:27:41.052Z"
+  "timestamp": "2026-02-07T17:35:20.579Z"
 }
