@@ -20497,5 +20497,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 442,
     "_sessionKey": "QXE2344_2026-02-07T21"
+  },
+  {
+    "callsign": "ASA550",
+    "flightNumber": "AS550",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A29908",
+    "registration": "N267AK",
+    "firstSeen": "2026-02-07T21:14:19.291Z",
+    "lastSeen": "2026-02-07T21:14:19.291Z",
+    "duration": 0,
+    "closestDistance": 1.3928350621139187,
+    "closestAltitude": 24000,
+    "closestSpeed": 420,
+    "initialDistance": 1.3928350621139187,
+    "initialAltitude": 24000,
+    "initialSpeed": 420,
+    "_sessionKey": "ASA550_2026-02-07T21"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.47,
+    "distance": 1.39,
     "altitude": 24000,
-    "speed": 442,
-    "timestamp": "2026-02-07T21:10:14.837Z",
-    "lat": 45.6317,
-    "lon": -122.5618,
+    "speed": 420,
+    "timestamp": "2026-02-07T21:14:19.295Z",
+    "lat": 45.6288,
+    "lon": -122.5609,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2344",
-    "aircraftType": "E175",
-    "origin": "STS",
+    "callsign": "ASA550",
+    "aircraftType": "737",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T21:10:14.834Z"
+    "firstSeen": "2026-02-07T21:14:19.291Z"
   },
-  "overheadScore": 1.47,
+  "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T21:11:13.816Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T21:14:19.295Z"
 }
