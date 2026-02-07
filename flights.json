@@ -20757,5 +20757,25 @@
     "initialAltitude": 20000,
     "initialSpeed": 388,
     "_sessionKey": "QXE2016_2026-02-07T22"
+  },
+  {
+    "callsign": "PC12",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-07T22:47:54.275Z",
+    "lastSeen": "2026-02-07T22:47:54.275Z",
+    "duration": 0,
+    "closestDistance": 1.2453547109456802,
+    "closestAltitude": 1100,
+    "closestSpeed": 179,
+    "initialDistance": 1.2453547109456802,
+    "initialAltitude": 1100,
+    "initialSpeed": 179,
+    "_sessionKey": "PC12_2026-02-07T22"
   }
 ]
