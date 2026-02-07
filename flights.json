@@ -20357,5 +20357,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 450,
     "_sessionKey": "DAL1714_2026-02-07T19"
+  },
+  {
+    "callsign": "SWA4045",
+    "flightNumber": "WN4045",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AC287C",
+    "registration": "N8826Q",
+    "firstSeen": "2026-02-07T20:07:02.879Z",
+    "lastSeen": "2026-02-07T20:07:02.879Z",
+    "duration": 0,
+    "closestDistance": 1.331809609007982,
+    "closestAltitude": 39700,
+    "closestSpeed": 462,
+    "initialDistance": 1.331809609007982,
+    "initialAltitude": 39700,
+    "initialSpeed": 462,
+    "_sessionKey": "SWA4045_2026-02-07T20"
   }
 ]
