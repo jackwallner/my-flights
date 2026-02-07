@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.49,
-    "altitude": 30000,
-    "speed": 280,
-    "timestamp": "2026-02-07T23:41:27.446Z",
-    "lat": 45.6105,
-    "lon": -122.5567,
+    "distance": 0.81,
+    "altitude": 20000,
+    "speed": 393,
+    "timestamp": "2026-02-07T23:43:17.445Z",
+    "lat": 45.6263,
+    "lon": -122.5089,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N818AD",
-    "aircraftType": "SF50",
-    "origin": "SBP",
-    "destination": "BFI",
-    "firstSeen": "2026-02-07T23:41:27.441Z"
+    "callsign": "DAL2905",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-07T23:43:17.441Z"
   },
-  "overheadScore": 1.49,
-  "isOverhead": false,
+  "overheadScore": 0.81,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T23:42:25.783Z"
+  "timestamp": "2026-02-07T23:44:15.620Z"
 }
