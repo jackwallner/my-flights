@@ -19377,5 +19377,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 424,
     "_sessionKey": "ASA1346_2026-02-07T05"
+  },
+  {
+    "callsign": "ASA541",
+    "flightNumber": "AS541",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A66CA5",
+    "registration": "N513AS",
+    "firstSeen": "2026-02-07T06:03:15.538Z",
+    "lastSeen": "2026-02-07T06:03:15.538Z",
+    "duration": 0,
+    "closestDistance": 1.3831399951226087,
+    "closestAltitude": 24000,
+    "closestSpeed": 405,
+    "initialDistance": 1.3831399951226087,
+    "initialAltitude": 24000,
+    "initialSpeed": 405,
+    "_sessionKey": "ASA541_2026-02-07T06"
   }
 ]
