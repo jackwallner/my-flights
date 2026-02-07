@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 38000,
-    "speed": 458,
-    "timestamp": "2026-02-07T01:35:50.283Z",
-    "lat": 45.6128,
-    "lon": -122.4992,
+    "distance": 1.36,
+    "altitude": 36000,
+    "speed": 449,
+    "timestamp": "2026-02-07T01:40:45.371Z",
+    "lat": 45.6256,
+    "lon": -122.5605,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2606",
-    "aircraftType": "A321",
-    "origin": "LAX",
+    "callsign": "SWA3678",
+    "aircraftType": "737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T01:35:50.278Z"
+    "firstSeen": "2026-02-07T01:40:45.284Z"
   },
-  "overheadScore": 1.43,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T01:36:48.216Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T01:40:45.371Z"
 }
