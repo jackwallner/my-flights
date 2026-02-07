@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.42,
-    "altitude": 22000,
-    "speed": 425,
-    "timestamp": "2026-02-07T23:04:24.487Z",
-    "lat": 45.6042,
-    "lon": -122.5126,
+    "distance": 1.45,
+    "altitude": 20000,
+    "speed": 404,
+    "timestamp": "2026-02-07T23:37:13.105Z",
+    "lat": 45.6119,
+    "lon": -122.5569,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "JZA765",
-    "aircraftType": "CRJ",
-    "origin": "SAN",
-    "destination": "YVR",
-    "firstSeen": "2026-02-07T23:04:24.484Z"
+    "callsign": "UAL1008",
+    "aircraftType": "A320",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-07T23:37:13.101Z"
   },
-  "overheadScore": 1.42,
+  "overheadScore": 1.45,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T23:05:23.022Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T23:37:13.105Z"
 }
