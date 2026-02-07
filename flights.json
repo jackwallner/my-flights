@@ -19137,5 +19137,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 433,
     "_sessionKey": "DAL2955_2026-02-07T04"
+  },
+  {
+    "callsign": "SWA1311",
+    "flightNumber": "WN1311",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A73F35",
+    "registration": "N566WN",
+    "firstSeen": "2026-02-07T04:44:15.637Z",
+    "lastSeen": "2026-02-07T04:44:15.637Z",
+    "duration": 0,
+    "closestDistance": 1.3884799068516194,
+    "closestAltitude": 24000,
+    "closestSpeed": 415,
+    "initialDistance": 1.3884799068516194,
+    "initialAltitude": 24000,
+    "initialSpeed": 415,
+    "_sessionKey": "SWA1311_2026-02-07T04"
   }
 ]
