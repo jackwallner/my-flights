@@ -19357,5 +19357,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 420,
     "_sessionKey": "ASA574_2026-02-07T05"
+  },
+  {
+    "callsign": "ASA1346",
+    "flightNumber": "AS1346",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "PAE",
+    "icao": "A5F3CF",
+    "registration": "N483AS",
+    "firstSeen": "2026-02-07T05:53:01.936Z",
+    "lastSeen": "2026-02-07T05:53:01.936Z",
+    "duration": 0,
+    "closestDistance": 1.331161074765596,
+    "closestAltitude": 38000,
+    "closestSpeed": 424,
+    "initialDistance": 1.331161074765596,
+    "initialAltitude": 38000,
+    "initialSpeed": 424,
+    "_sessionKey": "ASA1346_2026-02-07T05"
   }
 ]
