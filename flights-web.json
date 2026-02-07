@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 38000,
-    "speed": 450,
-    "timestamp": "2026-02-07T20:10:05.050Z",
-    "lat": 45.6119,
-    "lon": -122.5572,
+    "distance": 1.49,
+    "altitude": 39975,
+    "speed": 461,
+    "timestamp": "2026-02-07T20:16:03.442Z",
+    "lat": 45.6102,
+    "lon": -122.5564,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL976",
-    "aircraftType": "A220",
-    "origin": "SFO",
+    "callsign": "ASA1311",
+    "aircraftType": "737",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T20:10:05.047Z"
+    "firstSeen": "2026-02-07T20:16:03.439Z"
   },
-  "overheadScore": 1.46,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T20:11:04.303Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T20:16:03.443Z"
 }
