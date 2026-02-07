@@ -18457,5 +18457,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 428,
     "_sessionKey": "DAL2585_2026-02-07T01"
+  },
+  {
+    "callsign": "BTQ901",
+    "flightNumber": "4B901",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A57774",
+    "registration": "N451SS",
+    "firstSeen": "2026-02-07T01:06:46.080Z",
+    "lastSeen": "2026-02-07T01:06:46.080Z",
+    "duration": 0,
+    "closestDistance": 1.4817019806335405,
+    "closestAltitude": 1300,
+    "closestSpeed": 162,
+    "initialDistance": 1.4817019806335405,
+    "initialAltitude": 1300,
+    "initialSpeed": 162,
+    "_sessionKey": "BTQ901_2026-02-07T01"
   }
 ]

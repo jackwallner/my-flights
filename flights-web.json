@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.83,
-    "altitude": 36000,
-    "speed": 428,
-    "timestamp": "2026-02-07T01:00:39.842Z",
-    "lat": 45.6252,
-    "lon": -122.5083,
+    "distance": 1.48,
+    "altitude": 1300,
+    "speed": 162,
+    "timestamp": "2026-02-07T01:06:46.084Z",
+    "lat": 45.6035,
+    "lon": -122.5447,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2585",
-    "aircraftType": "737",
-    "origin": "PSP",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T01:00:39.838Z"
+    "callsign": "BTQ901",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-02-07T01:06:46.080Z"
   },
-  "overheadScore": 0.83,
-  "isOverhead": true,
+  "overheadScore": 1.48,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T01:01:37.470Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T01:06:46.084Z"
 }
