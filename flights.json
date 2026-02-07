@@ -20577,5 +20577,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 412,
     "_sessionKey": "DAL2922_2026-02-07T21"
+  },
+  {
+    "callsign": "ASA580",
+    "flightNumber": "AS580",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A97251",
+    "registration": "N708AL",
+    "firstSeen": "2026-02-07T21:29:41.464Z",
+    "lastSeen": "2026-02-07T21:29:41.464Z",
+    "duration": 0,
+    "closestDistance": 1.3452271331256616,
+    "closestAltitude": 20000,
+    "closestSpeed": 407,
+    "initialDistance": 1.3452271331256616,
+    "initialAltitude": 20000,
+    "initialSpeed": 407,
+    "_sessionKey": "ASA580_2026-02-07T21"
   }
 ]
