@@ -18637,5 +18637,25 @@
     "initialAltitude": 37700,
     "initialSpeed": 452,
     "_sessionKey": "DAL2880_2026-02-07T02"
+  },
+  {
+    "callsign": "ASA676",
+    "flightNumber": "AS676",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A28DE3",
+    "registration": "N264AK",
+    "firstSeen": "2026-02-07T02:12:24.804Z",
+    "lastSeen": "2026-02-07T02:12:24.804Z",
+    "duration": 0,
+    "closestDistance": 0.9548058943265093,
+    "closestAltitude": 26000,
+    "closestSpeed": 402,
+    "initialDistance": 0.9548058943265093,
+    "initialAltitude": 26000,
+    "initialSpeed": 402,
+    "_sessionKey": "ASA676_2026-02-07T02"
   }
 ]
