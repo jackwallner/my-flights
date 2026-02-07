@@ -19637,5 +19637,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 425,
     "_sessionKey": "ATN3378_2026-02-07T09"
+  },
+  {
+    "callsign": "SKW3781",
+    "flightNumber": "DL3781",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A2F111",
+    "registration": "N289SY",
+    "firstSeen": "2026-02-07T14:54:10.182Z",
+    "lastSeen": "2026-02-07T14:54:10.182Z",
+    "duration": 0,
+    "closestDistance": 1.363411536910427,
+    "closestAltitude": 34000,
+    "closestSpeed": 455,
+    "initialDistance": 1.363411536910427,
+    "initialAltitude": 34000,
+    "initialSpeed": 455,
+    "_sessionKey": "SKW3781_2026-02-07T14"
   }
 ]
