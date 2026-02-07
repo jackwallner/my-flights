@@ -19837,5 +19837,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 450,
     "_sessionKey": "ASA701_2026-02-07T16"
+  },
+  {
+    "callsign": "ASA491",
+    "flightNumber": "AS491",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "AD99F9",
+    "registration": "N976AK",
+    "firstSeen": "2026-02-07T16:55:59.838Z",
+    "lastSeen": "2026-02-07T16:55:59.838Z",
+    "duration": 0,
+    "closestDistance": 0.9776033987049662,
+    "closestAltitude": 35475,
+    "closestSpeed": 435,
+    "initialDistance": 0.9776033987049662,
+    "initialAltitude": 35475,
+    "initialSpeed": 435,
+    "_sessionKey": "ASA491_2026-02-07T16"
   }
 ]

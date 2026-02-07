@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.94,
-    "altitude": 36000,
-    "speed": 450,
-    "timestamp": "2026-02-07T16:54:08.840Z",
-    "lat": 45.6219,
-    "lon": -122.5063,
+    "distance": 0.98,
+    "altitude": 35475,
+    "speed": 435,
+    "timestamp": "2026-02-07T16:55:59.842Z",
+    "lat": 45.6217,
+    "lon": -122.5054,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA701",
+    "callsign": "ASA491",
     "aircraftType": "B39M",
-    "origin": "LAS",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T16:54:08.836Z"
+    "firstSeen": "2026-02-07T16:55:59.838Z"
   },
-  "overheadScore": 0.94,
+  "overheadScore": 0.98,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T16:55:08.035Z"
+  "timestamp": "2026-02-07T16:56:58.613Z"
 }
