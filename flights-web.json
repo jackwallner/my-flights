@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
+    "distance": 1.13,
     "altitude": 38000,
-    "speed": 447,
-    "timestamp": "2026-02-07T18:45:03.544Z",
-    "lat": 45.6151,
-    "lon": -122.557,
+    "speed": 445,
+    "timestamp": "2026-02-07T19:16:23.215Z",
+    "lat": 45.6178,
+    "lon": -122.5033,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA642",
-    "aircraftType": "737",
-    "origin": "RNO",
+    "callsign": "SWA2312",
+    "aircraftType": "737 ",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T18:45:03.541Z"
+    "firstSeen": "2026-02-07T19:16:23.209Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.13,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T18:46:01.455Z"
+  "timestamp": "2026-02-07T19:17:22.030Z"
 }

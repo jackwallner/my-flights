@@ -20257,5 +20257,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 447,
     "_sessionKey": "ASA642_2026-02-07T18"
+  },
+  {
+    "callsign": "SWA2312",
+    "flightNumber": "WN2312",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AC289F",
+    "registration": "N8827Q",
+    "firstSeen": "2026-02-07T19:16:23.209Z",
+    "lastSeen": "2026-02-07T19:16:23.209Z",
+    "duration": 0,
+    "closestDistance": 1.134572152389927,
+    "closestAltitude": 38000,
+    "closestSpeed": 445,
+    "initialDistance": 1.134572152389927,
+    "initialAltitude": 38000,
+    "initialSpeed": 445,
+    "_sessionKey": "SWA2312_2026-02-07T19"
   }
 ]
