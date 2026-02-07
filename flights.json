@@ -18977,5 +18977,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 406,
     "_sessionKey": "SKW3030_2026-02-07T03"
+  },
+  {
+    "callsign": "ABX3111",
+    "flightNumber": "GB3111",
+    "aircraftType": "B763",
+    "aircraftName": null,
+    "origin": "SCK",
+    "destination": "SEA",
+    "icao": "A028E5",
+    "registration": "N1093A",
+    "firstSeen": "2026-02-07T03:51:52.131Z",
+    "lastSeen": "2026-02-07T03:51:52.131Z",
+    "duration": 0,
+    "closestDistance": 1.3560823071926391,
+    "closestAltitude": 38000,
+    "closestSpeed": 463,
+    "initialDistance": 1.3560823071926391,
+    "initialAltitude": 38000,
+    "initialSpeed": 463,
+    "_sessionKey": "ABX3111_2026-02-07T03"
   }
 ]

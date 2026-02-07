@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 36000,
-    "speed": 406,
-    "timestamp": "2026-02-07T03:44:13.705Z",
-    "lat": 45.6258,
-    "lon": -122.5603,
+    "distance": 1.36,
+    "altitude": 38000,
+    "speed": 463,
+    "timestamp": "2026-02-07T03:51:52.135Z",
+    "lat": 45.6169,
+    "lon": -122.5581,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3030",
-    "aircraftType": "E175",
-    "origin": "MRY",
+    "callsign": "ABX3111",
+    "aircraftType": "767",
+    "origin": "SCK",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T03:44:13.700Z"
+    "firstSeen": "2026-02-07T03:51:52.131Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T03:45:11.397Z"
+  "timestamp": "2026-02-07T03:52:50.564Z"
 }
