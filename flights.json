@@ -20297,5 +20297,25 @@
     "initialAltitude": 37550,
     "initialSpeed": 449,
     "_sessionKey": "ASA798_2026-02-07T19"
+  },
+  {
+    "callsign": "SWA279",
+    "flightNumber": "WN279",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A24493",
+    "registration": "N245WN",
+    "firstSeen": "2026-02-07T19:41:49.861Z",
+    "lastSeen": "2026-02-07T19:41:49.861Z",
+    "duration": 0,
+    "closestDistance": 1.3332737691105796,
+    "closestAltitude": 40000,
+    "closestSpeed": 451,
+    "initialDistance": 1.3332737691105796,
+    "initialAltitude": 40000,
+    "initialSpeed": 451,
+    "_sessionKey": "SWA279_2026-02-07T19"
   }
 ]
