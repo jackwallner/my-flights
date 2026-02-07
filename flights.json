@@ -20737,5 +20737,25 @@
     "initialAltitude": 20000,
     "initialSpeed": 390,
     "_sessionKey": "ASA315_2026-02-07T22"
+  },
+  {
+    "callsign": "QXE2016",
+    "flightNumber": "AS2016",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": "SEA",
+    "icao": "A8BD1B",
+    "registration": "N662QX",
+    "firstSeen": "2026-02-07T22:27:02.912Z",
+    "lastSeen": "2026-02-07T22:27:02.912Z",
+    "duration": 0,
+    "closestDistance": 1.205769685259542,
+    "closestAltitude": 20000,
+    "closestSpeed": 388,
+    "initialDistance": 1.205769685259542,
+    "initialAltitude": 20000,
+    "initialSpeed": 388,
+    "_sessionKey": "QXE2016_2026-02-07T22"
   }
 ]

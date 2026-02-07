@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.08,
+    "distance": 1.21,
     "altitude": 20000,
-    "speed": 390,
-    "timestamp": "2026-02-07T22:25:43.630Z",
-    "lat": 45.6189,
-    "lon": -122.5041,
+    "speed": 388,
+    "timestamp": "2026-02-07T22:27:02.916Z",
+    "lat": 45.6308,
+    "lon": -122.5005,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA315",
-    "aircraftType": "737",
-    "origin": "PSP",
+    "callsign": "QXE2016",
+    "aircraftType": "E175",
+    "origin": "RDM",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T22:25:43.626Z"
+    "firstSeen": "2026-02-07T22:27:02.912Z"
   },
-  "overheadScore": 1.08,
+  "overheadScore": 1.21,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T22:26:42.096Z"
+  "timestamp": "2026-02-07T22:28:00.782Z"
 }
