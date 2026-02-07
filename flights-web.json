@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.43,
-    "altitude": 40000,
-    "speed": 431,
-    "timestamp": "2026-02-07T21:33:41.235Z",
-    "lat": 45.6032,
-    "lon": -122.5155,
+    "distance": 1.03,
+    "altitude": 22000,
+    "speed": 445,
+    "timestamp": "2026-02-07T21:39:27.583Z",
+    "lat": 45.6117,
+    "lon": -122.513,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA969",
-    "aircraftType": "C68A",
-    "origin": "TRM",
-    "destination": "BFI",
-    "firstSeen": "2026-02-07T21:33:41.231Z"
+    "callsign": "JZA597",
+    "aircraftType": "CRJ",
+    "origin": "SMF",
+    "destination": "YVR",
+    "firstSeen": "2026-02-07T21:39:27.580Z"
   },
-  "overheadScore": 1.43,
+  "overheadScore": 1.03,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T21:34:39.449Z"
+  "timestamp": "2026-02-07T21:40:25.674Z"
 }

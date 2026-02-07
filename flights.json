@@ -20637,5 +20637,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 431,
     "_sessionKey": "EJA969_2026-02-07T21"
+  },
+  {
+    "callsign": "JZA597",
+    "flightNumber": "AC8597",
+    "aircraftType": "CRJ9",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "YVR",
+    "icao": "C018C8",
+    "registration": "C-FJJZ",
+    "firstSeen": "2026-02-07T21:39:27.580Z",
+    "lastSeen": "2026-02-07T21:39:27.580Z",
+    "duration": 0,
+    "closestDistance": 1.0332273629158046,
+    "closestAltitude": 22000,
+    "closestSpeed": 445,
+    "initialDistance": 1.0332273629158046,
+    "initialAltitude": 22000,
+    "initialSpeed": 445,
+    "_sessionKey": "JZA597_2026-02-07T21"
   }
 ]
