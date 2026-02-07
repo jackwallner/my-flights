@@ -20677,5 +20677,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 383,
     "_sessionKey": "ASA654_2026-02-07T22"
+  },
+  {
+    "callsign": "ASA685",
+    "flightNumber": "AS685",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A9D284",
+    "registration": "N732AL",
+    "firstSeen": "2026-02-07T22:09:20.103Z",
+    "lastSeen": "2026-02-07T22:09:20.103Z",
+    "duration": 0,
+    "closestDistance": 1.4569319189494123,
+    "closestAltitude": 24000,
+    "closestSpeed": 404,
+    "initialDistance": 1.4569319189494123,
+    "initialAltitude": 24000,
+    "initialSpeed": 404,
+    "_sessionKey": "ASA685_2026-02-07T22"
   }
 ]

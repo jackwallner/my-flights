@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.11,
+    "distance": 1.46,
     "altitude": 24000,
-    "speed": 383,
-    "timestamp": "2026-02-07T22:02:42.381Z",
-    "lat": 45.6184,
-    "lon": -122.5037,
+    "speed": 404,
+    "timestamp": "2026-02-07T22:09:20.147Z",
+    "lat": 45.6176,
+    "lon": -122.4952,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA654",
-    "aircraftType": "737",
-    "origin": "ONT",
+    "callsign": "ASA685",
+    "aircraftType": "B39M",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T22:02:42.376Z"
+    "firstSeen": "2026-02-07T22:09:20.103Z"
   },
-  "overheadScore": 1.11,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T22:03:40.162Z"
+  "timestamp": "2026-02-07T22:10:19.366Z"
 }
