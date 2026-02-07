@@ -20797,5 +20797,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 360,
     "_sessionKey": "ASA548_2026-02-07T22"
+  },
+  {
+    "callsign": "JZA765",
+    "flightNumber": "AC8765",
+    "aircraftType": "CRJ9",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "YVR",
+    "icao": "C003A8",
+    "registration": "C-FBJZ",
+    "firstSeen": "2026-02-07T23:04:24.484Z",
+    "lastSeen": "2026-02-07T23:04:24.484Z",
+    "duration": 0,
+    "closestDistance": 1.4234898561134257,
+    "closestAltitude": 22000,
+    "closestSpeed": 425,
+    "initialDistance": 1.4234898561134257,
+    "initialAltitude": 22000,
+    "initialSpeed": 425,
+    "_sessionKey": "JZA765_2026-02-07T23"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.9,
-    "altitude": 34000,
-    "speed": 360,
-    "timestamp": "2026-02-07T22:50:14.462Z",
-    "lat": 45.6232,
-    "lon": -122.5068,
+    "distance": 1.42,
+    "altitude": 22000,
+    "speed": 425,
+    "timestamp": "2026-02-07T23:04:24.487Z",
+    "lat": 45.6042,
+    "lon": -122.5126,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA548",
-    "aircraftType": "737",
-    "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T22:50:14.458Z"
+    "callsign": "JZA765",
+    "aircraftType": "CRJ",
+    "origin": "SAN",
+    "destination": "YVR",
+    "firstSeen": "2026-02-07T23:04:24.484Z"
   },
-  "overheadScore": 0.9,
-  "isOverhead": true,
+  "overheadScore": 1.42,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T22:51:12.294Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T23:04:24.487Z"
 }
