@@ -19557,5 +19557,25 @@
     "initialAltitude": 37450,
     "initialSpeed": 429,
     "_sessionKey": "ASA652_2026-02-07T07"
+  },
+  {
+    "callsign": "DAL1551",
+    "flightNumber": "DL1551",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AC30C0",
+    "registration": "N885DN",
+    "firstSeen": "2026-02-07T07:45:12.782Z",
+    "lastSeen": "2026-02-07T07:45:12.782Z",
+    "duration": 0,
+    "closestDistance": 0.7736193990237751,
+    "closestAltitude": 38000,
+    "closestSpeed": 448,
+    "initialDistance": 0.7736193990237751,
+    "initialAltitude": 38000,
+    "initialSpeed": 448,
+    "_sessionKey": "DAL1551_2026-02-07T07"
   }
 ]
