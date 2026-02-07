@@ -20697,5 +20697,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 404,
     "_sessionKey": "ASA685_2026-02-07T22"
+  },
+  {
+    "callsign": "DAL2508",
+    "flightNumber": "DL2508",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A44CFD",
+    "registration": "N3764D",
+    "firstSeen": "2026-02-07T22:18:53.906Z",
+    "lastSeen": "2026-02-07T22:18:53.906Z",
+    "duration": 0,
+    "closestDistance": 1.3902713147424852,
+    "closestAltitude": 19975,
+    "closestSpeed": 445,
+    "initialDistance": 1.3902713147424852,
+    "initialAltitude": 19975,
+    "initialSpeed": 445,
+    "_sessionKey": "DAL2508_2026-02-07T22"
   }
 ]
