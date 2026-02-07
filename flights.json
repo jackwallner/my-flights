@@ -19917,5 +19917,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 446,
     "_sessionKey": "ASA179_2026-02-07T17"
+  },
+  {
+    "callsign": "ASA504",
+    "flightNumber": "AS504",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A73220",
+    "registration": "N563AS",
+    "firstSeen": "2026-02-07T17:07:56.748Z",
+    "lastSeen": "2026-02-07T17:07:56.748Z",
+    "duration": 0,
+    "closestDistance": 1.1458253525740283,
+    "closestAltitude": 35975,
+    "closestSpeed": 457,
+    "initialDistance": 1.1458253525740283,
+    "initialAltitude": 35975,
+    "initialSpeed": 457,
+    "_sessionKey": "ASA504_2026-02-07T17"
   }
 ]
