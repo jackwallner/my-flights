@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 40000,
-    "speed": 475,
-    "timestamp": "2026-02-07T17:01:36.811Z",
-    "lat": 45.6117,
-    "lon": -122.5573,
+    "distance": 1.07,
+    "altitude": 24725,
+    "speed": 414,
+    "timestamp": "2026-02-07T17:04:07.179Z",
+    "lat": 45.6191,
+    "lon": -122.5042,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA253",
-    "aircraftType": "Chal",
-    "origin": "OAK",
+    "callsign": "ASA1325",
+    "aircraftType": "737 ",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T17:01:36.807Z"
+    "firstSeen": "2026-02-07T17:04:07.175Z"
   },
-  "overheadScore": 1.47,
+  "overheadScore": 1.07,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T17:02:34.611Z"
+  "timestamp": "2026-02-07T17:05:05.073Z"
 }
