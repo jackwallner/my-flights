@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 2800,
-    "speed": 102,
-    "timestamp": "2026-02-07T04:52:22.781Z",
-    "lat": 45.6241,
-    "lon": -122.5177,
-    "precision": "high"
+    "distance": 1.38,
+    "altitude": 24000,
+    "speed": 429,
+    "timestamp": "2026-02-07T04:57:07.458Z",
+    "lat": 45.6275,
+    "lon": -122.5609,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7274G",
-    "aircraftType": "C150",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-07T04:51:24.606Z"
+    "callsign": "ASA600",
+    "aircraftType": "B39M",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-07T04:57:07.454Z"
   },
-  "overheadScore": 0.44,
-  "isOverhead": true,
-  "pathSnapshots": 5,
-  "status": "completed",
-  "timestamp": "2026-02-07T04:53:04.047Z"
+  "overheadScore": 1.38,
+  "isOverhead": false,
+  "pathSnapshots": 2,
+  "status": "tracking",
+  "timestamp": "2026-02-07T04:57:07.458Z"
 }
