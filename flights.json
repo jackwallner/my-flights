@@ -19537,5 +19537,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 415,
     "_sessionKey": "ASA94_2026-02-07T06"
+  },
+  {
+    "callsign": "ASA652",
+    "flightNumber": "AS652",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "AC9E23",
+    "registration": "N912AK",
+    "firstSeen": "2026-02-07T07:07:16.986Z",
+    "lastSeen": "2026-02-07T07:07:16.986Z",
+    "duration": 0,
+    "closestDistance": 1.4595695887374862,
+    "closestAltitude": 37450,
+    "closestSpeed": 429,
+    "initialDistance": 1.4595695887374862,
+    "initialAltitude": 37450,
+    "initialSpeed": 429,
+    "_sessionKey": "ASA652_2026-02-07T07"
   }
 ]
