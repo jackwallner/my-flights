@@ -18157,5 +18157,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 415,
     "_sessionKey": "SKW3814_2026-02-06T23"
+  },
+  {
+    "callsign": "ASA1342",
+    "flightNumber": "AS1342",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A5DB2C",
+    "registration": "N477AS",
+    "firstSeen": "2026-02-07T00:09:46.384Z",
+    "lastSeen": "2026-02-07T00:09:46.384Z",
+    "duration": 0,
+    "closestDistance": 1.4052568169007686,
+    "closestAltitude": 36000,
+    "closestSpeed": 470,
+    "initialDistance": 1.4052568169007686,
+    "initialAltitude": 36000,
+    "initialSpeed": 470,
+    "_sessionKey": "ASA1342_2026-02-07T00"
   }
 ]
