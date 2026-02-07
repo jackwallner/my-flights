@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.49,
-    "altitude": 39975,
-    "speed": 461,
-    "timestamp": "2026-02-07T20:16:03.442Z",
-    "lat": 45.6102,
-    "lon": -122.5564,
+    "distance": 1.36,
+    "altitude": 36000,
+    "speed": 427,
+    "timestamp": "2026-02-07T20:29:34.819Z",
+    "lat": 45.6266,
+    "lon": -122.5605,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1311",
-    "aircraftType": "737",
-    "origin": "SJC",
+    "callsign": "SKW3026",
+    "aircraftType": "E175",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T20:16:03.439Z"
+    "firstSeen": "2026-02-07T20:29:34.731Z"
   },
-  "overheadScore": 1.49,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T20:17:02.695Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T20:29:34.819Z"
 }
