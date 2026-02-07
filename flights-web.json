@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.48,
-    "altitude": 37850,
-    "speed": 407,
-    "timestamp": "2026-02-07T06:04:14.107Z",
-    "lat": 45.601,
-    "lon": -122.5224,
+    "distance": 1.49,
+    "altitude": 38000,
+    "speed": 417,
+    "timestamp": "2026-02-07T06:06:35.158Z",
+    "lat": 45.6104,
+    "lon": -122.5566,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA402",
-    "aircraftType": "B39M",
-    "origin": "LAS",
+    "callsign": "SWA447",
+    "aircraftType": "B737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T06:04:14.104Z"
+    "firstSeen": "2026-02-07T06:06:35.033Z"
   },
-  "overheadScore": 1.48,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T06:05:12.630Z"
+  "timestamp": "2026-02-07T06:07:33.449Z"
 }
