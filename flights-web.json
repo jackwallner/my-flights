@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.26,
-    "altitude": 30000,
-    "speed": 415,
-    "timestamp": "2026-02-07T08:23:42.045Z",
-    "lat": 45.6157,
-    "lon": -122.5013,
+    "distance": 1.05,
+    "altitude": 36000,
+    "speed": 425,
+    "timestamp": "2026-02-07T09:42:10.814Z",
+    "lat": 45.6198,
+    "lon": -122.5044,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6444",
-    "aircraftType": "CRJ",
-    "origin": "LAX",
+    "callsign": "ATN3378",
+    "aircraftType": "767",
+    "origin": "SBD",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T08:23:42.040Z"
+    "firstSeen": "2026-02-07T09:42:10.810Z"
   },
-  "overheadScore": 1.26,
+  "overheadScore": 1.05,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T08:24:40.231Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T09:42:10.815Z"
 }
