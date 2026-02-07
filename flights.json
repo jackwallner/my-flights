@@ -19897,5 +19897,25 @@
     "initialAltitude": 24725,
     "initialSpeed": 414,
     "_sessionKey": "ASA1325_2026-02-07T17"
+  },
+  {
+    "callsign": "ASA179",
+    "flightNumber": "AS179",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "AD9DB0",
+    "registration": "N977AK",
+    "firstSeen": "2026-02-07T17:05:56.606Z",
+    "lastSeen": "2026-02-07T17:05:56.606Z",
+    "duration": 0,
+    "closestDistance": 0.8507180560488934,
+    "closestAltitude": 38000,
+    "closestSpeed": 446,
+    "initialDistance": 0.8507180560488934,
+    "initialAltitude": 38000,
+    "initialSpeed": 446,
+    "_sessionKey": "ASA179_2026-02-07T17"
   }
 ]
