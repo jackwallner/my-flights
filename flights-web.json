@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 24000,
-    "speed": 404,
-    "timestamp": "2026-02-07T02:31:54.062Z",
-    "lat": 45.6143,
-    "lon": -122.5574,
+    "distance": 0.17,
+    "altitude": 2475,
+    "speed": 158,
+    "timestamp": "2026-02-07T02:40:51.519Z",
+    "lat": 45.6225,
+    "lon": -122.5278,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1359",
-    "aircraftType": "737",
-    "origin": "OAK",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T02:31:54.058Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T02:40:51.512Z"
   },
-  "overheadScore": 1.4,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T02:32:51.971Z"
+  "overheadScore": 0.17,
+  "isOverhead": true,
+  "pathSnapshots": 2,
+  "status": "tracking",
+  "timestamp": "2026-02-07T02:40:51.519Z"
 }
