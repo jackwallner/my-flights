@@ -20617,5 +20617,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 405,
     "_sessionKey": "ASA1378_2026-02-07T21"
+  },
+  {
+    "callsign": "EJA969",
+    "flightNumber": "EJA969",
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "BFI",
+    "icao": "AD7F04",
+    "registration": "N969QS",
+    "firstSeen": "2026-02-07T21:33:41.231Z",
+    "lastSeen": "2026-02-07T21:33:41.231Z",
+    "duration": 0,
+    "closestDistance": 1.42760967156494,
+    "closestAltitude": 40000,
+    "closestSpeed": 431,
+    "initialDistance": 1.42760967156494,
+    "initialAltitude": 40000,
+    "initialSpeed": 431,
+    "_sessionKey": "EJA969_2026-02-07T21"
   }
 ]
