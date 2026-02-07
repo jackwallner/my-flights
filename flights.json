@@ -20377,5 +20377,25 @@
     "initialAltitude": 39700,
     "initialSpeed": 462,
     "_sessionKey": "SWA4045_2026-02-07T20"
+  },
+  {
+    "callsign": "DAL976",
+    "flightNumber": "DL976",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A086B4",
+    "registration": "N133DU",
+    "firstSeen": "2026-02-07T20:10:05.047Z",
+    "lastSeen": "2026-02-07T20:10:05.047Z",
+    "duration": 0,
+    "closestDistance": 1.4620398393090854,
+    "closestAltitude": 38000,
+    "closestSpeed": 450,
+    "initialDistance": 1.4620398393090854,
+    "initialAltitude": 38000,
+    "initialSpeed": 450,
+    "_sessionKey": "DAL976_2026-02-07T20"
   }
 ]
