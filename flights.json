@@ -20537,5 +20537,25 @@
     "initialAltitude": 25600,
     "initialSpeed": 440,
     "_sessionKey": "SKW3736_2026-02-07T21"
+  },
+  {
+    "callsign": "CRJ2",
+    "flightNumber": null,
+    "aircraftType": "CRJ2",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-07T21:22:56.990Z",
+    "lastSeen": "2026-02-07T21:22:56.990Z",
+    "duration": 0,
+    "closestDistance": 0.9861387081570625,
+    "closestAltitude": 36025,
+    "closestSpeed": 394,
+    "initialDistance": 0.9861387081570625,
+    "initialAltitude": 36025,
+    "initialSpeed": 394,
+    "_sessionKey": "CRJ2_2026-02-07T21"
   }
 ]

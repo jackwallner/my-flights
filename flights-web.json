@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.41,
-    "altitude": 25600,
-    "speed": 440,
-    "timestamp": "2026-02-07T21:20:36.332Z",
-    "lat": 45.6293,
-    "lon": -122.5612,
+    "distance": 0.99,
+    "altitude": 36025,
+    "speed": 394,
+    "timestamp": "2026-02-07T21:22:56.994Z",
+    "lat": 45.622,
+    "lon": -122.5051,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3736",
-    "aircraftType": "E175",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T21:20:36.329Z"
+    "callsign": "CRJ2",
+    "aircraftType": "CRJ",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-07T21:22:56.990Z"
   },
-  "overheadScore": 1.41,
-  "isOverhead": false,
+  "overheadScore": 0.99,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T21:21:34.637Z"
+  "timestamp": "2026-02-07T21:23:55.363Z"
 }
