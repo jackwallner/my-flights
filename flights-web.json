@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.18,
-    "altitude": 36000,
-    "speed": 409,
-    "timestamp": "2026-02-07T05:07:09.119Z",
-    "lat": 45.6169,
-    "lon": -122.5026,
+    "distance": 1.03,
+    "altitude": 38000,
+    "speed": 441,
+    "timestamp": "2026-02-07T05:08:59.263Z",
+    "lat": 45.6202,
+    "lon": -122.5047,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2613",
+    "callsign": "ASA753",
     "aircraftType": "737",
-    "origin": "SAN",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T05:07:09.115Z"
+    "firstSeen": "2026-02-07T05:08:59.259Z"
   },
-  "overheadScore": 1.18,
+  "overheadScore": 1.03,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-07T05:07:09.119Z"
+  "status": "completed",
+  "timestamp": "2026-02-07T05:09:57.205Z"
 }
