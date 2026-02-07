@@ -18697,5 +18697,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 393,
     "_sessionKey": "SKW3707_2026-02-07T02"
+  },
+  {
+    "callsign": "QXE9990",
+    "flightNumber": null,
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A8CFAE",
+    "registration": "N667QX",
+    "firstSeen": "2026-02-07T02:30:24.935Z",
+    "lastSeen": "2026-02-07T02:30:24.935Z",
+    "duration": 0,
+    "closestDistance": 1.3237393192232791,
+    "closestAltitude": 36825,
+    "closestSpeed": 429,
+    "initialDistance": 1.3237393192232791,
+    "initialAltitude": 36825,
+    "initialSpeed": 429,
+    "_sessionKey": "QXE9990_2026-02-07T02"
   }
 ]
