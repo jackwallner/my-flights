@@ -18337,5 +18337,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 448,
     "_sessionKey": "ASA1309_2026-02-07T00"
+  },
+  {
+    "callsign": "N369GX",
+    "flightNumber": null,
+    "aircraftType": "EPIC",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A42E67",
+    "registration": "N369GX",
+    "firstSeen": "2026-02-07T00:37:09.397Z",
+    "lastSeen": "2026-02-07T00:37:09.397Z",
+    "duration": 0,
+    "closestDistance": 1.0884925919454116,
+    "closestAltitude": 1825,
+    "closestSpeed": 202,
+    "initialDistance": 1.0884925919454116,
+    "initialAltitude": 1825,
+    "initialSpeed": 202,
+    "_sessionKey": "N369GX_2026-02-07T00"
   }
 ]

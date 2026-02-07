@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.04,
-    "altitude": 36000,
-    "speed": 448,
-    "timestamp": "2026-02-07T00:36:10.747Z",
-    "lat": 45.6196,
-    "lon": -122.5046,
+    "distance": 1.09,
+    "altitude": 1825,
+    "speed": 202,
+    "timestamp": "2026-02-07T00:37:09.401Z",
+    "lat": 45.6082,
+    "lon": -122.5368,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1309",
-    "aircraftType": "737 ",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T00:36:10.741Z"
+    "callsign": "N369GX",
+    "aircraftType": "EPIC",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-02-07T00:37:09.397Z"
   },
-  "overheadScore": 1.04,
+  "overheadScore": 1.09,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-07T00:36:10.747Z"
+  "status": "completed",
+  "timestamp": "2026-02-07T00:38:07.086Z"
 }
