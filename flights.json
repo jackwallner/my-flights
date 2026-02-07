@@ -18377,5 +18377,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 487,
     "_sessionKey": "N11HM_2026-02-07T00"
+  },
+  {
+    "callsign": "N4056V",
+    "flightNumber": null,
+    "aircraftType": "R44",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A4C272",
+    "registration": "N4056V",
+    "firstSeen": "2026-02-07T00:55:41.449Z",
+    "lastSeen": "2026-02-07T00:56:39.226Z",
+    "duration": 58,
+    "closestDistance": 0.4411216437026743,
+    "closestAltitude": 1550,
+    "closestSpeed": 87,
+    "initialDistance": 1.3433946695995687,
+    "initialAltitude": 1475,
+    "initialSpeed": 97,
+    "_sessionKey": "N4056V_2026-02-07T00"
   }
 ]

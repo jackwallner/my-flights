@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.12,
-    "altitude": 40000,
-    "speed": 487,
-    "timestamp": "2026-02-07T00:44:17.146Z",
-    "lat": 45.6076,
-    "lon": -122.5363,
+    "distance": 0.44,
+    "altitude": 1550,
+    "speed": 87,
+    "timestamp": "2026-02-07T00:56:39.229Z",
+    "lat": 45.618,
+    "lon": -122.5267,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N11HM",
-    "aircraftType": "GALX",
-    "origin": "CLD",
-    "destination": "PAE",
-    "firstSeen": "2026-02-07T00:44:17.141Z"
+    "callsign": "N4056V",
+    "aircraftType": "R44",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-07T00:55:41.449Z"
   },
-  "overheadScore": 1.12,
-  "isOverhead": false,
-  "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T00:45:14.883Z"
+  "overheadScore": 0.44,
+  "isOverhead": true,
+  "pathSnapshots": 2,
+  "status": "tracking",
+  "timestamp": "2026-02-07T00:56:39.229Z"
 }
