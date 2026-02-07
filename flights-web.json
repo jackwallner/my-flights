@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.95,
-    "altitude": 36000,
-    "speed": 430,
-    "timestamp": "2026-02-07T01:26:28.285Z",
-    "lat": 45.622,
-    "lon": -122.506,
+    "distance": 1.43,
+    "altitude": 38000,
+    "speed": 458,
+    "timestamp": "2026-02-07T01:35:50.283Z",
+    "lat": 45.6128,
+    "lon": -122.4992,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4031",
-    "aircraftType": "E175",
-    "origin": "ONT",
+    "callsign": "DAL2606",
+    "aircraftType": "A321",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T01:26:28.280Z"
+    "firstSeen": "2026-02-07T01:35:50.278Z"
   },
-  "overheadScore": 0.95,
-  "isOverhead": true,
+  "overheadScore": 1.43,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T01:27:26.120Z"
+  "timestamp": "2026-02-07T01:36:48.216Z"
 }
