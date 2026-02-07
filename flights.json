@@ -19077,5 +19077,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 425,
     "_sessionKey": "SWA433_2026-02-07T04"
+  },
+  {
+    "callsign": "GA7C",
+    "flightNumber": null,
+    "aircraftType": "GA7C",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-07T04:20:45.840Z",
+    "lastSeen": "2026-02-07T04:20:45.840Z",
+    "duration": 0,
+    "closestDistance": 0.7813849559996833,
+    "closestAltitude": 38650,
+    "closestSpeed": 482,
+    "initialDistance": 0.7813849559996833,
+    "initialAltitude": 38650,
+    "initialSpeed": 482,
+    "_sessionKey": "GA7C_2026-02-07T04"
   }
 ]
