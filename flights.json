@@ -18837,5 +18837,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 428,
     "_sessionKey": "DAL1837_2026-02-07T03"
+  },
+  {
+    "callsign": "ASA691",
+    "flightNumber": "AS691",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "A70333",
+    "registration": "N551AS",
+    "firstSeen": "2026-02-07T03:17:59.947Z",
+    "lastSeen": "2026-02-07T03:17:59.947Z",
+    "duration": 0,
+    "closestDistance": 0.805285871323289,
+    "closestAltitude": 38000,
+    "closestSpeed": 428,
+    "initialDistance": 0.805285871323289,
+    "initialAltitude": 38000,
+    "initialSpeed": 428,
+    "_sessionKey": "ASA691_2026-02-07T03"
   }
 ]

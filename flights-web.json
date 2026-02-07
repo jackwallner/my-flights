@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.89,
-    "altitude": 40000,
+    "distance": 0.81,
+    "altitude": 38000,
     "speed": 428,
-    "timestamp": "2026-02-07T03:15:59.353Z",
-    "lat": 45.6239,
-    "lon": -122.5071,
+    "timestamp": "2026-02-07T03:17:59.952Z",
+    "lat": 45.6264,
+    "lon": -122.509,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1837",
+    "callsign": "ASA691",
     "aircraftType": "737",
-    "origin": "SJD",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T03:15:59.348Z"
+    "firstSeen": "2026-02-07T03:17:59.947Z"
   },
-  "overheadScore": 0.89,
+  "overheadScore": 0.81,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T03:16:57.483Z"
+  "timestamp": "2026-02-07T03:18:58.006Z"
 }
