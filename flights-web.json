@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.96,
-    "altitude": 40000,
-    "speed": 424,
-    "timestamp": "2026-02-07T06:36:32.387Z",
-    "lat": 45.6217,
-    "lon": -122.5059,
+    "distance": 0.75,
+    "altitude": 38000,
+    "speed": 415,
+    "timestamp": "2026-02-07T06:42:59.904Z",
+    "lat": 45.63,
+    "lon": -122.5115,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA708",
+    "callsign": "ASA94",
     "aircraftType": "737",
-    "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T06:36:32.380Z"
+    "origin": "LAS",
+    "destination": "PAE",
+    "firstSeen": "2026-02-07T06:42:59.901Z"
   },
-  "overheadScore": 0.96,
+  "overheadScore": 0.75,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T06:37:30.828Z"
+  "timestamp": "2026-02-07T06:43:58.095Z"
 }

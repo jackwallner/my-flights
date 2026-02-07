@@ -19517,5 +19517,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 424,
     "_sessionKey": "ASA708_2026-02-07T06"
+  },
+  {
+    "callsign": "ASA94",
+    "flightNumber": "AS94",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "PAE",
+    "icao": "A5C4E2",
+    "registration": "N471AS",
+    "firstSeen": "2026-02-07T06:42:59.901Z",
+    "lastSeen": "2026-02-07T06:42:59.901Z",
+    "duration": 0,
+    "closestDistance": 0.7528451021475265,
+    "closestAltitude": 38000,
+    "closestSpeed": 415,
+    "initialDistance": 0.7528451021475265,
+    "initialAltitude": 38000,
+    "initialSpeed": 415,
+    "_sessionKey": "ASA94_2026-02-07T06"
   }
 ]
