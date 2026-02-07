@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.19,
-    "altitude": 31075,
-    "speed": 424,
-    "timestamp": "2026-02-07T16:00:37.373Z",
-    "lat": 45.6169,
-    "lon": -122.5025,
+    "distance": 1.12,
+    "altitude": 39300,
+    "speed": 441,
+    "timestamp": "2026-02-07T16:21:20.913Z",
+    "lat": 45.6181,
+    "lon": -122.5036,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2844",
+    "callsign": "ASA323",
     "aircraftType": "737",
-    "origin": "LAS",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T16:00:37.369Z"
+    "firstSeen": "2026-02-07T16:21:20.909Z"
   },
-  "overheadScore": 1.19,
+  "overheadScore": 1.12,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T16:01:36.097Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T16:21:20.913Z"
 }
