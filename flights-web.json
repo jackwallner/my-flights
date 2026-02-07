@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.23,
-    "altitude": 1625,
-    "speed": 147,
-    "timestamp": "2026-02-07T01:49:36.912Z",
-    "lat": 45.6073,
-    "lon": -122.542,
+    "distance": 1.35,
+    "altitude": 35975,
+    "speed": 432,
+    "timestamp": "2026-02-07T01:51:46.861Z",
+    "lat": 45.6224,
+    "lon": -122.5599,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-07T01:49:36.908Z"
+    "callsign": "UAL2279",
+    "aircraftType": "737",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-07T01:51:46.858Z"
   },
-  "overheadScore": 1.23,
+  "overheadScore": 1.35,
   "isOverhead": false,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T01:50:45.086Z"
+  "timestamp": "2026-02-07T01:52:44.837Z"
 }

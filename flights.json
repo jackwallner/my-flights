@@ -18597,5 +18597,25 @@
     "initialAltitude": 1625,
     "initialSpeed": 147,
     "_sessionKey": "PC12_2026-02-07T01"
+  },
+  {
+    "callsign": "UAL2279",
+    "flightNumber": "UA2279",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AC0B80",
+    "registration": "N87513",
+    "firstSeen": "2026-02-07T01:51:46.858Z",
+    "lastSeen": "2026-02-07T01:51:46.858Z",
+    "duration": 0,
+    "closestDistance": 1.3459569004704919,
+    "closestAltitude": 35975,
+    "closestSpeed": 432,
+    "initialDistance": 1.3459569004704919,
+    "initialAltitude": 35975,
+    "initialSpeed": 432,
+    "_sessionKey": "UAL2279_2026-02-07T01"
   }
 ]
