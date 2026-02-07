@@ -20857,5 +20857,25 @@
     "initialAltitude": 20000,
     "initialSpeed": 404,
     "_sessionKey": "UAL1008_2026-02-07T23"
+  },
+  {
+    "callsign": "N818AD",
+    "flightNumber": null,
+    "aircraftType": "SF50",
+    "aircraftName": null,
+    "origin": "SBP",
+    "destination": "BFI",
+    "icao": "AB2718",
+    "registration": "N818AD",
+    "firstSeen": "2026-02-07T23:41:27.441Z",
+    "lastSeen": "2026-02-07T23:41:27.441Z",
+    "duration": 0,
+    "closestDistance": 1.4929373673846416,
+    "closestAltitude": 30000,
+    "closestSpeed": 280,
+    "initialDistance": 1.4929373673846416,
+    "initialAltitude": 30000,
+    "initialSpeed": 280,
+    "_sessionKey": "N818AD_2026-02-07T23"
   }
 ]

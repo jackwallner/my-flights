@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.45,
-    "altitude": 20000,
-    "speed": 404,
-    "timestamp": "2026-02-07T23:37:13.105Z",
-    "lat": 45.6119,
-    "lon": -122.5569,
+    "distance": 1.49,
+    "altitude": 30000,
+    "speed": 280,
+    "timestamp": "2026-02-07T23:41:27.446Z",
+    "lat": 45.6105,
+    "lon": -122.5567,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL1008",
-    "aircraftType": "A320",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T23:37:13.101Z"
+    "callsign": "N818AD",
+    "aircraftType": "SF50",
+    "origin": "SBP",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T23:41:27.441Z"
   },
-  "overheadScore": 1.45,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T23:38:11.543Z"
+  "timestamp": "2026-02-07T23:42:25.783Z"
 }
