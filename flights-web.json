@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 34000,
-    "speed": 455,
-    "timestamp": "2026-02-07T14:54:10.188Z",
-    "lat": 45.6269,
-    "lon": -122.5605,
+    "distance": 1.43,
+    "altitude": 1425,
+    "speed": 162,
+    "timestamp": "2026-02-07T15:16:16.068Z",
+    "lat": 45.6089,
+    "lon": -122.5527,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3781",
-    "aircraftType": "E175",
-    "origin": "MFR",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T14:54:10.182Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T15:16:16.064Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.43,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T14:55:08.568Z"
+  "timestamp": "2026-02-07T15:17:14.368Z"
 }
