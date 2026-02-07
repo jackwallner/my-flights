@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 36000,
-    "speed": 420,
-    "timestamp": "2026-02-07T20:33:48.748Z",
-    "lat": 45.6117,
-    "lon": -122.4992,
+    "distance": 0.87,
+    "altitude": 43000,
+    "speed": 454,
+    "timestamp": "2026-02-07T20:57:35.912Z",
+    "lat": 45.6235,
+    "lon": -122.5076,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA777",
-    "aircraftType": "B39M",
+    "callsign": "LXJ263",
+    "aircraftType": "E545",
     "origin": "LAS",
-    "destination": "PAE",
-    "firstSeen": "2026-02-07T20:33:48.744Z"
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T20:57:35.908Z"
   },
-  "overheadScore": 1.46,
-  "isOverhead": false,
+  "overheadScore": 0.87,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T20:34:47.462Z"
+  "timestamp": "2026-02-07T20:58:34.535Z"
 }

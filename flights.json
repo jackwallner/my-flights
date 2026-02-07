@@ -20457,5 +20457,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 420,
     "_sessionKey": "ASA777_2026-02-07T20"
+  },
+  {
+    "callsign": "LXJ263",
+    "flightNumber": "LXJ263",
+    "aircraftType": "E545",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "BFI",
+    "icao": "A28AB5",
+    "registration": "N263FX",
+    "firstSeen": "2026-02-07T20:57:35.908Z",
+    "lastSeen": "2026-02-07T20:57:35.908Z",
+    "duration": 0,
+    "closestDistance": 0.8678904766876092,
+    "closestAltitude": 43000,
+    "closestSpeed": 454,
+    "initialDistance": 0.8678904766876092,
+    "initialAltitude": 43000,
+    "initialSpeed": 454,
+    "_sessionKey": "LXJ263_2026-02-07T20"
   }
 ]
