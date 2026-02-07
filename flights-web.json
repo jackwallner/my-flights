@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
-    "altitude": 38000,
-    "speed": 423,
-    "timestamp": "2026-02-07T06:29:47.522Z",
-    "lat": 45.6242,
-    "lon": -122.56,
+    "distance": 1.32,
+    "altitude": 40000,
+    "speed": 434,
+    "timestamp": "2026-02-07T06:34:32.245Z",
+    "lat": 45.6145,
+    "lon": -122.5006,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA793",
+    "callsign": "SWA2580",
     "aircraftType": "737",
-    "origin": "STS",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T06:29:47.516Z"
+    "firstSeen": "2026-02-07T06:34:32.241Z"
   },
-  "overheadScore": 1.34,
+  "overheadScore": 1.32,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T06:30:45.487Z"
+  "timestamp": "2026-02-07T06:35:30.501Z"
 }
