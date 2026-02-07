@@ -20317,5 +20317,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 451,
     "_sessionKey": "SWA279_2026-02-07T19"
+  },
+  {
+    "callsign": "PC12",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-07T19:56:42.152Z",
+    "lastSeen": "2026-02-07T19:56:42.152Z",
+    "duration": 0,
+    "closestDistance": 1.2570348165201508,
+    "closestAltitude": 1575,
+    "closestSpeed": 155,
+    "initialDistance": 1.2570348165201508,
+    "initialAltitude": 1575,
+    "initialSpeed": 155,
+    "_sessionKey": "PC12_2026-02-07T19"
   }
 ]
