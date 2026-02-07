@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.76,
-    "altitude": 34700,
-    "speed": 454,
-    "timestamp": "2026-02-07T17:34:22.362Z",
-    "lat": 45.6274,
-    "lon": -122.5102,
+    "distance": 1.05,
+    "altitude": 31700,
+    "speed": 470,
+    "timestamp": "2026-02-07T18:02:58.188Z",
+    "lat": 45.6107,
+    "lon": -122.5143,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1293",
-    "aircraftType": "A220",
+    "callsign": "IJA30",
+    "aircraftType": "LJ60",
     "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T17:34:22.358Z"
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:02:58.184Z"
   },
-  "overheadScore": 0.76,
-  "isOverhead": true,
+  "overheadScore": 1.05,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T17:35:20.579Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T18:02:58.188Z"
 }

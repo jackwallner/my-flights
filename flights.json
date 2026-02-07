@@ -20057,5 +20057,25 @@
     "initialAltitude": 34700,
     "initialSpeed": 454,
     "_sessionKey": "DAL1293_2026-02-07T17"
+  },
+  {
+    "callsign": "IJA30",
+    "flightNumber": "IJA30",
+    "aircraftType": "LJ60",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "BFI",
+    "icao": "A32B48",
+    "registration": "N303JJ",
+    "firstSeen": "2026-02-07T18:02:58.184Z",
+    "lastSeen": "2026-02-07T18:02:58.184Z",
+    "duration": 0,
+    "closestDistance": 1.0501294026954031,
+    "closestAltitude": 31700,
+    "closestSpeed": 470,
+    "initialDistance": 1.0501294026954031,
+    "initialAltitude": 31700,
+    "initialSpeed": 470,
+    "_sessionKey": "IJA30_2026-02-07T18"
   }
 ]
