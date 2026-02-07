@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.78,
-    "altitude": 38650,
-    "speed": 482,
-    "timestamp": "2026-02-07T04:20:45.843Z",
-    "lat": 45.6125,
-    "lon": -122.5246,
+    "distance": 1.35,
+    "altitude": 32625,
+    "speed": 399,
+    "timestamp": "2026-02-07T04:31:30.378Z",
+    "lat": 45.6172,
+    "lon": -122.5581,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GA7C",
-    "aircraftType": "GA7C",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-07T04:20:45.840Z"
+    "callsign": "UAL2019",
+    "aircraftType": "737",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-07T04:31:30.374Z"
   },
-  "overheadScore": 0.78,
-  "isOverhead": true,
+  "overheadScore": 1.35,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T04:21:44.059Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T04:31:30.378Z"
 }
