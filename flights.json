@@ -18257,5 +18257,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 460,
     "_sessionKey": "QXE2037_2026-02-07T00"
+  },
+  {
+    "callsign": "DAL8873",
+    "flightNumber": "DL8873",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AB14D9",
+    "registration": "N813DN",
+    "firstSeen": "2026-02-07T00:30:42.059Z",
+    "lastSeen": "2026-02-07T00:30:42.059Z",
+    "duration": 0,
+    "closestDistance": 1.3730632656093278,
+    "closestAltitude": 40000,
+    "closestSpeed": 480,
+    "initialDistance": 1.3730632656093278,
+    "initialAltitude": 40000,
+    "initialSpeed": 480,
+    "_sessionKey": "DAL8873_2026-02-07T00"
   }
 ]

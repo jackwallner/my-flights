@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.85,
-    "altitude": 39425,
-    "speed": 498,
-    "timestamp": "2026-02-07T00:23:02.657Z",
-    "lat": 45.6246,
-    "lon": -122.508,
+    "distance": 1.37,
+    "altitude": 40000,
+    "speed": 480,
+    "timestamp": "2026-02-07T00:30:42.063Z",
+    "lat": 45.6154,
+    "lon": -122.5576,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FA50",
-    "aircraftType": "FA50",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-07T00:23:02.653Z"
+    "callsign": "DAL8873",
+    "aircraftType": "737",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-07T00:30:42.059Z"
   },
-  "overheadScore": 0.85,
-  "isOverhead": true,
+  "overheadScore": 1.37,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-07T00:24:01.322Z"
+  "timestamp": "2026-02-07T00:31:40.570Z"
 }
