@@ -18317,5 +18317,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 436,
     "_sessionKey": "ASA622_2026-02-07T00"
+  },
+  {
+    "callsign": "ASA1309",
+    "flightNumber": "AS1309",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AB0356",
+    "registration": "N809AK",
+    "firstSeen": "2026-02-07T00:36:10.741Z",
+    "lastSeen": "2026-02-07T00:36:10.741Z",
+    "duration": 0,
+    "closestDistance": 1.0445345572376152,
+    "closestAltitude": 36000,
+    "closestSpeed": 448,
+    "initialDistance": 1.0445345572376152,
+    "initialAltitude": 36000,
+    "initialSpeed": 448,
+    "_sessionKey": "ASA1309_2026-02-07T00"
   }
 ]
