@@ -19857,5 +19857,25 @@
     "initialAltitude": 35475,
     "initialSpeed": 435,
     "_sessionKey": "ASA491_2026-02-07T16"
+  },
+  {
+    "callsign": "EJA253",
+    "flightNumber": "EJA253",
+    "aircraftType": "CL60",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A26412",
+    "registration": "N253QS",
+    "firstSeen": "2026-02-07T17:01:36.807Z",
+    "lastSeen": "2026-02-07T17:01:36.807Z",
+    "duration": 0,
+    "closestDistance": 1.4721688141718519,
+    "closestAltitude": 40000,
+    "closestSpeed": 475,
+    "initialDistance": 1.4721688141718519,
+    "initialAltitude": 40000,
+    "initialSpeed": 475,
+    "_sessionKey": "EJA253_2026-02-07T17"
   }
 ]

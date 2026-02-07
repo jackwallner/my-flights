@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.98,
-    "altitude": 35475,
-    "speed": 435,
-    "timestamp": "2026-02-07T16:55:59.842Z",
-    "lat": 45.6217,
-    "lon": -122.5054,
+    "distance": 1.47,
+    "altitude": 40000,
+    "speed": 475,
+    "timestamp": "2026-02-07T17:01:36.811Z",
+    "lat": 45.6117,
+    "lon": -122.5573,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA491",
-    "aircraftType": "B39M",
-    "origin": "BUR",
+    "callsign": "EJA253",
+    "aircraftType": "Chal",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T16:55:59.838Z"
+    "firstSeen": "2026-02-07T17:01:36.807Z"
   },
-  "overheadScore": 0.98,
-  "isOverhead": true,
+  "overheadScore": 1.47,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T16:56:58.613Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T17:01:36.811Z"
 }
