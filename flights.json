@@ -19237,5 +19237,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 387,
     "_sessionKey": "ASA1327_2026-02-07T05"
+  },
+  {
+    "callsign": "DAL2613",
+    "flightNumber": "DL2613",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A44CFD",
+    "registration": "N3764D",
+    "firstSeen": "2026-02-07T05:07:09.115Z",
+    "lastSeen": "2026-02-07T05:07:09.115Z",
+    "duration": 0,
+    "closestDistance": 1.1835735964465464,
+    "closestAltitude": 36000,
+    "closestSpeed": 409,
+    "initialDistance": 1.1835735964465464,
+    "initialAltitude": 36000,
+    "initialSpeed": 409,
+    "_sessionKey": "DAL2613_2026-02-07T05"
   }
 ]

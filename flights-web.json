@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.41,
-    "altitude": 24000,
-    "speed": 387,
-    "timestamp": "2026-02-07T05:04:27.741Z",
-    "lat": 45.6293,
-    "lon": -122.5613,
+    "distance": 1.18,
+    "altitude": 36000,
+    "speed": 409,
+    "timestamp": "2026-02-07T05:07:09.119Z",
+    "lat": 45.6169,
+    "lon": -122.5026,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1327",
+    "callsign": "DAL2613",
     "aircraftType": "737",
-    "origin": "SFO",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T05:04:27.737Z"
+    "firstSeen": "2026-02-07T05:07:09.115Z"
   },
-  "overheadScore": 1.41,
+  "overheadScore": 1.18,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-07T05:05:25.964Z"
+  "status": "tracking",
+  "timestamp": "2026-02-07T05:07:09.119Z"
 }
