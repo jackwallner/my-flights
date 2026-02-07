@@ -18388,8 +18388,8 @@
     "icao": "A4C272",
     "registration": "N4056V",
     "firstSeen": "2026-02-07T00:55:41.449Z",
-    "lastSeen": "2026-02-07T00:56:39.226Z",
-    "duration": 58,
+    "lastSeen": "2026-02-07T00:57:30.548Z",
+    "duration": 109,
     "closestDistance": 0.4411216437026743,
     "closestAltitude": 1550,
     "closestSpeed": 87,
@@ -18397,5 +18397,25 @@
     "initialAltitude": 1475,
     "initialSpeed": 97,
     "_sessionKey": "N4056V_2026-02-07T00"
+  },
+  {
+    "callsign": "ASA745",
+    "flightNumber": "AS745",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A22642",
+    "registration": "N238AK",
+    "firstSeen": "2026-02-07T00:57:40.847Z",
+    "lastSeen": "2026-02-07T00:57:40.847Z",
+    "duration": 0,
+    "closestDistance": 1.436431449120563,
+    "closestAltitude": 36000,
+    "closestSpeed": 456,
+    "initialDistance": 1.436431449120563,
+    "initialAltitude": 36000,
+    "initialSpeed": 456,
+    "_sessionKey": "ASA745_2026-02-07T00"
   }
 ]

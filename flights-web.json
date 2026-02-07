@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 1550,
-    "speed": 87,
-    "timestamp": "2026-02-07T00:56:39.229Z",
-    "lat": 45.618,
-    "lon": -122.5267,
+    "distance": 1.44,
+    "altitude": 36000,
+    "speed": 456,
+    "timestamp": "2026-02-07T00:57:40.851Z",
+    "lat": 45.6308,
+    "lon": -122.5614,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4056V",
-    "aircraftType": "R44",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-07T00:55:41.449Z"
+    "callsign": "ASA745",
+    "aircraftType": "737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-07T00:57:40.847Z"
   },
-  "overheadScore": 0.44,
-  "isOverhead": true,
-  "pathSnapshots": 2,
-  "status": "tracking",
-  "timestamp": "2026-02-07T00:56:39.229Z"
+  "overheadScore": 1.44,
+  "isOverhead": false,
+  "pathSnapshots": 1,
+  "status": "completed",
+  "timestamp": "2026-02-07T00:58:38.831Z"
 }
