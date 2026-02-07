@@ -19457,5 +19457,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 407,
     "_sessionKey": "SKW5408_2026-02-07T06"
+  },
+  {
+    "callsign": "ASA793",
+    "flightNumber": "AS793",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "STS",
+    "destination": "SEA",
+    "icao": "A6F96C",
+    "registration": "N549AS",
+    "firstSeen": "2026-02-07T06:29:47.516Z",
+    "lastSeen": "2026-02-07T06:29:47.516Z",
+    "duration": 0,
+    "closestDistance": 1.340547924617067,
+    "closestAltitude": 38000,
+    "closestSpeed": 423,
+    "initialDistance": 1.340547924617067,
+    "initialAltitude": 38000,
+    "initialSpeed": 423,
+    "_sessionKey": "ASA793_2026-02-07T06"
   }
 ]
