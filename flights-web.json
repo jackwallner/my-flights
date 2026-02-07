@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 1.48,
-    "altitude": 1775,
+    "distance": 0.41,
+    "altitude": 1600,
     "speed": 86,
-    "timestamp": "2026-02-06T23:57:53.814Z",
-    "lat": 45.6139,
-    "lon": -122.5594,
-    "precision": "tracked"
+    "timestamp": "2026-02-06T23:58:51.524Z",
+    "lat": 45.6185,
+    "lon": -122.5285,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N18586",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-06T23:57:53.810Z"
   },
-  "overheadScore": 1.48,
-  "isOverhead": false,
-  "pathSnapshots": 1,
+  "overheadScore": 0.41,
+  "isOverhead": true,
+  "pathSnapshots": 8,
   "status": "tracking",
-  "timestamp": "2026-02-06T23:57:53.814Z"
+  "timestamp": "2026-02-06T23:59:53.094Z"
 }
