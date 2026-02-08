@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.32,
-    "altitude": 22000,
-    "speed": 392,
-    "timestamp": "2026-02-08T00:18:55.716Z",
-    "lat": 45.6142,
-    "lon": -122.501,
+    "distance": 1.05,
+    "altitude": 24000,
+    "speed": 386,
+    "timestamp": "2026-02-08T00:20:13.906Z",
+    "lat": 45.6195,
+    "lon": -122.5044,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA403",
+    "callsign": "ASA1309",
     "aircraftType": "737",
-    "origin": "PSP",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T00:18:55.712Z"
+    "firstSeen": "2026-02-08T00:20:13.902Z"
   },
-  "overheadScore": 1.32,
+  "overheadScore": 1.05,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-08T00:18:55.716Z"
+  "status": "completed",
+  "timestamp": "2026-02-08T00:21:12.032Z"
 }
