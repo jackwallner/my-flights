@@ -21717,5 +21717,25 @@
     "initialAltitude": 26000,
     "initialSpeed": 414,
     "_sessionKey": "UAL2019_2026-02-08T04"
+  },
+  {
+    "callsign": "ASA1327",
+    "flightNumber": "AS1327",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AAF831",
+    "registration": "N806AK",
+    "firstSeen": "2026-02-08T05:00:39.276Z",
+    "lastSeen": "2026-02-08T05:00:39.276Z",
+    "duration": 0,
+    "closestDistance": 1.420636582489871,
+    "closestAltitude": 34000,
+    "closestSpeed": 413,
+    "initialDistance": 1.420636582489871,
+    "initialAltitude": 34000,
+    "initialSpeed": 413,
+    "_sessionKey": "ASA1327_2026-02-08T05"
   }
 ]
