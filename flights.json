@@ -22677,5 +22677,25 @@
     "initialAltitude": 24025,
     "initialSpeed": 395,
     "_sessionKey": "UAL2340_2026-02-08T18"
+  },
+  {
+    "callsign": "DAL1293",
+    "flightNumber": "DL1293",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A086B4",
+    "registration": "N133DU",
+    "firstSeen": "2026-02-08T18:48:42.068Z",
+    "lastSeen": "2026-02-08T18:48:42.068Z",
+    "duration": 0,
+    "closestDistance": 0.755529637907865,
+    "closestAltitude": 23975,
+    "closestSpeed": 398,
+    "initialDistance": 0.755529637907865,
+    "initialAltitude": 23975,
+    "initialSpeed": 398,
+    "_sessionKey": "DAL1293_2026-02-08T18"
   }
 ]

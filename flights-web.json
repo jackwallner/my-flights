@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.18,
-    "altitude": 24025,
-    "speed": 395,
-    "timestamp": "2026-02-08T18:46:30.200Z",
-    "lat": 45.6235,
-    "lon": -122.5001,
+    "distance": 0.76,
+    "altitude": 23975,
+    "speed": 398,
+    "timestamp": "2026-02-08T18:48:42.071Z",
+    "lat": 45.6275,
+    "lon": -122.5104,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2340",
-    "aircraftType": "A319",
-    "origin": "SFO",
+    "callsign": "DAL1293",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T18:46:30.196Z"
+    "firstSeen": "2026-02-08T18:48:42.068Z"
   },
-  "overheadScore": 1.18,
-  "isOverhead": false,
+  "overheadScore": 0.76,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-08T18:46:30.200Z"
+  "timestamp": "2026-02-08T18:48:42.071Z"
 }
