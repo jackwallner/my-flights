@@ -22337,5 +22337,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 427,
     "_sessionKey": "ASA504_2026-02-08T17"
+  },
+  {
+    "callsign": "DAL2530",
+    "flightNumber": "DL2530",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A44CDA",
+    "registration": "N3763D",
+    "firstSeen": "2026-02-08T17:20:10.065Z",
+    "lastSeen": "2026-02-08T17:20:10.065Z",
+    "duration": 0,
+    "closestDistance": 1.4092889855169197,
+    "closestAltitude": 32000,
+    "closestSpeed": 410,
+    "initialDistance": 1.4092889855169197,
+    "initialAltitude": 32000,
+    "initialSpeed": 410,
+    "_sessionKey": "DAL2530_2026-02-08T17"
   }
 ]
