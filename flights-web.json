@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.09,
+    "distance": 0.83,
     "altitude": 28000,
-    "speed": 416,
-    "timestamp": "2026-02-08T05:18:17.852Z",
-    "lat": 45.6188,
-    "lon": -122.5039,
+    "speed": 426,
+    "timestamp": "2026-02-08T05:46:43.453Z",
+    "lat": 45.6252,
+    "lon": -122.5083,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2031",
-    "aircraftType": "E175",
-    "origin": "RNO",
+    "callsign": "ASA532",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T05:18:17.848Z"
+    "firstSeen": "2026-02-08T05:46:43.448Z"
   },
-  "overheadScore": 1.09,
-  "isOverhead": false,
+  "overheadScore": 0.83,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T05:19:16.889Z"
+  "timestamp": "2026-02-08T05:47:41.488Z"
 }

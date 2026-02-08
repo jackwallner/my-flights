@@ -21817,5 +21817,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 416,
     "_sessionKey": "QXE2031_2026-02-08T05"
+  },
+  {
+    "callsign": "ASA532",
+    "flightNumber": "AS532",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A29CBF",
+    "registration": "N268AK",
+    "firstSeen": "2026-02-08T05:46:43.448Z",
+    "lastSeen": "2026-02-08T05:46:43.448Z",
+    "duration": 0,
+    "closestDistance": 0.8318905267931886,
+    "closestAltitude": 28000,
+    "closestSpeed": 426,
+    "initialDistance": 0.8318905267931886,
+    "initialAltitude": 28000,
+    "initialSpeed": 426,
+    "_sessionKey": "ASA532_2026-02-08T05"
   }
 ]
