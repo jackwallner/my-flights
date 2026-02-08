@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.96,
+    "distance": 0.83,
     "altitude": 30000,
-    "speed": 425,
-    "timestamp": "2026-02-08T16:35:27.712Z",
-    "lat": 45.6218,
-    "lon": -122.5059,
+    "speed": 424,
+    "timestamp": "2026-02-08T16:59:12.130Z",
+    "lat": 45.6358,
+    "lon": -122.5152,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA709",
+    "callsign": "ASA491",
     "aircraftType": "737",
-    "origin": "SAN",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T16:35:27.708Z"
+    "firstSeen": "2026-02-08T16:59:12.124Z"
   },
-  "overheadScore": 0.96,
+  "overheadScore": 0.83,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T16:36:26.264Z"
+  "timestamp": "2026-02-08T17:00:10.149Z"
 }
