@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 28000,
-    "speed": 471,
-    "timestamp": "2026-02-08T19:41:37.588Z",
-    "lat": 45.6234,
-    "lon": -122.5601,
+    "distance": 0.93,
+    "altitude": 30000,
+    "speed": 426,
+    "timestamp": "2026-02-08T19:43:28.266Z",
+    "lat": 45.6222,
+    "lon": -122.5065,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL976",
-    "aircraftType": "A220",
-    "origin": "SFO",
+    "callsign": "ASA798",
+    "aircraftType": "B39M",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T19:41:37.584Z"
+    "firstSeen": "2026-02-08T19:43:28.261Z"
   },
-  "overheadScore": 1.35,
-  "isOverhead": false,
+  "overheadScore": 0.93,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T19:42:36.396Z"
+  "timestamp": "2026-02-08T19:44:26.556Z"
 }
