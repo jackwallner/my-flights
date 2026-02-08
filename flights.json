@@ -23397,5 +23397,25 @@
     "initialAltitude": 35975,
     "initialSpeed": 442,
     "_sessionKey": "SKW3789_2026-02-08T23"
+  },
+  {
+    "callsign": "ASA703",
+    "flightNumber": "AS703",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "A9D9F2",
+    "registration": "N734AL",
+    "firstSeen": "2026-02-08T23:52:54.843Z",
+    "lastSeen": "2026-02-08T23:52:54.843Z",
+    "duration": 0,
+    "closestDistance": 1.3819536028452581,
+    "closestAltitude": 28000,
+    "closestSpeed": 435,
+    "initialDistance": 1.3819536028452581,
+    "initialAltitude": 28000,
+    "initialSpeed": 435,
+    "_sessionKey": "ASA703_2026-02-08T23"
   }
 ]
