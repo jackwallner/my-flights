@@ -22697,5 +22697,25 @@
     "initialAltitude": 23975,
     "initialSpeed": 398,
     "_sessionKey": "DAL1293_2026-02-08T18"
+  },
+  {
+    "callsign": "ASA642",
+    "flightNumber": "AS642",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "A7AC54",
+    "registration": "N594AS",
+    "firstSeen": "2026-02-08T18:52:45.135Z",
+    "lastSeen": "2026-02-08T18:52:45.135Z",
+    "duration": 0,
+    "closestDistance": 1.0366911201695073,
+    "closestAltitude": 28000,
+    "closestSpeed": 424,
+    "initialDistance": 1.0366911201695073,
+    "initialAltitude": 28000,
+    "initialSpeed": 424,
+    "_sessionKey": "ASA642_2026-02-08T18"
   }
 ]

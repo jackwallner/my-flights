@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.76,
-    "altitude": 23975,
-    "speed": 398,
-    "timestamp": "2026-02-08T18:48:42.071Z",
-    "lat": 45.6275,
-    "lon": -122.5104,
+    "distance": 1.04,
+    "altitude": 28000,
+    "speed": 424,
+    "timestamp": "2026-02-08T18:52:45.139Z",
+    "lat": 45.6198,
+    "lon": -122.5047,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1293",
-    "aircraftType": "A220",
-    "origin": "SNA",
+    "callsign": "ASA642",
+    "aircraftType": "737",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T18:48:42.068Z"
+    "firstSeen": "2026-02-08T18:52:45.135Z"
   },
-  "overheadScore": 0.76,
-  "isOverhead": true,
+  "overheadScore": 1.04,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T18:49:39.691Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T18:52:45.139Z"
 }
