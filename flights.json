@@ -21157,5 +21157,25 @@
     "initialAltitude": 1400,
     "initialSpeed": 117,
     "_sessionKey": "B429_2026-02-08T01"
+  },
+  {
+    "callsign": "UAL2279",
+    "flightNumber": "UA2279",
+    "aircraftType": "A319",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AB28D7",
+    "registration": "N818UA",
+    "firstSeen": "2026-02-08T01:42:16.507Z",
+    "lastSeen": "2026-02-08T01:42:16.507Z",
+    "duration": 0,
+    "closestDistance": 1.3257244778172759,
+    "closestAltitude": 37825,
+    "closestSpeed": 406,
+    "initialDistance": 1.3257244778172759,
+    "initialAltitude": 37825,
+    "initialSpeed": 406,
+    "_sessionKey": "UAL2279_2026-02-08T01"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.99,
-    "altitude": 2675,
-    "speed": 114,
-    "timestamp": "2026-02-08T01:39:52.524Z",
-    "lat": 45.6411,
-    "lon": -122.5345,
-    "precision": "high"
+    "distance": 1.33,
+    "altitude": 37825,
+    "speed": 406,
+    "timestamp": "2026-02-08T01:42:16.511Z",
+    "lat": 45.6229,
+    "lon": -122.5595,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "B429",
-    "aircraftType": "B429",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-08T01:38:54.621Z"
+    "callsign": "UAL2279",
+    "aircraftType": "A319",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-08T01:42:16.507Z"
   },
-  "overheadScore": 0.99,
-  "isOverhead": true,
-  "pathSnapshots": 3,
+  "overheadScore": 1.33,
+  "isOverhead": false,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T01:40:13.087Z"
+  "timestamp": "2026-02-08T01:43:14.475Z"
 }
