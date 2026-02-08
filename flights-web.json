@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 26000,
-    "speed": 435,
-    "timestamp": "2026-02-08T22:02:18.665Z",
-    "lat": 45.6193,
-    "lon": -122.5151,
+    "distance": 1.36,
+    "altitude": 34000,
+    "speed": 417,
+    "timestamp": "2026-02-08T22:10:51.074Z",
+    "lat": 45.6137,
+    "lon": -122.5003,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2052",
-    "aircraftType": "E175",
-    "origin": "MFR",
+    "callsign": "ASA685",
+    "aircraftType": "B39M",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T22:02:18.660Z"
+    "firstSeen": "2026-02-08T22:10:51.029Z"
   },
-  "overheadScore": 0.65,
-  "isOverhead": true,
+  "overheadScore": 1.36,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T22:03:17.128Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T22:10:51.074Z"
 }
