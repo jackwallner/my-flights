@@ -21917,5 +21917,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 401,
     "_sessionKey": "ASA541_2026-02-08T05"
+  },
+  {
+    "callsign": "E55P",
+    "flightNumber": null,
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-08T06:22:02.211Z",
+    "lastSeen": "2026-02-08T06:22:02.211Z",
+    "duration": 0,
+    "closestDistance": 0.9284931356961498,
+    "closestAltitude": 43000,
+    "closestSpeed": 428,
+    "initialDistance": 0.9284931356961498,
+    "initialAltitude": 43000,
+    "initialSpeed": 428,
+    "_sessionKey": "E55P_2026-02-08T06"
   }
 ]
