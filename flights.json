@@ -21297,5 +21297,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 404,
     "_sessionKey": "ASA665_2026-02-08T02"
+  },
+  {
+    "callsign": "ASA585",
+    "flightNumber": "AS585",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AB148B",
+    "registration": "N813AK",
+    "firstSeen": "2026-02-08T02:16:11.136Z",
+    "lastSeen": "2026-02-08T02:16:11.136Z",
+    "duration": 0,
+    "closestDistance": 0.8089944299353569,
+    "closestAltitude": 34000,
+    "closestSpeed": 394,
+    "initialDistance": 0.8089944299353569,
+    "initialAltitude": 34000,
+    "initialSpeed": 394,
+    "_sessionKey": "ASA585_2026-02-08T02"
   }
 ]
