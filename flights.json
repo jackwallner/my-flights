@@ -22117,5 +22117,25 @@
     "initialAltitude": 31300,
     "initialSpeed": 423,
     "_sessionKey": "DAL2844_2026-02-08T16"
+  },
+  {
+    "callsign": "ASA1320",
+    "flightNumber": "AS1320",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "AC9E23",
+    "registration": "N912AK",
+    "firstSeen": "2026-02-08T16:09:52.381Z",
+    "lastSeen": "2026-02-08T16:09:52.381Z",
+    "duration": 0,
+    "closestDistance": 1.3837525013672851,
+    "closestAltitude": 30000,
+    "closestSpeed": 462,
+    "initialDistance": 1.3837525013672851,
+    "initialAltitude": 30000,
+    "initialSpeed": 462,
+    "_sessionKey": "ASA1320_2026-02-08T16"
   }
 ]
