@@ -21837,5 +21837,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 426,
     "_sessionKey": "ASA532_2026-02-08T05"
+  },
+  {
+    "callsign": "SKW6481",
+    "flightNumber": "AA6481",
+    "aircraftType": "CRJ7",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A9BF27",
+    "registration": "N727SK",
+    "firstSeen": "2026-02-08T05:50:47.149Z",
+    "lastSeen": "2026-02-08T05:50:47.149Z",
+    "duration": 0,
+    "closestDistance": 1.0155073833738695,
+    "closestAltitude": 28000,
+    "closestSpeed": 424,
+    "initialDistance": 1.0155073833738695,
+    "initialAltitude": 28000,
+    "initialSpeed": 424,
+    "_sessionKey": "SKW6481_2026-02-08T05"
   }
 ]
