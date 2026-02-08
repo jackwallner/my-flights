@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
-    "altitude": 32000,
-    "speed": 397,
-    "timestamp": "2026-02-08T03:26:41.967Z",
-    "lat": 45.6182,
-    "lon": -122.5584,
+    "distance": 1.2,
+    "altitude": 29650,
+    "speed": 394,
+    "timestamp": "2026-02-08T03:28:11.100Z",
+    "lat": 45.6166,
+    "lon": -122.5023,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA523",
+    "callsign": "DAL2640",
     "aircraftType": "737",
-    "origin": "SJC",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T03:26:41.962Z"
+    "firstSeen": "2026-02-08T03:28:11.096Z"
   },
-  "overheadScore": 1.34,
+  "overheadScore": 1.2,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T03:27:40.213Z"
+  "timestamp": "2026-02-08T03:29:09.570Z"
 }
