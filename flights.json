@@ -22957,5 +22957,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 462,
     "_sessionKey": "SKW3026_2026-02-08T20"
+  },
+  {
+    "callsign": "ASA1311",
+    "flightNumber": "AS1311",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "ACBE34",
+    "registration": "N920AK",
+    "firstSeen": "2026-02-08T20:26:34.907Z",
+    "lastSeen": "2026-02-08T20:26:34.907Z",
+    "duration": 0,
+    "closestDistance": 1.3428840084172893,
+    "closestAltitude": 30000,
+    "closestSpeed": 479,
+    "initialDistance": 1.3428840084172893,
+    "initialAltitude": 30000,
+    "initialSpeed": 479,
+    "_sessionKey": "ASA1311_2026-02-08T20"
   }
 ]
