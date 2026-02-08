@@ -21397,5 +21397,25 @@
     "initialAltitude": 35975,
     "initialSpeed": 428,
     "_sessionKey": "SWA433_2026-02-08T03"
+  },
+  {
+    "callsign": "ASA774",
+    "flightNumber": "AS774",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A6C6C8",
+    "registration": "N536AS",
+    "firstSeen": "2026-02-08T03:15:58.272Z",
+    "lastSeen": "2026-02-08T03:15:58.272Z",
+    "duration": 0,
+    "closestDistance": 0.7763248633802455,
+    "closestAltitude": 29800,
+    "closestSpeed": 390,
+    "initialDistance": 0.7763248633802455,
+    "initialAltitude": 29800,
+    "initialSpeed": 390,
+    "_sessionKey": "ASA774_2026-02-08T03"
   }
 ]
