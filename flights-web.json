@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.17,
-    "altitude": 30000,
-    "speed": 425,
-    "timestamp": "2026-02-08T20:05:38.797Z",
-    "lat": 45.617,
-    "lon": -122.5028,
+    "distance": 1.49,
+    "altitude": 27975,
+    "speed": 450,
+    "timestamp": "2026-02-08T20:09:11.629Z",
+    "lat": 45.6115,
+    "lon": -122.4987,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA629",
-    "aircraftType": "B39M",
+    "callsign": "ASA777",
+    "aircraftType": "737",
     "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-08T20:05:38.793Z"
+    "destination": "PAE",
+    "firstSeen": "2026-02-08T20:09:11.625Z"
   },
-  "overheadScore": 1.17,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T20:06:37.213Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T20:09:11.629Z"
 }
