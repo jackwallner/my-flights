@@ -20917,5 +20917,25 @@
     "initialAltitude": 20000,
     "initialSpeed": 398,
     "_sessionKey": "ASA1342_2026-02-07T23"
+  },
+  {
+    "callsign": "ASA703",
+    "flightNumber": "AS703",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "A69424",
+    "registration": "N523AS",
+    "firstSeen": "2026-02-07T23:59:37.788Z",
+    "lastSeen": "2026-02-07T23:59:37.788Z",
+    "duration": 0,
+    "closestDistance": 1.0425887600163601,
+    "closestAltitude": 22000,
+    "closestSpeed": 407,
+    "initialDistance": 1.0425887600163601,
+    "initialAltitude": 22000,
+    "initialSpeed": 407,
+    "_sessionKey": "ASA703_2026-02-07T23"
   }
 ]
