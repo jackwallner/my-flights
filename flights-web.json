@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 28000,
-    "speed": 398,
-    "timestamp": "2026-02-08T18:09:55.625Z",
-    "lat": 45.6135,
-    "lon": -122.5002,
+    "distance": 1.46,
+    "altitude": 30000,
+    "speed": 439,
+    "timestamp": "2026-02-08T18:12:07.435Z",
+    "lat": 45.6112,
+    "lon": -122.5566,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA479",
+    "callsign": "ASA1365",
     "aircraftType": "737",
-    "origin": "LAS",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T18:09:55.622Z"
+    "firstSeen": "2026-02-08T18:12:07.429Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-08T18:09:55.625Z"
+  "timestamp": "2026-02-08T18:12:07.435Z"
 }
