@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.06,
-    "altitude": 29750,
-    "speed": 407,
-    "timestamp": "2026-02-08T03:35:47.605Z",
-    "lat": 45.6193,
-    "lon": -122.5043,
+    "distance": 0.79,
+    "altitude": 27950,
+    "speed": 420,
+    "timestamp": "2026-02-08T03:39:20.056Z",
+    "lat": 45.6267,
+    "lon": -122.5093,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2580",
-    "aircraftType": "737 ",
-    "origin": "LAS",
+    "callsign": "DAL469",
+    "aircraftType": "737",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T03:35:47.602Z"
+    "firstSeen": "2026-02-08T03:39:20.052Z"
   },
-  "overheadScore": 1.06,
-  "isOverhead": false,
+  "overheadScore": 0.79,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T03:36:45.544Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T03:39:20.056Z"
 }
