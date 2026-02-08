@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.78,
-    "altitude": 34125,
-    "speed": 428,
-    "timestamp": "2026-02-08T23:43:56.171Z",
-    "lat": 45.6319,
-    "lon": -122.5122,
+    "distance": 1.42,
+    "altitude": 35975,
+    "speed": 442,
+    "timestamp": "2026-02-08T23:51:56.306Z",
+    "lat": 45.6297,
+    "lon": -122.5613,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2905",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "SKW3789",
+    "aircraftType": "E175",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T23:43:56.165Z"
+    "firstSeen": "2026-02-08T23:51:56.303Z"
   },
-  "overheadScore": 0.78,
-  "isOverhead": true,
+  "overheadScore": 1.42,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T23:44:54.165Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T23:51:56.307Z"
 }
