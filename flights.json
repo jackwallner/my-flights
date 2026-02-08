@@ -21197,5 +21197,25 @@
     "initialAltitude": 34275,
     "initialSpeed": 362,
     "_sessionKey": "SKW4031_2026-02-08T01"
+  },
+  {
+    "callsign": "N724KP",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A9B357",
+    "registration": "N724KP",
+    "firstSeen": "2026-02-08T01:48:29.839Z",
+    "lastSeen": "2026-02-08T01:48:29.839Z",
+    "duration": 0,
+    "closestDistance": 1.227462762432121,
+    "closestAltitude": 1225,
+    "closestSpeed": 174,
+    "initialDistance": 1.227462762432121,
+    "initialAltitude": 1225,
+    "initialSpeed": 174,
+    "_sessionKey": "N724KP_2026-02-08T01"
   }
 ]
