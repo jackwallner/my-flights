@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.24,
-    "altitude": 32000,
-    "speed": 407,
-    "timestamp": "2026-02-08T16:13:45.188Z",
-    "lat": 45.6157,
-    "lon": -122.5019,
+    "distance": 0.75,
+    "altitude": 30000,
+    "speed": 415,
+    "timestamp": "2026-02-08T16:17:29.121Z",
+    "lat": 45.6297,
+    "lon": -122.5114,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA607",
+    "callsign": "ASA323",
     "aircraftType": "737",
-    "origin": "ONT",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T16:13:45.183Z"
+    "firstSeen": "2026-02-08T16:17:29.076Z"
   },
-  "overheadScore": 1.24,
-  "isOverhead": false,
+  "overheadScore": 0.75,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T16:14:43.912Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T16:17:29.121Z"
 }
