@@ -22177,5 +22177,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 415,
     "_sessionKey": "ASA323_2026-02-08T16"
+  },
+  {
+    "callsign": "ASA416",
+    "flightNumber": "AS416",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AD8ED4",
+    "registration": "N973AK",
+    "firstSeen": "2026-02-08T16:20:10.103Z",
+    "lastSeen": "2026-02-08T16:20:10.103Z",
+    "duration": 0,
+    "closestDistance": 1.3691844178893748,
+    "closestAltitude": 28000,
+    "closestSpeed": 408,
+    "initialDistance": 1.3691844178893748,
+    "initialAltitude": 28000,
+    "initialSpeed": 408,
+    "_sessionKey": "ASA416_2026-02-08T16"
   }
 ]
