@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.83,
-    "altitude": 28000,
-    "speed": 447,
-    "timestamp": "2026-02-08T23:39:11.674Z",
-    "lat": 45.6251,
-    "lon": -122.5084,
+    "distance": 0.78,
+    "altitude": 34125,
+    "speed": 428,
+    "timestamp": "2026-02-08T23:43:56.171Z",
+    "lat": 45.6319,
+    "lon": -122.5122,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA741",
-    "aircraftType": "737 ",
+    "callsign": "DAL2905",
+    "aircraftType": "737",
     "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T23:39:11.667Z"
+    "firstSeen": "2026-02-08T23:43:56.165Z"
   },
-  "overheadScore": 0.83,
+  "overheadScore": 0.78,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T23:40:09.911Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T23:43:56.171Z"
 }
