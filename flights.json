@@ -22237,5 +22237,25 @@
     "initialAltitude": 26000,
     "initialSpeed": 409,
     "_sessionKey": "SKW6253_2026-02-08T16"
+  },
+  {
+    "callsign": "ASA709",
+    "flightNumber": "AS709",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A61797",
+    "registration": "N492AS",
+    "firstSeen": "2026-02-08T16:35:27.708Z",
+    "lastSeen": "2026-02-08T16:35:27.708Z",
+    "duration": 0,
+    "closestDistance": 0.9558017615684281,
+    "closestAltitude": 30000,
+    "closestSpeed": 425,
+    "initialDistance": 0.9558017615684281,
+    "initialAltitude": 30000,
+    "initialSpeed": 425,
+    "_sessionKey": "ASA709_2026-02-08T16"
   }
 ]
