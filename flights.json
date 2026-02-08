@@ -21277,5 +21277,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 396,
     "_sessionKey": "ASA676_2026-02-08T02"
+  },
+  {
+    "callsign": "ASA665",
+    "flightNumber": "AS665",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "SEA",
+    "icao": "A72E69",
+    "registration": "N562AS",
+    "firstSeen": "2026-02-08T02:12:38.171Z",
+    "lastSeen": "2026-02-08T02:12:38.171Z",
+    "duration": 0,
+    "closestDistance": 1.3702998925285252,
+    "closestAltitude": 34000,
+    "closestSpeed": 404,
+    "initialDistance": 1.3702998925285252,
+    "initialAltitude": 34000,
+    "initialSpeed": 404,
+    "_sessionKey": "ASA665_2026-02-08T02"
   }
 ]
