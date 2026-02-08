@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 30000,
-    "speed": 482,
-    "timestamp": "2026-02-08T21:04:46.664Z",
-    "lat": 45.6316,
-    "lon": -122.5618,
+    "distance": 0.42,
+    "altitude": 28000,
+    "speed": 465,
+    "timestamp": "2026-02-08T21:05:55.223Z",
+    "lat": 45.6184,
+    "lon": -122.5269,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4439",
-    "aircraftType": "E175",
-    "origin": "SMF",
+    "callsign": "DAL2508",
+    "aircraftType": "737",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T21:04:46.660Z"
+    "firstSeen": "2026-02-08T21:05:55.219Z"
   },
-  "overheadScore": 1.46,
-  "isOverhead": false,
+  "overheadScore": 0.42,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-08T21:04:46.665Z"
+  "status": "completed",
+  "timestamp": "2026-02-08T21:06:53.294Z"
 }
