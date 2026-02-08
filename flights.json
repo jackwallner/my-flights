@@ -21377,5 +21377,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 379,
     "_sessionKey": "ASA683_2026-02-08T02"
+  },
+  {
+    "callsign": "SWA433",
+    "flightNumber": "WN433",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A25D36",
+    "registration": "N251WN",
+    "firstSeen": "2026-02-08T03:03:30.045Z",
+    "lastSeen": "2026-02-08T03:03:30.045Z",
+    "duration": 0,
+    "closestDistance": 1.3277905684214037,
+    "closestAltitude": 35975,
+    "closestSpeed": 428,
+    "initialDistance": 1.3277905684214037,
+    "initialAltitude": 35975,
+    "initialSpeed": 428,
+    "_sessionKey": "SWA433_2026-02-08T03"
   }
 ]
