@@ -22137,5 +22137,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 462,
     "_sessionKey": "ASA1320_2026-02-08T16"
+  },
+  {
+    "callsign": "ASA607",
+    "flightNumber": "AS607",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "SEA",
+    "icao": "A28DE3",
+    "registration": "N264AK",
+    "firstSeen": "2026-02-08T16:13:45.183Z",
+    "lastSeen": "2026-02-08T16:13:45.183Z",
+    "duration": 0,
+    "closestDistance": 1.2419390568972444,
+    "closestAltitude": 32000,
+    "closestSpeed": 407,
+    "initialDistance": 1.2419390568972444,
+    "initialAltitude": 32000,
+    "initialSpeed": 407,
+    "_sessionKey": "ASA607_2026-02-08T16"
   }
 ]
