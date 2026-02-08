@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.04,
-    "altitude": 22000,
-    "speed": 407,
-    "timestamp": "2026-02-07T23:59:37.794Z",
-    "lat": 45.6197,
-    "lon": -122.5046,
+    "distance": 1.37,
+    "altitude": 20000,
+    "speed": 424,
+    "timestamp": "2026-02-08T00:11:22.617Z",
+    "lat": 45.6165,
+    "lon": -122.5581,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA703",
-    "aircraftType": "737",
-    "origin": "BUR",
+    "callsign": "QXE2037",
+    "aircraftType": "E175",
+    "origin": "RDD",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T23:59:37.788Z"
+    "firstSeen": "2026-02-08T00:11:22.614Z"
   },
-  "overheadScore": 1.04,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T00:00:37.218Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T00:11:22.617Z"
 }
