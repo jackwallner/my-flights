@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.93,
-    "altitude": 30000,
-    "speed": 426,
-    "timestamp": "2026-02-08T19:43:28.266Z",
-    "lat": 45.6222,
-    "lon": -122.5065,
+    "distance": 0.77,
+    "altitude": 28000,
+    "speed": 440,
+    "timestamp": "2026-02-08T19:51:49.300Z",
+    "lat": 45.6279,
+    "lon": -122.5102,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA798",
-    "aircraftType": "B39M",
-    "origin": "LAX",
+    "callsign": "ASA1368",
+    "aircraftType": "737",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T19:43:28.261Z"
+    "firstSeen": "2026-02-08T19:51:49.297Z"
   },
-  "overheadScore": 0.93,
+  "overheadScore": 0.77,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T19:44:26.556Z"
+  "timestamp": "2026-02-08T19:52:47.254Z"
 }
