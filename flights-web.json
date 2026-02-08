@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.97,
-    "altitude": 24000,
-    "speed": 405,
-    "timestamp": "2026-02-08T09:17:42.022Z",
-    "lat": 45.6217,
-    "lon": -122.5057,
+    "distance": 1.14,
+    "altitude": 36000,
+    "speed": 380,
+    "timestamp": "2026-02-08T09:49:52.761Z",
+    "lat": 45.6179,
+    "lon": -122.5031,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SCW4013",
-    "aircraftType": "CRJ",
-    "origin": "BUR",
-    "destination": "BFI",
-    "firstSeen": "2026-02-08T09:17:42.018Z"
+    "callsign": "ATN3378",
+    "aircraftType": "767",
+    "origin": "SBD",
+    "destination": "SEA",
+    "firstSeen": "2026-02-08T09:49:52.758Z"
   },
-  "overheadScore": 0.97,
-  "isOverhead": true,
+  "overheadScore": 1.14,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T09:18:40.048Z"
+  "timestamp": "2026-02-08T09:50:50.916Z"
 }
