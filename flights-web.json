@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
+    "distance": 1.33,
     "altitude": 20000,
-    "speed": 424,
-    "timestamp": "2026-02-08T00:11:22.617Z",
-    "lat": 45.6165,
-    "lon": -122.5581,
+    "speed": 420,
+    "timestamp": "2026-02-08T00:13:23.690Z",
+    "lat": 45.6213,
+    "lon": -122.5593,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2037",
-    "aircraftType": "E175",
-    "origin": "RDD",
+    "callsign": "ASA687",
+    "aircraftType": "737",
+    "origin": "SBA",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T00:11:22.614Z"
+    "firstSeen": "2026-02-08T00:13:23.686Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-08T00:11:22.617Z"
+  "timestamp": "2026-02-08T00:13:23.690Z"
 }
