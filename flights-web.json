@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 26000,
-    "speed": 436,
-    "timestamp": "2026-02-08T17:21:30.239Z",
-    "lat": 45.6263,
-    "lon": -122.5605,
+    "distance": 0.86,
+    "altitude": 28000,
+    "speed": 415,
+    "timestamp": "2026-02-08T17:24:18.435Z",
+    "lat": 45.6145,
+    "lon": -122.5417,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4041",
+    "callsign": "SKW3345",
     "aircraftType": "E175",
-    "origin": "SJC",
+    "origin": "FAT",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T17:21:30.235Z"
+    "firstSeen": "2026-02-08T17:24:18.390Z"
   },
-  "overheadScore": 1.36,
-  "isOverhead": false,
+  "overheadScore": 0.86,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-08T17:21:30.240Z"
+  "timestamp": "2026-02-08T17:24:18.435Z"
 }
