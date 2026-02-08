@@ -22037,5 +22037,25 @@
     "initialAltitude": 37400,
     "initialSpeed": 434,
     "_sessionKey": "DAL2721_2026-02-08T15"
+  },
+  {
+    "callsign": "ASA68",
+    "flightNumber": "AS68",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AD8766",
+    "registration": "N971AK",
+    "firstSeen": "2026-02-08T15:39:02.272Z",
+    "lastSeen": "2026-02-08T15:39:02.272Z",
+    "duration": 0,
+    "closestDistance": 1.331768400960292,
+    "closestAltitude": 30025,
+    "closestSpeed": 459,
+    "initialDistance": 1.331768400960292,
+    "initialAltitude": 30025,
+    "initialSpeed": 459,
+    "_sessionKey": "ASA68_2026-02-08T15"
   }
 ]
