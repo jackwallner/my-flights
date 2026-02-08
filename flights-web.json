@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.75,
+    "distance": 1.37,
     "altitude": 28000,
-    "speed": 447,
-    "timestamp": "2026-02-08T17:58:49.580Z",
-    "lat": 45.6311,
-    "lon": -122.5122,
+    "speed": 398,
+    "timestamp": "2026-02-08T18:09:55.625Z",
+    "lat": 45.6135,
+    "lon": -122.5002,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA702",
+    "callsign": "ASA479",
     "aircraftType": "737",
-    "origin": "SNA",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T17:58:49.576Z"
+    "firstSeen": "2026-02-08T18:09:55.622Z"
   },
-  "overheadScore": 0.75,
-  "isOverhead": true,
+  "overheadScore": 1.37,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T17:59:48.370Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T18:09:55.625Z"
 }
