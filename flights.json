@@ -23017,5 +23017,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 453,
     "_sessionKey": "DAL2922_2026-02-08T20"
+  },
+  {
+    "callsign": "QXE2344",
+    "flightNumber": "AS2344",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "STS",
+    "destination": "SEA",
+    "icao": "A85CE8",
+    "registration": "N638QX",
+    "firstSeen": "2026-02-08T20:58:59.516Z",
+    "lastSeen": "2026-02-08T20:58:59.516Z",
+    "duration": 0,
+    "closestDistance": 1.3300397344084807,
+    "closestAltitude": 24000,
+    "closestSpeed": 457,
+    "initialDistance": 1.3300397344084807,
+    "initialAltitude": 24000,
+    "initialSpeed": 457,
+    "_sessionKey": "QXE2344_2026-02-08T20"
   }
 ]
