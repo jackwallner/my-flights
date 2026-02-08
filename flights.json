@@ -21677,5 +21677,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 430,
     "_sessionKey": "ASA600_2026-02-08T04"
+  },
+  {
+    "callsign": "SWA2305",
+    "flightNumber": "WN2305",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "A7130C",
+    "registration": "N555LV",
+    "firstSeen": "2026-02-08T04:26:57.695Z",
+    "lastSeen": "2026-02-08T04:26:57.695Z",
+    "duration": 0,
+    "closestDistance": 0.9299080684935627,
+    "closestAltitude": 25025,
+    "closestSpeed": 392,
+    "initialDistance": 0.9299080684935627,
+    "initialAltitude": 25025,
+    "initialSpeed": 392,
+    "_sessionKey": "SWA2305_2026-02-08T04"
   }
 ]
