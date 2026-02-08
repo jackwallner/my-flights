@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.93,
-    "altitude": 25025,
-    "speed": 392,
-    "timestamp": "2026-02-08T04:26:57.699Z",
-    "lat": 45.6226,
-    "lon": -122.5063,
+    "distance": 1.36,
+    "altitude": 26000,
+    "speed": 414,
+    "timestamp": "2026-02-08T04:28:37.517Z",
+    "lat": 45.6257,
+    "lon": -122.5604,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2305",
-    "aircraftType": "B737",
-    "origin": "PHX",
+    "callsign": "UAL2019",
+    "aircraftType": "737",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T04:26:57.695Z"
+    "firstSeen": "2026-02-08T04:28:37.513Z"
   },
-  "overheadScore": 0.93,
-  "isOverhead": true,
+  "overheadScore": 1.36,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T04:27:56.268Z"
+  "timestamp": "2026-02-08T04:29:36.294Z"
 }
