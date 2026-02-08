@@ -22477,5 +22477,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 409,
     "_sessionKey": "DAL2980_2026-02-08T17"
+  },
+  {
+    "callsign": "FFT2407",
+    "flightNumber": "F92407",
+    "aircraftType": "A21N",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A825A6",
+    "registration": "N624FR",
+    "firstSeen": "2026-02-08T17:47:23.336Z",
+    "lastSeen": "2026-02-08T17:47:23.336Z",
+    "duration": 0,
+    "closestDistance": 0.9861562860702123,
+    "closestAltitude": 28000,
+    "closestSpeed": 445,
+    "initialDistance": 0.9861562860702123,
+    "initialAltitude": 28000,
+    "initialSpeed": 445,
+    "_sessionKey": "FFT2407_2026-02-08T17"
   }
 ]
