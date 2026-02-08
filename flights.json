@@ -21317,5 +21317,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 394,
     "_sessionKey": "ASA585_2026-02-08T02"
+  },
+  {
+    "callsign": "ASA591",
+    "flightNumber": "AS591",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A24A0A",
+    "registration": "N247AK",
+    "firstSeen": "2026-02-08T02:19:24.514Z",
+    "lastSeen": "2026-02-08T02:19:24.514Z",
+    "duration": 0,
+    "closestDistance": 1.3158317723718371,
+    "closestAltitude": 26000,
+    "closestSpeed": 369,
+    "initialDistance": 1.3158317723718371,
+    "initialAltitude": 26000,
+    "initialSpeed": 369,
+    "_sessionKey": "ASA591_2026-02-08T02"
   }
 ]
