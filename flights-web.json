@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 30000,
-    "speed": 439,
-    "timestamp": "2026-02-08T18:12:07.435Z",
-    "lat": 45.6112,
-    "lon": -122.5566,
+    "distance": 1.33,
+    "altitude": 1325,
+    "speed": 169,
+    "timestamp": "2026-02-08T18:18:03.930Z",
+    "lat": 45.6089,
+    "lon": -122.5493,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1365",
-    "aircraftType": "737",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-02-08T18:12:07.429Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 1.46,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T18:13:05.541Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T18:18:03.930Z"
 }
