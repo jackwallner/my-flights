@@ -21877,5 +21877,25 @@
     "initialAltitude": 26000,
     "initialSpeed": 378,
     "_sessionKey": "ASA574_2026-02-08T05"
+  },
+  {
+    "callsign": "ASA1346",
+    "flightNumber": "AS1346",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "PAE",
+    "icao": "ACD47E",
+    "registration": "N926AK",
+    "firstSeen": "2026-02-08T05:56:11.822Z",
+    "lastSeen": "2026-02-08T05:56:11.822Z",
+    "duration": 0,
+    "closestDistance": 0.7905945208885106,
+    "closestAltitude": 28000,
+    "closestSpeed": 408,
+    "initialDistance": 0.7905945208885106,
+    "initialAltitude": 28000,
+    "initialSpeed": 408,
+    "_sessionKey": "ASA1346_2026-02-08T05"
   }
 ]
