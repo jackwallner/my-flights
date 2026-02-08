@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
-    "altitude": 28000,
-    "speed": 453,
-    "timestamp": "2026-02-08T18:36:36.090Z",
-    "lat": 45.6255,
-    "lon": -122.5601,
+    "distance": 1.18,
+    "altitude": 24025,
+    "speed": 395,
+    "timestamp": "2026-02-08T18:46:30.200Z",
+    "lat": 45.6235,
+    "lon": -122.5001,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA656",
-    "aircraftType": "B39M",
+    "callsign": "UAL2340",
+    "aircraftType": "A319",
     "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T18:36:36.045Z"
+    "firstSeen": "2026-02-08T18:46:30.196Z"
   },
-  "overheadScore": 1.34,
+  "overheadScore": 1.18,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T18:37:35.456Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T18:46:30.200Z"
 }
