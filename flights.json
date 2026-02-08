@@ -23337,5 +23337,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 440,
     "_sessionKey": "DAL2101_2026-02-08T23"
+  },
+  {
+    "callsign": "ASA741",
+    "flightNumber": "AS741",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AB10D4",
+    "registration": "N812AK",
+    "firstSeen": "2026-02-08T23:39:11.667Z",
+    "lastSeen": "2026-02-08T23:39:11.667Z",
+    "duration": 0,
+    "closestDistance": 0.8277492205223798,
+    "closestAltitude": 28000,
+    "closestSpeed": 447,
+    "initialDistance": 0.8277492205223798,
+    "initialAltitude": 28000,
+    "initialSpeed": 447,
+    "_sessionKey": "ASA741_2026-02-08T23"
   }
 ]
