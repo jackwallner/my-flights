@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.99,
-    "altitude": 28000,
-    "speed": 445,
-    "timestamp": "2026-02-08T17:47:23.341Z",
-    "lat": 45.6211,
-    "lon": -122.5054,
+    "distance": 1.18,
+    "altitude": 28025,
+    "speed": 447,
+    "timestamp": "2026-02-08T17:55:25.145Z",
+    "lat": 45.6172,
+    "lon": -122.5024,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FFT2407",
-    "aircraftType": "A321",
-    "origin": "LAS",
+    "callsign": "SKW5004",
+    "aircraftType": "CRJ",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T17:47:23.336Z"
+    "firstSeen": "2026-02-08T17:55:25.141Z"
   },
-  "overheadScore": 0.99,
-  "isOverhead": true,
+  "overheadScore": 1.18,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T17:48:23.028Z"
+  "timestamp": "2026-02-08T17:56:25.526Z"
 }
