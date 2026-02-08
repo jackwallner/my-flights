@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.86,
-    "altitude": 28000,
-    "speed": 415,
-    "timestamp": "2026-02-08T17:24:18.435Z",
-    "lat": 45.6145,
-    "lon": -122.5417,
+    "distance": 1.42,
+    "altitude": 26000,
+    "speed": 436,
+    "timestamp": "2026-02-08T17:30:34.842Z",
+    "lat": 45.6129,
+    "lon": -122.5569,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3345",
-    "aircraftType": "E175",
-    "origin": "FAT",
+    "callsign": "ASA705",
+    "aircraftType": "737",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T17:24:18.390Z"
+    "firstSeen": "2026-02-08T17:30:34.838Z"
   },
-  "overheadScore": 0.86,
-  "isOverhead": true,
+  "overheadScore": 1.42,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T17:25:16.137Z"
+  "timestamp": "2026-02-08T17:31:33.007Z"
 }
