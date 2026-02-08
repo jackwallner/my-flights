@@ -22057,5 +22057,25 @@
     "initialAltitude": 30025,
     "initialSpeed": 459,
     "_sessionKey": "ASA68_2026-02-08T15"
+  },
+  {
+    "callsign": "SKW4075",
+    "flightNumber": "DL4075",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A2B6FF",
+    "registration": "N274SY",
+    "firstSeen": "2026-02-08T15:46:32.135Z",
+    "lastSeen": "2026-02-08T15:46:32.135Z",
+    "duration": 0,
+    "closestDistance": 1.371834908118884,
+    "closestAltitude": 20000,
+    "closestSpeed": 426,
+    "initialDistance": 1.371834908118884,
+    "initialAltitude": 20000,
+    "initialSpeed": 426,
+    "_sessionKey": "SKW4075_2026-02-08T15"
   }
 ]
