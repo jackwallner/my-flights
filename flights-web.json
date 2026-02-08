@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.78,
-    "altitude": 29800,
-    "speed": 390,
-    "timestamp": "2026-02-08T03:15:58.277Z",
-    "lat": 45.6282,
-    "lon": -122.5101,
+    "distance": 1.41,
+    "altitude": 30725,
+    "speed": 436,
+    "timestamp": "2026-02-08T03:21:46.501Z",
+    "lat": 45.6134,
+    "lon": -122.5572,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA774",
-    "aircraftType": "737",
-    "origin": "SNA",
+    "callsign": "SWA3678",
+    "aircraftType": "B737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T03:15:58.272Z"
+    "firstSeen": "2026-02-08T03:21:46.496Z"
   },
-  "overheadScore": 0.78,
-  "isOverhead": true,
+  "overheadScore": 1.41,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T03:16:57.839Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T03:21:46.501Z"
 }
