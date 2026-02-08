@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.93,
-    "altitude": 43000,
-    "speed": 428,
-    "timestamp": "2026-02-08T06:22:02.215Z",
-    "lat": 45.6103,
-    "lon": -122.5336,
+    "distance": 1.22,
+    "altitude": 28000,
+    "speed": 424,
+    "timestamp": "2026-02-08T06:42:24.145Z",
+    "lat": 45.6164,
+    "lon": -122.502,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "E55P",
-    "aircraftType": "E55P",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-08T06:22:02.211Z"
+    "callsign": "SKW5408",
+    "aircraftType": "E175",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-08T06:42:24.141Z"
   },
-  "overheadScore": 0.93,
-  "isOverhead": true,
+  "overheadScore": 1.22,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T06:23:00.746Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T06:42:24.145Z"
 }
