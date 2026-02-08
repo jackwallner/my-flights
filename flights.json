@@ -21897,5 +21897,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 408,
     "_sessionKey": "ASA1346_2026-02-08T05"
+  },
+  {
+    "callsign": "ASA541",
+    "flightNumber": "AS541",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A9AEBC",
+    "registration": "N723AL",
+    "firstSeen": "2026-02-08T05:59:25.016Z",
+    "lastSeen": "2026-02-08T05:59:25.016Z",
+    "duration": 0,
+    "closestDistance": 1.3411850169017345,
+    "closestAltitude": 28000,
+    "closestSpeed": 401,
+    "initialDistance": 1.3411850169017345,
+    "initialAltitude": 28000,
+    "initialSpeed": 401,
+    "_sessionKey": "ASA541_2026-02-08T05"
   }
 ]
