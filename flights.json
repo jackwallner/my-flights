@@ -21657,5 +21657,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 426,
     "_sessionKey": "DAL1922_2026-02-08T04"
+  },
+  {
+    "callsign": "ASA600",
+    "flightNumber": "AS600",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A29908",
+    "registration": "N267AK",
+    "firstSeen": "2026-02-08T04:22:23.651Z",
+    "lastSeen": "2026-02-08T04:22:23.651Z",
+    "duration": 0,
+    "closestDistance": 1.371834908118884,
+    "closestAltitude": 28000,
+    "closestSpeed": 430,
+    "initialDistance": 1.371834908118884,
+    "initialAltitude": 28000,
+    "initialSpeed": 430,
+    "_sessionKey": "ASA600_2026-02-08T04"
   }
 ]
