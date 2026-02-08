@@ -23037,5 +23037,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 457,
     "_sessionKey": "QXE2344_2026-02-08T20"
+  },
+  {
+    "callsign": "SKW4439",
+    "flightNumber": "DL4439",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A36FF7",
+    "registration": "N320SY",
+    "firstSeen": "2026-02-08T21:04:46.660Z",
+    "lastSeen": "2026-02-08T21:04:46.660Z",
+    "duration": 0,
+    "closestDistance": 1.4644723236479045,
+    "closestAltitude": 30000,
+    "closestSpeed": 482,
+    "initialDistance": 1.4644723236479045,
+    "initialAltitude": 30000,
+    "initialSpeed": 482,
+    "_sessionKey": "SKW4439_2026-02-08T21"
   }
 ]

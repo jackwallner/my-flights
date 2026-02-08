@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 24000,
-    "speed": 457,
-    "timestamp": "2026-02-08T20:58:59.520Z",
-    "lat": 45.6188,
-    "lon": -122.5584,
+    "distance": 1.46,
+    "altitude": 30000,
+    "speed": 482,
+    "timestamp": "2026-02-08T21:04:46.664Z",
+    "lat": 45.6316,
+    "lon": -122.5618,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2344",
+    "callsign": "SKW4439",
     "aircraftType": "E175",
-    "origin": "STS",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T20:58:59.516Z"
+    "firstSeen": "2026-02-08T21:04:46.660Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.46,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T20:59:57.877Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T21:04:46.665Z"
 }
