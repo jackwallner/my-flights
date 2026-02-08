@@ -21217,5 +21217,25 @@
     "initialAltitude": 1225,
     "initialSpeed": 174,
     "_sessionKey": "N724KP_2026-02-08T01"
+  },
+  {
+    "callsign": "DAL2606",
+    "flightNumber": "DL2606",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A495B4",
+    "registration": "N395DN",
+    "firstSeen": "2026-02-08T01:55:58.154Z",
+    "lastSeen": "2026-02-08T01:55:58.154Z",
+    "duration": 0,
+    "closestDistance": 0.950403667681502,
+    "closestAltitude": 30000,
+    "closestSpeed": 397,
+    "initialDistance": 0.950403667681502,
+    "initialAltitude": 30000,
+    "initialSpeed": 397,
+    "_sessionKey": "DAL2606_2026-02-08T01"
   }
 ]
