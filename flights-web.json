@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 38000,
-    "speed": 438,
-    "timestamp": "2026-02-08T19:33:19.689Z",
-    "lat": 45.617,
-    "lon": -122.5579,
+    "distance": 0.95,
+    "altitude": 28000,
+    "speed": 467,
+    "timestamp": "2026-02-08T19:40:18.187Z",
+    "lat": 45.6216,
+    "lon": -122.506,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LAE2525",
-    "aircraftType": "767",
+    "callsign": "DAL1714",
+    "aircraftType": "737",
     "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T19:33:19.685Z"
+    "firstSeen": "2026-02-08T19:40:18.184Z"
   },
-  "overheadScore": 1.35,
-  "isOverhead": false,
+  "overheadScore": 0.95,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-08T19:34:17.634Z"
+  "status": "tracking",
+  "timestamp": "2026-02-08T19:40:18.188Z"
 }
