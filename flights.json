@@ -21977,5 +21977,25 @@
     "initialAltitude": 24025,
     "initialSpeed": 408,
     "_sessionKey": "SKW6444_2026-02-08T08"
+  },
+  {
+    "callsign": "SCW4013",
+    "flightNumber": null,
+    "aircraftType": "CRJ2",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "BFI",
+    "icao": "ACCAF4",
+    "registration": "N923SW",
+    "firstSeen": "2026-02-08T09:17:42.018Z",
+    "lastSeen": "2026-02-08T09:17:42.018Z",
+    "duration": 0,
+    "closestDistance": 0.9653185533627173,
+    "closestAltitude": 24000,
+    "closestSpeed": 405,
+    "initialDistance": 0.9653185533627173,
+    "initialAltitude": 24000,
+    "initialSpeed": 405,
+    "_sessionKey": "SCW4013_2026-02-08T09"
   }
 ]
