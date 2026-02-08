@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 28000,
-    "speed": 408,
-    "timestamp": "2026-02-08T16:20:10.108Z",
-    "lat": 45.6157,
-    "lon": -122.5577,
+    "distance": 1.33,
+    "altitude": 30000,
+    "speed": 394,
+    "timestamp": "2026-02-08T16:31:06.314Z",
+    "lat": 45.6237,
+    "lon": -122.5598,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA416",
-    "aircraftType": "B39M",
-    "origin": "SFO",
+    "callsign": "SWA862",
+    "aircraftType": "737 ",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T16:20:10.103Z"
+    "firstSeen": "2026-02-08T16:31:06.311Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T16:21:08.524Z"
+  "timestamp": "2026-02-08T16:32:04.863Z"
 }

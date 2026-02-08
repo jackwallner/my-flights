@@ -22197,5 +22197,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 408,
     "_sessionKey": "ASA416_2026-02-08T16"
+  },
+  {
+    "callsign": "SWA862",
+    "flightNumber": "WN862",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AC1A44",
+    "registration": "N8791D",
+    "firstSeen": "2026-02-08T16:31:06.311Z",
+    "lastSeen": "2026-02-08T16:31:06.311Z",
+    "duration": 0,
+    "closestDistance": 1.3339647029212525,
+    "closestAltitude": 30000,
+    "closestSpeed": 394,
+    "initialDistance": 1.3339647029212525,
+    "initialAltitude": 30000,
+    "initialSpeed": 394,
+    "_sessionKey": "SWA862_2026-02-08T16"
   }
 ]
