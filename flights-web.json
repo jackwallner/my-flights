@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 37825,
-    "speed": 406,
-    "timestamp": "2026-02-08T01:42:16.511Z",
-    "lat": 45.6229,
-    "lon": -122.5595,
+    "distance": 1.16,
+    "altitude": 34275,
+    "speed": 362,
+    "timestamp": "2026-02-08T01:46:29.836Z",
+    "lat": 45.6175,
+    "lon": -122.5029,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2279",
-    "aircraftType": "A319",
-    "origin": "SFO",
+    "callsign": "SKW4031",
+    "aircraftType": "E175",
+    "origin": "ONT",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T01:42:16.507Z"
+    "firstSeen": "2026-02-08T01:46:29.832Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.16,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T01:43:14.475Z"
+  "timestamp": "2026-02-08T01:47:27.970Z"
 }
