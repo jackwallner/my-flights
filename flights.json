@@ -21357,5 +21357,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 384,
     "_sessionKey": "SKW3707_2026-02-08T02"
+  },
+  {
+    "callsign": "ASA683",
+    "flightNumber": "AS683",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A9B62A",
+    "registration": "N725AL",
+    "firstSeen": "2026-02-08T02:32:41.477Z",
+    "lastSeen": "2026-02-08T02:32:41.477Z",
+    "duration": 0,
+    "closestDistance": 0.9426004435932946,
+    "closestAltitude": 34000,
+    "closestSpeed": 379,
+    "initialDistance": 0.9426004435932946,
+    "initialAltitude": 34000,
+    "initialSpeed": 379,
+    "_sessionKey": "ASA683_2026-02-08T02"
   }
 ]
