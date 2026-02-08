@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.42,
-    "altitude": 26000,
-    "speed": 436,
-    "timestamp": "2026-02-08T17:30:34.842Z",
-    "lat": 45.6129,
-    "lon": -122.5569,
+    "distance": 1.09,
+    "altitude": 30000,
+    "speed": 411,
+    "timestamp": "2026-02-08T17:32:55.545Z",
+    "lat": 45.6189,
+    "lon": -122.5039,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA705",
-    "aircraftType": "737",
-    "origin": "OAK",
+    "callsign": "SKW4042",
+    "aircraftType": "E175",
+    "origin": "ONT",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T17:30:34.838Z"
+    "firstSeen": "2026-02-08T17:32:55.542Z"
   },
-  "overheadScore": 1.42,
+  "overheadScore": 1.09,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T17:31:33.007Z"
+  "timestamp": "2026-02-08T17:33:54.245Z"
 }
