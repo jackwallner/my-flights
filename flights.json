@@ -21597,5 +21597,25 @@
     "initialAltitude": 24200,
     "initialSpeed": 396,
     "_sessionKey": "DAL1837_2026-02-08T03"
+  },
+  {
+    "callsign": "ASA758",
+    "flightNumber": "AS758",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A7AC54",
+    "registration": "N594AS",
+    "firstSeen": "2026-02-08T03:52:30.293Z",
+    "lastSeen": "2026-02-08T03:52:30.293Z",
+    "duration": 0,
+    "closestDistance": 1.3260460971135961,
+    "closestAltitude": 28000,
+    "closestSpeed": 372,
+    "initialDistance": 1.3260460971135961,
+    "initialAltitude": 28000,
+    "initialSpeed": 372,
+    "_sessionKey": "ASA758_2026-02-08T03"
   }
 ]

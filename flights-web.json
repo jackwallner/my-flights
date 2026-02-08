@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 24200,
-    "speed": 396,
-    "timestamp": "2026-02-08T03:48:58.108Z",
-    "lat": 45.6169,
-    "lon": -122.558,
+    "distance": 1.33,
+    "altitude": 28000,
+    "speed": 372,
+    "timestamp": "2026-02-08T03:52:30.297Z",
+    "lat": 45.6214,
+    "lon": -122.5592,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1837",
+    "callsign": "ASA758",
     "aircraftType": "737",
-    "origin": "SJD",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T03:48:58.104Z"
+    "firstSeen": "2026-02-08T03:52:30.293Z"
   },
-  "overheadScore": 1.35,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T03:49:55.936Z"
+  "timestamp": "2026-02-08T03:53:28.928Z"
 }
