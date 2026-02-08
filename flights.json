@@ -22777,5 +22777,25 @@
     "initialAltitude": 38125,
     "initialSpeed": 439,
     "_sessionKey": "SWA4781_2026-02-08T19"
+  },
+  {
+    "callsign": "SWA2580",
+    "flightNumber": "WN2580",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "ABF3B8",
+    "registration": "N8698B",
+    "firstSeen": "2026-02-08T19:29:47.361Z",
+    "lastSeen": "2026-02-08T19:29:47.361Z",
+    "duration": 0,
+    "closestDistance": 0.9052916702974898,
+    "closestAltitude": 26000,
+    "closestSpeed": 443,
+    "initialDistance": 0.9052916702974898,
+    "initialAltitude": 26000,
+    "initialSpeed": 443,
+    "_sessionKey": "SWA2580_2026-02-08T19"
   }
 ]

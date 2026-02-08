@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.8,
-    "altitude": 38125,
-    "speed": 439,
-    "timestamp": "2026-02-08T19:20:13.920Z",
-    "lat": 45.627,
-    "lon": -122.5093,
+    "distance": 0.91,
+    "altitude": 26000,
+    "speed": 443,
+    "timestamp": "2026-02-08T19:29:47.364Z",
+    "lat": 45.623,
+    "lon": -122.5068,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA4781",
-    "aircraftType": "B737",
-    "origin": "PHX",
+    "callsign": "SWA2580",
+    "aircraftType": "737",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T19:20:13.915Z"
+    "firstSeen": "2026-02-08T19:29:47.361Z"
   },
-  "overheadScore": 0.8,
+  "overheadScore": 0.91,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-08T19:21:12.865Z"
+  "timestamp": "2026-02-08T19:30:45.362Z"
 }
