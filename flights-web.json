@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 28000,
-    "speed": 473,
-    "timestamp": "2026-02-09T03:06:56.322Z",
-    "lat": 45.6171,
-    "lon": -122.5583,
+    "distance": 1.14,
+    "altitude": 27675,
+    "speed": 436,
+    "timestamp": "2026-02-09T03:08:46.271Z",
+    "lat": 45.617,
+    "lon": -122.5038,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1837",
-    "aircraftType": "737",
-    "origin": "SJD",
+    "callsign": "SKW6481",
+    "aircraftType": "CRJ",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T03:06:56.318Z"
+    "firstSeen": "2026-02-09T03:08:46.267Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.14,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-09T03:06:56.322Z"
+  "timestamp": "2026-02-09T03:08:46.271Z"
 }
