@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.89,
-    "altitude": 38325,
-    "speed": 476,
-    "timestamp": "2026-02-09T19:01:20.753Z",
-    "lat": 45.6195,
-    "lon": -122.5476,
+    "distance": 0.56,
+    "altitude": 35925,
+    "speed": 417,
+    "timestamp": "2026-02-09T19:09:31.386Z",
+    "lat": 45.6163,
+    "lon": -122.5243,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GA7C",
-    "aircraftType": "GA7C",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T19:01:20.748Z"
+    "callsign": "EJA225",
+    "aircraftType": "Chal",
+    "origin": "PSP",
+    "destination": "BFI",
+    "firstSeen": "2026-02-09T19:09:31.382Z"
   },
-  "overheadScore": 0.89,
+  "overheadScore": 0.56,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T19:02:20.370Z"
+  "timestamp": "2026-02-09T19:10:30.360Z"
 }
