@@ -2,22 +2,22 @@
   "closestApproach": {
     "distance": 1.33,
     "altitude": 26000,
-    "speed": 438,
-    "timestamp": "2026-02-09T05:08:54.155Z",
-    "lat": 45.6231,
-    "lon": -122.5596,
+    "speed": 424,
+    "timestamp": "2026-02-09T05:10:45.795Z",
+    "lat": 45.6194,
+    "lon": -122.5587,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2100",
+    "callsign": "QXE2037",
     "aircraftType": "E175",
-    "origin": "SMF",
+    "origin": "RDD",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T05:08:54.150Z"
+    "firstSeen": "2026-02-09T05:10:45.791Z"
   },
   "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-09T05:08:54.155Z"
+  "timestamp": "2026-02-09T05:10:45.795Z"
 }
