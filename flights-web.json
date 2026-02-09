@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 38025,
-    "speed": 463,
-    "timestamp": "2026-02-09T21:46:08.404Z",
-    "lat": 45.6122,
-    "lon": -122.5578,
+    "distance": 1.42,
+    "altitude": 800,
+    "speed": 136,
+    "timestamp": "2026-02-09T21:51:03.945Z",
+    "lat": 45.615,
+    "lon": -122.5585,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1037",
-    "aircraftType": "B737",
-    "origin": "OAK",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T21:46:08.399Z"
+    "callsign": "N7474E",
+    "aircraftType": "C180",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-02-09T21:51:03.940Z"
   },
-  "overheadScore": 1.47,
+  "overheadScore": 1.42,
   "isOverhead": false,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-09T21:47:07.074Z"
+  "timestamp": "2026-02-09T21:52:12.737Z"
 }

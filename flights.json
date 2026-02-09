@@ -26057,5 +26057,25 @@
     "initialAltitude": 38025,
     "initialSpeed": 463,
     "_sessionKey": "SWA1037_2026-02-09T21"
+  },
+  {
+    "callsign": "N7474E",
+    "flightNumber": null,
+    "aircraftType": "C180",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "AA0F74",
+    "registration": "N7474E",
+    "firstSeen": "2026-02-09T21:51:03.940Z",
+    "lastSeen": "2026-02-09T21:52:02.454Z",
+    "duration": 59,
+    "closestDistance": 1.4175376860219564,
+    "closestAltitude": 800,
+    "closestSpeed": 136,
+    "initialDistance": 1.4175376860219564,
+    "initialAltitude": 800,
+    "initialSpeed": 136,
+    "_sessionKey": "N7474E_2026-02-09T21"
   }
 ]
