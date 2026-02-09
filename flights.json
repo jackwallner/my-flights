@@ -23577,5 +23577,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 492,
     "_sessionKey": "ASA745_2026-02-09T00"
+  },
+  {
+    "callsign": "ASA403",
+    "flightNumber": "AS403",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "A7398E",
+    "registration": "N565AS",
+    "firstSeen": "2026-02-09T01:00:52.107Z",
+    "lastSeen": "2026-02-09T01:00:52.107Z",
+    "duration": 0,
+    "closestDistance": 1.1509117385386096,
+    "closestAltitude": 28000,
+    "closestSpeed": 421,
+    "initialDistance": 1.1509117385386096,
+    "initialAltitude": 28000,
+    "initialSpeed": 421,
+    "_sessionKey": "ASA403_2026-02-09T01"
   }
 ]
