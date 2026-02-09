@@ -25937,5 +25937,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 408,
     "_sessionKey": "ASA330_2026-02-09T21"
+  },
+  {
+    "callsign": "ASA580",
+    "flightNumber": "AS580",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A4DF56",
+    "registration": "N413AS",
+    "firstSeen": "2026-02-09T21:27:39.559Z",
+    "lastSeen": "2026-02-09T21:27:39.559Z",
+    "duration": 0,
+    "closestDistance": 1.3837525013672851,
+    "closestAltitude": 24000,
+    "closestSpeed": 406,
+    "initialDistance": 1.3837525013672851,
+    "initialAltitude": 24000,
+    "initialSpeed": 406,
+    "_sessionKey": "ASA580_2026-02-09T21"
   }
 ]
