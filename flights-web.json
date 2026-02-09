@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 42825,
-    "speed": 483,
-    "timestamp": "2026-02-09T08:56:16.606Z",
-    "lat": 45.6165,
-    "lon": -122.5587,
+    "distance": 0.96,
+    "altitude": 36000,
+    "speed": 455,
+    "timestamp": "2026-02-09T09:45:06.508Z",
+    "lat": 45.6218,
+    "lon": -122.5058,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ513",
-    "aircraftType": "CL35",
-    "origin": "OAK",
-    "destination": "BFI",
-    "firstSeen": "2026-02-09T08:56:16.601Z"
+    "callsign": "ATN3378",
+    "aircraftType": "767",
+    "origin": "SBD",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T09:45:06.501Z"
   },
-  "overheadScore": 1.39,
-  "isOverhead": false,
+  "overheadScore": 0.96,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T08:57:15.038Z"
+  "timestamp": "2026-02-09T09:46:04.812Z"
 }
