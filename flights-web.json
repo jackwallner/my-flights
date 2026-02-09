@@ -1,23 +1,23 @@
 {
   "closestApproach": {
     "distance": 1.32,
-    "altitude": 31300,
-    "speed": 412,
-    "timestamp": "2026-02-09T23:31:32.369Z",
-    "lat": 45.6206,
-    "lon": -122.5588,
+    "altitude": 32000,
+    "speed": 446,
+    "timestamp": "2026-02-09T23:41:57.777Z",
+    "lat": 45.619,
+    "lon": -122.5583,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5403",
-    "aircraftType": "E175",
-    "origin": "LAX",
+    "callsign": "AAL206",
+    "aircraftType": "A321",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T23:31:32.364Z"
+    "firstSeen": "2026-02-09T23:41:57.771Z"
   },
   "overheadScore": 1.32,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T23:32:30.859Z"
+  "timestamp": "2026-02-09T23:42:56.432Z"
 }

@@ -26317,5 +26317,25 @@
     "initialAltitude": 31300,
     "initialSpeed": 412,
     "_sessionKey": "SKW5403_2026-02-09T23"
+  },
+  {
+    "callsign": "AAL206",
+    "flightNumber": "AA206",
+    "aircraftType": "A21N",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A51D1B",
+    "registration": "N429AN",
+    "firstSeen": "2026-02-09T23:41:57.771Z",
+    "lastSeen": "2026-02-09T23:41:57.771Z",
+    "duration": 0,
+    "closestDistance": 1.3225490270171052,
+    "closestAltitude": 32000,
+    "closestSpeed": 446,
+    "initialDistance": 1.3225490270171052,
+    "initialAltitude": 32000,
+    "initialSpeed": 446,
+    "_sessionKey": "AAL206_2026-02-09T23"
   }
 ]
