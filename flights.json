@@ -25297,5 +25297,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 428,
     "_sessionKey": "ASA702_2026-02-09T18"
+  },
+  {
+    "callsign": "ASA1365",
+    "flightNumber": "AS1365",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "AD4744",
+    "registration": "N955AK",
+    "firstSeen": "2026-02-09T18:20:33.147Z",
+    "lastSeen": "2026-02-09T18:20:33.147Z",
+    "duration": 0,
+    "closestDistance": 0.6685421114186398,
+    "closestAltitude": 34000,
+    "closestSpeed": 418,
+    "initialDistance": 0.6685421114186398,
+    "initialAltitude": 34000,
+    "initialSpeed": 418,
+    "_sessionKey": "ASA1365_2026-02-09T18"
   }
 ]
