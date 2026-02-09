@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.95,
-    "altitude": 43000,
-    "speed": 425,
-    "timestamp": "2026-02-09T19:20:04.776Z",
-    "lat": 45.6219,
-    "lon": -122.506,
+    "distance": 1.27,
+    "altitude": 40000,
+    "speed": 452,
+    "timestamp": "2026-02-09T19:28:05.983Z",
+    "lat": 45.6152,
+    "lon": -122.5015,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "C68A",
-    "aircraftType": "C68A",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T19:20:04.771Z"
+    "callsign": "SWA2312",
+    "aircraftType": "B737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T19:28:05.978Z"
   },
-  "overheadScore": 0.95,
-  "isOverhead": true,
+  "overheadScore": 1.27,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T19:21:03.847Z"
+  "timestamp": "2026-02-09T19:29:05.128Z"
 }
