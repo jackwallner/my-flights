@@ -25737,5 +25737,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 437,
     "_sessionKey": "ASA1311_2026-02-09T20"
+  },
+  {
+    "callsign": "LXJ576",
+    "flightNumber": "LXJ576",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "BFI",
+    "icao": "A76546",
+    "registration": "N576FX",
+    "firstSeen": "2026-02-09T20:42:39.442Z",
+    "lastSeen": "2026-02-09T20:42:39.442Z",
+    "duration": 0,
+    "closestDistance": 1.3646149047078435,
+    "closestAltitude": 37000,
+    "closestSpeed": 466,
+    "initialDistance": 1.3646149047078435,
+    "initialAltitude": 37000,
+    "initialSpeed": 466,
+    "_sessionKey": "LXJ576_2026-02-09T20"
   }
 ]
