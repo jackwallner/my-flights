@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.03,
-    "altitude": 26000,
-    "speed": 347,
-    "timestamp": "2026-02-09T17:41:54.217Z",
-    "lat": 45.62,
-    "lon": -122.5047,
+    "distance": 1.33,
+    "altitude": 38000,
+    "speed": 431,
+    "timestamp": "2026-02-09T17:45:14.630Z",
+    "lat": 45.6239,
+    "lon": -122.5597,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2980",
+    "callsign": "ASA705",
     "aircraftType": "737",
-    "origin": "LAX",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T17:41:54.213Z"
+    "firstSeen": "2026-02-09T17:45:14.625Z"
   },
-  "overheadScore": 1.03,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T17:42:52.686Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T17:45:14.630Z"
 }
