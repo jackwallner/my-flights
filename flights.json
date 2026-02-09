@@ -23557,5 +23557,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 493,
     "_sessionKey": "DAL1412_2026-02-09T00"
+  },
+  {
+    "callsign": "ASA745",
+    "flightNumber": "AS745",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A9B273",
+    "registration": "N724AL",
+    "firstSeen": "2026-02-09T00:58:10.926Z",
+    "lastSeen": "2026-02-09T00:58:10.926Z",
+    "duration": 0,
+    "closestDistance": 1.3613238370521878,
+    "closestAltitude": 34000,
+    "closestSpeed": 492,
+    "initialDistance": 1.3613238370521878,
+    "initialAltitude": 34000,
+    "initialSpeed": 492,
+    "_sessionKey": "ASA745_2026-02-09T00"
   }
 ]
