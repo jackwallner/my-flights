@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 37000,
+    "distance": 1.37,
+    "altitude": 34825,
     "speed": 466,
-    "timestamp": "2026-02-09T20:42:39.447Z",
-    "lat": 45.6227,
-    "lon": -122.5604,
+    "timestamp": "2026-02-09T20:50:19.902Z",
+    "lat": 45.6153,
+    "lon": -122.5574,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ576",
-    "aircraftType": "CL35",
-    "origin": "OAK",
-    "destination": "BFI",
-    "firstSeen": "2026-02-09T20:42:39.442Z"
+    "callsign": "DAL8870",
+    "aircraftType": "A330",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T20:50:19.898Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T20:43:38.407Z"
+  "timestamp": "2026-02-09T20:51:17.979Z"
 }

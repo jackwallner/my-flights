@@ -25757,5 +25757,25 @@
     "initialAltitude": 37000,
     "initialSpeed": 466,
     "_sessionKey": "LXJ576_2026-02-09T20"
+  },
+  {
+    "callsign": "DAL8870",
+    "flightNumber": "DL8870",
+    "aircraftType": "A333",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AAEE43",
+    "registration": "N803NW",
+    "firstSeen": "2026-02-09T20:50:19.898Z",
+    "lastSeen": "2026-02-09T20:50:19.898Z",
+    "duration": 0,
+    "closestDistance": 1.368113890084606,
+    "closestAltitude": 34825,
+    "closestSpeed": 466,
+    "initialDistance": 1.368113890084606,
+    "initialAltitude": 34825,
+    "initialSpeed": 466,
+    "_sessionKey": "DAL8870_2026-02-09T20"
   }
 ]
