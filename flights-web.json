@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.76,
-    "altitude": 26000,
-    "speed": 321,
-    "timestamp": "2026-02-09T17:33:08.130Z",
-    "lat": 45.6324,
-    "lon": -122.5131,
+    "distance": 0.75,
+    "altitude": 36000,
+    "speed": 421,
+    "timestamp": "2026-02-09T17:38:34.735Z",
+    "lat": 45.6289,
+    "lon": -122.5109,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4042",
-    "aircraftType": "E175",
-    "origin": "ONT",
+    "callsign": "ASA179",
+    "aircraftType": "B39M",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T17:33:08.126Z"
+    "firstSeen": "2026-02-09T17:38:34.731Z"
   },
-  "overheadScore": 0.76,
+  "overheadScore": 0.75,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T17:34:06.149Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T17:38:34.736Z"
 }
