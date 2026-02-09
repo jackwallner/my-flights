@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.83,
-    "altitude": 38000,
-    "speed": 458,
-    "timestamp": "2026-02-09T03:45:37.526Z",
-    "lat": 45.6253,
-    "lon": -122.5084,
+    "distance": 1.15,
+    "altitude": 32000,
+    "speed": 464,
+    "timestamp": "2026-02-09T03:47:49.185Z",
+    "lat": 45.6369,
+    "lon": -122.5063,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA552",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "ABX3111",
+    "aircraftType": "767",
+    "origin": "SCK",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T03:45:37.523Z"
+    "firstSeen": "2026-02-09T03:47:49.182Z"
   },
-  "overheadScore": 0.83,
-  "isOverhead": true,
+  "overheadScore": 1.15,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T03:46:36.914Z"
+  "timestamp": "2026-02-09T03:48:48.005Z"
 }
