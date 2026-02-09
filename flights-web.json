@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.05,
-    "altitude": 32000,
-    "speed": 414,
-    "timestamp": "2026-02-09T21:44:07.068Z",
-    "lat": 45.6197,
-    "lon": -122.5044,
+    "distance": 1.47,
+    "altitude": 38025,
+    "speed": 463,
+    "timestamp": "2026-02-09T21:46:08.404Z",
+    "lat": 45.6122,
+    "lon": -122.5578,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA654",
-    "aircraftType": "B39M",
-    "origin": "ONT",
+    "callsign": "SWA1037",
+    "aircraftType": "B737",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T21:44:07.062Z"
+    "firstSeen": "2026-02-09T21:46:08.399Z"
   },
-  "overheadScore": 1.05,
+  "overheadScore": 1.47,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-09T21:44:07.068Z"
+  "timestamp": "2026-02-09T21:46:08.404Z"
 }
