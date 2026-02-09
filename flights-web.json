@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 22000,
-    "speed": 344,
-    "timestamp": "2026-02-09T18:44:06.081Z",
-    "lat": 45.6157,
-    "lon": -122.5576,
+    "distance": 1.2,
+    "altitude": 31675,
+    "speed": 398,
+    "timestamp": "2026-02-09T18:48:51.856Z",
+    "lat": 45.6167,
+    "lon": -122.5024,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2340",
-    "aircraftType": "A319",
-    "origin": "SFO",
+    "callsign": "FFT2407",
+    "aircraftType": "A320",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T18:44:06.076Z"
+    "firstSeen": "2026-02-09T18:48:51.853Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.2,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T18:45:04.970Z"
+  "timestamp": "2026-02-09T18:49:50.469Z"
 }

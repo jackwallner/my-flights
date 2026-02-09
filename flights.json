@@ -25377,5 +25377,25 @@
     "initialAltitude": 22000,
     "initialSpeed": 344,
     "_sessionKey": "UAL2340_2026-02-09T18"
+  },
+  {
+    "callsign": "FFT2407",
+    "flightNumber": "F92407",
+    "aircraftType": "A20N",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A3DB93",
+    "registration": "N348FR",
+    "firstSeen": "2026-02-09T18:48:51.853Z",
+    "lastSeen": "2026-02-09T18:48:51.853Z",
+    "duration": 0,
+    "closestDistance": 1.1963042668536263,
+    "closestAltitude": 31675,
+    "closestSpeed": 398,
+    "initialDistance": 1.1963042668536263,
+    "initialAltitude": 31675,
+    "initialSpeed": 398,
+    "_sessionKey": "FFT2407_2026-02-09T18"
   }
 ]
