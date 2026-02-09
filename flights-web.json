@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.16,
-    "altitude": 28000,
-    "speed": 453,
-    "timestamp": "2026-02-09T05:18:28.307Z",
-    "lat": 45.6177,
-    "lon": -122.5028,
+    "distance": 1.28,
+    "altitude": 30000,
+    "speed": 435,
+    "timestamp": "2026-02-09T05:22:53.061Z",
+    "lat": 45.6151,
+    "lon": -122.5012,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA753",
-    "aircraftType": "737",
-    "origin": "PSP",
+    "callsign": "QXE2031",
+    "aircraftType": "E175",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T05:18:28.302Z"
+    "firstSeen": "2026-02-09T05:22:53.058Z"
   },
-  "overheadScore": 1.16,
+  "overheadScore": 1.28,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T05:19:27.012Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T05:22:53.061Z"
 }
