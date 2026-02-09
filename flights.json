@@ -25917,5 +25917,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 422,
     "_sessionKey": "DAL2508_2026-02-09T21"
+  },
+  {
+    "callsign": "ASA330",
+    "flightNumber": "AS330",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AD7D9F",
+    "registration": "N969AK",
+    "firstSeen": "2026-02-09T21:24:06.802Z",
+    "lastSeen": "2026-02-09T21:24:06.802Z",
+    "duration": 0,
+    "closestDistance": 1.3376957277970194,
+    "closestAltitude": 32000,
+    "closestSpeed": 408,
+    "initialDistance": 1.3376957277970194,
+    "initialAltitude": 32000,
+    "initialSpeed": 408,
+    "_sessionKey": "ASA330_2026-02-09T21"
   }
 ]
