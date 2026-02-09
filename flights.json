@@ -25017,5 +25017,25 @@
     "initialAltitude": 43000,
     "initialSpeed": 419,
     "_sessionKey": "EJA438_2026-02-09T17"
+  },
+  {
+    "callsign": "SKW4041",
+    "flightNumber": "DL4041",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A36FF7",
+    "registration": "N320SY",
+    "firstSeen": "2026-02-09T17:26:31.870Z",
+    "lastSeen": "2026-02-09T17:26:31.870Z",
+    "duration": 0,
+    "closestDistance": 1.318122588756796,
+    "closestAltitude": 32000,
+    "closestSpeed": 428,
+    "initialDistance": 1.318122588756796,
+    "initialAltitude": 32000,
+    "initialSpeed": 428,
+    "_sessionKey": "SKW4041_2026-02-09T17"
   }
 ]
