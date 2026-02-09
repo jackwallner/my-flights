@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
+    "distance": 1.35,
     "altitude": 28000,
-    "speed": 478,
-    "timestamp": "2026-02-09T02:24:46.755Z",
-    "lat": 45.6207,
-    "lon": -122.5594,
+    "speed": 503,
+    "timestamp": "2026-02-09T02:26:47.249Z",
+    "lat": 45.6244,
+    "lon": -122.5602,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA683",
-    "aircraftType": "737",
-    "origin": "SAN",
+    "callsign": "ASA1359",
+    "aircraftType": "B39M",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T02:24:46.750Z"
+    "firstSeen": "2026-02-09T02:26:47.245Z"
   },
-  "overheadScore": 1.34,
+  "overheadScore": 1.35,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-09T02:24:46.755Z"
+  "timestamp": "2026-02-09T02:26:47.249Z"
 }

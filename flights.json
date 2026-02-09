@@ -23857,5 +23857,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 478,
     "_sessionKey": "ASA683_2026-02-09T02"
+  },
+  {
+    "callsign": "ASA1359",
+    "flightNumber": "AS1359",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "ACFFB4",
+    "registration": "N937AK",
+    "firstSeen": "2026-02-09T02:26:47.245Z",
+    "lastSeen": "2026-02-09T02:26:47.245Z",
+    "duration": 0,
+    "closestDistance": 1.348409545133303,
+    "closestAltitude": 28000,
+    "closestSpeed": 503,
+    "initialDistance": 1.348409545133303,
+    "initialAltitude": 28000,
+    "initialSpeed": 503,
+    "_sessionKey": "ASA1359_2026-02-09T02"
   }
 ]
