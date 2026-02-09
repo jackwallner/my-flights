@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.41,
-    "altitude": 32000,
+    "distance": 1.32,
+    "altitude": 34000,
     "speed": 440,
-    "timestamp": "2026-02-09T21:03:45.117Z",
-    "lat": 45.6149,
-    "lon": -122.5582,
+    "timestamp": "2026-02-09T21:07:49.521Z",
+    "lat": 45.6194,
+    "lon": -122.5585,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL8872",
-    "aircraftType": "737",
-    "origin": "SFO",
+    "callsign": "SKW3736",
+    "aircraftType": "E175",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T21:03:45.113Z"
+    "firstSeen": "2026-02-09T21:07:49.517Z"
   },
-  "overheadScore": 1.41,
+  "overheadScore": 1.32,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T21:04:43.974Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T21:07:49.521Z"
 }
