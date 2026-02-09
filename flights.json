@@ -24557,5 +24557,25 @@
     "initialAltitude": 5700,
     "initialSpeed": 250,
     "_sessionKey": "N367DA_2026-02-09T07"
+  },
+  {
+    "callsign": "SKW6444",
+    "flightNumber": "AA6444",
+    "aircraftType": "CRJ7",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A9AB72",
+    "registration": "N722EV",
+    "firstSeen": "2026-02-09T07:39:26.627Z",
+    "lastSeen": "2026-02-09T07:39:26.627Z",
+    "duration": 0,
+    "closestDistance": 0.781913723467192,
+    "closestAltitude": 28250,
+    "closestSpeed": 408,
+    "initialDistance": 0.781913723467192,
+    "initialAltitude": 28250,
+    "initialSpeed": 408,
+    "_sessionKey": "SKW6444_2026-02-09T07"
   }
 ]

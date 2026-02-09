@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 5700,
-    "speed": 250,
-    "timestamp": "2026-02-09T07:27:09.262Z",
-    "lat": 45.6421,
-    "lon": -122.5502,
+    "distance": 0.78,
+    "altitude": 28250,
+    "speed": 408,
+    "timestamp": "2026-02-09T07:39:26.632Z",
+    "lat": 45.628,
+    "lon": -122.5099,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N367DA",
-    "aircraftType": "LJ35",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-02-09T07:27:09.257Z"
+    "callsign": "SKW6444",
+    "aircraftType": "CRJ",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T07:39:26.627Z"
   },
-  "overheadScore": 1.37,
-  "isOverhead": false,
+  "overheadScore": 0.78,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T07:28:06.886Z"
+  "timestamp": "2026-02-09T07:40:27.031Z"
 }
