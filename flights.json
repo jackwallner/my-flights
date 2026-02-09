@@ -24637,5 +24637,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 448,
     "_sessionKey": "SWA3677_2026-02-09T15"
+  },
+  {
+    "callsign": "DAL2721",
+    "flightNumber": "DL2721",
+    "aircraftType": "BCS3",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A3A8C0",
+    "registration": "N335DU",
+    "firstSeen": "2026-02-09T15:15:15.796Z",
+    "lastSeen": "2026-02-09T15:15:15.796Z",
+    "duration": 0,
+    "closestDistance": 1.4688510081514257,
+    "closestAltitude": 30000,
+    "closestSpeed": 425,
+    "initialDistance": 1.4688510081514257,
+    "initialAltitude": 30000,
+    "initialSpeed": 425,
+    "_sessionKey": "DAL2721_2026-02-09T15"
   }
 ]
