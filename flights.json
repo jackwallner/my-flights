@@ -24417,5 +24417,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 447,
     "_sessionKey": "ASA1310_2026-02-09T05"
+  },
+  {
+    "callsign": "ASA402",
+    "flightNumber": "AS402",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AD99F9",
+    "registration": "N976AK",
+    "firstSeen": "2026-02-09T05:33:12.405Z",
+    "lastSeen": "2026-02-09T05:33:12.405Z",
+    "duration": 0,
+    "closestDistance": 0.7526802737911027,
+    "closestAltitude": 32000,
+    "closestSpeed": 437,
+    "initialDistance": 0.7526802737911027,
+    "initialAltitude": 32000,
+    "initialSpeed": 437,
+    "_sessionKey": "ASA402_2026-02-09T05"
   }
 ]
