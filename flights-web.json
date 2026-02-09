@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.44,
-    "altitude": 40000,
-    "speed": 419,
-    "timestamp": "2026-02-09T16:15:39.144Z",
-    "lat": 45.6121,
-    "lon": -122.5569,
+    "distance": 1.42,
+    "altitude": 36000,
+    "speed": 455,
+    "timestamp": "2026-02-09T16:21:16.469Z",
+    "lat": 45.6129,
+    "lon": -122.557,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA407",
-    "aircraftType": "E55P",
-    "origin": "OAK",
-    "destination": "BFI",
-    "firstSeen": "2026-02-09T16:15:39.140Z"
+    "callsign": "ASA416",
+    "aircraftType": "B39M",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T16:21:16.464Z"
   },
-  "overheadScore": 1.44,
+  "overheadScore": 1.42,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T16:16:37.780Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T16:21:16.469Z"
 }
