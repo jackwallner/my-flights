@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 40000,
-    "speed": 436,
-    "timestamp": "2026-02-09T18:13:19.742Z",
-    "lat": 45.6244,
-    "lon": -122.5132,
+    "distance": 1.39,
+    "altitude": 28000,
+    "speed": 376,
+    "timestamp": "2026-02-09T18:15:50.960Z",
+    "lat": 45.6099,
+    "lon": -122.5528,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA9801",
-    "aircraftType": "737",
-    "origin": "PSP",
+    "callsign": "SKW3345",
+    "aircraftType": "E175",
+    "origin": "FAT",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T18:13:19.736Z"
+    "firstSeen": "2026-02-09T18:15:50.955Z"
   },
-  "overheadScore": 0.63,
-  "isOverhead": true,
+  "overheadScore": 1.39,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T18:14:18.287Z"
+  "timestamp": "2026-02-09T18:16:50.442Z"
 }
