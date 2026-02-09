@@ -26357,5 +26357,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 406,
     "_sessionKey": "ASA703_2026-02-09T23"
+  },
+  {
+    "callsign": "SKW3814",
+    "flightNumber": "DL3814",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A280A4",
+    "registration": "N260SY",
+    "firstSeen": "2026-02-09T23:56:05.526Z",
+    "lastSeen": "2026-02-09T23:56:05.526Z",
+    "duration": 0,
+    "closestDistance": 1.3259366571437041,
+    "closestAltitude": 24000,
+    "closestSpeed": 373,
+    "initialDistance": 1.3259366571437041,
+    "initialAltitude": 24000,
+    "initialSpeed": 373,
+    "_sessionKey": "SKW3814_2026-02-09T23"
   }
 ]
