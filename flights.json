@@ -23437,5 +23437,25 @@
     "initialAltitude": 33975,
     "initialSpeed": 439,
     "_sessionKey": "DAL2533_2026-02-09T00"
+  },
+  {
+    "callsign": "SKW3814",
+    "flightNumber": "DL3814",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A24BA7",
+    "registration": "N247SY",
+    "firstSeen": "2026-02-09T00:09:57.512Z",
+    "lastSeen": "2026-02-09T00:09:57.512Z",
+    "duration": 0,
+    "closestDistance": 1.3706249803070014,
+    "closestAltitude": 24000,
+    "closestSpeed": 412,
+    "initialDistance": 1.3706249803070014,
+    "initialAltitude": 24000,
+    "initialSpeed": 412,
+    "_sessionKey": "SKW3814_2026-02-09T00"
   }
 ]
