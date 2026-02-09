@@ -23457,5 +23457,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 412,
     "_sessionKey": "SKW3814_2026-02-09T00"
+  },
+  {
+    "callsign": "DAL2251",
+    "flightNumber": "DL2251",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "TUS",
+    "destination": "SEA",
+    "icao": "A01F13",
+    "registration": "N107DU",
+    "firstSeen": "2026-02-09T00:29:48.243Z",
+    "lastSeen": "2026-02-09T00:29:48.243Z",
+    "duration": 0,
+    "closestDistance": 0.987900600768716,
+    "closestAltitude": 30600,
+    "closestSpeed": 455,
+    "initialDistance": 0.987900600768716,
+    "initialAltitude": 30600,
+    "initialSpeed": 455,
+    "_sessionKey": "DAL2251_2026-02-09T00"
   }
 ]
