@@ -24977,5 +24977,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 420,
     "_sessionKey": "DAL2530_2026-02-09T17"
+  },
+  {
+    "callsign": "SWA5173",
+    "flightNumber": "WN5173",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AC2BE9",
+    "registration": "N8834L",
+    "firstSeen": "2026-02-09T17:20:59.504Z",
+    "lastSeen": "2026-02-09T17:20:59.504Z",
+    "duration": 0,
+    "closestDistance": 1.3363539009857806,
+    "closestAltitude": 36000,
+    "closestSpeed": 446,
+    "initialDistance": 1.3363539009857806,
+    "initialAltitude": 36000,
+    "initialSpeed": 446,
+    "_sessionKey": "SWA5173_2026-02-09T17"
   }
 ]
