@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.38,
-    "altitude": 39600,
-    "speed": 439,
-    "timestamp": "2026-02-09T19:36:47.821Z",
-    "lat": 45.6047,
-    "lon": -122.5427,
+    "distance": 0.85,
+    "altitude": 34000,
+    "speed": 418,
+    "timestamp": "2026-02-09T19:38:59.892Z",
+    "lat": 45.6246,
+    "lon": -122.508,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA453",
-    "aircraftType": "E55P",
-    "origin": "PSP",
-    "destination": "BFI",
-    "firstSeen": "2026-02-09T19:36:47.816Z"
+    "callsign": "ASA798",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T19:38:59.887Z"
   },
-  "overheadScore": 1.38,
-  "isOverhead": false,
+  "overheadScore": 0.85,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T19:37:47.671Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T19:38:59.892Z"
 }

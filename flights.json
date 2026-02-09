@@ -25537,5 +25537,25 @@
     "initialAltitude": 39600,
     "initialSpeed": 439,
     "_sessionKey": "EJA453_2026-02-09T19"
+  },
+  {
+    "callsign": "ASA798",
+    "flightNumber": "AS798",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A7A89D",
+    "registration": "N593AS",
+    "firstSeen": "2026-02-09T19:38:59.887Z",
+    "lastSeen": "2026-02-09T19:38:59.887Z",
+    "duration": 0,
+    "closestDistance": 0.845465400788274,
+    "closestAltitude": 34000,
+    "closestSpeed": 418,
+    "initialDistance": 0.845465400788274,
+    "initialAltitude": 34000,
+    "initialSpeed": 418,
+    "_sessionKey": "ASA798_2026-02-09T19"
   }
 ]
