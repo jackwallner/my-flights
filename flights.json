@@ -24497,5 +24497,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 458,
     "_sessionKey": "ASA652_2026-02-09T06"
+  },
+  {
+    "callsign": "N67JB",
+    "flightNumber": null,
+    "aircraftType": "C55B",
+    "aircraftName": null,
+    "origin": "LVK",
+    "destination": "PAE",
+    "icao": "A8DA29",
+    "registration": "N67JB",
+    "firstSeen": "2026-02-09T06:56:24.200Z",
+    "lastSeen": "2026-02-09T06:56:24.200Z",
+    "duration": 0,
+    "closestDistance": 1.3742361994357872,
+    "closestAltitude": 36700,
+    "closestSpeed": 391,
+    "initialDistance": 1.3742361994357872,
+    "initialAltitude": 36700,
+    "initialSpeed": 391,
+    "_sessionKey": "N67JB_2026-02-09T06"
   }
 ]

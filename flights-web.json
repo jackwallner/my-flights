@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.76,
-    "altitude": 38000,
-    "speed": 458,
-    "timestamp": "2026-02-09T06:44:06.222Z",
-    "lat": 45.63,
-    "lon": -122.5114,
+    "distance": 1.37,
+    "altitude": 36700,
+    "speed": 391,
+    "timestamp": "2026-02-09T06:56:24.204Z",
+    "lat": 45.6274,
+    "lon": -122.5607,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA652",
-    "aircraftType": "B39M",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T06:44:06.218Z"
+    "callsign": "N67JB",
+    "aircraftType": "C55B",
+    "origin": "LVK",
+    "destination": "PAE",
+    "firstSeen": "2026-02-09T06:56:24.200Z"
   },
-  "overheadScore": 0.76,
-  "isOverhead": true,
+  "overheadScore": 1.37,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T06:45:04.880Z"
+  "timestamp": "2026-02-09T06:57:21.795Z"
 }
