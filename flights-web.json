@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.01,
-    "altitude": 24000,
-    "speed": 357,
-    "timestamp": "2026-02-09T22:20:37.512Z",
-    "lat": 45.6204,
-    "lon": -122.505,
+    "distance": 1.37,
+    "altitude": 34025,
+    "speed": 462,
+    "timestamp": "2026-02-09T22:28:58.521Z",
+    "lat": 45.6152,
+    "lon": -122.5574,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA685",
-    "aircraftType": "737 ",
-    "origin": "SAN",
+    "callsign": "DAL8875",
+    "aircraftType": "A330",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T22:20:37.507Z"
+    "firstSeen": "2026-02-09T22:28:58.517Z"
   },
-  "overheadScore": 1.01,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T22:21:35.530Z"
+  "timestamp": "2026-02-09T22:29:56.578Z"
 }

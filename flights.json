@@ -26157,5 +26157,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 357,
     "_sessionKey": "ASA685_2026-02-09T22"
+  },
+  {
+    "callsign": "DAL8875",
+    "flightNumber": "DL8875",
+    "aircraftType": "A333",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AB2C0C",
+    "registration": "N819NW",
+    "firstSeen": "2026-02-09T22:28:58.517Z",
+    "lastSeen": "2026-02-09T22:28:58.517Z",
+    "duration": 0,
+    "closestDistance": 1.3707552546545616,
+    "closestAltitude": 34025,
+    "closestSpeed": 462,
+    "initialDistance": 1.3707552546545616,
+    "initialAltitude": 34025,
+    "initialSpeed": 462,
+    "_sessionKey": "DAL8875_2026-02-09T22"
   }
 ]
