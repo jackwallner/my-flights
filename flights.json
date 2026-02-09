@@ -24157,5 +24157,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 464,
     "_sessionKey": "ABX3111_2026-02-09T03"
+  },
+  {
+    "callsign": "ASA84",
+    "flightNumber": "AS84",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A262AD",
+    "registration": "N253AK",
+    "firstSeen": "2026-02-09T03:51:22.409Z",
+    "lastSeen": "2026-02-09T03:51:22.409Z",
+    "duration": 0,
+    "closestDistance": 0.8777974640768209,
+    "closestAltitude": 33975,
+    "closestSpeed": 453,
+    "initialDistance": 0.8777974640768209,
+    "initialAltitude": 33975,
+    "initialSpeed": 453,
+    "_sessionKey": "ASA84_2026-02-09T03"
   }
 ]
