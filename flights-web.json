@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.82,
-    "altitude": 38000,
-    "speed": 447,
-    "timestamp": "2026-02-09T20:21:47.571Z",
-    "lat": 45.6355,
-    "lon": -122.5153,
+    "distance": 0.78,
+    "altitude": 32000,
+    "speed": 416,
+    "timestamp": "2026-02-09T20:26:43.344Z",
+    "lat": 45.6273,
+    "lon": -122.5097,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA642",
+    "callsign": "ASA629",
     "aircraftType": "B39M",
-    "origin": "RNO",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T20:21:47.567Z"
+    "firstSeen": "2026-02-09T20:26:43.340Z"
   },
-  "overheadScore": 0.82,
+  "overheadScore": 0.78,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T20:22:46.746Z"
+  "timestamp": "2026-02-09T20:27:41.784Z"
 }

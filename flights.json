@@ -25657,5 +25657,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 447,
     "_sessionKey": "ASA642_2026-02-09T20"
+  },
+  {
+    "callsign": "ASA629",
+    "flightNumber": "AS629",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A9672C",
+    "registration": "N705AL",
+    "firstSeen": "2026-02-09T20:26:43.340Z",
+    "lastSeen": "2026-02-09T20:26:43.340Z",
+    "duration": 0,
+    "closestDistance": 0.7825287416651165,
+    "closestAltitude": 32000,
+    "closestSpeed": 416,
+    "initialDistance": 0.7825287416651165,
+    "initialAltitude": 32000,
+    "initialSpeed": 416,
+    "_sessionKey": "ASA629_2026-02-09T20"
   }
 ]
