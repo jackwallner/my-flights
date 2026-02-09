@@ -24197,5 +24197,25 @@
     "initialAltitude": 27400,
     "initialSpeed": 415,
     "_sessionKey": "SKW4100_2026-02-09T03"
+  },
+  {
+    "callsign": "ASA758",
+    "flightNumber": "AS758",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A6504B",
+    "registration": "N506AS",
+    "firstSeen": "2026-02-09T04:13:53.379Z",
+    "lastSeen": "2026-02-09T04:13:53.379Z",
+    "duration": 0,
+    "closestDistance": 1.3334652262944209,
+    "closestAltitude": 28000,
+    "closestSpeed": 415,
+    "initialDistance": 1.3334652262944209,
+    "initialAltitude": 28000,
+    "initialSpeed": 415,
+    "_sessionKey": "ASA758_2026-02-09T04"
   }
 ]
