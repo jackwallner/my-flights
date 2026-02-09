@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.16,
+    "distance": 1,
     "altitude": 30000,
-    "speed": 396,
-    "timestamp": "2026-02-09T16:28:59.991Z",
-    "lat": 45.6173,
-    "lon": -122.5029,
+    "speed": 405,
+    "timestamp": "2026-02-09T16:33:55.002Z",
+    "lat": 45.6206,
+    "lon": -122.5052,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA323",
-    "aircraftType": "737",
-    "origin": "RNO",
+    "callsign": "ASA709",
+    "aircraftType": "B39M",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T16:28:59.986Z"
+    "firstSeen": "2026-02-09T16:33:54.998Z"
   },
-  "overheadScore": 1.16,
+  "overheadScore": 1,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T16:29:58.109Z"
+  "timestamp": "2026-02-09T16:34:52.992Z"
 }
