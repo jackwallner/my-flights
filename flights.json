@@ -23637,5 +23637,25 @@
     "initialAltitude": 29950,
     "initialSpeed": 472,
     "_sessionKey": "DAL2585_2026-02-09T01"
+  },
+  {
+    "callsign": "ASA1305",
+    "flightNumber": "AS1305",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A99D87",
+    "registration": "N719AL",
+    "firstSeen": "2026-02-09T01:27:37.764Z",
+    "lastSeen": "2026-02-09T01:27:37.764Z",
+    "duration": 0,
+    "closestDistance": 1.3550971556978015,
+    "closestAltitude": 28000,
+    "closestSpeed": 483,
+    "initialDistance": 1.3550971556978015,
+    "initialAltitude": 28000,
+    "initialSpeed": 483,
+    "_sessionKey": "ASA1305_2026-02-09T01"
   }
 ]
