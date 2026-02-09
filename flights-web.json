@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
-    "altitude": 28450,
-    "speed": 391,
-    "timestamp": "2026-02-09T17:40:14.295Z",
-    "lat": 45.626,
-    "lon": -122.5601,
+    "distance": 1.03,
+    "altitude": 26000,
+    "speed": 347,
+    "timestamp": "2026-02-09T17:41:54.217Z",
+    "lat": 45.62,
+    "lon": -122.5047,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AAL412",
-    "aircraftType": "A321",
-    "origin": "SJC",
+    "callsign": "DAL2980",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T17:40:14.291Z"
+    "firstSeen": "2026-02-09T17:41:54.213Z"
   },
-  "overheadScore": 1.34,
+  "overheadScore": 1.03,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T17:41:12.890Z"
+  "timestamp": "2026-02-09T17:42:52.686Z"
 }
