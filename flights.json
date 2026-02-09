@@ -24877,5 +24877,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 405,
     "_sessionKey": "ASA709_2026-02-09T16"
+  },
+  {
+    "callsign": "ASA504",
+    "flightNumber": "AS504",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AB10D4",
+    "registration": "N812AK",
+    "firstSeen": "2026-02-09T16:51:31.966Z",
+    "lastSeen": "2026-02-09T16:51:31.966Z",
+    "duration": 0,
+    "closestDistance": 1.325292462174405,
+    "closestAltitude": 38000,
+    "closestSpeed": 433,
+    "initialDistance": 1.325292462174405,
+    "initialAltitude": 38000,
+    "initialSpeed": 433,
+    "_sessionKey": "ASA504_2026-02-09T16"
   }
 ]
