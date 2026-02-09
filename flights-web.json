@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.88,
-    "altitude": 33975,
-    "speed": 453,
-    "timestamp": "2026-02-09T03:51:22.414Z",
-    "lat": 45.6239,
-    "lon": -122.5073,
+    "distance": 1.24,
+    "altitude": 27400,
+    "speed": 415,
+    "timestamp": "2026-02-09T03:53:23.335Z",
+    "lat": 45.6351,
+    "lon": -122.5021,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA84",
-    "aircraftType": "737",
-    "origin": "LAX",
+    "callsign": "SKW4100",
+    "aircraftType": "E175",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T03:51:22.409Z"
+    "firstSeen": "2026-02-09T03:53:23.332Z"
   },
-  "overheadScore": 0.88,
-  "isOverhead": true,
+  "overheadScore": 1.24,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T03:52:21.517Z"
+  "timestamp": "2026-02-09T03:54:21.364Z"
 }
