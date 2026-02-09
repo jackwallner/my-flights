@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.34,
-    "altitude": 36000,
-    "speed": 446,
-    "timestamp": "2026-02-09T17:20:59.509Z",
-    "lat": 45.6242,
-    "lon": -122.5599,
+    "distance": 1.49,
+    "altitude": 43000,
+    "speed": 419,
+    "timestamp": "2026-02-09T17:24:11.401Z",
+    "lat": 45.6102,
+    "lon": -122.5564,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA5173",
-    "aircraftType": "737 ",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T17:20:59.504Z"
+    "callsign": "EJA438",
+    "aircraftType": "E55P",
+    "origin": "OAK",
+    "destination": "BFI",
+    "firstSeen": "2026-02-09T17:24:11.396Z"
   },
-  "overheadScore": 1.34,
+  "overheadScore": 1.49,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T17:21:57.495Z"
+  "timestamp": "2026-02-09T17:25:08.960Z"
 }

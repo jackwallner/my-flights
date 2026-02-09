@@ -24997,5 +24997,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 446,
     "_sessionKey": "SWA5173_2026-02-09T17"
+  },
+  {
+    "callsign": "EJA438",
+    "flightNumber": "EJA438",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "BFI",
+    "icao": "A54245",
+    "registration": "N438QS",
+    "firstSeen": "2026-02-09T17:24:11.396Z",
+    "lastSeen": "2026-02-09T17:24:11.396Z",
+    "duration": 0,
+    "closestDistance": 1.4936770833550777,
+    "closestAltitude": 43000,
+    "closestSpeed": 419,
+    "initialDistance": 1.4936770833550777,
+    "initialAltitude": 43000,
+    "initialSpeed": 419,
+    "_sessionKey": "EJA438_2026-02-09T17"
   }
 ]
