@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
+    "distance": 1.38,
     "altitude": 38000,
     "speed": 459,
-    "timestamp": "2026-02-09T23:08:39.825Z",
-    "lat": 45.6155,
-    "lon": -122.558,
+    "timestamp": "2026-02-09T23:16:50.881Z",
+    "lat": 45.6277,
+    "lon": -122.5609,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA5171",
+    "callsign": "SWA5174",
     "aircraftType": "737 ",
-    "origin": "SJC",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T23:08:39.821Z"
+    "firstSeen": "2026-02-09T23:16:50.835Z"
   },
-  "overheadScore": 1.39,
+  "overheadScore": 1.38,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T23:09:38.268Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T23:16:50.881Z"
 }

@@ -26277,5 +26277,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 459,
     "_sessionKey": "SWA5171_2026-02-09T23"
+  },
+  {
+    "callsign": "SWA5174",
+    "flightNumber": "WN5174",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AC2BE9",
+    "registration": "N8834L",
+    "firstSeen": "2026-02-09T23:16:50.835Z",
+    "lastSeen": "2026-02-09T23:16:50.835Z",
+    "duration": 0,
+    "closestDistance": 1.3843684461036327,
+    "closestAltitude": 38000,
+    "closestSpeed": 459,
+    "initialDistance": 1.3843684461036327,
+    "initialAltitude": 38000,
+    "initialSpeed": 459,
+    "_sessionKey": "SWA5174_2026-02-09T23"
   }
 ]
