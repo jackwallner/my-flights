@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.3,
-    "altitude": 30000,
-    "speed": 389,
-    "timestamp": "2026-02-09T16:54:24.272Z",
-    "lat": 45.6147,
-    "lon": -122.501,
+    "distance": 0.89,
+    "altitude": 38000,
+    "speed": 426,
+    "timestamp": "2026-02-09T16:58:38.703Z",
+    "lat": 45.6233,
+    "lon": -122.507,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA491",
+    "callsign": "ASA1325",
     "aircraftType": "737",
-    "origin": "BUR",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T16:54:24.227Z"
+    "firstSeen": "2026-02-09T16:58:38.699Z"
   },
-  "overheadScore": 1.3,
-  "isOverhead": false,
+  "overheadScore": 0.89,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T16:55:22.543Z"
+  "timestamp": "2026-02-09T16:59:37.470Z"
 }

@@ -24917,5 +24917,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 389,
     "_sessionKey": "ASA491_2026-02-09T16"
+  },
+  {
+    "callsign": "ASA1325",
+    "flightNumber": "AS1325",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A7AC54",
+    "registration": "N594AS",
+    "firstSeen": "2026-02-09T16:58:38.699Z",
+    "lastSeen": "2026-02-09T16:58:38.699Z",
+    "duration": 0,
+    "closestDistance": 0.89441657420668,
+    "closestAltitude": 38000,
+    "closestSpeed": 426,
+    "initialDistance": 0.89441657420668,
+    "initialAltitude": 38000,
+    "initialSpeed": 426,
+    "_sessionKey": "ASA1325_2026-02-09T16"
   }
 ]
