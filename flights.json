@@ -23777,5 +23777,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 465,
     "_sessionKey": "DAL2880_2026-02-09T01"
+  },
+  {
+    "callsign": "ASA408",
+    "flightNumber": "AS408",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "FAT",
+    "destination": "SEA",
+    "icao": "A300A9",
+    "registration": "N293AK",
+    "firstSeen": "2026-02-09T01:59:23.421Z",
+    "lastSeen": "2026-02-09T01:59:23.421Z",
+    "duration": 0,
+    "closestDistance": 1.3234309889069364,
+    "closestAltitude": 35725,
+    "closestSpeed": 471,
+    "initialDistance": 1.3234309889069364,
+    "initialAltitude": 35725,
+    "initialSpeed": 471,
+    "_sessionKey": "ASA408_2026-02-09T01"
   }
 ]
