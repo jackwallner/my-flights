@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.38,
-    "altitude": 26000,
-    "speed": 423,
-    "timestamp": "2026-02-09T03:36:38.785Z",
-    "lat": 45.6157,
-    "lon": -122.5579,
+    "distance": 1.34,
+    "altitude": 37525,
+    "speed": 473,
+    "timestamp": "2026-02-09T03:41:34.042Z",
+    "lat": 45.6236,
+    "lon": -122.5599,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1290",
+    "callsign": "DAL1922",
     "aircraftType": "737",
-    "origin": "OAK",
+    "origin": "PVR",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T03:36:38.779Z"
+    "firstSeen": "2026-02-09T03:41:34.038Z"
   },
-  "overheadScore": 1.38,
+  "overheadScore": 1.34,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T03:37:36.645Z"
+  "timestamp": "2026-02-09T03:42:32.144Z"
 }
