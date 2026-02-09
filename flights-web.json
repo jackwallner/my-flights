@@ -1,23 +1,23 @@
 {
   "closestApproach": {
     "distance": 1.33,
-    "altitude": 45000,
-    "speed": 362,
-    "timestamp": "2026-02-09T20:56:17.452Z",
-    "lat": 45.6059,
-    "lon": -122.5435,
+    "altitude": 30000,
+    "speed": 435,
+    "timestamp": "2026-02-09T21:00:22.028Z",
+    "lat": 45.6174,
+    "lon": -122.5577,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PXT415",
-    "aircraftType": "Cita",
-    "origin": "NUQ",
-    "destination": "YVR",
-    "firstSeen": "2026-02-09T20:56:17.447Z"
+    "callsign": "AAL1577",
+    "aircraftType": "A319",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T21:00:22.023Z"
   },
   "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T20:57:16.351Z"
+  "timestamp": "2026-02-09T21:01:20.836Z"
 }
