@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.21,
-    "altitude": 31975,
-    "speed": 461,
-    "timestamp": "2026-02-09T02:13:10.064Z",
-    "lat": 45.6319,
-    "lon": -122.5554,
+    "distance": 1.34,
+    "altitude": 28000,
+    "speed": 478,
+    "timestamp": "2026-02-09T02:24:46.755Z",
+    "lat": 45.6207,
+    "lon": -122.5594,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1345",
+    "callsign": "ASA683",
     "aircraftType": "737",
-    "origin": "SMF",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T02:13:10.018Z"
+    "firstSeen": "2026-02-09T02:24:46.750Z"
   },
-  "overheadScore": 1.21,
+  "overheadScore": 1.34,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T02:14:08.072Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T02:24:46.755Z"
 }
