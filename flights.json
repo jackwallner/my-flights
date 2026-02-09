@@ -24297,5 +24297,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 394,
     "_sessionKey": "SKW5408_2026-02-09T05"
+  },
+  {
+    "callsign": "QXE2100",
+    "flightNumber": "AS2100",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A86A66",
+    "registration": "N641QX",
+    "firstSeen": "2026-02-09T05:08:54.150Z",
+    "lastSeen": "2026-02-09T05:08:54.150Z",
+    "duration": 0,
+    "closestDistance": 1.3286598883094247,
+    "closestAltitude": 26000,
+    "closestSpeed": 438,
+    "initialDistance": 1.3286598883094247,
+    "initialAltitude": 26000,
+    "initialSpeed": 438,
+    "_sessionKey": "QXE2100_2026-02-09T05"
   }
 ]

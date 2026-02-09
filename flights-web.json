@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.19,
-    "altitude": 32000,
-    "speed": 394,
-    "timestamp": "2026-02-09T05:02:45.779Z",
-    "lat": 45.6167,
-    "lon": -122.5026,
+    "distance": 1.33,
+    "altitude": 26000,
+    "speed": 438,
+    "timestamp": "2026-02-09T05:08:54.155Z",
+    "lat": 45.6231,
+    "lon": -122.5596,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5408",
+    "callsign": "QXE2100",
     "aircraftType": "E175",
-    "origin": "LAX",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T05:02:45.775Z"
+    "firstSeen": "2026-02-09T05:08:54.150Z"
   },
-  "overheadScore": 1.19,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T05:03:44.940Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T05:08:54.155Z"
 }
