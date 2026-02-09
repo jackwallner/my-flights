@@ -23517,5 +23517,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 439,
     "_sessionKey": "SKW6278_2026-02-09T00"
+  },
+  {
+    "callsign": "ASA687",
+    "flightNumber": "AS687",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SBA",
+    "destination": "SEA",
+    "icao": "A6C6C8",
+    "registration": "N536AS",
+    "firstSeen": "2026-02-09T00:40:17.248Z",
+    "lastSeen": "2026-02-09T00:40:17.248Z",
+    "duration": 0,
+    "closestDistance": 1.4085581637661715,
+    "closestAltitude": 26000,
+    "closestSpeed": 457,
+    "initialDistance": 1.4085581637661715,
+    "initialAltitude": 26000,
+    "initialSpeed": 457,
+    "_sessionKey": "ASA687_2026-02-09T00"
   }
 ]
