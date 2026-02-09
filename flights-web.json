@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.93,
+    "distance": 1.22,
     "altitude": 36000,
-    "speed": 427,
-    "timestamp": "2026-02-09T01:29:49.157Z",
-    "lat": 45.6224,
-    "lon": -122.5063,
+    "speed": 450,
+    "timestamp": "2026-02-09T01:39:32.335Z",
+    "lat": 45.6161,
+    "lon": -122.5023,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4031",
-    "aircraftType": "E175",
-    "origin": "ONT",
+    "callsign": "ASA760",
+    "aircraftType": "737",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T01:29:49.153Z"
+    "firstSeen": "2026-02-09T01:39:32.331Z"
   },
-  "overheadScore": 0.93,
-  "isOverhead": true,
+  "overheadScore": 1.22,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T01:30:47.486Z"
+  "timestamp": "2026-02-09T01:40:30.754Z"
 }
