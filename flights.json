@@ -25217,5 +25217,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 415,
     "_sessionKey": "ASA479_2026-02-09T18"
+  },
+  {
+    "callsign": "ASA717",
+    "flightNumber": "AS717",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A2B1AB",
+    "registration": "N273AK",
+    "firstSeen": "2026-02-09T18:06:00.024Z",
+    "lastSeen": "2026-02-09T18:06:00.024Z",
+    "duration": 0,
+    "closestDistance": 0.5148210728349651,
+    "closestAltitude": 38000,
+    "closestSpeed": 449,
+    "initialDistance": 0.5148210728349651,
+    "initialAltitude": 38000,
+    "initialSpeed": 449,
+    "_sessionKey": "ASA717_2026-02-09T18"
   }
 ]
