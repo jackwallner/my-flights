@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.41,
-    "altitude": 2625,
-    "speed": 211,
-    "timestamp": "2026-02-09T15:38:59.253Z",
-    "lat": 45.6479,
-    "lon": -122.5374,
+    "distance": 1.37,
+    "altitude": 34000,
+    "speed": 429,
+    "timestamp": "2026-02-09T15:47:20.061Z",
+    "lat": 45.627,
+    "lon": -122.5607,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2319",
-    "aircraftType": "737",
+    "callsign": "SKW4075",
+    "aircraftType": "E175",
     "origin": "SMF",
-    "destination": "PDX",
-    "firstSeen": "2026-02-09T15:38:59.249Z"
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T15:47:20.057Z"
   },
-  "overheadScore": 1.41,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T15:39:57.865Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T15:47:20.061Z"
 }

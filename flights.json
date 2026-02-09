@@ -24697,5 +24697,25 @@
     "initialAltitude": 2625,
     "initialSpeed": 211,
     "_sessionKey": "SWA2319_2026-02-09T15"
+  },
+  {
+    "callsign": "SKW4075",
+    "flightNumber": "DL4075",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A320F9",
+    "registration": "N300SY",
+    "firstSeen": "2026-02-09T15:47:20.057Z",
+    "lastSeen": "2026-02-09T15:47:20.057Z",
+    "duration": 0,
+    "closestDistance": 1.3722254470964208,
+    "closestAltitude": 34000,
+    "closestSpeed": 429,
+    "initialDistance": 1.3722254470964208,
+    "initialAltitude": 34000,
+    "initialSpeed": 429,
+    "_sessionKey": "SKW4075_2026-02-09T15"
   }
 ]
