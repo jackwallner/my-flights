@@ -26377,5 +26377,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 373,
     "_sessionKey": "SKW3814_2026-02-09T23"
+  },
+  {
+    "callsign": "N5107H",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A664C4",
+    "registration": "N5107H",
+    "firstSeen": "2026-02-09T23:58:25.954Z",
+    "lastSeen": "2026-02-09T23:58:25.954Z",
+    "duration": 0,
+    "closestDistance": 1.3250347780042737,
+    "closestAltitude": 800,
+    "closestSpeed": 98,
+    "initialDistance": 1.3250347780042737,
+    "initialAltitude": 800,
+    "initialSpeed": 98,
+    "_sessionKey": "N5107H_2026-02-09T23"
   }
 ]

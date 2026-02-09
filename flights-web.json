@@ -1,23 +1,23 @@
 {
   "closestApproach": {
     "distance": 1.33,
-    "altitude": 24000,
-    "speed": 373,
-    "timestamp": "2026-02-09T23:56:05.530Z",
-    "lat": 45.6223,
-    "lon": -122.5594,
+    "altitude": 800,
+    "speed": 98,
+    "timestamp": "2026-02-09T23:58:25.959Z",
+    "lat": 45.6335,
+    "lon": -122.5574,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3814",
-    "aircraftType": "E175",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T23:56:05.526Z"
+    "callsign": "N5107H",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-09T23:58:25.954Z"
   },
   "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T23:57:03.645Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T23:58:25.959Z"
 }
