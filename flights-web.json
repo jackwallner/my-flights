@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.32,
+    "distance": 0.94,
     "altitude": 32000,
-    "speed": 446,
-    "timestamp": "2026-02-09T23:41:57.777Z",
-    "lat": 45.619,
-    "lon": -122.5583,
+    "speed": 406,
+    "timestamp": "2026-02-09T23:52:43.151Z",
+    "lat": 45.6225,
+    "lon": -122.5061,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AAL206",
-    "aircraftType": "A321",
-    "origin": "SJC",
+    "callsign": "ASA703",
+    "aircraftType": "737",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T23:41:57.771Z"
+    "firstSeen": "2026-02-09T23:52:43.147Z"
   },
-  "overheadScore": 1.32,
-  "isOverhead": false,
+  "overheadScore": 0.94,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T23:42:56.432Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T23:52:43.151Z"
 }
