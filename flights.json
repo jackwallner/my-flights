@@ -25517,5 +25517,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 452,
     "_sessionKey": "SWA2312_2026-02-09T19"
+  },
+  {
+    "callsign": "EJA453",
+    "flightNumber": "EJA453",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "BFI",
+    "icao": "A57EB0",
+    "registration": "N453QS",
+    "firstSeen": "2026-02-09T19:36:47.816Z",
+    "lastSeen": "2026-02-09T19:36:47.816Z",
+    "duration": 0,
+    "closestDistance": 1.3792061661265536,
+    "closestAltitude": 39600,
+    "closestSpeed": 439,
+    "initialDistance": 1.3792061661265536,
+    "initialAltitude": 39600,
+    "initialSpeed": 439,
+    "_sessionKey": "EJA453_2026-02-09T19"
   }
 ]

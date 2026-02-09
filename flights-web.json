@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.27,
-    "altitude": 40000,
-    "speed": 452,
-    "timestamp": "2026-02-09T19:28:05.983Z",
-    "lat": 45.6152,
-    "lon": -122.5015,
+    "distance": 1.38,
+    "altitude": 39600,
+    "speed": 439,
+    "timestamp": "2026-02-09T19:36:47.821Z",
+    "lat": 45.6047,
+    "lon": -122.5427,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2312",
-    "aircraftType": "B737",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T19:28:05.978Z"
+    "callsign": "EJA453",
+    "aircraftType": "E55P",
+    "origin": "PSP",
+    "destination": "BFI",
+    "firstSeen": "2026-02-09T19:36:47.816Z"
   },
-  "overheadScore": 1.27,
+  "overheadScore": 1.38,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T19:29:05.128Z"
+  "timestamp": "2026-02-09T19:37:47.671Z"
 }
