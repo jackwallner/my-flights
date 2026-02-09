@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.35,
-    "altitude": 28000,
-    "speed": 503,
-    "timestamp": "2026-02-09T02:26:47.249Z",
-    "lat": 45.6244,
-    "lon": -122.5602,
+    "distance": 0.96,
+    "altitude": 26000,
+    "speed": 470,
+    "timestamp": "2026-02-09T02:31:42.006Z",
+    "lat": 45.6191,
+    "lon": -122.5493,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1359",
-    "aircraftType": "B39M",
-    "origin": "OAK",
+    "callsign": "ASA591",
+    "aircraftType": "737",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T02:26:47.245Z"
+    "firstSeen": "2026-02-09T02:31:42.001Z"
   },
-  "overheadScore": 1.35,
-  "isOverhead": false,
+  "overheadScore": 0.96,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T02:27:45.581Z"
+  "timestamp": "2026-02-09T02:32:40.276Z"
 }
