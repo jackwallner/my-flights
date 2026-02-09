@@ -26297,5 +26297,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 459,
     "_sessionKey": "SWA5174_2026-02-09T23"
+  },
+  {
+    "callsign": "SKW5403",
+    "flightNumber": "UA5403",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A7E6CF",
+    "registration": "N608UX",
+    "firstSeen": "2026-02-09T23:31:32.364Z",
+    "lastSeen": "2026-02-09T23:31:32.364Z",
+    "duration": 0,
+    "closestDistance": 1.318916349947111,
+    "closestAltitude": 31300,
+    "closestSpeed": 412,
+    "initialDistance": 1.318916349947111,
+    "initialAltitude": 31300,
+    "initialSpeed": 412,
+    "_sessionKey": "SKW5403_2026-02-09T23"
   }
 ]
