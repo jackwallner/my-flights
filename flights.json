@@ -25097,5 +25097,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 421,
     "_sessionKey": "ASA179_2026-02-09T17"
+  },
+  {
+    "callsign": "AAL412",
+    "flightNumber": "AA412",
+    "aircraftType": "A21N",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A51D1B",
+    "registration": "N429AN",
+    "firstSeen": "2026-02-09T17:40:14.291Z",
+    "lastSeen": "2026-02-09T17:40:14.291Z",
+    "duration": 0,
+    "closestDistance": 1.3438495118759195,
+    "closestAltitude": 28450,
+    "closestSpeed": 391,
+    "initialDistance": 1.3438495118759195,
+    "initialAltitude": 28450,
+    "initialSpeed": 391,
+    "_sessionKey": "AAL412_2026-02-09T17"
   }
 ]

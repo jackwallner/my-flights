@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.75,
-    "altitude": 36000,
-    "speed": 421,
-    "timestamp": "2026-02-09T17:38:34.735Z",
-    "lat": 45.6289,
-    "lon": -122.5109,
+    "distance": 1.34,
+    "altitude": 28450,
+    "speed": 391,
+    "timestamp": "2026-02-09T17:40:14.295Z",
+    "lat": 45.626,
+    "lon": -122.5601,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA179",
-    "aircraftType": "B39M",
-    "origin": "PSP",
+    "callsign": "AAL412",
+    "aircraftType": "A321",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T17:38:34.731Z"
+    "firstSeen": "2026-02-09T17:40:14.291Z"
   },
-  "overheadScore": 0.75,
-  "isOverhead": true,
+  "overheadScore": 1.34,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-09T17:38:34.736Z"
+  "status": "completed",
+  "timestamp": "2026-02-09T17:41:12.890Z"
 }
