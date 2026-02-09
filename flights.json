@@ -26197,5 +26197,25 @@
     "initialAltitude": 24000,
     "initialSpeed": 367,
     "_sessionKey": "UAL2710_2026-02-09T22"
+  },
+  {
+    "callsign": "N226JM",
+    "flightNumber": null,
+    "aircraftType": "C56X",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "BFI",
+    "icao": "A1F81F",
+    "registration": "N226JM",
+    "firstSeen": "2026-02-09T22:53:44.731Z",
+    "lastSeen": "2026-02-09T22:53:44.731Z",
+    "duration": 0,
+    "closestDistance": 1.373040257275714,
+    "closestAltitude": 40000,
+    "closestSpeed": 421,
+    "initialDistance": 1.373040257275714,
+    "initialAltitude": 40000,
+    "initialSpeed": 421,
+    "_sessionKey": "N226JM_2026-02-09T22"
   }
 ]

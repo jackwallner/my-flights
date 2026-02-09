@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 24000,
-    "speed": 367,
-    "timestamp": "2026-02-09T22:39:32.842Z",
-    "lat": 45.6212,
-    "lon": -122.5593,
+    "distance": 1.37,
+    "altitude": 40000,
+    "speed": 421,
+    "timestamp": "2026-02-09T22:53:44.737Z",
+    "lat": 45.6172,
+    "lon": -122.5587,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2710",
-    "aircraftType": "B39M",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T22:39:32.836Z"
+    "callsign": "N226JM",
+    "aircraftType": "Cita",
+    "origin": "OAK",
+    "destination": "BFI",
+    "firstSeen": "2026-02-09T22:53:44.731Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T22:40:32.483Z"
+  "timestamp": "2026-02-09T22:54:42.362Z"
 }
