@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.48,
-    "altitude": 12725,
-    "speed": 203,
-    "timestamp": "2026-02-09T07:22:45.386Z",
-    "lat": 45.6293,
-    "lon": -122.563,
+    "distance": 1.37,
+    "altitude": 5700,
+    "speed": 250,
+    "timestamp": "2026-02-09T07:27:09.262Z",
+    "lat": 45.6421,
+    "lon": -122.5502,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T07:22:45.381Z"
+    "callsign": "N367DA",
+    "aircraftType": "LJ35",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-02-09T07:27:09.257Z"
   },
-  "overheadScore": 1.48,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T07:23:42.982Z"
+  "timestamp": "2026-02-09T07:28:06.886Z"
 }

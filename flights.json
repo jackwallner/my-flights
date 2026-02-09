@@ -24537,5 +24537,25 @@
     "initialAltitude": 12725,
     "initialSpeed": 203,
     "_sessionKey": "PC12_2026-02-09T07"
+  },
+  {
+    "callsign": "N367DA",
+    "flightNumber": null,
+    "aircraftType": "LJ35",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "HIO",
+    "icao": "A42699",
+    "registration": "N367DA",
+    "firstSeen": "2026-02-09T07:27:09.257Z",
+    "lastSeen": "2026-02-09T07:27:09.257Z",
+    "duration": 0,
+    "closestDistance": 1.3710397554144143,
+    "closestAltitude": 5700,
+    "closestSpeed": 250,
+    "initialDistance": 1.3710397554144143,
+    "initialAltitude": 5700,
+    "initialSpeed": 250,
+    "_sessionKey": "N367DA_2026-02-09T07"
   }
 ]
