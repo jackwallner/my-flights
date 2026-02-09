@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.42,
-    "altitude": 800,
-    "speed": 136,
-    "timestamp": "2026-02-09T21:51:03.945Z",
-    "lat": 45.615,
-    "lon": -122.5585,
+    "distance": 0.83,
+    "altitude": 38000,
+    "speed": 451,
+    "timestamp": "2026-02-09T22:04:04.544Z",
+    "lat": 45.6259,
+    "lon": -122.5084,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7474E",
-    "aircraftType": "C180",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-09T21:51:03.940Z"
+    "callsign": "ASA1388",
+    "aircraftType": "737",
+    "origin": "BUR",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T22:04:04.540Z"
   },
-  "overheadScore": 1.42,
-  "isOverhead": false,
-  "pathSnapshots": 2,
-  "status": "completed",
-  "timestamp": "2026-02-09T21:52:12.737Z"
+  "overheadScore": 0.83,
+  "isOverhead": true,
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-09T22:04:04.544Z"
 }
