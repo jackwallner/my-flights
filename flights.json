@@ -25977,5 +25977,25 @@
     "initialAltitude": 35900,
     "initialSpeed": 444,
     "_sessionKey": "DAL2101_2026-02-09T21"
+  },
+  {
+    "callsign": "DAL8804",
+    "flightNumber": "DL8804",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AAFC36",
+    "registration": "N807DN",
+    "firstSeen": "2026-02-09T21:31:30.124Z",
+    "lastSeen": "2026-02-09T21:31:30.124Z",
+    "duration": 0,
+    "closestDistance": 1.435972438915957,
+    "closestAltitude": 24000,
+    "closestSpeed": 390,
+    "initialDistance": 1.435972438915957,
+    "initialAltitude": 24000,
+    "initialSpeed": 390,
+    "_sessionKey": "DAL8804_2026-02-09T21"
   }
 ]
