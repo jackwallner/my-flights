@@ -24457,5 +24457,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 451,
     "_sessionKey": "ASA532_2026-02-09T05"
+  },
+  {
+    "callsign": "ASA708",
+    "flightNumber": "AS708",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A70AA1",
+    "registration": "N553AS",
+    "firstSeen": "2026-02-09T06:38:19.128Z",
+    "lastSeen": "2026-02-09T06:38:19.128Z",
+    "duration": 0,
+    "closestDistance": 0.7740718493183814,
+    "closestAltitude": 30000,
+    "closestSpeed": 459,
+    "initialDistance": 0.7740718493183814,
+    "initialAltitude": 30000,
+    "initialSpeed": 459,
+    "_sessionKey": "ASA708_2026-02-09T06"
   }
 ]
