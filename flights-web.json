@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.96,
-    "altitude": 36000,
-    "speed": 455,
-    "timestamp": "2026-02-09T09:45:06.508Z",
-    "lat": 45.6218,
-    "lon": -122.5058,
+    "distance": 1.33,
+    "altitude": 38000,
+    "speed": 448,
+    "timestamp": "2026-02-09T15:01:15.690Z",
+    "lat": 45.6197,
+    "lon": -122.5587,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ATN3378",
-    "aircraftType": "767",
-    "origin": "SBD",
+    "callsign": "SWA3677",
+    "aircraftType": "737 ",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T09:45:06.501Z"
+    "firstSeen": "2026-02-09T15:01:15.684Z"
   },
-  "overheadScore": 0.96,
-  "isOverhead": true,
+  "overheadScore": 1.33,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T09:46:04.812Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T15:01:15.690Z"
 }
