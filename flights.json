@@ -25717,5 +25717,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 421,
     "_sessionKey": "QXE2344_2026-02-09T20"
+  },
+  {
+    "callsign": "ASA1311",
+    "flightNumber": "AS1311",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A2D573",
+    "registration": "N282AK",
+    "firstSeen": "2026-02-09T20:39:05.668Z",
+    "lastSeen": "2026-02-09T20:39:05.668Z",
+    "duration": 0,
+    "closestDistance": 1.331768400960292,
+    "closestAltitude": 28000,
+    "closestSpeed": 437,
+    "initialDistance": 1.331768400960292,
+    "initialAltitude": 28000,
+    "initialSpeed": 437,
+    "_sessionKey": "ASA1311_2026-02-09T20"
   }
 ]
