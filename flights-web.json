@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 32000,
-    "speed": 437,
-    "timestamp": "2026-02-09T22:13:48.287Z",
-    "lat": 45.6201,
-    "lon": -122.5588,
+    "distance": 1.01,
+    "altitude": 24000,
+    "speed": 357,
+    "timestamp": "2026-02-09T22:20:37.512Z",
+    "lat": 45.6204,
+    "lon": -122.505,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL8873",
-    "aircraftType": "737",
-    "origin": "SFO",
+    "callsign": "ASA685",
+    "aircraftType": "737 ",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T22:13:48.283Z"
+    "firstSeen": "2026-02-09T22:20:37.507Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.01,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T22:14:46.957Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T22:20:37.513Z"
 }
