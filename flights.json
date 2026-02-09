@@ -24737,5 +24737,25 @@
     "initialAltitude": 31975,
     "initialSpeed": 440,
     "_sessionKey": "DAL2844_2026-02-09T15"
+  },
+  {
+    "callsign": "ASA607",
+    "flightNumber": "AS607",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "SEA",
+    "icao": "ACBE34",
+    "registration": "N920AK",
+    "firstSeen": "2026-02-09T16:03:21.448Z",
+    "lastSeen": "2026-02-09T16:03:21.448Z",
+    "duration": 0,
+    "closestDistance": 1.384739046128029,
+    "closestAltitude": 36000,
+    "closestSpeed": 447,
+    "initialDistance": 1.384739046128029,
+    "initialAltitude": 36000,
+    "initialSpeed": 447,
+    "_sessionKey": "ASA607_2026-02-09T16"
   }
 ]
