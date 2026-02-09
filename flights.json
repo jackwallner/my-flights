@@ -24657,5 +24657,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 425,
     "_sessionKey": "DAL2721_2026-02-09T15"
+  },
+  {
+    "callsign": "EJA571",
+    "flightNumber": "EJA571",
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "BFI",
+    "icao": "A7538F",
+    "registration": "N571QS",
+    "firstSeen": "2026-02-09T15:18:17.731Z",
+    "lastSeen": "2026-02-09T15:18:17.731Z",
+    "duration": 0,
+    "closestDistance": 1.390219970951638,
+    "closestAltitude": 43000,
+    "closestSpeed": 447,
+    "initialDistance": 1.390219970951638,
+    "initialAltitude": 43000,
+    "initialSpeed": 447,
+    "_sessionKey": "EJA571_2026-02-09T15"
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.47,
-    "altitude": 30000,
-    "speed": 425,
-    "timestamp": "2026-02-09T15:15:15.802Z",
-    "lat": 45.6118,
-    "lon": -122.5573,
+    "distance": 1.39,
+    "altitude": 43000,
+    "speed": 447,
+    "timestamp": "2026-02-09T15:18:17.735Z",
+    "lat": 45.6285,
+    "lon": -122.5609,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2721",
-    "aircraftType": "A223",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T15:15:15.796Z"
+    "callsign": "EJA571",
+    "aircraftType": "C68A",
+    "origin": "OAK",
+    "destination": "BFI",
+    "firstSeen": "2026-02-09T15:18:17.731Z"
   },
-  "overheadScore": 1.47,
+  "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T15:16:14.179Z"
+  "timestamp": "2026-02-09T15:19:15.691Z"
 }
