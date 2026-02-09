@@ -25337,5 +25337,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 467,
     "_sessionKey": "ASA762_2026-02-09T18"
+  },
+  {
+    "callsign": "ASA656",
+    "flightNumber": "AS656",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A720EB",
+    "registration": "N559AS",
+    "firstSeen": "2026-02-09T18:32:49.641Z",
+    "lastSeen": "2026-02-09T18:32:49.641Z",
+    "duration": 0,
+    "closestDistance": 1.472529691292476,
+    "closestAltitude": 38000,
+    "closestSpeed": 455,
+    "initialDistance": 1.472529691292476,
+    "initialAltitude": 38000,
+    "initialSpeed": 455,
+    "_sessionKey": "ASA656_2026-02-09T18"
   }
 ]
