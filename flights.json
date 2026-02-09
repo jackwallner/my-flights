@@ -26177,5 +26177,25 @@
     "initialAltitude": 34025,
     "initialSpeed": 462,
     "_sessionKey": "DAL8875_2026-02-09T22"
+  },
+  {
+    "callsign": "UAL2710",
+    "flightNumber": "UA2710",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A12F08",
+    "registration": "N17565",
+    "firstSeen": "2026-02-09T22:39:32.836Z",
+    "lastSeen": "2026-02-09T22:39:32.836Z",
+    "duration": 0,
+    "closestDistance": 1.3323380296691658,
+    "closestAltitude": 24000,
+    "closestSpeed": 367,
+    "initialDistance": 1.3323380296691658,
+    "initialAltitude": 24000,
+    "initialSpeed": 367,
+    "_sessionKey": "UAL2710_2026-02-09T22"
   }
 ]

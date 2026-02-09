@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 34025,
-    "speed": 462,
-    "timestamp": "2026-02-09T22:28:58.521Z",
-    "lat": 45.6152,
-    "lon": -122.5574,
+    "distance": 1.33,
+    "altitude": 24000,
+    "speed": 367,
+    "timestamp": "2026-02-09T22:39:32.842Z",
+    "lat": 45.6212,
+    "lon": -122.5593,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL8875",
-    "aircraftType": "A330",
+    "callsign": "UAL2710",
+    "aircraftType": "B39M",
     "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T22:28:58.517Z"
+    "firstSeen": "2026-02-09T22:39:32.836Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T22:29:56.578Z"
+  "timestamp": "2026-02-09T22:40:32.483Z"
 }
