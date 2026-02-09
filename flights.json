@@ -23717,5 +23717,25 @@
     "initialAltitude": 26000,
     "initialSpeed": 491,
     "_sessionKey": "UAL2279_2026-02-09T01"
+  },
+  {
+    "callsign": "SWA1740",
+    "flightNumber": "WN1740",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A196C8",
+    "registration": "N201LV",
+    "firstSeen": "2026-02-09T01:43:42.853Z",
+    "lastSeen": "2026-02-09T01:43:42.853Z",
+    "duration": 0,
+    "closestDistance": 1.447891325671699,
+    "closestAltitude": 26000,
+    "closestSpeed": 445,
+    "initialDistance": 1.447891325671699,
+    "initialAltitude": 26000,
+    "initialSpeed": 445,
+    "_sessionKey": "SWA1740_2026-02-09T01"
   }
 ]
