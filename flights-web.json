@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.18,
-    "altitude": 30000,
-    "speed": 404,
-    "timestamp": "2026-02-09T22:09:52.669Z",
-    "lat": 45.6076,
-    "lon": -122.5402,
+    "distance": 1.33,
+    "altitude": 32000,
+    "speed": 437,
+    "timestamp": "2026-02-09T22:13:48.287Z",
+    "lat": 45.6201,
+    "lon": -122.5588,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA315",
+    "callsign": "DAL8873",
     "aircraftType": "737",
-    "origin": "PSP",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T22:09:52.665Z"
+    "firstSeen": "2026-02-09T22:13:48.283Z"
   },
-  "overheadScore": 1.18,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T22:10:53.088Z"
+  "timestamp": "2026-02-09T22:14:46.957Z"
 }
