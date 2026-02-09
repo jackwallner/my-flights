@@ -23497,5 +23497,25 @@
     "initialAltitude": 35625,
     "initialSpeed": 460,
     "_sessionKey": "ASA622_2026-02-09T00"
+  },
+  {
+    "callsign": "SKW6278",
+    "flightNumber": "AA6278",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "A675A9",
+    "registration": "N515SY",
+    "firstSeen": "2026-02-09T00:37:05.221Z",
+    "lastSeen": "2026-02-09T00:37:05.221Z",
+    "duration": 0,
+    "closestDistance": 0.8080331672287216,
+    "closestAltitude": 34000,
+    "closestSpeed": 439,
+    "initialDistance": 0.8080331672287216,
+    "initialAltitude": 34000,
+    "initialSpeed": 439,
+    "_sessionKey": "SKW6278_2026-02-09T00"
   }
 ]
