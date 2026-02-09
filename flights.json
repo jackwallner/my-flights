@@ -24077,5 +24077,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 438,
     "_sessionKey": "SKW3030_2026-02-09T03"
+  },
+  {
+    "callsign": "SWA1290",
+    "flightNumber": "WN1290",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "ABD254",
+    "registration": "N8608N",
+    "firstSeen": "2026-02-09T03:36:38.779Z",
+    "lastSeen": "2026-02-09T03:36:38.779Z",
+    "duration": 0,
+    "closestDistance": 1.3768103850084092,
+    "closestAltitude": 26000,
+    "closestSpeed": 423,
+    "initialDistance": 1.3768103850084092,
+    "initialAltitude": 26000,
+    "initialSpeed": 423,
+    "_sessionKey": "SWA1290_2026-02-09T03"
   }
 ]
