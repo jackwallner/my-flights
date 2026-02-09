@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.75,
-    "altitude": 32000,
-    "speed": 437,
-    "timestamp": "2026-02-09T05:33:12.409Z",
-    "lat": 45.6318,
-    "lon": -122.5128,
+    "distance": 0.81,
+    "altitude": 28000,
+    "speed": 451,
+    "timestamp": "2026-02-09T05:36:04.552Z",
+    "lat": 45.6264,
+    "lon": -122.5088,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA402",
+    "callsign": "ASA532",
     "aircraftType": "B39M",
-    "origin": "LAS",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T05:33:12.405Z"
+    "firstSeen": "2026-02-09T05:36:04.548Z"
   },
-  "overheadScore": 0.75,
+  "overheadScore": 0.81,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T05:34:10.800Z"
+  "timestamp": "2026-02-09T05:37:02.863Z"
 }
