@@ -25577,5 +25577,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 451,
     "_sessionKey": "DAL1714_2026-02-09T19"
+  },
+  {
+    "callsign": "EJA680",
+    "flightNumber": null,
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": "LGB",
+    "destination": null,
+    "icao": "A904A6",
+    "registration": "N680QS",
+    "firstSeen": "2026-02-09T19:49:02.728Z",
+    "lastSeen": "2026-02-09T19:49:02.728Z",
+    "duration": 0,
+    "closestDistance": 1.4390835791217849,
+    "closestAltitude": 43000,
+    "closestSpeed": 416,
+    "initialDistance": 1.4390835791217849,
+    "initialAltitude": 43000,
+    "initialSpeed": 416,
+    "_sessionKey": "EJA680_2026-02-09T19"
   }
 ]

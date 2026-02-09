@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 36000,
-    "speed": 451,
-    "timestamp": "2026-02-09T19:46:29.981Z",
-    "lat": 45.6178,
-    "lon": -122.5586,
+    "distance": 1.44,
+    "altitude": 43000,
+    "speed": 416,
+    "timestamp": "2026-02-09T19:49:02.772Z",
+    "lat": 45.6034,
+    "lon": -122.5421,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1714",
-    "aircraftType": "737",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T19:46:29.977Z"
+    "callsign": "EJA680",
+    "aircraftType": "C68A",
+    "origin": "LGB",
+    "destination": null,
+    "firstSeen": "2026-02-09T19:49:02.728Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.44,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T19:47:29.436Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T19:49:02.773Z"
 }
