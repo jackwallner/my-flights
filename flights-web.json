@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.72,
-    "altitude": 35325,
-    "speed": 456,
-    "timestamp": "2026-02-09T02:12:11.934Z",
-    "lat": 45.6186,
-    "lon": -122.5138,
+    "distance": 1.21,
+    "altitude": 31975,
+    "speed": 461,
+    "timestamp": "2026-02-09T02:13:10.064Z",
+    "lat": 45.6319,
+    "lon": -122.5554,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2606",
+    "callsign": "ASA1345",
     "aircraftType": "737",
-    "origin": "LAX",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T02:12:11.926Z"
+    "firstSeen": "2026-02-09T02:13:10.018Z"
   },
-  "overheadScore": 0.72,
-  "isOverhead": true,
+  "overheadScore": 1.21,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-09T02:12:11.934Z"
+  "status": "completed",
+  "timestamp": "2026-02-09T02:14:08.072Z"
 }

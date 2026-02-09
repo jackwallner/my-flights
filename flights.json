@@ -23817,5 +23817,25 @@
     "initialAltitude": 35325,
     "initialSpeed": 456,
     "_sessionKey": "DAL2606_2026-02-09T02"
+  },
+  {
+    "callsign": "ASA1345",
+    "flightNumber": "AS1345",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A5EC61",
+    "registration": "N481AS",
+    "firstSeen": "2026-02-09T02:13:10.018Z",
+    "lastSeen": "2026-02-09T02:13:10.018Z",
+    "duration": 0,
+    "closestDistance": 1.2127223830321285,
+    "closestAltitude": 31975,
+    "closestSpeed": 461,
+    "initialDistance": 1.2127223830321285,
+    "initialAltitude": 31975,
+    "initialSpeed": 461,
+    "_sessionKey": "ASA1345_2026-02-09T02"
   }
 ]
