@@ -23977,5 +23977,25 @@
     "initialAltitude": 31750,
     "initialSpeed": 487,
     "_sessionKey": "FFT1177_2026-02-09T03"
+  },
+  {
+    "callsign": "DAL1837",
+    "flightNumber": "DL1837",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SJD",
+    "destination": "SEA",
+    "icao": "A445D9",
+    "registration": "N3746H",
+    "firstSeen": "2026-02-09T03:06:56.318Z",
+    "lastSeen": "2026-02-09T03:06:56.318Z",
+    "duration": 0,
+    "closestDistance": 1.3594984875895169,
+    "closestAltitude": 28000,
+    "closestSpeed": 473,
+    "initialDistance": 1.3594984875895169,
+    "initialAltitude": 28000,
+    "initialSpeed": 473,
+    "_sessionKey": "DAL1837_2026-02-09T03"
   }
 ]

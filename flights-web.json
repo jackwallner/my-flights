@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 31750,
-    "speed": 487,
-    "timestamp": "2026-02-09T03:00:38.650Z",
-    "lat": 45.6135,
-    "lon": -122.5568,
+    "distance": 1.36,
+    "altitude": 28000,
+    "speed": 473,
+    "timestamp": "2026-02-09T03:06:56.322Z",
+    "lat": 45.6171,
+    "lon": -122.5583,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FFT1177",
-    "aircraftType": "A321",
-    "origin": "LAX",
+    "callsign": "DAL1837",
+    "aircraftType": "737",
+    "origin": "SJD",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T03:00:38.644Z"
+    "firstSeen": "2026-02-09T03:06:56.318Z"
   },
-  "overheadScore": 1.4,
+  "overheadScore": 1.36,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T03:01:37.529Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T03:06:56.322Z"
 }
