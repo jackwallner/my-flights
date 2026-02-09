@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.78,
-    "altitude": 28250,
-    "speed": 408,
-    "timestamp": "2026-02-09T07:39:26.632Z",
-    "lat": 45.628,
-    "lon": -122.5099,
+    "distance": 1.39,
+    "altitude": 42825,
+    "speed": 483,
+    "timestamp": "2026-02-09T08:56:16.606Z",
+    "lat": 45.6165,
+    "lon": -122.5587,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6444",
-    "aircraftType": "CRJ",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T07:39:26.627Z"
+    "callsign": "LXJ513",
+    "aircraftType": "CL35",
+    "origin": "OAK",
+    "destination": "BFI",
+    "firstSeen": "2026-02-09T08:56:16.601Z"
   },
-  "overheadScore": 0.78,
-  "isOverhead": true,
+  "overheadScore": 1.39,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T07:40:27.031Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T08:56:16.606Z"
 }

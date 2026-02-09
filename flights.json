@@ -24577,5 +24577,25 @@
     "initialAltitude": 28250,
     "initialSpeed": 408,
     "_sessionKey": "SKW6444_2026-02-09T07"
+  },
+  {
+    "callsign": "LXJ513",
+    "flightNumber": "LXJ513",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "BFI",
+    "icao": "A66D27",
+    "registration": "N513FX",
+    "firstSeen": "2026-02-09T08:56:16.601Z",
+    "lastSeen": "2026-02-09T08:56:16.601Z",
+    "duration": 0,
+    "closestDistance": 1.3884548411446236,
+    "closestAltitude": 42825,
+    "closestSpeed": 483,
+    "initialDistance": 1.3884548411446236,
+    "initialAltitude": 42825,
+    "initialSpeed": 483,
+    "_sessionKey": "LXJ513_2026-02-09T08"
   }
 ]
