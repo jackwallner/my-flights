@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.48,
-    "altitude": 24000,
-    "speed": 401,
-    "timestamp": "2026-02-09T02:48:34.364Z",
-    "lat": 45.6109,
-    "lon": -122.5566,
+    "distance": 0.76,
+    "altitude": 37950,
+    "speed": 439,
+    "timestamp": "2026-02-09T02:56:34.469Z",
+    "lat": 45.6298,
+    "lon": -122.5113,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3707",
-    "aircraftType": "E175",
-    "origin": "SFO",
+    "callsign": "ASA774",
+    "aircraftType": "737",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T02:48:34.358Z"
+    "firstSeen": "2026-02-09T02:56:34.466Z"
   },
-  "overheadScore": 1.48,
-  "isOverhead": false,
+  "overheadScore": 0.76,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T02:49:32.458Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T02:56:34.469Z"
 }
