@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.99,
-    "altitude": 30600,
-    "speed": 455,
-    "timestamp": "2026-02-09T00:29:48.248Z",
-    "lat": 45.6205,
-    "lon": -122.5056,
+    "distance": 1.35,
+    "altitude": 35625,
+    "speed": 460,
+    "timestamp": "2026-02-09T00:31:48.454Z",
+    "lat": 45.6153,
+    "lon": -122.557,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2251",
-    "aircraftType": "A220",
-    "origin": "TUS",
+    "callsign": "ASA622",
+    "aircraftType": "737",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T00:29:48.243Z"
+    "firstSeen": "2026-02-09T00:31:48.450Z"
   },
-  "overheadScore": 0.99,
-  "isOverhead": true,
+  "overheadScore": 1.35,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "tracking",
-  "timestamp": "2026-02-09T00:29:48.248Z"
+  "timestamp": "2026-02-09T00:31:48.454Z"
 }
