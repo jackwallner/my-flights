@@ -25637,5 +25637,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 440,
     "_sessionKey": "DAL976_2026-02-09T20"
+  },
+  {
+    "callsign": "ASA642",
+    "flightNumber": "AS642",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "A9C506",
+    "registration": "N729AL",
+    "firstSeen": "2026-02-09T20:21:47.567Z",
+    "lastSeen": "2026-02-09T20:21:47.567Z",
+    "duration": 0,
+    "closestDistance": 0.8159834291296072,
+    "closestAltitude": 38000,
+    "closestSpeed": 447,
+    "initialDistance": 0.8159834291296072,
+    "initialAltitude": 38000,
+    "initialSpeed": 447,
+    "_sessionKey": "ASA642_2026-02-09T20"
   }
 ]
