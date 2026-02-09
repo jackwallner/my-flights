@@ -25477,5 +25477,25 @@
     "initialAltitude": 34850,
     "initialSpeed": 475,
     "_sessionKey": "DAL8871_2026-02-09T19"
+  },
+  {
+    "callsign": "C68A",
+    "flightNumber": null,
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-09T19:20:04.771Z",
+    "lastSeen": "2026-02-09T19:20:04.771Z",
+    "duration": 0,
+    "closestDistance": 0.950403667681502,
+    "closestAltitude": 43000,
+    "closestSpeed": 425,
+    "initialDistance": 0.950403667681502,
+    "initialAltitude": 43000,
+    "initialSpeed": 425,
+    "_sessionKey": "C68A_2026-02-09T19"
   }
 ]
