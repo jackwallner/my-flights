@@ -24837,5 +24837,25 @@
     "initialAltitude": 3600,
     "initialSpeed": 204,
     "_sessionKey": "PC12_2026-02-09T16"
+  },
+  {
+    "callsign": "ASA323",
+    "flightNumber": "AS323",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "A24DC1",
+    "registration": "N248AK",
+    "firstSeen": "2026-02-09T16:28:59.986Z",
+    "lastSeen": "2026-02-09T16:28:59.986Z",
+    "duration": 0,
+    "closestDistance": 1.1620731726448144,
+    "closestAltitude": 30000,
+    "closestSpeed": 396,
+    "initialDistance": 1.1620731726448144,
+    "initialAltitude": 30000,
+    "initialSpeed": 396,
+    "_sessionKey": "ASA323_2026-02-09T16"
   }
 ]
