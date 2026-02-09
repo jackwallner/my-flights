@@ -23417,5 +23417,25 @@
     "initialAltitude": 28000,
     "initialSpeed": 435,
     "_sessionKey": "ASA703_2026-02-08T23"
+  },
+  {
+    "callsign": "DAL2533",
+    "flightNumber": "DL2533",
+    "aircraftType": "BCS3",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A33243",
+    "registration": "N305DU",
+    "firstSeen": "2026-02-09T00:06:35.011Z",
+    "lastSeen": "2026-02-09T00:06:35.011Z",
+    "duration": 0,
+    "closestDistance": 1.032635793550024,
+    "closestAltitude": 33975,
+    "closestSpeed": 439,
+    "initialDistance": 1.032635793550024,
+    "initialAltitude": 33975,
+    "initialSpeed": 439,
+    "_sessionKey": "DAL2533_2026-02-09T00"
   }
 ]
