@@ -26217,5 +26217,25 @@
     "initialAltitude": 40000,
     "initialSpeed": 421,
     "_sessionKey": "N226JM_2026-02-09T22"
+  },
+  {
+    "callsign": "UAL8108",
+    "flightNumber": "UA8108",
+    "aircraftType": "A320",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": null,
+    "icao": "A562AA",
+    "registration": "N446UA",
+    "firstSeen": "2026-02-09T23:03:48.450Z",
+    "lastSeen": "2026-02-09T23:03:48.450Z",
+    "duration": 0,
+    "closestDistance": 1.366675653400977,
+    "closestAltitude": 26525,
+    "closestSpeed": 404,
+    "initialDistance": 1.366675653400977,
+    "initialAltitude": 26525,
+    "initialSpeed": 404,
+    "_sessionKey": "UAL8108_2026-02-09T23"
   }
 ]
