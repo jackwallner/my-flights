@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 38000,
-    "speed": 469,
-    "timestamp": "2026-02-09T04:16:04.291Z",
-    "lat": 45.6146,
-    "lon": -122.5574,
+    "distance": 0.79,
+    "altitude": 32000,
+    "speed": 440,
+    "timestamp": "2026-02-09T04:27:50.525Z",
+    "lat": 45.6265,
+    "lon": -122.5093,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2019",
-    "aircraftType": "737",
-    "origin": "SFO",
+    "callsign": "ASA661",
+    "aircraftType": "B39M",
+    "origin": "PVR",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T04:16:04.286Z"
+    "firstSeen": "2026-02-09T04:27:50.520Z"
   },
-  "overheadScore": 1.39,
-  "isOverhead": false,
+  "overheadScore": 0.79,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T04:17:02.659Z"
+  "timestamp": "2026-02-09T04:28:49.801Z"
 }
