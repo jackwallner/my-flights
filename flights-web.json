@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.32,
-    "altitude": 34000,
-    "speed": 425,
-    "timestamp": "2026-02-09T23:05:17.620Z",
-    "lat": 45.6202,
-    "lon": -122.5587,
+    "distance": 1.39,
+    "altitude": 38000,
+    "speed": 459,
+    "timestamp": "2026-02-09T23:08:39.825Z",
+    "lat": 45.6155,
+    "lon": -122.558,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1358",
-    "aircraftType": "737",
-    "origin": "SMF",
+    "callsign": "SWA5171",
+    "aircraftType": "737 ",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T23:05:17.614Z"
+    "firstSeen": "2026-02-09T23:08:39.821Z"
   },
-  "overheadScore": 1.32,
+  "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T23:06:15.671Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T23:08:39.825Z"
 }

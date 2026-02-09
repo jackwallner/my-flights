@@ -26257,5 +26257,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 425,
     "_sessionKey": "ASA1358_2026-02-09T23"
+  },
+  {
+    "callsign": "SWA5171",
+    "flightNumber": "WN5171",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AC5041",
+    "registration": "N8928Q",
+    "firstSeen": "2026-02-09T23:08:39.821Z",
+    "lastSeen": "2026-02-09T23:08:39.821Z",
+    "duration": 0,
+    "closestDistance": 1.3856747158981897,
+    "closestAltitude": 38000,
+    "closestSpeed": 459,
+    "initialDistance": 1.3856747158981897,
+    "initialAltitude": 38000,
+    "initialSpeed": 459,
+    "_sessionKey": "SWA5171_2026-02-09T23"
   }
 ]
