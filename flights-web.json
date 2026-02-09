@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.39,
-    "altitude": 43000,
-    "speed": 447,
-    "timestamp": "2026-02-09T15:18:17.735Z",
-    "lat": 45.6285,
-    "lon": -122.5609,
+    "distance": 1.41,
+    "altitude": 2625,
+    "speed": 211,
+    "timestamp": "2026-02-09T15:38:59.253Z",
+    "lat": 45.6479,
+    "lon": -122.5374,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA571",
-    "aircraftType": "C68A",
-    "origin": "OAK",
-    "destination": "BFI",
-    "firstSeen": "2026-02-09T15:18:17.731Z"
+    "callsign": "SWA2319",
+    "aircraftType": "737",
+    "origin": "SMF",
+    "destination": "PDX",
+    "firstSeen": "2026-02-09T15:38:59.249Z"
   },
-  "overheadScore": 1.39,
+  "overheadScore": 1.41,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T15:19:15.691Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T15:38:59.253Z"
 }

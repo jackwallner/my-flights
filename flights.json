@@ -24677,5 +24677,25 @@
     "initialAltitude": 43000,
     "initialSpeed": 447,
     "_sessionKey": "EJA571_2026-02-09T15"
+  },
+  {
+    "callsign": "SWA2319",
+    "flightNumber": "WN2319",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "PDX",
+    "icao": "ABC107",
+    "registration": "N8567Z",
+    "firstSeen": "2026-02-09T15:38:59.249Z",
+    "lastSeen": "2026-02-09T15:38:59.249Z",
+    "duration": 0,
+    "closestDistance": 1.4129586993618002,
+    "closestAltitude": 2625,
+    "closestSpeed": 211,
+    "initialDistance": 1.4129586993618002,
+    "initialAltitude": 2625,
+    "initialSpeed": 211,
+    "_sessionKey": "SWA2319_2026-02-09T15"
   }
 ]
