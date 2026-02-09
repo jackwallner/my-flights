@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 35925,
-    "speed": 417,
-    "timestamp": "2026-02-09T19:09:31.386Z",
-    "lat": 45.6163,
-    "lon": -122.5243,
+    "distance": 1.42,
+    "altitude": 34850,
+    "speed": 475,
+    "timestamp": "2026-02-09T19:17:33.180Z",
+    "lat": 45.6129,
+    "lon": -122.5569,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA225",
-    "aircraftType": "Chal",
-    "origin": "PSP",
-    "destination": "BFI",
-    "firstSeen": "2026-02-09T19:09:31.382Z"
+    "callsign": "DAL8871",
+    "aircraftType": "A330",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T19:17:33.174Z"
   },
-  "overheadScore": 0.56,
-  "isOverhead": true,
+  "overheadScore": 1.42,
+  "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T19:10:30.360Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T19:17:33.180Z"
 }
