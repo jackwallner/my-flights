@@ -24757,5 +24757,25 @@
     "initialAltitude": 36000,
     "initialSpeed": 447,
     "_sessionKey": "ASA607_2026-02-09T16"
+  },
+  {
+    "callsign": "EJA407",
+    "flightNumber": "EJA407",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "BFI",
+    "icao": "A4C811",
+    "registration": "N407QS",
+    "firstSeen": "2026-02-09T16:15:39.140Z",
+    "lastSeen": "2026-02-09T16:15:39.140Z",
+    "duration": 0,
+    "closestDistance": 1.4449172326703583,
+    "closestAltitude": 40000,
+    "closestSpeed": 419,
+    "initialDistance": 1.4449172326703583,
+    "initialAltitude": 40000,
+    "initialSpeed": 419,
+    "_sessionKey": "EJA407_2026-02-09T16"
   }
 ]
