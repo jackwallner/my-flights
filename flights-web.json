@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 28000,
-    "speed": 415,
-    "timestamp": "2026-02-09T04:13:53.386Z",
-    "lat": 45.6224,
-    "lon": -122.5596,
+    "distance": 1.39,
+    "altitude": 38000,
+    "speed": 469,
+    "timestamp": "2026-02-09T04:16:04.291Z",
+    "lat": 45.6146,
+    "lon": -122.5574,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA758",
+    "callsign": "UAL2019",
     "aircraftType": "737",
     "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T04:13:53.379Z"
+    "firstSeen": "2026-02-09T04:16:04.286Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.39,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T04:14:52.335Z"
+  "timestamp": "2026-02-09T04:17:02.659Z"
 }
