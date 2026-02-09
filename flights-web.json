@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 30000,
-    "speed": 435,
-    "timestamp": "2026-02-09T21:00:22.028Z",
-    "lat": 45.6174,
-    "lon": -122.5577,
+    "distance": 1.41,
+    "altitude": 32000,
+    "speed": 440,
+    "timestamp": "2026-02-09T21:03:45.117Z",
+    "lat": 45.6149,
+    "lon": -122.5582,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AAL1577",
-    "aircraftType": "A319",
-    "origin": "PHX",
+    "callsign": "DAL8872",
+    "aircraftType": "737",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T21:00:22.023Z"
+    "firstSeen": "2026-02-09T21:03:45.113Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.41,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T21:01:20.836Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T21:03:45.117Z"
 }
