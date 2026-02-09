@@ -25777,5 +25777,25 @@
     "initialAltitude": 34825,
     "initialSpeed": 466,
     "_sessionKey": "DAL8870_2026-02-09T20"
+  },
+  {
+    "callsign": "PXT415",
+    "flightNumber": "PXT415",
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "NUQ",
+    "destination": "YVR",
+    "icao": "A4E7FB",
+    "registration": "N415PC",
+    "firstSeen": "2026-02-09T20:56:17.447Z",
+    "lastSeen": "2026-02-09T20:56:17.447Z",
+    "duration": 0,
+    "closestDistance": 1.3310272916059693,
+    "closestAltitude": 45000,
+    "closestSpeed": 362,
+    "initialDistance": 1.3310272916059693,
+    "initialAltitude": 45000,
+    "initialSpeed": 362,
+    "_sessionKey": "PXT415_2026-02-09T20"
   }
 ]

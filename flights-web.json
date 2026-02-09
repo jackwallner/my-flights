@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 34825,
-    "speed": 466,
-    "timestamp": "2026-02-09T20:50:19.902Z",
-    "lat": 45.6153,
-    "lon": -122.5574,
+    "distance": 1.33,
+    "altitude": 45000,
+    "speed": 362,
+    "timestamp": "2026-02-09T20:56:17.452Z",
+    "lat": 45.6059,
+    "lon": -122.5435,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL8870",
-    "aircraftType": "A330",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T20:50:19.898Z"
+    "callsign": "PXT415",
+    "aircraftType": "Cita",
+    "origin": "NUQ",
+    "destination": "YVR",
+    "firstSeen": "2026-02-09T20:56:17.447Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-09T20:51:17.979Z"
+  "timestamp": "2026-02-09T20:57:16.351Z"
 }
