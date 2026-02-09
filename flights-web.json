@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.2,
-    "altitude": 31675,
-    "speed": 398,
-    "timestamp": "2026-02-09T18:48:51.856Z",
-    "lat": 45.6167,
-    "lon": -122.5024,
+    "distance": 0.89,
+    "altitude": 38325,
+    "speed": 476,
+    "timestamp": "2026-02-09T19:01:20.753Z",
+    "lat": 45.6195,
+    "lon": -122.5476,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FFT2407",
-    "aircraftType": "A320",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T18:48:51.853Z"
+    "callsign": "GA7C",
+    "aircraftType": "GA7C",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T19:01:20.748Z"
   },
-  "overheadScore": 1.2,
-  "isOverhead": false,
+  "overheadScore": 0.89,
+  "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T18:49:50.469Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T19:01:20.753Z"
 }

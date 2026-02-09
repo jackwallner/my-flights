@@ -25397,5 +25397,25 @@
     "initialAltitude": 31675,
     "initialSpeed": 398,
     "_sessionKey": "FFT2407_2026-02-09T18"
+  },
+  {
+    "callsign": "GA7C",
+    "flightNumber": null,
+    "aircraftType": "GA7C",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-09T19:01:20.748Z",
+    "lastSeen": "2026-02-09T19:01:20.748Z",
+    "duration": 0,
+    "closestDistance": 0.8888939318494382,
+    "closestAltitude": 38325,
+    "closestSpeed": 476,
+    "initialDistance": 0.8888939318494382,
+    "initialAltitude": 38325,
+    "initialSpeed": 476,
+    "_sessionKey": "GA7C_2026-02-09T19"
   }
 ]
