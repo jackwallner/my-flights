@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.23,
-    "altitude": 36000,
-    "speed": 441,
-    "timestamp": "2026-02-09T02:33:31.823Z",
-    "lat": 45.6158,
-    "lon": -122.5022,
+    "distance": 1.48,
+    "altitude": 24000,
+    "speed": 401,
+    "timestamp": "2026-02-09T02:48:34.364Z",
+    "lat": 45.6109,
+    "lon": -122.5566,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2572",
-    "aircraftType": "A223",
-    "origin": "SAN",
+    "callsign": "SKW3707",
+    "aircraftType": "E175",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T02:33:31.810Z"
+    "firstSeen": "2026-02-09T02:48:34.358Z"
   },
-  "overheadScore": 1.23,
+  "overheadScore": 1.48,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-09T02:34:30.239Z"
+  "status": "tracking",
+  "timestamp": "2026-02-09T02:48:34.364Z"
 }
