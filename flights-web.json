@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 800,
-    "speed": 97,
-    "timestamp": "2026-02-09T23:59:23.898Z",
-    "lat": 45.6328,
-    "lon": -122.5222,
-    "precision": "high"
+    "distance": 0.85,
+    "altitude": 24000,
+    "speed": 362,
+    "timestamp": "2026-02-10T00:01:37.686Z",
+    "lat": 45.624,
+    "lon": -122.5079,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5107H",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-09T23:58:25.954Z"
+    "callsign": "DAL2533",
+    "aircraftType": "A223",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T00:01:37.681Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.85,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-10T00:00:15.407Z"
+  "timestamp": "2026-02-10T00:02:35.705Z"
 }
