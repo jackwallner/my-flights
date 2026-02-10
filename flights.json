@@ -26937,5 +26937,25 @@
     "initialAltitude": 38400,
     "initialSpeed": 514,
     "_sessionKey": "BLOCKED_2026-02-10T03"
+  },
+  {
+    "callsign": "ASA523",
+    "flightNumber": "AS523",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A5D007",
+    "registration": "N474AS",
+    "firstSeen": "2026-02-10T03:20:43.540Z",
+    "lastSeen": "2026-02-10T03:20:43.540Z",
+    "duration": 0,
+    "closestDistance": 1.4060427902137602,
+    "closestAltitude": 30000,
+    "closestSpeed": 414,
+    "initialDistance": 1.4060427902137602,
+    "initialAltitude": 30000,
+    "initialSpeed": 414,
+    "_sessionKey": "ASA523_2026-02-10T03"
   }
 ]

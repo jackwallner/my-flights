@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.84,
-    "altitude": 38400,
-    "speed": 514,
-    "timestamp": "2026-02-10T03:18:32.923Z",
-    "lat": 45.6253,
-    "lon": -122.5082,
+    "distance": 1.41,
+    "altitude": 30000,
+    "speed": 414,
+    "timestamp": "2026-02-10T03:20:43.544Z",
+    "lat": 45.6284,
+    "lon": -122.5613,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BLOCKED",
-    "aircraftType": "?",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-10T03:18:32.919Z"
+    "callsign": "ASA523",
+    "aircraftType": "737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T03:20:43.540Z"
   },
-  "overheadScore": 0.84,
-  "isOverhead": true,
+  "overheadScore": 1.41,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-10T03:19:31.435Z"
+  "timestamp": "2026-02-10T03:21:41.576Z"
 }
