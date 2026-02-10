@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 36000,
-    "speed": 422,
-    "timestamp": "2026-02-10T05:13:42.215Z",
-    "lat": 45.6214,
-    "lon": -122.5191,
+    "distance": 0.51,
+    "altitude": 2675,
+    "speed": 151,
+    "timestamp": "2026-02-10T15:03:30.403Z",
+    "lat": 45.6287,
+    "lon": -122.5392,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2031",
-    "aircraftType": "E175",
-    "origin": "RNO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T05:22:53.058Z"
+    "callsign": "N725KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-10T15:03:20.130Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-10T05:13:52.483Z"
+  "timestamp": "2026-02-10T15:03:40.670Z"
 }

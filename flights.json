@@ -7167,5 +7167,24 @@
     "initialDistance": 0.5282195082405644,
     "initialAltitude": 36000,
     "initialSpeed": 430
+  },
+  {
+    "callsign": "N725KP",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A9B70E",
+    "registration": "N725KP",
+    "firstSeen": "2026-02-10T15:03:20.130Z",
+    "lastSeen": "2026-02-10T15:03:30.401Z",
+    "duration": 10,
+    "closestDistance": 0.5088356571328639,
+    "closestAltitude": 2675,
+    "closestSpeed": 151,
+    "initialDistance": 0.6170994968524572,
+    "initialAltitude": 2425,
+    "initialSpeed": 147
   }
 ]
