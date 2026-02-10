@@ -2229,7 +2229,7 @@
             <td class="numeric ${distClass}">${distance.toFixed(2)}</td>
             <td class="numeric col-alt">${f.closestAltitude ? f.closestAltitude.toLocaleString() : (f.altitude ? Math.round(f.altitude) : '-')}</td>
             <td class="numeric col-speed">${f.closestSpeed || f.speed || '-'}</td>
-            <td>${formatPTTimeOnly(f.firstSeen)}</td>
+            <td>${formatTime(f.firstSeen)}</td>
             <td>
               <span class="type-badge ${typeClasses[flightType]}">
                 ${flightType.charAt(0).toUpperCase() + flightType.slice(1)}
