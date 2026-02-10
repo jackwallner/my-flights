@@ -941,7 +941,7 @@
         <div>
           <h1>Overhead Flight Tracker</h1>
           <div class="location-badge">
-            📍 Vancouver, WA — 1.5NM Detection Zone
+            📍 Overhead — 0.70NM Detection Zone
           </div>
         </div>
       </div>
@@ -1442,7 +1442,7 @@
     
     function getAirportCoord(code, type) {
       if (!code) {
-        return type === 'lat' ? 45.625 : -122.528;
+        return type === 'lat' ? 40.749 : -73.985;
       }
       
       const upperCode = code.toUpperCase();
@@ -1461,7 +1461,7 @@
       fetchAirportData(code);
       
       // Return default for now
-      return type === 'lat' ? 45.625 : -122.528;
+      return type === 'lat' ? 40.749 : -73.985;
     }
     
     function getAirportName(code) {
@@ -1558,12 +1558,12 @@
       return '';
     }
 
-    // Filter flights for display (exclude unknowns and > 1.5NM)
+    // Filter flights for display (exclude unknowns and > 0.7NM)
     function getFilteredFlights() {
       return flightHistory.filter(f => {
         const type = detectFlightType(f);
         const distance = f.closestDistance || f.distance || 999;
-        return type !== 'unknown' && distance <= 1.5;
+        return type !== 'unknown' && distance <= 0.7;
       });
     }
 
@@ -1705,7 +1705,7 @@
       }
       
       // Home location
-      const home = { lat: 45.625, lon: -122.528 };
+      const home = { lat: 40.749, lon: -73.985 };
       
       // Clean up old map
       if (currentMap) {
@@ -1911,7 +1911,7 @@
     function renderHistoryTable() {
       const tbody = document.getElementById('table-body');
       
-      // Filter flights (unknowns and > 1.5NM already excluded)
+      // Filter flights (unknowns and > 0.7NM already excluded)
       let flights = getFilteredFlights();
       if (currentFilter !== 'all') {
         flights = flights.filter(f => detectFlightType(f) === currentFilter);
