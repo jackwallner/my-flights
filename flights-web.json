@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.46,
-    "altitude": 32000,
-    "speed": 418,
-    "timestamp": "2026-02-10T02:11:50.197Z",
-    "lat": 45.6096,
-    "lon": -122.5548,
+    "distance": 1.38,
+    "altitude": 30000,
+    "speed": 406,
+    "timestamp": "2026-02-10T02:14:31.470Z",
+    "lat": 45.6152,
+    "lon": -122.5577,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA665",
+    "callsign": "ASA1345",
     "aircraftType": "737",
-    "origin": "ONT",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T02:11:50.193Z"
+    "firstSeen": "2026-02-10T02:14:31.464Z"
   },
-  "overheadScore": 1.46,
+  "overheadScore": 1.38,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-10T02:12:48.126Z"
+  "timestamp": "2026-02-10T02:15:30.244Z"
 }
