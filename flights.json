@@ -26817,5 +26817,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 406,
     "_sessionKey": "ASA1345_2026-02-10T02"
+  },
+  {
+    "callsign": "ASA608",
+    "flightNumber": "AS608",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "ACB46D",
+    "registration": "N918AK",
+    "firstSeen": "2026-02-10T02:19:37.862Z",
+    "lastSeen": "2026-02-10T02:19:37.862Z",
+    "duration": 0,
+    "closestDistance": 1.3332779928642853,
+    "closestAltitude": 30000,
+    "closestSpeed": 436,
+    "initialDistance": 1.3332779928642853,
+    "initialAltitude": 30000,
+    "initialSpeed": 436,
+    "_sessionKey": "ASA608_2026-02-10T02"
   }
 ]
