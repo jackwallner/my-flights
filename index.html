@@ -1904,7 +1904,7 @@
       `;
       
       // Initialize Leaflet map after DOM update
-      setTimeout(() => initFlightMap(flight, approach), 0);
+      setTimeout(() => initFlightMap(flight, approach, data.trail), 0);
     }
     
     let currentMap = null;
@@ -1917,7 +1917,7 @@
         : 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png';
     }
 
-    function initFlightMap(flight, approach) {
+    function initFlightMap(flight, approach, trail) {
       const originCode = flight.origin?.toUpperCase();
       const destCode = flight.destination?.toUpperCase();
 
@@ -1930,7 +1930,7 @@
         Promise.all([
           fetchAirportData(originCode),
           fetchAirportData(destCode)
-        ]).then(() => initFlightMap(flight, approach));
+        ]).then(() => initFlightMap(flight, approach, trail));
         return;
       }
 
@@ -1992,17 +1992,30 @@
         fillOpacity: 0.06
       }).addTo(map);
 
-      // Full route line (great circle)
-      const routePoints = calculateGreatCirclePoints(origin, dest, 100);
-      L.polyline(routePoints.map(p => [p.lat, p.lon]), {
-        color: '#3b82f6', weight: 3, opacity: 0.5
-      }).addTo(map);
+      // Route line: use actual trail if available, otherwise great circle
+      const hasTrail = Array.isArray(trail) && trail.length >= 2;
+      if (hasTrail) {
+        // Actual tracked positions (bright, thicker)
+        L.polyline(trail, {
+          color: '#3b82f6', weight: 4, opacity: 0.8
+        }).addTo(map);
+      } else {
+        // Fallback: great circle estimate (dimmer)
+        const routePoints = calculateGreatCirclePoints(origin, dest, 100);
+        L.polyline(routePoints.map(p => [p.lat, p.lon]), {
+          color: '#3b82f6', weight: 3, opacity: 0.4, dashArray: '6 4'
+        }).addTo(map);
+      }
 
       // Plane position
       let planePos;
       if (approach.lat && approach.lon) {
         planePos = { lat: approach.lat, lon: approach.lon };
+      } else if (hasTrail) {
+        const last = trail[trail.length - 1];
+        planePos = { lat: last[0], lon: last[1] };
       } else {
+        const routePoints = calculateGreatCirclePoints(origin, dest, 100);
         planePos = calculateClosestPointOnGreatCircle(home, routePoints);
       }
 
