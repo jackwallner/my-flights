@@ -7186,5 +7186,24 @@
     "initialDistance": 0.6170994968524572,
     "initialAltitude": 2425,
     "initialSpeed": 147
+  },
+  {
+    "callsign": "N684AK",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "RAL",
+    "destination": "BFI",
+    "icao": "A9121D",
+    "registration": "N684AK",
+    "firstSeen": "2026-02-10T21:36:40.022Z",
+    "lastSeen": "2026-02-10T21:36:40.022Z",
+    "duration": 0,
+    "closestDistance": 0.2655200742511898,
+    "closestAltitude": 26000,
+    "closestSpeed": 272,
+    "initialDistance": 0.2655200742511898,
+    "initialAltitude": 26000,
+    "initialSpeed": 272
   }
 ]
