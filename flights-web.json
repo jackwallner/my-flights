@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.02,
-    "altitude": 34000,
-    "speed": 414,
-    "timestamp": "2026-02-10T01:08:39.546Z",
-    "lat": 45.621,
-    "lon": -122.5047,
+    "distance": 1.42,
+    "altitude": 24000,
+    "speed": 375,
+    "timestamp": "2026-02-10T01:42:01.893Z",
+    "lat": 45.6129,
+    "lon": -122.557,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6481",
-    "aircraftType": "CRJ",
-    "origin": "LAX",
+    "callsign": "UAL2279",
+    "aircraftType": "A320",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T01:08:39.541Z"
+    "firstSeen": "2026-02-10T01:42:01.887Z"
   },
-  "overheadScore": 1.02,
+  "overheadScore": 1.42,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-10T01:09:38.103Z"
+  "timestamp": "2026-02-10T01:42:59.930Z"
 }

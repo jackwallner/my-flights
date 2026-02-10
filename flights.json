@@ -26637,5 +26637,25 @@
     "initialAltitude": 34000,
     "initialSpeed": 414,
     "_sessionKey": "SKW6481_2026-02-10T01"
+  },
+  {
+    "callsign": "UAL2279",
+    "flightNumber": "UA2279",
+    "aircraftType": "A320",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A612A6",
+    "registration": "N4901U",
+    "firstSeen": "2026-02-10T01:42:01.887Z",
+    "lastSeen": "2026-02-10T01:42:01.887Z",
+    "duration": 0,
+    "closestDistance": 1.422751390381134,
+    "closestAltitude": 24000,
+    "closestSpeed": 375,
+    "initialDistance": 1.422751390381134,
+    "initialAltitude": 24000,
+    "initialSpeed": 375,
+    "_sessionKey": "UAL2279_2026-02-10T01"
   }
 ]
