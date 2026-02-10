@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.41,
-    "altitude": 30000,
-    "speed": 414,
-    "timestamp": "2026-02-10T03:20:43.544Z",
-    "lat": 45.6284,
-    "lon": -122.5613,
+    "distance": 1.37,
+    "altitude": 38000,
+    "speed": 471,
+    "timestamp": "2026-02-10T03:24:35.379Z",
+    "lat": 45.6273,
+    "lon": -122.5607,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA523",
-    "aircraftType": "737",
-    "origin": "SJC",
+    "callsign": "ABX3111",
+    "aircraftType": "767",
+    "origin": "SCK",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:20:43.540Z"
+    "firstSeen": "2026-02-10T03:24:35.374Z"
   },
-  "overheadScore": 1.41,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-10T03:21:41.576Z"
+  "status": "tracking",
+  "timestamp": "2026-02-10T03:24:35.381Z"
 }
