@@ -26917,5 +26917,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 403,
     "_sessionKey": "ASA774_2026-02-10T03"
+  },
+  {
+    "callsign": "BLOCKED",
+    "flightNumber": null,
+    "aircraftType": null,
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-10T03:18:32.919Z",
+    "lastSeen": "2026-02-10T03:18:32.919Z",
+    "duration": 0,
+    "closestDistance": 0.8360755104331412,
+    "closestAltitude": 38400,
+    "closestSpeed": 514,
+    "initialDistance": 0.8360755104331412,
+    "initialAltitude": 38400,
+    "initialSpeed": 514,
+    "_sessionKey": "BLOCKED_2026-02-10T03"
   }
 ]
