@@ -26697,5 +26697,25 @@
     "initialAltitude": 27975,
     "initialSpeed": 418,
     "_sessionKey": "DAL2606_2026-02-10T01"
+  },
+  {
+    "callsign": "SKW3707",
+    "flightNumber": "DL3707",
+    "aircraftType": "E75S",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A7D665",
+    "registration": "N604CZ",
+    "firstSeen": "2026-02-10T01:59:32.125Z",
+    "lastSeen": "2026-02-10T01:59:32.125Z",
+    "duration": 0,
+    "closestDistance": 1.338657027673893,
+    "closestAltitude": 26000,
+    "closestSpeed": 393,
+    "initialDistance": 1.338657027673893,
+    "initialAltitude": 26000,
+    "initialSpeed": 393,
+    "_sessionKey": "SKW3707_2026-02-10T01"
   }
 ]
