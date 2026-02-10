@@ -26877,5 +26877,25 @@
     "initialAltitude": 38000,
     "initialSpeed": 468,
     "_sessionKey": "SWA3678_2026-02-10T02"
+  },
+  {
+    "callsign": "ASA1359",
+    "flightNumber": "AS1359",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "AB1FB0",
+    "registration": "N816AK",
+    "firstSeen": "2026-02-10T02:43:30.344Z",
+    "lastSeen": "2026-02-10T02:43:30.344Z",
+    "duration": 0,
+    "closestDistance": 1.3344064153922095,
+    "closestAltitude": 36000,
+    "closestSpeed": 439,
+    "initialDistance": 1.3344064153922095,
+    "initialAltitude": 36000,
+    "initialSpeed": 439,
+    "_sessionKey": "ASA1359_2026-02-10T02"
   }
 ]

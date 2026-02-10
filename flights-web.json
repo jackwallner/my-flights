@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.37,
-    "altitude": 38000,
-    "speed": 468,
-    "timestamp": "2026-02-10T02:32:04.723Z",
-    "lat": 45.6168,
-    "lon": -122.5583,
+    "distance": 1.33,
+    "altitude": 36000,
+    "speed": 439,
+    "timestamp": "2026-02-10T02:43:30.349Z",
+    "lat": 45.6236,
+    "lon": -122.5598,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3678",
+    "callsign": "ASA1359",
     "aircraftType": "737 ",
-    "origin": "SMF",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T02:32:04.719Z"
+    "firstSeen": "2026-02-10T02:43:30.344Z"
   },
-  "overheadScore": 1.37,
+  "overheadScore": 1.33,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-10T02:33:02.900Z"
+  "status": "tracking",
+  "timestamp": "2026-02-10T02:43:30.349Z"
 }
