@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.36,
-    "altitude": 26000,
-    "speed": 397,
-    "timestamp": "2026-02-10T02:03:45.911Z",
-    "lat": 45.6255,
-    "lon": -122.5604,
+    "distance": 1.23,
+    "altitude": 30325,
+    "speed": 409,
+    "timestamp": "2026-02-10T02:08:10.189Z",
+    "lat": 45.6159,
+    "lon": -122.502,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA591",
+    "callsign": "ASA408",
     "aircraftType": "B39M",
-    "origin": "SFO",
+    "origin": "FAT",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T02:03:45.907Z"
+    "firstSeen": "2026-02-10T02:08:10.184Z"
   },
-  "overheadScore": 1.36,
+  "overheadScore": 1.23,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-10T02:04:44.613Z"
+  "timestamp": "2026-02-10T02:09:08.748Z"
 }
