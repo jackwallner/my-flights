@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 26000,
-    "speed": 389,
-    "timestamp": "2026-02-10T00:55:06.062Z",
-    "lat": 45.6287,
-    "lon": -122.5611,
+    "distance": 1.37,
+    "altitude": 38000,
+    "speed": 458,
+    "timestamp": "2026-02-10T00:57:47.666Z",
+    "lat": 45.6252,
+    "lon": -122.5607,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3789",
-    "aircraftType": "E175",
-    "origin": "SJC",
+    "callsign": "ASA687",
+    "aircraftType": "737",
+    "origin": "SBA",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T00:55:06.057Z"
+    "firstSeen": "2026-02-10T00:57:47.661Z"
   },
-  "overheadScore": 1.4,
+  "overheadScore": 1.37,
   "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-10T00:56:04.537Z"
+  "timestamp": "2026-02-10T00:58:45.808Z"
 }
