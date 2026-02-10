@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.33,
-    "altitude": 36000,
-    "speed": 439,
-    "timestamp": "2026-02-10T02:43:30.349Z",
-    "lat": 45.6236,
-    "lon": -122.5598,
+    "distance": 1.18,
+    "altitude": 30000,
+    "speed": 403,
+    "timestamp": "2026-02-10T03:11:13.919Z",
+    "lat": 45.6167,
+    "lon": -122.5027,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1359",
-    "aircraftType": "737 ",
-    "origin": "OAK",
+    "callsign": "ASA774",
+    "aircraftType": "737",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T02:43:30.344Z"
+    "firstSeen": "2026-02-10T03:11:13.913Z"
   },
-  "overheadScore": 1.33,
+  "overheadScore": 1.18,
   "isOverhead": false,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-10T02:44:28.476Z"
+  "status": "tracking",
+  "timestamp": "2026-02-10T03:11:13.919Z"
 }
