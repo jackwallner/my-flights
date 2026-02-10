@@ -26857,5 +26857,25 @@
     "initialAltitude": 32000,
     "initialSpeed": 415,
     "_sessionKey": "ASA683_2026-02-10T02"
+  },
+  {
+    "callsign": "SWA3678",
+    "flightNumber": "WN3678",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "AC4279",
+    "registration": "N8896L",
+    "firstSeen": "2026-02-10T02:32:04.719Z",
+    "lastSeen": "2026-02-10T02:32:04.719Z",
+    "duration": 0,
+    "closestDistance": 1.3661122737994624,
+    "closestAltitude": 38000,
+    "closestSpeed": 468,
+    "initialDistance": 1.3661122737994624,
+    "initialAltitude": 38000,
+    "initialSpeed": 468,
+    "_sessionKey": "SWA3678_2026-02-10T02"
   }
 ]
