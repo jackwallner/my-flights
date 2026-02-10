@@ -1067,7 +1067,7 @@
         <div>
           <h1>Overhead Flight Tracker</h1>
           <div class="location-badge">
-            📍 Vancouver, WA — 1.5NM Detection Zone
+            📍 Vancouver, WA — 0.70NM Detection Zone
           </div>
         </div>
       </div>
@@ -1106,27 +1106,6 @@
       </button>
     </div>
     
-    <!-- Daily Stats Panel -->
-    <div id="stats-panel" class="stats-panel" style="display: none;">
-      <div class="stats-panel-section">
-        <h3>Last 7 Days</h3>
-        <div id="bar-chart" class="bar-chart"></div>
-      </div>
-      <div class="stats-panel-section">
-        <h3>Busiest Hour</h3>
-        <div id="busiest-hour">
-          <div class="busiest-hour-display">--</div>
-          <div class="busiest-hour-count">No data yet</div>
-        </div>
-      </div>
-      <div class="stats-panel-section">
-        <h3>Top Airlines</h3>
-        <ul id="top-airlines" class="top-airlines-list">
-          <li style="color: var(--text-muted); font-size: 13px;">No data yet</li>
-        </ul>
-      </div>
-    </div>
-
     <!-- Current Flight Badge (above the map) -->
     <div id="header-flight" style="text-align: center; margin-bottom: 16px;"></div>
 
@@ -1176,6 +1155,27 @@
           </tr>
         </tbody>
       </table>
+    </div>
+
+    <!-- Daily Stats Panel -->
+    <div id="stats-panel" class="stats-panel" style="display: none;">
+      <div class="stats-panel-section">
+        <h3>Last 7 Days</h3>
+        <div id="bar-chart" class="bar-chart"></div>
+      </div>
+      <div class="stats-panel-section">
+        <h3>Busiest Hour</h3>
+        <div id="busiest-hour">
+          <div class="busiest-hour-display">--</div>
+          <div class="busiest-hour-count">No data yet</div>
+        </div>
+      </div>
+      <div class="stats-panel-section">
+        <h3>Top Airlines</h3>
+        <ul id="top-airlines" class="top-airlines-list">
+          <li style="color: var(--text-muted); font-size: 13px;">No data yet</li>
+        </ul>
+      </div>
     </div>
 
     <div class="timestamp" id="timestamp">Last updated: --</div>
@@ -1712,12 +1712,12 @@
       return '';
     }
 
-    // Filter flights for display (exclude unknowns and > 1.5NM)
+    // Filter flights for display (exclude unknowns and > 0.70NM detection zone)
     function getFilteredFlights() {
       return flightHistory.filter(f => {
         const type = detectFlightType(f);
         const distance = f.closestDistance || f.distance || 999;
-        return type !== 'unknown' && distance <= 1.5;
+        return type !== 'unknown' && distance <= 0.70;
       });
     }
 
@@ -2132,7 +2132,7 @@
     function renderHistoryTable() {
       const tbody = document.getElementById('table-body');
       
-      // Filter flights (unknowns and > 1.5NM already excluded)
+      // Filter flights (unknowns and > 0.70NM already excluded)
       let flights = getFilteredFlights();
       if (currentFilter !== 'all') {
         flights = flights.filter(f => detectFlightType(f) === currentFilter);
