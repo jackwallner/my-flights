@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.93,
-    "altitude": 32000,
-    "speed": 412,
-    "timestamp": "2026-02-10T03:31:36.022Z",
-    "lat": 45.6218,
-    "lon": -122.5065,
+    "distance": 1.33,
+    "altitude": 30000,
+    "speed": 417,
+    "timestamp": "2026-02-10T03:38:12.913Z",
+    "lat": 45.62,
+    "lon": -122.5589,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2318",
-    "aircraftType": "A220",
-    "origin": "SNA",
+    "callsign": "ASA758",
+    "aircraftType": "737",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:31:36.018Z"
+    "firstSeen": "2026-02-10T03:38:12.907Z"
   },
-  "overheadScore": 0.93,
-  "isOverhead": true,
+  "overheadScore": 1.33,
+  "isOverhead": false,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-10T03:32:33.533Z"
+  "timestamp": "2026-02-10T03:39:10.649Z"
 }
