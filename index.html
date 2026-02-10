@@ -1992,24 +1992,19 @@
         fillOpacity: 0.06
       }).addTo(map);
 
+      // Full route line (great circle)
+      const routePoints = calculateGreatCirclePoints(origin, dest, 100);
+      L.polyline(routePoints.map(p => [p.lat, p.lon]), {
+        color: '#3b82f6', weight: 3, opacity: 0.5
+      }).addTo(map);
+
       // Plane position
       let planePos;
       if (approach.lat && approach.lon) {
         planePos = { lat: approach.lat, lon: approach.lon };
       } else {
-        const routePointsAll = calculateGreatCirclePoints(origin, dest, 100);
-        planePos = calculateClosestPointOnGreatCircle(home, routePointsAll);
+        planePos = calculateClosestPointOnGreatCircle(home, routePoints);
       }
-
-      // Split route: solid origin→plane, dashed plane→dest
-      const routeToPlane = calculateGreatCirclePoints(origin, planePos, 50);
-      const routeFromPlane = calculateGreatCirclePoints(planePos, dest, 50);
-      L.polyline(routeToPlane.map(p => [p.lat, p.lon]), {
-        color: '#3b82f6', weight: 4, opacity: 0.6
-      }).addTo(map);
-      L.polyline(routeFromPlane.map(p => [p.lat, p.lon]), {
-        color: '#3b82f6', weight: 3, opacity: 0.4, dashArray: '8 6'
-      }).addTo(map);
 
       // Airplane marker
       const track = approach.track || calculateBearing(planePos.lat, planePos.lon, dest.lat, dest.lon);
