@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 1.4,
-    "altitude": 36000,
-    "speed": 433,
-    "timestamp": "2026-02-10T03:28:44.783Z",
-    "lat": 45.6126,
-    "lon": -122.5,
+    "distance": 0.93,
+    "altitude": 32000,
+    "speed": 412,
+    "timestamp": "2026-02-10T03:31:36.022Z",
+    "lat": 45.6218,
+    "lon": -122.5065,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1837",
-    "aircraftType": "737",
-    "origin": "SJD",
+    "callsign": "DAL2318",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:28:44.778Z"
+    "firstSeen": "2026-02-10T03:31:36.018Z"
   },
-  "overheadScore": 1.4,
-  "isOverhead": false,
+  "overheadScore": 0.93,
+  "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-10T03:29:42.386Z"
+  "timestamp": "2026-02-10T03:32:33.533Z"
 }
