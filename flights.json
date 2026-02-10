@@ -26837,5 +26837,25 @@
     "initialAltitude": 30000,
     "initialSpeed": 436,
     "_sessionKey": "ASA608_2026-02-10T02"
+  },
+  {
+    "callsign": "ASA683",
+    "flightNumber": "AS683",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A1EFE7",
+    "registration": "N224AK",
+    "firstSeen": "2026-02-10T02:28:30.263Z",
+    "lastSeen": "2026-02-10T02:28:30.263Z",
+    "duration": 0,
+    "closestDistance": 1.1963042668536263,
+    "closestAltitude": 32000,
+    "closestSpeed": 415,
+    "initialDistance": 1.1963042668536263,
+    "initialAltitude": 32000,
+    "initialSpeed": 415,
+    "_sessionKey": "ASA683_2026-02-10T02"
   }
 ]
