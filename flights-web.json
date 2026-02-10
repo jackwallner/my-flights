@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.53,
+    "distance": 0.44,
     "altitude": 36000,
-    "speed": 430,
-    "timestamp": "2026-02-10T04:42:50.912Z",
-    "lat": 45.6165,
-    "lon": -122.5289,
+    "speed": 422,
+    "timestamp": "2026-02-10T05:13:42.215Z",
+    "lat": 45.6214,
+    "lon": -122.5191,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA5175",
-    "aircraftType": "737 ",
-    "origin": "SFO",
+    "callsign": "QXE2031",
+    "aircraftType": "E175",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T04:42:50.909Z"
+    "firstSeen": "2026-02-09T05:22:53.058Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.44,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-10T04:43:11.458Z"
+  "timestamp": "2026-02-10T05:13:52.483Z"
 }
