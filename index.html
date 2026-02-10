@@ -760,6 +760,132 @@
       color: var(--text-muted);
     }
 
+    /* Stats Panel */
+    .stats-panel {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: var(--shadow);
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 24px;
+    }
+
+    .stats-panel-section h3 {
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+    }
+
+    .bar-chart {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .bar-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12px;
+    }
+
+    .bar-label {
+      width: 52px;
+      text-align: right;
+      color: var(--text-secondary);
+      font-weight: 500;
+      flex-shrink: 0;
+    }
+
+    .bar-track {
+      flex: 1;
+      height: 18px;
+      background: var(--bg-page);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    .bar-fill {
+      height: 100%;
+      background: var(--accent);
+      border-radius: 4px;
+      min-width: 2px;
+      transition: width 0.3s ease;
+    }
+
+    .bar-count {
+      width: 24px;
+      font-family: 'SF Mono', Monaco, monospace;
+      font-weight: 600;
+      font-size: 12px;
+      color: var(--text-primary);
+    }
+
+    .busiest-hour-display {
+      font-family: 'SF Mono', Monaco, monospace;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+
+    .busiest-hour-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+
+    .top-airlines-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .top-airlines-list li {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 14px;
+    }
+
+    .top-airlines-list .rank {
+      font-weight: 700;
+      color: var(--text-muted);
+      margin-right: 8px;
+      font-size: 12px;
+    }
+
+    .top-airlines-list .airline-label {
+      flex: 1;
+      font-weight: 500;
+      color: var(--text-primary);
+    }
+
+    .top-airlines-list .count-badge {
+      font-family: 'SF Mono', Monaco, monospace;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 2px 8px;
+      background: var(--bg-page);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      color: var(--text-secondary);
+    }
+
+    @media (max-width: 768px) {
+      .stats-panel {
+        grid-template-columns: 1fr;
+        gap: 20px;
+      }
+    }
+
     /* Globe Map Section */
     .map-section {
       margin-top: 20px;
@@ -980,6 +1106,27 @@
       </button>
     </div>
     
+    <!-- Daily Stats Panel -->
+    <div id="stats-panel" class="stats-panel" style="display: none;">
+      <div class="stats-panel-section">
+        <h3>Last 7 Days</h3>
+        <div id="bar-chart" class="bar-chart"></div>
+      </div>
+      <div class="stats-panel-section">
+        <h3>Busiest Hour</h3>
+        <div id="busiest-hour">
+          <div class="busiest-hour-display">--</div>
+          <div class="busiest-hour-count">No data yet</div>
+        </div>
+      </div>
+      <div class="stats-panel-section">
+        <h3>Top Airlines</h3>
+        <ul id="top-airlines" class="top-airlines-list">
+          <li style="color: var(--text-muted); font-size: 13px;">No data yet</li>
+        </ul>
+      </div>
+    </div>
+
     <!-- Current Flight Badge (above the map) -->
     <div id="header-flight" style="text-align: center; margin-bottom: 16px;"></div>
 
@@ -1130,6 +1277,7 @@
     let currentFilter = 'all';
     let currentSort = { column: 'firstSeen', direction: 'desc' };
     let lastData = null;
+    let faviconPulseBright = true;
 
     // Theme handling
     function initTheme() {
@@ -1144,6 +1292,12 @@
       document.documentElement.setAttribute('data-theme', next);
       localStorage.setItem('theme', next);
       updateThemeButton(next);
+
+      // Swap map tiles if a map is active
+      if (currentMap && currentTileLayer) {
+        currentMap.removeLayer(currentTileLayer);
+        currentTileLayer = L.tileLayer(getMapTileUrl(), { maxZoom: 19 }).addTo(currentMap);
+      }
     }
 
     function updateThemeButton(theme) {
@@ -1608,6 +1762,77 @@
       return `${Math.floor(hours / 24)}d ago`;
     }
 
+    function renderDailyStats() {
+      const filtered = getFilteredFlights();
+      const panel = document.getElementById('stats-panel');
+      if (filtered.length === 0) {
+        panel.style.display = 'none';
+        return;
+      }
+      panel.style.display = '';
+
+      // --- Last 7 days bar chart ---
+      const now = new Date();
+      const dayMs = 24 * 60 * 60 * 1000;
+      const dayCounts = [];
+      for (let i = 6; i >= 0; i--) {
+        const d = new Date(now.getTime() - i * dayMs);
+        const label = d.toLocaleDateString('en-US', { timeZone: 'America/Los_Angeles', weekday: 'short', month: 'numeric', day: 'numeric' });
+        const dateStr = d.toLocaleDateString('en-US', { timeZone: 'America/Los_Angeles', year: 'numeric', month: '2-digit', day: '2-digit' });
+        dayCounts.push({ label, dateStr, count: 0 });
+      }
+      filtered.forEach(f => {
+        const fDate = new Date(f.firstSeen || f.timestamp);
+        const fStr = fDate.toLocaleDateString('en-US', { timeZone: 'America/Los_Angeles', year: 'numeric', month: '2-digit', day: '2-digit' });
+        const match = dayCounts.find(d => d.dateStr === fStr);
+        if (match) match.count++;
+      });
+      const maxCount = Math.max(...dayCounts.map(d => d.count), 1);
+      document.getElementById('bar-chart').innerHTML = dayCounts.map(d => `
+        <div class="bar-row">
+          <span class="bar-label">${d.label}</span>
+          <div class="bar-track"><div class="bar-fill" style="width: ${(d.count / maxCount * 100)}%"></div></div>
+          <span class="bar-count">${d.count}</span>
+        </div>
+      `).join('');
+
+      // --- Busiest hour ---
+      const hourCounts = new Array(24).fill(0);
+      filtered.forEach(f => {
+        const h = parseInt(new Date(f.firstSeen || f.timestamp).toLocaleString('en-US', { timeZone: 'America/Los_Angeles', hour: 'numeric', hour12: false }));
+        if (!isNaN(h)) hourCounts[h]++;
+      });
+      let peakHour = 0;
+      hourCounts.forEach((c, i) => { if (c > hourCounts[peakHour]) peakHour = i; });
+      const peakLabel = new Date(2000, 0, 1, peakHour).toLocaleTimeString('en-US', { hour: 'numeric', hour12: true });
+      const busiestEl = document.getElementById('busiest-hour');
+      busiestEl.innerHTML = `
+        <div class="busiest-hour-display">${peakLabel}</div>
+        <div class="busiest-hour-count">${hourCounts[peakHour]} flight${hourCounts[peakHour] !== 1 ? 's' : ''}</div>
+      `;
+
+      // --- Top 3 airlines ---
+      const airlineCounts = {};
+      filtered.forEach(f => {
+        const info = getAirlineInfo(f.flightNumber, f.callsign);
+        const name = info.name;
+        airlineCounts[name] = (airlineCounts[name] || 0) + 1;
+      });
+      const sorted = Object.entries(airlineCounts).sort((a, b) => b[1] - a[1]).slice(0, 3);
+      const listEl = document.getElementById('top-airlines');
+      if (sorted.length === 0) {
+        listEl.innerHTML = '<li style="color: var(--text-muted); font-size: 13px;">No data yet</li>';
+      } else {
+        listEl.innerHTML = sorted.map(([name, count], i) => `
+          <li>
+            <span class="rank">${i + 1}.</span>
+            <span class="airline-label">${name}</span>
+            <span class="count-badge">${count}</span>
+          </li>
+        `).join('');
+      }
+    }
+
     function renderCurrentFlight(data) {
       const container = document.getElementById('current-flight');
       const headerFlight = document.getElementById('header-flight');
@@ -1669,7 +1894,7 @@
             <span class="map-icon">🗺️</span>
             <span class="map-title">Flight Path</span>
           </div>
-          <div id="flight-map" style="width: 100%; height: 220px; border-radius: 8px;"></div>
+          <div id="flight-map" style="width: 100%; height: 300px; border-radius: 8px;"></div>
           <div class="map-route">
             <span class="map-airport" title="${getAirportName(flight.origin)}">${flight.origin || '???'}</span>
             <span class="map-arrow">→</span>
@@ -1683,123 +1908,119 @@
     }
     
     let currentMap = null;
-    
+    let currentTileLayer = null;
+
+    function getMapTileUrl() {
+      const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      return isDark
+        ? 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
+        : 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png';
+    }
+
     function initFlightMap(flight, approach) {
       const originCode = flight.origin?.toUpperCase();
       const destCode = flight.destination?.toUpperCase();
-      
-      // Try hardcoded first, then cache
+
       const origin = AIRPORT_COORDS[originCode] || airportCache.get(originCode);
       const dest = AIRPORT_COORDS[destCode] || airportCache.get(destCode);
-      
+
       if (!origin || !dest) {
-        document.getElementById('flight-map').innerHTML = 
+        document.getElementById('flight-map').innerHTML =
           '<div style="padding: 100px; text-align: center; color: var(--text-muted);">Loading airport data...</div>';
-        
-        // Fetch and retry
         Promise.all([
           fetchAirportData(originCode),
           fetchAirportData(destCode)
         ]).then(() => initFlightMap(flight, approach));
         return;
       }
-      
-      // Home location
+
       const home = { lat: 45.625, lon: -122.528 };
-      
-      // Clean up old map
+
       if (currentMap) {
         currentMap.remove();
         currentMap = null;
+        currentTileLayer = null;
       }
-      
-      // Create map
+
       const map = L.map('flight-map', {
-        zoomControl: false,
+        zoomControl: true,
         attributionControl: false
       });
       currentMap = map;
-      
-      // Add minimal tiles (CartoDB Voyager - very clean, minimal labels)
-      L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-        maxZoom: 19
-      }).addTo(map);
-      
-      // Create bounds that include origin, destination, and home
+
+      currentTileLayer = L.tileLayer(getMapTileUrl(), { maxZoom: 19 }).addTo(map);
+
       const bounds = L.latLngBounds([
         [origin.lat, origin.lon],
         [dest.lat, dest.lon],
         [home.lat, home.lon]
       ]);
-      
-      // Fit map to bounds with padding
       map.fitBounds(bounds, { padding: [50, 50] });
-      
-      // Custom icons
+
+      // Origin / destination markers
       const originIcon = L.divIcon({
         className: 'custom-marker',
         html: '<div style="background: #10b981; width: 16px; height: 16px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 6px rgba(0,0,0,0.3);"></div>',
-        iconSize: [16, 16],
-        iconAnchor: [8, 8]
+        iconSize: [16, 16], iconAnchor: [8, 8]
       });
-      
       const destIcon = L.divIcon({
         className: 'custom-marker',
         html: '<div style="background: #ef4444; width: 16px; height: 16px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 6px rgba(0,0,0,0.3);"></div>',
-        iconSize: [16, 16],
-        iconAnchor: [8, 8]
+        iconSize: [16, 16], iconAnchor: [8, 8]
       });
-      
+      // Home marker: small orange dot (no emoji)
       const homeIcon = L.divIcon({
         className: 'custom-marker',
-        html: '<div style="background: #f59e0b; width: 20px; height: 20px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 6px rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; font-size: 12px;">🏠</div>',
-        iconSize: [20, 20],
-        iconAnchor: [10, 10]
+        html: '<div style="background: #f59e0b; width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 6px rgba(0,0,0,0.3);"></div>',
+        iconSize: [12, 12], iconAnchor: [6, 6]
       });
-      
-      // Add origin and destination markers
+
       L.marker([origin.lat, origin.lon], { icon: originIcon }).addTo(map)
         .bindPopup(`<b>${flight.origin}</b><br>${getAirportName(flight.origin)}`);
-      
       L.marker([dest.lat, dest.lon], { icon: destIcon }).addTo(map)
         .bindPopup(`<b>${flight.destination}</b><br>${getAirportName(flight.destination)}`);
-      
-      // Draw curved route line (great circle) - solid line for visibility
-      const routePoints = calculateGreatCirclePoints(origin, dest, 100);
-      L.polyline(routePoints.map(p => [p.lat, p.lon]), {
-        color: '#3b82f6',
-        weight: 4,
-        opacity: 0.6
+      L.marker([home.lat, home.lon], { icon: homeIcon }).addTo(map)
+        .bindPopup('Home');
+
+      // Detection zone circle (0.70 NM = ~1296 m)
+      L.circle([home.lat, home.lon], {
+        radius: 1296,
+        color: '#f59e0b',
+        weight: 1.5,
+        dashArray: '6 4',
+        fillColor: '#f59e0b',
+        fillOpacity: 0.06
       }).addTo(map);
-      
-      // Get plane position - use actual position if available, otherwise closest point on curved route
+
+      // Plane position
       let planePos;
       if (approach.lat && approach.lon) {
         planePos = { lat: approach.lat, lon: approach.lon };
       } else {
-        // Calculate closest point on great circle route to home
-        planePos = calculateClosestPointOnGreatCircle(home, routePoints);
+        const routePointsAll = calculateGreatCirclePoints(origin, dest, 100);
+        planePos = calculateClosestPointOnGreatCircle(home, routePointsAll);
       }
-      
-      // Add airplane marker with rotation based on track/heading if available
+
+      // Split route: solid origin→plane, dashed plane→dest
+      const routeToPlane = calculateGreatCirclePoints(origin, planePos, 50);
+      const routeFromPlane = calculateGreatCirclePoints(planePos, dest, 50);
+      L.polyline(routeToPlane.map(p => [p.lat, p.lon]), {
+        color: '#3b82f6', weight: 4, opacity: 0.6
+      }).addTo(map);
+      L.polyline(routeFromPlane.map(p => [p.lat, p.lon]), {
+        color: '#3b82f6', weight: 3, opacity: 0.4, dashArray: '8 6'
+      }).addTo(map);
+
+      // Airplane marker
       const track = approach.track || calculateBearing(planePos.lat, planePos.lon, dest.lat, dest.lon);
       const planeIcon = L.divIcon({
         className: 'plane-marker',
         html: `<div style="font-size: 24px; transform: rotate(${track}deg); transform-origin: center;">✈️</div>`,
-        iconSize: [30, 30],
-        iconAnchor: [15, 15]
+        iconSize: [30, 30], iconAnchor: [15, 15]
       });
-      
+      const callsign = flight.callsign || '';
       L.marker([planePos.lat, planePos.lon], { icon: planeIcon }).addTo(map)
-        .bindPopup(`<b>${flight.callsign}</b><br>${approach.distance?.toFixed(2) || '?'} NM from you<br>${approach.altitude?.toLocaleString() || '?'} ft @ ${approach.speed || '?'} kts`);
-      
-      // Add bearing line from plane toward destination
-      const bearingEnd = calculateEndpoint(planePos.lat, planePos.lon, track, 50);
-      L.polyline([[planePos.lat, planePos.lon], [bearingEnd.lat, bearingEnd.lon]], {
-        color: '#ef4444',
-        weight: 2,
-        opacity: 0.6
-      }).addTo(map);
+        .bindPopup(`<b>${callsign}</b><br>${approach.distance?.toFixed(2) || '?'} NM from you<br>${approach.altitude?.toLocaleString() || '?'} ft @ ${approach.speed || '?'} kts<br><a href="https://www.flightaware.com/live/flight/${callsign}" target="_blank" style="color: #3b82f6;">Track on FlightAware &#8599;</a>`);
     }
     
     function calculateBearing(lat1, lon1, lat2, lon2) {
@@ -2039,6 +2260,18 @@
       renderHistoryTable();
     }
 
+    function updateFavicon(isTracking) {
+      const link = document.querySelector('link[rel="icon"]');
+      if (!link) return;
+      if (isTracking) {
+        const fill = faviconPulseBright ? '%2310b981' : '%230d9668';
+        faviconPulseBright = !faviconPulseBright;
+        link.href = `data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='40' fill='${fill}'/></svg>`;
+      } else {
+        link.href = "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✈️</text></svg>";
+      }
+    }
+
     // Data fetching
     async function fetchData() {
       const indicator = document.getElementById('refresh-indicator');
@@ -2065,7 +2298,9 @@
           lastData = dataStr;
           renderCurrentFlight(data);
         }
-        
+
+        updateFavicon(data.status === 'tracking');
+
         // Add current flight as NEW entry each time it appears (daily routes tracked separately)
         // Only add if within last 5 minutes (fresh data) - short buffer for private planes
         const FIVE_MINUTES = 5 * 60 * 1000;
