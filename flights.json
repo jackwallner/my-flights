@@ -26557,5 +26557,25 @@
     "initialAltitude": 26000,
     "initialSpeed": 386,
     "_sessionKey": "ASA622_2026-02-10T00"
+  },
+  {
+    "callsign": "SKW3789",
+    "flightNumber": "DL3789",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A2ED5A",
+    "registration": "N288SY",
+    "firstSeen": "2026-02-10T00:55:06.057Z",
+    "lastSeen": "2026-02-10T00:55:06.057Z",
+    "duration": 0,
+    "closestDistance": 1.400244286489584,
+    "closestAltitude": 26000,
+    "closestSpeed": 389,
+    "initialDistance": 1.400244286489584,
+    "initialAltitude": 26000,
+    "initialSpeed": 389,
+    "_sessionKey": "SKW3789_2026-02-10T00"
   }
 ]
