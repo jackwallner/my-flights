@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.02,
-    "altitude": 6450,
-    "speed": 114,
-    "timestamp": "2026-02-11T03:14:05.085Z",
-    "lat": 45.6255,
-    "lon": -122.5284,
-    "precision": "high"
+    "distance": 0.13,
+    "altitude": 40000,
+    "speed": 429,
+    "timestamp": "2026-02-11T04:05:34.038Z",
+    "lat": 45.6266,
+    "lon": -122.5257,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9535H",
-    "aircraftType": "C172",
-    "origin": null,
+    "callsign": "EJA467",
+    "aircraftType": "E55P",
+    "origin": "SNA",
     "destination": null,
-    "firstSeen": "2026-02-11T03:13:44.490Z"
+    "firstSeen": "2026-02-11T04:05:34.036Z"
   },
-  "overheadScore": 0.02,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-11T03:14:35.927Z"
+  "timestamp": "2026-02-11T04:05:44.325Z"
 }

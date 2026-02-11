@@ -7262,5 +7262,24 @@
     "initialDistance": 0.6450991344164099,
     "initialAltitude": 6450,
     "initialSpeed": 113
+  },
+  {
+    "callsign": "EJA467",
+    "flightNumber": null,
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": null,
+    "icao": "A5B50B",
+    "registration": "N467QS",
+    "firstSeen": "2026-02-11T04:05:34.036Z",
+    "lastSeen": "2026-02-11T04:05:34.036Z",
+    "duration": 0,
+    "closestDistance": 0.12857369276069233,
+    "closestAltitude": 40000,
+    "closestSpeed": 429,
+    "initialDistance": 0.12857369276069233,
+    "initialAltitude": 40000,
+    "initialSpeed": 429
   }
 ]
