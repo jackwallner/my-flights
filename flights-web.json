@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 1950,
-    "speed": 57,
-    "timestamp": "2026-02-11T00:19:37.329Z",
-    "lat": 45.6225,
+    "distance": 0.24,
+    "altitude": 2500,
+    "speed": 151,
+    "timestamp": "2026-02-11T01:18:52.050Z",
+    "lat": 45.6249,
     "lon": -122.5339,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N508AD",
-    "aircraftType": "R22",
-    "origin": "TTD",
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-11T00:19:06.239Z"
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 9,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-11T00:20:39.305Z"
+  "timestamp": "2026-02-11T01:19:12.655Z"
 }
