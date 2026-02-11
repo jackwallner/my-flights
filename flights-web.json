@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 2675,
-    "speed": 152,
-    "timestamp": "2026-02-10T22:44:04.989Z",
-    "lat": 45.6189,
-    "lon": -122.5409,
-    "precision": "tracked"
+    "distance": 0.15,
+    "altitude": 2700,
+    "speed": 150,
+    "timestamp": "2026-02-11T00:06:03.312Z",
+    "lat": 45.6275,
+    "lon": -122.5299,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N725KP",
+    "callsign": "N724KP",
     "aircraftType": "PC-1",
     "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-02-10T15:03:20.130Z"
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-10T22:44:15.279Z"
+  "timestamp": "2026-02-11T00:06:23.878Z"
 }
