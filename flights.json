@@ -7338,5 +7338,24 @@
     "initialDistance": 0.47332089781990166,
     "initialAltitude": 5500,
     "initialSpeed": 89
+  },
+  {
+    "callsign": "N8191G",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "AB2D4D",
+    "registration": "N8191G",
+    "firstSeen": "2026-02-11T22:15:44.790Z",
+    "lastSeen": "2026-02-11T22:15:44.790Z",
+    "duration": 0,
+    "closestDistance": 0.652039726901036,
+    "closestAltitude": 1325,
+    "closestSpeed": 92,
+    "initialDistance": 0.652039726901036,
+    "initialAltitude": 1325,
+    "initialSpeed": 92
   }
 ]

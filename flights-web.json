@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 2250,
-    "speed": 111,
-    "timestamp": "2026-02-11T22:07:30.733Z",
-    "lat": 45.6188,
-    "lon": -122.5244,
-    "precision": "high"
+    "distance": 0.65,
+    "altitude": 1325,
+    "speed": 92,
+    "timestamp": "2026-02-11T22:15:44.792Z",
+    "lat": 45.6199,
+    "lon": -122.5416,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
-    "origin": "SLE",
+    "callsign": "N8191G",
+    "aircraftType": "C182",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "firstSeen": "2026-02-11T22:15:44.790Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.65,
   "isOverhead": true,
-  "pathSnapshots": 3,
-  "status": "completed",
-  "timestamp": "2026-02-11T22:07:51.307Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-11T22:15:44.792Z"
 }
