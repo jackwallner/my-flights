@@ -7281,5 +7281,24 @@
     "initialDistance": 0.12857369276069233,
     "initialAltitude": 40000,
     "initialSpeed": 429
+  },
+  {
+    "callsign": "LXJ360",
+    "flightNumber": "LXJ360",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "CLD",
+    "destination": "BFI",
+    "icao": "A40CDF",
+    "registration": "N360FX",
+    "firstSeen": "2026-02-11T18:10:44.617Z",
+    "lastSeen": "2026-02-11T18:10:44.617Z",
+    "duration": 0,
+    "closestDistance": 0.49181445361109993,
+    "closestAltitude": 39100,
+    "closestSpeed": 396,
+    "initialDistance": 0.49181445361109993,
+    "initialAltitude": 39100,
+    "initialSpeed": 396
   }
 ]
