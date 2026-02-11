@@ -7205,5 +7205,24 @@
     "initialDistance": 0.2655200742511898,
     "initialAltitude": 26000,
     "initialSpeed": 272
+  },
+  {
+    "callsign": "N508AD",
+    "flightNumber": null,
+    "aircraftType": "R22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A657AC",
+    "registration": "N508AD",
+    "firstSeen": "2026-02-11T00:19:06.239Z",
+    "lastSeen": "2026-02-11T00:19:16.540Z",
+    "duration": 10,
+    "closestDistance": 0.4912005362440261,
+    "closestAltitude": 2000,
+    "closestSpeed": 53,
+    "initialDistance": 0.6152892149221048,
+    "initialAltitude": 2025,
+    "initialSpeed": 49
   }
 ]
