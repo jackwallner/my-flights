@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 37975,
-    "speed": 409,
-    "timestamp": "2026-02-11T18:42:39.801Z",
-    "lat": 45.622,
-    "lon": -122.526,
+    "distance": 0.34,
+    "altitude": 2625,
+    "speed": 169,
+    "timestamp": "2026-02-11T20:33:06.118Z",
+    "lat": 45.6206,
+    "lon": -122.5328,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA642",
-    "aircraftType": "B39M",
-    "origin": "RNO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T20:21:47.567Z"
+    "callsign": "N278TC",
+    "aircraftType": "S22T",
+    "origin": "EAT",
+    "destination": null,
+    "firstSeen": "2026-02-05T20:16:40.405Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.34,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-11T18:42:50.127Z"
+  "timestamp": "2026-02-11T20:33:16.401Z"
 }
