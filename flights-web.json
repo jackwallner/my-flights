@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 1300,
-    "speed": 93,
-    "timestamp": "2026-02-11T22:15:55.082Z",
-    "lat": 45.6171,
-    "lon": -122.536,
+    "distance": 0.11,
+    "altitude": 2100,
+    "speed": 86,
+    "timestamp": "2026-02-11T23:24:55.275Z",
+    "lat": 45.6271,
+    "lon": -122.5283,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N8191G",
-    "aircraftType": "C182",
-    "origin": "TTD",
+    "callsign": "N504PC",
+    "aircraftType": "TAMP",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-11T22:15:44.790Z"
+    "firstSeen": "2026-02-11T23:24:34.726Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "status": "completed",
-  "timestamp": "2026-02-11T22:16:15.734Z"
+  "timestamp": "2026-02-11T23:25:26.101Z"
 }
