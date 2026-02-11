@@ -7319,5 +7319,24 @@
     "initialDistance": 0.6653345891835506,
     "initialAltitude": 1725,
     "initialSpeed": 84
+  },
+  {
+    "callsign": "N606GS",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A7DE30",
+    "registration": "N606GS",
+    "firstSeen": "2026-02-11T21:56:42.782Z",
+    "lastSeen": "2026-02-11T21:57:23.868Z",
+    "duration": 41,
+    "closestDistance": 0.08030104298317793,
+    "closestAltitude": 5500,
+    "closestSpeed": 90,
+    "initialDistance": 0.47332089781990166,
+    "initialAltitude": 5500,
+    "initialSpeed": 89
   }
 ]
