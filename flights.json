@@ -7243,5 +7243,24 @@
     "initialDistance": 0.5561310169327193,
     "initialAltitude": 36000,
     "initialSpeed": 464
+  },
+  {
+    "callsign": "N9535H",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "AD42DB",
+    "registration": "N9535H",
+    "firstSeen": "2026-02-11T03:13:44.490Z",
+    "lastSeen": "2026-02-11T03:14:25.669Z",
+    "duration": 41,
+    "closestDistance": 0.017898573407799104,
+    "closestAltitude": 6450,
+    "closestSpeed": 114,
+    "initialDistance": 0.6450991344164099,
+    "initialAltitude": 6450,
+    "initialSpeed": 113
   }
 ]
