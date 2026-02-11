@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.6,
+    "distance": 0.35,
     "altitude": 32000,
-    "speed": 460,
-    "timestamp": "2026-02-11T04:35:36.882Z",
-    "lat": 45.6177,
-    "lon": -122.5373,
+    "speed": 446,
+    "timestamp": "2026-02-11T05:35:44.043Z",
+    "lat": 45.6309,
+    "lon": -122.5301,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA600",
-    "aircraftType": "B737",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-08T04:22:23.651Z"
+    "callsign": "ASA1346",
+    "aircraftType": "B39M",
+    "origin": "LAX",
+    "destination": "PAE",
+    "firstSeen": "2026-02-08T05:56:11.822Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.35,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-11T04:35:47.150Z"
+  "timestamp": "2026-02-11T05:35:54.317Z"
 }
