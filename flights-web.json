@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 2625,
-    "speed": 169,
-    "timestamp": "2026-02-11T20:33:06.118Z",
-    "lat": 45.6206,
-    "lon": -122.5328,
+    "distance": 0.57,
+    "altitude": 0,
+    "speed": 142,
+    "timestamp": "2026-02-11T20:43:33.484Z",
+    "lat": 45.6194,
+    "lon": -122.5174,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N278TC",
-    "aircraftType": "S22T",
-    "origin": "EAT",
-    "destination": null,
-    "firstSeen": "2026-02-05T20:16:40.405Z"
+    "callsign": "N511EX",
+    "aircraftType": "Cara",
+    "origin": "PDX",
+    "destination": "FRD",
+    "firstSeen": "2026-02-02T20:45:56.983Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.57,
   "isOverhead": true,
-  "pathSnapshots": 2,
-  "status": "completed",
-  "timestamp": "2026-02-11T20:33:16.401Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-11T20:43:33.484Z"
 }
