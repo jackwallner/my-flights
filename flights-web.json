@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 2000,
-    "speed": 53,
-    "timestamp": "2026-02-11T00:19:16.542Z",
-    "lat": 45.6264,
-    "lon": -122.5397,
-    "precision": "tracked"
+    "distance": 0.29,
+    "altitude": 1950,
+    "speed": 57,
+    "timestamp": "2026-02-11T00:19:37.329Z",
+    "lat": 45.6225,
+    "lon": -122.5339,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N508AD",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-11T00:19:06.239Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 2,
-  "status": "tracking",
-  "timestamp": "2026-02-11T00:19:16.542Z"
+  "pathSnapshots": 9,
+  "status": "completed",
+  "timestamp": "2026-02-11T00:20:39.305Z"
 }
