@@ -7224,5 +7224,24 @@
     "initialDistance": 0.6152892149221048,
     "initialAltitude": 2025,
     "initialSpeed": 49
+  },
+  {
+    "callsign": "BOE852",
+    "flightNumber": "BOE852",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "VCV",
+    "destination": "BFI",
+    "icao": "E4A2D7",
+    "registration": "PS-GRO",
+    "firstSeen": "2026-02-11T02:19:30.514Z",
+    "lastSeen": "2026-02-11T02:19:30.514Z",
+    "duration": 0,
+    "closestDistance": 0.5561310169327193,
+    "closestAltitude": 36000,
+    "closestSpeed": 464,
+    "initialDistance": 0.5561310169327193,
+    "initialAltitude": 36000,
+    "initialSpeed": 464
   }
 ]
