@@ -7300,5 +7300,24 @@
     "initialDistance": 0.49181445361109993,
     "initialAltitude": 39100,
     "initialSpeed": 396
+  },
+  {
+    "callsign": "N77WS",
+    "flightNumber": null,
+    "aircraftType": "C206",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "YYJ",
+    "icao": "AA68B3",
+    "registration": "N77WS",
+    "firstSeen": "2026-02-11T18:24:50.142Z",
+    "lastSeen": "2026-02-11T18:25:10.686Z",
+    "duration": 21,
+    "closestDistance": 0.31962063402642976,
+    "closestAltitude": 2000,
+    "closestSpeed": 85,
+    "initialDistance": 0.6653345891835506,
+    "initialAltitude": 1725,
+    "initialSpeed": 84
   }
 ]

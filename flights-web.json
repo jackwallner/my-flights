@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 39100,
-    "speed": 396,
-    "timestamp": "2026-02-11T18:10:44.619Z",
-    "lat": 45.6283,
-    "lon": -122.539,
-    "precision": "tracked"
+    "distance": 0.32,
+    "altitude": 2000,
+    "speed": 85,
+    "timestamp": "2026-02-11T18:25:10.688Z",
+    "lat": 45.6257,
+    "lon": -122.5357,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "LXJ360",
-    "aircraftType": "E55P",
-    "origin": "CLD",
-    "destination": "BFI",
-    "firstSeen": "2026-02-11T18:10:44.617Z"
+    "callsign": "N77WS",
+    "aircraftType": "C206",
+    "origin": "PDX",
+    "destination": "YYJ",
+    "firstSeen": "2026-02-11T18:24:50.142Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-11T18:10:54.920Z"
+  "pathSnapshots": 3,
+  "status": "tracking",
+  "timestamp": "2026-02-11T18:25:10.688Z"
 }
