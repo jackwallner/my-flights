@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 36000,
-    "speed": 464,
-    "timestamp": "2026-02-11T02:19:30.516Z",
-    "lat": 45.6167,
-    "lon": -122.5331,
+    "distance": 0.32,
+    "altitude": 3025,
+    "speed": 166,
+    "timestamp": "2026-02-11T02:40:49.380Z",
+    "lat": 45.627,
+    "lon": -122.5353,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BOE852",
-    "aircraftType": "737 ",
-    "origin": "VCV",
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-02-11T02:19:30.514Z"
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-11T02:19:40.960Z"
+  "timestamp": "2026-02-11T02:40:59.666Z"
 }
