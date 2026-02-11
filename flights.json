@@ -7357,5 +7357,24 @@
     "initialDistance": 0.652039726901036,
     "initialAltitude": 1325,
     "initialSpeed": 92
+  },
+  {
+    "callsign": "N504PC",
+    "flightNumber": null,
+    "aircraftType": "TAMP",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A64A14",
+    "registration": "N504PC",
+    "firstSeen": "2026-02-11T23:24:34.726Z",
+    "lastSeen": "2026-02-11T23:25:15.822Z",
+    "duration": 41,
+    "closestDistance": 0.10953351368802756,
+    "closestAltitude": 2100,
+    "closestSpeed": 86,
+    "initialDistance": 0.5022976773252575,
+    "initialAltitude": 2200,
+    "initialSpeed": 84
   }
 ]
