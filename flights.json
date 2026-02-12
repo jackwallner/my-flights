@@ -7490,5 +7490,24 @@
     "initialDistance": 0.6054013993348284,
     "initialAltitude": 38000,
     "initialSpeed": 413
+  },
+  {
+    "callsign": "N13461",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A08D51",
+    "registration": "N13461",
+    "firstSeen": "2026-02-12T23:08:07.721Z",
+    "lastSeen": "2026-02-12T23:08:18.041Z",
+    "duration": 10,
+    "closestDistance": 0.5898071465405093,
+    "closestAltitude": 1800,
+    "closestSpeed": 98,
+    "initialDistance": 0.5898071465405093,
+    "initialAltitude": 1800,
+    "initialSpeed": 98
   }
 ]
