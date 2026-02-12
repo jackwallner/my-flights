@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 1575,
-    "speed": 96,
-    "timestamp": "2026-02-12T18:34:03.063Z",
-    "lat": 45.6269,
-    "lon": -122.5396,
-    "precision": "tracked"
+    "distance": 0.31,
+    "altitude": 1600,
+    "speed": 98,
+    "timestamp": "2026-02-12T18:34:23.928Z",
+    "lat": 45.6203,
+    "lon": -122.5296,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N6758H",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-01-31T19:49:55.976Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-12T18:34:03.063Z"
+  "pathSnapshots": 4,
+  "status": "completed",
+  "timestamp": "2026-02-12T18:34:44.499Z"
 }
