@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 24000,
-    "speed": 502,
-    "timestamp": "2026-02-12T02:06:13.653Z",
-    "lat": 45.6316,
-    "lon": -122.5238,
+    "distance": 0.46,
+    "altitude": 32100,
+    "speed": 375,
+    "timestamp": "2026-02-12T02:15:29.247Z",
+    "lat": 45.6244,
+    "lon": -122.539,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "59-1521",
-    "aircraftType": "K35R",
-    "origin": "SKA",
-    "destination": null,
-    "firstSeen": "2026-02-12T02:06:13.652Z"
+    "callsign": "BOX475",
+    "aircraftType": "B77L",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-04T22:58:16.222Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-12T02:06:23.917Z"
+  "timestamp": "2026-02-12T02:15:39.528Z"
 }
