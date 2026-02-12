@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 32100,
-    "speed": 375,
-    "timestamp": "2026-02-12T02:15:29.247Z",
-    "lat": 45.6244,
-    "lon": -122.539,
+    "distance": 0.45,
+    "altitude": 37350,
+    "speed": 404,
+    "timestamp": "2026-02-12T02:53:54.829Z",
+    "lat": 45.6265,
+    "lon": -122.5388,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BOX475",
-    "aircraftType": "B77L",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-04T22:58:16.222Z"
+    "callsign": "G280",
+    "aircraftType": "G280",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-12T02:53:54.827Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.45,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-12T02:15:39.528Z"
+  "timestamp": "2026-02-12T02:54:05.111Z"
 }
