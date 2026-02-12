@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 4200,
-    "speed": 133,
-    "timestamp": "2026-02-12T04:34:39.697Z",
-    "lat": 45.6227,
-    "lon": -122.5256,
-    "precision": "high"
+    "distance": 0.55,
+    "altitude": 14600,
+    "speed": 391,
+    "timestamp": "2026-02-12T14:39:40.557Z",
+    "lat": 45.617,
+    "lon": -122.5223,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N3563U",
-    "aircraftType": "C182",
-    "origin": "LGD",
-    "destination": "HIO",
-    "firstSeen": "2026-02-12T04:34:29.426Z"
+    "callsign": "FDX3604",
+    "aircraftType": "767",
+    "origin": "PDX",
+    "destination": "IND",
+    "firstSeen": "2026-02-12T14:39:40.553Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-12T04:35:00.268Z"
+  "timestamp": "2026-02-12T14:39:50.844Z"
 }
