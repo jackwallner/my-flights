@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 700,
-    "speed": 73,
-    "timestamp": "2026-02-12T18:52:05.436Z",
-    "lat": 45.6205,
-    "lon": -122.5213,
+    "distance": 0.49,
+    "altitude": 2575,
+    "speed": 195,
+    "timestamp": "2026-02-12T18:55:53.974Z",
+    "lat": 45.6272,
+    "lon": -122.5394,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N519F",
-    "aircraftType": "CH7B",
+    "callsign": "BOE1AU",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "destination": "BFI",
+    "firstSeen": "2026-02-03T23:18:02.427Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-12T18:52:25.987Z"
+  "timestamp": "2026-02-12T18:56:04.293Z"
 }
