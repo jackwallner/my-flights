@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 14600,
-    "speed": 391,
-    "timestamp": "2026-02-12T14:39:40.557Z",
-    "lat": 45.617,
-    "lon": -122.5223,
+    "distance": 0.69,
+    "altitude": 34000,
+    "speed": 414,
+    "timestamp": "2026-02-12T17:29:31.682Z",
+    "lat": 45.6154,
+    "lon": -122.5365,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FDX3604",
-    "aircraftType": "767",
-    "origin": "PDX",
-    "destination": "IND",
-    "firstSeen": "2026-02-12T14:39:40.553Z"
+    "callsign": "ASA1311",
+    "aircraftType": "B39M",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T20:39:05.668Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-12T14:39:50.844Z"
+  "timestamp": "2026-02-12T17:29:41.952Z"
 }
