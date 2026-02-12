@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.07,
-    "altitude": 38000,
-    "speed": 337,
-    "timestamp": "2026-02-12T18:51:55.137Z",
-    "lat": 45.6247,
-    "lon": -122.5268,
+    "distance": 0.41,
+    "altitude": 700,
+    "speed": 73,
+    "timestamp": "2026-02-12T18:52:05.436Z",
+    "lat": 45.6205,
+    "lon": -122.5213,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "C510",
-    "aircraftType": "C510",
-    "origin": null,
+    "callsign": "N519F",
+    "aircraftType": "CH7B",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-12T18:51:55.135Z"
+    "firstSeen": "2026-02-06T20:53:13.130Z"
   },
-  "overheadScore": 0.07,
+  "overheadScore": 0.41,
   "isOverhead": true,
   "pathSnapshots": 2,
-  "status": "tracking",
-  "timestamp": "2026-02-12T18:52:05.436Z"
+  "status": "completed",
+  "timestamp": "2026-02-12T18:52:25.987Z"
 }
