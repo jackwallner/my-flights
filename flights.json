@@ -125,8 +125,8 @@
     "icao": "A9B357",
     "registration": "N724KP",
     "firstSeen": "2026-02-08T18:18:03.924Z",
-    "lastSeen": "2026-02-11T16:31:43.555Z",
-    "duration": 252820,
+    "lastSeen": "2026-02-12T02:53:23.763Z",
+    "duration": 290120,
     "closestDistance": 0.1529627369994818,
     "closestAltitude": 2700,
     "closestSpeed": 150,
@@ -7395,5 +7395,24 @@
     "initialDistance": 0.42040465139061167,
     "initialAltitude": 24000,
     "initialSpeed": 502
+  },
+  {
+    "callsign": "G280",
+    "flightNumber": null,
+    "aircraftType": "G280",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-12T02:53:54.827Z",
+    "lastSeen": "2026-02-12T02:53:54.827Z",
+    "duration": 0,
+    "closestDistance": 0.4547233779504593,
+    "closestAltitude": 37350,
+    "closestSpeed": 404,
+    "initialDistance": 0.4547233779504593,
+    "initialAltitude": 37350,
+    "initialSpeed": 404
   }
 ]
