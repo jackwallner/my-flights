@@ -7376,5 +7376,24 @@
     "initialDistance": 0.5022976773252575,
     "initialAltitude": 2200,
     "initialSpeed": 84
+  },
+  {
+    "callsign": "59-1521",
+    "flightNumber": null,
+    "aircraftType": "K35R",
+    "aircraftName": null,
+    "origin": "SKA",
+    "destination": null,
+    "icao": "AE0598",
+    "registration": "59-1521",
+    "firstSeen": "2026-02-12T02:06:13.652Z",
+    "lastSeen": "2026-02-12T02:06:13.652Z",
+    "duration": 0,
+    "closestDistance": 0.42040465139061167,
+    "closestAltitude": 24000,
+    "closestSpeed": 502,
+    "initialDistance": 0.42040465139061167,
+    "initialAltitude": 24000,
+    "initialSpeed": 502
   }
 ]
