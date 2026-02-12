@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 4300,
-    "speed": 132,
-    "timestamp": "2026-02-12T04:34:29.427Z",
-    "lat": 45.6262,
-    "lon": -122.5182,
-    "precision": "tracked"
+    "distance": 0.19,
+    "altitude": 4200,
+    "speed": 133,
+    "timestamp": "2026-02-12T04:34:39.697Z",
+    "lat": 45.6227,
+    "lon": -122.5256,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N3563U",
@@ -15,9 +15,9 @@
     "destination": "HIO",
     "firstSeen": "2026-02-12T04:34:29.426Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.19,
   "isOverhead": true,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-12T04:34:29.427Z"
+  "pathSnapshots": 3,
+  "status": "completed",
+  "timestamp": "2026-02-12T04:35:00.268Z"
 }
