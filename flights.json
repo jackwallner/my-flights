@@ -7433,5 +7433,24 @@
     "initialDistance": 0.4198258933218489,
     "initialAltitude": 4300,
     "initialSpeed": 132
+  },
+  {
+    "callsign": "FDX3604",
+    "flightNumber": "FX3604",
+    "aircraftType": "B763",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "IND",
+    "icao": "A18A1C",
+    "registration": "N199FE",
+    "firstSeen": "2026-02-12T14:39:40.553Z",
+    "lastSeen": "2026-02-12T14:39:40.553Z",
+    "duration": 0,
+    "closestDistance": 0.5538295632123473,
+    "closestAltitude": 14600,
+    "closestSpeed": 391,
+    "initialDistance": 0.5538295632123473,
+    "initialAltitude": 14600,
+    "initialSpeed": 391
   }
 ]
