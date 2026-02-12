@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 200,
-    "speed": 58,
-    "timestamp": "2026-02-12T19:23:10.464Z",
-    "lat": 45.62,
-    "lon": -122.5388,
-    "precision": "high"
+    "distance": 0.35,
+    "altitude": 34000,
+    "speed": 440,
+    "timestamp": "2026-02-12T21:03:34.759Z",
+    "lat": 45.6221,
+    "lon": -122.5212,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N519F",
-    "aircraftType": "CH7B",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "callsign": "SKW4439",
+    "aircraftType": "E175",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T21:13:12.947Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 8,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-12T19:23:20.770Z"
+  "timestamp": "2026-02-12T21:03:45.053Z"
 }
