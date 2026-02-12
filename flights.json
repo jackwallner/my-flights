@@ -7509,5 +7509,24 @@
     "initialDistance": 0.5898071465405093,
     "initialAltitude": 1800,
     "initialSpeed": 98
+  },
+  {
+    "callsign": "N582TT",
+    "flightNumber": null,
+    "aircraftType": "SR20",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A77F11",
+    "registration": "N582TT",
+    "firstSeen": "2026-02-12T23:22:41.576Z",
+    "lastSeen": "2026-02-12T23:22:41.576Z",
+    "duration": 0,
+    "closestDistance": 0.6838779816799881,
+    "closestAltitude": 1825,
+    "closestSpeed": 101,
+    "initialDistance": 0.6838779816799881,
+    "initialAltitude": 1825,
+    "initialSpeed": 101
   }
 ]
