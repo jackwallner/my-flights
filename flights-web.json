@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 38000,
-    "speed": 413,
-    "timestamp": "2026-02-12T22:02:35.003Z",
-    "lat": 45.635,
-    "lon": -122.5255,
-    "precision": "tracked"
+    "distance": 0.03,
+    "altitude": 2575,
+    "speed": 157,
+    "timestamp": "2026-02-12T22:37:45.781Z",
+    "lat": 45.6251,
+    "lon": -122.5288,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "H25B",
-    "aircraftType": "H25B",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-12T22:02:24.741Z"
+    "callsign": "N725KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-10T15:03:20.130Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.03,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-12T22:02:45.272Z"
+  "timestamp": "2026-02-12T22:38:06.409Z"
 }
