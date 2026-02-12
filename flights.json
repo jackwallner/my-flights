@@ -7471,5 +7471,24 @@
     "initialDistance": 0.06517585064536122,
     "initialAltitude": 38000,
     "initialSpeed": 337
+  },
+  {
+    "callsign": "H25B",
+    "flightNumber": null,
+    "aircraftType": "H25B",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-12T22:02:24.741Z",
+    "lastSeen": "2026-02-12T22:02:24.741Z",
+    "duration": 0,
+    "closestDistance": 0.6054013993348284,
+    "closestAltitude": 38000,
+    "closestSpeed": 413,
+    "initialDistance": 0.6054013993348284,
+    "initialAltitude": 38000,
+    "initialSpeed": 413
   }
 ]
