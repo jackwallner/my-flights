@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 3450,
-    "speed": 106,
-    "timestamp": "2026-02-12T00:15:52.263Z",
-    "lat": 45.6311,
-    "lon": -122.5375,
-    "precision": "high"
+    "distance": 0.16,
+    "altitude": 36000,
+    "speed": 372,
+    "timestamp": "2026-02-12T00:17:14.571Z",
+    "lat": 45.6261,
+    "lon": -122.5317,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N606GS",
-    "aircraftType": "C152",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-11T21:56:42.782Z"
+    "callsign": "FDX3884",
+    "aircraftType": "767",
+    "origin": "OAK",
+    "destination": "SEA",
+    "firstSeen": "2026-02-05T23:41:05.563Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 3,
-  "status": "tracking",
-  "timestamp": "2026-02-12T00:16:02.567Z"
+  "pathSnapshots": 1,
+  "status": "completed",
+  "timestamp": "2026-02-12T00:17:24.835Z"
 }
