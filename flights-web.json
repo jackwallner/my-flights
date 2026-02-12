@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 1625,
-    "speed": 108,
-    "timestamp": "2026-02-12T21:34:47.582Z",
-    "lat": 45.6317,
-    "lon": -122.5322,
-    "precision": "high"
+    "distance": 0.61,
+    "altitude": 38000,
+    "speed": 413,
+    "timestamp": "2026-02-12T22:02:24.744Z",
+    "lat": 45.6194,
+    "lon": -122.5164,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
+    "callsign": "H25B",
+    "aircraftType": "H25B",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "firstSeen": "2026-02-12T22:02:24.741Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.61,
   "isOverhead": true,
-  "pathSnapshots": 3,
-  "status": "completed",
-  "timestamp": "2026-02-12T21:35:08.132Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-12T22:02:24.744Z"
 }
