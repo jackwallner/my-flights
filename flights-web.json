@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 3500,
-    "speed": 88,
-    "timestamp": "2026-02-12T03:29:26.889Z",
-    "lat": 45.625,
-    "lon": -122.5441,
+    "distance": 0.42,
+    "altitude": 4300,
+    "speed": 132,
+    "timestamp": "2026-02-12T04:34:29.427Z",
+    "lat": 45.6262,
+    "lon": -122.5182,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "C172",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T01:46:11.920Z"
+    "callsign": "N3563U",
+    "aircraftType": "C182",
+    "origin": "LGD",
+    "destination": "HIO",
+    "firstSeen": "2026-02-12T04:34:29.426Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.42,
   "isOverhead": true,
-  "pathSnapshots": 2,
-  "status": "completed",
-  "timestamp": "2026-02-12T03:29:37.171Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-12T04:34:29.427Z"
 }
