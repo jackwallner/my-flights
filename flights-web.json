@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 1825,
-    "speed": 101,
-    "timestamp": "2026-02-12T23:22:41.618Z",
-    "lat": 45.6141,
-    "lon": -122.525,
-    "precision": "tracked"
+    "distance": 0.49,
+    "altitude": 2150,
+    "speed": 102,
+    "timestamp": "2026-02-12T23:23:02.333Z",
+    "lat": 45.622,
+    "lon": -122.5175,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N582TT",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-12T23:22:41.576Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 1,
-  "status": "tracking",
-  "timestamp": "2026-02-12T23:22:41.618Z"
+  "pathSnapshots": 5,
+  "status": "completed",
+  "timestamp": "2026-02-12T23:23:33.593Z"
 }
