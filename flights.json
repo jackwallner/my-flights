@@ -7566,5 +7566,24 @@
     "initialDistance": 0.3543767211083299,
     "initialAltitude": 2150,
     "initialSpeed": 118
+  },
+  {
+    "callsign": "DAL1257",
+    "flightNumber": "DL1257",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A441FB",
+    "registration": "N3735D",
+    "firstSeen": "2026-02-13T04:33:23.747Z",
+    "lastSeen": "2026-02-13T04:33:23.747Z",
+    "duration": 0,
+    "closestDistance": 0.6797661335888894,
+    "closestAltitude": 36000,
+    "closestSpeed": 427,
+    "initialDistance": 0.6797661335888894,
+    "initialAltitude": 36000,
+    "initialSpeed": 427
   }
 ]
