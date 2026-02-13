@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 8825,
-    "speed": 159,
-    "timestamp": "2026-02-13T20:04:27.805Z",
-    "lat": 45.6247,
-    "lon": -122.5226,
-    "precision": "high"
+    "distance": 0.58,
+    "altitude": 0,
+    "speed": 127,
+    "timestamp": "2026-02-13T20:14:06.719Z",
+    "lat": 45.6295,
+    "lon": -122.5406,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "CFS743",
+    "callsign": "CFS946",
     "aircraftType": "Cara",
-    "origin": "BLI",
-    "destination": "RDM",
-    "firstSeen": "2026-02-13T20:04:17.501Z"
+    "origin": "PDX",
+    "destination": "PDX",
+    "firstSeen": "2026-02-13T19:22:36.307Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.58,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-13T20:04:48.523Z"
+  "timestamp": "2026-02-13T20:14:17.005Z"
 }
