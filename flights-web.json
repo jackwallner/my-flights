@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 4250,
-    "speed": 108,
-    "timestamp": "2026-02-13T01:11:07.657Z",
-    "lat": 45.6226,
-    "lon": -122.5278,
+    "distance": 0.56,
+    "altitude": 1500,
+    "speed": 84,
+    "timestamp": "2026-02-13T01:16:06.337Z",
+    "lat": 45.616,
+    "lon": -122.5259,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N24266",
-    "aircraftType": "C152",
-    "origin": "HIO",
+    "callsign": "N61338",
+    "aircraftType": "C150",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-13T01:10:47.098Z"
+    "firstSeen": "2026-02-05T00:29:12.810Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.56,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-13T01:11:38.490Z"
+  "timestamp": "2026-02-13T01:16:26.915Z"
 }
