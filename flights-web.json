@@ -6,7 +6,7 @@
     "timestamp": "2026-02-13T01:21:04.853Z",
     "lat": 45.627,
     "lon": -122.5272,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N725KP",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 2,
-  "status": "tracking",
-  "timestamp": "2026-02-13T01:21:04.853Z"
+  "pathSnapshots": 3,
+  "status": "completed",
+  "timestamp": "2026-02-13T01:21:25.426Z"
 }
