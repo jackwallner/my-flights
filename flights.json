@@ -7604,5 +7604,24 @@
     "initialDistance": 0.6347892409226035,
     "initialAltitude": 1225,
     "initialSpeed": 61
+  },
+  {
+    "callsign": "CFS946",
+    "flightNumber": "EM946",
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "PDX",
+    "icao": "AD23F4",
+    "registration": "N946FE",
+    "firstSeen": "2026-02-13T19:22:36.307Z",
+    "lastSeen": "2026-02-13T19:22:56.842Z",
+    "duration": 21,
+    "closestDistance": 0.6054838213134691,
+    "closestAltitude": 0,
+    "closestSpeed": 121,
+    "initialDistance": 0.6932113577766326,
+    "initialAltitude": 0,
+    "initialSpeed": 118
   }
 ]
