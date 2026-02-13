@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 2375,
-    "speed": 164,
-    "timestamp": "2026-02-13T22:42:27.182Z",
-    "lat": 45.6249,
-    "lon": -122.5318,
-    "precision": "high"
+    "distance": 0.61,
+    "altitude": 40200,
+    "speed": 429,
+    "timestamp": "2026-02-13T23:15:23.744Z",
+    "lat": 45.6154,
+    "lon": -122.5247,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N725KP",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
+    "callsign": "EJA431",
+    "aircraftType": "E55P",
+    "origin": "RNO",
     "destination": "BFI",
-    "firstSeen": "2026-02-10T15:03:20.130Z"
+    "firstSeen": "2026-02-13T23:15:23.742Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.61,
   "isOverhead": true,
-  "pathSnapshots": 3,
-  "status": "completed",
-  "timestamp": "2026-02-13T22:42:47.767Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-13T23:15:23.744Z"
 }
