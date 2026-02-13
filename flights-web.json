@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 33700,
-    "speed": 396,
-    "timestamp": "2026-02-13T21:54:01.395Z",
-    "lat": 45.6313,
-    "lon": -122.5208,
+    "distance": 0.54,
+    "altitude": 32550,
+    "speed": 410,
+    "timestamp": "2026-02-13T21:55:23.802Z",
+    "lat": 45.6271,
+    "lon": -122.5154,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA548",
-    "aircraftType": "737",
-    "origin": "SNA",
+    "callsign": "SWA1785",
+    "aircraftType": "B737",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T22:35:10.496Z"
+    "firstSeen": "2026-02-13T21:55:23.800Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.54,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-13T21:54:11.659Z"
+  "timestamp": "2026-02-13T21:55:34.108Z"
 }
