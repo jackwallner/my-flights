@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.34,
+    "distance": 0.16,
     "altitude": 4250,
-    "speed": 103,
-    "timestamp": "2026-02-13T01:10:57.373Z",
-    "lat": 45.6231,
-    "lon": -122.5357,
-    "precision": "tracked"
+    "speed": 108,
+    "timestamp": "2026-02-13T01:11:07.657Z",
+    "lat": 45.6226,
+    "lon": -122.5278,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N24266",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-13T01:10:47.098Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 2,
-  "status": "tracking",
-  "timestamp": "2026-02-13T01:10:57.373Z"
+  "pathSnapshots": 5,
+  "status": "completed",
+  "timestamp": "2026-02-13T01:11:38.490Z"
 }
