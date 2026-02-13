@@ -7585,5 +7585,24 @@
     "initialDistance": 0.6797661335888894,
     "initialAltitude": 36000,
     "initialSpeed": 427
+  },
+  {
+    "callsign": "N917KF",
+    "flightNumber": null,
+    "aircraftType": "R22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "ACB193",
+    "registration": "N917KF",
+    "firstSeen": "2026-02-13T18:16:54.196Z",
+    "lastSeen": "2026-02-13T18:17:45.513Z",
+    "duration": 51,
+    "closestDistance": 0.4875817330373624,
+    "closestAltitude": 1175,
+    "closestSpeed": 60,
+    "initialDistance": 0.6347892409226035,
+    "initialAltitude": 1225,
+    "initialSpeed": 61
   }
 ]
