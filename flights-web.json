@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 0,
-    "speed": 121,
-    "timestamp": "2026-02-13T19:22:46.583Z",
-    "lat": 45.6302,
-    "lon": -122.5407,
+    "distance": 0.23,
+    "altitude": 8825,
+    "speed": 159,
+    "timestamp": "2026-02-13T20:04:27.805Z",
+    "lat": 45.6247,
+    "lon": -122.5226,
     "precision": "high"
   },
   "flight": {
-    "callsign": "CFS946",
+    "callsign": "CFS743",
     "aircraftType": "Cara",
-    "origin": "PDX",
-    "destination": "PDX",
-    "firstSeen": "2026-02-13T19:22:36.307Z"
+    "origin": "BLI",
+    "destination": "RDM",
+    "firstSeen": "2026-02-13T20:04:17.501Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.23,
   "isOverhead": true,
   "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-13T19:23:07.114Z"
+  "timestamp": "2026-02-13T20:04:48.523Z"
 }

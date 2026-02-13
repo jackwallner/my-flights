@@ -7623,5 +7623,24 @@
     "initialDistance": 0.6932113577766326,
     "initialAltitude": 0,
     "initialSpeed": 118
+  },
+  {
+    "callsign": "CFS743",
+    "flightNumber": "EM743",
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "BLI",
+    "destination": "RDM",
+    "icao": "AA8AF8",
+    "registration": "N779FE",
+    "firstSeen": "2026-02-13T20:04:17.501Z",
+    "lastSeen": "2026-02-13T20:04:38.094Z",
+    "duration": 21,
+    "closestDistance": 0.23404100326368008,
+    "closestAltitude": 8825,
+    "closestSpeed": 159,
+    "initialDistance": 0.3616161555784586,
+    "initialAltitude": 8825,
+    "initialSpeed": 157
   }
 ]
