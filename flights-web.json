@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 40200,
-    "speed": 429,
-    "timestamp": "2026-02-13T23:15:23.744Z",
-    "lat": 45.6154,
-    "lon": -122.5247,
+    "distance": 0.62,
+    "altitude": 1500,
+    "speed": 80,
+    "timestamp": "2026-02-13T23:43:31.596Z",
+    "lat": 45.6329,
+    "lon": -122.538,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA431",
-    "aircraftType": "E55P",
-    "origin": "RNO",
-    "destination": "BFI",
-    "firstSeen": "2026-02-13T23:15:23.742Z"
+    "callsign": "N603HH",
+    "aircraftType": "R22",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-03T00:24:00.858Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.62,
   "isOverhead": true,
-  "pathSnapshots": 2,
-  "status": "completed",
-  "timestamp": "2026-02-13T23:15:44.463Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-13T23:43:31.596Z"
 }
