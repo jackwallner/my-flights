@@ -6,7 +6,7 @@
     "timestamp": "2026-02-13T02:51:09.675Z",
     "lat": 45.6272,
     "lon": -122.5208,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N723KP",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.33,
   "isOverhead": true,
-  "pathSnapshots": 2,
-  "status": "tracking",
-  "timestamp": "2026-02-13T02:51:09.675Z"
+  "pathSnapshots": 3,
+  "status": "completed",
+  "timestamp": "2026-02-13T02:51:30.231Z"
 }
