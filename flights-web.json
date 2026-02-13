@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 43000,
-    "speed": 501,
-    "timestamp": "2026-02-13T22:14:48.259Z",
-    "lat": 45.6194,
-    "lon": -122.5403,
-    "precision": "tracked"
+    "distance": 0.16,
+    "altitude": 2375,
+    "speed": 164,
+    "timestamp": "2026-02-13T22:42:27.182Z",
+    "lat": 45.6249,
+    "lon": -122.5318,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "WUP903",
-    "aircraftType": "Cita",
-    "origin": "SAN",
+    "callsign": "N725KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-02-13T22:14:48.258Z"
+    "firstSeen": "2026-02-10T15:03:20.130Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-13T22:14:58.525Z"
+  "timestamp": "2026-02-13T22:42:47.767Z"
 }
