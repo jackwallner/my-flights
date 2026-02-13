@@ -7661,5 +7661,24 @@
     "initialDistance": 0.5448098890166615,
     "initialAltitude": 32550,
     "initialSpeed": 410
+  },
+  {
+    "callsign": "WUP903",
+    "flightNumber": "WUP903",
+    "aircraftType": "C750",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "BFI",
+    "icao": "AC7C21",
+    "registration": "N903UP",
+    "firstSeen": "2026-02-13T22:14:48.258Z",
+    "lastSeen": "2026-02-13T22:14:48.258Z",
+    "duration": 0,
+    "closestDistance": 0.6217700845569362,
+    "closestAltitude": 43000,
+    "closestSpeed": 501,
+    "initialDistance": 0.6217700845569362,
+    "initialAltitude": 43000,
+    "initialSpeed": 501
   }
 ]

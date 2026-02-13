@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 2600,
-    "speed": 156,
-    "timestamp": "2026-02-13T22:01:55.337Z",
-    "lat": 45.6217,
-    "lon": -122.5219,
-    "precision": "high"
+    "distance": 0.62,
+    "altitude": 43000,
+    "speed": 501,
+    "timestamp": "2026-02-13T22:14:48.259Z",
+    "lat": 45.6194,
+    "lon": -122.5403,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "callsign": "WUP903",
+    "aircraftType": "Cita",
+    "origin": "SAN",
+    "destination": "BFI",
+    "firstSeen": "2026-02-13T22:14:48.258Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.62,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-13T22:02:15.886Z"
+  "timestamp": "2026-02-13T22:14:58.525Z"
 }
