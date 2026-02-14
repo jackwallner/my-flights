@@ -7813,5 +7813,24 @@
     "initialDistance": 0.4596879858456916,
     "initialAltitude": 36000,
     "initialSpeed": 415
+  },
+  {
+    "callsign": "ASA205",
+    "flightNumber": "AS205",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "KOA",
+    "destination": "SEA",
+    "icao": "ACC1EB",
+    "registration": "N921AK",
+    "firstSeen": "2026-02-14T06:50:51.003Z",
+    "lastSeen": "2026-02-14T06:50:51.003Z",
+    "duration": 0,
+    "closestDistance": 0.5974469133903603,
+    "closestAltitude": 37000,
+    "closestSpeed": 442,
+    "initialDistance": 0.5974469133903603,
+    "initialAltitude": 37000,
+    "initialSpeed": 442
   }
 ]
