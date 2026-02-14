@@ -7699,5 +7699,24 @@
     "initialDistance": 0.6102801509964917,
     "initialAltitude": 40200,
     "initialSpeed": 429
+  },
+  {
+    "callsign": "ASA1301",
+    "flightNumber": "AS1301",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "ACDFA3",
+    "registration": "N929AK",
+    "firstSeen": "2026-02-14T00:22:48.710Z",
+    "lastSeen": "2026-02-14T00:22:48.710Z",
+    "duration": 0,
+    "closestDistance": 0.39050291587184405,
+    "closestAltitude": 36000,
+    "closestSpeed": 416,
+    "initialDistance": 0.39050291587184405,
+    "initialAltitude": 36000,
+    "initialSpeed": 416
   }
 ]
