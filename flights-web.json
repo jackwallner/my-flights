@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 37000,
-    "speed": 442,
-    "timestamp": "2026-02-14T06:50:51.006Z",
-    "lat": 45.6284,
-    "lon": -122.5146,
+    "distance": 0.65,
+    "altitude": 40000,
+    "speed": 474,
+    "timestamp": "2026-02-14T06:57:42.601Z",
+    "lat": 45.6205,
+    "lon": -122.5419,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA205",
-    "aircraftType": "B39M",
-    "origin": "KOA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-14T06:50:51.003Z"
+    "callsign": "EJA240",
+    "aircraftType": "Chal",
+    "origin": "SDM",
+    "destination": "BFI",
+    "firstSeen": "2026-02-14T06:57:42.599Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.65,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-14T06:51:01.288Z"
+  "timestamp": "2026-02-14T06:57:52.850Z"
 }
