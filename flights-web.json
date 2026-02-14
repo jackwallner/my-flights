@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 1525,
-    "speed": 164,
-    "timestamp": "2026-02-14T00:32:26.048Z",
-    "lat": 45.6235,
-    "lon": -122.5324,
-    "precision": "high"
+    "distance": 0.5,
+    "altitude": 39975,
+    "speed": 405,
+    "timestamp": "2026-02-14T00:49:35.310Z",
+    "lat": 45.6171,
+    "lon": -122.5262,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N687SD",
-    "aircraftType": "RV8",
-    "origin": "EUG",
-    "destination": null,
-    "firstSeen": "2026-02-14T00:32:15.774Z"
+    "callsign": "CNS1200",
+    "aircraftType": "PC24",
+    "origin": "TKF",
+    "destination": "PAE",
+    "firstSeen": "2026-02-14T00:49:35.308Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 3,
-  "status": "completed",
-  "timestamp": "2026-02-14T00:32:46.613Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-14T00:49:35.310Z"
 }
