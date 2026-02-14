@@ -7737,5 +7737,24 @@
     "initialDistance": 0.6922394465460475,
     "initialAltitude": 1600,
     "initialSpeed": 164
+  },
+  {
+    "callsign": "CNS1200",
+    "flightNumber": "CNS1200",
+    "aircraftType": "PC24",
+    "aircraftName": null,
+    "origin": "TKF",
+    "destination": "PAE",
+    "icao": "A316EF",
+    "registration": "N299AF",
+    "firstSeen": "2026-02-14T00:49:35.308Z",
+    "lastSeen": "2026-02-14T00:49:35.308Z",
+    "duration": 0,
+    "closestDistance": 0.49767384209952586,
+    "closestAltitude": 39975,
+    "closestSpeed": 405,
+    "initialDistance": 0.49767384209952586,
+    "initialAltitude": 39975,
+    "initialSpeed": 405
   }
 ]
