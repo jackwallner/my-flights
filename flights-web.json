@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 36000,
-    "speed": 415,
-    "timestamp": "2026-02-14T03:49:08.363Z",
-    "lat": 45.6199,
-    "lon": -122.5359,
+    "distance": 0.64,
+    "altitude": 34000,
+    "speed": 405,
+    "timestamp": "2026-02-14T03:52:03.536Z",
+    "lat": 45.6355,
+    "lon": -122.5242,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3215",
-    "aircraftType": "737 ",
-    "origin": "PHX",
+    "callsign": "SKW4100",
+    "aircraftType": "E175",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-14T03:49:08.360Z"
+    "firstSeen": "2026-02-10T03:47:40.995Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-14T03:49:18.677Z"
+  "status": "tracking",
+  "timestamp": "2026-02-14T03:52:03.536Z"
 }
