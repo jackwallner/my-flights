@@ -7718,5 +7718,24 @@
     "initialDistance": 0.39050291587184405,
     "initialAltitude": 36000,
     "initialSpeed": 416
+  },
+  {
+    "callsign": "N687SD",
+    "flightNumber": null,
+    "aircraftType": "RV8",
+    "aircraftName": null,
+    "origin": "EUG",
+    "destination": null,
+    "icao": "A91ECC",
+    "registration": "N687SD",
+    "firstSeen": "2026-02-14T00:32:15.774Z",
+    "lastSeen": "2026-02-14T00:32:36.338Z",
+    "duration": 21,
+    "closestDistance": 0.209406262146462,
+    "closestAltitude": 1525,
+    "closestSpeed": 164,
+    "initialDistance": 0.6922394465460475,
+    "initialAltitude": 1600,
+    "initialSpeed": 164
   }
 ]

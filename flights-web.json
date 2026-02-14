@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 36050,
-    "speed": 411,
-    "timestamp": "2026-02-14T00:26:04.511Z",
-    "lat": 45.6184,
-    "lon": -122.524,
-    "precision": "tracked"
+    "distance": 0.21,
+    "altitude": 1525,
+    "speed": 164,
+    "timestamp": "2026-02-14T00:32:26.048Z",
+    "lat": 45.6235,
+    "lon": -122.5324,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA687",
-    "aircraftType": "737",
-    "origin": "SBA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T00:57:47.661Z"
+    "callsign": "N687SD",
+    "aircraftType": "RV8",
+    "origin": "EUG",
+    "destination": null,
+    "firstSeen": "2026-02-14T00:32:15.774Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.21,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-14T00:26:25.066Z"
+  "timestamp": "2026-02-14T00:32:46.613Z"
 }
