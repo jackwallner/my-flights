@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 39975,
-    "speed": 405,
-    "timestamp": "2026-02-14T00:49:35.310Z",
-    "lat": 45.6171,
-    "lon": -122.5262,
-    "precision": "tracked"
+    "distance": 0.18,
+    "altitude": 2225,
+    "speed": 175,
+    "timestamp": "2026-02-14T01:11:11.803Z",
+    "lat": 45.6226,
+    "lon": -122.5301,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "CNS1200",
-    "aircraftType": "PC24",
-    "origin": "TKF",
-    "destination": "PAE",
-    "firstSeen": "2026-02-14T00:49:35.308Z"
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-14T00:49:45.588Z"
+  "timestamp": "2026-02-14T01:11:32.486Z"
 }
