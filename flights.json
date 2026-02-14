@@ -7775,5 +7775,24 @@
     "initialDistance": 0.6401400628623557,
     "initialAltitude": 31525,
     "initialSpeed": 425
+  },
+  {
+    "callsign": "DAL1591",
+    "flightNumber": "DL1591",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AA7833",
+    "registration": "N774DE",
+    "firstSeen": "2026-02-14T02:17:15.975Z",
+    "lastSeen": "2026-02-14T02:17:15.975Z",
+    "duration": 0,
+    "closestDistance": 0.36771891544514135,
+    "closestAltitude": 38000,
+    "closestSpeed": 426,
+    "initialDistance": 0.36771891544514135,
+    "initialAltitude": 38000,
+    "initialSpeed": 426
   }
 ]
