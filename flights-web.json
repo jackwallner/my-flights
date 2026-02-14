@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 38000,
-    "speed": 426,
-    "timestamp": "2026-02-14T02:17:15.977Z",
-    "lat": 45.6193,
-    "lon": -122.53,
+    "distance": 0.46,
+    "altitude": 36000,
+    "speed": 415,
+    "timestamp": "2026-02-14T03:49:08.363Z",
+    "lat": 45.6199,
+    "lon": -122.5359,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1591",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "SWA3215",
+    "aircraftType": "737 ",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-02-14T02:17:15.975Z"
+    "firstSeen": "2026-02-14T03:49:08.360Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-14T02:17:26.246Z"
+  "timestamp": "2026-02-14T03:49:18.677Z"
 }
