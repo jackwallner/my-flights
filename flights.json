@@ -7794,5 +7794,24 @@
     "initialDistance": 0.36771891544514135,
     "initialAltitude": 38000,
     "initialSpeed": 426
+  },
+  {
+    "callsign": "SWA3215",
+    "flightNumber": "WN3215",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "AC4237",
+    "registration": "N8894Q",
+    "firstSeen": "2026-02-14T03:49:08.360Z",
+    "lastSeen": "2026-02-14T03:49:08.360Z",
+    "duration": 0,
+    "closestDistance": 0.4596879858456916,
+    "closestAltitude": 36000,
+    "closestSpeed": 415,
+    "initialDistance": 0.4596879858456916,
+    "initialAltitude": 36000,
+    "initialSpeed": 415
   }
 ]
