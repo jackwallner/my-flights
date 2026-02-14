@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 2200,
-    "speed": 161,
-    "timestamp": "2026-02-14T16:27:56.493Z",
-    "lat": 45.6221,
-    "lon": -122.5276,
-    "precision": "high"
+    "distance": 0.41,
+    "altitude": 40000,
+    "speed": 427,
+    "timestamp": "2026-02-14T17:19:26.024Z",
+    "lat": 45.6321,
+    "lon": -122.5273,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
+    "callsign": "C56X",
+    "aircraftType": "Cita",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "firstSeen": "2026-02-14T17:19:26.021Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 3,
-  "status": "completed",
-  "timestamp": "2026-02-14T16:28:17.224Z"
+  "pathSnapshots": 1,
+  "status": "tracking",
+  "timestamp": "2026-02-14T17:19:26.024Z"
 }

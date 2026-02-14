@@ -7851,5 +7851,24 @@
     "initialDistance": 0.6462227887021517,
     "initialAltitude": 40000,
     "initialSpeed": 474
+  },
+  {
+    "callsign": "C56X",
+    "flightNumber": null,
+    "aircraftType": "C56X",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-14T17:19:26.021Z",
+    "lastSeen": "2026-02-14T17:19:26.021Z",
+    "duration": 0,
+    "closestDistance": 0.4108658205561046,
+    "closestAltitude": 40000,
+    "closestSpeed": 427,
+    "initialDistance": 0.4108658205561046,
+    "initialAltitude": 40000,
+    "initialSpeed": 427
   }
 ]
