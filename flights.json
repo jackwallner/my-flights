@@ -7832,5 +7832,24 @@
     "initialDistance": 0.5974469133903603,
     "initialAltitude": 37000,
     "initialSpeed": 442
+  },
+  {
+    "callsign": "EJA240",
+    "flightNumber": "EJA240",
+    "aircraftType": "CL60",
+    "aircraftName": null,
+    "origin": "SDM",
+    "destination": "BFI",
+    "icao": "A2316E",
+    "registration": "N240QS",
+    "firstSeen": "2026-02-14T06:57:42.599Z",
+    "lastSeen": "2026-02-14T06:57:42.599Z",
+    "duration": 0,
+    "closestDistance": 0.6462227887021517,
+    "closestAltitude": 40000,
+    "closestSpeed": 474,
+    "initialDistance": 0.6462227887021517,
+    "initialAltitude": 40000,
+    "initialSpeed": 474
   }
 ]
