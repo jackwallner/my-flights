@@ -7756,5 +7756,24 @@
     "initialDistance": 0.49767384209952586,
     "initialAltitude": 39975,
     "initialSpeed": 405
+  },
+  {
+    "callsign": "DAL1552",
+    "flightNumber": "DL1552",
+    "aircraftType": "BCS3",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A3472F",
+    "registration": "N310DU",
+    "firstSeen": "2026-02-14T01:45:12.728Z",
+    "lastSeen": "2026-02-14T01:45:12.728Z",
+    "duration": 0,
+    "closestDistance": 0.6401400628623557,
+    "closestAltitude": 31525,
+    "closestSpeed": 425,
+    "initialDistance": 0.6401400628623557,
+    "initialAltitude": 31525,
+    "initialSpeed": 425
   }
 ]

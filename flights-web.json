@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 2150,
-    "speed": 173,
-    "timestamp": "2026-02-14T01:33:31.428Z",
-    "lat": 45.6258,
-    "lon": -122.5365,
-    "precision": "high"
+    "distance": 0.64,
+    "altitude": 31525,
+    "speed": 425,
+    "timestamp": "2026-02-14T01:45:12.730Z",
+    "lat": 45.6156,
+    "lon": -122.5345,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N725KP",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-10T15:03:20.130Z"
+    "callsign": "DAL1552",
+    "aircraftType": "A223",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-02-14T01:45:12.728Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.64,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-14T01:33:51.987Z"
+  "timestamp": "2026-02-14T01:45:23.036Z"
 }
