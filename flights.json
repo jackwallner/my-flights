@@ -7889,5 +7889,43 @@
     "initialDistance": 0.40438520150825236,
     "initialAltitude": 32275,
     "initialSpeed": 448
+  },
+  {
+    "callsign": "DAL1032",
+    "flightNumber": "DL1032",
+    "aircraftType": "A21N",
+    "aircraftName": null,
+    "origin": "HNL",
+    "destination": "SEA",
+    "icao": "A69F88",
+    "registration": "N526DE",
+    "firstSeen": "2026-02-15T23:10:59.024Z",
+    "lastSeen": "2026-02-15T23:10:59.024Z",
+    "duration": 0,
+    "closestDistance": 0.3448300667990764,
+    "closestAltitude": 32650,
+    "closestSpeed": 427,
+    "initialDistance": 0.3448300667990764,
+    "initialAltitude": 32650,
+    "initialSpeed": 427
+  },
+  {
+    "callsign": "N464EG",
+    "flightNumber": null,
+    "aircraftType": "C25C",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "HIO",
+    "icao": "A5A8E2",
+    "registration": "N464EG",
+    "firstSeen": "2026-02-15T23:11:09.300Z",
+    "lastSeen": "2026-02-15T23:11:09.300Z",
+    "duration": 0,
+    "closestDistance": 0.6473656191307715,
+    "closestAltitude": 4000,
+    "closestSpeed": 218,
+    "initialDistance": 0.6473656191307715,
+    "initialAltitude": 4000,
+    "initialSpeed": 218
   }
 ]
