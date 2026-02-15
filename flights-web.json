@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 32275,
-    "speed": 448,
-    "timestamp": "2026-02-15T05:03:15.991Z",
-    "lat": 45.627,
-    "lon": -122.5188,
+    "distance": 0.52,
+    "altitude": 35950,
+    "speed": 449,
+    "timestamp": "2026-02-15T05:17:30.504Z",
+    "lat": 45.6168,
+    "lon": -122.5252,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2467",
-    "aircraftType": "E175",
-    "origin": "SMF",
+    "callsign": "ASA753",
+    "aircraftType": "737",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-15T05:03:15.989Z"
+    "firstSeen": "2026-02-09T05:18:28.302Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.52,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-15T05:03:26.283Z"
+  "timestamp": "2026-02-15T05:17:51.055Z"
 }
