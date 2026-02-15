@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 34700,
-    "speed": 464,
-    "timestamp": "2026-02-15T06:15:44.542Z",
-    "lat": 45.6297,
-    "lon": -122.5183,
+    "distance": 0.42,
+    "altitude": 32000,
+    "speed": 395,
+    "timestamp": "2026-02-15T17:24:15.783Z",
+    "lat": 45.6251,
+    "lon": -122.5181,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA652",
+    "callsign": "ASA133",
     "aircraftType": "B39M",
-    "origin": "SAN",
+    "origin": "EUG",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T06:44:06.218Z"
+    "firstSeen": "2026-01-31T17:13:56.613Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.42,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-15T06:15:54.824Z"
+  "timestamp": "2026-02-15T17:24:26.059Z"
 }
