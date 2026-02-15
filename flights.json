@@ -7870,5 +7870,24 @@
     "initialDistance": 0.4108658205561046,
     "initialAltitude": 40000,
     "initialSpeed": 427
+  },
+  {
+    "callsign": "QXE2467",
+    "flightNumber": "AS2467",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A83F30",
+    "registration": "N630QX",
+    "firstSeen": "2026-02-15T05:03:15.989Z",
+    "lastSeen": "2026-02-15T05:03:15.989Z",
+    "duration": 0,
+    "closestDistance": 0.40438520150825236,
+    "closestAltitude": 32275,
+    "closestSpeed": 448,
+    "initialDistance": 0.40438520150825236,
+    "initialAltitude": 32275,
+    "initialSpeed": 448
   }
 ]
