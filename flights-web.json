@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 34775,
-    "speed": 426,
-    "timestamp": "2026-02-15T17:39:31.697Z",
-    "lat": 45.6339,
-    "lon": -122.529,
+    "distance": 0.2,
+    "altitude": 33475,
+    "speed": 436,
+    "timestamp": "2026-02-15T18:25:31.276Z",
+    "lat": 45.627,
+    "lon": -122.5239,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1365",
+    "callsign": "ASA656",
     "aircraftType": "737",
-    "origin": "SMF",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T18:20:33.147Z"
+    "firstSeen": "2026-02-09T18:32:49.641Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-15T17:39:42.095Z"
+  "timestamp": "2026-02-15T18:25:41.549Z"
 }
