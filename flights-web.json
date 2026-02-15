@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 33475,
-    "speed": 436,
-    "timestamp": "2026-02-15T18:25:31.276Z",
-    "lat": 45.627,
-    "lon": -122.5239,
+    "distance": 0.63,
+    "altitude": 35975,
+    "speed": 439,
+    "timestamp": "2026-02-15T18:39:24.897Z",
+    "lat": 45.6194,
+    "lon": -122.5406,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA656",
-    "aircraftType": "737",
-    "origin": "SFO",
+    "callsign": "DAL1293",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T18:32:49.641Z"
+    "firstSeen": "2026-02-09T17:43:44.343Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.63,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-15T18:25:41.549Z"
+  "timestamp": "2026-02-15T18:39:35.183Z"
 }
