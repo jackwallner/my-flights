@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 1375,
-    "speed": 90,
-    "timestamp": "2026-02-16T00:23:53.352Z",
-    "lat": 45.6204,
-    "lon": -122.5384,
+    "distance": 0.63,
+    "altitude": 1300,
+    "speed": 92,
+    "timestamp": "2026-02-16T00:38:07.661Z",
+    "lat": 45.6316,
+    "lon": -122.5162,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N917KF",
-    "aircraftType": "R22",
+    "callsign": "N4056V",
+    "aircraftType": "R44",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-13T18:16:54.196Z"
+    "firstSeen": "2026-02-07T00:55:41.449Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-16T00:24:24.160Z"
+  "timestamp": "2026-02-16T00:38:28.222Z"
 }
