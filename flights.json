@@ -7965,5 +7965,24 @@
     "initialDistance": 0.30513396129482434,
     "initialAltitude": 33500,
     "initialSpeed": 439
+  },
+  {
+    "callsign": "C560",
+    "flightNumber": null,
+    "aircraftType": "C560",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-16T21:54:07.182Z",
+    "lastSeen": "2026-02-16T21:54:07.182Z",
+    "duration": 0,
+    "closestDistance": 0.67778104922775,
+    "closestAltitude": 40000,
+    "closestSpeed": 424,
+    "initialDistance": 0.67778104922775,
+    "initialAltitude": 40000,
+    "initialSpeed": 424
   }
 ]
