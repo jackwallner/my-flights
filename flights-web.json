@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 40000,
-    "speed": 424,
-    "timestamp": "2026-02-16T21:54:07.184Z",
-    "lat": 45.6178,
-    "lon": -122.5402,
-    "precision": "tracked"
+    "distance": 0.48,
+    "altitude": 1600,
+    "speed": 115,
+    "timestamp": "2026-02-16T23:44:23.544Z",
+    "lat": 45.6176,
+    "lon": -122.5311,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "C560",
-    "aircraftType": "C560",
+    "callsign": "N9991Y",
+    "aircraftType": "T210",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-16T21:54:07.182Z"
+    "firstSeen": "2026-02-16T23:44:13.261Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.48,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "status": "completed",
-  "timestamp": "2026-02-16T21:54:17.459Z"
+  "timestamp": "2026-02-16T23:44:54.424Z"
 }
