@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 4050,
-    "speed": 257,
-    "timestamp": "2026-02-16T01:01:57.005Z",
-    "lat": 45.6268,
-    "lon": -122.5394,
+    "distance": 0.58,
+    "altitude": 34700,
+    "speed": 461,
+    "timestamp": "2026-02-16T03:07:41.781Z",
+    "lat": 45.6348,
+    "lon": -122.5261,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N59VJ",
-    "aircraftType": "SF50",
-    "origin": "RNT",
-    "destination": "HIO",
-    "firstSeen": "2026-02-16T01:01:57.003Z"
+    "callsign": "CL35",
+    "aircraftType": "CL35",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-02T21:10:19.478Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.58,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-16T01:02:07.310Z"
+  "timestamp": "2026-02-16T03:07:52.045Z"
 }
