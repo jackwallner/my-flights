@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 1300,
-    "speed": 92,
-    "timestamp": "2026-02-16T00:38:07.661Z",
-    "lat": 45.6316,
-    "lon": -122.5162,
-    "precision": "high"
+    "distance": 0.59,
+    "altitude": 28125,
+    "speed": 421,
+    "timestamp": "2026-02-16T00:40:32.124Z",
+    "lat": 45.6197,
+    "lon": -122.5165,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4056V",
-    "aircraftType": "R44",
-    "origin": "TTD",
+    "callsign": "CL60",
+    "aircraftType": "Chal",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-07T00:55:41.449Z"
+    "firstSeen": "2026-02-05T16:51:03.044Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-16T00:38:28.222Z"
+  "timestamp": "2026-02-16T00:40:42.399Z"
 }
