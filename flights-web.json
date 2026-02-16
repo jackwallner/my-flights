@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 33400,
-    "speed": 478,
-    "timestamp": "2026-02-16T19:48:53.368Z",
-    "lat": 45.6235,
-    "lon": -122.523,
+    "distance": 0.31,
+    "altitude": 33500,
+    "speed": 439,
+    "timestamp": "2026-02-16T19:55:55.532Z",
+    "lat": 45.6202,
+    "lon": -122.5283,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1714",
-    "aircraftType": "737",
-    "origin": "LAX",
+    "callsign": "QXE9986",
+    "aircraftType": "E175",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T19:46:29.977Z"
+    "firstSeen": "2026-02-16T19:55:55.530Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-16T19:49:03.670Z"
+  "timestamp": "2026-02-16T19:56:05.799Z"
 }
