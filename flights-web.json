@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 28125,
-    "speed": 421,
-    "timestamp": "2026-02-16T00:40:32.124Z",
-    "lat": 45.6197,
-    "lon": -122.5165,
+    "distance": 0.48,
+    "altitude": 4050,
+    "speed": 257,
+    "timestamp": "2026-02-16T01:01:57.005Z",
+    "lat": 45.6268,
+    "lon": -122.5394,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CL60",
-    "aircraftType": "Chal",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-05T16:51:03.044Z"
+    "callsign": "N59VJ",
+    "aircraftType": "SF50",
+    "origin": "RNT",
+    "destination": "HIO",
+    "firstSeen": "2026-02-16T01:01:57.003Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-16T00:40:42.399Z"
+  "timestamp": "2026-02-16T01:02:07.310Z"
 }
