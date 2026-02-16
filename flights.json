@@ -7927,5 +7927,24 @@
     "initialDistance": 0.6473656191307715,
     "initialAltitude": 4000,
     "initialSpeed": 218
+  },
+  {
+    "callsign": "N59VJ",
+    "flightNumber": null,
+    "aircraftType": "SF50",
+    "aircraftName": null,
+    "origin": "RNT",
+    "destination": "HIO",
+    "icao": "A79CF2",
+    "registration": "N59VJ",
+    "firstSeen": "2026-02-16T01:01:57.003Z",
+    "lastSeen": "2026-02-16T01:01:57.003Z",
+    "duration": 0,
+    "closestDistance": 0.48268209314693744,
+    "closestAltitude": 4050,
+    "closestSpeed": 257,
+    "initialDistance": 0.48268209314693744,
+    "initialAltitude": 4050,
+    "initialSpeed": 257
   }
 ]
