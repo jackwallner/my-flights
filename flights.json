@@ -8022,5 +8022,24 @@
     "initialDistance": 0.6833576195878538,
     "initialAltitude": 33500,
     "initialSpeed": 421
+  },
+  {
+    "callsign": "FA7X",
+    "flightNumber": null,
+    "aircraftType": "FA7X",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-17T01:34:40.279Z",
+    "lastSeen": "2026-02-17T01:34:40.279Z",
+    "duration": 0,
+    "closestDistance": 0.6846000477619544,
+    "closestAltitude": 39900,
+    "closestSpeed": 503,
+    "initialDistance": 0.6846000477619544,
+    "initialAltitude": 39900,
+    "initialSpeed": 503
   }
 ]
