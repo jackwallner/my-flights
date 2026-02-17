@@ -8136,5 +8136,24 @@
     "initialDistance": 0.5863582444301695,
     "initialAltitude": 43000,
     "initialSpeed": 467
+  },
+  {
+    "callsign": "AMF5112",
+    "flightNumber": "A81985",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A16BF6",
+    "registration": "N191AV",
+    "firstSeen": "2026-02-17T22:04:58.229Z",
+    "lastSeen": "2026-02-17T22:05:08.569Z",
+    "duration": 10,
+    "closestDistance": 0.21587222454500324,
+    "closestAltitude": 3950,
+    "closestSpeed": 152,
+    "initialDistance": 0.2511263664864555,
+    "initialAltitude": 3700,
+    "initialSpeed": 152
   }
 ]
