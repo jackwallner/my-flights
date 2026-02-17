@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 3950,
-    "speed": 152,
-    "timestamp": "2026-02-17T22:05:08.571Z",
-    "lat": 45.6287,
-    "lon": -122.5297,
+    "distance": 0.09,
+    "altitude": 3300,
+    "speed": 159,
+    "timestamp": "2026-02-17T22:34:21.306Z",
+    "lat": 45.6239,
+    "lon": -122.5274,
     "precision": "high"
   },
   "flight": {
-    "callsign": "AMF5112",
-    "aircraftType": "BE99",
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-17T22:04:58.229Z"
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.09,
   "isOverhead": true,
   "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-17T22:05:29.163Z"
+  "timestamp": "2026-02-17T22:34:41.943Z"
 }
