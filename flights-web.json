@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 3050,
-    "speed": 171,
-    "timestamp": "2026-02-17T19:01:33.438Z",
-    "lat": 45.6288,
-    "lon": -122.5361,
+    "distance": 0.3,
+    "altitude": 0,
+    "speed": 125,
+    "timestamp": "2026-02-17T19:52:46.844Z",
+    "lat": 45.6271,
+    "lon": -122.5347,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N725KP",
-    "aircraftType": "PC-1",
+    "callsign": "CFS946",
+    "aircraftType": "Cara",
     "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-10T15:03:20.130Z"
+    "destination": "PDX",
+    "firstSeen": "2026-02-13T19:22:36.307Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.3,
   "isOverhead": true,
   "pathSnapshots": 3,
-  "status": "completed",
-  "timestamp": "2026-02-17T19:01:54.439Z"
+  "status": "tracking",
+  "timestamp": "2026-02-17T19:52:57.158Z"
 }
