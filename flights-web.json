@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 39900,
-    "speed": 503,
-    "timestamp": "2026-02-17T01:34:40.281Z",
-    "lat": 45.6347,
-    "lon": -122.5373,
+    "distance": 0.3,
+    "altitude": 2875,
+    "speed": 187,
+    "timestamp": "2026-02-17T01:56:39.913Z",
+    "lat": 45.6232,
+    "lon": -122.5345,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FA7X",
-    "aircraftType": "Falc",
+    "callsign": "BE20",
+    "aircraftType": "King",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-17T01:34:40.279Z"
+    "firstSeen": "2026-02-17T01:56:39.910Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-17T01:34:50.608Z"
+  "timestamp": "2026-02-17T01:57:00.489Z"
 }
