@@ -8041,5 +8041,24 @@
     "initialDistance": 0.6846000477619544,
     "initialAltitude": 39900,
     "initialSpeed": 503
+  },
+  {
+    "callsign": "BE20",
+    "flightNumber": null,
+    "aircraftType": "BE20",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-17T01:56:39.910Z",
+    "lastSeen": "2026-02-17T01:56:50.201Z",
+    "duration": 10,
+    "closestDistance": 0.2959023309466377,
+    "closestAltitude": 2875,
+    "closestSpeed": 187,
+    "initialDistance": 0.2959023309466377,
+    "initialAltitude": 2875,
+    "initialSpeed": 187
   }
 ]
