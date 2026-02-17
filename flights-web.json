@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 2900,
-    "speed": 170,
-    "timestamp": "2026-02-17T16:01:12.716Z",
-    "lat": 45.63,
-    "lon": -122.5281,
+    "distance": 0.31,
+    "altitude": 7500,
+    "speed": 155,
+    "timestamp": "2026-02-17T16:12:04.027Z",
+    "lat": 45.6277,
+    "lon": -122.5345,
     "precision": "high"
   },
   "flight": {
-    "callsign": "BTQ352",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-01-30T18:21:31.073Z"
+    "callsign": "N756EM",
+    "aircraftType": "C82R",
+    "origin": "HIO",
+    "destination": "PSC",
+    "firstSeen": "2026-02-17T16:11:53.731Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-17T16:01:33.355Z"
+  "timestamp": "2026-02-17T16:12:24.638Z"
 }

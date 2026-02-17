@@ -8079,5 +8079,24 @@
     "initialDistance": 0.4276077409646257,
     "initialAltitude": 32000,
     "initialSpeed": 478
+  },
+  {
+    "callsign": "N756EM",
+    "flightNumber": null,
+    "aircraftType": "C82R",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": "PSC",
+    "icao": "AA30C3",
+    "registration": "N756EM",
+    "firstSeen": "2026-02-17T16:11:53.731Z",
+    "lastSeen": "2026-02-17T16:12:14.341Z",
+    "duration": 21,
+    "closestDistance": 0.3050472637599092,
+    "closestAltitude": 7500,
+    "closestSpeed": 155,
+    "initialDistance": 0.5965384408811759,
+    "initialAltitude": 7500,
+    "initialSpeed": 155
   }
 ]
