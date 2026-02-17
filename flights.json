@@ -8003,5 +8003,24 @@
     "initialDistance": 0.6366170319749724,
     "initialAltitude": 1600,
     "initialSpeed": 113
+  },
+  {
+    "callsign": "N592DR",
+    "flightNumber": null,
+    "aircraftType": "C25A",
+    "aircraftName": null,
+    "origin": "BFL",
+    "destination": "PWT",
+    "icao": "A7A530",
+    "registration": "N592DR",
+    "firstSeen": "2026-02-17T00:52:33.469Z",
+    "lastSeen": "2026-02-17T00:52:33.469Z",
+    "duration": 0,
+    "closestDistance": 0.6833576195878538,
+    "closestAltitude": 33500,
+    "closestSpeed": 421,
+    "initialDistance": 0.6833576195878538,
+    "initialAltitude": 33500,
+    "initialSpeed": 421
   }
 ]
