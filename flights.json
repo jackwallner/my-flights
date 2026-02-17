@@ -8098,5 +8098,24 @@
     "initialDistance": 0.5965384408811759,
     "initialAltitude": 7500,
     "initialSpeed": 155
+  },
+  {
+    "callsign": "ASA748",
+    "flightNumber": "AS748",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A52E54",
+    "registration": "N433AS",
+    "firstSeen": "2026-02-17T18:08:51.473Z",
+    "lastSeen": "2026-02-17T18:08:51.473Z",
+    "duration": 0,
+    "closestDistance": 0.625976331583046,
+    "closestAltitude": 34025,
+    "closestSpeed": 435,
+    "initialDistance": 0.625976331583046,
+    "initialAltitude": 34025,
+    "initialSpeed": 435
   }
 ]
