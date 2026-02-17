@@ -8060,5 +8060,24 @@
     "initialDistance": 0.2959023309466377,
     "initialAltitude": 2875,
     "initialSpeed": 187
+  },
+  {
+    "callsign": "ASA193",
+    "flightNumber": "AS193",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "ANC",
+    "icao": "A9A397",
+    "registration": "N720AL",
+    "firstSeen": "2026-02-17T07:47:55.211Z",
+    "lastSeen": "2026-02-17T07:47:55.211Z",
+    "duration": 0,
+    "closestDistance": 0.4276077409646257,
+    "closestAltitude": 32000,
+    "closestSpeed": 478,
+    "initialDistance": 0.4276077409646257,
+    "initialAltitude": 32000,
+    "initialSpeed": 478
   }
 ]
