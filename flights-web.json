@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 33500,
-    "speed": 421,
-    "timestamp": "2026-02-17T00:52:33.473Z",
-    "lat": 45.6179,
-    "lon": -122.5405,
+    "distance": 0.28,
+    "altitude": 34000,
+    "speed": 454,
+    "timestamp": "2026-02-17T01:11:18.082Z",
+    "lat": 45.6211,
+    "lon": -122.5311,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N592DR",
-    "aircraftType": "Cita",
-    "origin": "BFL",
-    "destination": "PWT",
-    "firstSeen": "2026-02-17T00:52:33.469Z"
+    "callsign": "ASA408",
+    "aircraftType": "737",
+    "origin": "FAT",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T02:08:10.184Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.28,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-17T00:52:43.797Z"
+  "timestamp": "2026-02-17T01:11:28.370Z"
 }
