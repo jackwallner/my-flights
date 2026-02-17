@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 32000,
-    "speed": 478,
-    "timestamp": "2026-02-17T07:47:55.214Z",
-    "lat": 45.6221,
-    "lon": -122.519,
+    "distance": 0.2,
+    "altitude": 2900,
+    "speed": 177,
+    "timestamp": "2026-02-17T14:42:53.350Z",
+    "lat": 45.6286,
+    "lon": -122.5292,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA193",
-    "aircraftType": "B39M",
-    "origin": "LAX",
-    "destination": "ANC",
-    "firstSeen": "2026-02-17T07:47:55.211Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-17T07:48:05.486Z"
+  "timestamp": "2026-02-17T14:43:03.637Z"
 }
