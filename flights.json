@@ -8193,5 +8193,24 @@
     "initialDistance": 0.5323055487829996,
     "initialAltitude": 40200,
     "initialSpeed": 425
+  },
+  {
+    "callsign": "N8099Q",
+    "flightNumber": null,
+    "aircraftType": "P28B",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "AB06EE",
+    "registration": "N8099Q",
+    "firstSeen": "2026-02-18T01:21:32.131Z",
+    "lastSeen": "2026-02-18T01:21:42.637Z",
+    "duration": 11,
+    "closestDistance": 0.12751670218456235,
+    "closestAltitude": 2300,
+    "closestSpeed": 117,
+    "initialDistance": 0.40321853657847484,
+    "initialAltitude": 2200,
+    "initialSpeed": 114
   }
 ]
