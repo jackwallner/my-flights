@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 2750,
-    "speed": 171,
-    "timestamp": "2026-02-18T14:47:21.719Z",
-    "lat": 45.6237,
-    "lon": -122.5195,
+    "distance": 0.44,
+    "altitude": 3000,
+    "speed": 163,
+    "timestamp": "2026-02-18T16:04:39.650Z",
+    "lat": 45.6252,
+    "lon": -122.5177,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N724KP",
-    "aircraftType": "PC-1",
+    "callsign": "AMF1964",
+    "aircraftType": "BE99",
     "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-08T18:18:03.924Z"
+    "destination": "HES",
+    "firstSeen": "2026-02-05T15:33:22.640Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.44,
   "isOverhead": true,
   "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-18T14:47:31.991Z"
+  "timestamp": "2026-02-18T16:04:49.932Z"
 }
