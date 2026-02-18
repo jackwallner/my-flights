@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 2300,
-    "speed": 117,
-    "timestamp": "2026-02-18T01:21:42.638Z",
-    "lat": 45.6234,
-    "lon": -122.5267,
-    "precision": "high"
+    "distance": 0.63,
+    "altitude": 34000,
+    "speed": 430,
+    "timestamp": "2026-02-18T01:33:25.432Z",
+    "lat": 45.6327,
+    "lon": -122.5388,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N8099Q",
-    "aircraftType": "P28B",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-18T01:21:32.131Z"
+    "callsign": "ASA760",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T01:39:32.331Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-18T01:22:13.622Z"
+  "timestamp": "2026-02-18T01:33:35.721Z"
 }
