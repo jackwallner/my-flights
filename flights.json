@@ -8212,5 +8212,24 @@
     "initialDistance": 0.40321853657847484,
     "initialAltitude": 2200,
     "initialSpeed": 114
+  },
+  {
+    "callsign": "N18GB",
+    "flightNumber": null,
+    "aircraftType": "C650",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "TIW",
+    "icao": "A13EEB",
+    "registration": "N18GB",
+    "firstSeen": "2026-02-18T02:51:15.752Z",
+    "lastSeen": "2026-02-18T02:51:15.752Z",
+    "duration": 0,
+    "closestDistance": 0.6189225963415481,
+    "closestAltitude": 31125,
+    "closestSpeed": 419,
+    "initialDistance": 0.6189225963415481,
+    "initialAltitude": 31125,
+    "initialSpeed": 419
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 2300,
-    "speed": 99,
-    "timestamp": "2026-02-18T01:40:18.765Z",
-    "lat": 45.6237,
-    "lon": -122.5246,
-    "precision": "high"
+    "distance": 0.62,
+    "altitude": 31125,
+    "speed": 419,
+    "timestamp": "2026-02-18T02:51:15.754Z",
+    "lat": 45.6153,
+    "lon": -122.5318,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6655J",
-    "aircraftType": "P28A",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-05T20:07:33.596Z"
+    "callsign": "N18GB",
+    "aircraftType": "C650",
+    "origin": "TRM",
+    "destination": "TIW",
+    "firstSeen": "2026-02-18T02:51:15.752Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.62,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-18T01:40:50.079Z"
+  "timestamp": "2026-02-18T02:51:26.034Z"
 }
