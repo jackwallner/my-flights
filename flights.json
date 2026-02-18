@@ -8155,5 +8155,24 @@
     "initialDistance": 0.2511263664864555,
     "initialAltitude": 3700,
     "initialSpeed": 152
+  },
+  {
+    "callsign": "AMF2229",
+    "flightNumber": "A82229",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "PSC",
+    "icao": "AD59E1",
+    "registration": "N96AV",
+    "firstSeen": "2026-02-18T00:32:10.954Z",
+    "lastSeen": "2026-02-18T00:32:10.954Z",
+    "duration": 0,
+    "closestDistance": 0.6717352638284408,
+    "closestAltitude": 3200,
+    "closestSpeed": 172,
+    "initialDistance": 0.6717352638284408,
+    "initialAltitude": 3200,
+    "initialSpeed": 172
   }
 ]
