@@ -8174,5 +8174,24 @@
     "initialDistance": 0.6717352638284408,
     "initialAltitude": 3200,
     "initialSpeed": 172
+  },
+  {
+    "callsign": "EJA463",
+    "flightNumber": "EJA463",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "BFI",
+    "icao": "A5A62F",
+    "registration": "N463QS",
+    "firstSeen": "2026-02-18T00:51:15.488Z",
+    "lastSeen": "2026-02-18T00:51:15.488Z",
+    "duration": 0,
+    "closestDistance": 0.5323055487829996,
+    "closestAltitude": 40200,
+    "closestSpeed": 425,
+    "initialDistance": 0.5323055487829996,
+    "initialAltitude": 40200,
+    "initialSpeed": 425
   }
 ]
