@@ -8288,5 +8288,24 @@
     "initialDistance": 0.44018263033671323,
     "initialAltitude": 40000,
     "initialSpeed": 417
+  },
+  {
+    "callsign": "PXT525",
+    "flightNumber": "PXT525",
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "PAE",
+    "icao": "A69B9A",
+    "registration": "N525B",
+    "firstSeen": "2026-02-18T22:43:27.198Z",
+    "lastSeen": "2026-02-18T22:43:37.492Z",
+    "duration": 10,
+    "closestDistance": 0.38884675460062207,
+    "closestAltitude": 43000,
+    "closestSpeed": 368,
+    "initialDistance": 0.38884675460062207,
+    "initialAltitude": 43000,
+    "initialSpeed": 368
   }
 ]
