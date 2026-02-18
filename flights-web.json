@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 40000,
-    "speed": 417,
-    "timestamp": "2026-02-18T18:34:18.538Z",
-    "lat": 45.6211,
-    "lon": -122.5195,
+    "distance": 0.07,
+    "altitude": 34000,
+    "speed": 413,
+    "timestamp": "2026-02-18T18:57:29.236Z",
+    "lat": 45.6245,
+    "lon": -122.5294,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA597",
-    "aircraftType": "C68A",
-    "origin": "RNO",
-    "destination": "RNT",
-    "firstSeen": "2026-02-18T18:34:18.536Z"
+    "callsign": "ASA798",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T19:38:59.887Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.07,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-18T18:34:28.808Z"
+  "timestamp": "2026-02-18T18:57:39.556Z"
 }
