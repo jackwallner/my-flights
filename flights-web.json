@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 3200,
-    "speed": 172,
-    "timestamp": "2026-02-18T00:32:10.956Z",
-    "lat": 45.629,
-    "lon": -122.5432,
+    "distance": 0.53,
+    "altitude": 40200,
+    "speed": 425,
+    "timestamp": "2026-02-18T00:51:15.489Z",
+    "lat": 45.6195,
+    "lon": -122.5185,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AMF2229",
-    "aircraftType": "BE99",
-    "origin": "PDX",
-    "destination": "PSC",
-    "firstSeen": "2026-02-18T00:32:10.954Z"
+    "callsign": "EJA463",
+    "aircraftType": "E55P",
+    "origin": "SNA",
+    "destination": "BFI",
+    "firstSeen": "2026-02-18T00:51:15.488Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-18T00:32:21.244Z"
+  "timestamp": "2026-02-18T00:51:25.795Z"
 }
