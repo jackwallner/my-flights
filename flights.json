@@ -8231,5 +8231,24 @@
     "initialDistance": 0.6189225963415481,
     "initialAltitude": 31125,
     "initialSpeed": 419
+  },
+  {
+    "callsign": "ASA470",
+    "flightNumber": "AS470",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "AD2733",
+    "registration": "N947AK",
+    "firstSeen": "2026-02-18T02:54:11.142Z",
+    "lastSeen": "2026-02-18T02:54:11.142Z",
+    "duration": 0,
+    "closestDistance": 0.6076420014592246,
+    "closestAltitude": 36000,
+    "closestSpeed": 447,
+    "initialDistance": 0.6076420014592246,
+    "initialAltitude": 36000,
+    "initialSpeed": 447
   }
 ]

@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 31125,
-    "speed": 419,
-    "timestamp": "2026-02-18T02:51:15.754Z",
-    "lat": 45.6153,
-    "lon": -122.5318,
+    "distance": 0.61,
+    "altitude": 36000,
+    "speed": 447,
+    "timestamp": "2026-02-18T02:54:11.144Z",
+    "lat": 45.6306,
+    "lon": -122.5158,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N18GB",
-    "aircraftType": "C650",
-    "origin": "TRM",
-    "destination": "TIW",
-    "firstSeen": "2026-02-18T02:51:15.752Z"
+    "callsign": "ASA470",
+    "aircraftType": "B39M",
+    "origin": "OAK",
+    "destination": "SEA",
+    "firstSeen": "2026-02-18T02:54:11.142Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-18T02:51:26.034Z"
+  "timestamp": "2026-02-18T02:54:21.446Z"
 }
