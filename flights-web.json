@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.39,
+    "distance": 0.44,
     "altitude": 43000,
-    "speed": 368,
-    "timestamp": "2026-02-18T22:43:27.201Z",
-    "lat": 45.6189,
-    "lon": -122.5297,
+    "speed": 433,
+    "timestamp": "2026-02-18T23:26:42.970Z",
+    "lat": 45.6293,
+    "lon": -122.537,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PXT525",
-    "aircraftType": "Cita",
-    "origin": "RNO",
-    "destination": "PAE",
-    "firstSeen": "2026-02-18T22:43:27.198Z"
+    "callsign": "CL35",
+    "aircraftType": "CL35",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-02T21:10:19.478Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.44,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-18T22:43:47.769Z"
+  "timestamp": "2026-02-18T23:26:53.271Z"
 }
