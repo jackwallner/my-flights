@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 3000,
-    "speed": 161,
-    "timestamp": "2026-02-18T01:08:37.960Z",
-    "lat": 45.6282,
+    "distance": 0.13,
+    "altitude": 2300,
+    "speed": 117,
+    "timestamp": "2026-02-18T01:21:42.638Z",
+    "lat": 45.6234,
     "lon": -122.5267,
-    "precision": "high"
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ356",
-    "aircraftType": "PC-1",
+    "callsign": "N8099Q",
+    "aircraftType": "P28B",
     "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-02-01T01:16:07.516Z"
+    "destination": null,
+    "firstSeen": "2026-02-18T01:21:32.131Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 3,
-  "status": "completed",
-  "timestamp": "2026-02-18T01:08:58.579Z"
+  "pathSnapshots": 2,
+  "status": "tracking",
+  "timestamp": "2026-02-18T01:21:42.638Z"
 }
