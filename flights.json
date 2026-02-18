@@ -8250,5 +8250,24 @@
     "initialDistance": 0.6076420014592246,
     "initialAltitude": 36000,
     "initialSpeed": 447
+  },
+  {
+    "callsign": "ASA584",
+    "flightNumber": "AS584",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "PAE",
+    "icao": "A5A888",
+    "registration": "N464AS",
+    "firstSeen": "2026-02-18T05:41:25.139Z",
+    "lastSeen": "2026-02-18T05:41:25.139Z",
+    "duration": 0,
+    "closestDistance": 0.6977054124083738,
+    "closestAltitude": 36000,
+    "closestSpeed": 452,
+    "initialDistance": 0.6977054124083738,
+    "initialAltitude": 36000,
+    "initialSpeed": 452
   }
 ]

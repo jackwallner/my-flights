@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.61,
+    "distance": 0.7,
     "altitude": 36000,
-    "speed": 447,
-    "timestamp": "2026-02-18T02:54:11.144Z",
-    "lat": 45.6306,
-    "lon": -122.5158,
+    "speed": 452,
+    "timestamp": "2026-02-18T05:41:25.140Z",
+    "lat": 45.6272,
+    "lon": -122.5445,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA470",
-    "aircraftType": "B39M",
-    "origin": "OAK",
-    "destination": "SEA",
-    "firstSeen": "2026-02-18T02:54:11.142Z"
+    "callsign": "ASA584",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "PAE",
+    "firstSeen": "2026-02-18T05:41:25.139Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.7,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-18T02:54:21.446Z"
+  "timestamp": "2026-02-18T05:41:35.414Z"
 }
