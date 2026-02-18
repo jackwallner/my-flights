@@ -8269,5 +8269,24 @@
     "initialDistance": 0.6977054124083738,
     "initialAltitude": 36000,
     "initialSpeed": 452
+  },
+  {
+    "callsign": "EJA597",
+    "flightNumber": "EJA597",
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "RNT",
+    "icao": "A7B8D7",
+    "registration": "N597QS",
+    "firstSeen": "2026-02-18T18:34:18.536Z",
+    "lastSeen": "2026-02-18T18:34:18.536Z",
+    "duration": 0,
+    "closestDistance": 0.44018263033671323,
+    "closestAltitude": 40000,
+    "closestSpeed": 417,
+    "initialDistance": 0.44018263033671323,
+    "initialAltitude": 40000,
+    "initialSpeed": 417
   }
 ]
