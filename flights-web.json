@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 39975,
-    "speed": 431,
-    "timestamp": "2026-02-18T18:22:27.847Z",
-    "lat": 45.623,
-    "lon": -122.54,
+    "distance": 0.44,
+    "altitude": 40000,
+    "speed": 417,
+    "timestamp": "2026-02-18T18:34:18.538Z",
+    "lat": 45.6211,
+    "lon": -122.5195,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CL60",
-    "aircraftType": "Chal",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-05T16:51:03.044Z"
+    "callsign": "EJA597",
+    "aircraftType": "C68A",
+    "origin": "RNO",
+    "destination": "RNT",
+    "firstSeen": "2026-02-18T18:34:18.536Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.44,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-18T18:22:38.309Z"
+  "timestamp": "2026-02-18T18:34:28.808Z"
 }
