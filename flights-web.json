@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 40200,
-    "speed": 425,
-    "timestamp": "2026-02-18T00:51:15.489Z",
-    "lat": 45.6195,
-    "lon": -122.5185,
-    "precision": "tracked"
+    "distance": 0.19,
+    "altitude": 3000,
+    "speed": 161,
+    "timestamp": "2026-02-18T01:08:37.960Z",
+    "lat": 45.6282,
+    "lon": -122.5267,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "EJA463",
-    "aircraftType": "E55P",
-    "origin": "SNA",
-    "destination": "BFI",
-    "firstSeen": "2026-02-18T00:51:15.488Z"
+    "callsign": "BTQ356",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-02-01T01:16:07.516Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.19,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-18T00:51:25.795Z"
+  "timestamp": "2026-02-18T01:08:58.579Z"
 }
