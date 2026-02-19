@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 40000,
-    "speed": 428,
-    "timestamp": "2026-02-19T10:19:49.294Z",
-    "lat": 45.6354,
-    "lon": -122.5212,
-    "precision": "tracked"
+    "distance": 0.08,
+    "altitude": 3150,
+    "speed": 151,
+    "timestamp": "2026-02-19T14:42:23.285Z",
+    "lat": 45.6239,
+    "lon": -122.528,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA9821",
-    "aircraftType": "737",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-19T10:19:38.992Z"
+    "callsign": "N725KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-10T15:03:20.130Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.08,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-19T10:19:59.700Z"
+  "timestamp": "2026-02-19T14:42:44.142Z"
 }
