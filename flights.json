@@ -8383,5 +8383,24 @@
     "initialDistance": 0.4836448319314025,
     "initialAltitude": 22000,
     "initialSpeed": 381
+  },
+  {
+    "callsign": "ASA273",
+    "flightNumber": "AS273",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A2CE05",
+    "registration": "N280AK",
+    "firstSeen": "2026-02-19T22:08:15.011Z",
+    "lastSeen": "2026-02-19T22:08:15.011Z",
+    "duration": 0,
+    "closestDistance": 0.5893837326252322,
+    "closestAltitude": 32000,
+    "closestSpeed": 374,
+    "initialDistance": 0.5893837326252322,
+    "initialAltitude": 32000,
+    "initialSpeed": 374
   }
 ]
