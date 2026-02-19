@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.08,
-    "altitude": 2875,
-    "speed": 162,
-    "timestamp": "2026-02-19T16:14:28.734Z",
-    "lat": 45.6241,
-    "lon": -122.5272,
-    "precision": "high"
+    "distance": 0.39,
+    "altitude": 36000,
+    "speed": 406,
+    "timestamp": "2026-02-19T16:56:23.198Z",
+    "lat": 45.627,
+    "lon": -122.5371,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "callsign": "ASA383",
+    "aircraftType": "B39M",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-19T16:56:23.195Z"
   },
-  "overheadScore": 0.08,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-19T16:14:49.291Z"
+  "timestamp": "2026-02-19T16:56:33.477Z"
 }

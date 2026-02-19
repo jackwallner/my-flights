@@ -8345,5 +8345,24 @@
     "initialDistance": 0.6931728637730661,
     "initialAltitude": 40000,
     "initialSpeed": 428
+  },
+  {
+    "callsign": "ASA383",
+    "flightNumber": "AS383",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AD6B0C",
+    "registration": "N964AK",
+    "firstSeen": "2026-02-19T16:56:23.195Z",
+    "lastSeen": "2026-02-19T16:56:23.195Z",
+    "duration": 0,
+    "closestDistance": 0.3912735723159079,
+    "closestAltitude": 36000,
+    "closestSpeed": 406,
+    "initialDistance": 0.3912735723159079,
+    "initialAltitude": 36000,
+    "initialSpeed": 406
   }
 ]
