@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 35475,
-    "speed": 407,
-    "timestamp": "2026-02-19T17:29:42.211Z",
-    "lat": 45.6256,
-    "lon": -122.5383,
+    "distance": 0.12,
+    "altitude": 36000,
+    "speed": 417,
+    "timestamp": "2026-02-19T18:17:47.282Z",
+    "lat": 45.6272,
+    "lon": -122.5291,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2530",
+    "callsign": "ASA656",
     "aircraftType": "737",
-    "origin": "SAN",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T17:04:34.331Z"
+    "firstSeen": "2026-02-09T18:32:49.641Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.12,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-19T17:29:52.520Z"
+  "timestamp": "2026-02-19T18:17:57.569Z"
 }
