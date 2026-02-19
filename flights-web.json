@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 38850,
-    "speed": 481,
-    "timestamp": "2026-02-19T17:14:25.069Z",
-    "lat": 45.6254,
-    "lon": -122.5405,
+    "distance": 0.48,
+    "altitude": 35750,
+    "speed": 405,
+    "timestamp": "2026-02-19T17:17:41.150Z",
+    "lat": 45.6234,
+    "lon": -122.5391,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GA7C",
-    "aircraftType": "GA7C",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T19:01:20.748Z"
+    "callsign": "DAL2980",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T17:41:54.213Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-19T17:14:35.332Z"
+  "timestamp": "2026-02-19T17:17:51.412Z"
 }
