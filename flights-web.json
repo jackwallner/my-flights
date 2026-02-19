@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 43000,
-    "speed": 433,
-    "timestamp": "2026-02-18T23:26:42.970Z",
-    "lat": 45.6293,
-    "lon": -122.537,
+    "distance": 0.43,
+    "altitude": 2625,
+    "speed": 174,
+    "timestamp": "2026-02-19T00:08:39.579Z",
+    "lat": 45.6202,
+    "lon": -122.5209,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CL35",
-    "aircraftType": "CL35",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-02T21:10:19.478Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.43,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-18T23:26:53.271Z"
+  "timestamp": "2026-02-19T00:09:00.137Z"
 }
