@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 36000,
-    "speed": 400,
-    "timestamp": "2026-02-19T15:58:09.534Z",
-    "lat": 45.6236,
-    "lon": -122.5193,
-    "precision": "tracked"
+    "distance": 0.08,
+    "altitude": 2875,
+    "speed": 162,
+    "timestamp": "2026-02-19T16:14:28.734Z",
+    "lat": 45.6241,
+    "lon": -122.5272,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA416",
-    "aircraftType": "737 ",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T16:21:16.464Z"
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.08,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-19T15:58:19.840Z"
+  "timestamp": "2026-02-19T16:14:49.291Z"
 }
