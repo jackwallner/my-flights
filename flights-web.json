@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 22000,
-    "speed": 381,
-    "timestamp": "2026-02-19T20:54:44.079Z",
-    "lat": 45.6268,
-    "lon": -122.5168,
+    "distance": 0.59,
+    "altitude": 36000,
+    "speed": 397,
+    "timestamp": "2026-02-19T21:57:25.922Z",
+    "lat": 45.6156,
+    "lon": -122.5298,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA8702",
-    "aircraftType": "737 ",
-    "origin": "SJC",
-    "destination": "PAE",
-    "firstSeen": "2026-02-19T20:54:44.076Z"
+    "callsign": "SWA1037",
+    "aircraftType": "B737",
+    "origin": "OAK",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T21:46:08.399Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-19T20:54:54.369Z"
+  "timestamp": "2026-02-19T21:57:36.185Z"
 }
