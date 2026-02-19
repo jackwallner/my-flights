@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 3175,
-    "speed": 179,
-    "timestamp": "2026-02-19T01:30:33.379Z",
-    "lat": 45.624,
-    "lon": -122.5234,
-    "precision": "high"
+    "distance": 0.58,
+    "altitude": 34000,
+    "speed": 423,
+    "timestamp": "2026-02-19T01:42:05.929Z",
+    "lat": 45.6281,
+    "lon": -122.5149,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "callsign": "ASA591",
+    "aircraftType": "B39M",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T02:03:45.907Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.58,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-19T01:30:54.002Z"
+  "timestamp": "2026-02-19T01:42:16.268Z"
 }
