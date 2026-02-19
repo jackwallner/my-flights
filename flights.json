@@ -8307,5 +8307,24 @@
     "initialDistance": 0.38884675460062207,
     "initialAltitude": 43000,
     "initialSpeed": 368
+  },
+  {
+    "callsign": "N800BJ",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "BFI",
+    "icao": "AAE1FF",
+    "registration": "N800BJ",
+    "firstSeen": "2026-02-19T02:22:08.713Z",
+    "lastSeen": "2026-02-19T02:22:08.713Z",
+    "duration": 0,
+    "closestDistance": 0.6714427683264335,
+    "closestAltitude": 26000,
+    "closestSpeed": 241,
+    "initialDistance": 0.6714427683264335,
+    "initialAltitude": 26000,
+    "initialSpeed": 241
   }
 ]

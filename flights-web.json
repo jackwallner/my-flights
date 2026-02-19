@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 34000,
-    "speed": 421,
-    "timestamp": "2026-02-19T01:45:52.988Z",
-    "lat": 45.6249,
-    "lon": -122.5329,
+    "distance": 0.67,
+    "altitude": 26000,
+    "speed": 241,
+    "timestamp": "2026-02-19T02:22:08.715Z",
+    "lat": 45.6195,
+    "lon": -122.5418,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2279",
-    "aircraftType": "737",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T01:42:01.887Z"
+    "callsign": "N800BJ",
+    "aircraftType": "PC-1",
+    "origin": "RNO",
+    "destination": "BFI",
+    "firstSeen": "2026-02-19T02:22:08.713Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-19T01:46:03.282Z"
+  "timestamp": "2026-02-19T02:22:19.032Z"
 }
