@@ -8364,5 +8364,24 @@
     "initialDistance": 0.3912735723159079,
     "initialAltitude": 36000,
     "initialSpeed": 406
+  },
+  {
+    "callsign": "SWA8702",
+    "flightNumber": "WN8702",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "PAE",
+    "icao": "AC300D",
+    "registration": "N8847Q",
+    "firstSeen": "2026-02-19T20:54:44.076Z",
+    "lastSeen": "2026-02-19T20:54:44.076Z",
+    "duration": 0,
+    "closestDistance": 0.4836448319314025,
+    "closestAltitude": 22000,
+    "closestSpeed": 381,
+    "initialDistance": 0.4836448319314025,
+    "initialAltitude": 22000,
+    "initialSpeed": 381
   }
 ]
