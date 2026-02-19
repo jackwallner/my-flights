@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 34050,
-    "speed": 410,
-    "timestamp": "2026-02-19T04:28:50.359Z",
-    "lat": 45.6275,
-    "lon": -122.5165,
+    "distance": 0.53,
+    "altitude": 34000,
+    "speed": 448,
+    "timestamp": "2026-02-19T08:07:10.745Z",
+    "lat": 45.6179,
+    "lon": -122.521,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2019",
-    "aircraftType": "A320",
+    "callsign": "SKW5579",
+    "aircraftType": "E175",
     "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T04:16:04.286Z"
+    "firstSeen": "2026-02-07T08:02:08.238Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-19T04:29:00.654Z"
+  "status": "tracking",
+  "timestamp": "2026-02-19T08:07:10.745Z"
 }
