@@ -8326,5 +8326,24 @@
     "initialDistance": 0.6714427683264335,
     "initialAltitude": 26000,
     "initialSpeed": 241
+  },
+  {
+    "callsign": "ASA9821",
+    "flightNumber": "AS9821",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A29908",
+    "registration": "N267AK",
+    "firstSeen": "2026-02-19T10:19:38.992Z",
+    "lastSeen": "2026-02-19T10:19:49.292Z",
+    "duration": 10,
+    "closestDistance": 0.6733257705193909,
+    "closestAltitude": 40000,
+    "closestSpeed": 428,
+    "initialDistance": 0.6931728637730661,
+    "initialAltitude": 40000,
+    "initialSpeed": 428
   }
 ]

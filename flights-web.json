@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 34000,
-    "speed": 448,
-    "timestamp": "2026-02-19T08:07:10.745Z",
-    "lat": 45.6179,
-    "lon": -122.521,
+    "distance": 0.67,
+    "altitude": 40000,
+    "speed": 428,
+    "timestamp": "2026-02-19T10:19:49.294Z",
+    "lat": 45.6354,
+    "lon": -122.5212,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5579",
-    "aircraftType": "E175",
-    "origin": "SFO",
+    "callsign": "ASA9821",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-07T08:02:08.238Z"
+    "firstSeen": "2026-02-19T10:19:38.992Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-19T08:07:21.028Z"
+  "timestamp": "2026-02-19T10:19:59.700Z"
 }
