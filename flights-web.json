@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 34000,
-    "speed": 385,
-    "timestamp": "2026-02-20T01:53:53.784Z",
-    "lat": 45.6222,
-    "lon": -122.5296,
+    "distance": 0.49,
+    "altitude": 40000,
+    "speed": 404,
+    "timestamp": "2026-02-20T03:27:09.051Z",
+    "lat": 45.6328,
+    "lon": -122.5327,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL2279",
+    "callsign": "ASA1304",
     "aircraftType": "737",
-    "origin": "SFO",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T01:42:01.887Z"
+    "firstSeen": "2026-02-07T15:48:48.732Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-20T01:54:04.054Z"
+  "timestamp": "2026-02-20T03:27:19.337Z"
 }
