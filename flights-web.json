@@ -1,23 +1,23 @@
 {
   "closestApproach": {
     "distance": 0.68,
-    "altitude": 1550,
-    "speed": 113,
-    "timestamp": "2026-02-20T04:13:51.287Z",
-    "lat": 45.6146,
-    "lon": -122.5224,
+    "altitude": 34000,
+    "speed": 377,
+    "timestamp": "2026-02-20T05:37:38.714Z",
+    "lat": 45.6344,
+    "lon": -122.5184,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "callsign": "QXE2467",
+    "aircraftType": "E175",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-02-15T05:03:15.989Z"
   },
   "overheadScore": 0.68,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-20T04:14:01.581Z"
+  "status": "tracking",
+  "timestamp": "2026-02-20T05:37:38.714Z"
 }
