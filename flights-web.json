@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 2775,
-    "speed": 161,
-    "timestamp": "2026-02-20T22:01:54.210Z",
-    "lat": 45.6232,
-    "lon": -122.5217,
-    "precision": "high"
+    "distance": 0.42,
+    "altitude": 43025,
+    "speed": 491,
+    "timestamp": "2026-02-20T22:08:05.500Z",
+    "lat": 45.622,
+    "lon": -122.537,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "callsign": "TCN760",
+    "aircraftType": "Cita",
+    "origin": "TRM",
+    "destination": "BFI",
+    "firstSeen": "2026-02-20T22:08:05.497Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.42,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-20T22:02:14.872Z"
+  "timestamp": "2026-02-20T22:08:15.759Z"
 }
