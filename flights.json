@@ -8421,5 +8421,24 @@
     "initialDistance": 0.5999304723158109,
     "initialAltitude": 34000,
     "initialSpeed": 393
+  },
+  {
+    "callsign": "EJA855",
+    "flightNumber": "EJA855",
+    "aircraftType": "C700",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "RNT",
+    "icao": "ABBB5A",
+    "registration": "N855QS",
+    "firstSeen": "2026-02-20T18:31:26.534Z",
+    "lastSeen": "2026-02-20T18:31:26.534Z",
+    "duration": 0,
+    "closestDistance": 0.6046052224862856,
+    "closestAltitude": 33325,
+    "closestSpeed": 422,
+    "initialDistance": 0.6046052224862856,
+    "initialAltitude": 33325,
+    "initialSpeed": 422
   }
 ]

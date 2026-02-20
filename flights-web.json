@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 38000,
-    "speed": 413,
-    "timestamp": "2026-02-20T18:16:38.472Z",
-    "lat": 45.6254,
-    "lon": -122.5148,
+    "distance": 0.6,
+    "altitude": 33325,
+    "speed": 422,
+    "timestamp": "2026-02-20T18:31:26.536Z",
+    "lat": 45.6194,
+    "lon": -122.5398,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA656",
-    "aircraftType": "737",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T18:32:49.641Z"
+    "callsign": "EJA855",
+    "aircraftType": "Cita",
+    "origin": "SNA",
+    "destination": "RNT",
+    "firstSeen": "2026-02-20T18:31:26.534Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-20T18:16:48.948Z"
+  "timestamp": "2026-02-20T18:31:36.833Z"
 }
