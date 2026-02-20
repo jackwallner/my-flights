@@ -8440,5 +8440,24 @@
     "initialDistance": 0.6046052224862856,
     "initialAltitude": 33325,
     "initialSpeed": 422
+  },
+  {
+    "callsign": "TCN760",
+    "flightNumber": "TCN760",
+    "aircraftType": "C750",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "BFI",
+    "icao": "AA439E",
+    "registration": "N760XJ",
+    "firstSeen": "2026-02-20T22:08:05.497Z",
+    "lastSeen": "2026-02-20T22:08:05.497Z",
+    "duration": 0,
+    "closestDistance": 0.422006118891201,
+    "closestAltitude": 43025,
+    "closestSpeed": 491,
+    "initialDistance": 0.422006118891201,
+    "initialAltitude": 43025,
+    "initialSpeed": 491
   }
 ]
