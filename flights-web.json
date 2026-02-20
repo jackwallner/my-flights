@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 36000,
-    "speed": 416,
-    "timestamp": "2026-02-20T17:56:39.970Z",
-    "lat": 45.6327,
-    "lon": -122.5221,
+    "distance": 0.65,
+    "altitude": 32000,
+    "speed": 400,
+    "timestamp": "2026-02-20T18:00:37.769Z",
+    "lat": 45.6217,
+    "lon": -122.5427,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1365",
+    "callsign": "ASA338",
     "aircraftType": "737",
-    "origin": "SMF",
+    "origin": "RDM",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T18:20:33.147Z"
+    "firstSeen": "2026-02-08T17:22:49.160Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.65,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-20T17:56:50.239Z"
+  "timestamp": "2026-02-20T18:00:48.105Z"
 }
