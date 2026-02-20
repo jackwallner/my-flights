@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 33325,
-    "speed": 422,
-    "timestamp": "2026-02-20T18:31:26.536Z",
-    "lat": 45.6194,
+    "distance": 0.49,
+    "altitude": 2825,
+    "speed": 156,
+    "timestamp": "2026-02-20T19:01:10.151Z",
+    "lat": 45.6262,
     "lon": -122.5398,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA855",
-    "aircraftType": "Cita",
-    "origin": "SNA",
-    "destination": "RNT",
-    "firstSeen": "2026-02-20T18:31:26.534Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.49,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-20T18:31:36.833Z"
+  "timestamp": "2026-02-20T19:01:20.445Z"
 }
