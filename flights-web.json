@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 36000,
-    "speed": 407,
-    "timestamp": "2026-02-19T22:15:48.227Z",
-    "lat": 45.6289,
-    "lon": -122.5303,
+    "distance": 0.2,
+    "altitude": 34000,
+    "speed": 385,
+    "timestamp": "2026-02-20T01:53:53.784Z",
+    "lat": 45.6222,
+    "lon": -122.5296,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1388",
+    "callsign": "UAL2279",
     "aircraftType": "737",
-    "origin": "BUR",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T22:04:04.540Z"
+    "firstSeen": "2026-02-10T01:42:01.887Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.2,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-19T22:15:58.734Z"
+  "timestamp": "2026-02-20T01:54:04.054Z"
 }
