@@ -8706,5 +8706,24 @@
     "initialDistance": 0.10502327672808681,
     "initialAltitude": 43000,
     "initialSpeed": 431
+  },
+  {
+    "callsign": "LXJ309",
+    "flightNumber": "LXJ309",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "TKF",
+    "destination": "PWT",
+    "icao": "A34154",
+    "registration": "N309FX",
+    "firstSeen": "2026-02-21T22:20:25.941Z",
+    "lastSeen": "2026-02-21T22:20:25.941Z",
+    "duration": 0,
+    "closestDistance": 0.4049020463051982,
+    "closestAltitude": 36625,
+    "closestSpeed": 423,
+    "initialDistance": 0.4049020463051982,
+    "initialAltitude": 36625,
+    "initialSpeed": 423
   }
 ]
