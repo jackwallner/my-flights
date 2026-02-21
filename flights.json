@@ -8687,5 +8687,24 @@
     "initialDistance": 0.5543608804116724,
     "initialAltitude": 37800,
     "initialSpeed": 461
+  },
+  {
+    "callsign": "EJA395",
+    "flightNumber": "EJA395",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "UDD",
+    "destination": "BFI",
+    "icao": "A496CB",
+    "registration": "N395QS",
+    "firstSeen": "2026-02-21T22:11:09.720Z",
+    "lastSeen": "2026-02-21T22:11:09.720Z",
+    "duration": 0,
+    "closestDistance": 0.10502327672808681,
+    "closestAltitude": 43000,
+    "closestSpeed": 431,
+    "initialDistance": 0.10502327672808681,
+    "initialAltitude": 43000,
+    "initialSpeed": 431
   }
 ]
