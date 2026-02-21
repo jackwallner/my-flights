@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 43000,
-    "speed": 431,
-    "timestamp": "2026-02-21T22:11:09.762Z",
-    "lat": 45.6258,
-    "lon": -122.5305,
+    "distance": 0.4,
+    "altitude": 36625,
+    "speed": 423,
+    "timestamp": "2026-02-21T22:20:25.943Z",
+    "lat": 45.63,
+    "lon": -122.535,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA395",
+    "callsign": "LXJ309",
     "aircraftType": "E55P",
-    "origin": "UDD",
-    "destination": "BFI",
-    "firstSeen": "2026-02-21T22:11:09.720Z"
+    "origin": "TKF",
+    "destination": "PWT",
+    "firstSeen": "2026-02-21T22:20:25.941Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.4,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-21T22:11:20.117Z"
+  "timestamp": "2026-02-21T22:20:36.225Z"
 }
