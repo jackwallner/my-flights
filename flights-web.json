@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 2250,
-    "speed": 247,
-    "timestamp": "2026-02-21T14:29:33.454Z",
-    "lat": 45.6219,
-    "lon": -122.5371,
+    "distance": 0.57,
+    "altitude": 36000,
+    "speed": 421,
+    "timestamp": "2026-02-21T17:40:29.616Z",
+    "lat": 45.6346,
+    "lon": -122.5261,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA499",
-    "aircraftType": "737 ",
-    "origin": "PDX",
+    "callsign": "QXE2443",
+    "aircraftType": "E175",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-02-21T14:29:33.450Z"
+    "firstSeen": "2026-02-21T17:40:19.340Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.57,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "status": "completed",
-  "timestamp": "2026-02-21T14:29:43.744Z"
+  "timestamp": "2026-02-21T17:40:39.874Z"
 }
