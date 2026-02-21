@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 37800,
-    "speed": 461,
-    "timestamp": "2026-02-21T21:18:29.331Z",
-    "lat": 45.6342,
-    "lon": -122.5247,
+    "distance": 0.58,
+    "altitude": 2225,
+    "speed": 167,
+    "timestamp": "2026-02-21T21:54:19.595Z",
+    "lat": 45.6268,
+    "lon": -122.5417,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CL30",
-    "aircraftType": "CL30",
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-21T21:18:29.328Z"
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.58,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-21T21:18:39.615Z"
+  "timestamp": "2026-02-21T21:54:29.862Z"
 }
