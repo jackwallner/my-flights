@@ -8630,5 +8630,24 @@
     "initialDistance": 0.6038761345471023,
     "initialAltitude": 38700,
     "initialSpeed": 470
+  },
+  {
+    "callsign": "SWA2724",
+    "flightNumber": "WN2724",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "A2FEE9",
+    "registration": "N292WN",
+    "firstSeen": "2026-02-21T19:58:42.098Z",
+    "lastSeen": "2026-02-21T19:58:42.098Z",
+    "duration": 0,
+    "closestDistance": 0.6580532624794305,
+    "closestAltitude": 38000,
+    "closestSpeed": 434,
+    "initialDistance": 0.6580532624794305,
+    "initialAltitude": 38000,
+    "initialSpeed": 434
   }
 ]
