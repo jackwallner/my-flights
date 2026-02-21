@@ -8554,5 +8554,24 @@
     "initialDistance": 0.09725194651324923,
     "initialAltitude": 30000,
     "initialSpeed": 427
+  },
+  {
+    "callsign": "ASA499",
+    "flightNumber": "AS499",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "SEA",
+    "icao": "AB3C0A",
+    "registration": "N823AK",
+    "firstSeen": "2026-02-21T14:29:33.450Z",
+    "lastSeen": "2026-02-21T14:29:33.450Z",
+    "duration": 0,
+    "closestDistance": 0.42853537238056594,
+    "closestAltitude": 2250,
+    "closestSpeed": 247,
+    "initialDistance": 0.42853537238056594,
+    "initialAltitude": 2250,
+    "initialSpeed": 247
   }
 ]
