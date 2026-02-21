@@ -8668,5 +8668,24 @@
     "initialDistance": 0.6212374123056595,
     "initialAltitude": 32750,
     "initialSpeed": 404
+  },
+  {
+    "callsign": "CL30",
+    "flightNumber": null,
+    "aircraftType": "CL30",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-21T21:18:29.328Z",
+    "lastSeen": "2026-02-21T21:18:29.328Z",
+    "duration": 0,
+    "closestDistance": 0.5543608804116724,
+    "closestAltitude": 37800,
+    "closestSpeed": 461,
+    "initialDistance": 0.5543608804116724,
+    "initialAltitude": 37800,
+    "initialSpeed": 461
   }
 ]

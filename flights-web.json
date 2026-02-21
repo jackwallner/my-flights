@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 32750,
-    "speed": 404,
-    "timestamp": "2026-02-21T20:26:40.243Z",
-    "lat": 45.6202,
-    "lon": -122.541,
+    "distance": 0.55,
+    "altitude": 37800,
+    "speed": 461,
+    "timestamp": "2026-02-21T21:18:29.331Z",
+    "lat": 45.6342,
+    "lon": -122.5247,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "E50P",
-    "aircraftType": "E50P",
+    "callsign": "CL30",
+    "aircraftType": "CL30",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-21T20:26:40.240Z"
+    "firstSeen": "2026-02-21T21:18:29.328Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.55,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-21T20:26:50.512Z"
+  "timestamp": "2026-02-21T21:18:39.615Z"
 }
