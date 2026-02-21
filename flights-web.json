@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 2225,
-    "speed": 167,
-    "timestamp": "2026-02-21T21:54:19.595Z",
-    "lat": 45.6268,
-    "lon": -122.5417,
+    "distance": 0.11,
+    "altitude": 43000,
+    "speed": 431,
+    "timestamp": "2026-02-21T22:11:09.762Z",
+    "lat": 45.6258,
+    "lon": -122.5305,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "callsign": "EJA395",
+    "aircraftType": "E55P",
+    "origin": "UDD",
+    "destination": "BFI",
+    "firstSeen": "2026-02-21T22:11:09.720Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.11,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-21T21:54:29.862Z"
+  "timestamp": "2026-02-21T22:11:20.117Z"
 }
