@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 43025,
-    "speed": 491,
-    "timestamp": "2026-02-20T22:08:05.500Z",
-    "lat": 45.622,
-    "lon": -122.537,
+    "distance": 0.58,
+    "altitude": 38000,
+    "speed": 431,
+    "timestamp": "2026-02-21T00:55:24.332Z",
+    "lat": 45.6339,
+    "lon": -122.5344,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "TCN760",
-    "aircraftType": "Cita",
-    "origin": "TRM",
-    "destination": "BFI",
-    "firstSeen": "2026-02-20T22:08:05.497Z"
+    "callsign": "ASA760",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T01:39:32.331Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.58,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-20T22:08:15.759Z"
+  "timestamp": "2026-02-21T00:55:34.615Z"
 }
