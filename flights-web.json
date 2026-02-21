@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 32325,
-    "speed": 450,
-    "timestamp": "2026-02-21T19:48:34.351Z",
-    "lat": 45.6274,
-    "lon": -122.5312,
+    "distance": 0.66,
+    "altitude": 38000,
+    "speed": 434,
+    "timestamp": "2026-02-21T19:58:42.100Z",
+    "lat": 45.6217,
+    "lon": -122.5133,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CRJ2",
-    "aircraftType": "CRJ",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-07T21:22:56.990Z"
+    "callsign": "SWA2724",
+    "aircraftType": "B737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-21T19:58:42.098Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.66,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-21T19:48:44.922Z"
+  "timestamp": "2026-02-21T19:58:52.383Z"
 }
