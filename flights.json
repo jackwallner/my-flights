@@ -8649,5 +8649,24 @@
     "initialDistance": 0.6580532624794305,
     "initialAltitude": 38000,
     "initialSpeed": 434
+  },
+  {
+    "callsign": "E50P",
+    "flightNumber": null,
+    "aircraftType": "E50P",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-21T20:26:40.240Z",
+    "lastSeen": "2026-02-21T20:26:40.240Z",
+    "duration": 0,
+    "closestDistance": 0.6212374123056595,
+    "closestAltitude": 32750,
+    "closestSpeed": 404,
+    "initialDistance": 0.6212374123056595,
+    "initialAltitude": 32750,
+    "initialSpeed": 404
   }
 ]

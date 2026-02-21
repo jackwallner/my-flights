@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 38000,
-    "speed": 434,
-    "timestamp": "2026-02-21T19:58:42.100Z",
-    "lat": 45.6217,
-    "lon": -122.5133,
+    "distance": 0.62,
+    "altitude": 32750,
+    "speed": 404,
+    "timestamp": "2026-02-21T20:26:40.243Z",
+    "lat": 45.6202,
+    "lon": -122.541,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2724",
-    "aircraftType": "B737",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-21T19:58:42.098Z"
+    "callsign": "E50P",
+    "aircraftType": "E50P",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-21T20:26:40.240Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.62,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-21T19:58:52.383Z"
+  "timestamp": "2026-02-21T20:26:50.512Z"
 }
