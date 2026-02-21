@@ -8573,5 +8573,24 @@
     "initialDistance": 0.42853537238056594,
     "initialAltitude": 2250,
     "initialSpeed": 247
+  },
+  {
+    "callsign": "QXE2443",
+    "flightNumber": "AS2443",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "A8268D",
+    "registration": "N624QX",
+    "firstSeen": "2026-02-21T17:40:19.340Z",
+    "lastSeen": "2026-02-21T17:40:29.614Z",
+    "duration": 10,
+    "closestDistance": 0.565889790637929,
+    "closestAltitude": 36000,
+    "closestSpeed": 421,
+    "initialDistance": 0.6548469162428003,
+    "initialAltitude": 36000,
+    "initialSpeed": 421
   }
 ]
