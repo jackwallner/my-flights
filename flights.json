@@ -8478,5 +8478,24 @@
     "initialDistance": 0.59911274704181,
     "initialAltitude": 1950,
     "initialSpeed": 84
+  },
+  {
+    "callsign": "N56720",
+    "flightNumber": null,
+    "aircraftType": "P28R",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A743A2",
+    "registration": "N56720",
+    "firstSeen": "2026-02-21T02:06:45.453Z",
+    "lastSeen": "2026-02-21T02:07:16.496Z",
+    "duration": 31,
+    "closestDistance": 0.05253071593859199,
+    "closestAltitude": 2475,
+    "closestSpeed": 127,
+    "initialDistance": 0.4271257280173463,
+    "initialAltitude": 2475,
+    "initialSpeed": 125
   }
 ]
