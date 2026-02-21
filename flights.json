@@ -8497,5 +8497,24 @@
     "initialDistance": 0.4271257280173463,
     "initialAltitude": 2475,
     "initialSpeed": 125
+  },
+  {
+    "callsign": "SWA1256",
+    "flightNumber": "WN1256",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "ABD627",
+    "registration": "N8619F",
+    "firstSeen": "2026-02-21T02:11:44.716Z",
+    "lastSeen": "2026-02-21T02:11:44.716Z",
+    "duration": 0,
+    "closestDistance": 0.15124617518822323,
+    "closestAltitude": 38000,
+    "closestSpeed": 425,
+    "initialDistance": 0.15124617518822323,
+    "initialAltitude": 38000,
+    "initialSpeed": 425
   }
 ]
