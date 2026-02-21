@@ -8516,5 +8516,24 @@
     "initialDistance": 0.15124617518822323,
     "initialAltitude": 38000,
     "initialSpeed": 425
+  },
+  {
+    "callsign": "SKW4043",
+    "flightNumber": "DL4043",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A37ED3",
+    "registration": "N324SY",
+    "firstSeen": "2026-02-21T03:48:30.559Z",
+    "lastSeen": "2026-02-21T03:48:30.559Z",
+    "duration": 0,
+    "closestDistance": 0.4763162272332556,
+    "closestAltitude": 32000,
+    "closestSpeed": 417,
+    "initialDistance": 0.4763162272332556,
+    "initialAltitude": 32000,
+    "initialSpeed": 417
   }
 ]
