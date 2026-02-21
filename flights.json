@@ -8459,5 +8459,24 @@
     "initialDistance": 0.422006118891201,
     "initialAltitude": 43025,
     "initialSpeed": 491
+  },
+  {
+    "callsign": "N733NV",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A9D770",
+    "registration": "N733NV",
+    "firstSeen": "2026-02-21T01:16:32.818Z",
+    "lastSeen": "2026-02-21T01:17:24.222Z",
+    "duration": 51,
+    "closestDistance": 0.22387079288469822,
+    "closestAltitude": 2025,
+    "closestSpeed": 81,
+    "initialDistance": 0.59911274704181,
+    "initialAltitude": 1950,
+    "initialSpeed": 84
   }
 ]
