@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 2025,
-    "speed": 81,
-    "timestamp": "2026-02-21T01:16:53.389Z",
-    "lat": 45.6217,
-    "lon": -122.5296,
+    "distance": 0.28,
+    "altitude": 2375,
+    "speed": 171,
+    "timestamp": "2026-02-21T01:20:40.007Z",
+    "lat": 45.6286,
+    "lon": -122.5329,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N733NV",
-    "aircraftType": "C172",
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-21T01:16:32.818Z"
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-21T01:17:34.506Z"
+  "timestamp": "2026-02-21T01:21:00.567Z"
 }
