@@ -8535,5 +8535,24 @@
     "initialDistance": 0.4763162272332556,
     "initialAltitude": 32000,
     "initialSpeed": 417
+  },
+  {
+    "callsign": "SKW3207",
+    "flightNumber": "AS3207",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A11E8B",
+    "registration": "N171SY",
+    "firstSeen": "2026-02-21T05:21:47.088Z",
+    "lastSeen": "2026-02-21T05:21:47.088Z",
+    "duration": 0,
+    "closestDistance": 0.09725194651324923,
+    "closestAltitude": 30000,
+    "closestSpeed": 427,
+    "initialDistance": 0.09725194651324923,
+    "initialAltitude": 30000,
+    "initialSpeed": 427
   }
 ]
