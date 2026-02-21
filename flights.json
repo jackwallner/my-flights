@@ -8592,5 +8592,24 @@
     "initialDistance": 0.6548469162428003,
     "initialAltitude": 36000,
     "initialSpeed": 421
+  },
+  {
+    "callsign": "N500CF",
+    "flightNumber": null,
+    "aircraftType": "FA50",
+    "aircraftName": null,
+    "origin": "UDD",
+    "destination": "BFI",
+    "icao": "A63A28",
+    "registration": "N500CF",
+    "firstSeen": "2026-02-21T18:37:27.116Z",
+    "lastSeen": "2026-02-21T18:37:27.116Z",
+    "duration": 0,
+    "closestDistance": 0.3762486669318394,
+    "closestAltitude": 40025,
+    "closestSpeed": 466,
+    "initialDistance": 0.3762486669318394,
+    "initialAltitude": 40025,
+    "initialSpeed": 466
   }
 ]
