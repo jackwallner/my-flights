@@ -8611,5 +8611,24 @@
     "initialDistance": 0.3762486669318394,
     "initialAltitude": 40025,
     "initialSpeed": 466
+  },
+  {
+    "callsign": "GLF4",
+    "flightNumber": null,
+    "aircraftType": "GLF4",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-21T19:14:24.027Z",
+    "lastSeen": "2026-02-21T19:14:24.027Z",
+    "duration": 0,
+    "closestDistance": 0.6038761345471023,
+    "closestAltitude": 38700,
+    "closestSpeed": 470,
+    "initialDistance": 0.6038761345471023,
+    "initialAltitude": 38700,
+    "initialSpeed": 470
   }
 ]
