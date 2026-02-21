@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 34000,
-    "speed": 421,
-    "timestamp": "2026-02-21T02:16:43.646Z",
-    "lat": 45.6252,
-    "lon": -122.5199,
+    "distance": 0.63,
+    "altitude": 2500,
+    "speed": 165,
+    "timestamp": "2026-02-21T02:36:20.108Z",
+    "lat": 45.6169,
+    "lon": -122.5371,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA591",
-    "aircraftType": "B39M",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T02:03:45.907Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.63,
   "isOverhead": true,
   "pathSnapshots": 1,
-  "status": "completed",
-  "timestamp": "2026-02-21T02:16:53.938Z"
+  "status": "tracking",
+  "timestamp": "2026-02-21T02:36:20.108Z"
 }
