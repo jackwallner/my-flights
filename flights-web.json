@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 36000,
-    "speed": 421,
-    "timestamp": "2026-02-21T17:40:29.616Z",
-    "lat": 45.6346,
-    "lon": -122.5261,
+    "distance": 0.38,
+    "altitude": 40025,
+    "speed": 466,
+    "timestamp": "2026-02-21T18:37:27.118Z",
+    "lat": 45.629,
+    "lon": -122.5209,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2443",
-    "aircraftType": "E175",
-    "origin": "PSP",
-    "destination": "SEA",
-    "firstSeen": "2026-02-21T17:40:19.340Z"
+    "callsign": "N500CF",
+    "aircraftType": "FA50",
+    "origin": "UDD",
+    "destination": "BFI",
+    "firstSeen": "2026-02-21T18:37:27.116Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-21T17:40:39.874Z"
+  "timestamp": "2026-02-21T18:37:37.382Z"
 }
