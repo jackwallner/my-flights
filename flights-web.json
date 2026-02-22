@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 36000,
-    "speed": 419,
-    "timestamp": "2026-02-22T01:26:36.527Z",
-    "lat": 45.6287,
-    "lon": -122.5225,
-    "precision": "tracked"
+    "distance": 0.15,
+    "altitude": 1600,
+    "speed": 70,
+    "timestamp": "2026-02-22T01:46:03.113Z",
+    "lat": 45.6229,
+    "lon": -122.5293,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW3789",
-    "aircraftType": "E175",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T00:55:06.057Z"
+    "callsign": "N5201H",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-06T19:39:39.423Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 7,
   "status": "completed",
-  "timestamp": "2026-02-22T01:26:46.897Z"
+  "timestamp": "2026-02-22T01:46:44.501Z"
 }
