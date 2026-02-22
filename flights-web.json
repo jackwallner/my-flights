@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 36625,
-    "speed": 423,
-    "timestamp": "2026-02-21T22:20:25.943Z",
-    "lat": 45.63,
-    "lon": -122.535,
+    "distance": 0.31,
+    "altitude": 36000,
+    "speed": 419,
+    "timestamp": "2026-02-22T01:26:36.527Z",
+    "lat": 45.6287,
+    "lon": -122.5225,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ309",
-    "aircraftType": "E55P",
-    "origin": "TKF",
-    "destination": "PWT",
-    "firstSeen": "2026-02-21T22:20:25.941Z"
+    "callsign": "SKW3789",
+    "aircraftType": "E175",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T00:55:06.057Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 1,
   "status": "completed",
-  "timestamp": "2026-02-21T22:20:36.225Z"
+  "timestamp": "2026-02-22T01:26:46.897Z"
 }
