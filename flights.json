@@ -8763,5 +8763,24 @@
     "initialDistance": 0.42199262712838753,
     "initialAltitude": 36250,
     "initialSpeed": 503
+  },
+  {
+    "callsign": "ASA183",
+    "flightNumber": "AS183",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "A7398E",
+    "registration": "N565AS",
+    "firstSeen": "2026-02-22T18:25:19.100Z",
+    "lastSeen": "2026-02-22T18:25:19.100Z",
+    "duration": 0,
+    "closestDistance": 0.24462964205011203,
+    "closestAltitude": 35400,
+    "closestSpeed": 441,
+    "initialDistance": 0.24462964205011203,
+    "initialAltitude": 35400,
+    "initialSpeed": 441
   }
 ]
