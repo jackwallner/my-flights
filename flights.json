@@ -8744,5 +8744,24 @@
     "initialDistance": 0.6981446623663597,
     "initialAltitude": 34000,
     "initialSpeed": 454
+  },
+  {
+    "callsign": "ASA316",
+    "flightNumber": "AS316",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A7AC54",
+    "registration": "N594AS",
+    "firstSeen": "2026-02-22T06:36:55.379Z",
+    "lastSeen": "2026-02-22T06:36:55.379Z",
+    "duration": 0,
+    "closestDistance": 0.42199262712838753,
+    "closestAltitude": 36250,
+    "closestSpeed": 503,
+    "initialDistance": 0.42199262712838753,
+    "initialAltitude": 36250,
+    "initialSpeed": 503
   }
 ]
