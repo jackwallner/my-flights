@@ -8725,5 +8725,24 @@
     "initialDistance": 0.4049020463051982,
     "initialAltitude": 36625,
     "initialSpeed": 423
+  },
+  {
+    "callsign": "SKW3037",
+    "flightNumber": "AS3037",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "STS",
+    "destination": "SEA",
+    "icao": "A163C2",
+    "registration": "N189SY",
+    "firstSeen": "2026-02-22T05:06:11.182Z",
+    "lastSeen": "2026-02-22T05:06:21.456Z",
+    "duration": 10,
+    "closestDistance": 0.3796523211190042,
+    "closestAltitude": 34000,
+    "closestSpeed": 454,
+    "initialDistance": 0.6981446623663597,
+    "initialAltitude": 34000,
+    "initialSpeed": 454
   }
 ]
