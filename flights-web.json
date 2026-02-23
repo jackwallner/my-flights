@@ -1,23 +1,23 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 1350,
-    "speed": 133,
-    "timestamp": "2026-02-22T23:52:37.029Z",
-    "lat": 45.6222,
-    "lon": -122.5346,
+    "distance": 0.18,
+    "altitude": 1975,
+    "speed": 174,
+    "timestamp": "2026-02-23T01:29:59.262Z",
+    "lat": 45.6274,
+    "lon": -122.531,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N28672",
-    "aircraftType": "AA5",
-    "origin": "BIL",
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-22T23:52:26.753Z"
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "status": "completed",
-  "timestamp": "2026-02-22T23:53:07.884Z"
+  "timestamp": "2026-02-23T01:30:19.782Z"
 }
