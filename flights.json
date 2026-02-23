@@ -8877,5 +8877,24 @@
     "initialDistance": 0.5825422297151686,
     "initialAltitude": 36000,
     "initialSpeed": 392
+  },
+  {
+    "callsign": "AAL3235",
+    "flightNumber": "AA3235",
+    "aircraftType": "A320",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "A8B44E",
+    "registration": "N660AW",
+    "firstSeen": "2026-02-23T21:01:59.323Z",
+    "lastSeen": "2026-02-23T21:02:09.590Z",
+    "duration": 10,
+    "closestDistance": 0.44689316489944797,
+    "closestAltitude": 34000,
+    "closestSpeed": 394,
+    "initialDistance": 0.44689316489944797,
+    "initialAltitude": 34000,
+    "initialSpeed": 394
   }
 ]
