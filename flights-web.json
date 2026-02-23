@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 38750,
-    "speed": 388,
-    "timestamp": "2026-02-23T16:09:17.550Z",
-    "lat": 45.6258,
-    "lon": -122.5148,
-    "precision": "tracked"
+    "distance": 0.14,
+    "altitude": 3475,
+    "speed": 139,
+    "timestamp": "2026-02-23T16:18:22.940Z",
+    "lat": 45.6254,
+    "lon": -122.5248,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SWA4045",
-    "aircraftType": "737",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T16:22:25.704Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.14,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6258,
-      -122.5148
+      45.6182,
+      -122.5297
+    ],
+    [
+      45.6254,
+      -122.5248
+    ],
+    [
+      45.6309,
+      -122.5207
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-23T16:09:27.817Z"
+  "timestamp": "2026-02-23T16:18:43.474Z"
 }
