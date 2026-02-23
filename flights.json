@@ -8858,5 +8858,24 @@
     "initialDistance": 0.4816833390088199,
     "initialAltitude": 32000,
     "initialSpeed": 412
+  },
+  {
+    "callsign": "RGY872",
+    "flightNumber": "RGY872",
+    "aircraftType": "BE40",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "BFI",
+    "icao": "ABFF3C",
+    "registration": "N872RA",
+    "firstSeen": "2026-02-23T19:55:17.077Z",
+    "lastSeen": "2026-02-23T19:55:17.077Z",
+    "duration": 0,
+    "closestDistance": 0.5825422297151686,
+    "closestAltitude": 36000,
+    "closestSpeed": 392,
+    "initialDistance": 0.5825422297151686,
+    "initialAltitude": 36000,
+    "initialSpeed": 392
   }
 ]

@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 2175,
-    "speed": 151,
-    "timestamp": "2026-02-23T17:30:37.097Z",
-    "lat": 45.6195,
-    "lon": -122.5222,
+    "distance": 0.58,
+    "altitude": 36000,
+    "speed": 392,
+    "timestamp": "2026-02-23T19:55:17.080Z",
+    "lat": 45.6164,
+    "lon": -122.5337,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N724KP",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
+    "callsign": "RGY872",
+    "aircraftType": "BE40",
+    "origin": "PSP",
     "destination": "BFI",
-    "firstSeen": "2026-02-08T18:18:03.924Z"
+    "firstSeen": "2026-02-23T19:55:17.077Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.58,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6195,
-      -122.5222
-    ],
-    [
-      45.6261,
-      -122.5173
+      45.6164,
+      -122.5337
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-23T17:30:57.685Z"
+  "timestamp": "2026-02-23T19:55:27.351Z"
 }
