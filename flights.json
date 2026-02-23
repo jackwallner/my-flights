@@ -8839,5 +8839,24 @@
     "initialDistance": 0.2150714917313185,
     "initialAltitude": 32000,
     "initialSpeed": 413
+  },
+  {
+    "callsign": "SWA954",
+    "flightNumber": "WN954",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A2396E",
+    "registration": "N242WN",
+    "firstSeen": "2026-02-23T05:26:40.786Z",
+    "lastSeen": "2026-02-23T05:26:40.786Z",
+    "duration": 0,
+    "closestDistance": 0.4816833390088199,
+    "closestAltitude": 32000,
+    "closestSpeed": 412,
+    "initialDistance": 0.4816833390088199,
+    "initialAltitude": 32000,
+    "initialSpeed": 412
   }
 ]
