@@ -8896,5 +8896,24 @@
     "initialDistance": 0.44689316489944797,
     "initialAltitude": 34000,
     "initialSpeed": 394
+  },
+  {
+    "callsign": "EJA846",
+    "flightNumber": "EJA846",
+    "aircraftType": "C700",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "BFI",
+    "icao": "AB9792",
+    "registration": "N846QS",
+    "firstSeen": "2026-02-23T23:49:25.730Z",
+    "lastSeen": "2026-02-23T23:49:25.730Z",
+    "duration": 0,
+    "closestDistance": 0.3688378051018088,
+    "closestAltitude": 40450,
+    "closestSpeed": 423,
+    "initialDistance": 0.3688378051018088,
+    "initialAltitude": 40450,
+    "initialSpeed": 423
   }
 ]
