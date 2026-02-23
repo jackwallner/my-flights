@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 32000,
-    "speed": 417,
-    "timestamp": "2026-02-23T03:57:02.497Z",
-    "lat": 45.624,
-    "lon": -122.5219,
+    "distance": 0.59,
+    "altitude": 34050,
+    "speed": 429,
+    "timestamp": "2026-02-23T04:02:52.936Z",
+    "lat": 45.6189,
+    "lon": -122.5387,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4043",
-    "aircraftType": "E175",
-    "origin": "SMF",
+    "callsign": "UAL2019",
+    "aircraftType": "A320",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-21T03:48:30.559Z"
+    "firstSeen": "2026-02-09T04:16:04.286Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.624,
-      -122.5219
+      45.6189,
+      -122.5387
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-02-23T03:57:12.794Z"
+  "status": "tracking",
+  "timestamp": "2026-02-23T04:02:52.936Z"
 }
