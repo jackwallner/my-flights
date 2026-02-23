@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 30000,
-    "speed": 443,
-    "timestamp": "2026-02-23T03:49:07.828Z",
-    "lat": 45.6272,
-    "lon": -122.5376,
+    "distance": 0.38,
+    "altitude": 36000,
+    "speed": 409,
+    "timestamp": "2026-02-23T03:53:36.299Z",
+    "lat": 45.6309,
+    "lon": -122.5238,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2462",
-    "aircraftType": "E175",
-    "origin": "MFR",
+    "callsign": "ABX3111",
+    "aircraftType": "767",
+    "origin": "SCK",
     "destination": "SEA",
-    "firstSeen": "2026-02-23T03:49:07.824Z"
+    "firstSeen": "2026-02-10T03:24:35.374Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.38,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6272,
-      -122.5376
+      45.6309,
+      -122.5238
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-23T03:49:18.142Z"
+  "timestamp": "2026-02-23T03:53:46.593Z"
 }
