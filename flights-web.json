@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 36000,
-    "speed": 409,
-    "timestamp": "2026-02-23T03:53:36.299Z",
-    "lat": 45.6309,
-    "lon": -122.5238,
+    "distance": 0.27,
+    "altitude": 32000,
+    "speed": 417,
+    "timestamp": "2026-02-23T03:57:02.497Z",
+    "lat": 45.624,
+    "lon": -122.5219,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ABX3111",
-    "aircraftType": "767",
-    "origin": "SCK",
+    "callsign": "SKW4043",
+    "aircraftType": "E175",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:24:35.374Z"
+    "firstSeen": "2026-02-21T03:48:30.559Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.27,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6309,
-      -122.5238
+      45.624,
+      -122.5219
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-23T03:53:46.593Z"
+  "timestamp": "2026-02-23T03:57:12.794Z"
 }
