@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.22,
+    "distance": 0.48,
     "altitude": 32000,
-    "speed": 413,
-    "timestamp": "2026-02-23T04:28:18.297Z",
-    "lat": 45.6218,
-    "lon": -122.5269,
+    "speed": 412,
+    "timestamp": "2026-02-23T05:26:40.789Z",
+    "lat": 45.6261,
+    "lon": -122.5167,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA599",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "SWA954",
+    "aircraftType": "B737",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-23T04:28:18.295Z"
+    "firstSeen": "2026-02-23T05:26:40.786Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6218,
-      -122.5269
+      45.6261,
+      -122.5167
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-23T04:28:28.596Z"
+  "timestamp": "2026-02-23T05:26:51.062Z"
 }
