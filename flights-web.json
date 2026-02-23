@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 36000,
-    "speed": 392,
-    "timestamp": "2026-02-23T19:55:17.080Z",
-    "lat": 45.6164,
-    "lon": -122.5337,
+    "distance": 0.45,
+    "altitude": 34000,
+    "speed": 394,
+    "timestamp": "2026-02-23T21:01:59.325Z",
+    "lat": 45.619,
+    "lon": -122.5224,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "RGY872",
-    "aircraftType": "BE40",
-    "origin": "PSP",
-    "destination": "BFI",
-    "firstSeen": "2026-02-23T19:55:17.077Z"
+    "callsign": "AAL3235",
+    "aircraftType": "A320",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-23T21:01:59.323Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6164,
-      -122.5337
+      45.619,
+      -122.5224
+    ],
+    [
+      45.6334,
+      -122.53
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-23T19:55:27.351Z"
+  "timestamp": "2026-02-23T21:02:19.877Z"
 }
