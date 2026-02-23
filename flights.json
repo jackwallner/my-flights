@@ -8801,5 +8801,24 @@
     "initialDistance": 0.6274805849292577,
     "initialAltitude": 1300,
     "initialSpeed": 131
+  },
+  {
+    "callsign": "QXE2462",
+    "flightNumber": "AS2462",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A8469E",
+    "registration": "N632QX",
+    "firstSeen": "2026-02-23T03:49:07.824Z",
+    "lastSeen": "2026-02-23T03:49:07.824Z",
+    "duration": 0,
+    "closestDistance": 0.414735656656633,
+    "closestAltitude": 30000,
+    "closestSpeed": 443,
+    "initialDistance": 0.414735656656633,
+    "initialAltitude": 30000,
+    "initialSpeed": 443
   }
 ]
