@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 32000,
-    "speed": 412,
-    "timestamp": "2026-02-23T05:26:40.789Z",
-    "lat": 45.6261,
-    "lon": -122.5167,
-    "precision": "tracked"
+    "distance": 0.36,
+    "altitude": 2475,
+    "speed": 166,
+    "timestamp": "2026-02-23T14:45:13.539Z",
+    "lat": 45.6219,
+    "lon": -122.5209,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SWA954",
-    "aircraftType": "B737",
-    "origin": "OAK",
-    "destination": "SEA",
-    "firstSeen": "2026-02-23T05:26:40.786Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6261,
-      -122.5167
+      45.6162,
+      -122.5256
+    ],
+    [
+      45.6219,
+      -122.5209
+    ],
+    [
+      45.6294,
+      -122.5145
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-23T05:26:51.062Z"
+  "timestamp": "2026-02-23T14:45:34.073Z"
 }
