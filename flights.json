@@ -8972,5 +8972,24 @@
     "initialDistance": 0.6367780659653235,
     "initialAltitude": 2675,
     "initialSpeed": 164
+  },
+  {
+    "callsign": "ASA366",
+    "flightNumber": "AS366",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "PAE",
+    "icao": "AC7A5B",
+    "registration": "N903AK",
+    "firstSeen": "2026-02-24T20:39:18.867Z",
+    "lastSeen": "2026-02-24T20:39:18.867Z",
+    "duration": 0,
+    "closestDistance": 0.695741390411227,
+    "closestAltitude": 34000,
+    "closestSpeed": 419,
+    "initialDistance": 0.695741390411227,
+    "initialAltitude": 34000,
+    "initialSpeed": 419
   }
 ]
