@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 2675,
-    "speed": 164,
-    "timestamp": "2026-02-24T19:29:16.320Z",
-    "lat": 45.6154,
-    "lon": -122.5226,
-    "precision": "tracked"
+    "distance": 0.41,
+    "altitude": 2900,
+    "speed": 167,
+    "timestamp": "2026-02-24T19:29:26.620Z",
+    "lat": 45.6232,
+    "lon": -122.5188,
+    "precision": "high"
   },
   "flight": {
     "callsign": "PAT006",
@@ -15,15 +15,23 @@
     "destination": null,
     "firstSeen": "2026-02-24T19:29:16.317Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6154,
       -122.5226
+    ],
+    [
+      45.6232,
+      -122.5188
+    ],
+    [
+      45.6297,
+      -122.5153
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-02-24T19:29:16.320Z"
+  "status": "completed",
+  "timestamp": "2026-02-24T19:29:47.169Z"
 }
