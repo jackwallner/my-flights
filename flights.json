@@ -8915,5 +8915,24 @@
     "initialDistance": 0.3688378051018088,
     "initialAltitude": 40450,
     "initialSpeed": 423
+  },
+  {
+    "callsign": "N801J",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "TKF",
+    "destination": "BFI",
+    "icao": "AAE65C",
+    "registration": "N801J",
+    "firstSeen": "2026-02-24T01:14:21.799Z",
+    "lastSeen": "2026-02-24T01:14:21.799Z",
+    "duration": 0,
+    "closestDistance": 0.46314171891775074,
+    "closestAltitude": 23000,
+    "closestSpeed": 263,
+    "initialDistance": 0.46314171891775074,
+    "initialAltitude": 23000,
+    "initialSpeed": 263
   }
 ]
