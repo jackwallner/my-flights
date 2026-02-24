@@ -8953,5 +8953,24 @@
     "initialDistance": 0.6883399976138204,
     "initialAltitude": 32525,
     "initialSpeed": 420
+  },
+  {
+    "callsign": "PAT006",
+    "flightNumber": null,
+    "aircraftType": "BE20",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "ADFE91",
+    "registration": "95-00092",
+    "firstSeen": "2026-02-24T19:29:16.317Z",
+    "lastSeen": "2026-02-24T19:29:16.317Z",
+    "duration": 0,
+    "closestDistance": 0.6367780659653235,
+    "closestAltitude": 2675,
+    "closestSpeed": 164,
+    "initialDistance": 0.6367780659653235,
+    "initialAltitude": 2675,
+    "initialSpeed": 164
   }
 ]
