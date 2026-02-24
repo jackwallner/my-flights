@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 31200,
-    "speed": 426,
-    "timestamp": "2026-02-24T18:35:44.134Z",
-    "lat": 45.6328,
-    "lon": -122.5178,
+    "distance": 0.35,
+    "altitude": 3075,
+    "speed": 162,
+    "timestamp": "2026-02-24T19:00:47.476Z",
+    "lat": 45.6298,
+    "lon": -122.5335,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5992",
-    "aircraftType": "E175",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T19:08:10.335Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6328,
-      -122.5178
+      45.6211,
+      -122.539
+    ],
+    [
+      45.6298,
+      -122.5335
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-24T18:35:54.384Z"
+  "timestamp": "2026-02-24T19:00:57.759Z"
 }
