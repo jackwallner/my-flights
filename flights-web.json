@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.7,
-    "altitude": 34000,
-    "speed": 419,
-    "timestamp": "2026-02-24T20:39:18.870Z",
-    "lat": 45.6223,
-    "lon": -122.5121,
+    "distance": 0.21,
+    "altitude": 33900,
+    "speed": 405,
+    "timestamp": "2026-02-24T23:47:50.965Z",
+    "lat": 45.6231,
+    "lon": -122.5242,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA366",
-    "aircraftType": "B39M",
-    "origin": "LAS",
-    "destination": "PAE",
-    "firstSeen": "2026-02-24T20:39:18.867Z"
+    "callsign": "ASA403",
+    "aircraftType": "737",
+    "origin": "PSP",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T00:37:08.681Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.21,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6223,
-      -122.5121
+      45.6231,
+      -122.5242
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-02-24T20:39:29.140Z"
+  "status": "tracking",
+  "timestamp": "2026-02-24T23:47:50.965Z"
 }
