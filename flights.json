@@ -8934,5 +8934,24 @@
     "initialDistance": 0.46314171891775074,
     "initialAltitude": 23000,
     "initialSpeed": 263
+  },
+  {
+    "callsign": "ASA605",
+    "flightNumber": "AS605",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "A57D52",
+    "registration": "N453AS",
+    "firstSeen": "2026-02-24T15:33:43.253Z",
+    "lastSeen": "2026-02-24T15:33:43.253Z",
+    "duration": 0,
+    "closestDistance": 0.6883399976138204,
+    "closestAltitude": 32525,
+    "closestSpeed": 420,
+    "initialDistance": 0.6883399976138204,
+    "initialAltitude": 32525,
+    "initialSpeed": 420
   }
 ]
