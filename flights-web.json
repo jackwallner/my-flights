@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 2900,
-    "speed": 167,
-    "timestamp": "2026-02-24T19:29:26.620Z",
-    "lat": 45.6232,
-    "lon": -122.5188,
+    "distance": 0.39,
+    "altitude": 3000,
+    "speed": 150,
+    "timestamp": "2026-02-24T19:46:57.319Z",
+    "lat": 45.6259,
+    "lon": -122.5374,
     "precision": "high"
   },
   "flight": {
-    "callsign": "PAT006",
-    "aircraftType": "King",
+    "callsign": "BTQ901",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-24T19:29:16.317Z"
+    "destination": "PDX",
+    "firstSeen": "2026-02-07T01:06:46.080Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.39,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6154,
-      -122.5226
+      45.6185,
+      -122.5412
     ],
     [
-      45.6232,
-      -122.5188
+      45.6259,
+      -122.5374
     ],
     [
-      45.6297,
-      -122.5153
+      45.6311,
+      -122.5343
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-24T19:29:47.169Z"
+  "timestamp": "2026-02-24T19:47:17.881Z"
 }
