@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 14900,
-    "speed": 217,
-    "timestamp": "2026-02-24T15:06:15.141Z",
-    "lat": 45.6238,
-    "lon": -122.5333,
+    "distance": 0.69,
+    "altitude": 32525,
+    "speed": 420,
+    "timestamp": "2026-02-24T15:33:43.256Z",
+    "lat": 45.625,
+    "lon": -122.5445,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BE20",
-    "aircraftType": "King",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-17T01:56:39.910Z"
+    "callsign": "ASA605",
+    "aircraftType": "737",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-24T15:33:43.253Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6238,
-      -122.5333
-    ],
-    [
-      45.6269,
-      -122.5178
+      45.625,
+      -122.5445
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-24T15:06:35.680Z"
+  "timestamp": "2026-02-24T15:33:53.545Z"
 }
