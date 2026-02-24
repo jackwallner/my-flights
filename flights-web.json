@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 32525,
-    "speed": 420,
-    "timestamp": "2026-02-24T15:33:43.256Z",
-    "lat": 45.625,
-    "lon": -122.5445,
+    "distance": 0.61,
+    "altitude": 2200,
+    "speed": 158,
+    "timestamp": "2026-02-24T16:02:43.106Z",
+    "lat": 45.617,
+    "lon": -122.5367,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA605",
-    "aircraftType": "737",
-    "origin": "PHX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-24T15:33:43.253Z"
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.625,
-      -122.5445
+      45.617,
+      -122.5367
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-02-24T15:33:53.545Z"
+  "status": "tracking",
+  "timestamp": "2026-02-24T16:02:43.106Z"
 }
