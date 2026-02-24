@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 40450,
-    "speed": 423,
-    "timestamp": "2026-02-23T23:49:25.732Z",
-    "lat": 45.6237,
-    "lon": -122.5366,
+    "distance": 0.47,
+    "altitude": 2425,
+    "speed": 143,
+    "timestamp": "2026-02-24T00:08:59.645Z",
+    "lat": 45.6187,
+    "lon": -122.5342,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA846",
-    "aircraftType": "Cita",
-    "origin": "TRM",
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-02-23T23:49:25.730Z"
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.47,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6237,
-      -122.5366
+      45.6187,
+      -122.5342
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-02-23T23:49:36.006Z"
+  "status": "tracking",
+  "timestamp": "2026-02-24T00:08:59.645Z"
 }
