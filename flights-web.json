@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.05,
-    "altitude": 2600,
-    "speed": 146,
-    "timestamp": "2026-02-25T21:10:58.893Z",
-    "lat": 45.6258,
-    "lon": -122.5291,
-    "precision": "high"
+    "distance": 0.59,
+    "altitude": 43000,
+    "speed": 430,
+    "timestamp": "2026-02-25T21:47:54.802Z",
+    "lat": 45.6189,
+    "lon": -122.5388,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ352",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-01-30T18:21:31.073Z"
+    "callsign": "LXJ437",
+    "aircraftType": "E545",
+    "origin": "VNY",
+    "destination": "BFI",
+    "firstSeen": "2026-02-25T21:47:54.801Z"
   },
-  "overheadScore": 0.05,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.62,
-      -122.5326
-    ],
-    [
-      45.6258,
-      -122.5291
-    ],
-    [
-      45.6328,
-      -122.5247
+      45.6189,
+      -122.5388
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-25T21:11:19.646Z"
+  "timestamp": "2026-02-25T21:48:05.121Z"
 }
