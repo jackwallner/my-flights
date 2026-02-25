@@ -9086,5 +9086,24 @@
     "initialDistance": 0.5900782907124811,
     "initialAltitude": 43000,
     "initialSpeed": 430
+  },
+  {
+    "callsign": "N296DB",
+    "flightNumber": null,
+    "aircraftType": "RV6",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A30C11",
+    "registration": "N296DB",
+    "firstSeen": "2026-02-25T22:05:05.121Z",
+    "lastSeen": "2026-02-25T22:05:26.010Z",
+    "duration": 21,
+    "closestDistance": 0.28541109187529456,
+    "closestAltitude": 1425,
+    "closestSpeed": 157,
+    "initialDistance": 0.6770089241518796,
+    "initialAltitude": 1500,
+    "initialSpeed": 151
   }
 ]
