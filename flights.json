@@ -9105,5 +9105,24 @@
     "initialDistance": 0.6770089241518796,
     "initialAltitude": 1500,
     "initialSpeed": 151
+  },
+  {
+    "callsign": "N2123Y",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A1C3C8",
+    "registration": "N2123Y",
+    "firstSeen": "2026-02-25T22:15:02.685Z",
+    "lastSeen": "2026-02-25T22:15:13.083Z",
+    "duration": 10,
+    "closestDistance": 0.6087271910044387,
+    "closestAltitude": 1325,
+    "closestSpeed": 142,
+    "initialDistance": 0.6087271910044387,
+    "initialAltitude": 1325,
+    "initialSpeed": 142
   }
 ]
