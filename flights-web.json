@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 3850,
-    "speed": 132,
-    "timestamp": "2026-02-25T14:39:30.686Z",
-    "lat": 45.6213,
-    "lon": -122.5329,
-    "precision": "tracked"
+    "distance": 0.12,
+    "altitude": 4275,
+    "speed": 137,
+    "timestamp": "2026-02-25T14:39:40.973Z",
+    "lat": 45.6272,
+    "lon": -122.5282,
+    "precision": "high"
   },
   "flight": {
     "callsign": "STT62",
@@ -15,15 +15,23 @@
     "destination": "BFI",
     "firstSeen": "2026-02-25T14:39:30.682Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6213,
       -122.5329
+    ],
+    [
+      45.6272,
+      -122.5282
+    ],
+    [
+      45.6322,
+      -122.5242
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-02-25T14:39:30.686Z"
+  "status": "completed",
+  "timestamp": "2026-02-25T14:40:01.709Z"
 }
