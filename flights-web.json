@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 43000,
-    "speed": 441,
-    "timestamp": "2026-02-25T22:29:47.637Z",
-    "lat": 45.6203,
-    "lon": -122.5412,
+    "distance": 0.43,
+    "altitude": 38575,
+    "speed": 464,
+    "timestamp": "2026-02-25T22:38:22.477Z",
+    "lat": 45.6186,
+    "lon": -122.5321,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA792",
-    "aircraftType": "CL35",
-    "origin": "CLD",
+    "callsign": "GA7C",
+    "aircraftType": "GA7C",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-25T22:29:47.635Z"
+    "firstSeen": "2026-02-09T19:01:20.748Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.43,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6203,
-      -122.5412
+      45.6186,
+      -122.5321
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-25T22:29:57.901Z"
+  "timestamp": "2026-02-25T22:38:32.836Z"
 }
