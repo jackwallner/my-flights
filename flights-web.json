@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 38575,
-    "speed": 464,
-    "timestamp": "2026-02-25T22:38:22.477Z",
-    "lat": 45.6186,
-    "lon": -122.5321,
-    "precision": "tracked"
+    "distance": 0.05,
+    "altitude": 2625,
+    "speed": 138,
+    "timestamp": "2026-02-25T22:51:34.634Z",
+    "lat": 45.6256,
+    "lon": -122.5269,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "GA7C",
-    "aircraftType": "GA7C",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T19:01:20.748Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.05,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6186,
-      -122.5321
+      45.6187,
+      -122.525
+    ],
+    [
+      45.6256,
+      -122.5269
+    ],
+    [
+      45.6305,
+      -122.5306
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-25T22:38:32.836Z"
+  "timestamp": "2026-02-25T22:51:55.249Z"
 }
