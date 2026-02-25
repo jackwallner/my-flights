@@ -9124,5 +9124,24 @@
     "initialDistance": 0.6087271910044387,
     "initialAltitude": 1325,
     "initialSpeed": 142
+  },
+  {
+    "callsign": "EJA792",
+    "flightNumber": null,
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "CLD",
+    "destination": null,
+    "icao": "AAC0E2",
+    "registration": "N792QS",
+    "firstSeen": "2026-02-25T22:29:47.635Z",
+    "lastSeen": "2026-02-25T22:29:47.635Z",
+    "duration": 0,
+    "closestDistance": 0.6256750407951187,
+    "closestAltitude": 43000,
+    "closestSpeed": 441,
+    "initialDistance": 0.6256750407951187,
+    "initialAltitude": 43000,
+    "initialSpeed": 441
   }
 ]
