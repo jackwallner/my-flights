@@ -1,29 +1,33 @@
 {
   "closestApproach": {
     "distance": 0.22,
-    "altitude": 24000,
-    "speed": 366,
-    "timestamp": "2026-02-25T17:29:21.647Z",
+    "altitude": 33000,
+    "speed": 276,
+    "timestamp": "2026-02-25T18:23:15.238Z",
     "lat": 45.6217,
-    "lon": -122.5275,
+    "lon": -122.5276,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA133",
-    "aircraftType": "B39M",
-    "origin": "EUG",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T17:13:56.613Z"
+    "callsign": "N422HC",
+    "aircraftType": "EPIC",
+    "origin": "EMT",
+    "destination": "BFI",
+    "firstSeen": "2026-02-25T18:23:15.234Z"
   },
   "overheadScore": 0.22,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
       45.6217,
-      -122.5275
+      -122.5276
+    ],
+    [
+      45.6344,
+      -122.5341
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-25T17:29:31.950Z"
+  "timestamp": "2026-02-25T18:23:35.779Z"
 }
