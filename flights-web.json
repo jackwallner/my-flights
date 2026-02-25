@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 40025,
-    "speed": 435,
-    "timestamp": "2026-02-25T18:47:46.401Z",
-    "lat": 45.623,
-    "lon": -122.537,
+    "distance": 0.61,
+    "altitude": 36025,
+    "speed": 434,
+    "timestamp": "2026-02-25T19:33:26.454Z",
+    "lat": 45.6278,
+    "lon": -122.514,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GLF4",
-    "aircraftType": "Gulf",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-21T19:14:24.027Z"
+    "callsign": "SWA4781",
+    "aircraftType": "B737",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-08T19:20:13.915Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.623,
-      -122.537
+      45.6278,
+      -122.514
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-25T18:47:56.683Z"
+  "timestamp": "2026-02-25T19:33:36.824Z"
 }
