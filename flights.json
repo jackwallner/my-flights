@@ -9143,5 +9143,24 @@
     "initialDistance": 0.6256750407951187,
     "initialAltitude": 43000,
     "initialSpeed": 441
+  },
+  {
+    "callsign": "N84DA",
+    "flightNumber": null,
+    "aircraftType": "C414",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "AB7DCC",
+    "registration": "N84DA",
+    "firstSeen": "2026-02-25T23:19:04.871Z",
+    "lastSeen": "2026-02-25T23:19:35.890Z",
+    "duration": 31,
+    "closestDistance": 0.13428148116928823,
+    "closestAltitude": 2275,
+    "closestSpeed": 105,
+    "initialDistance": 0.4224620505433276,
+    "initialAltitude": 2100,
+    "initialSpeed": 103
   }
 ]

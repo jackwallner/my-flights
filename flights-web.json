@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.05,
-    "altitude": 2625,
-    "speed": 138,
-    "timestamp": "2026-02-25T22:51:34.634Z",
-    "lat": 45.6256,
-    "lon": -122.5269,
+    "distance": 0.13,
+    "altitude": 2275,
+    "speed": 105,
+    "timestamp": "2026-02-25T23:19:15.158Z",
+    "lat": 45.6231,
+    "lon": -122.5274,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N724KP",
-    "aircraftType": "PC-1",
+    "callsign": "N84DA",
+    "aircraftType": "C414",
     "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-02-08T18:18:03.924Z"
+    "firstSeen": "2026-02-25T23:19:04.871Z"
   },
-  "overheadScore": 0.05,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6187,
-      -122.525
+      45.6185,
+      -122.5308
     ],
     [
-      45.6256,
-      -122.5269
+      45.6231,
+      -122.5274
     ],
     [
-      45.6305,
-      -122.5306
+      45.6271,
+      -122.5245
+    ],
+    [
+      45.6321,
+      -122.5205
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-25T22:51:55.249Z"
+  "timestamp": "2026-02-25T23:19:46.499Z"
 }
