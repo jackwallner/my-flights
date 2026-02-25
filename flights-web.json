@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 43000,
-    "speed": 430,
-    "timestamp": "2026-02-25T21:47:54.802Z",
-    "lat": 45.6189,
-    "lon": -122.5388,
-    "precision": "tracked"
+    "distance": 0.29,
+    "altitude": 1425,
+    "speed": 157,
+    "timestamp": "2026-02-25T22:05:15.605Z",
+    "lat": 45.6206,
+    "lon": -122.5293,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "LXJ437",
-    "aircraftType": "E545",
-    "origin": "VNY",
-    "destination": "BFI",
-    "firstSeen": "2026-02-25T21:47:54.801Z"
+    "callsign": "N296DB",
+    "aircraftType": "RV6",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-25T22:05:05.121Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6189,
-      -122.5388
+      45.6186,
+      -122.5411
+    ],
+    [
+      45.6206,
+      -122.5293
+    ],
+    [
+      45.6214,
+      -122.521
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-25T21:48:05.121Z"
+  "timestamp": "2026-02-25T22:05:36.627Z"
 }
