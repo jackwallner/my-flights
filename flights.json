@@ -9067,5 +9067,24 @@
     "initialDistance": 0.21604180456633884,
     "initialAltitude": 33000,
     "initialSpeed": 276
+  },
+  {
+    "callsign": "LXJ437",
+    "flightNumber": "LXJ437",
+    "aircraftType": "E545",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "A53DB2",
+    "registration": "N437FX",
+    "firstSeen": "2026-02-25T21:47:54.801Z",
+    "lastSeen": "2026-02-25T21:47:54.801Z",
+    "duration": 0,
+    "closestDistance": 0.5900782907124811,
+    "closestAltitude": 43000,
+    "closestSpeed": 430,
+    "initialDistance": 0.5900782907124811,
+    "initialAltitude": 43000,
+    "initialSpeed": 430
   }
 ]
