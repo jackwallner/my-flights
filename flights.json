@@ -9010,5 +9010,24 @@
     "initialDistance": 0.48756907526880994,
     "initialAltitude": 40300,
     "initialSpeed": 400
+  },
+  {
+    "callsign": "LXJ593",
+    "flightNumber": "LXJ593",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "A7A91F",
+    "registration": "N593FX",
+    "firstSeen": "2026-02-25T00:25:51.982Z",
+    "lastSeen": "2026-02-25T00:25:51.982Z",
+    "duration": 0,
+    "closestDistance": 0.6127875888772896,
+    "closestAltitude": 40300,
+    "closestSpeed": 450,
+    "initialDistance": 0.6127875888772896,
+    "initialAltitude": 40300,
+    "initialSpeed": 450
   }
 ]
