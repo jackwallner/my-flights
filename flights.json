@@ -9048,5 +9048,24 @@
     "initialDistance": 0.31231698895314147,
     "initialAltitude": 3850,
     "initialSpeed": 132
+  },
+  {
+    "callsign": "N422HC",
+    "flightNumber": null,
+    "aircraftType": "EPIC",
+    "aircraftName": null,
+    "origin": "EMT",
+    "destination": "BFI",
+    "icao": "A503BF",
+    "registration": "N422HC",
+    "firstSeen": "2026-02-25T18:23:15.234Z",
+    "lastSeen": "2026-02-25T18:23:25.506Z",
+    "duration": 10,
+    "closestDistance": 0.21604180456633884,
+    "closestAltitude": 33000,
+    "closestSpeed": 276,
+    "initialDistance": 0.21604180456633884,
+    "initialAltitude": 33000,
+    "initialSpeed": 276
   }
 ]
