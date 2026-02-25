@@ -9029,5 +9029,24 @@
     "initialDistance": 0.6127875888772896,
     "initialAltitude": 40300,
     "initialSpeed": 450
+  },
+  {
+    "callsign": "STT62",
+    "flightNumber": "ST62",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A81490",
+    "registration": "N62GX",
+    "firstSeen": "2026-02-25T14:39:30.682Z",
+    "lastSeen": "2026-02-25T14:39:30.682Z",
+    "duration": 0,
+    "closestDistance": 0.31231698895314147,
+    "closestAltitude": 3850,
+    "closestSpeed": 132,
+    "initialDistance": 0.31231698895314147,
+    "initialAltitude": 3850,
+    "initialSpeed": 132
   }
 ]
