@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 34000,
-    "speed": 396,
-    "timestamp": "2026-02-26T03:36:37.105Z",
-    "lat": 45.6273,
-    "lon": -122.5292,
+    "distance": 0.69,
+    "altitude": 40000,
+    "speed": 399,
+    "timestamp": "2026-02-26T06:31:40.785Z",
+    "lat": 45.6321,
+    "lon": -122.515,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1165",
-    "aircraftType": "A220",
-    "origin": "SNA",
+    "callsign": "SWA447",
+    "aircraftType": "B737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-26T03:36:37.103Z"
+    "firstSeen": "2026-02-09T04:56:47.447Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6273,
-      -122.5292
+      45.6321,
+      -122.515
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-02-26T03:36:47.395Z"
+  "status": "tracking",
+  "timestamp": "2026-02-26T06:31:40.785Z"
 }
