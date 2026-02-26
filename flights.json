@@ -9219,5 +9219,24 @@
     "initialDistance": 0.3796579171189828,
     "initialAltitude": 4775,
     "initialSpeed": 254
+  },
+  {
+    "callsign": "DAL1165",
+    "flightNumber": "DL1165",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A03B6D",
+    "registration": "N114DU",
+    "firstSeen": "2026-02-26T03:36:37.103Z",
+    "lastSeen": "2026-02-26T03:36:37.103Z",
+    "duration": 0,
+    "closestDistance": 0.129580832572669,
+    "closestAltitude": 34000,
+    "closestSpeed": 396,
+    "initialDistance": 0.129580832572669,
+    "initialAltitude": 34000,
+    "initialSpeed": 396
   }
 ]
