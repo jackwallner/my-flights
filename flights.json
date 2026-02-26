@@ -9352,5 +9352,24 @@
     "initialDistance": 0.5754873709298118,
     "initialAltitude": 24000,
     "initialSpeed": 334
+  },
+  {
+    "callsign": "C550",
+    "flightNumber": null,
+    "aircraftType": "C550",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-26T23:25:45.592Z",
+    "lastSeen": "2026-02-26T23:25:56.064Z",
+    "duration": 10,
+    "closestDistance": 0.5462740350036894,
+    "closestAltitude": 11925,
+    "closestSpeed": 280,
+    "initialDistance": 0.5890268409539317,
+    "initialAltitude": 11550,
+    "initialSpeed": 271
   }
 ]
