@@ -1,37 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 4250,
-    "speed": 150,
-    "timestamp": "2026-02-26T00:24:18.854Z",
-    "lat": 45.6301,
-    "lon": -122.5304,
-    "precision": "high"
+    "distance": 0.58,
+    "altitude": 2075,
+    "speed": 98,
+    "timestamp": "2026-02-26T00:44:55.593Z",
+    "lat": 45.6293,
+    "lon": -122.5407,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N314MG",
-    "aircraftType": "C340",
-    "origin": "DLS",
-    "destination": "HIO",
-    "firstSeen": "2026-02-26T00:24:07.972Z"
+    "callsign": "N9185H",
+    "aircraftType": "C172",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.58,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6364,
-      -122.5252
+      45.6333,
+      -122.5361
     ],
     [
-      45.6301,
-      -122.5304
-    ],
-    [
-      45.6236,
-      -122.5358
+      45.6293,
+      -122.5407
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-02-26T00:24:39.384Z"
+  "status": "tracking",
+  "timestamp": "2026-02-26T00:44:55.593Z"
 }
