@@ -9162,5 +9162,24 @@
     "initialDistance": 0.4224620505433276,
     "initialAltitude": 2100,
     "initialSpeed": 103
+  },
+  {
+    "callsign": "N314MG",
+    "flightNumber": null,
+    "aircraftType": "C340",
+    "aircraftName": null,
+    "origin": "DLS",
+    "destination": "HIO",
+    "icao": "A356C7",
+    "registration": "N314MG",
+    "firstSeen": "2026-02-26T00:24:07.972Z",
+    "lastSeen": "2026-02-26T00:24:29.117Z",
+    "duration": 21,
+    "closestDistance": 0.3049032433437851,
+    "closestAltitude": 4250,
+    "closestSpeed": 150,
+    "initialDistance": 0.6787238380901142,
+    "initialAltitude": 4325,
+    "initialSpeed": 150
   }
 ]
