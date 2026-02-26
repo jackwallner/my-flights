@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 1150,
-    "speed": 156,
-    "timestamp": "2026-02-26T18:07:11.857Z",
-    "lat": 45.6239,
-    "lon": -122.5423,
-    "precision": "tracked"
+    "distance": 0.5,
+    "altitude": 1200,
+    "speed": 84,
+    "timestamp": "2026-02-26T19:34:01.688Z",
+    "lat": 45.617,
+    "lon": -122.5295,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "CFS518",
-    "aircraftType": "Cara",
-    "origin": "SEA",
-    "destination": "PDX",
-    "firstSeen": "2026-02-26T18:07:11.815Z"
+    "callsign": "N53986",
+    "aircraftType": "CH7A",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-26T19:33:41.005Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6239,
-      -122.5423
+      45.6181,
+      -122.5167
     ],
     [
-      45.618,
-      -122.5403
+      45.6176,
+      -122.5234
+    ],
+    [
+      45.617,
+      -122.5295
+    ],
+    [
+      45.6164,
+      -122.535
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-26T18:07:32.404Z"
+  "timestamp": "2026-02-26T19:34:22.440Z"
 }
