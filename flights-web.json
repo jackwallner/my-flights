@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 24000,
-    "speed": 238,
-    "timestamp": "2026-02-26T21:19:28.925Z",
-    "lat": 45.6275,
-    "lon": -122.5302,
-    "precision": "tracked"
+    "distance": 0.51,
+    "altitude": 1800,
+    "speed": 113,
+    "timestamp": "2026-02-26T21:59:47.265Z",
+    "lat": 45.6184,
+    "lon": -122.5353,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "BE20",
-    "aircraftType": "King",
+    "callsign": "N8191G",
+    "aircraftType": "C182",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-17T01:56:39.910Z"
+    "firstSeen": "2026-02-11T22:15:44.790Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6183,
-      -122.5256
+      45.6213,
+      -122.5408
     ],
     [
-      45.6275,
-      -122.5302
+      45.6184,
+      -122.5353
+    ],
+    [
+      45.6145,
+      -122.5284
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-26T21:19:39.263Z"
+  "timestamp": "2026-02-26T22:00:07.796Z"
 }
