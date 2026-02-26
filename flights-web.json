@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 36000,
-    "speed": 397,
-    "timestamp": "2026-02-26T08:10:43.823Z",
-    "lat": 45.6157,
-    "lon": -122.5208,
-    "precision": "tracked"
+    "distance": 0.06,
+    "altitude": 2075,
+    "speed": 150,
+    "timestamp": "2026-02-26T14:42:51.297Z",
+    "lat": 45.6244,
+    "lon": -122.529,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW5579",
-    "aircraftType": "E175",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T08:02:08.238Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.06,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6157,
-      -122.5208
+      45.6191,
+      -122.5331
+    ],
+    [
+      45.6244,
+      -122.529
+    ],
+    [
+      45.6312,
+      -122.5235
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-26T08:10:54.106Z"
+  "timestamp": "2026-02-26T14:43:11.950Z"
 }
