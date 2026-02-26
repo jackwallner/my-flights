@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 2275,
-    "speed": 105,
-    "timestamp": "2026-02-25T23:19:15.158Z",
-    "lat": 45.6231,
-    "lon": -122.5274,
+    "distance": 0.3,
+    "altitude": 4250,
+    "speed": 150,
+    "timestamp": "2026-02-26T00:24:18.854Z",
+    "lat": 45.6301,
+    "lon": -122.5304,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N84DA",
-    "aircraftType": "C414",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-25T23:19:04.871Z"
+    "callsign": "N314MG",
+    "aircraftType": "C340",
+    "origin": "DLS",
+    "destination": "HIO",
+    "firstSeen": "2026-02-26T00:24:07.972Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6185,
-      -122.5308
+      45.6364,
+      -122.5252
     ],
     [
-      45.6231,
-      -122.5274
+      45.6301,
+      -122.5304
     ],
     [
-      45.6271,
-      -122.5245
-    ],
-    [
-      45.6321,
-      -122.5205
+      45.6236,
+      -122.5358
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-25T23:19:46.499Z"
+  "timestamp": "2026-02-26T00:24:39.384Z"
 }
