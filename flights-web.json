@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 2075,
-    "speed": 98,
-    "timestamp": "2026-02-26T00:44:55.593Z",
-    "lat": 45.6293,
-    "lon": -122.5407,
+    "distance": 0.66,
+    "altitude": 42450,
+    "speed": 440,
+    "timestamp": "2026-02-26T00:52:08.190Z",
+    "lat": 45.6278,
+    "lon": -122.5434,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "callsign": "EJA848",
+    "aircraftType": "Cita",
+    "origin": "PSP",
+    "destination": "BFI",
+    "firstSeen": "2026-02-26T00:52:08.187Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6333,
-      -122.5361
-    ],
-    [
-      45.6293,
-      -122.5407
+      45.6278,
+      -122.5434
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-26T00:45:05.856Z"
+  "timestamp": "2026-02-26T00:52:18.474Z"
 }
