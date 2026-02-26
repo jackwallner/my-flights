@@ -9238,5 +9238,24 @@
     "initialDistance": 0.129580832572669,
     "initialAltitude": 34000,
     "initialSpeed": 396
+  },
+  {
+    "callsign": "N386ME",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": "PDX",
+    "icao": "A472AC",
+    "registration": "N386ME",
+    "firstSeen": "2026-02-26T16:09:59.584Z",
+    "lastSeen": "2026-02-26T16:10:40.708Z",
+    "duration": 41,
+    "closestDistance": 0.051548294239744295,
+    "closestAltitude": 1800,
+    "closestSpeed": 85,
+    "initialDistance": 0.47790558310021697,
+    "initialAltitude": 1600,
+    "initialSpeed": 85
   }
 ]

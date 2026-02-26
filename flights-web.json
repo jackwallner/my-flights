@@ -1,29 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 36000,
-    "speed": 424,
-    "timestamp": "2026-02-26T15:36:10.916Z",
-    "lat": 45.6156,
-    "lon": -122.52,
-    "precision": "tracked"
+    "distance": 0.05,
+    "altitude": 1800,
+    "speed": 85,
+    "timestamp": "2026-02-26T16:10:20.127Z",
+    "lat": 45.6245,
+    "lon": -122.5276,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA705",
-    "aircraftType": "B39M",
-    "origin": "OAK",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T17:45:14.625Z"
+    "callsign": "N386ME",
+    "aircraftType": "C172",
+    "origin": "RDM",
+    "destination": "PDX",
+    "firstSeen": "2026-02-26T16:09:59.584Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.05,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6156,
-      -122.52
+      45.6176,
+      -122.5311
+    ],
+    [
+      45.6211,
+      -122.5277
+    ],
+    [
+      45.6245,
+      -122.5276
+    ],
+    [
+      45.6279,
+      -122.5314
+    ],
+    [
+      45.6299,
+      -122.537
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-02-26T15:36:21.201Z"
+  "status": "tracking",
+  "timestamp": "2026-02-26T16:10:40.711Z"
 }
