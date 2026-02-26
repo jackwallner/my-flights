@@ -9295,5 +9295,24 @@
     "initialDistance": 0.644586404926557,
     "initialAltitude": 1400,
     "initialSpeed": 93
+  },
+  {
+    "callsign": "N58PD",
+    "flightNumber": null,
+    "aircraftType": "B58T",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A774D8",
+    "registration": "N58PD",
+    "firstSeen": "2026-02-26T20:28:54.498Z",
+    "lastSeen": "2026-02-26T20:29:04.780Z",
+    "duration": 10,
+    "closestDistance": 0.6480771236015184,
+    "closestAltitude": 8025,
+    "closestSpeed": 146,
+    "initialDistance": 0.6853720615951207,
+    "initialAltitude": 7825,
+    "initialSpeed": 147
   }
 ]
