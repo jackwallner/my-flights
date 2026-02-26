@@ -9257,5 +9257,24 @@
     "initialDistance": 0.47790558310021697,
     "initialAltitude": 1600,
     "initialSpeed": 85
+  },
+  {
+    "callsign": "CFS518",
+    "flightNumber": "EM518",
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "SEA",
+    "destination": "PDX",
+    "icao": "AD4F2A",
+    "registration": "N957FE",
+    "firstSeen": "2026-02-26T18:07:11.815Z",
+    "lastSeen": "2026-02-26T18:07:22.130Z",
+    "duration": 10,
+    "closestDistance": 0.6015010331104977,
+    "closestAltitude": 1150,
+    "closestSpeed": 156,
+    "initialDistance": 0.6015010331104977,
+    "initialAltitude": 1150,
+    "initialSpeed": 156
   }
 ]

@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 34000,
-    "speed": 370,
-    "timestamp": "2026-02-26T17:52:07.104Z",
-    "lat": 45.6244,
-    "lon": -122.5237,
+    "distance": 0.6,
+    "altitude": 1150,
+    "speed": 156,
+    "timestamp": "2026-02-26T18:07:11.857Z",
+    "lat": 45.6239,
+    "lon": -122.5423,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3345",
-    "aircraftType": "E175",
-    "origin": "FAT",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T18:15:50.955Z"
+    "callsign": "CFS518",
+    "aircraftType": "Cara",
+    "origin": "SEA",
+    "destination": "PDX",
+    "firstSeen": "2026-02-26T18:07:11.815Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.6,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6244,
-      -122.5237
+      45.6239,
+      -122.5423
+    ],
+    [
+      45.618,
+      -122.5403
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-26T17:52:17.363Z"
+  "timestamp": "2026-02-26T18:07:32.404Z"
 }
