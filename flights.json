@@ -9333,5 +9333,24 @@
     "initialDistance": 0.6475653775436797,
     "initialAltitude": 1500,
     "initialSpeed": 138
+  },
+  {
+    "callsign": "168435",
+    "flightNumber": null,
+    "aircraftType": "P8",
+    "aircraftName": null,
+    "origin": "NUW",
+    "destination": null,
+    "icao": "AE4EB9",
+    "registration": "168435",
+    "firstSeen": "2026-02-26T23:15:58.834Z",
+    "lastSeen": "2026-02-26T23:15:58.834Z",
+    "duration": 0,
+    "closestDistance": 0.5754873709298118,
+    "closestAltitude": 24000,
+    "closestSpeed": 334,
+    "initialDistance": 0.5754873709298118,
+    "initialAltitude": 24000,
+    "initialSpeed": 334
   }
 ]
