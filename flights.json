@@ -9314,5 +9314,24 @@
     "initialDistance": 0.6853720615951207,
     "initialAltitude": 7825,
     "initialSpeed": 147
+  },
+  {
+    "callsign": "SR22",
+    "flightNumber": null,
+    "aircraftType": "SR22",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-26T22:39:37.464Z",
+    "lastSeen": "2026-02-26T22:39:47.744Z",
+    "duration": 10,
+    "closestDistance": 0.4682705429886315,
+    "closestAltitude": 1500,
+    "closestSpeed": 139,
+    "initialDistance": 0.6475653775436797,
+    "initialAltitude": 1500,
+    "initialSpeed": 138
   }
 ]
