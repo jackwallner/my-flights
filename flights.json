@@ -9181,5 +9181,24 @@
     "initialDistance": 0.6787238380901142,
     "initialAltitude": 4325,
     "initialSpeed": 150
+  },
+  {
+    "callsign": "EJA848",
+    "flightNumber": "EJA848",
+    "aircraftType": "C700",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "BFI",
+    "icao": "AB9F00",
+    "registration": "N848QS",
+    "firstSeen": "2026-02-26T00:52:08.187Z",
+    "lastSeen": "2026-02-26T00:52:08.187Z",
+    "duration": 0,
+    "closestDistance": 0.6595136872813067,
+    "closestAltitude": 42450,
+    "closestSpeed": 440,
+    "initialDistance": 0.6595136872813067,
+    "initialAltitude": 42450,
+    "initialSpeed": 440
   }
 ]
