@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 40000,
-    "speed": 399,
-    "timestamp": "2026-02-26T06:31:40.785Z",
-    "lat": 45.6321,
-    "lon": -122.515,
+    "distance": 0.65,
+    "altitude": 36000,
+    "speed": 397,
+    "timestamp": "2026-02-26T08:10:43.823Z",
+    "lat": 45.6157,
+    "lon": -122.5208,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA447",
-    "aircraftType": "B737",
-    "origin": "SMF",
+    "callsign": "SKW5579",
+    "aircraftType": "E175",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T04:56:47.447Z"
+    "firstSeen": "2026-02-07T08:02:08.238Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.65,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6321,
-      -122.515
+      45.6157,
+      -122.5208
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-26T06:31:51.050Z"
+  "timestamp": "2026-02-26T08:10:54.106Z"
 }
