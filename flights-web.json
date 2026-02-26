@@ -1,41 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 1200,
-    "speed": 84,
-    "timestamp": "2026-02-26T19:34:01.688Z",
-    "lat": 45.617,
-    "lon": -122.5295,
+    "distance": 0.08,
+    "altitude": 1500,
+    "speed": 102,
+    "timestamp": "2026-02-26T19:58:22.803Z",
+    "lat": 45.6254,
+    "lon": -122.5299,
     "precision": "high"
   },
   "flight": {
     "callsign": "N53986",
     "aircraftType": "CH7A",
-    "origin": null,
-    "destination": null,
+    "origin": "TTD",
+    "destination": "PDX",
     "firstSeen": "2026-02-26T19:33:41.005Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.08,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6181,
-      -122.5167
+      45.6258,
+      -122.5426
     ],
     [
-      45.6176,
-      -122.5234
+      45.6256,
+      -122.5357
     ],
     [
-      45.617,
-      -122.5295
+      45.6254,
+      -122.5299
     ],
     [
-      45.6164,
-      -122.535
+      45.6253,
+      -122.5223
+    ],
+    [
+      45.6254,
+      -122.5148
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-26T19:34:22.440Z"
+  "timestamp": "2026-02-26T19:58:53.775Z"
 }
