@@ -9428,5 +9428,24 @@
     "initialDistance": 0.16906576516436417,
     "initialAltitude": 22000,
     "initialSpeed": 325
+  },
+  {
+    "callsign": "SKW127T",
+    "flightNumber": "DL3770",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A32FD5",
+    "registration": "N304SY",
+    "firstSeen": "2026-02-27T02:14:48.738Z",
+    "lastSeen": "2026-02-27T02:14:48.738Z",
+    "duration": 0,
+    "closestDistance": 0.38279575418860334,
+    "closestAltitude": 30000,
+    "closestSpeed": 384,
+    "initialDistance": 0.38279575418860334,
+    "initialAltitude": 30000,
+    "initialSpeed": 384
   }
 ]
