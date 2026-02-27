@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 11925,
-    "speed": 280,
-    "timestamp": "2026-02-26T23:25:56.066Z",
-    "lat": 45.6163,
-    "lon": -122.5302,
+    "distance": 0.59,
+    "altitude": 27175,
+    "speed": 433,
+    "timestamp": "2026-02-27T00:12:37.292Z",
+    "lat": 45.6211,
+    "lon": -122.5407,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "C550",
-    "aircraftType": "C550",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-26T23:25:45.592Z"
+    "callsign": "TFF953",
+    "aircraftType": "Chal",
+    "origin": "PSP",
+    "destination": "BFI",
+    "firstSeen": "2026-02-27T00:12:37.287Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6239,
-      -122.542
-    ],
-    [
-      45.6163,
-      -122.5302
+      45.6211,
+      -122.5407
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-26T23:26:06.340Z"
+  "timestamp": "2026-02-27T00:12:47.591Z"
 }

@@ -9371,5 +9371,24 @@
     "initialDistance": 0.5890268409539317,
     "initialAltitude": 11550,
     "initialSpeed": 271
+  },
+  {
+    "callsign": "TFF953",
+    "flightNumber": "TFF953",
+    "aircraftType": "CL60",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "BFI",
+    "icao": "A35727",
+    "registration": "N314RC",
+    "firstSeen": "2026-02-27T00:12:37.287Z",
+    "lastSeen": "2026-02-27T00:12:37.287Z",
+    "duration": 0,
+    "closestDistance": 0.5851574482993458,
+    "closestAltitude": 27175,
+    "closestSpeed": 433,
+    "initialDistance": 0.5851574482993458,
+    "initialAltitude": 27175,
+    "initialSpeed": 433
   }
 ]
