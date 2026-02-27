@@ -9485,5 +9485,24 @@
     "initialDistance": 0.48197759102771687,
     "initialAltitude": 5900,
     "initialSpeed": 261
+  },
+  {
+    "callsign": "N5283K",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A6A971",
+    "registration": "N5283K",
+    "firstSeen": "2026-02-27T20:42:55.296Z",
+    "lastSeen": "2026-02-27T20:43:16.034Z",
+    "duration": 21,
+    "closestDistance": 0.4264314902237672,
+    "closestAltitude": 3100,
+    "closestSpeed": 117,
+    "initialDistance": 0.618143928809848,
+    "initialAltitude": 3100,
+    "initialSpeed": 117
   }
 ]
