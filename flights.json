@@ -9542,5 +9542,24 @@
     "initialDistance": 0.6660431852046861,
     "initialAltitude": 1875,
     "initialSpeed": 75
+  },
+  {
+    "callsign": "N422CP",
+    "flightNumber": null,
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "TIW",
+    "icao": "A5034D",
+    "registration": "N422CP",
+    "firstSeen": "2026-02-27T22:19:38.928Z",
+    "lastSeen": "2026-02-27T22:19:38.928Z",
+    "duration": 0,
+    "closestDistance": 0.3257718191035965,
+    "closestAltitude": 32825,
+    "closestSpeed": 406,
+    "initialDistance": 0.3257718191035965,
+    "initialAltitude": 32825,
+    "initialSpeed": 406
   }
 ]
