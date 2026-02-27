@@ -9409,5 +9409,24 @@
     "initialDistance": 0.407423418742274,
     "initialAltitude": 24000,
     "initialSpeed": 383
+  },
+  {
+    "callsign": "SKW4141",
+    "flightNumber": "DL4141",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": "SEA",
+    "icao": "A2ED5A",
+    "registration": "N288SY",
+    "firstSeen": "2026-02-27T01:59:42.744Z",
+    "lastSeen": "2026-02-27T01:59:53.035Z",
+    "duration": 10,
+    "closestDistance": 0.16906576516436417,
+    "closestAltitude": 22000,
+    "closestSpeed": 325,
+    "initialDistance": 0.16906576516436417,
+    "initialAltitude": 22000,
+    "initialSpeed": 325
   }
 ]
