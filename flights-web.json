@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.12,
+    "distance": 0.22,
     "altitude": 32000,
-    "speed": 388,
-    "timestamp": "2026-02-27T02:01:56.633Z",
-    "lat": 45.6273,
-    "lon": -122.528,
+    "speed": 393,
+    "timestamp": "2026-02-27T02:08:58.669Z",
+    "lat": 45.6288,
+    "lon": -122.527,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1256",
-    "aircraftType": "737",
-    "origin": "SJC",
+    "callsign": "ASA622",
+    "aircraftType": "B39M",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-02-21T02:11:44.716Z"
+    "firstSeen": "2026-02-10T00:43:06.369Z"
   },
-  "overheadScore": 0.12,
+  "overheadScore": 0.22,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6273,
-      -122.528
+      45.6288,
+      -122.527
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-27T02:02:06.910Z"
+  "timestamp": "2026-02-27T02:09:08.940Z"
 }
