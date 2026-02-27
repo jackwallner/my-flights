@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 32000,
-    "speed": 364,
-    "timestamp": "2026-02-27T02:36:15.813Z",
-    "lat": 45.627,
-    "lon": -122.5131,
-    "precision": "tracked"
+    "distance": 0.56,
+    "altitude": 1850,
+    "speed": 118,
+    "timestamp": "2026-02-27T02:47:13.597Z",
+    "lat": 45.6161,
+    "lon": -122.5265,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW3207",
-    "aircraftType": "E175",
-    "origin": "MFR",
-    "destination": "SEA",
-    "firstSeen": "2026-02-21T05:21:47.088Z"
+    "callsign": "N9185H",
+    "aircraftType": "C172",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.56,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.627,
-      -122.5131
+      45.6161,
+      -122.5265
+    ],
+    [
+      45.6181,
+      -122.5197
+    ],
+    [
+      45.6198,
+      -122.5134
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-27T02:36:26.082Z"
+  "timestamp": "2026-02-27T02:47:44.402Z"
 }
