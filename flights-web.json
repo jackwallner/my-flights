@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 34000,
+    "distance": 0.21,
+    "altitude": 32000,
     "speed": 387,
-    "timestamp": "2026-02-27T02:11:53.712Z",
-    "lat": 45.6218,
-    "lon": -122.5253,
+    "timestamp": "2026-02-27T02:13:16.089Z",
+    "lat": 45.6287,
+    "lon": -122.5296,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA599",
+    "callsign": "ASA585",
     "aircraftType": "737",
-    "origin": "LAS",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-23T04:28:18.295Z"
+    "firstSeen": "2026-02-09T01:10:45.410Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.21,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6218,
-      -122.5253
+      45.6287,
+      -122.5296
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-27T02:12:03.977Z"
+  "timestamp": "2026-02-27T02:13:26.399Z"
 }
