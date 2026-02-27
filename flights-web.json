@@ -1,49 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.1,
-    "altitude": 2300,
-    "speed": 74,
-    "timestamp": "2026-02-27T19:24:46.760Z",
-    "lat": 45.6261,
-    "lon": -122.5302,
-    "precision": "high"
+    "distance": 0.34,
+    "altitude": 5725,
+    "speed": 261,
+    "timestamp": "2026-02-27T20:27:17.287Z",
+    "lat": 45.6214,
+    "lon": -122.5339,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4154D",
-    "aircraftType": "C170",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-27T19:24:26.188Z"
+    "callsign": "N175AA",
+    "aircraftType": "Cita",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-02-27T20:27:06.915Z"
   },
-  "overheadScore": 0.1,
+  "overheadScore": 0.34,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6259,
-      -122.5397
+      45.6333,
+      -122.5276
     ],
     [
-      45.626,
-      -122.5343
-    ],
-    [
-      45.6261,
-      -122.5302
-    ],
-    [
-      45.6264,
-      -122.5248
-    ],
-    [
-      45.6269,
-      -122.5193
-    ],
-    [
-      45.6272,
-      -122.5148
+      45.6214,
+      -122.5339
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-27T19:25:27.926Z"
+  "timestamp": "2026-02-27T20:27:27.574Z"
 }
