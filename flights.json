@@ -9523,5 +9523,24 @@
     "initialDistance": 0.6873315641884913,
     "initialAltitude": 1200,
     "initialSpeed": 121
+  },
+  {
+    "callsign": "N20640",
+    "flightNumber": null,
+    "aircraftType": "C180",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": "MFR",
+    "icao": "A1AB4A",
+    "registration": "N20640",
+    "firstSeen": "2026-02-27T21:58:04.037Z",
+    "lastSeen": "2026-02-27T21:58:14.484Z",
+    "duration": 10,
+    "closestDistance": 0.494600552140296,
+    "closestAltitude": 1850,
+    "closestSpeed": 81,
+    "initialDistance": 0.6660431852046861,
+    "initialAltitude": 1875,
+    "initialSpeed": 75
   }
 ]
