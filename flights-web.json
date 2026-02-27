@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 27175,
-    "speed": 433,
-    "timestamp": "2026-02-27T00:12:37.292Z",
-    "lat": 45.6211,
-    "lon": -122.5407,
+    "distance": 0.41,
+    "altitude": 24000,
+    "speed": 383,
+    "timestamp": "2026-02-27T01:55:35.326Z",
+    "lat": 45.6231,
+    "lon": -122.5373,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "TFF953",
-    "aircraftType": "Chal",
-    "origin": "PSP",
-    "destination": "BFI",
-    "firstSeen": "2026-02-27T00:12:37.287Z"
+    "callsign": "F2TH",
+    "aircraftType": "F2TH",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-27T01:55:35.322Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.41,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6211,
-      -122.5407
+      45.6231,
+      -122.5373
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-27T00:12:47.591Z"
+  "timestamp": "2026-02-27T01:55:45.598Z"
 }
