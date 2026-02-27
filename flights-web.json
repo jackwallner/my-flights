@@ -1,29 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 1200,
-    "speed": 121,
-    "timestamp": "2026-02-27T21:45:31.934Z",
-    "lat": 45.6312,
-    "lon": -122.5141,
-    "precision": "tracked"
+    "distance": 0.12,
+    "altitude": 2400,
+    "speed": 86,
+    "timestamp": "2026-02-27T21:50:41.012Z",
+    "lat": 45.6236,
+    "lon": -122.5265,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N549SR",
-    "aircraftType": "SR22",
-    "origin": "TTD",
+    "callsign": "N5107H",
+    "aircraftType": "C172",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-27T21:45:31.931Z"
+    "firstSeen": "2026-02-09T23:58:25.954Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6312,
-      -122.5141
+      45.6258,
+      -122.5164
+    ],
+    [
+      45.6248,
+      -122.5221
+    ],
+    [
+      45.6236,
+      -122.5265
+    ],
+    [
+      45.6221,
+      -122.5311
+    ],
+    [
+      45.6198,
+      -122.5373
+    ],
+    [
+      45.6181,
+      -122.5412
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-27T21:45:42.199Z"
+  "timestamp": "2026-02-27T21:51:22.265Z"
 }
