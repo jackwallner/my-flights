@@ -9447,5 +9447,24 @@
     "initialDistance": 0.38279575418860334,
     "initialAltitude": 30000,
     "initialSpeed": 384
+  },
+  {
+    "callsign": "N4154D",
+    "flightNumber": null,
+    "aircraftType": "C170",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A4E99B",
+    "registration": "N4154D",
+    "firstSeen": "2026-02-27T19:24:26.188Z",
+    "lastSeen": "2026-02-27T19:25:17.646Z",
+    "duration": 51,
+    "closestDistance": 0.10054981170074855,
+    "closestAltitude": 2300,
+    "closestSpeed": 74,
+    "initialDistance": 0.48800144456082456,
+    "initialAltitude": 2100,
+    "initialSpeed": 71
   }
 ]
