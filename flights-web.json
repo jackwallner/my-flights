@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 43000,
-    "speed": 385,
-    "timestamp": "2026-02-27T03:17:17.426Z",
-    "lat": 45.6264,
-    "lon": -122.5438,
+    "distance": 0.16,
+    "altitude": 38000,
+    "speed": 365,
+    "timestamp": "2026-02-27T13:20:57.251Z",
+    "lat": 45.6256,
+    "lon": -122.5318,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "C56X",
+    "callsign": "N174AA",
     "aircraftType": "Cita",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-14T17:19:26.021Z"
+    "origin": "ONT",
+    "destination": "BFI",
+    "firstSeen": "2026-02-06T22:58:59.693Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.16,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6264,
-      -122.5438
+      45.6256,
+      -122.5318
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-27T03:17:27.704Z"
+  "timestamp": "2026-02-27T13:21:07.537Z"
 }
