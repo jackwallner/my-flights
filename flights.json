@@ -9504,5 +9504,24 @@
     "initialDistance": 0.618143928809848,
     "initialAltitude": 3100,
     "initialSpeed": 117
+  },
+  {
+    "callsign": "N549SR",
+    "flightNumber": null,
+    "aircraftType": "SR22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A6FAFB",
+    "registration": "N549SR",
+    "firstSeen": "2026-02-27T21:45:31.931Z",
+    "lastSeen": "2026-02-27T21:45:31.931Z",
+    "duration": 0,
+    "closestDistance": 0.6873315641884913,
+    "closestAltitude": 1200,
+    "closestSpeed": 121,
+    "initialDistance": 0.6873315641884913,
+    "initialAltitude": 1200,
+    "initialSpeed": 121
   }
 ]
