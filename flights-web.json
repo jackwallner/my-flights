@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 1900,
-    "speed": 104,
-    "timestamp": "2026-02-28T20:43:52.895Z",
-    "lat": 45.6297,
-    "lon": -122.5226,
-    "precision": "high"
+    "distance": 0.49,
+    "altitude": 29475,
+    "speed": 488,
+    "timestamp": "2026-02-28T21:12:43.121Z",
+    "lat": 45.6171,
+    "lon": -122.5267,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N513WF",
-    "aircraftType": "C172",
-    "origin": "RNT",
-    "destination": "PDX",
-    "firstSeen": "2026-02-28T20:43:42.547Z"
+    "callsign": "N610WU",
+    "aircraftType": "Cita",
+    "origin": "UDD",
+    "destination": "OLM",
+    "firstSeen": "2026-02-28T21:12:43.118Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.633,
-      -122.527
-    ],
-    [
-      45.6297,
-      -122.5226
-    ],
-    [
-      45.6247,
-      -122.5194
-    ],
-    [
-      45.6197,
-      -122.5183
+      45.6171,
+      -122.5267
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T20:44:24.460Z"
+  "timestamp": "2026-02-28T21:12:53.381Z"
 }

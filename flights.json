@@ -9789,5 +9789,24 @@
     "initialDistance": 0.4658306889756591,
     "initialAltitude": 2050,
     "initialSpeed": 107
+  },
+  {
+    "callsign": "N610WU",
+    "flightNumber": null,
+    "aircraftType": "C750",
+    "aircraftName": null,
+    "origin": "UDD",
+    "destination": "OLM",
+    "icao": "A7F0C5",
+    "registration": "N610WU",
+    "firstSeen": "2026-02-28T21:12:43.118Z",
+    "lastSeen": "2026-02-28T21:12:43.118Z",
+    "duration": 0,
+    "closestDistance": 0.4947212775966321,
+    "closestAltitude": 29475,
+    "closestSpeed": 488,
+    "initialDistance": 0.4947212775966321,
+    "initialAltitude": 29475,
+    "initialSpeed": 488
   }
 ]
