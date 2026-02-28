@@ -1,49 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 2975,
-    "speed": 83,
-    "timestamp": "2026-02-28T19:17:00.775Z",
-    "lat": 45.6306,
-    "lon": -122.5301,
-    "precision": "high"
+    "distance": 0.46,
+    "altitude": 2850,
+    "speed": 169,
+    "timestamp": "2026-02-28T19:20:17.322Z",
+    "lat": 45.6287,
+    "lon": -122.5182,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6194E",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-28T19:16:40.151Z"
+    "callsign": "N75TT",
+    "aircraftType": "C414",
+    "origin": "TTD",
+    "destination": "TIW",
+    "firstSeen": "2026-02-28T19:20:17.318Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.46,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6328,
-      -122.5188
+      45.6287,
+      -122.5182
     ],
     [
-      45.6318,
-      -122.5254
-    ],
-    [
-      45.6306,
-      -122.5301
-    ],
-    [
-      45.6288,
-      -122.5356
-    ],
-    [
-      45.6265,
-      -122.5394
-    ],
-    [
-      45.6234,
-      -122.5438
+      45.6366,
+      -122.5251
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T19:17:42.328Z"
+  "timestamp": "2026-02-28T19:20:37.863Z"
 }

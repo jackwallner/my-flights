@@ -9694,5 +9694,43 @@
     "initialDistance": 0.5972311166527862,
     "initialAltitude": 2800,
     "initialSpeed": 82
+  },
+  {
+    "callsign": "N999FN",
+    "flightNumber": null,
+    "aircraftType": "EPIC",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "BFI",
+    "icao": "ADF49C",
+    "registration": "N999FN",
+    "firstSeen": "2026-02-28T19:19:05.041Z",
+    "lastSeen": "2026-02-28T19:19:15.318Z",
+    "duration": 10,
+    "closestDistance": 0.19739296971186718,
+    "closestAltitude": 27650,
+    "closestSpeed": 353,
+    "initialDistance": 0.19739296971186718,
+    "initialAltitude": 27650,
+    "initialSpeed": 353
+  },
+  {
+    "callsign": "N75TT",
+    "flightNumber": null,
+    "aircraftType": "C414",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": "TIW",
+    "icao": "AA196B",
+    "registration": "N75TT",
+    "firstSeen": "2026-02-28T19:20:17.318Z",
+    "lastSeen": "2026-02-28T19:20:27.588Z",
+    "duration": 10,
+    "closestDistance": 0.4640592306406759,
+    "closestAltitude": 2850,
+    "closestSpeed": 169,
+    "initialDistance": 0.4640592306406759,
+    "initialAltitude": 2850,
+    "initialSpeed": 169
   }
 ]
