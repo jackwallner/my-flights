@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 3900,
-    "speed": 107,
-    "timestamp": "2026-02-28T19:22:51.717Z",
-    "lat": 45.6322,
-    "lon": -122.5369,
+    "distance": 0.17,
+    "altitude": 5650,
+    "speed": 109,
+    "timestamp": "2026-02-28T19:31:16.410Z",
+    "lat": 45.6225,
+    "lon": -122.5282,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N867LA",
-    "aircraftType": "C172",
-    "origin": "HIO",
+    "callsign": "N24266",
+    "aircraftType": "C152",
+    "origin": "PSC",
     "destination": null,
-    "firstSeen": "2026-02-28T19:22:41.427Z"
+    "firstSeen": "2026-02-13T01:10:47.098Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.17,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6361,
-      -122.5333
+      45.6282,
+      -122.5158
     ],
     [
-      45.6322,
-      -122.5369
+      45.6258,
+      -122.521
     ],
     [
-      45.6277,
-      -122.5416
+      45.6225,
+      -122.5282
+    ],
+    [
+      45.6201,
+      -122.5337
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T19:23:12.242Z"
+  "timestamp": "2026-02-28T19:31:36.978Z"
 }
