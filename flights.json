@@ -9732,5 +9732,24 @@
     "initialDistance": 0.4640592306406759,
     "initialAltitude": 2850,
     "initialSpeed": 169
+  },
+  {
+    "callsign": "N867LA",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "ABE9D3",
+    "registration": "N867LA",
+    "firstSeen": "2026-02-28T19:22:41.427Z",
+    "lastSeen": "2026-02-28T19:23:01.983Z",
+    "duration": 21,
+    "closestDistance": 0.5556590848714461,
+    "closestAltitude": 3900,
+    "closestSpeed": 107,
+    "initialDistance": 0.6851617053894578,
+    "initialAltitude": 3900,
+    "initialSpeed": 106
   }
 ]
