@@ -9599,5 +9599,24 @@
     "initialDistance": 0.6395291637573512,
     "initialAltitude": 1250,
     "initialSpeed": 76
+  },
+  {
+    "callsign": "ASA698",
+    "flightNumber": "AS698",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A28DE3",
+    "registration": "N264AK",
+    "firstSeen": "2026-02-28T02:58:44.923Z",
+    "lastSeen": "2026-02-28T02:58:44.923Z",
+    "duration": 0,
+    "closestDistance": 0.4998286428347155,
+    "closestAltitude": 34000,
+    "closestSpeed": 396,
+    "initialDistance": 0.4998286428347155,
+    "initialAltitude": 34000,
+    "initialSpeed": 396
   }
 ]
