@@ -9618,5 +9618,24 @@
     "initialDistance": 0.4998286428347155,
     "initialAltitude": 34000,
     "initialSpeed": 396
+  },
+  {
+    "callsign": "GALX",
+    "flightNumber": null,
+    "aircraftType": "GALX",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-02-28T03:20:11.488Z",
+    "lastSeen": "2026-02-28T03:20:11.488Z",
+    "duration": 0,
+    "closestDistance": 0.6556116901995045,
+    "closestAltitude": 6600,
+    "closestSpeed": 274,
+    "initialDistance": 0.6556116901995045,
+    "initialAltitude": 6600,
+    "initialSpeed": 274
   }
 ]
