@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 1800,
-    "speed": 92,
-    "timestamp": "2026-02-28T01:44:20.739Z",
-    "lat": 45.6331,
-    "lon": -122.5401,
+    "distance": 0.32,
+    "altitude": 30925,
+    "speed": 413,
+    "timestamp": "2026-02-28T01:58:25.281Z",
+    "lat": 45.6238,
+    "lon": -122.5208,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N61338",
-    "aircraftType": "C150",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-05T00:29:12.810Z"
+    "callsign": "SKW4451",
+    "aircraftType": "E175",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-28T01:58:25.278Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.32,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6331,
-      -122.5401
+      45.6238,
+      -122.5208
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T01:44:31.004Z"
+  "timestamp": "2026-02-28T01:58:35.579Z"
 }
