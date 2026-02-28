@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 1625,
-    "speed": 109,
-    "timestamp": "2026-02-28T03:03:23.338Z",
-    "lat": 45.6183,
-    "lon": -122.5217,
-    "precision": "high"
+    "distance": 0.66,
+    "altitude": 6600,
+    "speed": 274,
+    "timestamp": "2026-02-28T03:20:11.491Z",
+    "lat": 45.6344,
+    "lon": -122.5367,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N20640",
-    "aircraftType": "C180",
-    "origin": "MFR",
+    "callsign": "GALX",
+    "aircraftType": "GALX",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-27T21:58:04.037Z"
+    "firstSeen": "2026-02-28T03:20:11.488Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6161,
-      -122.5368
-    ],
-    [
-      45.6171,
-      -122.5303
-    ],
-    [
-      45.6183,
-      -122.5217
-    ],
-    [
-      45.6191,
-      -122.5153
+      45.6344,
+      -122.5367
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T03:03:44.020Z"
+  "timestamp": "2026-02-28T03:20:21.772Z"
 }
