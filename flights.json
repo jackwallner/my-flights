@@ -9808,5 +9808,24 @@
     "initialDistance": 0.4947212775966321,
     "initialAltitude": 29475,
     "initialSpeed": 488
+  },
+  {
+    "callsign": "N9159K",
+    "flightNumber": null,
+    "aircraftType": "P28R",
+    "aircraftName": null,
+    "origin": "RLD",
+    "destination": null,
+    "icao": "ACACDB",
+    "registration": "N9159K",
+    "firstSeen": "2026-02-28T21:50:32.271Z",
+    "lastSeen": "2026-02-28T21:50:52.823Z",
+    "duration": 21,
+    "closestDistance": 0.32665625716888114,
+    "closestAltitude": 6300,
+    "closestSpeed": 157,
+    "initialDistance": 0.577610329321644,
+    "initialAltitude": 6400,
+    "initialSpeed": 157
   }
 ]

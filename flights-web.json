@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 29475,
-    "speed": 488,
-    "timestamp": "2026-02-28T21:12:43.121Z",
-    "lat": 45.6171,
-    "lon": -122.5267,
-    "precision": "tracked"
+    "distance": 0.33,
+    "altitude": 6300,
+    "speed": 157,
+    "timestamp": "2026-02-28T21:50:42.557Z",
+    "lat": 45.6221,
+    "lon": -122.5218,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N610WU",
-    "aircraftType": "Cita",
-    "origin": "UDD",
-    "destination": "OLM",
-    "firstSeen": "2026-02-28T21:12:43.118Z"
+    "callsign": "N9159K",
+    "aircraftType": "P28R",
+    "origin": "RLD",
+    "destination": null,
+    "firstSeen": "2026-02-28T21:50:32.271Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.33,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6171,
-      -122.5267
+      45.6286,
+      -122.5152
+    ],
+    [
+      45.6221,
+      -122.5218
+    ],
+    [
+      45.6155,
+      -122.5285
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-02-28T21:12:53.381Z"
+  "status": "tracking",
+  "timestamp": "2026-02-28T21:50:52.825Z"
 }
