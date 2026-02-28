@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 2275,
-    "speed": 111,
-    "timestamp": "2026-02-28T16:27:15.064Z",
-    "lat": 45.6164,
-    "lon": -122.528,
+    "distance": 0.29,
+    "altitude": 2800,
+    "speed": 85,
+    "timestamp": "2026-02-28T18:30:11.746Z",
+    "lat": 45.6209,
+    "lon": -122.5254,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N5754E",
-    "aircraftType": "C172",
-    "origin": null,
+    "callsign": "N2017E",
+    "aircraftType": "C82S",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-28T16:27:04.807Z"
+    "firstSeen": "2026-02-13T02:14:36.625Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6167,
-      -122.5196
+      45.6197,
+      -122.5363
     ],
     [
-      45.6164,
-      -122.528
+      45.6204,
+      -122.5301
     ],
     [
-      45.6162,
-      -122.5343
+      45.6209,
+      -122.5254
+    ],
+    [
+      45.6217,
+      -122.5194
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-02-28T16:27:35.600Z"
+  "status": "tracking",
+  "timestamp": "2026-02-28T18:30:22.024Z"
 }
