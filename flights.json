@@ -9675,5 +9675,24 @@
     "initialDistance": 0.6270217962573903,
     "initialAltitude": 2350,
     "initialSpeed": 115
+  },
+  {
+    "callsign": "N6194E",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A81316",
+    "registration": "N6194E",
+    "firstSeen": "2026-02-28T19:16:40.151Z",
+    "lastSeen": "2026-02-28T19:17:31.905Z",
+    "duration": 52,
+    "closestDistance": 0.3301199026792431,
+    "closestAltitude": 2975,
+    "closestSpeed": 83,
+    "initialDistance": 0.5972311166527862,
+    "initialAltitude": 2800,
+    "initialSpeed": 82
   }
 ]
