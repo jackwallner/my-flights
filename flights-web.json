@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 39100,
-    "speed": 411,
-    "timestamp": "2026-02-28T20:15:14.248Z",
-    "lat": 45.633,
-    "lon": -122.5173,
-    "precision": "tracked"
+    "distance": 0.35,
+    "altitude": 1900,
+    "speed": 104,
+    "timestamp": "2026-02-28T20:43:52.895Z",
+    "lat": 45.6297,
+    "lon": -122.5226,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "LXJ390",
-    "aircraftType": "E55P",
-    "origin": "VNY",
-    "destination": "BFI",
-    "firstSeen": "2026-02-28T20:15:14.245Z"
+    "callsign": "N513WF",
+    "aircraftType": "C172",
+    "origin": "RNT",
+    "destination": "PDX",
+    "firstSeen": "2026-02-28T20:43:42.547Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.633,
-      -122.5173
+      -122.527
+    ],
+    [
+      45.6297,
+      -122.5226
+    ],
+    [
+      45.6247,
+      -122.5194
+    ],
+    [
+      45.6197,
+      -122.5183
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T20:15:24.586Z"
+  "timestamp": "2026-02-28T20:44:24.460Z"
 }

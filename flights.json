@@ -9770,5 +9770,24 @@
     "initialDistance": 0.648755005600571,
     "initialAltitude": 39100,
     "initialSpeed": 411
+  },
+  {
+    "callsign": "N513WF",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "RNT",
+    "destination": "PDX",
+    "icao": "A66E8E",
+    "registration": "N513WF",
+    "firstSeen": "2026-02-28T20:43:42.547Z",
+    "lastSeen": "2026-02-28T20:44:13.834Z",
+    "duration": 31,
+    "closestDistance": 0.352091037296368,
+    "closestAltitude": 1900,
+    "closestSpeed": 104,
+    "initialDistance": 0.4658306889756591,
+    "initialAltitude": 2050,
+    "initialSpeed": 107
   }
 ]
