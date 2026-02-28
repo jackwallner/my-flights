@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 34000,
-    "speed": 396,
-    "timestamp": "2026-02-28T02:58:44.965Z",
-    "lat": 45.6274,
-    "lon": -122.5166,
+    "distance": 0.39,
+    "altitude": 1100,
+    "speed": 162,
+    "timestamp": "2026-02-28T03:01:40.038Z",
+    "lat": 45.6201,
+    "lon": -122.5226,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA698",
-    "aircraftType": "737",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-28T02:58:44.923Z"
+    "callsign": "N687SD",
+    "aircraftType": "RV8",
+    "origin": "EUG",
+    "destination": null,
+    "firstSeen": "2026-02-14T00:32:15.774Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6274,
-      -122.5166
+      45.6196,
+      -122.5328
+    ],
+    [
+      45.6201,
+      -122.5226
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T02:58:55.238Z"
+  "timestamp": "2026-02-28T03:01:50.322Z"
 }
