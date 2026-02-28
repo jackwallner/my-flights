@@ -9656,5 +9656,24 @@
     "initialDistance": 0.6415392732813228,
     "initialAltitude": 6075,
     "initialSpeed": 125
+  },
+  {
+    "callsign": "N5754E",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A763E5",
+    "registration": "N5754E",
+    "firstSeen": "2026-02-28T16:27:04.807Z",
+    "lastSeen": "2026-02-28T16:27:25.338Z",
+    "duration": 21,
+    "closestDistance": 0.5332058432320715,
+    "closestAltitude": 2275,
+    "closestSpeed": 111,
+    "initialDistance": 0.6270217962573903,
+    "initialAltitude": 2350,
+    "initialSpeed": 115
   }
 ]

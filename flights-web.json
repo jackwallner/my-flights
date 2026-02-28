@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 36650,
-    "speed": 445,
-    "timestamp": "2026-02-28T15:05:47.940Z",
-    "lat": 45.6199,
-    "lon": -122.541,
-    "precision": "tracked"
+    "distance": 0.53,
+    "altitude": 2275,
+    "speed": 111,
+    "timestamp": "2026-02-28T16:27:15.064Z",
+    "lat": 45.6164,
+    "lon": -122.528,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "DAL2721",
-    "aircraftType": "737",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T15:15:15.796Z"
+    "callsign": "N5754E",
+    "aircraftType": "C172",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-28T16:27:04.807Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.53,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6199,
-      -122.541
+      45.6167,
+      -122.5196
+    ],
+    [
+      45.6164,
+      -122.528
+    ],
+    [
+      45.6162,
+      -122.5343
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T15:05:58.212Z"
+  "timestamp": "2026-02-28T16:27:35.600Z"
 }
