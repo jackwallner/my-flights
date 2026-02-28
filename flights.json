@@ -9827,5 +9827,24 @@
     "initialDistance": 0.577610329321644,
     "initialAltitude": 6400,
     "initialSpeed": 157
+  },
+  {
+    "callsign": "N11CP",
+    "flightNumber": null,
+    "aircraftType": "C56X",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "PAE",
+    "icao": "A02A1A",
+    "registration": "N11CP",
+    "firstSeen": "2026-02-28T22:16:50.294Z",
+    "lastSeen": "2026-02-28T22:16:50.294Z",
+    "duration": 0,
+    "closestDistance": 0.5797413705145003,
+    "closestAltitude": 40000,
+    "closestSpeed": 417,
+    "initialDistance": 0.5797413705145003,
+    "initialAltitude": 40000,
+    "initialSpeed": 417
   }
 ]
