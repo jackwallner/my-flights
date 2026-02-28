@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 2300,
-    "speed": 125,
-    "timestamp": "2026-02-28T02:56:00.160Z",
-    "lat": 45.6164,
-    "lon": -122.5258,
+    "distance": 0.5,
+    "altitude": 34000,
+    "speed": 396,
+    "timestamp": "2026-02-28T02:58:44.965Z",
+    "lat": 45.6274,
+    "lon": -122.5166,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N456LF",
-    "aircraftType": "B407",
-    "origin": "PDT",
-    "destination": null,
-    "firstSeen": "2026-02-02T02:02:55.616Z"
+    "callsign": "ASA698",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-28T02:58:44.923Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6188,
-      -122.5171
-    ],
-    [
-      45.6164,
-      -122.5258
+      45.6274,
+      -122.5166
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T02:56:10.432Z"
+  "timestamp": "2026-02-28T02:58:55.238Z"
 }
