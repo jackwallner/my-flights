@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 30150,
-    "speed": 380,
-    "timestamp": "2026-02-28T02:01:51.512Z",
-    "lat": 45.6152,
-    "lon": -122.5318,
-    "precision": "tracked"
+    "distance": 0.3,
+    "altitude": 1075,
+    "speed": 74,
+    "timestamp": "2026-02-28T02:36:47.809Z",
+    "lat": 45.6266,
+    "lon": -122.5213,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA599",
-    "aircraftType": "B39M",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-23T04:28:18.295Z"
+    "callsign": "N9396S",
+    "aircraftType": "RV9",
+    "origin": "ALW",
+    "destination": null,
+    "firstSeen": "2026-02-28T02:36:27.289Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6152,
-      -122.5318
+      45.6336,
+      -122.5186
     ],
     [
-      45.6329,
-      -122.5398
+      45.63,
+      -122.5199
+    ],
+    [
+      45.6266,
+      -122.5213
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-02-28T02:02:12.039Z"
+  "status": "tracking",
+  "timestamp": "2026-02-28T02:36:47.809Z"
 }

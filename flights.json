@@ -9580,5 +9580,24 @@
     "initialDistance": 0.31962329230682607,
     "initialAltitude": 30925,
     "initialSpeed": 413
+  },
+  {
+    "callsign": "N9396S",
+    "flightNumber": null,
+    "aircraftType": "RV9",
+    "aircraftName": null,
+    "origin": "ALW",
+    "destination": null,
+    "icao": "AD0A53",
+    "registration": "N9396S",
+    "firstSeen": "2026-02-28T02:36:27.289Z",
+    "lastSeen": "2026-02-28T02:36:47.808Z",
+    "duration": 21,
+    "closestDistance": 0.29678370109450486,
+    "closestAltitude": 1075,
+    "closestSpeed": 74,
+    "initialDistance": 0.6395291637573512,
+    "initialAltitude": 1250,
+    "initialSpeed": 76
   }
 ]
