@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.17,
-    "altitude": 5650,
-    "speed": 109,
-    "timestamp": "2026-02-28T19:31:16.410Z",
-    "lat": 45.6225,
-    "lon": -122.5282,
-    "precision": "high"
+    "distance": 0.65,
+    "altitude": 39100,
+    "speed": 411,
+    "timestamp": "2026-02-28T20:15:14.248Z",
+    "lat": 45.633,
+    "lon": -122.5173,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N24266",
-    "aircraftType": "C152",
-    "origin": "PSC",
-    "destination": null,
-    "firstSeen": "2026-02-13T01:10:47.098Z"
+    "callsign": "LXJ390",
+    "aircraftType": "E55P",
+    "origin": "VNY",
+    "destination": "BFI",
+    "firstSeen": "2026-02-28T20:15:14.245Z"
   },
-  "overheadScore": 0.17,
+  "overheadScore": 0.65,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6282,
-      -122.5158
-    ],
-    [
-      45.6258,
-      -122.521
-    ],
-    [
-      45.6225,
-      -122.5282
-    ],
-    [
-      45.6201,
-      -122.5337
+      45.633,
+      -122.5173
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T19:31:36.978Z"
+  "timestamp": "2026-02-28T20:15:24.586Z"
 }
