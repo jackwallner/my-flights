@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 6600,
-    "speed": 274,
-    "timestamp": "2026-02-28T03:20:11.491Z",
-    "lat": 45.6344,
-    "lon": -122.5367,
+    "distance": 0.64,
+    "altitude": 6075,
+    "speed": 125,
+    "timestamp": "2026-02-28T03:24:49.442Z",
+    "lat": 45.6236,
+    "lon": -122.5432,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GALX",
-    "aircraftType": "GALX",
+    "callsign": "N555BE",
+    "aircraftType": "P28R",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-28T03:20:11.488Z"
+    "firstSeen": "2026-02-28T03:24:49.439Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6344,
-      -122.5367
+      45.6236,
+      -122.5432
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T03:20:21.772Z"
+  "timestamp": "2026-02-28T03:24:59.722Z"
 }

@@ -9637,5 +9637,24 @@
     "initialDistance": 0.6556116901995045,
     "initialAltitude": 6600,
     "initialSpeed": 274
+  },
+  {
+    "callsign": "N555BE",
+    "flightNumber": null,
+    "aircraftType": "P28R",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A7121C",
+    "registration": "N555BE",
+    "firstSeen": "2026-02-28T03:24:49.439Z",
+    "lastSeen": "2026-02-28T03:24:49.439Z",
+    "duration": 0,
+    "closestDistance": 0.6415392732813228,
+    "closestAltitude": 6075,
+    "closestSpeed": 125,
+    "initialDistance": 0.6415392732813228,
+    "initialAltitude": 6075,
+    "initialSpeed": 125
   }
 ]
