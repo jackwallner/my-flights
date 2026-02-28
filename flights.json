@@ -9561,5 +9561,24 @@
     "initialDistance": 0.3257718191035965,
     "initialAltitude": 32825,
     "initialSpeed": 406
+  },
+  {
+    "callsign": "SKW4451",
+    "flightNumber": "DL4451",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A2CFA2",
+    "registration": "N280SY",
+    "firstSeen": "2026-02-28T01:58:25.278Z",
+    "lastSeen": "2026-02-28T01:58:25.278Z",
+    "duration": 0,
+    "closestDistance": 0.31962329230682607,
+    "closestAltitude": 30925,
+    "closestSpeed": 413,
+    "initialDistance": 0.31962329230682607,
+    "initialAltitude": 30925,
+    "initialSpeed": 413
   }
 ]
