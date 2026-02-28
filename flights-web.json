@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 32825,
-    "speed": 406,
-    "timestamp": "2026-02-27T22:19:38.931Z",
-    "lat": 45.6267,
-    "lon": -122.5356,
+    "distance": 0.69,
+    "altitude": 1800,
+    "speed": 92,
+    "timestamp": "2026-02-28T01:44:20.739Z",
+    "lat": 45.6331,
+    "lon": -122.5401,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N422CP",
-    "aircraftType": "CL35",
-    "origin": "PSP",
-    "destination": "TIW",
-    "firstSeen": "2026-02-27T22:19:38.928Z"
+    "callsign": "N61338",
+    "aircraftType": "C150",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-05T00:29:12.810Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6267,
-      -122.5356
+      45.6331,
+      -122.5401
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-27T22:19:49.189Z"
+  "timestamp": "2026-02-28T01:44:31.004Z"
 }
