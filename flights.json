@@ -9751,5 +9751,24 @@
     "initialDistance": 0.6851617053894578,
     "initialAltitude": 3900,
     "initialSpeed": 106
+  },
+  {
+    "callsign": "LXJ390",
+    "flightNumber": "LXJ390",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "A4835C",
+    "registration": "N390FX",
+    "firstSeen": "2026-02-28T20:15:14.245Z",
+    "lastSeen": "2026-02-28T20:15:14.245Z",
+    "duration": 0,
+    "closestDistance": 0.648755005600571,
+    "closestAltitude": 39100,
+    "closestSpeed": 411,
+    "initialDistance": 0.648755005600571,
+    "initialAltitude": 39100,
+    "initialSpeed": 411
   }
 ]
