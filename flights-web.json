@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 2900,
-    "speed": 91,
-    "timestamp": "2026-03-01T02:08:47.668Z",
-    "lat": 45.6225,
-    "lon": -122.5335,
-    "precision": "high"
+    "distance": 0.35,
+    "altitude": 36200,
+    "speed": 453,
+    "timestamp": "2026-03-01T02:41:57.963Z",
+    "lat": 45.6234,
+    "lon": -122.5202,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5201H",
-    "aircraftType": "C172",
+    "callsign": "CL60",
+    "aircraftType": "Chal",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-06T19:39:39.423Z"
+    "firstSeen": "2026-02-05T16:51:03.044Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.629,
-      -122.5437
-    ],
-    [
-      45.6264,
-      -122.5394
-    ],
-    [
-      45.6225,
-      -122.5335
-    ],
-    [
-      45.6199,
-      -122.5296
-    ],
-    [
-      45.6165,
-      -122.5246
+      45.6234,
+      -122.5202
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-01T02:09:18.826Z"
+  "timestamp": "2026-03-01T02:42:08.473Z"
 }
