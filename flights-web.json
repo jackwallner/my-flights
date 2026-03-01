@@ -1,45 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.25,
-    "altitude": 2500,
-    "speed": 86,
-    "timestamp": "2026-03-01T04:07:45.013Z",
-    "lat": 45.6292,
-    "lon": -122.5303,
-    "precision": "high"
+    "distance": 0.48,
+    "altitude": 33675,
+    "speed": 434,
+    "timestamp": "2026-03-01T04:16:10.386Z",
+    "lat": 45.6325,
+    "lon": -122.5331,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4466R",
-    "aircraftType": "C172",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-03-01T01:16:04.720Z"
+    "callsign": "UAL2019",
+    "aircraftType": "A320",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T04:16:04.286Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.48,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.629,
-      -122.5429
+      45.6167,
+      -122.5252
     ],
     [
-      45.6291,
-      -122.5365
-    ],
-    [
-      45.6292,
-      -122.5303
-    ],
-    [
-      45.6293,
-      -122.5244
-    ],
-    [
-      45.6295,
-      -122.5181
+      45.6325,
+      -122.5331
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-01T04:08:15.913Z"
+  "timestamp": "2026-03-01T04:16:20.678Z"
 }
