@@ -9846,5 +9846,24 @@
     "initialDistance": 0.5797413705145003,
     "initialAltitude": 40000,
     "initialSpeed": 417
+  },
+  {
+    "callsign": "N8741V",
+    "flightNumber": null,
+    "aircraftType": "CH7B",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "AC07C1",
+    "registration": "N8741V",
+    "firstSeen": "2026-03-01T00:03:19.190Z",
+    "lastSeen": "2026-03-01T00:03:29.462Z",
+    "duration": 10,
+    "closestDistance": 0.6367519626714141,
+    "closestAltitude": 2200,
+    "closestSpeed": 102,
+    "initialDistance": 0.6367519626714141,
+    "initialAltitude": 2200,
+    "initialSpeed": 102
   }
 ]

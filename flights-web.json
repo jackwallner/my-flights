@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 40000,
-    "speed": 417,
-    "timestamp": "2026-02-28T22:16:50.296Z",
-    "lat": 45.6348,
-    "lon": -122.5258,
+    "distance": 0.64,
+    "altitude": 2200,
+    "speed": 102,
+    "timestamp": "2026-03-01T00:03:19.195Z",
+    "lat": 45.6166,
+    "lon": -122.5194,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N11CP",
-    "aircraftType": "Cita",
-    "origin": "TRM",
-    "destination": "PAE",
-    "firstSeen": "2026-02-28T22:16:50.294Z"
+    "callsign": "N8741V",
+    "aircraftType": "CH7B",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-03-01T00:03:19.190Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.64,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6348,
-      -122.5258
+      45.6166,
+      -122.5194
+    ],
+    [
+      45.6145,
+      -122.5251
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-02-28T22:17:00.556Z"
+  "timestamp": "2026-03-01T00:03:39.741Z"
 }
