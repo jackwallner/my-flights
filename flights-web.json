@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.24,
+    "distance": 0.16,
     "altitude": 3300,
-    "speed": 90,
-    "timestamp": "2026-03-01T00:33:13.617Z",
-    "lat": 45.6233,
-    "lon": -122.5331,
-    "precision": "tracked"
+    "speed": 100,
+    "timestamp": "2026-03-01T00:33:24.191Z",
+    "lat": 45.623,
+    "lon": -122.5262,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N5754E",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-28T16:27:04.807Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6235,
@@ -26,8 +26,16 @@
     [
       45.6233,
       -122.5331
+    ],
+    [
+      45.623,
+      -122.5262
+    ],
+    [
+      45.6227,
+      -122.5188
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-01T00:33:13.617Z"
+  "status": "completed",
+  "timestamp": "2026-03-01T00:33:45.095Z"
 }
