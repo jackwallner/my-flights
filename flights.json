@@ -9884,5 +9884,24 @@
     "initialDistance": 0.6813414762099416,
     "initialAltitude": 2300,
     "initialSpeed": 82
+  },
+  {
+    "callsign": "WJA2323",
+    "flightNumber": "WS2323",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "PVR",
+    "destination": "YQQ",
+    "icao": "C07FB1",
+    "registration": "C-GWJG",
+    "firstSeen": "2026-03-01T05:23:18.488Z",
+    "lastSeen": "2026-03-01T05:23:18.488Z",
+    "duration": 0,
+    "closestDistance": 0.3532713666276855,
+    "closestAltitude": 38000,
+    "closestSpeed": 427,
+    "initialDistance": 0.3532713666276855,
+    "initialAltitude": 38000,
+    "initialSpeed": 427
   }
 ]
