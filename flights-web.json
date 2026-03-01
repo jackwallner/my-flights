@@ -1,41 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 2500,
-    "speed": 95,
-    "timestamp": "2026-03-01T01:16:25.680Z",
-    "lat": 45.6345,
-    "lon": -122.5286,
+    "distance": 0.28,
+    "altitude": 2900,
+    "speed": 91,
+    "timestamp": "2026-03-01T02:08:47.668Z",
+    "lat": 45.6225,
+    "lon": -122.5335,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N4466R",
+    "callsign": "N5201H",
     "aircraftType": "C172",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-01T01:16:04.720Z"
+    "firstSeen": "2026-02-06T19:39:39.423Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6341,
-      -122.5179
+      45.629,
+      -122.5437
     ],
     [
-      45.6343,
-      -122.5223
+      45.6264,
+      -122.5394
     ],
     [
-      45.6345,
-      -122.5286
+      45.6225,
+      -122.5335
     ],
     [
-      45.6346,
-      -122.536
+      45.6199,
+      -122.5296
+    ],
+    [
+      45.6165,
+      -122.5246
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-01T01:16:46.695Z"
+  "timestamp": "2026-03-01T02:09:18.826Z"
 }
