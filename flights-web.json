@@ -1,53 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 2050,
-    "speed": 69,
-    "timestamp": "2026-03-01T01:08:26.829Z",
-    "lat": 45.6292,
-    "lon": -122.529,
+    "distance": 0.55,
+    "altitude": 2500,
+    "speed": 95,
+    "timestamp": "2026-03-01T01:16:25.680Z",
+    "lat": 45.6345,
+    "lon": -122.5286,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N18586",
-    "aircraftType": "C150",
-    "origin": "TTD",
+    "callsign": "N4466R",
+    "aircraftType": "C172",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-06T23:57:53.810Z"
+    "firstSeen": "2026-03-01T01:16:04.720Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 7,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6258,
-      -122.5432
+      45.6341,
+      -122.5179
     ],
     [
-      45.6272,
-      -122.5381
+      45.6343,
+      -122.5223
     ],
     [
-      45.6285,
-      -122.5331
+      45.6345,
+      -122.5286
     ],
     [
-      45.6292,
-      -122.529
-    ],
-    [
-      45.6299,
-      -122.5239
-    ],
-    [
-      45.6304,
-      -122.5188
-    ],
-    [
-      45.6308,
-      -122.5136
+      45.6346,
+      -122.536
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-01T01:09:09.943Z"
+  "timestamp": "2026-03-01T01:16:46.695Z"
 }

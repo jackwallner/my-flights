@@ -9865,5 +9865,24 @@
     "initialDistance": 0.6367519626714141,
     "initialAltitude": 2200,
     "initialSpeed": 102
+  },
+  {
+    "callsign": "N4466R",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A56421",
+    "registration": "N4466R",
+    "firstSeen": "2026-03-01T01:16:04.720Z",
+    "lastSeen": "2026-03-01T01:16:36.249Z",
+    "duration": 32,
+    "closestDistance": 0.5539266856378562,
+    "closestAltitude": 2500,
+    "closestSpeed": 95,
+    "initialDistance": 0.6813414762099416,
+    "initialAltitude": 2300,
+    "initialSpeed": 82
   }
 ]
