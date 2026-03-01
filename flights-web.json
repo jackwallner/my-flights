@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 32025,
-    "speed": 483,
-    "timestamp": "2026-03-01T05:31:43.540Z",
-    "lat": 45.6231,
-    "lon": -122.5216,
+    "distance": 0.61,
+    "altitude": 34000,
+    "speed": 444,
+    "timestamp": "2026-03-01T05:44:16.515Z",
+    "lat": 45.6184,
+    "lon": -122.5173,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "A6F993",
-    "aircraftType": "Gulf",
-    "origin": "SNA",
-    "destination": "BFI",
-    "firstSeen": "2026-03-01T05:31:43.538Z"
+    "callsign": "ASA584",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "PAE",
+    "firstSeen": "2026-02-18T05:41:25.139Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6231,
-      -122.5216
+      45.6184,
+      -122.5173
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-01T05:31:53.846Z"
+  "timestamp": "2026-03-01T05:44:26.812Z"
 }
