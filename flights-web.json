@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 36200,
-    "speed": 453,
-    "timestamp": "2026-03-01T02:41:57.963Z",
-    "lat": 45.6234,
-    "lon": -122.5202,
+    "distance": 0.53,
+    "altitude": 33725,
+    "speed": 459,
+    "timestamp": "2026-03-01T03:36:18.810Z",
+    "lat": 45.6259,
+    "lon": -122.5407,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CL60",
-    "aircraftType": "Chal",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-05T16:51:03.044Z"
+    "callsign": "ASA691",
+    "aircraftType": "B39M",
+    "origin": "PSP",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T03:27:05.857Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6234,
-      -122.5202
+      45.6259,
+      -122.5407
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-01T02:42:08.473Z"
+  "timestamp": "2026-03-01T03:36:29.241Z"
 }
