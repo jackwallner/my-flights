@@ -9903,5 +9903,24 @@
     "initialDistance": 0.3532713666276855,
     "initialAltitude": 38000,
     "initialSpeed": 427
+  },
+  {
+    "callsign": "A6F993",
+    "flightNumber": null,
+    "aircraftType": "GLF5",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "BFI",
+    "icao": "A6F993",
+    "registration": "N549CF",
+    "firstSeen": "2026-03-01T05:31:43.538Z",
+    "lastSeen": "2026-03-01T05:31:43.538Z",
+    "duration": 0,
+    "closestDistance": 0.3031498520413882,
+    "closestAltitude": 32025,
+    "closestSpeed": 483,
+    "initialDistance": 0.3031498520413882,
+    "initialAltitude": 32025,
+    "initialSpeed": 483
   }
 ]
