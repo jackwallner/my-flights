@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 34000,
-    "speed": 377,
-    "timestamp": "2026-03-05T20:42:08.927Z",
-    "lat": 45.6267,
-    "lon": -122.536,
+    "distance": 0.47,
+    "altitude": 30000,
+    "speed": 338,
+    "timestamp": "2026-03-05T23:17:15.840Z",
+    "lat": 45.6177,
+    "lon": -122.5309,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2344",
+    "callsign": "SKW5873",
     "aircraftType": "E175",
-    "origin": "STS",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T20:33:49.848Z"
+    "firstSeen": "2026-03-05T23:17:15.838Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6267,
-      -122.536
+      45.6177,
+      -122.5309
+    ],
+    [
+      45.634,
+      -122.5384
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-05T20:42:19.199Z"
+  "timestamp": "2026-03-05T23:17:36.551Z"
 }

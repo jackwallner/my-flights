@@ -9941,5 +9941,24 @@
     "initialDistance": 0.26989306618755454,
     "initialAltitude": 36000,
     "initialSpeed": 352
+  },
+  {
+    "callsign": "SKW5873",
+    "flightNumber": "UA5873",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "ABDD67",
+    "registration": "N86375",
+    "firstSeen": "2026-03-05T23:17:15.838Z",
+    "lastSeen": "2026-03-05T23:17:26.283Z",
+    "duration": 10,
+    "closestDistance": 0.4699523032553032,
+    "closestAltitude": 30000,
+    "closestSpeed": 338,
+    "initialDistance": 0.4699523032553032,
+    "initialAltitude": 30000,
+    "initialSpeed": 338
   }
 ]
