@@ -9960,5 +9960,24 @@
     "initialDistance": 0.4699523032553032,
     "initialAltitude": 30000,
     "initialSpeed": 338
+  },
+  {
+    "callsign": "N7155W",
+    "flightNumber": null,
+    "aircraftType": "R22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A991BC",
+    "registration": "N7155W",
+    "firstSeen": "2026-03-05T23:51:22.098Z",
+    "lastSeen": "2026-03-05T23:52:03.296Z",
+    "duration": 41,
+    "closestDistance": 0.5576262290551368,
+    "closestAltitude": 825,
+    "closestSpeed": 60,
+    "initialDistance": 0.6838011617841642,
+    "initialAltitude": 850,
+    "initialSpeed": 68
   }
 ]
