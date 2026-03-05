@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 30000,
-    "speed": 381,
-    "timestamp": "2026-03-05T18:40:39.854Z",
-    "lat": 45.6286,
-    "lon": -122.5128,
+    "distance": 0.43,
+    "altitude": 38475,
+    "speed": 434,
+    "timestamp": "2026-03-05T19:21:20.986Z",
+    "lat": 45.6325,
+    "lon": -122.5278,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1368",
-    "aircraftType": "737",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T20:13:39.592Z"
+    "callsign": "GA7C",
+    "aircraftType": "GA7C",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T19:01:20.748Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.43,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6286,
-      -122.5128
+      45.616,
+      -122.5188
+    ],
+    [
+      45.6325,
+      -122.5278
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-05T18:40:50.207Z"
+  "timestamp": "2026-03-05T19:21:31.256Z"
 }
