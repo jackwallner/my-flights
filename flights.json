@@ -9922,5 +9922,24 @@
     "initialDistance": 0.3031498520413882,
     "initialAltitude": 32025,
     "initialSpeed": 483
+  },
+  {
+    "callsign": "QXE2116",
+    "flightNumber": "AS2116",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "PAE",
+    "icao": "A8557A",
+    "registration": "N636QX",
+    "firstSeen": "2026-03-05T07:02:27.321Z",
+    "lastSeen": "2026-03-05T07:02:27.321Z",
+    "duration": 0,
+    "closestDistance": 0.26989306618755454,
+    "closestAltitude": 36000,
+    "closestSpeed": 352,
+    "initialDistance": 0.26989306618755454,
+    "initialAltitude": 36000,
+    "initialSpeed": 352
   }
 ]
