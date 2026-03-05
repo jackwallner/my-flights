@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 36000,
-    "speed": 389,
-    "timestamp": "2026-03-05T01:10:50.246Z",
-    "lat": 45.6188,
-    "lon": -122.5377,
+    "distance": 0.69,
+    "altitude": 30000,
+    "speed": 375,
+    "timestamp": "2026-03-05T03:33:36.959Z",
+    "lat": 45.619,
+    "lon": -122.5419,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA408",
-    "aircraftType": "737",
-    "origin": "FAT",
+    "callsign": "QXE2462",
+    "aircraftType": "E175",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T02:08:10.184Z"
+    "firstSeen": "2026-02-23T03:49:07.824Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6188,
-      -122.5377
+      45.619,
+      -122.5419
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-05T01:11:00.528Z"
+  "timestamp": "2026-03-05T03:33:47.399Z"
 }
