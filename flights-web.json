@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 36000,
-    "speed": 352,
-    "timestamp": "2026-03-05T07:02:27.323Z",
-    "lat": 45.6289,
-    "lon": -122.5243,
-    "precision": "tracked"
+    "distance": 0.48,
+    "altitude": 1150,
+    "speed": 99,
+    "timestamp": "2026-03-05T15:13:19.144Z",
+    "lat": 45.6184,
+    "lon": -122.5338,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "QXE2116",
-    "aircraftType": "E175",
-    "origin": "SNA",
-    "destination": "PAE",
-    "firstSeen": "2026-03-05T07:02:27.321Z"
+    "callsign": "N508AD",
+    "aircraftType": "R22",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-11T00:19:06.239Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.48,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6289,
-      -122.5243
+      45.6207,
+      -122.54
+    ],
+    [
+      45.6184,
+      -122.5338
+    ],
+    [
+      45.6165,
+      -122.5286
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-05T07:02:37.588Z"
+  "timestamp": "2026-03-05T15:13:39.694Z"
 }
