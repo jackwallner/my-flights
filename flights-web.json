@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 30000,
-    "speed": 375,
-    "timestamp": "2026-03-05T03:33:36.959Z",
-    "lat": 45.619,
-    "lon": -122.5419,
+    "distance": 0.52,
+    "altitude": 36000,
+    "speed": 354,
+    "timestamp": "2026-03-05T03:47:42.762Z",
+    "lat": 45.6338,
+    "lon": -122.5263,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2462",
+    "callsign": "SKW4043",
     "aircraftType": "E175",
-    "origin": "MFR",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-23T03:49:07.824Z"
+    "firstSeen": "2026-02-21T03:48:30.559Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.52,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.619,
-      -122.5419
+      45.6174,
+      -122.517
+    ],
+    [
+      45.6338,
+      -122.5263
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-05T03:33:47.399Z"
+  "timestamp": "2026-03-05T03:47:53.086Z"
 }
