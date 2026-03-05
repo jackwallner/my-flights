@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 38475,
-    "speed": 434,
-    "timestamp": "2026-03-05T19:21:20.986Z",
-    "lat": 45.6325,
-    "lon": -122.5278,
+    "distance": 0.34,
+    "altitude": 34000,
+    "speed": 377,
+    "timestamp": "2026-03-05T20:42:08.927Z",
+    "lat": 45.6267,
+    "lon": -122.536,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GA7C",
-    "aircraftType": "GA7C",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T19:01:20.748Z"
+    "callsign": "QXE2344",
+    "aircraftType": "E175",
+    "origin": "STS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T20:33:49.848Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.34,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.616,
-      -122.5188
-    ],
-    [
-      45.6325,
-      -122.5278
+      45.6267,
+      -122.536
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-05T19:21:31.256Z"
+  "status": "tracking",
+  "timestamp": "2026-03-05T20:42:08.927Z"
 }
