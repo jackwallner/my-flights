@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 1150,
-    "speed": 99,
-    "timestamp": "2026-03-05T15:13:19.144Z",
-    "lat": 45.6184,
-    "lon": -122.5338,
-    "precision": "high"
+    "distance": 0.67,
+    "altitude": 30000,
+    "speed": 381,
+    "timestamp": "2026-03-05T18:40:39.854Z",
+    "lat": 45.6286,
+    "lon": -122.5128,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N508AD",
-    "aircraftType": "R22",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-11T00:19:06.239Z"
+    "callsign": "ASA1368",
+    "aircraftType": "737",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T20:13:39.592Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6207,
-      -122.54
-    ],
-    [
-      45.6184,
-      -122.5338
-    ],
-    [
-      45.6165,
-      -122.5286
+      45.6286,
+      -122.5128
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-05T15:13:39.694Z"
+  "timestamp": "2026-03-05T18:40:50.207Z"
 }
