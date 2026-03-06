@@ -10036,5 +10036,24 @@
     "initialDistance": 0.40938496429794957,
     "initialAltitude": 39950,
     "initialSpeed": 377
+  },
+  {
+    "callsign": "SWA3057",
+    "flightNumber": "WN3057",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "AC5EFA",
+    "registration": "N8967Q",
+    "firstSeen": "2026-03-06T07:01:46.599Z",
+    "lastSeen": "2026-03-06T07:01:56.884Z",
+    "duration": 10,
+    "closestDistance": 0.4498892406789673,
+    "closestAltitude": 33425,
+    "closestSpeed": 328,
+    "initialDistance": 0.6823280073841986,
+    "initialAltitude": 33550,
+    "initialSpeed": 327
   }
 ]
