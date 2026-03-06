@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 38000,
-    "speed": 299,
-    "timestamp": "2026-03-06T05:50:45.487Z",
-    "lat": 45.6243,
-    "lon": -122.5169,
+    "distance": 0.42,
+    "altitude": 38025,
+    "speed": 326,
+    "timestamp": "2026-03-06T05:58:08.439Z",
+    "lat": 45.6223,
+    "lon": -122.5191,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ380",
-    "aircraftType": "E55P",
-    "origin": "TRM",
-    "destination": "BFI",
-    "firstSeen": "2026-03-06T05:50:45.485Z"
+    "callsign": "SWA1792",
+    "aircraftType": "737 ",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-03-06T05:58:08.437Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.42,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6243,
-      -122.5169
+      45.6223,
+      -122.5191
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-06T05:50:55.764Z"
+  "timestamp": "2026-03-06T05:58:18.706Z"
 }

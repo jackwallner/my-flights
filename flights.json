@@ -9998,5 +9998,24 @@
     "initialDistance": 0.4744391115638356,
     "initialAltitude": 38000,
     "initialSpeed": 299
+  },
+  {
+    "callsign": "SWA1792",
+    "flightNumber": "WN1792",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AC4B72",
+    "registration": "N8910Q",
+    "firstSeen": "2026-03-06T05:58:08.437Z",
+    "lastSeen": "2026-03-06T05:58:08.437Z",
+    "duration": 0,
+    "closestDistance": 0.4185816171386926,
+    "closestAltitude": 38025,
+    "closestSpeed": 326,
+    "initialDistance": 0.4185816171386926,
+    "initialAltitude": 38025,
+    "initialSpeed": 326
   }
 ]
