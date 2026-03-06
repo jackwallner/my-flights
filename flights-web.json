@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 1225,
-    "speed": 161,
-    "timestamp": "2026-03-05T23:56:20.533Z",
-    "lat": 45.6248,
-    "lon": -122.5359,
+    "distance": 0.54,
+    "altitude": 32000,
+    "speed": 367,
+    "timestamp": "2026-03-06T00:10:25.931Z",
+    "lat": 45.6172,
+    "lon": -122.5338,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N369GX",
-    "aircraftType": "EPIC",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-07T01:25:20.019Z"
+    "callsign": "ASA676",
+    "aircraftType": "737 ",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T02:10:00.289Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6248,
-      -122.5359
-    ],
-    [
-      45.6181,
-      -122.5292
+      45.6172,
+      -122.5338
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-05T23:56:41.391Z"
+  "status": "tracking",
+  "timestamp": "2026-03-06T00:10:25.931Z"
 }
