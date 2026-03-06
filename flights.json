@@ -10074,5 +10074,24 @@
     "initialDistance": 0.10140590809302062,
     "initialAltitude": 30225,
     "initialSpeed": 360
+  },
+  {
+    "callsign": "SWA1217",
+    "flightNumber": "WN1217",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "AC23EF",
+    "registration": "N8810L",
+    "firstSeen": "2026-03-06T21:00:50.571Z",
+    "lastSeen": "2026-03-06T21:01:00.868Z",
+    "duration": 10,
+    "closestDistance": 0.5996055549607293,
+    "closestAltitude": 30000,
+    "closestSpeed": 392,
+    "initialDistance": 0.5996055549607293,
+    "initialAltitude": 30000,
+    "initialSpeed": 392
   }
 ]

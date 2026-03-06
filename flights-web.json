@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 2000,
-    "speed": 165,
-    "timestamp": "2026-03-06T20:45:43.800Z",
-    "lat": 45.6199,
-    "lon": -122.521,
+    "distance": 0.6,
+    "altitude": 30000,
+    "speed": 392,
+    "timestamp": "2026-03-06T21:00:50.574Z",
+    "lat": 45.6183,
+    "lon": -122.5179,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ901",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "PDX",
-    "firstSeen": "2026-02-07T01:06:46.080Z"
+    "callsign": "SWA1217",
+    "aircraftType": "737 ",
+    "origin": "OAK",
+    "destination": "SEA",
+    "firstSeen": "2026-03-06T21:00:50.571Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6199,
-      -122.521
+      45.6183,
+      -122.5179
     ],
     [
-      45.6278,
-      -122.5164
+      45.6341,
+      -122.5185
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-06T20:46:04.368Z"
+  "timestamp": "2026-03-06T21:01:11.320Z"
 }
