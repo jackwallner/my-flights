@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 1650,
-    "speed": 112,
-    "timestamp": "2026-03-06T21:12:22.052Z",
-    "lat": 45.6257,
-    "lon": -122.5414,
+    "distance": 0.59,
+    "altitude": 2075,
+    "speed": 167,
+    "timestamp": "2026-03-06T22:23:11.809Z",
+    "lat": 45.6216,
+    "lon": -122.5152,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "C82S",
-    "aircraftType": "C82S",
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-06T21:12:22.049Z"
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6257,
-      -122.5414
-    ],
-    [
-      45.6313,
-      -122.5392
+      45.6216,
+      -122.5152
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-06T21:12:42.850Z"
+  "timestamp": "2026-03-06T22:23:22.086Z"
 }
