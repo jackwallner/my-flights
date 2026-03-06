@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 33425,
-    "speed": 328,
-    "timestamp": "2026-03-06T07:01:56.887Z",
-    "lat": 45.6276,
-    "lon": -122.5383,
+    "distance": 0.39,
+    "altitude": 2050,
+    "speed": 170,
+    "timestamp": "2026-03-06T14:51:33.705Z",
+    "lat": 45.6249,
+    "lon": -122.5375,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3057",
-    "aircraftType": "737 ",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-03-06T07:01:46.599Z"
+    "callsign": "N725KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-10T15:03:20.130Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.39,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6143,
-      -122.5323
+      45.6249,
+      -122.5375
     ],
     [
-      45.6276,
-      -122.5383
+      45.6315,
+      -122.5334
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-06T07:02:07.151Z"
+  "timestamp": "2026-03-06T14:51:54.283Z"
 }
