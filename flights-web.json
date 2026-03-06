@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 1800,
-    "speed": 166,
-    "timestamp": "2026-03-06T22:40:41.736Z",
-    "lat": 45.6189,
-    "lon": -122.5283,
-    "precision": "tracked"
+    "distance": 0.14,
+    "altitude": 2125,
+    "speed": 164,
+    "timestamp": "2026-03-06T22:40:52.008Z",
+    "lat": 45.6275,
+    "lon": -122.5268,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N725KP",
@@ -15,15 +15,23 @@
     "destination": "BFI",
     "firstSeen": "2026-02-10T15:03:20.130Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.14,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6189,
       -122.5283
+    ],
+    [
+      45.6275,
+      -122.5268
+    ],
+    [
+      45.6346,
+      -122.5278
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-06T22:40:41.736Z"
+  "status": "completed",
+  "timestamp": "2026-03-06T22:41:12.584Z"
 }
