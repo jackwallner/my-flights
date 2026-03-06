@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 32000,
-    "speed": 367,
-    "timestamp": "2026-03-06T00:10:25.931Z",
-    "lat": 45.6172,
-    "lon": -122.5338,
+    "distance": 0.33,
+    "altitude": 38000,
+    "speed": 394,
+    "timestamp": "2026-03-06T03:32:39.571Z",
+    "lat": 45.6204,
+    "lon": -122.5319,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA676",
-    "aircraftType": "737 ",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T02:10:00.289Z"
+    "callsign": "F2TH",
+    "aircraftType": "F2TH",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-27T01:55:35.322Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.33,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6172,
-      -122.5338
+      45.6204,
+      -122.5319
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-06T00:10:36.226Z"
+  "timestamp": "2026-03-06T03:32:49.846Z"
 }
