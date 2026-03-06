@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 38025,
-    "speed": 326,
-    "timestamp": "2026-03-06T05:58:08.439Z",
-    "lat": 45.6223,
-    "lon": -122.5191,
+    "distance": 0.41,
+    "altitude": 39950,
+    "speed": 377,
+    "timestamp": "2026-03-06T06:12:53.063Z",
+    "lat": 45.6192,
+    "lon": -122.5237,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1792",
-    "aircraftType": "737 ",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-03-06T05:58:08.437Z"
+    "callsign": "RAX123",
+    "aircraftType": "LJ35",
+    "origin": "CNO",
+    "destination": "RNT",
+    "firstSeen": "2026-03-06T06:12:53.060Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6223,
-      -122.5191
+      45.6192,
+      -122.5237
+    ],
+    [
+      45.6337,
+      -122.5317
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-06T05:58:18.706Z"
+  "status": "tracking",
+  "timestamp": "2026-03-06T06:13:03.535Z"
 }

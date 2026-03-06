@@ -10017,5 +10017,24 @@
     "initialDistance": 0.4185816171386926,
     "initialAltitude": 38025,
     "initialSpeed": 326
+  },
+  {
+    "callsign": "RAX123",
+    "flightNumber": "RAX123",
+    "aircraftType": "LJ35",
+    "aircraftName": null,
+    "origin": "CNO",
+    "destination": "RNT",
+    "icao": "A4D33F",
+    "registration": "N41RA",
+    "firstSeen": "2026-03-06T06:12:53.060Z",
+    "lastSeen": "2026-03-06T06:13:03.532Z",
+    "duration": 10,
+    "closestDistance": 0.40938496429794957,
+    "closestAltitude": 39950,
+    "closestSpeed": 377,
+    "initialDistance": 0.40938496429794957,
+    "initialAltitude": 39950,
+    "initialSpeed": 377
   }
 ]
