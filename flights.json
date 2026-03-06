@@ -10093,5 +10093,24 @@
     "initialDistance": 0.5996055549607293,
     "initialAltitude": 30000,
     "initialSpeed": 392
+  },
+  {
+    "callsign": "C82S",
+    "flightNumber": null,
+    "aircraftType": "C82S",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-03-06T21:12:22.049Z",
+    "lastSeen": "2026-03-06T21:12:32.405Z",
+    "duration": 10,
+    "closestDistance": 0.5585321577755941,
+    "closestAltitude": 1650,
+    "closestSpeed": 112,
+    "initialDistance": 0.5585321577755941,
+    "initialAltitude": 1650,
+    "initialSpeed": 112
   }
 ]
