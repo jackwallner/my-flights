@@ -9979,5 +9979,24 @@
     "initialDistance": 0.6838011617841642,
     "initialAltitude": 850,
     "initialSpeed": 68
+  },
+  {
+    "callsign": "LXJ380",
+    "flightNumber": "LXJ380",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "BFI",
+    "icao": "A45BDD",
+    "registration": "N380FX",
+    "firstSeen": "2026-03-06T05:50:45.485Z",
+    "lastSeen": "2026-03-06T05:50:45.485Z",
+    "duration": 0,
+    "closestDistance": 0.4744391115638356,
+    "closestAltitude": 38000,
+    "closestSpeed": 299,
+    "initialDistance": 0.4744391115638356,
+    "initialAltitude": 38000,
+    "initialSpeed": 299
   }
 ]
