@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 5650,
-    "speed": 275,
-    "timestamp": "2026-03-06T04:29:14.387Z",
-    "lat": 45.6315,
-    "lon": -122.54,
+    "distance": 0.44,
+    "altitude": 34000,
+    "speed": 344,
+    "timestamp": "2026-03-06T05:49:01.755Z",
+    "lat": 45.6286,
+    "lon": -122.5374,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "F2TH",
-    "aircraftType": "F2TH",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-27T01:55:35.322Z"
+    "callsign": "ASA584",
+    "aircraftType": "737 ",
+    "origin": "LAX",
+    "destination": "PAE",
+    "firstSeen": "2026-02-18T05:41:25.139Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.44,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6315,
-      -122.54
+      45.6286,
+      -122.5374
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-06T04:29:24.872Z"
+  "status": "tracking",
+  "timestamp": "2026-03-06T05:49:01.755Z"
 }
