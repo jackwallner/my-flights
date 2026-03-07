@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 34000,
-    "speed": 394,
-    "timestamp": "2026-03-07T20:01:42.317Z",
-    "lat": 45.6153,
-    "lon": -122.5332,
+    "distance": 0.58,
+    "altitude": 35450,
+    "speed": 375,
+    "timestamp": "2026-03-07T20:08:03.945Z",
+    "lat": 45.6346,
+    "lon": -122.5248,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4788",
-    "aircraftType": "E175",
-    "origin": "LAX",
+    "callsign": "DAL976",
+    "aircraftType": "A220",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-03-07T20:01:42.315Z"
+    "firstSeen": "2026-02-09T20:16:11.659Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.58,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6153,
-      -122.5332
+      45.6346,
+      -122.5248
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-07T20:01:52.593Z"
+  "timestamp": "2026-03-07T20:08:14.214Z"
 }
