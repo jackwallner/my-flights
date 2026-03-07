@@ -10131,5 +10131,24 @@
     "initialDistance": 0.39250331346840966,
     "initialAltitude": 39975,
     "initialSpeed": 377
+  },
+  {
+    "callsign": "SKW4788",
+    "flightNumber": "UA4788",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A7DF61",
+    "registration": "N606UX",
+    "firstSeen": "2026-03-07T20:01:42.315Z",
+    "lastSeen": "2026-03-07T20:01:42.315Z",
+    "duration": 0,
+    "closestDistance": 0.6361860472179206,
+    "closestAltitude": 34000,
+    "closestSpeed": 394,
+    "initialDistance": 0.6361860472179206,
+    "initialAltitude": 34000,
+    "initialSpeed": 394
   }
 ]
