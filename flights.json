@@ -10112,5 +10112,24 @@
     "initialDistance": 0.5585321577755941,
     "initialAltitude": 1650,
     "initialSpeed": 112
+  },
+  {
+    "callsign": "EJA183",
+    "flightNumber": "EJA183",
+    "aircraftType": "GL7T",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "A14D40",
+    "registration": "N183QS",
+    "firstSeen": "2026-03-07T01:21:33.786Z",
+    "lastSeen": "2026-03-07T01:21:33.786Z",
+    "duration": 0,
+    "closestDistance": 0.39250331346840966,
+    "closestAltitude": 39975,
+    "closestSpeed": 377,
+    "initialDistance": 0.39250331346840966,
+    "initialAltitude": 39975,
+    "initialSpeed": 377
   }
 ]
