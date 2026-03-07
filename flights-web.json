@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 35450,
-    "speed": 375,
-    "timestamp": "2026-03-07T20:08:03.945Z",
-    "lat": 45.6346,
-    "lon": -122.5248,
-    "precision": "tracked"
+    "distance": 0.36,
+    "altitude": 2200,
+    "speed": 148,
+    "timestamp": "2026-03-07T22:14:15.700Z",
+    "lat": 45.6258,
+    "lon": -122.5196,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "DAL976",
-    "aircraftType": "A220",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T20:16:11.659Z"
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6346,
-      -122.5248
+      45.6191,
+      -122.5235
+    ],
+    [
+      45.6258,
+      -122.5196
+    ],
+    [
+      45.6319,
+      -122.5158
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-07T20:08:14.214Z"
+  "timestamp": "2026-03-07T22:14:36.219Z"
 }
