@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.49,
+    "distance": 0.48,
     "altitude": 36000,
-    "speed": 372,
-    "timestamp": "2026-03-07T06:58:23.352Z",
-    "lat": 45.6182,
-    "lon": -122.5339,
+    "speed": 365,
+    "timestamp": "2026-03-07T07:04:13.760Z",
+    "lat": 45.6331,
+    "lon": -122.5301,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA652",
-    "aircraftType": "737",
-    "origin": "SAN",
+    "callsign": "SKW5408",
+    "aircraftType": "E175",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T06:44:06.218Z"
+    "firstSeen": "2026-02-09T05:02:45.775Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.48,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6182,
-      -122.5339
+      45.6164,
+      -122.5212
+    ],
+    [
+      45.6331,
+      -122.5301
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-07T06:58:33.672Z"
+  "timestamp": "2026-03-07T07:04:24.053Z"
 }
