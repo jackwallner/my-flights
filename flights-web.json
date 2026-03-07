@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 1025,
-    "speed": 150,
-    "timestamp": "2026-03-07T05:12:46.841Z",
-    "lat": 45.6229,
-    "lon": -122.5204,
-    "precision": "high"
+    "distance": 0.49,
+    "altitude": 36000,
+    "speed": 372,
+    "timestamp": "2026-03-07T06:58:23.352Z",
+    "lat": 45.6182,
+    "lon": -122.5339,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "B429",
-    "aircraftType": "B429",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-08T01:38:54.621Z"
+    "callsign": "ASA652",
+    "aircraftType": "737",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T06:44:06.218Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6153,
-      -122.5253
-    ],
-    [
-      45.6229,
-      -122.5204
-    ],
-    [
-      45.6283,
-      -122.5169
+      45.6182,
+      -122.5339
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-07T05:13:07.388Z"
+  "timestamp": "2026-03-07T06:58:33.672Z"
 }
