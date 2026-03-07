@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 39975,
-    "speed": 377,
-    "timestamp": "2026-03-07T01:21:33.790Z",
-    "lat": 45.6318,
-    "lon": -122.5288,
-    "precision": "tracked"
+    "distance": 0.28,
+    "altitude": 2400,
+    "speed": 161,
+    "timestamp": "2026-03-07T01:46:35.476Z",
+    "lat": 45.6283,
+    "lon": -122.5333,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "EJA183",
-    "aircraftType": "GL7T",
-    "origin": "VNY",
-    "destination": "BFI",
-    "firstSeen": "2026-03-07T01:21:33.786Z"
+    "callsign": "BTQ356",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-02-01T01:16:07.516Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6318,
-      -122.5288
+      45.6226,
+      -122.5369
+    ],
+    [
+      45.6283,
+      -122.5333
+    ],
+    [
+      45.6354,
+      -122.5286
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-07T01:21:44.076Z"
+  "timestamp": "2026-03-07T01:46:56.026Z"
 }
