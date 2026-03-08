@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 36000,
-    "speed": 434,
-    "timestamp": "2026-03-08T19:51:47.887Z",
-    "lat": 45.6298,
-    "lon": -122.5248,
+    "distance": 0.59,
+    "altitude": 39925,
+    "speed": 405,
+    "timestamp": "2026-03-08T20:11:51.727Z",
+    "lat": 45.6346,
+    "lon": -122.5327,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "JZA845",
-    "aircraftType": "CRJ",
-    "origin": "SFO",
-    "destination": "YVR",
-    "firstSeen": "2026-02-01T21:02:10.022Z"
+    "callsign": "VJA338",
+    "aircraftType": "CL30",
+    "origin": "TRM",
+    "destination": "BFI",
+    "firstSeen": "2026-03-08T20:11:41.445Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6298,
-      -122.5248
+      45.616,
+      -122.523
+    ],
+    [
+      45.6346,
+      -122.5327
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-08T19:51:58.160Z"
+  "timestamp": "2026-03-08T20:12:01.991Z"
 }
