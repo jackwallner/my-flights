@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.3,
+    "distance": 0.54,
     "altitude": 36000,
-    "speed": 394,
-    "timestamp": "2026-03-08T00:24:45.130Z",
-    "lat": 45.6291,
-    "lon": -122.5236,
+    "speed": 393,
+    "timestamp": "2026-03-08T05:53:18.736Z",
+    "lat": 45.6341,
+    "lon": -122.526,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2533",
-    "aircraftType": "A220",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T00:01:37.681Z"
+    "callsign": "ASA584",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "PAE",
+    "firstSeen": "2026-02-18T05:41:25.139Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.54,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6291,
-      -122.5236
+      45.6341,
+      -122.526
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-08T00:24:55.400Z"
+  "timestamp": "2026-03-08T05:53:29.004Z"
 }
