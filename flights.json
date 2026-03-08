@@ -10188,5 +10188,24 @@
     "initialDistance": 0.597117422381217,
     "initialAltitude": 40000,
     "initialSpeed": 406
+  },
+  {
+    "callsign": "WSN844",
+    "flightNumber": "AN844",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "HHR",
+    "destination": "BFI",
+    "icao": "AB8F5D",
+    "registration": "N844GT",
+    "firstSeen": "2026-03-08T20:15:27.647Z",
+    "lastSeen": "2026-03-08T20:15:37.944Z",
+    "duration": 10,
+    "closestDistance": 0.213767377931013,
+    "closestAltitude": 22000,
+    "closestSpeed": 243,
+    "initialDistance": 0.213767377931013,
+    "initialAltitude": 22000,
+    "initialSpeed": 243
   }
 ]

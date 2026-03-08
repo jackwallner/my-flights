@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 39925,
-    "speed": 405,
-    "timestamp": "2026-03-08T20:11:51.727Z",
-    "lat": 45.6346,
-    "lon": -122.5327,
+    "distance": 0.21,
+    "altitude": 22000,
+    "speed": 243,
+    "timestamp": "2026-03-08T20:15:27.650Z",
+    "lat": 45.6221,
+    "lon": -122.5304,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "VJA338",
-    "aircraftType": "CL30",
-    "origin": "TRM",
+    "callsign": "WSN844",
+    "aircraftType": "PC-1",
+    "origin": "HHR",
     "destination": "BFI",
-    "firstSeen": "2026-03-08T20:11:41.445Z"
+    "firstSeen": "2026-03-08T20:15:27.647Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.21,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.616,
-      -122.523
+      45.6221,
+      -122.5304
     ],
     [
-      45.6346,
-      -122.5327
+      45.6344,
+      -122.5365
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-08T20:12:01.991Z"
+  "timestamp": "2026-03-08T20:15:48.222Z"
 }
