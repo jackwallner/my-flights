@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 30000,
-    "speed": 389,
-    "timestamp": "2026-03-08T21:07:24.410Z",
-    "lat": 45.6293,
-    "lon": -122.5234,
+    "distance": 0.45,
+    "altitude": 30650,
+    "speed": 379,
+    "timestamp": "2026-03-08T21:09:07.429Z",
+    "lat": 45.6214,
+    "lon": -122.5372,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA273",
+    "callsign": "ASA601",
     "aircraftType": "737",
-    "origin": "LAS",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-02-19T22:08:15.011Z"
+    "firstSeen": "2026-02-10T00:26:44.061Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.45,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6293,
-      -122.5234
+      45.6214,
+      -122.5372
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-08T21:07:34.680Z"
+  "timestamp": "2026-03-08T21:09:17.718Z"
 }
