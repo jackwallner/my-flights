@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 22000,
-    "speed": 243,
-    "timestamp": "2026-03-08T20:15:27.650Z",
-    "lat": 45.6221,
-    "lon": -122.5304,
+    "distance": 0.31,
+    "altitude": 30000,
+    "speed": 389,
+    "timestamp": "2026-03-08T21:07:24.410Z",
+    "lat": 45.6293,
+    "lon": -122.5234,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "WSN844",
-    "aircraftType": "PC-1",
-    "origin": "HHR",
-    "destination": "BFI",
-    "firstSeen": "2026-03-08T20:15:27.647Z"
+    "callsign": "ASA273",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-19T22:08:15.011Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6221,
-      -122.5304
-    ],
-    [
-      45.6344,
-      -122.5365
+      45.6293,
+      -122.5234
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-08T20:15:48.222Z"
+  "timestamp": "2026-03-08T21:07:34.680Z"
 }
