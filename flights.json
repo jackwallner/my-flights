@@ -10207,5 +10207,24 @@
     "initialDistance": 0.213767377931013,
     "initialAltitude": 22000,
     "initialSpeed": 243
+  },
+  {
+    "callsign": "LXJ610",
+    "flightNumber": "LXJ610",
+    "aircraftType": "E550",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "BFI",
+    "icao": "A7EF51",
+    "registration": "N610FX",
+    "firstSeen": "2026-03-08T23:34:27.428Z",
+    "lastSeen": "2026-03-08T23:34:37.694Z",
+    "duration": 10,
+    "closestDistance": 0.44349633764668195,
+    "closestAltitude": 39075,
+    "closestSpeed": 389,
+    "initialDistance": 0.502533602490478,
+    "initialAltitude": 39375,
+    "initialSpeed": 396
   }
 ]
