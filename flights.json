@@ -10169,5 +10169,24 @@
     "initialDistance": 0.6563814563420299,
     "initialAltitude": 34000,
     "initialSpeed": 387
+  },
+  {
+    "callsign": "VJA338",
+    "flightNumber": "VJA338",
+    "aircraftType": "CL30",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "BFI",
+    "icao": "A3B454",
+    "registration": "N338JE",
+    "firstSeen": "2026-03-08T20:11:41.445Z",
+    "lastSeen": "2026-03-08T20:11:51.725Z",
+    "duration": 10,
+    "closestDistance": 0.5917847741568342,
+    "closestAltitude": 39925,
+    "closestSpeed": 405,
+    "initialDistance": 0.597117422381217,
+    "initialAltitude": 40000,
+    "initialSpeed": 406
   }
 ]
