@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 34000,
-    "speed": 355,
-    "timestamp": "2026-03-08T16:58:41.312Z",
-    "lat": 45.6205,
-    "lon": -122.5238,
+    "distance": 0.3,
+    "altitude": 36000,
+    "speed": 434,
+    "timestamp": "2026-03-08T19:51:47.887Z",
+    "lat": 45.6298,
+    "lon": -122.5248,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA735",
-    "aircraftType": "B39M",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T21:48:24.701Z"
+    "callsign": "JZA845",
+    "aircraftType": "CRJ",
+    "origin": "SFO",
+    "destination": "YVR",
+    "firstSeen": "2026-02-01T21:02:10.022Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.3,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6205,
-      -122.5238
+      45.6298,
+      -122.5248
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-08T16:58:51.593Z"
+  "timestamp": "2026-03-08T19:51:58.160Z"
 }
