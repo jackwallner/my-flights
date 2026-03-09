@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 39075,
-    "speed": 389,
-    "timestamp": "2026-03-08T23:34:37.696Z",
-    "lat": 45.6323,
-    "lon": -122.5314,
+    "distance": 0.56,
+    "altitude": 36000,
+    "speed": 385,
+    "timestamp": "2026-03-09T04:03:14.071Z",
+    "lat": 45.6172,
+    "lon": -122.5213,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ610",
-    "aircraftType": "E550",
-    "origin": "RNO",
-    "destination": "BFI",
-    "firstSeen": "2026-03-08T23:34:27.428Z"
+    "callsign": "SWA1571",
+    "aircraftType": "737 ",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-03-09T04:03:14.068Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.56,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6175,
-      -122.5237
+      45.6172,
+      -122.5213
     ],
     [
-      45.6323,
-      -122.5314
+      45.6349,
+      -122.5309
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-08T23:34:47.979Z"
+  "status": "tracking",
+  "timestamp": "2026-03-09T04:03:24.381Z"
 }

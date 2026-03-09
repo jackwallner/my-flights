@@ -10226,5 +10226,24 @@
     "initialDistance": 0.502533602490478,
     "initialAltitude": 39375,
     "initialSpeed": 396
+  },
+  {
+    "callsign": "SWA1571",
+    "flightNumber": "WN1571",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "AC1B44",
+    "registration": "N8798Q",
+    "firstSeen": "2026-03-09T04:03:14.068Z",
+    "lastSeen": "2026-03-09T04:03:24.378Z",
+    "duration": 10,
+    "closestDistance": 0.5631967497649748,
+    "closestAltitude": 36000,
+    "closestSpeed": 385,
+    "initialDistance": 0.5631967497649748,
+    "initialAltitude": 36000,
+    "initialSpeed": 385
   }
 ]
