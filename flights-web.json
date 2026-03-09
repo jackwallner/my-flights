@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 2800,
-    "speed": 127,
-    "timestamp": "2026-03-09T20:36:50.507Z",
-    "lat": 45.6258,
-    "lon": -122.5336,
-    "precision": "high"
+    "distance": 0.41,
+    "altitude": 3800,
+    "speed": 146,
+    "timestamp": "2026-03-09T21:22:59.785Z",
+    "lat": 45.621,
+    "lon": -122.5206,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N8332S",
-    "aircraftType": "C182",
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-09T20:36:29.980Z"
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6333,
-      -122.5171
+      45.6262,
+      -122.5159
     ],
     [
-      45.6294,
-      -122.526
-    ],
-    [
-      45.6258,
-      -122.5336
-    ],
-    [
-      45.6222,
-      -122.5403
+      45.621,
+      -122.5206
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-09T20:37:11.072Z"
+  "status": "tracking",
+  "timestamp": "2026-03-09T21:22:59.785Z"
 }
