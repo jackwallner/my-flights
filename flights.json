@@ -10264,5 +10264,24 @@
     "initialDistance": 0.6740027624660245,
     "initialAltitude": 36650,
     "initialSpeed": 324
+  },
+  {
+    "callsign": "N8332S",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "AB662E",
+    "registration": "N8332S",
+    "firstSeen": "2026-03-09T20:36:29.980Z",
+    "lastSeen": "2026-03-09T20:36:50.504Z",
+    "duration": 21,
+    "closestDistance": 0.23255101749961485,
+    "closestAltitude": 2800,
+    "closestSpeed": 127,
+    "initialDistance": 0.6675307961304299,
+    "initialAltitude": 3200,
+    "initialSpeed": 129
   }
 ]

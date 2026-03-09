@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 36650,
-    "speed": 324,
-    "timestamp": "2026-03-09T18:26:01.399Z",
-    "lat": 45.6173,
-    "lon": -122.5394,
-    "precision": "tracked"
+    "distance": 0.23,
+    "altitude": 2800,
+    "speed": 127,
+    "timestamp": "2026-03-09T20:36:50.507Z",
+    "lat": 45.6258,
+    "lon": -122.5336,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N876JC",
-    "aircraftType": "E50P",
-    "origin": "VNY",
-    "destination": "BFI",
-    "firstSeen": "2026-03-09T18:26:01.394Z"
+    "callsign": "N8332S",
+    "aircraftType": "C182",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-03-09T20:36:29.980Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6173,
-      -122.5394
+      45.6333,
+      -122.5171
+    ],
+    [
+      45.6294,
+      -122.526
+    ],
+    [
+      45.6258,
+      -122.5336
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-09T18:26:11.655Z"
+  "status": "tracking",
+  "timestamp": "2026-03-09T20:36:50.507Z"
 }
