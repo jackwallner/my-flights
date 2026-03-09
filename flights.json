@@ -10245,5 +10245,24 @@
     "initialDistance": 0.5631967497649748,
     "initialAltitude": 36000,
     "initialSpeed": 385
+  },
+  {
+    "callsign": "N876JC",
+    "flightNumber": null,
+    "aircraftType": "E50P",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "AC0D6B",
+    "registration": "N876JC",
+    "firstSeen": "2026-03-09T18:26:01.394Z",
+    "lastSeen": "2026-03-09T18:26:01.394Z",
+    "duration": 0,
+    "closestDistance": 0.6740027624660245,
+    "closestAltitude": 36650,
+    "closestSpeed": 324,
+    "initialDistance": 0.6740027624660245,
+    "initialAltitude": 36650,
+    "initialSpeed": 324
   }
 ]

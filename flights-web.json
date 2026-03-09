@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 34000,
-    "speed": 353,
-    "timestamp": "2026-03-09T16:53:10.472Z",
-    "lat": 45.6308,
-    "lon": -122.5226,
+    "distance": 0.67,
+    "altitude": 36650,
+    "speed": 324,
+    "timestamp": "2026-03-09T18:26:01.399Z",
+    "lat": 45.6173,
+    "lon": -122.5394,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA133",
-    "aircraftType": "737",
-    "origin": "EUG",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T17:13:56.613Z"
+    "callsign": "N876JC",
+    "aircraftType": "E50P",
+    "origin": "VNY",
+    "destination": "BFI",
+    "firstSeen": "2026-03-09T18:26:01.394Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6308,
-      -122.5226
+      45.6173,
+      -122.5394
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-09T16:53:20.754Z"
+  "timestamp": "2026-03-09T18:26:11.655Z"
 }
