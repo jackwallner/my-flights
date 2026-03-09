@@ -6,7 +6,7 @@
     "timestamp": "2026-03-09T21:22:59.785Z",
     "lat": 45.621,
     "lon": -122.5206,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "PC12",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6262,
@@ -26,8 +26,12 @@
     [
       45.621,
       -122.5206
+    ],
+    [
+      45.6151,
+      -122.526
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-09T21:22:59.785Z"
+  "status": "completed",
+  "timestamp": "2026-03-09T21:23:20.381Z"
 }
