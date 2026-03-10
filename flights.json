@@ -10302,5 +10302,24 @@
     "initialDistance": 0.5026673730371782,
     "initialAltitude": 34000,
     "initialSpeed": 399
+  },
+  {
+    "callsign": "EJA348",
+    "flightNumber": "EJA348",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "UDD",
+    "destination": "BFI",
+    "icao": "A3DC75",
+    "registration": "N348QS",
+    "firstSeen": "2026-03-10T17:38:49.778Z",
+    "lastSeen": "2026-03-10T17:38:49.778Z",
+    "duration": 0,
+    "closestDistance": 0.4313439782983625,
+    "closestAltitude": 38000,
+    "closestSpeed": 341,
+    "initialDistance": 0.4313439782983625,
+    "initialAltitude": 38000,
+    "initialSpeed": 341
   }
 ]
