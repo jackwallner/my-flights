@@ -10321,5 +10321,24 @@
     "initialDistance": 0.4313439782983625,
     "initialAltitude": 38000,
     "initialSpeed": 341
+  },
+  {
+    "callsign": "EJA258",
+    "flightNumber": "EJA258",
+    "aircraftType": "CL60",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "A276A5",
+    "registration": "N258QS",
+    "firstSeen": "2026-03-10T22:02:58.281Z",
+    "lastSeen": "2026-03-10T22:02:58.281Z",
+    "duration": 0,
+    "closestDistance": 0.5376960162288681,
+    "closestAltitude": 32100,
+    "closestSpeed": 345,
+    "initialDistance": 0.5376960162288681,
+    "initialAltitude": 32100,
+    "initialSpeed": 345
   }
 ]
