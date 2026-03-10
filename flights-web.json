@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 38000,
-    "speed": 341,
-    "timestamp": "2026-03-10T17:38:49.782Z",
-    "lat": 45.6262,
-    "lon": -122.5383,
-    "precision": "tracked"
+    "distance": 0.18,
+    "altitude": 3700,
+    "speed": 124,
+    "timestamp": "2026-03-10T18:58:50.475Z",
+    "lat": 45.6247,
+    "lon": -122.5324,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "EJA348",
-    "aircraftType": "E55P",
-    "origin": "UDD",
-    "destination": "BFI",
-    "firstSeen": "2026-03-10T17:38:49.778Z"
+    "callsign": "N56720",
+    "aircraftType": "P28R",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-21T02:06:45.453Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6262,
-      -122.5383
+      45.6338,
+      -122.5217
+    ],
+    [
+      45.63,
+      -122.5261
+    ],
+    [
+      45.6247,
+      -122.5324
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-10T17:39:00.091Z"
+  "status": "tracking",
+  "timestamp": "2026-03-10T18:58:50.475Z"
 }
