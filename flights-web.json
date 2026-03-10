@@ -1,41 +1,57 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 3700,
-    "speed": 124,
-    "timestamp": "2026-03-10T18:58:50.475Z",
-    "lat": 45.6247,
-    "lon": -122.5324,
+    "distance": 0.26,
+    "altitude": 850,
+    "speed": 65,
+    "timestamp": "2026-03-10T20:12:06.526Z",
+    "lat": 45.6225,
+    "lon": -122.5329,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N56720",
-    "aircraftType": "P28R",
-    "origin": null,
+    "callsign": "N917KF",
+    "aircraftType": "R22",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-21T02:06:45.453Z"
+    "firstSeen": "2026-02-13T18:16:54.196Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 8,
   "trail": [
     [
-      45.6338,
-      -122.5217
+      45.6281,
+      -122.5419
     ],
     [
-      45.63,
-      -122.5261
+      45.6266,
+      -122.5394
     ],
     [
-      45.6247,
-      -122.5324
+      45.6248,
+      -122.5364
     ],
     [
-      45.6208,
-      -122.5369
+      45.6225,
+      -122.5329
+    ],
+    [
+      45.6206,
+      -122.5298
+    ],
+    [
+      45.6185,
+      -122.526
+    ],
+    [
+      45.6172,
+      -122.5237
+    ],
+    [
+      45.6156,
+      -122.5198
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-10T18:59:11.039Z"
+  "timestamp": "2026-03-10T20:12:58.135Z"
 }
