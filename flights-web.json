@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 34000,
-    "speed": 399,
-    "timestamp": "2026-03-10T01:29:17.147Z",
-    "lat": 45.63,
-    "lon": -122.538,
+    "distance": 0.6,
+    "altitude": 36000,
+    "speed": 377,
+    "timestamp": "2026-03-10T02:48:28.695Z",
+    "lat": 45.6199,
+    "lon": -122.5162,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5624",
-    "aircraftType": "E175",
-    "origin": "LAX",
+    "callsign": "ASA552",
+    "aircraftType": "737",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-03-10T01:29:17.143Z"
+    "firstSeen": "2026-02-09T03:45:37.523Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.63,
-      -122.538
+      45.6199,
+      -122.5162
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-10T01:29:27.438Z"
+  "timestamp": "2026-03-10T02:48:38.984Z"
 }
