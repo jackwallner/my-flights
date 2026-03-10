@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 1600,
-    "speed": 142,
-    "timestamp": "2026-03-10T15:40:34.855Z",
-    "lat": 45.6184,
-    "lon": -122.5411,
-    "precision": "tracked"
+    "distance": 0.4,
+    "altitude": 1375,
+    "speed": 143,
+    "timestamp": "2026-03-10T15:40:55.411Z",
+    "lat": 45.62,
+    "lon": -122.5223,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N56720",
@@ -15,15 +15,27 @@
     "destination": null,
     "firstSeen": "2026-02-21T02:06:45.453Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.4,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6184,
       -122.5411
+    ],
+    [
+      45.6195,
+      -122.5331
+    ],
+    [
+      45.62,
+      -122.5223
+    ],
+    [
+      45.6204,
+      -122.513
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-10T15:40:34.855Z"
+  "status": "completed",
+  "timestamp": "2026-03-10T15:41:15.974Z"
 }
