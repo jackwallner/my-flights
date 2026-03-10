@@ -10283,5 +10283,24 @@
     "initialDistance": 0.6675307961304299,
     "initialAltitude": 3200,
     "initialSpeed": 129
+  },
+  {
+    "callsign": "SKW5624",
+    "flightNumber": "UA5624",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AA9EEF",
+    "registration": "N78361",
+    "firstSeen": "2026-03-10T01:29:17.143Z",
+    "lastSeen": "2026-03-10T01:29:17.143Z",
+    "duration": 0,
+    "closestDistance": 0.5026673730371782,
+    "closestAltitude": 34000,
+    "closestSpeed": 399,
+    "initialDistance": 0.5026673730371782,
+    "initialAltitude": 34000,
+    "initialSpeed": 399
   }
 ]
