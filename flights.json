@@ -10416,5 +10416,24 @@
     "initialDistance": 0.36098518760381654,
     "initialAltitude": 36000,
     "initialSpeed": 401
+  },
+  {
+    "callsign": "N418T",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "JAC",
+    "icao": "A4F381",
+    "registration": "N418T",
+    "firstSeen": "2026-03-11T15:03:27.026Z",
+    "lastSeen": "2026-03-11T15:03:37.313Z",
+    "duration": 10,
+    "closestDistance": 0.4752674311625334,
+    "closestAltitude": 2375,
+    "closestSpeed": 188,
+    "initialDistance": 0.6008032806544586,
+    "initialAltitude": 2050,
+    "initialSpeed": 185
   }
 ]
