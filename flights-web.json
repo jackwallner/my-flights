@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 34000,
-    "speed": 340,
-    "timestamp": "2026-03-11T16:57:01.045Z",
-    "lat": 45.6228,
-    "lon": -122.5267,
+    "distance": 0.67,
+    "altitude": 36000,
+    "speed": 380,
+    "timestamp": "2026-03-11T19:33:42.585Z",
+    "lat": 45.6169,
+    "lon": -122.5388,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3345",
+    "callsign": "QXE2344",
     "aircraftType": "E175",
-    "origin": "FAT",
+    "origin": "STS",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T18:15:50.955Z"
+    "firstSeen": "2026-02-09T20:33:49.848Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6228,
-      -122.5267
+      45.6169,
+      -122.5388
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-11T16:57:11.310Z"
+  "timestamp": "2026-03-11T19:33:52.858Z"
 }
