@@ -10397,5 +10397,24 @@
     "initialDistance": 0.6807315185442937,
     "initialAltitude": 34000,
     "initialSpeed": 363
+  },
+  {
+    "callsign": "ASA614",
+    "flightNumber": "AS614",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A6BBA3",
+    "registration": "N533AS",
+    "firstSeen": "2026-03-11T05:44:20.716Z",
+    "lastSeen": "2026-03-11T05:44:20.716Z",
+    "duration": 0,
+    "closestDistance": 0.36098518760381654,
+    "closestAltitude": 36000,
+    "closestSpeed": 401,
+    "initialDistance": 0.36098518760381654,
+    "initialAltitude": 36000,
+    "initialSpeed": 401
   }
 ]

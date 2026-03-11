@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 34000,
-    "speed": 364,
-    "timestamp": "2026-03-11T04:45:48.607Z",
-    "lat": 45.6362,
-    "lon": -122.5241,
+    "distance": 0.36,
+    "altitude": 36000,
+    "speed": 401,
+    "timestamp": "2026-03-11T05:44:20.719Z",
+    "lat": 45.6231,
+    "lon": -122.5201,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW842X",
-    "aircraftType": "E175",
-    "origin": "STS",
+    "callsign": "ASA614",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-03-11T04:45:38.331Z"
+    "firstSeen": "2026-03-11T05:44:20.716Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6197,
-      -122.514
-    ],
-    [
-      45.6362,
-      -122.5241
+      45.6231,
+      -122.5201
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-11T04:45:58.896Z"
+  "timestamp": "2026-03-11T05:44:31.027Z"
 }
