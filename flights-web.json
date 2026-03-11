@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 36000,
-    "speed": 401,
-    "timestamp": "2026-03-11T05:44:20.719Z",
-    "lat": 45.6231,
-    "lon": -122.5201,
+    "distance": 0.23,
+    "altitude": 40000,
+    "speed": 408,
+    "timestamp": "2026-03-11T14:02:23.041Z",
+    "lat": 45.6229,
+    "lon": -122.5238,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA614",
+    "callsign": "ASA1320",
     "aircraftType": "737",
-    "origin": "LAX",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-03-11T05:44:20.716Z"
+    "firstSeen": "2026-02-08T16:09:52.381Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.23,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6231,
-      -122.5201
+      45.6229,
+      -122.5238
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-11T05:44:31.027Z"
+  "timestamp": "2026-03-11T14:02:33.304Z"
 }
