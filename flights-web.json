@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 37975,
+    "distance": 0.69,
+    "altitude": 34000,
     "speed": 367,
-    "timestamp": "2026-03-11T14:29:19.006Z",
-    "lat": 45.6315,
-    "lon": -122.5386,
+    "timestamp": "2026-03-11T14:59:19.614Z",
+    "lat": 45.6297,
+    "lon": -122.5434,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA323",
+    "callsign": "ASA416",
     "aircraftType": "B39M",
-    "origin": "RNO",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T16:28:59.986Z"
+    "firstSeen": "2026-02-09T16:21:16.464Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6145,
-      -122.5309
-    ],
-    [
-      45.6315,
-      -122.5386
+      45.6297,
+      -122.5434
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-11T14:29:29.593Z"
+  "timestamp": "2026-03-11T14:59:29.900Z"
 }
