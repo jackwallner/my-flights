@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 34000,
-    "speed": 367,
-    "timestamp": "2026-03-11T14:59:19.614Z",
-    "lat": 45.6297,
-    "lon": -122.5434,
-    "precision": "tracked"
+    "distance": 0.03,
+    "altitude": 2100,
+    "speed": 181,
+    "timestamp": "2026-03-11T15:01:12.943Z",
+    "lat": 45.6258,
+    "lon": -122.5278,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA416",
-    "aircraftType": "B39M",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T16:21:16.464Z"
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.03,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6297,
-      -122.5434
+      45.6175,
+      -122.5322
+    ],
+    [
+      45.6258,
+      -122.5278
+    ],
+    [
+      45.6343,
+      -122.5233
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-11T14:59:29.900Z"
+  "timestamp": "2026-03-11T15:01:33.471Z"
 }
