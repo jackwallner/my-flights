@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 38000,
-    "speed": 356,
-    "timestamp": "2026-03-11T16:41:54.851Z",
-    "lat": 45.6216,
-    "lon": -122.5152,
+    "distance": 0.16,
+    "altitude": 34000,
+    "speed": 340,
+    "timestamp": "2026-03-11T16:57:01.045Z",
+    "lat": 45.6228,
+    "lon": -122.5267,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2530",
-    "aircraftType": "737",
-    "origin": "SAN",
+    "callsign": "SKW3345",
+    "aircraftType": "E175",
+    "origin": "FAT",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T17:04:34.331Z"
+    "firstSeen": "2026-02-09T18:15:50.955Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.16,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6216,
-      -122.5152
+      45.6228,
+      -122.5267
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-11T16:42:05.100Z"
+  "status": "tracking",
+  "timestamp": "2026-03-11T16:57:01.045Z"
 }
