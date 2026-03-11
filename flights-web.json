@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 2375,
-    "speed": 188,
-    "timestamp": "2026-03-11T15:03:37.316Z",
-    "lat": 45.625,
-    "lon": -122.5168,
+    "distance": 0.32,
+    "altitude": 2575,
+    "speed": 180,
+    "timestamp": "2026-03-11T15:18:33.124Z",
+    "lat": 45.6288,
+    "lon": -122.5337,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N418T",
+    "callsign": "N724KP",
     "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "JAC",
-    "firstSeen": "2026-03-11T15:03:27.026Z"
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.32,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6162,
-      -122.5221
+      45.6222,
+      -122.5382
     ],
     [
-      45.625,
-      -122.5168
+      45.6288,
+      -122.5337
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-11T15:03:47.576Z"
+  "timestamp": "2026-03-11T15:18:43.401Z"
 }
