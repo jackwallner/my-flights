@@ -1,37 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.03,
-    "altitude": 2100,
-    "speed": 181,
-    "timestamp": "2026-03-11T15:01:12.943Z",
-    "lat": 45.6258,
-    "lon": -122.5278,
-    "precision": "high"
+    "distance": 0.48,
+    "altitude": 2375,
+    "speed": 188,
+    "timestamp": "2026-03-11T15:03:37.316Z",
+    "lat": 45.625,
+    "lon": -122.5168,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ352",
+    "callsign": "N418T",
     "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-01-30T18:21:31.073Z"
+    "destination": "JAC",
+    "firstSeen": "2026-03-11T15:03:27.026Z"
   },
-  "overheadScore": 0.03,
+  "overheadScore": 0.48,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6175,
-      -122.5322
+      45.6162,
+      -122.5221
     ],
     [
-      45.6258,
-      -122.5278
-    ],
-    [
-      45.6343,
-      -122.5233
+      45.625,
+      -122.5168
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-11T15:01:33.471Z"
+  "timestamp": "2026-03-11T15:03:47.576Z"
 }
