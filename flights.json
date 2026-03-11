@@ -10359,5 +10359,24 @@
     "initialDistance": 0.6461356880439805,
     "initialAltitude": 24000,
     "initialSpeed": 158
+  },
+  {
+    "callsign": "ASA337",
+    "flightNumber": "AS337",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "ANC",
+    "icao": "AD237C",
+    "registration": "N946AK",
+    "firstSeen": "2026-03-11T03:51:45.987Z",
+    "lastSeen": "2026-03-11T03:51:45.987Z",
+    "duration": 0,
+    "closestDistance": 0.5063622016950088,
+    "closestAltitude": 34000,
+    "closestSpeed": 388,
+    "initialDistance": 0.5063622016950088,
+    "initialAltitude": 34000,
+    "initialSpeed": 388
   }
 ]
