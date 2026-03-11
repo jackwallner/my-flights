@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 29600,
-    "speed": 374,
-    "timestamp": "2026-03-11T00:44:30.757Z",
-    "lat": 45.6213,
-    "lon": -122.5359,
-    "precision": "tracked"
+    "distance": 0.39,
+    "altitude": 24000,
+    "speed": 158,
+    "timestamp": "2026-03-11T00:52:34.672Z",
+    "lat": 45.6221,
+    "lon": -122.5362,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA591",
-    "aircraftType": "B39M",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T02:03:45.907Z"
+    "callsign": "N603WA",
+    "aircraftType": "M600",
+    "origin": "TRM",
+    "destination": "BFI",
+    "firstSeen": "2026-03-11T00:52:24.380Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6213,
-      -122.5359
+      45.6151,
+      -122.5331
+    ],
+    [
+      45.6221,
+      -122.5362
+    ],
+    [
+      45.6281,
+      -122.5388
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-11T00:44:41.030Z"
+  "timestamp": "2026-03-11T00:52:55.220Z"
 }
