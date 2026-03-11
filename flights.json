@@ -10340,5 +10340,24 @@
     "initialDistance": 0.5376960162288681,
     "initialAltitude": 32100,
     "initialSpeed": 345
+  },
+  {
+    "callsign": "N603WA",
+    "flightNumber": null,
+    "aircraftType": "M600",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "BFI",
+    "icao": "A7D459",
+    "registration": "N603WA",
+    "firstSeen": "2026-03-11T00:52:24.380Z",
+    "lastSeen": "2026-03-11T00:52:44.941Z",
+    "duration": 21,
+    "closestDistance": 0.3896323944621162,
+    "closestAltitude": 24000,
+    "closestSpeed": 158,
+    "initialDistance": 0.6461356880439805,
+    "initialAltitude": 24000,
+    "initialSpeed": 158
   }
 ]
