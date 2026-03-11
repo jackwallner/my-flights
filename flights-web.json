@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.67,
+    "distance": 0.47,
     "altitude": 36000,
-    "speed": 380,
-    "timestamp": "2026-03-11T19:33:42.585Z",
-    "lat": 45.6169,
-    "lon": -122.5388,
+    "speed": 347,
+    "timestamp": "2026-03-11T20:14:24.410Z",
+    "lat": 45.6182,
+    "lon": -122.5232,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2344",
-    "aircraftType": "E175",
-    "origin": "STS",
+    "callsign": "DAL2101",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T20:33:49.848Z"
+    "firstSeen": "2026-02-09T21:30:10.639Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6169,
-      -122.5388
+      45.6182,
+      -122.5232
+    ],
+    [
+      45.6345,
+      -122.5318
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-11T19:33:52.858Z"
+  "timestamp": "2026-03-11T20:14:44.931Z"
 }
