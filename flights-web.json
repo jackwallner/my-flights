@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 24000,
-    "speed": 242,
-    "timestamp": "2026-03-12T22:39:28.226Z",
-    "lat": 45.6216,
-    "lon": -122.5438,
+    "distance": 0.38,
+    "altitude": 34025,
+    "speed": 379,
+    "timestamp": "2026-03-12T23:29:58.957Z",
+    "lat": 45.6308,
+    "lon": -122.5235,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N128J",
-    "aircraftType": "B350",
-    "origin": "MFR",
-    "destination": null,
-    "firstSeen": "2026-03-12T22:39:28.225Z"
+    "callsign": "FFT1177",
+    "aircraftType": "A321",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T03:00:38.644Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.38,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6216,
-      -122.5438
+      45.6308,
+      -122.5235
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T22:39:38.504Z"
+  "timestamp": "2026-03-12T23:30:09.226Z"
 }
