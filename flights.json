@@ -10473,5 +10473,24 @@
     "initialDistance": 0.5759895149471581,
     "initialAltitude": 32000,
     "initialSpeed": 358
+  },
+  {
+    "callsign": "SKW3151",
+    "flightNumber": "AS3151",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "GEG",
+    "destination": "PDX",
+    "icao": "A1388C",
+    "registration": "N178SY",
+    "firstSeen": "2026-03-12T03:41:16.234Z",
+    "lastSeen": "2026-03-12T03:41:16.234Z",
+    "duration": 0,
+    "closestDistance": 0.6308247230898447,
+    "closestAltitude": 6825,
+    "closestSpeed": 175,
+    "initialDistance": 0.6308247230898447,
+    "initialAltitude": 6825,
+    "initialSpeed": 175
   }
 ]
