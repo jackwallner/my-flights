@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 38650,
-    "speed": 377,
-    "timestamp": "2026-03-12T04:22:53.033Z",
-    "lat": 45.6312,
-    "lon": -122.5329,
+    "distance": 0.32,
+    "altitude": 34000,
+    "speed": 346,
+    "timestamp": "2026-03-12T05:04:17.133Z",
+    "lat": 45.6232,
+    "lon": -122.535,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA822",
-    "aircraftType": "787",
-    "origin": "HNL",
+    "callsign": "ASA753",
+    "aircraftType": "737",
+    "origin": "PSP",
     "destination": "SEA",
-    "firstSeen": "2026-03-12T04:22:42.743Z"
+    "firstSeen": "2026-02-09T05:18:28.302Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6161,
-      -122.5253
-    ],
-    [
-      45.6312,
-      -122.5329
+      45.6232,
+      -122.535
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T04:23:03.313Z"
+  "timestamp": "2026-03-12T05:04:27.385Z"
 }
