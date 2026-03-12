@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 32000,
-    "speed": 376,
-    "timestamp": "2026-03-12T16:30:18.615Z",
-    "lat": 45.6291,
-    "lon": -122.5353,
+    "distance": 0.46,
+    "altitude": 43000,
+    "speed": 359,
+    "timestamp": "2026-03-12T17:02:32.464Z",
+    "lat": 45.629,
+    "lon": -122.5378,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA133",
-    "aircraftType": "737",
-    "origin": "EUG",
-    "destination": "SEA",
-    "firstSeen": "2026-01-31T17:13:56.613Z"
+    "callsign": "N248SE",
+    "aircraftType": "Cita",
+    "origin": "MFR",
+    "destination": "MVW",
+    "firstSeen": "2026-03-12T17:02:32.462Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6291,
-      -122.5353
+      45.629,
+      -122.5378
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T16:30:29.019Z"
+  "timestamp": "2026-03-12T17:02:44.394Z"
 }

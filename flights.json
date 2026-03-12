@@ -10549,5 +10549,24 @@
     "initialDistance": 0.5527079142419432,
     "initialAltitude": 28000,
     "initialSpeed": 369
+  },
+  {
+    "callsign": "N248SE",
+    "flightNumber": null,
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "MVW",
+    "icao": "A24F4C",
+    "registration": "N248SE",
+    "firstSeen": "2026-03-12T17:02:32.462Z",
+    "lastSeen": "2026-03-12T17:02:32.462Z",
+    "duration": 0,
+    "closestDistance": 0.46406148169629674,
+    "closestAltitude": 43000,
+    "closestSpeed": 359,
+    "initialDistance": 0.46406148169629674,
+    "initialAltitude": 43000,
+    "initialSpeed": 359
   }
 ]
