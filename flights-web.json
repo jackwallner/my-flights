@@ -1,37 +1,33 @@
 {
   "closestApproach": {
     "distance": 0.24,
-    "altitude": 1850,
-    "speed": 188,
-    "timestamp": "2026-03-11T21:54:59.017Z",
-    "lat": 45.6291,
-    "lon": -122.5296,
-    "precision": "high"
+    "altitude": 2300,
+    "speed": 181,
+    "timestamp": "2026-03-12T00:19:39.013Z",
+    "lat": 45.6282,
+    "lon": -122.5241,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N725KP",
+    "callsign": "BTQ356",
     "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-02-10T15:03:20.130Z"
+    "destination": "PDT",
+    "firstSeen": "2026-02-01T01:16:07.516Z"
   },
   "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6203,
-      -122.5355
+      45.62,
+      -122.5294
     ],
     [
-      45.6291,
-      -122.5296
-    ],
-    [
-      45.6359,
-      -122.5246
+      45.6282,
+      -122.5241
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-11T21:55:19.570Z"
+  "timestamp": "2026-03-12T00:19:49.275Z"
 }
