@@ -10435,5 +10435,24 @@
     "initialDistance": 0.6008032806544586,
     "initialAltitude": 2050,
     "initialSpeed": 185
+  },
+  {
+    "callsign": "AMF1965",
+    "flightNumber": "A81965",
+    "aircraftType": "B190",
+    "aircraftName": null,
+    "origin": "HES",
+    "destination": "PDX",
+    "icao": "A76192",
+    "registration": "N575G",
+    "firstSeen": "2026-03-12T01:06:06.793Z",
+    "lastSeen": "2026-03-12T01:06:17.076Z",
+    "duration": 10,
+    "closestDistance": 0.33436915891859326,
+    "closestAltitude": 3050,
+    "closestSpeed": 221,
+    "initialDistance": 0.6178287590020778,
+    "initialAltitude": 2675,
+    "initialSpeed": 214
   }
 ]
