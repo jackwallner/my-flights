@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 6825,
-    "speed": 175,
-    "timestamp": "2026-03-12T03:41:16.236Z",
-    "lat": 45.6355,
-    "lon": -122.5316,
+    "distance": 0.45,
+    "altitude": 36000,
+    "speed": 349,
+    "timestamp": "2026-03-12T04:19:05.127Z",
+    "lat": 45.6221,
+    "lon": -122.5378,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3151",
-    "aircraftType": "E175",
-    "origin": "GEG",
-    "destination": "PDX",
-    "firstSeen": "2026-03-12T03:41:16.234Z"
+    "callsign": "DAL2640",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T03:49:09.282Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.45,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6355,
-      -122.5316
+      45.6221,
+      -122.5378
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T03:41:26.514Z"
+  "timestamp": "2026-03-12T04:19:15.408Z"
 }
