@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 37000,
-    "speed": 582,
-    "timestamp": "2026-03-12T21:35:10.582Z",
-    "lat": 45.628,
-    "lon": -122.5303,
+    "distance": 0.69,
+    "altitude": 24000,
+    "speed": 242,
+    "timestamp": "2026-03-12T22:39:28.226Z",
+    "lat": 45.6216,
+    "lon": -122.5438,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EVA050",
-    "aircraftType": "787",
-    "origin": "TPE",
-    "destination": "DFW",
-    "firstSeen": "2026-03-12T21:35:10.580Z"
+    "callsign": "N128J",
+    "aircraftType": "B350",
+    "origin": "MFR",
+    "destination": null,
+    "firstSeen": "2026-03-12T22:39:28.225Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.628,
-      -122.5303
+      45.6216,
+      -122.5438
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T21:35:20.866Z"
+  "timestamp": "2026-03-12T22:39:38.504Z"
 }

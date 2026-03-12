@@ -10606,5 +10606,24 @@
     "initialDistance": 0.18736150010150066,
     "initialAltitude": 37000,
     "initialSpeed": 582
+  },
+  {
+    "callsign": "N128J",
+    "flightNumber": null,
+    "aircraftType": "B350",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": null,
+    "icao": "A07232",
+    "registration": "N128J",
+    "firstSeen": "2026-03-12T22:39:28.225Z",
+    "lastSeen": "2026-03-12T22:39:28.225Z",
+    "duration": 0,
+    "closestDistance": 0.6948356732387059,
+    "closestAltitude": 24000,
+    "closestSpeed": 242,
+    "initialDistance": 0.6948356732387059,
+    "initialAltitude": 24000,
+    "initialSpeed": 242
   }
 ]
