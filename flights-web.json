@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 32000,
-    "speed": 358,
-    "timestamp": "2026-03-12T03:12:47.531Z",
-    "lat": 45.625,
-    "lon": -122.5144,
+    "distance": 0.18,
+    "altitude": 30000,
+    "speed": 344,
+    "timestamp": "2026-03-12T03:31:49.691Z",
+    "lat": 45.6271,
+    "lon": -122.5246,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2076",
-    "aircraftType": "737 ",
-    "origin": "LAS",
+    "callsign": "SKW4100",
+    "aircraftType": "E175",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-03-12T03:12:47.529Z"
+    "firstSeen": "2026-02-10T03:47:40.995Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.18,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.625,
-      -122.5144
+      45.6271,
+      -122.5246
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T03:12:57.805Z"
+  "timestamp": "2026-03-12T03:31:59.951Z"
 }
