@@ -10511,5 +10511,24 @@
     "initialDistance": 0.5637011172447008,
     "initialAltitude": 38925,
     "initialSpeed": 377
+  },
+  {
+    "callsign": "N233TJ",
+    "flightNumber": null,
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": null,
+    "icao": "A21557",
+    "registration": "N233TJ",
+    "firstSeen": "2026-03-12T07:37:55.380Z",
+    "lastSeen": "2026-03-12T07:38:05.655Z",
+    "duration": 10,
+    "closestDistance": 0.30430130482375417,
+    "closestAltitude": 36000,
+    "closestSpeed": 276,
+    "initialDistance": 0.48815987218069123,
+    "initialAltitude": 36000,
+    "initialSpeed": 276
   }
 ]

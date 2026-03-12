@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.08,
-    "altitude": 32000,
-    "speed": 373,
-    "timestamp": "2026-03-12T06:11:35.894Z",
-    "lat": 45.6254,
-    "lon": -122.5262,
+    "distance": 0.3,
+    "altitude": 36000,
+    "speed": 276,
+    "timestamp": "2026-03-12T07:38:05.657Z",
+    "lat": 45.6278,
+    "lon": -122.5344,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA652",
-    "aircraftType": "B39M",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T06:44:06.218Z"
+    "callsign": "N233TJ",
+    "aircraftType": "Cita",
+    "origin": "ONT",
+    "destination": null,
+    "firstSeen": "2026-03-12T07:37:55.380Z"
   },
-  "overheadScore": 0.08,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6254,
-      -122.5262
+      45.6172,
+      -122.5294
+    ],
+    [
+      45.6278,
+      -122.5344
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T06:11:46.148Z"
+  "timestamp": "2026-03-12T07:38:15.898Z"
 }
