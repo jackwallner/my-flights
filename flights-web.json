@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 36000,
-    "speed": 384,
-    "timestamp": "2026-03-12T20:58:00.827Z",
-    "lat": 45.6299,
-    "lon": -122.5384,
+    "distance": 0.19,
+    "altitude": 37000,
+    "speed": 582,
+    "timestamp": "2026-03-12T21:35:10.582Z",
+    "lat": 45.628,
+    "lon": -122.5303,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA943",
-    "aircraftType": "737",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-03-12T20:58:00.826Z"
+    "callsign": "EVA050",
+    "aircraftType": "787",
+    "origin": "TPE",
+    "destination": "DFW",
+    "firstSeen": "2026-03-12T21:35:10.580Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.19,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6299,
-      -122.5384
+      45.628,
+      -122.5303
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T20:58:11.106Z"
+  "timestamp": "2026-03-12T21:35:20.866Z"
 }
