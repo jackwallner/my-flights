@@ -10454,5 +10454,24 @@
     "initialDistance": 0.6178287590020778,
     "initialAltitude": 2675,
     "initialSpeed": 214
+  },
+  {
+    "callsign": "SWA2076",
+    "flightNumber": "WN2076",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AC5AFD",
+    "registration": "N8955Q",
+    "firstSeen": "2026-03-12T03:12:47.529Z",
+    "lastSeen": "2026-03-12T03:12:47.529Z",
+    "duration": 0,
+    "closestDistance": 0.5759895149471581,
+    "closestAltitude": 32000,
+    "closestSpeed": 358,
+    "initialDistance": 0.5759895149471581,
+    "initialAltitude": 32000,
+    "initialSpeed": 358
   }
 ]

@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 31675,
-    "speed": 382,
-    "timestamp": "2026-03-12T01:54:15.399Z",
-    "lat": 45.6247,
-    "lon": -122.5316,
+    "distance": 0.58,
+    "altitude": 32000,
+    "speed": 358,
+    "timestamp": "2026-03-12T03:12:47.531Z",
+    "lat": 45.625,
+    "lon": -122.5144,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA661",
-    "aircraftType": "B39M",
-    "origin": "PVR",
+    "callsign": "SWA2076",
+    "aircraftType": "737 ",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T04:27:50.520Z"
+    "firstSeen": "2026-03-12T03:12:47.529Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.58,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6247,
-      -122.5316
+      45.625,
+      -122.5144
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T01:54:25.669Z"
+  "timestamp": "2026-03-12T03:12:57.805Z"
 }
