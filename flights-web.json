@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 30000,
-    "speed": 344,
-    "timestamp": "2026-03-12T03:31:49.691Z",
-    "lat": 45.6271,
-    "lon": -122.5246,
+    "distance": 0.63,
+    "altitude": 6825,
+    "speed": 175,
+    "timestamp": "2026-03-12T03:41:16.236Z",
+    "lat": 45.6355,
+    "lon": -122.5316,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4100",
+    "callsign": "SKW3151",
     "aircraftType": "E175",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T03:47:40.995Z"
+    "origin": "GEG",
+    "destination": "PDX",
+    "firstSeen": "2026-03-12T03:41:16.234Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.63,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6271,
-      -122.5246
+      45.6355,
+      -122.5316
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T03:31:59.951Z"
+  "timestamp": "2026-03-12T03:41:26.514Z"
 }
