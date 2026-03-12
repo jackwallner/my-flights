@@ -10492,5 +10492,24 @@
     "initialDistance": 0.6308247230898447,
     "initialAltitude": 6825,
     "initialSpeed": 175
+  },
+  {
+    "callsign": "ASA822",
+    "flightNumber": "AS822",
+    "aircraftType": "B789",
+    "aircraftName": null,
+    "origin": "HNL",
+    "destination": "SEA",
+    "icao": "AA98A4",
+    "registration": "N782HA",
+    "firstSeen": "2026-03-12T04:22:42.743Z",
+    "lastSeen": "2026-03-12T04:22:53.031Z",
+    "duration": 10,
+    "closestDistance": 0.4083366494577395,
+    "closestAltitude": 38650,
+    "closestSpeed": 377,
+    "initialDistance": 0.5637011172447008,
+    "initialAltitude": 38925,
+    "initialSpeed": 377
   }
 ]
