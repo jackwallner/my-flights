@@ -10568,5 +10568,24 @@
     "initialDistance": 0.46406148169629674,
     "initialAltitude": 43000,
     "initialSpeed": 359
+  },
+  {
+    "callsign": "SWA943",
+    "flightNumber": "WN943",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "ABAA0E",
+    "registration": "N8502Z",
+    "firstSeen": "2026-03-12T20:58:00.826Z",
+    "lastSeen": "2026-03-12T20:58:00.826Z",
+    "duration": 0,
+    "closestDistance": 0.5133578744128741,
+    "closestAltitude": 36000,
+    "closestSpeed": 384,
+    "initialDistance": 0.5133578744128741,
+    "initialAltitude": 36000,
+    "initialSpeed": 384
   }
 ]

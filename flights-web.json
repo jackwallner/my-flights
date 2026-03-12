@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 43000,
-    "speed": 359,
-    "timestamp": "2026-03-12T17:02:32.464Z",
-    "lat": 45.629,
-    "lon": -122.5378,
+    "distance": 0.51,
+    "altitude": 36000,
+    "speed": 384,
+    "timestamp": "2026-03-12T20:58:00.827Z",
+    "lat": 45.6299,
+    "lon": -122.5384,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N248SE",
-    "aircraftType": "Cita",
-    "origin": "MFR",
-    "destination": "MVW",
-    "firstSeen": "2026-03-12T17:02:32.462Z"
+    "callsign": "SWA943",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-03-12T20:58:00.826Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.51,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.629,
-      -122.5378
+      45.6299,
+      -122.5384
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T17:02:44.394Z"
+  "timestamp": "2026-03-12T20:58:11.106Z"
 }
