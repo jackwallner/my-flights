@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 36000,
-    "speed": 276,
-    "timestamp": "2026-03-12T07:38:05.657Z",
-    "lat": 45.6278,
-    "lon": -122.5344,
+    "distance": 0.55,
+    "altitude": 28000,
+    "speed": 369,
+    "timestamp": "2026-03-12T13:23:08.284Z",
+    "lat": 45.6182,
+    "lon": -122.5197,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N233TJ",
-    "aircraftType": "Cita",
-    "origin": "ONT",
-    "destination": null,
-    "firstSeen": "2026-03-12T07:37:55.380Z"
+    "callsign": "QXE2277",
+    "aircraftType": "E175",
+    "origin": "RDM",
+    "destination": "SEA",
+    "firstSeen": "2026-03-12T13:23:08.281Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.55,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6172,
-      -122.5294
+      45.6182,
+      -122.5197
     ],
     [
-      45.6278,
-      -122.5344
+      45.635,
+      -122.5291
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-12T07:38:15.898Z"
+  "status": "tracking",
+  "timestamp": "2026-03-12T13:23:18.674Z"
 }
