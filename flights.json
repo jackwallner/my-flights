@@ -10530,5 +10530,24 @@
     "initialDistance": 0.48815987218069123,
     "initialAltitude": 36000,
     "initialSpeed": 276
+  },
+  {
+    "callsign": "QXE2277",
+    "flightNumber": "AS2277",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": "SEA",
+    "icao": "A86A66",
+    "registration": "N641QX",
+    "firstSeen": "2026-03-12T13:23:08.281Z",
+    "lastSeen": "2026-03-12T13:23:18.672Z",
+    "duration": 10,
+    "closestDistance": 0.5527079142419432,
+    "closestAltitude": 28000,
+    "closestSpeed": 369,
+    "initialDistance": 0.5527079142419432,
+    "initialAltitude": 28000,
+    "initialSpeed": 369
   }
 ]
