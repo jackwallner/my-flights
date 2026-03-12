@@ -10587,5 +10587,24 @@
     "initialDistance": 0.5133578744128741,
     "initialAltitude": 36000,
     "initialSpeed": 384
+  },
+  {
+    "callsign": "EVA050",
+    "flightNumber": "BR50",
+    "aircraftType": "B789",
+    "aircraftName": null,
+    "origin": "TPE",
+    "destination": "DFW",
+    "icao": "89907E",
+    "registration": "B-17885",
+    "firstSeen": "2026-03-12T21:35:10.580Z",
+    "lastSeen": "2026-03-12T21:35:10.580Z",
+    "duration": 0,
+    "closestDistance": 0.18736150010150066,
+    "closestAltitude": 37000,
+    "closestSpeed": 582,
+    "initialDistance": 0.18736150010150066,
+    "initialAltitude": 37000,
+    "initialSpeed": 582
   }
 ]
