@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.03,
-    "altitude": 32025,
-    "speed": 358,
-    "timestamp": "2026-03-12T05:19:55.062Z",
-    "lat": 45.6255,
-    "lon": -122.5288,
+    "distance": 0.08,
+    "altitude": 32000,
+    "speed": 373,
+    "timestamp": "2026-03-12T06:11:35.894Z",
+    "lat": 45.6254,
+    "lon": -122.5262,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3057",
-    "aircraftType": "B737",
-    "origin": "SMF",
+    "callsign": "ASA652",
+    "aircraftType": "B39M",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-03-06T07:01:46.599Z"
+    "firstSeen": "2026-02-09T06:44:06.218Z"
   },
-  "overheadScore": 0.03,
+  "overheadScore": 0.08,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6255,
-      -122.5288
+      45.6254,
+      -122.5262
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-12T05:20:05.319Z"
+  "timestamp": "2026-03-12T06:11:46.148Z"
 }
