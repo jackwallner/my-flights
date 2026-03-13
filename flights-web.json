@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 34000,
-    "speed": 349,
-    "timestamp": "2026-03-13T01:30:04.616Z",
-    "lat": 45.6341,
-    "lon": -122.5179,
+    "distance": 0.31,
+    "altitude": 36000,
+    "speed": 377,
+    "timestamp": "2026-03-13T03:05:18.245Z",
+    "lat": 45.6303,
+    "lon": -122.5262,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3505",
+    "callsign": "QXE2155",
     "aircraftType": "E175",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-03-13T01:30:04.615Z"
+    "origin": "SAN",
+    "destination": "PAE",
+    "firstSeen": "2026-03-13T03:05:18.243Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6341,
-      -122.5179
+      45.6303,
+      -122.5262
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-13T01:30:14.879Z"
+  "timestamp": "2026-03-13T03:05:28.499Z"
 }
