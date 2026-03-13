@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 34000,
-    "speed": 414,
-    "timestamp": "2026-03-13T21:23:09.601Z",
-    "lat": 45.6293,
-    "lon": -122.5197,
+    "distance": 0.41,
+    "altitude": 43000,
+    "speed": 415,
+    "timestamp": "2026-03-13T22:08:20.345Z",
+    "lat": 45.6222,
+    "lon": -122.5369,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AAL3235",
-    "aircraftType": "A320",
-    "origin": "PHX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-23T21:01:59.323Z"
+    "callsign": "LXJ329",
+    "aircraftType": "E545",
+    "origin": "PSP",
+    "destination": "BFI",
+    "firstSeen": "2026-03-13T22:08:20.343Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.41,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6293,
-      -122.5197
+      45.6222,
+      -122.5369
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-13T21:23:19.862Z"
+  "timestamp": "2026-03-13T22:08:30.627Z"
 }
