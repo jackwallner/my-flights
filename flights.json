@@ -10682,5 +10682,24 @@
     "initialDistance": 0.13613893062032364,
     "initialAltitude": 34000,
     "initialSpeed": 376
+  },
+  {
+    "callsign": "LXJ329",
+    "flightNumber": "LXJ329",
+    "aircraftType": "E545",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "BFI",
+    "icao": "A39052",
+    "registration": "N329FX",
+    "firstSeen": "2026-03-13T22:08:20.343Z",
+    "lastSeen": "2026-03-13T22:08:20.343Z",
+    "duration": 0,
+    "closestDistance": 0.4127783192977672,
+    "closestAltitude": 43000,
+    "closestSpeed": 415,
+    "initialDistance": 0.4127783192977672,
+    "initialAltitude": 43000,
+    "initialSpeed": 415
   }
 ]
