@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 36000,
-    "speed": 383,
-    "timestamp": "2026-03-13T03:11:39.564Z",
-    "lat": 45.6211,
-    "lon": -122.5227,
+    "distance": 0.55,
+    "altitude": 37000,
+    "speed": 376,
+    "timestamp": "2026-03-13T03:14:45.042Z",
+    "lat": 45.634,
+    "lon": -122.5318,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA762",
-    "aircraftType": "B39M",
-    "origin": "SJC",
+    "callsign": "DAL1922",
+    "aircraftType": "737",
+    "origin": "PVR",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T18:29:16.380Z"
+    "firstSeen": "2026-02-09T03:41:34.038Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.55,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6211,
-      -122.5227
+      45.6164,
+      -122.5225
     ],
     [
-      45.6353,
-      -122.5304
+      45.634,
+      -122.5318
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-13T03:12:00.065Z"
+  "timestamp": "2026-03-13T03:14:55.572Z"
 }
