@@ -10625,5 +10625,24 @@
     "initialDistance": 0.6948356732387059,
     "initialAltitude": 24000,
     "initialSpeed": 242
+  },
+  {
+    "callsign": "SKW3505",
+    "flightNumber": "DL3505",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A32867",
+    "registration": "N302SY",
+    "firstSeen": "2026-03-13T01:30:04.615Z",
+    "lastSeen": "2026-03-13T01:30:04.615Z",
+    "duration": 0,
+    "closestDistance": 0.6813414762099416,
+    "closestAltitude": 34000,
+    "closestSpeed": 349,
+    "initialDistance": 0.6813414762099416,
+    "initialAltitude": 34000,
+    "initialSpeed": 349
   }
 ]
