@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.47,
+    "distance": 0.34,
     "altitude": 36000,
-    "speed": 396,
-    "timestamp": "2026-03-13T03:08:34.099Z",
-    "lat": 45.6185,
+    "speed": 383,
+    "timestamp": "2026-03-13T03:11:39.564Z",
+    "lat": 45.6211,
     "lon": -122.5227,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1401",
-    "aircraftType": "737",
-    "origin": "SJD",
+    "callsign": "ASA762",
+    "aircraftType": "B39M",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-01T03:10:24.110Z"
+    "firstSeen": "2026-02-09T18:29:16.380Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.34,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6185,
+      45.6211,
       -122.5227
+    ],
+    [
+      45.6353,
+      -122.5304
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-13T03:08:44.444Z"
+  "timestamp": "2026-03-13T03:12:00.065Z"
 }
