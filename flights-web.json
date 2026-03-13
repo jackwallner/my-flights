@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 38000,
-    "speed": 382,
-    "timestamp": "2026-03-13T03:58:44.915Z",
-    "lat": 45.629,
-    "lon": -122.5264,
+    "distance": 0.14,
+    "altitude": 34000,
+    "speed": 376,
+    "timestamp": "2026-03-13T04:25:52.352Z",
+    "lat": 45.6234,
+    "lon": -122.5263,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2076",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "ASA339",
+    "aircraftType": "B39M",
+    "origin": "AUS",
     "destination": "SEA",
-    "firstSeen": "2026-03-12T03:12:47.529Z"
+    "firstSeen": "2026-03-13T04:25:52.351Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.14,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.629,
-      -122.5264
+      45.6234,
+      -122.5263
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-13T03:58:55.191Z"
+  "timestamp": "2026-03-13T04:26:02.622Z"
 }
