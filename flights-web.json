@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.25,
-    "altitude": 36000,
-    "speed": 364,
-    "timestamp": "2026-03-13T01:17:22.790Z",
-    "lat": 45.6225,
-    "lon": -122.5325,
+    "distance": 0.59,
+    "altitude": 32000,
+    "speed": 367,
+    "timestamp": "2026-03-13T01:24:45.165Z",
+    "lat": 45.6217,
+    "lon": -122.5149,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA523",
-    "aircraftType": "737",
-    "origin": "SJC",
+    "callsign": "SKW3707",
+    "aircraftType": "E175",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:20:43.540Z"
+    "firstSeen": "2026-02-10T01:59:32.125Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6225,
-      -122.5325
+      45.6217,
+      -122.5149
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-13T01:17:33.061Z"
+  "status": "tracking",
+  "timestamp": "2026-03-13T01:24:45.165Z"
 }
