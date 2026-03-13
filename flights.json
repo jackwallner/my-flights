@@ -10663,5 +10663,24 @@
     "initialDistance": 0.3118827398617453,
     "initialAltitude": 36000,
     "initialSpeed": 377
+  },
+  {
+    "callsign": "ASA339",
+    "flightNumber": "AS339",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "AUS",
+    "destination": "SEA",
+    "icao": "AD9DB0",
+    "registration": "N977AK",
+    "firstSeen": "2026-03-13T04:25:52.351Z",
+    "lastSeen": "2026-03-13T04:25:52.351Z",
+    "duration": 0,
+    "closestDistance": 0.13613893062032364,
+    "closestAltitude": 34000,
+    "closestSpeed": 376,
+    "initialDistance": 0.13613893062032364,
+    "initialAltitude": 34000,
+    "initialSpeed": 376
   }
 ]
