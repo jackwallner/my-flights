@@ -10644,5 +10644,24 @@
     "initialDistance": 0.6813414762099416,
     "initialAltitude": 34000,
     "initialSpeed": 349
+  },
+  {
+    "callsign": "QXE2155",
+    "flightNumber": "AS2155",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "PAE",
+    "icao": "A84E0C",
+    "registration": "N634QX",
+    "firstSeen": "2026-03-13T03:05:18.243Z",
+    "lastSeen": "2026-03-13T03:05:18.243Z",
+    "duration": 0,
+    "closestDistance": 0.3118827398617453,
+    "closestAltitude": 36000,
+    "closestSpeed": 377,
+    "initialDistance": 0.3118827398617453,
+    "initialAltitude": 36000,
+    "initialSpeed": 377
   }
 ]
