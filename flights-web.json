@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 34000,
-    "speed": 388,
-    "timestamp": "2026-03-13T15:49:19.029Z",
-    "lat": 45.6194,
-    "lon": -122.5359,
+    "distance": 0.43,
+    "altitude": 39950,
+    "speed": 400,
+    "timestamp": "2026-03-13T20:26:18.840Z",
+    "lat": 45.6316,
+    "lon": -122.5235,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4041",
-    "aircraftType": "E175",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T17:26:31.870Z"
+    "callsign": "CL35",
+    "aircraftType": "CL35",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-02T21:10:19.478Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.43,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6194,
-      -122.5359
+      45.6316,
+      -122.5235
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-13T15:49:29.351Z"
+  "timestamp": "2026-03-13T20:26:29.105Z"
 }
