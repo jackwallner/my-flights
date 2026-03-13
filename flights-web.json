@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 37000,
-    "speed": 376,
-    "timestamp": "2026-03-13T03:14:45.042Z",
-    "lat": 45.634,
-    "lon": -122.5318,
+    "distance": 0.23,
+    "altitude": 38000,
+    "speed": 382,
+    "timestamp": "2026-03-13T03:58:44.915Z",
+    "lat": 45.629,
+    "lon": -122.5264,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1922",
+    "callsign": "SWA2076",
     "aircraftType": "737",
-    "origin": "PVR",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T03:41:34.038Z"
+    "firstSeen": "2026-03-12T03:12:47.529Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6164,
-      -122.5225
-    ],
-    [
-      45.634,
-      -122.5318
+      45.629,
+      -122.5264
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-13T03:14:55.572Z"
+  "timestamp": "2026-03-13T03:58:55.191Z"
 }
