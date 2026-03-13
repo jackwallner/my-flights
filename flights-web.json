@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.31,
+    "distance": 0.47,
     "altitude": 36000,
-    "speed": 377,
-    "timestamp": "2026-03-13T03:05:18.245Z",
-    "lat": 45.6303,
-    "lon": -122.5262,
+    "speed": 396,
+    "timestamp": "2026-03-13T03:08:34.099Z",
+    "lat": 45.6185,
+    "lon": -122.5227,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2155",
-    "aircraftType": "E175",
-    "origin": "SAN",
-    "destination": "PAE",
-    "firstSeen": "2026-03-13T03:05:18.243Z"
+    "callsign": "ASA1401",
+    "aircraftType": "737",
+    "origin": "SJD",
+    "destination": "SEA",
+    "firstSeen": "2026-02-01T03:10:24.110Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.47,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6303,
-      -122.5262
+      45.6185,
+      -122.5227
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-13T03:05:28.499Z"
+  "timestamp": "2026-03-13T03:08:44.444Z"
 }
