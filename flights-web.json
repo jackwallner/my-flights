@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 3200,
-    "speed": 111,
-    "timestamp": "2026-03-14T16:28:34.386Z",
-    "lat": 45.6228,
-    "lon": -122.5287,
-    "precision": "high"
+    "distance": 0.62,
+    "altitude": 24900,
+    "speed": 305,
+    "timestamp": "2026-03-14T16:51:13.841Z",
+    "lat": 45.6249,
+    "lon": -122.5134,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N63843",
-    "aircraftType": "C172",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-03-14T16:28:13.842Z"
+    "callsign": "N123ED",
+    "aircraftType": "H25B",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-03-14T16:51:13.839Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.62,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6325,
-      -122.5215
-    ],
-    [
-      45.6275,
-      -122.5252
-    ],
-    [
-      45.6228,
-      -122.5287
-    ],
-    [
-      45.6179,
-      -122.5328
+      45.6249,
+      -122.5134
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-14T16:28:54.897Z"
+  "status": "tracking",
+  "timestamp": "2026-03-14T16:51:13.841Z"
 }
