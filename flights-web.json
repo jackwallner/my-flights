@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 1400,
-    "speed": 155,
-    "timestamp": "2026-03-14T21:59:56.750Z",
-    "lat": 45.6167,
-    "lon": -122.5392,
+    "distance": 0.67,
+    "altitude": 1075,
+    "speed": 69,
+    "timestamp": "2026-03-14T22:26:33.663Z",
+    "lat": 45.6156,
+    "lon": -122.536,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N210DM",
-    "aircraftType": "T210",
+    "callsign": "N917KF",
+    "aircraftType": "R22",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-14T21:59:56.748Z"
+    "firstSeen": "2026-02-13T18:16:54.196Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6167,
-      -122.5392
+      45.6178,
+      -122.5404
+    ],
+    [
+      45.6156,
+      -122.536
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-14T22:00:07.033Z"
+  "timestamp": "2026-03-14T22:26:43.909Z"
 }
