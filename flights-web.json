@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.26,
-    "altitude": 28450,
-    "speed": 338,
-    "timestamp": "2026-03-14T20:11:02.389Z",
-    "lat": 45.6266,
-    "lon": -122.5221,
+    "distance": 0.3,
+    "altitude": 30000,
+    "speed": 315,
+    "timestamp": "2026-03-14T21:40:31.532Z",
+    "lat": 45.6237,
+    "lon": -122.5348,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2922",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "QXE2052",
+    "aircraftType": "E175",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T20:57:20.122Z"
+    "firstSeen": "2026-02-08T22:02:18.660Z"
   },
-  "overheadScore": 0.26,
+  "overheadScore": 0.3,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6266,
-      -122.5221
+      45.6237,
+      -122.5348
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-14T20:11:12.660Z"
+  "timestamp": "2026-03-14T21:40:41.975Z"
 }
