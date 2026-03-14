@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 36000,
-    "speed": 383,
-    "timestamp": "2026-03-14T02:03:08.395Z",
-    "lat": 45.6291,
-    "lon": -122.5243,
+    "distance": 0.18,
+    "altitude": 5700,
+    "speed": 228,
+    "timestamp": "2026-03-14T10:38:09.933Z",
+    "lat": 45.6231,
+    "lon": -122.5309,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA583",
-    "aircraftType": "737",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-03-14T02:03:08.393Z"
+    "callsign": "N174AA",
+    "aircraftType": "Cita",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-02-06T22:58:59.693Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6291,
-      -122.5243
+      45.6339,
+      -122.5254
+    ],
+    [
+      45.6231,
+      -122.5309
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-14T02:03:18.669Z"
+  "timestamp": "2026-03-14T10:38:20.359Z"
 }
