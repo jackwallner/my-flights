@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 1900,
-    "speed": 128,
-    "timestamp": "2026-03-14T19:22:56.127Z",
-    "lat": 45.6288,
-    "lon": -122.5267,
-    "precision": "high"
+    "distance": 0.26,
+    "altitude": 28450,
+    "speed": 338,
+    "timestamp": "2026-03-14T20:11:02.389Z",
+    "lat": 45.6266,
+    "lon": -122.5221,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N3686U",
-    "aircraftType": "C182",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-14T19:22:45.826Z"
+    "callsign": "DAL2922",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-08T20:57:20.122Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6337,
-      -122.5314
-    ],
-    [
-      45.6288,
-      -122.5267
-    ],
-    [
-      45.6234,
-      -122.5214
-    ],
-    [
-      45.618,
-      -122.5161
+      45.6266,
+      -122.5221
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-14T19:23:26.985Z"
+  "timestamp": "2026-03-14T20:11:12.660Z"
 }
