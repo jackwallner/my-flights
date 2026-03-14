@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 24900,
-    "speed": 305,
-    "timestamp": "2026-03-14T16:51:13.841Z",
-    "lat": 45.6249,
-    "lon": -122.5134,
-    "precision": "tracked"
+    "distance": 0.22,
+    "altitude": 1900,
+    "speed": 128,
+    "timestamp": "2026-03-14T19:22:56.127Z",
+    "lat": 45.6288,
+    "lon": -122.5267,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N123ED",
-    "aircraftType": "H25B",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-03-14T16:51:13.839Z"
+    "callsign": "N3686U",
+    "aircraftType": "C182",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-03-14T19:22:45.826Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.22,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6249,
-      -122.5134
+      45.6337,
+      -122.5314
+    ],
+    [
+      45.6288,
+      -122.5267
+    ],
+    [
+      45.6234,
+      -122.5214
+    ],
+    [
+      45.618,
+      -122.5161
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-14T16:51:24.115Z"
+  "timestamp": "2026-03-14T19:23:26.985Z"
 }
