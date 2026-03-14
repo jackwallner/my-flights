@@ -10701,5 +10701,24 @@
     "initialDistance": 0.4127783192977672,
     "initialAltitude": 43000,
     "initialSpeed": 415
+  },
+  {
+    "callsign": "ASA583",
+    "flightNumber": "AS583",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A735D7",
+    "registration": "N564AS",
+    "firstSeen": "2026-03-14T02:03:08.393Z",
+    "lastSeen": "2026-03-14T02:03:08.393Z",
+    "duration": 0,
+    "closestDistance": 0.2796526061973968,
+    "closestAltitude": 36000,
+    "closestSpeed": 383,
+    "initialDistance": 0.2796526061973968,
+    "initialAltitude": 36000,
+    "initialSpeed": 383
   }
 ]
