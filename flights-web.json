@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 43000,
-    "speed": 415,
-    "timestamp": "2026-03-13T22:08:20.345Z",
-    "lat": 45.6222,
-    "lon": -122.5369,
+    "distance": 0.28,
+    "altitude": 36000,
+    "speed": 383,
+    "timestamp": "2026-03-14T02:03:08.395Z",
+    "lat": 45.6291,
+    "lon": -122.5243,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ329",
-    "aircraftType": "E545",
-    "origin": "PSP",
-    "destination": "BFI",
-    "firstSeen": "2026-03-13T22:08:20.343Z"
+    "callsign": "ASA583",
+    "aircraftType": "737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-03-14T02:03:08.393Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.28,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6222,
-      -122.5369
+      45.6291,
+      -122.5243
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-13T22:08:30.627Z"
+  "timestamp": "2026-03-14T02:03:18.669Z"
 }
