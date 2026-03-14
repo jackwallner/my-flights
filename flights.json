@@ -10739,5 +10739,24 @@
     "initialDistance": 0.5147379895029304,
     "initialAltitude": 3200,
     "initialSpeed": 114
+  },
+  {
+    "callsign": "N123ED",
+    "flightNumber": null,
+    "aircraftType": "H25B",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A05F3F",
+    "registration": "N123ED",
+    "firstSeen": "2026-03-14T16:51:13.839Z",
+    "lastSeen": "2026-03-14T16:51:13.839Z",
+    "duration": 0,
+    "closestDistance": 0.6181553494247692,
+    "closestAltitude": 24900,
+    "closestSpeed": 305,
+    "initialDistance": 0.6181553494247692,
+    "initialAltitude": 24900,
+    "initialSpeed": 305
   }
 ]
