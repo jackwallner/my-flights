@@ -10777,5 +10777,24 @@
     "initialDistance": 0.5240293441201147,
     "initialAltitude": 1900,
     "initialSpeed": 128
+  },
+  {
+    "callsign": "N210DM",
+    "flightNumber": null,
+    "aircraftType": "T210",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A1B9D9",
+    "registration": "N210DM",
+    "firstSeen": "2026-03-14T21:59:56.748Z",
+    "lastSeen": "2026-03-14T21:59:56.748Z",
+    "duration": 0,
+    "closestDistance": 0.6944135888547477,
+    "closestAltitude": 1400,
+    "closestSpeed": 155,
+    "initialDistance": 0.6944135888547477,
+    "initialAltitude": 1400,
+    "initialSpeed": 155
   }
 ]
