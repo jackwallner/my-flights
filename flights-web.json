@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 2275,
-    "speed": 104,
-    "timestamp": "2026-03-15T21:39:47.501Z",
-    "lat": 45.6146,
-    "lon": -122.5287,
-    "precision": "tracked"
+    "distance": 0.2,
+    "altitude": 2000,
+    "speed": 117,
+    "timestamp": "2026-03-15T22:05:24.324Z",
+    "lat": 45.622,
+    "lon": -122.5276,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N624ST",
-    "aircraftType": "RV12",
-    "origin": null,
+    "callsign": "N300PA",
+    "aircraftType": "P28R",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-02T21:45:58.538Z"
+    "firstSeen": "2026-03-15T20:46:41.470Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6146,
-      -122.5287
+      45.6211,
+      -122.5194
     ],
     [
-      45.6155,
-      -122.5217
+      45.622,
+      -122.5276
+    ],
+    [
+      45.6228,
+      -122.5355
+    ],
+    [
+      45.6237,
+      -122.5436
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-15T21:40:08.035Z"
+  "timestamp": "2026-03-15T22:05:55.221Z"
 }
