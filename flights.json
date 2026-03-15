@@ -10834,5 +10834,24 @@
     "initialDistance": 0.09176827268283327,
     "initialAltitude": 30000,
     "initialSpeed": 369
+  },
+  {
+    "callsign": "EJA790",
+    "flightNumber": null,
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": null,
+    "icao": "AAB974",
+    "registration": "N790QS",
+    "firstSeen": "2026-03-15T22:29:20.036Z",
+    "lastSeen": "2026-03-15T22:29:20.036Z",
+    "duration": 0,
+    "closestDistance": 0.25464327576187534,
+    "closestAltitude": 38425,
+    "closestSpeed": 386,
+    "initialDistance": 0.25464327576187534,
+    "initialAltitude": 38425,
+    "initialSpeed": 386
   }
 ]
