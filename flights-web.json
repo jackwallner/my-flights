@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 1075,
-    "speed": 69,
-    "timestamp": "2026-03-14T22:26:33.663Z",
-    "lat": 45.6156,
-    "lon": -122.536,
+    "distance": 0.3,
+    "altitude": 34000,
+    "speed": 302,
+    "timestamp": "2026-03-15T01:23:12.824Z",
+    "lat": 45.6221,
+    "lon": -122.5337,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N917KF",
-    "aircraftType": "R22",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-13T18:16:54.196Z"
+    "callsign": "ASA585",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T01:10:45.410Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6178,
-      -122.5404
-    ],
-    [
-      45.6156,
-      -122.536
+      45.6221,
+      -122.5337
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-14T22:26:43.909Z"
+  "timestamp": "2026-03-15T01:23:23.100Z"
 }
