@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 2675,
-    "speed": 94,
-    "timestamp": "2026-03-15T22:50:49.317Z",
-    "lat": 45.632,
-    "lon": -122.5259,
-    "precision": "high"
+    "distance": 0.43,
+    "altitude": 1600,
+    "speed": 89,
+    "timestamp": "2026-03-15T22:56:49.726Z",
+    "lat": 45.6324,
+    "lon": -122.527,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N89653",
-    "aircraftType": "C152",
-    "origin": "HIO",
+    "callsign": "N5201H",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-15T22:50:28.756Z"
+    "firstSeen": "2026-02-06T19:39:39.423Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.43,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6294,
-      -122.515
+      45.6345,
+      -122.5329
     ],
     [
-      45.6306,
-      -122.5204
-    ],
-    [
-      45.632,
-      -122.5259
-    ],
-    [
-      45.6338,
-      -122.5331
+      45.6324,
+      -122.527
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-15T22:51:09.852Z"
+  "status": "tracking",
+  "timestamp": "2026-03-15T22:56:49.726Z"
 }
