@@ -1,45 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 2400,
-    "speed": 92,
-    "timestamp": "2026-03-15T20:47:02.123Z",
-    "lat": 45.6216,
-    "lon": -122.5301,
-    "precision": "high"
+    "distance": 0.49,
+    "altitude": 2700,
+    "speed": 153,
+    "timestamp": "2026-03-15T21:03:53.300Z",
+    "lat": 45.6304,
+    "lon": -122.5373,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N300PA",
-    "aircraftType": "P28R",
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-03-15T20:46:41.470Z"
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6236,
-      -122.5421
-    ],
-    [
       45.6226,
-      -122.5356
+      -122.5401
     ],
     [
-      45.6216,
-      -122.5301
-    ],
-    [
-      45.6205,
-      -122.5236
-    ],
-    [
-      45.6192,
-      -122.5173
+      45.6304,
+      -122.5373
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-15T20:47:33.079Z"
+  "timestamp": "2026-03-15T21:04:03.719Z"
 }
