@@ -10815,5 +10815,24 @@
     "initialDistance": 0.5959695351140267,
     "initialAltitude": 2200,
     "initialSpeed": 90
+  },
+  {
+    "callsign": "QXE2132",
+    "flightNumber": "AS2132",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A8A478",
+    "registration": "N656QX",
+    "firstSeen": "2026-03-15T22:24:51.346Z",
+    "lastSeen": "2026-03-15T22:24:51.346Z",
+    "duration": 0,
+    "closestDistance": 0.09176827268283327,
+    "closestAltitude": 30000,
+    "closestSpeed": 369,
+    "initialDistance": 0.09176827268283327,
+    "initialAltitude": 30000,
+    "initialSpeed": 369
   }
 ]
