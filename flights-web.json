@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 1625,
-    "speed": 86,
-    "timestamp": "2026-03-15T05:34:34.039Z",
-    "lat": 45.6207,
-    "lon": -122.5252,
+    "distance": 0.54,
+    "altitude": 3200,
+    "speed": 104,
+    "timestamp": "2026-03-15T16:32:18.132Z",
+    "lat": 45.6297,
+    "lon": -122.5392,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N7274G",
-    "aircraftType": "C150",
-    "origin": "TTD",
-    "destination": "CVO",
-    "firstSeen": "2026-02-07T04:51:24.606Z"
+    "callsign": "N867LA",
+    "aircraftType": "C172",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-02-28T19:22:41.427Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.62,
-      -122.5378
+      45.6355,
+      -122.5356
     ],
     [
-      45.6206,
-      -122.5314
+      45.6297,
+      -122.5392
     ],
     [
-      45.6207,
-      -122.5252
-    ],
-    [
-      45.6207,
-      -122.5205
-    ],
-    [
-      45.6206,
-      -122.5138
+      45.6249,
+      -122.5419
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-15T05:35:04.866Z"
+  "timestamp": "2026-03-15T16:32:38.754Z"
 }
