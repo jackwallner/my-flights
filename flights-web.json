@@ -1,41 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 1600,
-    "speed": 91,
-    "timestamp": "2026-03-15T22:57:00.122Z",
-    "lat": 45.6305,
-    "lon": -122.5222,
+    "distance": 0.39,
+    "altitude": 925,
+    "speed": 68,
+    "timestamp": "2026-03-15T22:59:55.767Z",
+    "lat": 45.6227,
+    "lon": -122.5366,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N5201H",
-    "aircraftType": "C172",
+    "callsign": "N508AD",
+    "aircraftType": "R22",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-06T19:39:39.423Z"
+    "firstSeen": "2026-02-11T00:19:06.239Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6345,
-      -122.5329
+      45.6278,
+      -122.5424
     ],
     [
-      45.6324,
-      -122.527
+      45.625,
+      -122.5392
     ],
     [
-      45.6305,
-      -122.5222
+      45.6227,
+      -122.5366
     ],
     [
-      45.628,
-      -122.5164
+      45.62,
+      -122.5336
+    ],
+    [
+      45.6172,
+      -122.5305
+    ],
+    [
+      45.6151,
+      -122.528
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-15T22:57:20.826Z"
+  "timestamp": "2026-03-15T23:00:36.883Z"
 }
