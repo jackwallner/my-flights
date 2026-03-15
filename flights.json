@@ -10796,5 +10796,24 @@
     "initialDistance": 0.6944135888547477,
     "initialAltitude": 1400,
     "initialSpeed": 155
+  },
+  {
+    "callsign": "N300PA",
+    "flightNumber": null,
+    "aircraftType": "P28R",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A32098",
+    "registration": "N300PA",
+    "firstSeen": "2026-03-15T20:46:41.470Z",
+    "lastSeen": "2026-03-15T20:47:22.767Z",
+    "duration": 41,
+    "closestDistance": 0.23622151480002013,
+    "closestAltitude": 2400,
+    "closestSpeed": 92,
+    "initialDistance": 0.5959695351140267,
+    "initialAltitude": 2200,
+    "initialSpeed": 90
   }
 ]
