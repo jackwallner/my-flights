@@ -10853,5 +10853,24 @@
     "initialDistance": 0.25464327576187534,
     "initialAltitude": 38425,
     "initialSpeed": 386
+  },
+  {
+    "callsign": "N89653",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "AC5EC1",
+    "registration": "N89653",
+    "firstSeen": "2026-03-15T22:50:28.756Z",
+    "lastSeen": "2026-03-15T22:50:49.315Z",
+    "duration": 21,
+    "closestDistance": 0.4139949028237795,
+    "closestAltitude": 2675,
+    "closestSpeed": 94,
+    "initialDistance": 0.6035385219721143,
+    "initialAltitude": 2675,
+    "initialSpeed": 93
   }
 ]

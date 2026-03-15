@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.25,
-    "altitude": 38425,
-    "speed": 386,
-    "timestamp": "2026-03-15T22:29:20.038Z",
-    "lat": 45.6295,
-    "lon": -122.5275,
-    "precision": "tracked"
+    "distance": 0.41,
+    "altitude": 2675,
+    "speed": 94,
+    "timestamp": "2026-03-15T22:50:49.317Z",
+    "lat": 45.632,
+    "lon": -122.5259,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "EJA790",
-    "aircraftType": "CL35",
-    "origin": "PSP",
+    "callsign": "N89653",
+    "aircraftType": "C152",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-03-15T22:29:20.036Z"
+    "firstSeen": "2026-03-15T22:50:28.756Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6295,
-      -122.5275
+      45.6294,
+      -122.515
+    ],
+    [
+      45.6306,
+      -122.5204
+    ],
+    [
+      45.632,
+      -122.5259
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-15T22:29:30.343Z"
+  "status": "tracking",
+  "timestamp": "2026-03-15T22:50:49.317Z"
 }
