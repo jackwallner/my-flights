@@ -1,49 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.1,
-    "altitude": 800,
-    "speed": 81,
-    "timestamp": "2026-03-16T17:14:42.972Z",
-    "lat": 45.6237,
-    "lon": -122.528,
+    "distance": 0.35,
+    "altitude": 2175,
+    "speed": 140,
+    "timestamp": "2026-03-16T17:24:18.634Z",
+    "lat": 45.63,
+    "lon": -122.5328,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N38889",
-    "aircraftType": "J5",
+    "callsign": "S22T",
+    "aircraftType": "S22T",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-16T17:14:11.967Z"
+    "firstSeen": "2026-03-16T17:23:58.083Z"
   },
-  "overheadScore": 0.1,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6224,
-      -122.5419
+      45.618,
+      -122.5407
     ],
     [
-      45.6225,
-      -122.5396
+      45.6233,
+      -122.5371
     ],
     [
-      45.6232,
-      -122.5325
+      45.63,
+      -122.5328
     ],
     [
-      45.6237,
-      -122.528
-    ],
-    [
-      45.6248,
-      -122.5204
-    ],
-    [
-      45.6255,
-      -122.515
+      45.6356,
+      -122.5291
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T17:15:13.834Z"
+  "timestamp": "2026-03-16T17:24:39.166Z"
 }

@@ -10948,5 +10948,24 @@
     "initialDistance": 0.6042528681564131,
     "initialAltitude": 825,
     "initialSpeed": 82
+  },
+  {
+    "callsign": "S22T",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-03-16T17:23:58.083Z",
+    "lastSeen": "2026-03-16T17:24:28.913Z",
+    "duration": 31,
+    "closestDistance": 0.3450303299773514,
+    "closestAltitude": 2175,
+    "closestSpeed": 140,
+    "initialDistance": 0.6859303811876699,
+    "initialAltitude": 1675,
+    "initialSpeed": 143
   }
 ]
