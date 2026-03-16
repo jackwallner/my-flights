@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.48,
+    "distance": 0.3,
     "altitude": 750,
-    "speed": 88,
-    "timestamp": "2026-03-16T21:51:27.539Z",
-    "lat": 45.6178,
-    "lon": -122.5318,
-    "precision": "tracked"
+    "speed": 90,
+    "timestamp": "2026-03-16T21:51:48.115Z",
+    "lat": 45.6248,
+    "lon": -122.5352,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N738FD",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-03-16T21:51:17.244Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 6,
   "trail": [
     [
       45.6141,
@@ -26,8 +26,24 @@
     [
       45.6178,
       -122.5318
+    ],
+    [
+      45.6208,
+      -122.5335
+    ],
+    [
+      45.6248,
+      -122.5352
+    ],
+    [
+      45.6282,
+      -122.5367
+    ],
+    [
+      45.6316,
+      -122.5382
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-16T21:51:27.539Z"
+  "status": "completed",
+  "timestamp": "2026-03-16T21:52:18.980Z"
 }
