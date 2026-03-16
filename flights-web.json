@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 26950,
-    "speed": 365,
-    "timestamp": "2026-03-16T04:17:24.088Z",
-    "lat": 45.6252,
-    "lon": -122.5226,
+    "distance": 0.67,
+    "altitude": 30000,
+    "speed": 347,
+    "timestamp": "2026-03-16T04:19:27.750Z",
+    "lat": 45.6256,
+    "lon": -122.544,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW842X",
+    "callsign": "SKW3505",
     "aircraftType": "E175",
-    "origin": "STS",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-03-11T04:45:38.331Z"
+    "firstSeen": "2026-03-13T01:30:04.615Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6252,
-      -122.5226
+      45.6256,
+      -122.544
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T04:17:34.375Z"
+  "timestamp": "2026-03-16T04:19:38.025Z"
 }
