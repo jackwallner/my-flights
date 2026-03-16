@@ -10986,5 +10986,24 @@
     "initialDistance": 0.33217963828493946,
     "initialAltitude": 1725,
     "initialSpeed": 146
+  },
+  {
+    "callsign": "N628NG",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "BFI",
+    "icao": "A83528",
+    "registration": "N628NG",
+    "firstSeen": "2026-03-16T17:57:24.016Z",
+    "lastSeen": "2026-03-16T17:57:34.297Z",
+    "duration": 10,
+    "closestDistance": 0.35552576180906054,
+    "closestAltitude": 20000,
+    "closestSpeed": 231,
+    "initialDistance": 0.5993087280808168,
+    "initialAltitude": 20000,
+    "initialSpeed": 231
   }
 ]
