@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.25,
-    "altitude": 2225,
-    "speed": 161,
-    "timestamp": "2026-03-16T00:15:28.965Z",
-    "lat": 45.6227,
-    "lon": -122.5327,
-    "precision": "high"
+    "distance": 0.68,
+    "altitude": 34000,
+    "speed": 376,
+    "timestamp": "2026-03-16T01:12:00.381Z",
+    "lat": 45.6204,
+    "lon": -122.5135,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "callsign": "SKW3707",
+    "aircraftType": "E175",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T01:59:32.125Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.68,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6166,
-      -122.5354
-    ],
-    [
-      45.6227,
-      -122.5327
-    ],
-    [
-      45.6302,
-      -122.5293
+      45.6204,
+      -122.5135
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T00:15:49.499Z"
+  "timestamp": "2026-03-16T01:12:10.649Z"
 }
