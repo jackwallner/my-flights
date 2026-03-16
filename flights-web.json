@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 28000,
-    "speed": 421,
-    "timestamp": "2026-03-16T16:33:19.859Z",
-    "lat": 45.6292,
-    "lon": -122.5407,
+    "distance": 0.48,
+    "altitude": 32000,
+    "speed": 383,
+    "timestamp": "2026-03-16T16:46:01.253Z",
+    "lat": 45.62,
+    "lon": -122.5367,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA338",
-    "aircraftType": "737",
-    "origin": "RDM",
+    "callsign": "SKW3345",
+    "aircraftType": "E175",
+    "origin": "FAT",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T17:22:49.160Z"
+    "firstSeen": "2026-02-09T18:15:50.955Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6292,
-      -122.5407
+      45.62,
+      -122.5367
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T16:33:30.140Z"
+  "timestamp": "2026-03-16T16:46:11.541Z"
 }
