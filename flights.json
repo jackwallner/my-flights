@@ -11081,5 +11081,24 @@
     "initialDistance": 0.5274333147493736,
     "initialAltitude": 1850,
     "initialSpeed": 84
+  },
+  {
+    "callsign": "N473TW",
+    "flightNumber": null,
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A5CDFD",
+    "registration": "N473TW",
+    "firstSeen": "2026-03-16T23:19:19.312Z",
+    "lastSeen": "2026-03-16T23:19:29.582Z",
+    "duration": 10,
+    "closestDistance": 0.6231647512168215,
+    "closestAltitude": 1675,
+    "closestSpeed": 130,
+    "initialDistance": 0.6231647512168215,
+    "initialAltitude": 1675,
+    "initialSpeed": 130
   }
 ]
