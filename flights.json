@@ -10967,5 +10967,24 @@
     "initialDistance": 0.6859303811876699,
     "initialAltitude": 1675,
     "initialSpeed": 143
+  },
+  {
+    "callsign": "CFS976",
+    "flightNumber": "EM976",
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "PDX",
+    "icao": "AD9A71",
+    "registration": "N976FE",
+    "firstSeen": "2026-03-16T17:50:22.119Z",
+    "lastSeen": "2026-03-16T17:50:42.692Z",
+    "duration": 21,
+    "closestDistance": 0.09399458435486215,
+    "closestAltitude": 1975,
+    "closestSpeed": 138,
+    "initialDistance": 0.33217963828493946,
+    "initialAltitude": 1725,
+    "initialSpeed": 146
   }
 ]

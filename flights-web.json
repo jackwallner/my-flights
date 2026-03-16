@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 2175,
-    "speed": 140,
-    "timestamp": "2026-03-16T17:24:18.634Z",
-    "lat": 45.63,
-    "lon": -122.5328,
+    "distance": 0.09,
+    "altitude": 1975,
+    "speed": 138,
+    "timestamp": "2026-03-16T17:50:32.412Z",
+    "lat": 45.6258,
+    "lon": -122.526,
     "precision": "high"
   },
   "flight": {
-    "callsign": "S22T",
-    "aircraftType": "S22T",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-16T17:23:58.083Z"
+    "callsign": "CFS976",
+    "aircraftType": "Cara",
+    "origin": "PDX",
+    "destination": "PDX",
+    "firstSeen": "2026-03-16T17:50:22.119Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.09,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.618,
-      -122.5407
+      45.6257,
+      -122.536
     ],
     [
-      45.6233,
-      -122.5371
+      45.6258,
+      -122.526
     ],
     [
-      45.63,
-      -122.5328
-    ],
-    [
-      45.6356,
-      -122.5291
+      45.6258,
+      -122.5185
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T17:24:39.166Z"
+  "timestamp": "2026-03-16T17:50:52.980Z"
 }
