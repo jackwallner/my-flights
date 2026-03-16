@@ -10891,5 +10891,24 @@
     "initialDistance": 0.48601311669126235,
     "initialAltitude": 33975,
     "initialSpeed": 342
+  },
+  {
+    "callsign": "WJA2327",
+    "flightNumber": "WS2327",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "PVR",
+    "destination": "YQQ",
+    "icao": "C07EE0",
+    "registration": "C-GWBF",
+    "firstSeen": "2026-03-16T03:42:00.621Z",
+    "lastSeen": "2026-03-16T03:42:00.621Z",
+    "duration": 0,
+    "closestDistance": 0.2776544573542129,
+    "closestAltitude": 40000,
+    "closestSpeed": 319,
+    "initialDistance": 0.2776544573542129,
+    "initialAltitude": 40000,
+    "initialSpeed": 319
   }
 ]

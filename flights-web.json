@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 33975,
-    "speed": 342,
-    "timestamp": "2026-03-16T03:19:10.273Z",
-    "lat": 45.6172,
-    "lon": -122.5288,
+    "distance": 0.28,
+    "altitude": 40000,
+    "speed": 319,
+    "timestamp": "2026-03-16T03:42:00.624Z",
+    "lat": 45.6226,
+    "lon": -122.5335,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL1434",
-    "aircraftType": "A320",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-03-16T03:19:10.268Z"
+    "callsign": "WJA2327",
+    "aircraftType": "B737",
+    "origin": "PVR",
+    "destination": "YQQ",
+    "firstSeen": "2026-03-16T03:42:00.621Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6172,
-      -122.5288
-    ],
-    [
-      45.6341,
-      -122.537
+      45.6226,
+      -122.5335
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T03:19:30.867Z"
+  "timestamp": "2026-03-16T03:42:10.909Z"
 }
