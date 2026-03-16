@@ -11062,5 +11062,24 @@
     "initialDistance": 0.6714058628095917,
     "initialAltitude": 750,
     "initialSpeed": 88
+  },
+  {
+    "callsign": "N2449U",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A24281",
+    "registration": "N2449U",
+    "firstSeen": "2026-03-16T22:16:09.216Z",
+    "lastSeen": "2026-03-16T22:16:50.381Z",
+    "duration": 41,
+    "closestDistance": 0.3031498520413882,
+    "closestAltitude": 2000,
+    "closestSpeed": 87,
+    "initialDistance": 0.5274333147493736,
+    "initialAltitude": 1850,
+    "initialSpeed": 84
   }
 ]
