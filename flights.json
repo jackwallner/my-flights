@@ -11100,5 +11100,24 @@
     "initialDistance": 0.6231647512168215,
     "initialAltitude": 1675,
     "initialSpeed": 130
+  },
+  {
+    "callsign": "LXJ536",
+    "flightNumber": "LXJ536",
+    "aircraftType": "CL30",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "BFI",
+    "icao": "A6C74A",
+    "registration": "N536FX",
+    "firstSeen": "2026-03-16T23:41:46.696Z",
+    "lastSeen": "2026-03-16T23:41:46.696Z",
+    "duration": 0,
+    "closestDistance": 0.4664843630714476,
+    "closestAltitude": 38650,
+    "closestSpeed": 432,
+    "initialDistance": 0.4664843630714476,
+    "initialAltitude": 38650,
+    "initialSpeed": 432
   }
 ]

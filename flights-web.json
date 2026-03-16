@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 1675,
-    "speed": 130,
-    "timestamp": "2026-03-16T23:19:19.315Z",
-    "lat": 45.6173,
-    "lon": -122.5376,
+    "distance": 0.47,
+    "altitude": 38650,
+    "speed": 432,
+    "timestamp": "2026-03-16T23:41:46.699Z",
+    "lat": 45.6248,
+    "lon": -122.5392,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N473TW",
-    "aircraftType": "Cara",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-03-16T23:19:19.312Z"
+    "callsign": "LXJ536",
+    "aircraftType": "CL30",
+    "origin": "PSP",
+    "destination": "BFI",
+    "firstSeen": "2026-03-16T23:41:46.696Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6173,
-      -122.5376
-    ],
-    [
-      45.6139,
-      -122.5293
+      45.6248,
+      -122.5392
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-16T23:19:39.873Z"
+  "status": "tracking",
+  "timestamp": "2026-03-16T23:41:46.699Z"
 }
