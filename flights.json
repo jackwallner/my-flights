@@ -10910,5 +10910,24 @@
     "initialDistance": 0.2776544573542129,
     "initialAltitude": 40000,
     "initialSpeed": 319
+  },
+  {
+    "callsign": "N495JH",
+    "flightNumber": null,
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "TIW",
+    "icao": "A6237B",
+    "registration": "N495JH",
+    "firstSeen": "2026-03-16T05:08:03.452Z",
+    "lastSeen": "2026-03-16T05:08:03.452Z",
+    "duration": 0,
+    "closestDistance": 0.6368300681453282,
+    "closestAltitude": 35175,
+    "closestSpeed": 346,
+    "initialDistance": 0.6368300681453282,
+    "initialAltitude": 35175,
+    "initialSpeed": 346
   }
 ]

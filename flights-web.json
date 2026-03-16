@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 36000,
-    "speed": 340,
-    "timestamp": "2026-03-16T04:30:57.048Z",
-    "lat": 45.6281,
-    "lon": -122.5353,
+    "distance": 0.64,
+    "altitude": 35175,
+    "speed": 346,
+    "timestamp": "2026-03-16T05:08:03.455Z",
+    "lat": 45.6325,
+    "lon": -122.517,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2230",
-    "aircraftType": "E175",
-    "origin": "SBP",
-    "destination": "SEA",
-    "firstSeen": "2026-02-08T03:58:38.104Z"
+    "callsign": "N495JH",
+    "aircraftType": "E55P",
+    "origin": "TRM",
+    "destination": "TIW",
+    "firstSeen": "2026-03-16T05:08:03.452Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6281,
-      -122.5353
+      45.6325,
+      -122.517
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T04:31:07.310Z"
+  "timestamp": "2026-03-16T05:08:13.763Z"
 }
