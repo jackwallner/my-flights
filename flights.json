@@ -11043,5 +11043,24 @@
     "initialDistance": 0.6372493579889705,
     "initialAltitude": 2300,
     "initialSpeed": 83
+  },
+  {
+    "callsign": "N738FD",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A9E944",
+    "registration": "N738FD",
+    "firstSeen": "2026-03-16T21:51:17.244Z",
+    "lastSeen": "2026-03-16T21:51:27.536Z",
+    "duration": 10,
+    "closestDistance": 0.47508348927987254,
+    "closestAltitude": 750,
+    "closestSpeed": 88,
+    "initialDistance": 0.6714058628095917,
+    "initialAltitude": 750,
+    "initialSpeed": 88
   }
 ]
