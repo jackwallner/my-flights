@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 27575,
-    "speed": 393,
-    "timestamp": "2026-03-16T04:12:36.090Z",
-    "lat": 45.6277,
-    "lon": -122.535,
+    "distance": 0.23,
+    "altitude": 26950,
+    "speed": 365,
+    "timestamp": "2026-03-16T04:17:24.088Z",
+    "lat": 45.6252,
+    "lon": -122.5226,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1571",
-    "aircraftType": "737 ",
-    "origin": "PHX",
+    "callsign": "SKW842X",
+    "aircraftType": "E175",
+    "origin": "STS",
     "destination": "SEA",
-    "firstSeen": "2026-03-09T04:03:14.068Z"
+    "firstSeen": "2026-03-11T04:45:38.331Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.23,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6277,
-      -122.535
+      45.6252,
+      -122.5226
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T04:12:46.353Z"
+  "timestamp": "2026-03-16T04:17:34.375Z"
 }
