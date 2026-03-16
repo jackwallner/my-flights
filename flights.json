@@ -10929,5 +10929,24 @@
     "initialDistance": 0.6368300681453282,
     "initialAltitude": 35175,
     "initialSpeed": 346
+  },
+  {
+    "callsign": "N38889",
+    "flightNumber": null,
+    "aircraftType": "J5",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A47C94",
+    "registration": "N38889",
+    "firstSeen": "2026-03-16T17:14:11.967Z",
+    "lastSeen": "2026-03-16T17:14:53.264Z",
+    "duration": 41,
+    "closestDistance": 0.0950056498258068,
+    "closestAltitude": 800,
+    "closestSpeed": 81,
+    "initialDistance": 0.6042528681564131,
+    "initialAltitude": 825,
+    "initialSpeed": 82
   }
 ]

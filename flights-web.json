@@ -1,29 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 34000,
-    "speed": 390,
-    "timestamp": "2026-03-16T16:48:14.998Z",
-    "lat": 45.6341,
-    "lon": -122.5256,
-    "precision": "tracked"
+    "distance": 0.1,
+    "altitude": 800,
+    "speed": 81,
+    "timestamp": "2026-03-16T17:14:42.972Z",
+    "lat": 45.6237,
+    "lon": -122.528,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "DAL2980",
-    "aircraftType": "737",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T17:41:54.213Z"
+    "callsign": "N38889",
+    "aircraftType": "J5",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-03-16T17:14:11.967Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.1,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6341,
-      -122.5256
+      45.6224,
+      -122.5419
+    ],
+    [
+      45.6225,
+      -122.5396
+    ],
+    [
+      45.6232,
+      -122.5325
+    ],
+    [
+      45.6237,
+      -122.528
+    ],
+    [
+      45.6248,
+      -122.5204
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-16T16:48:25.265Z"
+  "status": "tracking",
+  "timestamp": "2026-03-16T17:14:53.267Z"
 }
