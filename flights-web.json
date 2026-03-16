@@ -1,29 +1,33 @@
 {
   "closestApproach": {
     "distance": 0.46,
-    "altitude": 38000,
-    "speed": 442,
-    "timestamp": "2026-03-16T22:53:55.029Z",
-    "lat": 45.6192,
-    "lon": -122.5348,
+    "altitude": 2275,
+    "speed": 168,
+    "timestamp": "2026-03-16T23:13:29.579Z",
+    "lat": 45.6224,
+    "lon": -122.5179,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N500CF",
-    "aircraftType": "FA50",
-    "origin": "TRM",
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-02-21T18:37:27.116Z"
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
   "overheadScore": 0.46,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6192,
-      -122.5348
+      45.6167,
+      -122.5226
+    ],
+    [
+      45.6224,
+      -122.5179
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T22:54:05.316Z"
+  "timestamp": "2026-03-16T23:13:39.991Z"
 }
