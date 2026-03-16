@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 1550,
-    "speed": 153,
-    "timestamp": "2026-03-16T18:28:36.920Z",
-    "lat": 45.6258,
-    "lon": -122.5218,
+    "distance": 0.31,
+    "altitude": 2300,
+    "speed": 115,
+    "timestamp": "2026-03-16T19:35:53.066Z",
+    "lat": 45.6305,
+    "lon": -122.528,
     "precision": "high"
   },
   "flight": {
-    "callsign": "CFS976",
-    "aircraftType": "Cara",
-    "origin": "PDX",
-    "destination": "PDX",
-    "firstSeen": "2026-03-16T17:50:22.119Z"
+    "callsign": "N9691B",
+    "aircraftType": "C180",
+    "origin": "DLS",
+    "destination": null,
+    "firstSeen": "2026-03-16T19:35:32.504Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6258,
-      -122.5218
+      45.6286,
+      -122.5134
     ],
     [
-      45.621,
-      -122.5308
+      45.6292,
+      -122.5198
     ],
     [
-      45.6172,
-      -122.5376
+      45.6305,
+      -122.528
+    ],
+    [
+      45.6309,
+      -122.5359
+    ],
+    [
+      45.6309,
+      -122.542
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T18:29:07.764Z"
+  "timestamp": "2026-03-16T19:36:23.959Z"
 }

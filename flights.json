@@ -11005,5 +11005,24 @@
     "initialDistance": 0.5993087280808168,
     "initialAltitude": 20000,
     "initialSpeed": 231
+  },
+  {
+    "callsign": "N9691B",
+    "flightNumber": null,
+    "aircraftType": "C180",
+    "aircraftName": null,
+    "origin": "DLS",
+    "destination": null,
+    "icao": "AD8012",
+    "registration": "N9691B",
+    "firstSeen": "2026-03-16T19:35:32.504Z",
+    "lastSeen": "2026-03-16T19:36:13.640Z",
+    "duration": 41,
+    "closestDistance": 0.31342035106022503,
+    "closestAltitude": 2300,
+    "closestSpeed": 115,
+    "initialDistance": 0.649070845683008,
+    "initialAltitude": 2300,
+    "initialSpeed": 111
   }
 ]
