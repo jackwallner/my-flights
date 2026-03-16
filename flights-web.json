@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 2000,
-    "speed": 87,
-    "timestamp": "2026-03-16T22:16:29.812Z",
-    "lat": 45.6231,
-    "lon": -122.5216,
+    "distance": 0.38,
+    "altitude": 1775,
+    "speed": 94,
+    "timestamp": "2026-03-16T22:36:45.510Z",
+    "lat": 45.6193,
+    "lon": -122.5251,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N2449U",
-    "aircraftType": "C172",
-    "origin": "PDX",
+    "callsign": "N18586",
+    "aircraftType": "C150",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-16T22:16:09.216Z"
+    "firstSeen": "2026-02-06T23:57:53.810Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6165,
-      -122.5285
+      45.6176,
+      -122.5381
+    ],
+    [
+      45.6186,
+      -122.5315
     ],
     [
       45.6193,
-      -122.5255
+      -122.5251
     ],
     [
-      45.6231,
-      -122.5216
-    ],
-    [
-      45.626,
-      -122.5186
-    ],
-    [
-      45.6299,
-      -122.5148
+      45.62,
+      -122.5187
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T22:17:00.661Z"
+  "timestamp": "2026-03-16T22:37:06.054Z"
 }
