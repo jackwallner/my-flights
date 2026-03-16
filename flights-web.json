@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 2300,
-    "speed": 115,
-    "timestamp": "2026-03-16T19:35:53.066Z",
-    "lat": 45.6305,
-    "lon": -122.528,
+    "distance": 0.57,
+    "altitude": 2400,
+    "speed": 85,
+    "timestamp": "2026-03-16T20:46:35.766Z",
+    "lat": 45.6159,
+    "lon": -122.5305,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9691B",
-    "aircraftType": "C180",
-    "origin": "DLS",
+    "callsign": "N67601",
+    "aircraftType": "C152",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-16T19:35:32.504Z"
+    "firstSeen": "2026-03-16T20:46:25.492Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.57,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6286,
-      -122.5134
+      45.6163,
+      -122.5362
     ],
     [
-      45.6292,
-      -122.5198
+      45.6159,
+      -122.5305
     ],
     [
-      45.6305,
-      -122.528
+      45.6156,
+      -122.5247
     ],
     [
-      45.6309,
-      -122.5359
-    ],
-    [
-      45.6309,
-      -122.542
+      45.6154,
+      -122.5194
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T19:36:23.959Z"
+  "timestamp": "2026-03-16T20:47:06.631Z"
 }
