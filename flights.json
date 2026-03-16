@@ -10872,5 +10872,24 @@
     "initialDistance": 0.6035385219721143,
     "initialAltitude": 2675,
     "initialSpeed": 93
+  },
+  {
+    "callsign": "UAL1434",
+    "flightNumber": "UA1434",
+    "aircraftType": "A320",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A57F04",
+    "registration": "N453UA",
+    "firstSeen": "2026-03-16T03:19:10.268Z",
+    "lastSeen": "2026-03-16T03:19:20.584Z",
+    "duration": 10,
+    "closestDistance": 0.48601311669126235,
+    "closestAltitude": 33975,
+    "closestSpeed": 342,
+    "initialDistance": 0.48601311669126235,
+    "initialAltitude": 33975,
+    "initialSpeed": 342
   }
 ]

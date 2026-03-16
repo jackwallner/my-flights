@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 34000,
-    "speed": 376,
-    "timestamp": "2026-03-16T01:12:00.381Z",
-    "lat": 45.6204,
-    "lon": -122.5135,
+    "distance": 0.49,
+    "altitude": 33975,
+    "speed": 342,
+    "timestamp": "2026-03-16T03:19:10.273Z",
+    "lat": 45.6172,
+    "lon": -122.5288,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3707",
-    "aircraftType": "E175",
+    "callsign": "UAL1434",
+    "aircraftType": "A320",
     "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T01:59:32.125Z"
+    "firstSeen": "2026-03-16T03:19:10.268Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6204,
-      -122.5135
+      45.6172,
+      -122.5288
+    ],
+    [
+      45.6341,
+      -122.537
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-16T01:12:10.649Z"
+  "status": "tracking",
+  "timestamp": "2026-03-16T03:19:20.587Z"
 }
