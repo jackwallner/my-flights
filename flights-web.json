@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 40000,
-    "speed": 319,
-    "timestamp": "2026-03-16T03:42:00.624Z",
-    "lat": 45.6226,
-    "lon": -122.5335,
+    "distance": 0.32,
+    "altitude": 27575,
+    "speed": 393,
+    "timestamp": "2026-03-16T04:12:36.090Z",
+    "lat": 45.6277,
+    "lon": -122.535,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "WJA2327",
-    "aircraftType": "B737",
-    "origin": "PVR",
-    "destination": "YQQ",
-    "firstSeen": "2026-03-16T03:42:00.621Z"
+    "callsign": "SWA1571",
+    "aircraftType": "737 ",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-03-09T04:03:14.068Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.32,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6226,
-      -122.5335
+      45.6277,
+      -122.535
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T03:42:10.909Z"
+  "timestamp": "2026-03-16T04:12:46.353Z"
 }
