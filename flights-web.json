@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.53,
+    "distance": 0.35,
     "altitude": 36000,
-    "speed": 327,
-    "timestamp": "2026-03-16T04:26:29.587Z",
-    "lat": 45.6265,
-    "lon": -122.5155,
+    "speed": 340,
+    "timestamp": "2026-03-16T04:30:57.048Z",
+    "lat": 45.6281,
+    "lon": -122.5353,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4049",
+    "callsign": "QXE2230",
     "aircraftType": "E175",
-    "origin": "SMF",
+    "origin": "SBP",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:39:41.638Z"
+    "firstSeen": "2026-02-08T03:58:38.104Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.35,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6265,
-      -122.5155
+      45.6281,
+      -122.5353
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T04:26:39.887Z"
+  "timestamp": "2026-03-16T04:31:07.310Z"
 }
