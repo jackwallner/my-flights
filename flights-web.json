@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 32000,
-    "speed": 383,
-    "timestamp": "2026-03-16T16:46:01.253Z",
-    "lat": 45.62,
-    "lon": -122.5367,
+    "distance": 0.54,
+    "altitude": 34000,
+    "speed": 390,
+    "timestamp": "2026-03-16T16:48:14.998Z",
+    "lat": 45.6341,
+    "lon": -122.5256,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3345",
-    "aircraftType": "E175",
-    "origin": "FAT",
+    "callsign": "DAL2980",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T18:15:50.955Z"
+    "firstSeen": "2026-02-09T17:41:54.213Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.54,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.62,
-      -122.5367
+      45.6341,
+      -122.5256
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T16:46:11.541Z"
+  "timestamp": "2026-03-16T16:48:25.265Z"
 }
