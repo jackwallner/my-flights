@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 2400,
-    "speed": 85,
-    "timestamp": "2026-03-16T20:46:35.766Z",
-    "lat": 45.6159,
-    "lon": -122.5305,
+    "distance": 0.26,
+    "altitude": 2200,
+    "speed": 169,
+    "timestamp": "2026-03-16T21:06:30.560Z",
+    "lat": 45.6269,
+    "lon": -122.5339,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N67601",
-    "aircraftType": "C152",
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-03-16T20:46:25.492Z"
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6163,
-      -122.5362
+      45.619,
+      -122.5384
     ],
     [
-      45.6159,
-      -122.5305
+      45.6269,
+      -122.5339
     ],
     [
-      45.6156,
-      -122.5247
-    ],
-    [
-      45.6154,
-      -122.5194
+      45.6346,
+      -122.5294
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T20:47:06.631Z"
+  "timestamp": "2026-03-16T21:06:51.132Z"
 }
