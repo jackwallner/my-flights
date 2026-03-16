@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 20000,
-    "speed": 231,
-    "timestamp": "2026-03-16T17:57:34.300Z",
-    "lat": 45.6286,
-    "lon": -122.5211,
-    "precision": "tracked"
+    "distance": 0.27,
+    "altitude": 1550,
+    "speed": 153,
+    "timestamp": "2026-03-16T18:28:36.920Z",
+    "lat": 45.6258,
+    "lon": -122.5218,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N628NG",
-    "aircraftType": "PC-1",
-    "origin": "TRM",
-    "destination": "BFI",
-    "firstSeen": "2026-03-16T17:57:24.016Z"
+    "callsign": "CFS976",
+    "aircraftType": "Cara",
+    "origin": "PDX",
+    "destination": "PDX",
+    "firstSeen": "2026-03-16T17:50:22.119Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.27,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.62,
-      -122.516
+      45.6258,
+      -122.5218
     ],
     [
-      45.6286,
-      -122.5211
+      45.621,
+      -122.5308
+    ],
+    [
+      45.6172,
+      -122.5376
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T17:57:44.591Z"
+  "timestamp": "2026-03-16T18:29:07.764Z"
 }
