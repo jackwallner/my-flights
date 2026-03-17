@@ -4519,8 +4519,8 @@
     "icao": "A9AFA0",
     "registration": "N723KP",
     "firstSeen": "2026-02-07T18:07:34.039Z",
-    "lastSeen": "2026-03-17T13:39:53.604Z",
-    "duration": 3267140,
+    "lastSeen": "2026-03-17T16:14:05.855Z",
+    "duration": 3276392,
     "closestDistance": 0.028644866724124755,
     "closestAltitude": 2100,
     "closestSpeed": 149,
@@ -11138,5 +11138,24 @@
     "initialDistance": 0.11844753467155222,
     "initialAltitude": 38000,
     "initialSpeed": 432
+  },
+  {
+    "callsign": "N66589",
+    "flightNumber": null,
+    "aircraftType": "C150",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A8CA5E",
+    "registration": "N66589",
+    "firstSeen": "2026-03-17T16:14:16.141Z",
+    "lastSeen": "2026-03-17T16:14:57.308Z",
+    "duration": 41,
+    "closestDistance": 0.1989336077071796,
+    "closestAltitude": 3300,
+    "closestSpeed": 102,
+    "initialDistance": 0.5546629117319024,
+    "initialAltitude": 3400,
+    "initialSpeed": 101
   }
 ]
