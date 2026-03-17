@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 1775,
-    "speed": 87,
-    "timestamp": "2026-03-17T23:10:29.810Z",
-    "lat": 45.6319,
-    "lon": -122.5402,
+    "distance": 0.57,
+    "altitude": 36000,
+    "speed": 419,
+    "timestamp": "2026-03-17T23:17:22.674Z",
+    "lat": 45.6234,
+    "lon": -122.5414,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N624ST",
-    "aircraftType": "RV12",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-02T21:45:58.538Z"
+    "callsign": "ASA685",
+    "aircraftType": "737",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T22:20:37.507Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.57,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6351,
-      -122.5355
-    ],
-    [
-      45.6319,
-      -122.5402
+      45.6234,
+      -122.5414
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-17T23:10:40.089Z"
+  "timestamp": "2026-03-17T23:17:43.262Z"
 }
