@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 38650,
+    "distance": 0.12,
+    "altitude": 38000,
     "speed": 432,
-    "timestamp": "2026-03-16T23:41:46.699Z",
-    "lat": 45.6248,
-    "lon": -122.5392,
+    "timestamp": "2026-03-17T00:36:09.944Z",
+    "lat": 45.6237,
+    "lon": -122.5298,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ536",
-    "aircraftType": "CL30",
-    "origin": "PSP",
-    "destination": "BFI",
-    "firstSeen": "2026-03-16T23:41:46.696Z"
+    "callsign": "WJA2177",
+    "aircraftType": "737",
+    "origin": "SJD",
+    "destination": "YYJ",
+    "firstSeen": "2026-03-17T00:36:09.941Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.12,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6248,
-      -122.5392
+      45.6237,
+      -122.5298
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-16T23:41:56.974Z"
+  "timestamp": "2026-03-17T00:36:20.221Z"
 }

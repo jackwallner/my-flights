@@ -11119,5 +11119,24 @@
     "initialDistance": 0.4664843630714476,
     "initialAltitude": 38650,
     "initialSpeed": 432
+  },
+  {
+    "callsign": "WJA2177",
+    "flightNumber": "WS2177",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SJD",
+    "destination": "YYJ",
+    "icao": "C04DDC",
+    "registration": "C-GDMP",
+    "firstSeen": "2026-03-17T00:36:09.941Z",
+    "lastSeen": "2026-03-17T00:36:09.941Z",
+    "duration": 0,
+    "closestDistance": 0.11844753467155222,
+    "closestAltitude": 38000,
+    "closestSpeed": 432,
+    "initialDistance": 0.11844753467155222,
+    "initialAltitude": 38000,
+    "initialSpeed": 432
   }
 ]
