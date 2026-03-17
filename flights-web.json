@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 36000,
-    "speed": 419,
-    "timestamp": "2026-03-17T23:17:22.674Z",
-    "lat": 45.6234,
-    "lon": -122.5414,
+    "distance": 0.58,
+    "altitude": 5325,
+    "speed": 249,
+    "timestamp": "2026-03-17T23:18:45.994Z",
+    "lat": 45.631,
+    "lon": -122.5392,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA685",
-    "aircraftType": "737",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T22:20:37.507Z"
+    "callsign": "N96FP",
+    "aircraftType": "Cita",
+    "origin": "PAE",
+    "destination": "QSA",
+    "firstSeen": "2026-03-17T23:18:45.991Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.58,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6234,
-      -122.5414
+      45.631,
+      -122.5392
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-17T23:17:43.262Z"
+  "timestamp": "2026-03-17T23:19:06.576Z"
 }

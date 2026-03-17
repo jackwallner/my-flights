@@ -11157,5 +11157,24 @@
     "initialDistance": 0.5546629117319024,
     "initialAltitude": 3400,
     "initialSpeed": 101
+  },
+  {
+    "callsign": "N96FP",
+    "flightNumber": null,
+    "aircraftType": "C25A",
+    "aircraftName": null,
+    "origin": "PAE",
+    "destination": "QSA",
+    "icao": "AD5A58",
+    "registration": "N96FP",
+    "firstSeen": "2026-03-17T23:18:45.991Z",
+    "lastSeen": "2026-03-17T23:18:45.991Z",
+    "duration": 0,
+    "closestDistance": 0.5785144530998851,
+    "closestAltitude": 5325,
+    "closestSpeed": 249,
+    "initialDistance": 0.5785144530998851,
+    "initialAltitude": 5325,
+    "initialSpeed": 249
   }
 ]
