@@ -1,29 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 5325,
-    "speed": 249,
-    "timestamp": "2026-03-17T23:18:45.994Z",
-    "lat": 45.631,
-    "lon": -122.5392,
-    "precision": "tracked"
+    "distance": 0.13,
+    "altitude": 1725,
+    "speed": 97,
+    "timestamp": "2026-03-17T23:21:00.582Z",
+    "lat": 45.6251,
+    "lon": -122.5313,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N96FP",
-    "aircraftType": "Cita",
-    "origin": "PAE",
-    "destination": "QSA",
-    "firstSeen": "2026-03-17T23:18:45.991Z"
+    "callsign": "N624ST",
+    "aircraftType": "RV12",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-02T21:45:58.538Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.631,
-      -122.5392
+      45.6246,
+      -122.5444
+    ],
+    [
+      45.6249,
+      -122.5376
+    ],
+    [
+      45.6251,
+      -122.5313
+    ],
+    [
+      45.6253,
+      -122.5243
+    ],
+    [
+      45.6255,
+      -122.5175
+    ],
+    [
+      45.6256,
+      -122.5117
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-17T23:19:06.576Z"
+  "timestamp": "2026-03-17T23:21:41.827Z"
 }
