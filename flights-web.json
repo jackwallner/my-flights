@@ -1,29 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 6325,
-    "speed": 230,
-    "timestamp": "2026-03-17T18:24:32.592Z",
-    "lat": 45.6214,
-    "lon": -122.5154,
-    "precision": "tracked"
+    "distance": 0.25,
+    "altitude": 3600,
+    "speed": 67,
+    "timestamp": "2026-03-17T20:55:17.093Z",
+    "lat": 45.6283,
+    "lon": -122.5323,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "E55P",
-    "aircraftType": "E55P",
-    "origin": null,
+    "callsign": "N5107H",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-08T06:22:02.211Z"
+    "firstSeen": "2026-02-09T23:58:25.954Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.25,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6214,
-      -122.5154
+      45.6347,
+      -122.5231
+    ],
+    [
+      45.6329,
+      -122.5262
+    ],
+    [
+      45.6306,
+      -122.5294
+    ],
+    [
+      45.6283,
+      -122.5323
+    ],
+    [
+      45.6258,
+      -122.5356
+    ],
+    [
+      45.6234,
+      -122.5388
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-17T18:24:53.127Z"
+  "status": "tracking",
+  "timestamp": "2026-03-17T20:55:37.639Z"
 }
