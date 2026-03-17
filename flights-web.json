@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 39650,
-    "speed": 403,
-    "timestamp": "2026-03-17T02:59:20.770Z",
-    "lat": 45.6296,
-    "lon": -122.5246,
+    "distance": 0.49,
+    "altitude": 36000,
+    "speed": 402,
+    "timestamp": "2026-03-17T04:17:54.744Z",
+    "lat": 45.6201,
+    "lon": -122.5372,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1837",
-    "aircraftType": "737",
-    "origin": "SJD",
+    "callsign": "QXE2230",
+    "aircraftType": "E175",
+    "origin": "SBP",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:28:44.778Z"
+    "firstSeen": "2026-02-08T03:58:38.104Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.49,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6296,
-      -122.5246
+      45.6201,
+      -122.5372
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-17T02:59:31.038Z"
+  "timestamp": "2026-03-17T04:18:05.025Z"
 }
