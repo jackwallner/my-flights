@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 3300,
-    "speed": 102,
-    "timestamp": "2026-03-17T16:14:36.731Z",
-    "lat": 45.6281,
-    "lon": -122.5306,
-    "precision": "high"
+    "distance": 0.41,
+    "altitude": 36000,
+    "speed": 377,
+    "timestamp": "2026-03-17T16:38:27.087Z",
+    "lat": 45.6318,
+    "lon": -122.5307,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N66589",
-    "aircraftType": "C150",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-17T16:14:16.141Z"
+    "callsign": "QXE2443",
+    "aircraftType": "E175",
+    "origin": "PSP",
+    "destination": "SEA",
+    "firstSeen": "2026-02-21T17:40:19.340Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6206,
-      -122.5395
-    ],
-    [
-      45.6239,
-      -122.5356
-    ],
-    [
-      45.6281,
-      -122.5306
-    ],
-    [
-      45.6316,
-      -122.5264
-    ],
-    [
-      45.6357,
-      -122.5214
+      45.6318,
+      -122.5307
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-17T16:15:07.577Z"
+  "timestamp": "2026-03-17T16:38:47.639Z"
 }
