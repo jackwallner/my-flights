@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 36000,
-    "speed": 402,
-    "timestamp": "2026-03-17T04:17:54.744Z",
-    "lat": 45.6201,
-    "lon": -122.5372,
+    "distance": 0.64,
+    "altitude": 4325,
+    "speed": 93,
+    "timestamp": "2026-03-17T09:56:39.156Z",
+    "lat": 45.6169,
+    "lon": -122.5377,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2230",
-    "aircraftType": "E175",
-    "origin": "SBP",
-    "destination": "SEA",
-    "firstSeen": "2026-02-08T03:58:38.104Z"
+    "callsign": "C172",
+    "aircraftType": "C172",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-04T01:46:11.920Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6201,
-      -122.5372
+      45.6169,
+      -122.5377
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-17T04:18:05.025Z"
+  "status": "tracking",
+  "timestamp": "2026-03-17T09:56:39.156Z"
 }
