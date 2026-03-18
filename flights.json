@@ -11328,5 +11328,24 @@
     "initialDistance": 0.6332154436590158,
     "initialAltitude": 300,
     "initialSpeed": 54
+  },
+  {
+    "callsign": "N5274Y",
+    "flightNumber": null,
+    "aircraftType": "T210",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A6A5EA",
+    "registration": "N5274Y",
+    "firstSeen": "2026-03-18T21:35:46.229Z",
+    "lastSeen": "2026-03-18T21:36:06.788Z",
+    "duration": 21,
+    "closestDistance": 0.46451160963523996,
+    "closestAltitude": 2025,
+    "closestSpeed": 138,
+    "initialDistance": 0.6019325048734128,
+    "initialAltitude": 2200,
+    "initialSpeed": 140
   }
 ]

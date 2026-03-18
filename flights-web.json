@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 300,
-    "speed": 56,
-    "timestamp": "2026-03-18T21:24:36.114Z",
-    "lat": 45.6356,
-    "lon": -122.5269,
+    "distance": 0.46,
+    "altitude": 2025,
+    "speed": 138,
+    "timestamp": "2026-03-18T21:35:56.504Z",
+    "lat": 45.6177,
+    "lon": -122.5259,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N797BP",
-    "aircraftType": "B407",
-    "origin": "DLS",
+    "callsign": "N5274Y",
+    "aircraftType": "T210",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-18T21:24:25.842Z"
+    "firstSeen": "2026-03-18T21:35:46.229Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.46,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6356,
-      -122.525
+      45.6196,
+      -122.5163
     ],
     [
-      45.6356,
-      -122.5269
+      45.6177,
+      -122.5259
     ],
     [
-      45.6356,
-      -122.5309
-    ],
-    [
-      45.6356,
-      -122.5348
+      45.6162,
+      -122.535
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-18T21:25:07.256Z"
+  "timestamp": "2026-03-18T21:36:17.203Z"
 }
