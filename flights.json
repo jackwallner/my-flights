@@ -11214,5 +11214,24 @@
     "initialDistance": 0.5676638190339225,
     "initialAltitude": 4525,
     "initialSpeed": 76
+  },
+  {
+    "callsign": "N2181N",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "QSA",
+    "destination": null,
+    "icao": "A1D9C2",
+    "registration": "N2181N",
+    "firstSeen": "2026-03-18T16:46:15.311Z",
+    "lastSeen": "2026-03-18T16:46:35.899Z",
+    "duration": 21,
+    "closestDistance": 0.4601495885523146,
+    "closestAltitude": 1175,
+    "closestSpeed": 101,
+    "initialDistance": 0.5759276071916952,
+    "initialAltitude": 1200,
+    "initialSpeed": 99
   }
 ]
