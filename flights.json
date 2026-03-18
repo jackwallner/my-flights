@@ -11233,5 +11233,24 @@
     "initialDistance": 0.5759276071916952,
     "initialAltitude": 1200,
     "initialSpeed": 99
+  },
+  {
+    "callsign": "EJA101",
+    "flightNumber": null,
+    "aircraftType": "GL5T",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": null,
+    "icao": "A009DA",
+    "registration": "N101QS",
+    "firstSeen": "2026-03-18T16:53:17.987Z",
+    "lastSeen": "2026-03-18T16:53:17.987Z",
+    "duration": 0,
+    "closestDistance": 0.49640502799418207,
+    "closestAltitude": 39575,
+    "closestSpeed": 499,
+    "initialDistance": 0.49640502799418207,
+    "initialAltitude": 39575,
+    "initialSpeed": 499
   }
 ]
