@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 36000,
-    "speed": 404,
-    "timestamp": "2026-03-18T00:06:10.285Z",
-    "lat": 45.6278,
-    "lon": -122.5294,
+    "distance": 0.68,
+    "altitude": 40000,
+    "speed": 417,
+    "timestamp": "2026-03-18T00:39:41.433Z",
+    "lat": 45.6155,
+    "lon": -122.5361,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2585",
-    "aircraftType": "737",
-    "origin": "PSP",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T01:12:24.687Z"
+    "callsign": "ASP814",
+    "aircraftType": "E545",
+    "origin": "CSW",
+    "destination": "YYC",
+    "firstSeen": "2026-03-18T00:39:41.430Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.68,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6278,
-      -122.5294
+      45.6155,
+      -122.5361
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-18T00:06:30.889Z"
+  "timestamp": "2026-03-18T00:40:02.285Z"
 }

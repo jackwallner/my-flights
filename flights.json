@@ -11176,5 +11176,24 @@
     "initialDistance": 0.5785144530998851,
     "initialAltitude": 5325,
     "initialSpeed": 249
+  },
+  {
+    "callsign": "ASP814",
+    "flightNumber": "ASP814",
+    "aircraftType": "E545",
+    "aircraftName": null,
+    "origin": "CSW",
+    "destination": "YYC",
+    "icao": "C02FB4",
+    "registration": "C-FSBR",
+    "firstSeen": "2026-03-18T00:39:41.430Z",
+    "lastSeen": "2026-03-18T00:39:41.430Z",
+    "duration": 0,
+    "closestDistance": 0.6762822038728012,
+    "closestAltitude": 40000,
+    "closestSpeed": 417,
+    "initialDistance": 0.6762822038728012,
+    "initialAltitude": 40000,
+    "initialSpeed": 417
   }
 ]
