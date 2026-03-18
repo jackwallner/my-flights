@@ -11271,5 +11271,24 @@
     "initialDistance": 0.6533140102145887,
     "initialAltitude": 4350,
     "initialSpeed": 106
+  },
+  {
+    "callsign": "TCN765",
+    "flightNumber": "TCN765",
+    "aircraftType": "C750",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "AA5631",
+    "registration": "N765XJ",
+    "firstSeen": "2026-03-18T20:39:37.690Z",
+    "lastSeen": "2026-03-18T20:39:37.690Z",
+    "duration": 0,
+    "closestDistance": 0.6990293550872445,
+    "closestAltitude": 40325,
+    "closestSpeed": 463,
+    "initialDistance": 0.6990293550872445,
+    "initialAltitude": 40325,
+    "initialSpeed": 463
   }
 ]

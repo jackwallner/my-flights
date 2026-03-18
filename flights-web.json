@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 2875,
-    "speed": 105,
-    "timestamp": "2026-03-18T19:32:35.605Z",
-    "lat": 45.6175,
-    "lon": -122.5383,
+    "distance": 0.7,
+    "altitude": 40325,
+    "speed": 463,
+    "timestamp": "2026-03-18T20:39:37.693Z",
+    "lat": 45.6329,
+    "lon": -122.5407,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N473TW",
-    "aircraftType": "Cara",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-03-16T23:19:19.312Z"
+    "callsign": "TCN765",
+    "aircraftType": "Cita",
+    "origin": "VNY",
+    "destination": "BFI",
+    "firstSeen": "2026-03-18T20:39:37.690Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.7,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6175,
-      -122.5383
-    ],
-    [
-      45.6147,
-      -122.5313
+      45.6329,
+      -122.5407
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-18T19:32:56.205Z"
+  "timestamp": "2026-03-18T20:39:58.438Z"
 }
