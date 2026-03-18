@@ -11309,5 +11309,24 @@
     "initialDistance": 0.2437419343938694,
     "initialAltitude": 34000,
     "initialSpeed": 413
+  },
+  {
+    "callsign": "N797BP",
+    "flightNumber": null,
+    "aircraftType": "B407",
+    "aircraftName": null,
+    "origin": "DLS",
+    "destination": null,
+    "icao": "AAD22D",
+    "registration": "N797BP",
+    "firstSeen": "2026-03-18T21:24:25.842Z",
+    "lastSeen": "2026-03-18T21:24:56.967Z",
+    "duration": 31,
+    "closestDistance": 0.6216766004029008,
+    "closestAltitude": 300,
+    "closestSpeed": 56,
+    "initialDistance": 0.6332154436590158,
+    "initialAltitude": 300,
+    "initialSpeed": 54
   }
 ]
