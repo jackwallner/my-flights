@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 4525,
-    "speed": 77,
-    "timestamp": "2026-03-18T00:42:37.421Z",
-    "lat": 45.6224,
-    "lon": -122.5218,
-    "precision": "high"
+    "distance": 0.7,
+    "altitude": 32000,
+    "speed": 396,
+    "timestamp": "2026-03-18T01:11:47.064Z",
+    "lat": 45.6193,
+    "lon": -122.5424,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N89312",
-    "aircraftType": "C152",
-    "origin": "DLS",
-    "destination": null,
-    "firstSeen": "2026-03-18T00:42:16.739Z"
+    "callsign": "SKW127T",
+    "aircraftType": "E175",
+    "origin": "MFR",
+    "destination": "SEA",
+    "firstSeen": "2026-02-27T02:14:48.738Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.7,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6285,
-      -122.5154
-    ],
-    [
-      45.6254,
-      -122.5185
-    ],
-    [
-      45.6224,
-      -122.5218
-    ],
-    [
-      45.6195,
-      -122.525
-    ],
-    [
-      45.6165,
-      -122.5282
+      45.6193,
+      -122.5424
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-18T00:43:08.528Z"
+  "timestamp": "2026-03-18T01:12:07.630Z"
 }
