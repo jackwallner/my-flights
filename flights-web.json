@@ -1,57 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.04,
-    "altitude": 4725,
-    "speed": 61,
-    "timestamp": "2026-03-18T03:09:00.901Z",
-    "lat": 45.6246,
-    "lon": -122.5285,
+    "distance": 0.31,
+    "altitude": 1725,
+    "speed": 174,
+    "timestamp": "2026-03-18T13:52:03.890Z",
+    "lat": 45.6206,
+    "lon": -122.525,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.04,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 8,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6354,
-      -122.5213
+      45.6141,
+      -122.5296
     ],
     [
-      45.633,
-      -122.5228
+      45.6206,
+      -122.525
     ],
     [
-      45.63,
-      -122.5246
-    ],
-    [
-      45.6272,
-      -122.5264
-    ],
-    [
-      45.6246,
-      -122.5285
-    ],
-    [
-      45.6219,
-      -122.5304
-    ],
-    [
-      45.6193,
-      -122.5326
-    ],
-    [
-      45.6172,
-      -122.5345
+      45.6284,
+      -122.5191
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-18T03:09:42.042Z"
+  "timestamp": "2026-03-18T13:52:24.648Z"
 }
