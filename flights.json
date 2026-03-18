@@ -11347,5 +11347,24 @@
     "initialDistance": 0.6019325048734128,
     "initialAltitude": 2200,
     "initialSpeed": 140
+  },
+  {
+    "callsign": "ASA464",
+    "flightNumber": "AS464",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "PAE",
+    "icao": "A98386",
+    "registration": "N712AL",
+    "firstSeen": "2026-03-18T22:09:34.524Z",
+    "lastSeen": "2026-03-18T22:09:34.524Z",
+    "duration": 0,
+    "closestDistance": 0.6739253341808262,
+    "closestAltitude": 34000,
+    "closestSpeed": 439,
+    "initialDistance": 0.6739253341808262,
+    "initialAltitude": 34000,
+    "initialSpeed": 439
   }
 ]

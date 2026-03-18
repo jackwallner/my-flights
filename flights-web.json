@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.07,
-    "altitude": 1975,
-    "speed": 94,
-    "timestamp": "2026-03-18T21:55:50.713Z",
-    "lat": 45.6245,
-    "lon": -122.5295,
-    "precision": "high"
+    "distance": 0.67,
+    "altitude": 34000,
+    "speed": 439,
+    "timestamp": "2026-03-18T22:09:34.527Z",
+    "lat": 45.6352,
+    "lon": -122.5206,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N473TW",
-    "aircraftType": "Cara",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-03-16T23:19:19.312Z"
+    "callsign": "ASA464",
+    "aircraftType": "B39M",
+    "origin": "LAS",
+    "destination": "PAE",
+    "firstSeen": "2026-03-18T22:09:34.524Z"
   },
-  "overheadScore": 0.07,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6287,
-      -122.5418
-    ],
-    [
-      45.6269,
-      -122.5354
-    ],
-    [
-      45.6245,
-      -122.5295
-    ],
-    [
-      45.6225,
-      -122.5251
-    ],
-    [
-      45.62,
-      -122.5195
+      45.6352,
+      -122.5206
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-18T21:56:21.577Z"
+  "timestamp": "2026-03-18T22:09:55.086Z"
 }
