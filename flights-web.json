@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 2025,
-    "speed": 138,
-    "timestamp": "2026-03-18T21:35:56.504Z",
-    "lat": 45.6177,
-    "lon": -122.5259,
+    "distance": 0.07,
+    "altitude": 1975,
+    "speed": 94,
+    "timestamp": "2026-03-18T21:55:50.713Z",
+    "lat": 45.6245,
+    "lon": -122.5295,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N5274Y",
-    "aircraftType": "T210",
-    "origin": null,
+    "callsign": "N473TW",
+    "aircraftType": "Cara",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-18T21:35:46.229Z"
+    "firstSeen": "2026-03-16T23:19:19.312Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.07,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6196,
-      -122.5163
+      45.6287,
+      -122.5418
     ],
     [
-      45.6177,
-      -122.5259
+      45.6269,
+      -122.5354
     ],
     [
-      45.6162,
-      -122.535
+      45.6245,
+      -122.5295
+    ],
+    [
+      45.6225,
+      -122.5251
+    ],
+    [
+      45.62,
+      -122.5195
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-18T21:36:17.203Z"
+  "timestamp": "2026-03-18T21:56:21.577Z"
 }
