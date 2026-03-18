@@ -11252,5 +11252,24 @@
     "initialDistance": 0.49640502799418207,
     "initialAltitude": 39575,
     "initialSpeed": 499
+  },
+  {
+    "callsign": "T206",
+    "flightNumber": null,
+    "aircraftType": "T206",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-03-18T18:16:03.599Z",
+    "lastSeen": "2026-03-18T18:16:13.889Z",
+    "duration": 10,
+    "closestDistance": 0.6171760369925935,
+    "closestAltitude": 4350,
+    "closestSpeed": 105,
+    "initialDistance": 0.6533140102145887,
+    "initialAltitude": 4350,
+    "initialSpeed": 106
   }
 ]
