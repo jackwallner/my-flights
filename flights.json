@@ -11366,5 +11366,24 @@
     "initialDistance": 0.6739253341808262,
     "initialAltitude": 34000,
     "initialSpeed": 439
+  },
+  {
+    "callsign": "N545DS",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A6EADB",
+    "registration": "N545DS",
+    "firstSeen": "2026-03-18T22:38:02.420Z",
+    "lastSeen": "2026-03-18T22:38:23.195Z",
+    "duration": 21,
+    "closestDistance": 0.08798036349438901,
+    "closestAltitude": 3175,
+    "closestSpeed": 91,
+    "initialDistance": 0.5880686834174174,
+    "initialAltitude": 2950,
+    "initialSpeed": 91
   }
 ]

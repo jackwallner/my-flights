@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 34000,
-    "speed": 439,
-    "timestamp": "2026-03-18T22:09:34.527Z",
-    "lat": 45.6352,
-    "lon": -122.5206,
-    "precision": "tracked"
+    "distance": 0.09,
+    "altitude": 3175,
+    "speed": 91,
+    "timestamp": "2026-03-18T22:38:23.196Z",
+    "lat": 45.6254,
+    "lon": -122.5302,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA464",
-    "aircraftType": "B39M",
-    "origin": "LAS",
-    "destination": "PAE",
-    "firstSeen": "2026-03-18T22:09:34.524Z"
+    "callsign": "N545DS",
+    "aircraftType": "C172",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-03-18T22:38:02.420Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.09,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6352,
-      -122.5206
+      45.6248,
+      -122.5421
+    ],
+    [
+      45.6252,
+      -122.5355
+    ],
+    [
+      45.6254,
+      -122.5302
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-18T22:09:55.086Z"
+  "status": "tracking",
+  "timestamp": "2026-03-18T22:38:23.196Z"
 }
