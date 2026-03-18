@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.42,
+    "distance": 0.63,
     "altitude": 2875,
-    "speed": 108,
-    "timestamp": "2026-03-18T19:20:45.426Z",
-    "lat": 45.6203,
-    "lon": -122.5353,
-    "precision": "high"
+    "speed": 105,
+    "timestamp": "2026-03-18T19:32:35.605Z",
+    "lat": 45.6175,
+    "lon": -122.5383,
+    "precision": "tracked"
   },
   "flight": {
     "callsign": "N473TW",
@@ -15,27 +15,19 @@
     "destination": null,
     "firstSeen": "2026-03-16T23:19:19.312Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6151,
-      -122.523
+      45.6175,
+      -122.5383
     ],
     [
-      45.6181,
-      -122.5302
-    ],
-    [
-      45.6203,
-      -122.5353
-    ],
-    [
-      45.6232,
-      -122.5423
+      45.6147,
+      -122.5313
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-18T19:21:05.975Z"
+  "timestamp": "2026-03-18T19:32:56.205Z"
 }
