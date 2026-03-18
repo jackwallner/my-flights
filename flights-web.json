@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 4350,
-    "speed": 105,
-    "timestamp": "2026-03-18T18:16:13.891Z",
-    "lat": 45.6162,
-    "lon": -122.535,
+    "distance": 0.54,
+    "altitude": 2925,
+    "speed": 108,
+    "timestamp": "2026-03-18T18:53:49.601Z",
+    "lat": 45.6284,
+    "lon": -122.516,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "T206",
-    "aircraftType": "T206",
-    "origin": null,
+    "callsign": "N473TW",
+    "aircraftType": "Cara",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-18T18:16:03.599Z"
+    "firstSeen": "2026-03-16T23:19:19.312Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6144,
-      -122.5283
-    ],
-    [
-      45.6162,
-      -122.535
+      45.6284,
+      -122.516
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-18T18:16:24.146Z"
+  "status": "tracking",
+  "timestamp": "2026-03-18T18:53:49.601Z"
 }
