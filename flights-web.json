@@ -1,29 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 40000,
-    "speed": 417,
-    "timestamp": "2026-03-18T00:39:41.433Z",
-    "lat": 45.6155,
-    "lon": -122.5361,
-    "precision": "tracked"
+    "distance": 0.32,
+    "altitude": 4525,
+    "speed": 77,
+    "timestamp": "2026-03-18T00:42:37.421Z",
+    "lat": 45.6224,
+    "lon": -122.5218,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASP814",
-    "aircraftType": "E545",
-    "origin": "CSW",
-    "destination": "YYC",
-    "firstSeen": "2026-03-18T00:39:41.430Z"
+    "callsign": "N89312",
+    "aircraftType": "C152",
+    "origin": "DLS",
+    "destination": null,
+    "firstSeen": "2026-03-18T00:42:16.739Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6155,
-      -122.5361
+      45.6285,
+      -122.5154
+    ],
+    [
+      45.6254,
+      -122.5185
+    ],
+    [
+      45.6224,
+      -122.5218
+    ],
+    [
+      45.6195,
+      -122.525
+    ],
+    [
+      45.6165,
+      -122.5282
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-18T00:40:02.285Z"
+  "timestamp": "2026-03-18T00:43:08.528Z"
 }

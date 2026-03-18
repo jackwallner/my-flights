@@ -11195,5 +11195,24 @@
     "initialDistance": 0.6762822038728012,
     "initialAltitude": 40000,
     "initialSpeed": 417
+  },
+  {
+    "callsign": "N89312",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": "DLS",
+    "destination": null,
+    "icao": "AC530F",
+    "registration": "N89312",
+    "firstSeen": "2026-03-18T00:42:16.739Z",
+    "lastSeen": "2026-03-18T00:42:58.214Z",
+    "duration": 41,
+    "closestDistance": 0.31646385337806354,
+    "closestAltitude": 4525,
+    "closestSpeed": 77,
+    "initialDistance": 0.5676638190339225,
+    "initialAltitude": 4525,
+    "initialSpeed": 76
   }
 ]
