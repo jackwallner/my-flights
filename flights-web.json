@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 2225,
-    "speed": 166,
-    "timestamp": "2026-03-19T23:21:39.710Z",
-    "lat": 45.6333,
-    "lon": -122.523,
+    "distance": 0.56,
+    "altitude": 2100,
+    "speed": 117,
+    "timestamp": "2026-03-19T23:25:47.355Z",
+    "lat": 45.626,
+    "lon": -122.5414,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N473TW",
-    "aircraftType": "Cara",
+    "callsign": "N504PC",
+    "aircraftType": "TAMP",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-16T23:19:19.312Z"
+    "firstSeen": "2026-02-11T23:24:34.726Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.56,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6333,
-      -122.523
-    ],
-    [
-      45.6347,
-      -122.5318
+      45.626,
+      -122.5414
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-19T23:22:00.274Z"
+  "status": "tracking",
+  "timestamp": "2026-03-19T23:25:47.355Z"
 }
