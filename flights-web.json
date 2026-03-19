@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 2000,
-    "speed": 116,
-    "timestamp": "2026-03-19T23:26:07.927Z",
-    "lat": 45.628,
-    "lon": -122.5243,
+    "distance": 0.29,
+    "altitude": 2925,
+    "speed": 100,
+    "timestamp": "2026-03-19T23:33:20.611Z",
+    "lat": 45.6207,
+    "lon": -122.5304,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N504PC",
-    "aircraftType": "TAMP",
-    "origin": "TTD",
+    "callsign": "N2017E",
+    "aircraftType": "C82S",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-11T23:24:34.726Z"
+    "firstSeen": "2026-02-13T02:14:36.625Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.29,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.626,
-      -122.5414
+      45.6211,
+      -122.5371
     ],
     [
-      45.627,
-      -122.5332
+      45.6207,
+      -122.5304
     ],
     [
-      45.628,
-      -122.5243
+      45.6205,
+      -122.5229
     ],
     [
-      45.6287,
-      -122.5175
+      45.6204,
+      -122.5166
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-19T23:26:28.461Z"
+  "status": "tracking",
+  "timestamp": "2026-03-19T23:33:41.460Z"
 }
