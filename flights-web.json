@@ -1,49 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 3250,
-    "speed": 77,
-    "timestamp": "2026-03-19T19:04:44.413Z",
-    "lat": 45.6245,
-    "lon": -122.5178,
-    "precision": "high"
+    "distance": 0.31,
+    "altitude": 38000,
+    "speed": 432,
+    "timestamp": "2026-03-19T20:42:02.097Z",
+    "lat": 45.6202,
+    "lon": -122.5289,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N614FA",
-    "aircraftType": "C172",
-    "origin": "HIO",
+    "callsign": "CL60",
+    "aircraftType": "Chal",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-19T02:02:49.839Z"
+    "firstSeen": "2026-02-05T16:51:03.044Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6311,
-      -122.5142
-    ],
-    [
-      45.6274,
-      -122.5163
-    ],
-    [
-      45.6245,
-      -122.5178
-    ],
-    [
-      45.6208,
-      -122.5197
-    ],
-    [
-      45.617,
-      -122.5223
-    ],
-    [
-      45.6142,
-      -122.5248
+      45.6202,
+      -122.5289
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-19T19:05:25.569Z"
+  "timestamp": "2026-03-19T20:42:22.614Z"
 }
