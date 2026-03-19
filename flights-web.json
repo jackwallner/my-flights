@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.39,
+    "distance": 0.35,
     "altitude": 3900,
-    "speed": 87,
-    "timestamp": "2026-03-19T02:03:00.131Z",
-    "lat": 45.6244,
-    "lon": -122.519,
-    "precision": "tracked"
+    "speed": 88,
+    "timestamp": "2026-03-19T02:03:10.425Z",
+    "lat": 45.6208,
+    "lon": -122.5227,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N614FA",
@@ -15,9 +15,9 @@
     "destination": "HIO",
     "firstSeen": "2026-03-19T02:02:49.839Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6278,
@@ -26,8 +26,20 @@
     [
       45.6244,
       -122.519
+    ],
+    [
+      45.6208,
+      -122.5227
+    ],
+    [
+      45.6172,
+      -122.5265
+    ],
+    [
+      45.6141,
+      -122.5296
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-19T02:03:00.131Z"
+  "status": "completed",
+  "timestamp": "2026-03-19T02:03:41.318Z"
 }
