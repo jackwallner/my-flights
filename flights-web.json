@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 43000,
-    "speed": 432,
-    "timestamp": "2026-03-19T21:28:11.967Z",
-    "lat": 45.6241,
-    "lon": -122.5439,
-    "precision": "tracked"
+    "distance": 0.18,
+    "altitude": 2400,
+    "speed": 82,
+    "timestamp": "2026-03-19T22:13:32.404Z",
+    "lat": 45.6233,
+    "lon": -122.5313,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "EJA956",
-    "aircraftType": "C68A",
-    "origin": "OXR",
-    "destination": "BFI",
-    "firstSeen": "2026-03-19T21:28:11.963Z"
+    "callsign": "N928H",
+    "aircraftType": "C172",
+    "origin": "CVO",
+    "destination": null,
+    "firstSeen": "2026-03-19T22:13:11.860Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6241,
-      -122.5439
+      45.6265,
+      -122.5412
+    ],
+    [
+      45.6251,
+      -122.5365
+    ],
+    [
+      45.6233,
+      -122.5313
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-19T21:28:32.529Z"
+  "status": "tracking",
+  "timestamp": "2026-03-19T22:13:32.404Z"
 }

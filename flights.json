@@ -11480,5 +11480,24 @@
     "initialDistance": 0.6667234828736661,
     "initialAltitude": 43000,
     "initialSpeed": 432
+  },
+  {
+    "callsign": "N928H",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "CVO",
+    "destination": null,
+    "icao": "ACDC91",
+    "registration": "N928H",
+    "firstSeen": "2026-03-19T22:13:11.860Z",
+    "lastSeen": "2026-03-19T22:13:32.401Z",
+    "duration": 21,
+    "closestDistance": 0.17905820928124244,
+    "closestAltitude": 2400,
+    "closestSpeed": 82,
+    "initialDistance": 0.554418726676269,
+    "initialAltitude": 2200,
+    "initialSpeed": 88
   }
 ]
