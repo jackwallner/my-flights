@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 43000,
-    "speed": 421,
-    "timestamp": "2026-03-19T00:56:55.724Z",
-    "lat": 45.6237,
-    "lon": -122.5243,
+    "distance": 0.39,
+    "altitude": 3900,
+    "speed": 87,
+    "timestamp": "2026-03-19T02:03:00.131Z",
+    "lat": 45.6244,
+    "lon": -122.519,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N838LJ",
-    "aircraftType": "Cita",
-    "origin": "QSU",
-    "destination": "BFI",
-    "firstSeen": "2026-02-02T21:17:01.290Z"
+    "callsign": "N614FA",
+    "aircraftType": "C172",
+    "origin": "DLS",
+    "destination": "HIO",
+    "firstSeen": "2026-03-19T02:02:49.839Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6237,
-      -122.5243
+      45.6278,
+      -122.5155
+    ],
+    [
+      45.6244,
+      -122.519
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-19T00:57:16.284Z"
+  "status": "tracking",
+  "timestamp": "2026-03-19T02:03:00.131Z"
 }
