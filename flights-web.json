@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 34000,
-    "speed": 397,
-    "timestamp": "2026-03-19T17:39:26.963Z",
-    "lat": 45.6316,
-    "lon": -122.5395,
-    "precision": "tracked"
+    "distance": 0.47,
+    "altitude": 1750,
+    "speed": 135,
+    "timestamp": "2026-03-19T18:34:22.973Z",
+    "lat": 45.6231,
+    "lon": -122.5388,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW3345",
-    "aircraftType": "E175",
-    "origin": "FAT",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T18:15:50.955Z"
+    "callsign": "N473TW",
+    "aircraftType": "Cara",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-03-16T23:19:19.312Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6316,
-      -122.5395
+      45.6176,
+      -122.5398
+    ],
+    [
+      45.6231,
+      -122.5388
+    ],
+    [
+      45.6282,
+      -122.5427
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-19T17:39:47.556Z"
+  "timestamp": "2026-03-19T18:34:43.567Z"
 }
