@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 3350,
-    "speed": 91,
-    "timestamp": "2026-03-19T14:57:59.009Z",
-    "lat": 45.6223,
-    "lon": -122.5376,
-    "precision": "tracked"
+    "distance": 0.15,
+    "altitude": 3575,
+    "speed": 90,
+    "timestamp": "2026-03-19T14:58:19.535Z",
+    "lat": 45.6231,
+    "lon": -122.5263,
+    "precision": "high"
   },
   "flight": {
     "callsign": "GFY1193",
@@ -15,15 +15,31 @@
     "destination": null,
     "firstSeen": "2026-03-19T14:57:59.005Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6223,
       -122.5376
+    ],
+    [
+      45.6226,
+      -122.5318
+    ],
+    [
+      45.6231,
+      -122.5263
+    ],
+    [
+      45.6236,
+      -122.5199
+    ],
+    [
+      45.6242,
+      -122.5135
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-19T14:57:59.010Z"
+  "status": "completed",
+  "timestamp": "2026-03-19T14:58:50.348Z"
 }
