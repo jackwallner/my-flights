@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 2100,
-    "speed": 117,
-    "timestamp": "2026-03-19T23:25:47.355Z",
-    "lat": 45.626,
-    "lon": -122.5414,
-    "precision": "tracked"
+    "distance": 0.23,
+    "altitude": 2000,
+    "speed": 116,
+    "timestamp": "2026-03-19T23:26:07.927Z",
+    "lat": 45.628,
+    "lon": -122.5243,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N504PC",
@@ -15,15 +15,27 @@
     "destination": null,
     "firstSeen": "2026-02-11T23:24:34.726Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.626,
       -122.5414
+    ],
+    [
+      45.627,
+      -122.5332
+    ],
+    [
+      45.628,
+      -122.5243
+    ],
+    [
+      45.6287,
+      -122.5175
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-19T23:25:47.355Z"
+  "status": "completed",
+  "timestamp": "2026-03-19T23:26:28.461Z"
 }
