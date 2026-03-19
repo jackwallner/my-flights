@@ -1,49 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 2400,
-    "speed": 82,
-    "timestamp": "2026-03-19T22:13:32.404Z",
-    "lat": 45.6233,
-    "lon": -122.5313,
-    "precision": "high"
+    "distance": 0.26,
+    "altitude": 36000,
+    "speed": 445,
+    "timestamp": "2026-03-19T22:54:33.562Z",
+    "lat": 45.6262,
+    "lon": -122.5342,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N928H",
-    "aircraftType": "C172",
-    "origin": "CVO",
-    "destination": null,
-    "firstSeen": "2026-03-19T22:13:11.860Z"
+    "callsign": "DAL2905",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-08T23:43:56.165Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6265,
-      -122.5412
-    ],
-    [
-      45.6251,
-      -122.5365
-    ],
-    [
-      45.6233,
-      -122.5313
-    ],
-    [
-      45.6219,
-      -122.5268
-    ],
-    [
-      45.6201,
-      -122.5215
-    ],
-    [
-      45.6183,
-      -122.5163
+      45.6262,
+      -122.5342
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-19T22:14:13.710Z"
+  "timestamp": "2026-03-19T22:54:54.092Z"
 }
