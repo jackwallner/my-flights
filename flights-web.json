@@ -6,7 +6,7 @@
     "timestamp": "2026-03-19T16:02:19.576Z",
     "lat": 45.6279,
     "lon": -122.5426,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N64269",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6311,
@@ -26,8 +26,12 @@
     [
       45.6279,
       -122.5426
+    ],
+    [
+      45.6237,
+      -122.544
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-19T16:02:19.576Z"
+  "status": "completed",
+  "timestamp": "2026-03-19T16:02:40.136Z"
 }
