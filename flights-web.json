@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 2925,
-    "speed": 100,
-    "timestamp": "2026-03-19T23:33:20.611Z",
-    "lat": 45.6207,
-    "lon": -122.5304,
-    "precision": "high"
+    "distance": 0.35,
+    "altitude": 38600,
+    "speed": 497,
+    "timestamp": "2026-03-19T23:56:00.061Z",
+    "lat": 45.6227,
+    "lon": -122.5357,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N2017E",
-    "aircraftType": "C82S",
-    "origin": "PDX",
+    "callsign": "GA7C",
+    "aircraftType": "GA7C",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-13T02:14:36.625Z"
+    "firstSeen": "2026-02-09T19:01:20.748Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6211,
-      -122.5371
-    ],
-    [
-      45.6207,
-      -122.5304
-    ],
-    [
-      45.6205,
-      -122.5229
-    ],
-    [
-      45.6204,
-      -122.5166
+      45.6227,
+      -122.5357
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-19T23:33:51.760Z"
+  "timestamp": "2026-03-19T23:56:20.627Z"
 }
