@@ -1,33 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 36000,
-    "speed": 436,
-    "timestamp": "2026-03-19T22:56:47.381Z",
-    "lat": 45.6158,
-    "lon": -122.531,
-    "precision": "tracked"
+    "distance": 0.33,
+    "altitude": 400,
+    "speed": 71,
+    "timestamp": "2026-03-19T23:10:51.369Z",
+    "lat": 45.6205,
+    "lon": -122.5322,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA585",
-    "aircraftType": "737",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T01:10:45.410Z"
+    "callsign": "N7329A",
+    "aircraftType": "C150",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-03-19T23:10:51.367Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.33,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6158,
-      -122.531
+      45.6205,
+      -122.5322
     ],
     [
-      45.6329,
-      -122.5388
+      45.6205,
+      -122.5322
+    ],
+    [
+      45.6205,
+      -122.5322
+    ],
+    [
+      45.6199,
+      -122.5322
+    ],
+    [
+      45.6246,
+      -122.5195
+    ],
+    [
+      45.6293,
+      -122.5174
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-19T22:57:07.922Z"
+  "status": "tracking",
+  "timestamp": "2026-03-19T23:11:42.836Z"
 }

@@ -11499,5 +11499,24 @@
     "initialDistance": 0.554418726676269,
     "initialAltitude": 2200,
     "initialSpeed": 88
+  },
+  {
+    "callsign": "N7329A",
+    "flightNumber": null,
+    "aircraftType": "C150",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A9D60D",
+    "registration": "N7329A",
+    "firstSeen": "2026-03-19T23:10:51.367Z",
+    "lastSeen": "2026-03-19T23:11:42.833Z",
+    "duration": 51,
+    "closestDistance": 0.334442268987192,
+    "closestAltitude": 400,
+    "closestSpeed": 71,
+    "initialDistance": 0.334442268987192,
+    "initialAltitude": 400,
+    "initialSpeed": 71
   }
 ]
