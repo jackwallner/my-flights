@@ -11461,5 +11461,24 @@
     "initialDistance": 0.43675899860580475,
     "initialAltitude": 3350,
     "initialSpeed": 91
+  },
+  {
+    "callsign": "EJA956",
+    "flightNumber": "EJA956",
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": "OXR",
+    "destination": "BFI",
+    "icao": "AD4C60",
+    "registration": "N956QS",
+    "firstSeen": "2026-03-19T21:28:11.963Z",
+    "lastSeen": "2026-03-19T21:28:11.963Z",
+    "duration": 0,
+    "closestDistance": 0.6667234828736661,
+    "closestAltitude": 43000,
+    "closestSpeed": 432,
+    "initialDistance": 0.6667234828736661,
+    "initialAltitude": 43000,
+    "initialSpeed": 432
   }
 ]
