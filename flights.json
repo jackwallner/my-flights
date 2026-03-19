@@ -11385,5 +11385,24 @@
     "initialDistance": 0.5880686834174174,
     "initialAltitude": 2950,
     "initialSpeed": 91
+  },
+  {
+    "callsign": "N2141R",
+    "flightNumber": null,
+    "aircraftType": "P28A",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A1CAE9",
+    "registration": "N2141R",
+    "firstSeen": "2026-03-19T00:23:15.387Z",
+    "lastSeen": "2026-03-19T00:23:46.208Z",
+    "duration": 31,
+    "closestDistance": 0.37983927653472827,
+    "closestAltitude": 2525,
+    "closestSpeed": 109,
+    "initialDistance": 0.6849702505781682,
+    "initialAltitude": 2450,
+    "initialSpeed": 100
   }
 ]

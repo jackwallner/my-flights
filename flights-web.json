@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 3900,
-    "speed": 192,
-    "timestamp": "2026-03-19T00:22:23.805Z",
-    "lat": 45.6289,
-    "lon": -122.5331,
+    "distance": 0.38,
+    "altitude": 2525,
+    "speed": 109,
+    "timestamp": "2026-03-19T00:23:35.939Z",
+    "lat": 45.619,
+    "lon": -122.5292,
     "precision": "high"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
+    "callsign": "N2141R",
+    "aircraftType": "P28A",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "firstSeen": "2026-03-19T00:23:15.387Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6362,
-      -122.5299
+      45.6217,
+      -122.5436
     ],
     [
-      45.6289,
-      -122.5331
+      45.6205,
+      -122.5366
+    ],
+    [
+      45.619,
+      -122.5292
     ],
     [
       45.6174,
-      -122.5383
+      -122.521
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-19T00:22:44.321Z"
+  "timestamp": "2026-03-19T00:23:56.505Z"
 }
