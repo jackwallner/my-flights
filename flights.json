@@ -11404,5 +11404,24 @@
     "initialDistance": 0.6849702505781682,
     "initialAltitude": 2450,
     "initialSpeed": 100
+  },
+  {
+    "callsign": "N2203M",
+    "flightNumber": null,
+    "aircraftType": "P28A",
+    "aircraftName": null,
+    "origin": "EUG",
+    "destination": null,
+    "icao": "A1E3CE",
+    "registration": "N2203M",
+    "firstSeen": "2026-03-19T00:52:37.726Z",
+    "lastSeen": "2026-03-19T00:52:37.726Z",
+    "duration": 0,
+    "closestDistance": 0.6794641255333865,
+    "closestAltitude": 4850,
+    "closestSpeed": 79,
+    "initialDistance": 0.6794641255333865,
+    "initialAltitude": 4850,
+    "initialSpeed": 79
   }
 ]

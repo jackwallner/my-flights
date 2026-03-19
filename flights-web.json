@@ -1,49 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 1300,
-    "speed": 89,
-    "timestamp": "2026-03-19T00:25:49.928Z",
-    "lat": 45.6276,
-    "lon": -122.5292,
-    "precision": "high"
+    "distance": 0.68,
+    "altitude": 4850,
+    "speed": 79,
+    "timestamp": "2026-03-19T00:52:37.729Z",
+    "lat": 45.62,
+    "lon": -122.5138,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N67601",
-    "aircraftType": "C152",
-    "origin": "PDX",
+    "callsign": "N2203M",
+    "aircraftType": "P28A",
+    "origin": "EUG",
     "destination": null,
-    "firstSeen": "2026-03-16T20:46:25.492Z"
+    "firstSeen": "2026-03-19T00:52:37.726Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.68,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6233,
-      -122.5144
-    ],
-    [
-      45.6256,
-      -122.5191
-    ],
-    [
-      45.6273,
-      -122.5242
-    ],
-    [
-      45.6276,
-      -122.5292
-    ],
-    [
-      45.6272,
-      -122.5372
-    ],
-    [
-      45.6267,
-      -122.5423
+      45.62,
+      -122.5138
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-19T00:26:20.792Z"
+  "status": "tracking",
+  "timestamp": "2026-03-19T00:52:37.729Z"
 }
