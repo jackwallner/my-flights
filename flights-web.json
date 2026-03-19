@@ -1,41 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 2525,
-    "speed": 109,
-    "timestamp": "2026-03-19T00:23:35.939Z",
-    "lat": 45.619,
+    "distance": 0.15,
+    "altitude": 1300,
+    "speed": 89,
+    "timestamp": "2026-03-19T00:25:49.928Z",
+    "lat": 45.6276,
     "lon": -122.5292,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N2141R",
-    "aircraftType": "P28A",
+    "callsign": "N67601",
+    "aircraftType": "C152",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-19T00:23:15.387Z"
+    "firstSeen": "2026-03-16T20:46:25.492Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6217,
-      -122.5436
+      45.6233,
+      -122.5144
     ],
     [
-      45.6205,
-      -122.5366
+      45.6256,
+      -122.5191
     ],
     [
-      45.619,
+      45.6273,
+      -122.5242
+    ],
+    [
+      45.6276,
       -122.5292
     ],
     [
-      45.6174,
-      -122.521
+      45.6272,
+      -122.5372
+    ],
+    [
+      45.6267,
+      -122.5423
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-19T00:23:56.505Z"
+  "timestamp": "2026-03-19T00:26:20.792Z"
 }
