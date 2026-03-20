@@ -11670,5 +11670,24 @@
     "initialDistance": 0.10934829182930575,
     "initialAltitude": 27300,
     "initialSpeed": 451
+  },
+  {
+    "callsign": "N176KL",
+    "flightNumber": null,
+    "aircraftType": "C55B",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": "BFI",
+    "icao": "A13063",
+    "registration": "N176KL",
+    "firstSeen": "2026-03-20T19:27:44.065Z",
+    "lastSeen": "2026-03-20T19:27:44.065Z",
+    "duration": 0,
+    "closestDistance": 0.6318406597913858,
+    "closestAltitude": 4825,
+    "closestSpeed": 257,
+    "initialDistance": 0.6318406597913858,
+    "initialAltitude": 4825,
+    "initialSpeed": 257
   }
 ]

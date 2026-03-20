@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 27300,
-    "speed": 451,
-    "timestamp": "2026-03-20T18:52:44.092Z",
-    "lat": 45.6271,
-    "lon": -122.528,
+    "distance": 0.63,
+    "altitude": 4825,
+    "speed": 257,
+    "timestamp": "2026-03-20T19:27:44.069Z",
+    "lat": 45.6323,
+    "lon": -122.5169,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N931ED",
-    "aircraftType": "LJ31",
-    "origin": "RNO",
-    "destination": "OLM",
-    "firstSeen": "2026-03-20T18:52:44.088Z"
+    "callsign": "N176KL",
+    "aircraftType": "C55B",
+    "origin": "TTD",
+    "destination": "BFI",
+    "firstSeen": "2026-03-20T19:27:44.065Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.63,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6271,
-      -122.528
+      45.6323,
+      -122.5169
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-20T18:53:04.596Z"
+  "timestamp": "2026-03-20T19:28:04.665Z"
 }
