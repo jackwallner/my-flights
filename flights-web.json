@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 36000,
-    "speed": 425,
-    "timestamp": "2026-03-20T05:01:59.625Z",
-    "lat": 45.6299,
-    "lon": -122.5215,
+    "distance": 0.52,
+    "altitude": 1400,
+    "speed": 125,
+    "timestamp": "2026-03-20T06:24:51.934Z",
+    "lat": 45.6171,
+    "lon": -122.5237,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2613",
-    "aircraftType": "A319",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-02-07T05:07:09.115Z"
+    "callsign": "N450LF",
+    "aircraftType": "B407",
+    "origin": "HES",
+    "destination": null,
+    "firstSeen": "2026-03-20T06:24:51.929Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.52,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6299,
-      -122.5215
+      45.6171,
+      -122.5237
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-20T05:02:20.307Z"
+  "status": "tracking",
+  "timestamp": "2026-03-20T06:24:51.934Z"
 }

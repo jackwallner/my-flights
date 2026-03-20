@@ -11575,5 +11575,24 @@
     "initialDistance": 0.14184204614160198,
     "initialAltitude": 36000,
     "initialSpeed": 428
+  },
+  {
+    "callsign": "N450LF",
+    "flightNumber": null,
+    "aircraftType": "B407",
+    "aircraftName": null,
+    "origin": "HES",
+    "destination": null,
+    "icao": "A5731C",
+    "registration": "N450LF",
+    "firstSeen": "2026-03-20T06:24:51.929Z",
+    "lastSeen": "2026-03-20T06:24:51.929Z",
+    "duration": 0,
+    "closestDistance": 0.5249332515068516,
+    "closestAltitude": 1400,
+    "closestSpeed": 125,
+    "initialDistance": 0.5249332515068516,
+    "initialAltitude": 1400,
+    "initialSpeed": 125
   }
 ]
