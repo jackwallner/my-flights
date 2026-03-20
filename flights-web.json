@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 34000,
-    "speed": 401,
-    "timestamp": "2026-03-20T01:43:04.033Z",
-    "lat": 45.6258,
-    "lon": -122.5116,
+    "distance": 0.53,
+    "altitude": 32000,
+    "speed": 419,
+    "timestamp": "2026-03-20T01:44:26.658Z",
+    "lat": 45.6318,
+    "lon": -122.5366,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5624",
+    "callsign": "SKW3505",
     "aircraftType": "E175",
-    "origin": "LAX",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-03-10T01:29:17.143Z"
+    "firstSeen": "2026-03-13T01:30:04.615Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6258,
-      -122.5116
+      45.6318,
+      -122.5366
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-20T01:43:24.556Z"
+  "timestamp": "2026-03-20T01:44:47.221Z"
 }
