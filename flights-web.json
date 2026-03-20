@@ -1,29 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 36000,
-    "speed": 428,
-    "timestamp": "2026-03-20T04:00:07.233Z",
-    "lat": 45.6262,
-    "lon": -122.525,
-    "precision": "tracked"
+    "distance": 0.36,
+    "altitude": 1775,
+    "speed": 98,
+    "timestamp": "2026-03-20T04:14:02.272Z",
+    "lat": 45.6299,
+    "lon": -122.5336,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA594",
-    "aircraftType": "737",
-    "origin": "ONT",
-    "destination": "SEA",
-    "firstSeen": "2026-03-20T04:00:07.230Z"
+    "callsign": "N18586",
+    "aircraftType": "C150",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-06T23:57:53.810Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6262,
-      -122.525
+      45.6245,
+      -122.5429
+    ],
+    [
+      45.6276,
+      -122.538
+    ],
+    [
+      45.6299,
+      -122.5336
+    ],
+    [
+      45.6327,
+      -122.5273
+    ],
+    [
+      45.6347,
+      -122.5215
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-20T04:00:27.765Z"
+  "status": "tracking",
+  "timestamp": "2026-03-20T04:14:22.824Z"
 }
