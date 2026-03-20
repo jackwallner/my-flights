@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.54,
+    "distance": 0.4,
     "altitude": 36000,
-    "speed": 463,
-    "timestamp": "2026-03-20T04:34:09.448Z",
-    "lat": 45.6228,
-    "lon": -122.5404,
+    "speed": 415,
+    "timestamp": "2026-03-20T04:49:17.015Z",
+    "lat": 45.6319,
+    "lon": -122.5275,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA687",
-    "aircraftType": "737",
-    "origin": "SBA",
+    "callsign": "QXE2031",
+    "aircraftType": "E175",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T00:57:47.661Z"
+    "firstSeen": "2026-02-09T05:22:53.058Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.4,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6228,
-      -122.5404
+      45.6319,
+      -122.5275
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-20T04:34:30.189Z"
+  "timestamp": "2026-03-20T04:49:37.586Z"
 }
