@@ -11651,5 +11651,24 @@
     "initialDistance": 0.555309739411568,
     "initialAltitude": 1600,
     "initialSpeed": 137
+  },
+  {
+    "callsign": "N931ED",
+    "flightNumber": null,
+    "aircraftType": "LJ31",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "OLM",
+    "icao": "ACE9C8",
+    "registration": "N931ED",
+    "firstSeen": "2026-03-20T18:52:44.088Z",
+    "lastSeen": "2026-03-20T18:52:44.088Z",
+    "duration": 0,
+    "closestDistance": 0.10934829182930575,
+    "closestAltitude": 27300,
+    "closestSpeed": 451,
+    "initialDistance": 0.10934829182930575,
+    "initialAltitude": 27300,
+    "initialSpeed": 451
   }
 ]
