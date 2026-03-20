@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 2025,
-    "speed": 105,
-    "timestamp": "2026-03-20T01:10:59.373Z",
-    "lat": 45.6224,
-    "lon": -122.5273,
-    "precision": "high"
+    "distance": 0.69,
+    "altitude": 34000,
+    "speed": 401,
+    "timestamp": "2026-03-20T01:43:04.033Z",
+    "lat": 45.6258,
+    "lon": -122.5116,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N2017E",
-    "aircraftType": "C82S",
-    "origin": "DLS",
-    "destination": null,
-    "firstSeen": "2026-02-13T02:14:36.625Z"
+    "callsign": "SKW5624",
+    "aircraftType": "E175",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-03-10T01:29:17.143Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6228,
-      -122.5129
-    ],
-    [
-      45.6226,
-      -122.5201
-    ],
-    [
-      45.6224,
-      -122.5273
-    ],
-    [
-      45.6221,
-      -122.5359
-    ],
-    [
-      45.6214,
-      -122.5416
+      45.6258,
+      -122.5116
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-20T01:11:30.321Z"
+  "timestamp": "2026-03-20T01:43:24.556Z"
 }
