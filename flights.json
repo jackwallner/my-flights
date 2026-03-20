@@ -11594,5 +11594,24 @@
     "initialDistance": 0.5249332515068516,
     "initialAltitude": 1400,
     "initialSpeed": 125
+  },
+  {
+    "callsign": "ASA1406",
+    "flightNumber": "AS1406",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A793B1",
+    "registration": "N588AS",
+    "firstSeen": "2026-03-20T16:23:22.526Z",
+    "lastSeen": "2026-03-20T16:23:22.526Z",
+    "duration": 0,
+    "closestDistance": 0.5626729249977678,
+    "closestAltitude": 34100,
+    "closestSpeed": 426,
+    "initialDistance": 0.5626729249977678,
+    "initialAltitude": 34100,
+    "initialSpeed": 426
   }
 ]
