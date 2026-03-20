@@ -11689,5 +11689,24 @@
     "initialDistance": 0.6318406597913858,
     "initialAltitude": 4825,
     "initialSpeed": 257
+  },
+  {
+    "callsign": "N21178",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A1C0A7",
+    "registration": "N21178",
+    "firstSeen": "2026-03-20T21:29:45.248Z",
+    "lastSeen": "2026-03-20T21:30:05.815Z",
+    "duration": 21,
+    "closestDistance": 0.4578303035878405,
+    "closestAltitude": 1400,
+    "closestSpeed": 121,
+    "initialDistance": 0.5546980638632747,
+    "initialAltitude": 1400,
+    "initialSpeed": 121
   }
 ]
