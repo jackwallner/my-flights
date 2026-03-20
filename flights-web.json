@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 1400,
-    "speed": 129,
-    "timestamp": "2026-03-20T06:25:02.414Z",
-    "lat": 45.6186,
-    "lon": -122.5327,
+    "distance": 0.28,
+    "altitude": 1750,
+    "speed": 184,
+    "timestamp": "2026-03-20T13:51:46.171Z",
+    "lat": 45.6292,
+    "lon": -122.5319,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N450LF",
-    "aircraftType": "B407",
-    "origin": "HES",
-    "destination": null,
-    "firstSeen": "2026-03-20T06:24:51.929Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.28,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6171,
-      -122.5237
+      45.6201,
+      -122.5359
     ],
     [
-      45.6186,
-      -122.5327
+      45.6292,
+      -122.5319
     ],
     [
-      45.62,
-      -122.5414
+      45.6366,
+      -122.5284
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-20T06:25:22.977Z"
+  "timestamp": "2026-03-20T13:52:06.747Z"
 }
