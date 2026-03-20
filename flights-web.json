@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 38000,
-    "speed": 434,
-    "timestamp": "2026-03-20T03:55:39.070Z",
-    "lat": 45.6215,
-    "lon": -122.5208,
+    "distance": 0.14,
+    "altitude": 36000,
+    "speed": 428,
+    "timestamp": "2026-03-20T04:00:07.233Z",
+    "lat": 45.6262,
+    "lon": -122.525,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1571",
-    "aircraftType": "B737",
-    "origin": "PHX",
+    "callsign": "ASA594",
+    "aircraftType": "737",
+    "origin": "ONT",
     "destination": "SEA",
-    "firstSeen": "2026-03-09T04:03:14.068Z"
+    "firstSeen": "2026-03-20T04:00:07.230Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.14,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6215,
-      -122.5208
+      45.6262,
+      -122.525
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-20T03:55:59.687Z"
+  "status": "tracking",
+  "timestamp": "2026-03-20T04:00:07.233Z"
 }

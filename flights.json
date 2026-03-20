@@ -11556,5 +11556,24 @@
     "initialDistance": 0.44876007218824426,
     "initialAltitude": 36150,
     "initialSpeed": 448
+  },
+  {
+    "callsign": "ASA594",
+    "flightNumber": "AS594",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "ONT",
+    "destination": "SEA",
+    "icao": "A622BC",
+    "registration": "N495AS",
+    "firstSeen": "2026-03-20T04:00:07.230Z",
+    "lastSeen": "2026-03-20T04:00:07.230Z",
+    "duration": 0,
+    "closestDistance": 0.14184204614160198,
+    "closestAltitude": 36000,
+    "closestSpeed": 428,
+    "initialDistance": 0.14184204614160198,
+    "initialAltitude": 36000,
+    "initialSpeed": 428
   }
 ]
