@@ -11632,5 +11632,24 @@
     "initialDistance": 0.48868266526351023,
     "initialAltitude": 1850,
     "initialSpeed": 144
+  },
+  {
+    "callsign": "N2453Q",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "QSA",
+    "destination": null,
+    "icao": "A24562",
+    "registration": "N2453Q",
+    "firstSeen": "2026-03-20T18:18:44.382Z",
+    "lastSeen": "2026-03-20T18:19:04.967Z",
+    "duration": 21,
+    "closestDistance": 0.43807376598576797,
+    "closestAltitude": 1500,
+    "closestSpeed": 137,
+    "initialDistance": 0.555309739411568,
+    "initialAltitude": 1600,
+    "initialSpeed": 137
   }
 ]
