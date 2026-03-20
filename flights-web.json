@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 38600,
-    "speed": 497,
-    "timestamp": "2026-03-19T23:56:00.061Z",
-    "lat": 45.6227,
-    "lon": -122.5357,
+    "distance": 0.48,
+    "altitude": 40000,
+    "speed": 442,
+    "timestamp": "2026-03-20T00:48:41.208Z",
+    "lat": 45.6185,
+    "lon": -122.534,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GA7C",
-    "aircraftType": "GA7C",
+    "callsign": "CL60",
+    "aircraftType": "Chal",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-09T19:01:20.748Z"
+    "firstSeen": "2026-02-05T16:51:03.044Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6227,
-      -122.5357
+      45.6185,
+      -122.534
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-19T23:56:20.627Z"
+  "timestamp": "2026-03-20T00:49:02.161Z"
 }
