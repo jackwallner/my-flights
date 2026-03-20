@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.52,
+    "distance": 0.44,
     "altitude": 1400,
-    "speed": 125,
-    "timestamp": "2026-03-20T06:24:51.934Z",
-    "lat": 45.6171,
-    "lon": -122.5237,
-    "precision": "tracked"
+    "speed": 129,
+    "timestamp": "2026-03-20T06:25:02.414Z",
+    "lat": 45.6186,
+    "lon": -122.5327,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N450LF",
@@ -15,15 +15,23 @@
     "destination": null,
     "firstSeen": "2026-03-20T06:24:51.929Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.44,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6171,
       -122.5237
+    ],
+    [
+      45.6186,
+      -122.5327
+    ],
+    [
+      45.62,
+      -122.5414
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-20T06:24:51.934Z"
+  "status": "completed",
+  "timestamp": "2026-03-20T06:25:22.977Z"
 }
