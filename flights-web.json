@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 4825,
-    "speed": 257,
-    "timestamp": "2026-03-20T19:27:44.069Z",
-    "lat": 45.6323,
-    "lon": -122.5169,
+    "distance": 0.43,
+    "altitude": 34000,
+    "speed": 462,
+    "timestamp": "2026-03-20T20:35:12.117Z",
+    "lat": 45.6187,
+    "lon": -122.5242,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N176KL",
-    "aircraftType": "C55B",
-    "origin": "TTD",
-    "destination": "BFI",
-    "firstSeen": "2026-03-20T19:27:44.065Z"
+    "callsign": "ASA629",
+    "aircraftType": "B39M",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T20:26:43.340Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.43,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6323,
-      -122.5169
+      45.6187,
+      -122.5242
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-20T19:28:04.665Z"
+  "timestamp": "2026-03-20T20:35:32.694Z"
 }
