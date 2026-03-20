@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 3800,
-    "speed": 177,
-    "timestamp": "2026-03-20T04:26:15.063Z",
-    "lat": 45.627,
-    "lon": -122.5325,
-    "precision": "high"
+    "distance": 0.54,
+    "altitude": 36000,
+    "speed": 463,
+    "timestamp": "2026-03-20T04:34:09.448Z",
+    "lat": 45.6228,
+    "lon": -122.5404,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "callsign": "ASA687",
+    "aircraftType": "737",
+    "origin": "SBA",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T00:57:47.661Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6339,
-      -122.5294
-    ],
-    [
-      45.627,
-      -122.5325
-    ],
-    [
-      45.617,
-      -122.5374
+      45.6228,
+      -122.5404
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-20T04:26:35.646Z"
+  "timestamp": "2026-03-20T04:34:30.189Z"
 }
