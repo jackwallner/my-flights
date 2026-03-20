@@ -11537,5 +11537,24 @@
     "initialDistance": 0.6905387751632602,
     "initialAltitude": 800,
     "initialSpeed": 152
+  },
+  {
+    "callsign": "ASA1481",
+    "flightNumber": "AS1481",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "STS",
+    "destination": "SEA",
+    "icao": "A6C311",
+    "registration": "N535AS",
+    "firstSeen": "2026-03-20T03:15:58.511Z",
+    "lastSeen": "2026-03-20T03:15:58.511Z",
+    "duration": 0,
+    "closestDistance": 0.44876007218824426,
+    "closestAltitude": 36150,
+    "closestSpeed": 448,
+    "initialDistance": 0.44876007218824426,
+    "initialAltitude": 36150,
+    "initialSpeed": 448
   }
 ]
