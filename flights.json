@@ -3213,8 +3213,8 @@
     "icao": "A4463E",
     "registration": "N3749D",
     "firstSeen": "2026-02-10T03:28:44.778Z",
-    "lastSeen": "2026-03-17T02:59:20.767Z",
-    "duration": 3022236,
+    "lastSeen": "2026-03-20T03:02:12.128Z",
+    "duration": 3281607,
     "closestDistance": 0.298332602762791,
     "closestAltitude": 39650,
     "closestSpeed": 403,
@@ -11518,5 +11518,24 @@
     "initialDistance": 0.334442268987192,
     "initialAltitude": 400,
     "initialSpeed": 71
+  },
+  {
+    "callsign": "N167DR",
+    "flightNumber": null,
+    "aircraftType": "RV7",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A10C0A",
+    "registration": "N167DR",
+    "firstSeen": "2026-03-20T03:01:20.375Z",
+    "lastSeen": "2026-03-20T03:01:30.659Z",
+    "duration": 10,
+    "closestDistance": 0.6434814052226073,
+    "closestAltitude": 750,
+    "closestSpeed": 157,
+    "initialDistance": 0.6905387751632602,
+    "initialAltitude": 800,
+    "initialSpeed": 152
   }
 ]

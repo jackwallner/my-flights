@@ -1,29 +1,29 @@
 {
   "closestApproach": {
     "distance": 0.53,
-    "altitude": 32000,
-    "speed": 419,
-    "timestamp": "2026-03-20T01:44:26.658Z",
-    "lat": 45.6318,
-    "lon": -122.5366,
+    "altitude": 38000,
+    "speed": 435,
+    "timestamp": "2026-03-20T03:02:12.130Z",
+    "lat": 45.6282,
+    "lon": -122.5401,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3505",
-    "aircraftType": "E175",
-    "origin": "SMF",
+    "callsign": "DAL1837",
+    "aircraftType": "737",
+    "origin": "SJD",
     "destination": "SEA",
-    "firstSeen": "2026-03-13T01:30:04.615Z"
+    "firstSeen": "2026-02-10T03:28:44.778Z"
   },
   "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6318,
-      -122.5366
+      45.6282,
+      -122.5401
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-20T01:44:47.221Z"
+  "status": "tracking",
+  "timestamp": "2026-03-20T03:02:12.130Z"
 }
