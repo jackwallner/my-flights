@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 34100,
-    "speed": 426,
-    "timestamp": "2026-03-20T16:23:22.531Z",
-    "lat": 45.6167,
-    "lon": -122.5335,
+    "distance": 0.29,
+    "altitude": 36000,
+    "speed": 335,
+    "timestamp": "2026-03-20T18:07:23.183Z",
+    "lat": 45.6253,
+    "lon": -122.5213,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1406",
-    "aircraftType": "737",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-03-20T16:23:22.526Z"
+    "callsign": "CL60",
+    "aircraftType": "Chal",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-05T16:51:03.044Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6167,
-      -122.5335
+      45.6253,
+      -122.5213
+    ],
+    [
+      45.6168,
+      -122.5341
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-20T16:23:43.063Z"
+  "timestamp": "2026-03-20T18:07:43.845Z"
 }
