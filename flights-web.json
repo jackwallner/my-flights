@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 1400,
-    "speed": 121,
-    "timestamp": "2026-03-20T21:29:55.529Z",
-    "lat": 45.6183,
-    "lon": -122.5325,
+    "distance": 0.18,
+    "altitude": 1825,
+    "speed": 178,
+    "timestamp": "2026-03-20T21:42:57.452Z",
+    "lat": 45.6223,
+    "lon": -122.5278,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N21178",
-    "aircraftType": "C182",
-    "origin": "TTD",
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-20T21:29:45.248Z"
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.18,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6214,
-      -122.5401
+      45.6149,
+      -122.5333
     ],
     [
-      45.6183,
-      -122.5325
+      45.6223,
+      -122.5278
     ],
     [
-      45.6161,
-      -122.5265
+      45.6303,
+      -122.5217
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-20T21:30:16.086Z"
+  "timestamp": "2026-03-20T21:43:17.990Z"
 }
