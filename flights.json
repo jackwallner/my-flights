@@ -11613,5 +11613,24 @@
     "initialDistance": 0.5626729249977678,
     "initialAltitude": 34100,
     "initialSpeed": 426
+  },
+  {
+    "callsign": "N47NG",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "QNH",
+    "icao": "A5BFF4",
+    "registration": "N47NG",
+    "firstSeen": "2026-03-20T18:15:17.904Z",
+    "lastSeen": "2026-03-20T18:15:38.496Z",
+    "duration": 21,
+    "closestDistance": 0.4019136125457402,
+    "closestAltitude": 2150,
+    "closestSpeed": 144,
+    "initialDistance": 0.48868266526351023,
+    "initialAltitude": 1850,
+    "initialSpeed": 144
   }
 ]
