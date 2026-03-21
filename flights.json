@@ -11765,5 +11765,24 @@
     "initialDistance": 0.6172596804460884,
     "initialAltitude": 2500,
     "initialSpeed": 133
+  },
+  {
+    "callsign": "N78MD",
+    "flightNumber": null,
+    "aircraftType": "C55B",
+    "aircraftName": null,
+    "origin": "CLD",
+    "destination": "BFI",
+    "icao": "AA8F44",
+    "registration": "N78MD",
+    "firstSeen": "2026-03-21T20:19:26.121Z",
+    "lastSeen": "2026-03-21T20:19:26.121Z",
+    "duration": 0,
+    "closestDistance": 0.6341342451214085,
+    "closestAltitude": 38300,
+    "closestSpeed": 391,
+    "initialDistance": 0.6341342451214085,
+    "initialAltitude": 38300,
+    "initialSpeed": 391
   }
 ]

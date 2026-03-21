@@ -1,33 +1,29 @@
 {
   "closestApproach": {
     "distance": 0.63,
-    "altitude": 33150,
-    "speed": 452,
-    "timestamp": "2026-03-21T19:40:18.325Z",
-    "lat": 45.6357,
-    "lon": -122.527,
+    "altitude": 38300,
+    "speed": 391,
+    "timestamp": "2026-03-21T20:19:26.124Z",
+    "lat": 45.6303,
+    "lon": -122.5414,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1378",
-    "aircraftType": "737 ",
-    "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T20:29:04.153Z"
+    "callsign": "N78MD",
+    "aircraftType": "C55B",
+    "origin": "CLD",
+    "destination": "BFI",
+    "firstSeen": "2026-03-21T20:19:26.121Z"
   },
   "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6181,
-      -122.5168
-    ],
-    [
-      45.6357,
-      -122.527
+      45.6303,
+      -122.5414
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-21T19:40:28.611Z"
+  "timestamp": "2026-03-21T20:19:46.688Z"
 }
