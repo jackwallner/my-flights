@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 31575,
-    "speed": 413,
-    "timestamp": "2026-03-21T18:41:18.314Z",
-    "lat": 45.6173,
-    "lon": -122.5255,
+    "distance": 0.63,
+    "altitude": 33150,
+    "speed": 452,
+    "timestamp": "2026-03-21T19:40:18.325Z",
+    "lat": 45.6357,
+    "lon": -122.527,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4788",
-    "aircraftType": "E175",
-    "origin": "LAX",
+    "callsign": "ASA1378",
+    "aircraftType": "737 ",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-03-07T20:01:42.315Z"
+    "firstSeen": "2026-02-09T20:29:04.153Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6173,
-      -122.5255
+      45.6181,
+      -122.5168
+    ],
+    [
+      45.6357,
+      -122.527
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-21T18:41:38.841Z"
+  "timestamp": "2026-03-21T19:40:28.611Z"
 }
