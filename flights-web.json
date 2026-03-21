@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 1225,
-    "speed": 128,
-    "timestamp": "2026-03-21T16:16:44.876Z",
-    "lat": 45.6308,
-    "lon": -122.5313,
-    "precision": "high"
+    "distance": 0.33,
+    "altitude": 33975,
+    "speed": 463,
+    "timestamp": "2026-03-21T17:11:47.681Z",
+    "lat": 45.6198,
+    "lon": -122.5272,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N255DS",
-    "aircraftType": "Cher",
-    "origin": "AST",
-    "destination": null,
-    "firstSeen": "2026-03-21T16:14:30.844Z"
+    "callsign": "N7670B",
+    "aircraftType": "CL30",
+    "origin": "TRM",
+    "destination": "BFI",
+    "firstSeen": "2026-02-01T22:26:54.845Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.33,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6319,
-      -122.5226
-    ],
-    [
-      45.6308,
-      -122.5313
-    ],
-    [
-      45.6297,
-      -122.5407
+      45.6198,
+      -122.5272
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-21T16:17:05.439Z"
+  "timestamp": "2026-03-21T17:12:08.261Z"
 }
