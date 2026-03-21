@@ -11746,5 +11746,24 @@
     "initialDistance": 0.6878600101922699,
     "initialAltitude": 1100,
     "initialSpeed": 135
+  },
+  {
+    "callsign": "N920T",
+    "flightNumber": null,
+    "aircraftType": "BE33",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "ACBFD3",
+    "registration": "N920T",
+    "firstSeen": "2026-03-21T18:00:28.156Z",
+    "lastSeen": "2026-03-21T18:00:28.156Z",
+    "duration": 0,
+    "closestDistance": 0.6172596804460884,
+    "closestAltitude": 2500,
+    "closestSpeed": 133,
+    "initialDistance": 0.6172596804460884,
+    "initialAltitude": 2500,
+    "initialSpeed": 133
   }
 ]
