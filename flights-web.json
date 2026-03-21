@@ -1,41 +1,53 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 1900,
-    "speed": 122,
-    "timestamp": "2026-03-21T21:39:51.136Z",
-    "lat": 45.6314,
-    "lon": -122.5311,
+    "distance": 0.11,
+    "altitude": 325,
+    "speed": 68,
+    "timestamp": "2026-03-21T23:15:48.752Z",
+    "lat": 45.6237,
+    "lon": -122.5268,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N231HF",
-    "aircraftType": "M20T",
-    "origin": "PDX",
+    "callsign": "N8212B",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-21T21:39:40.862Z"
+    "firstSeen": "2026-03-21T23:15:07.616Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 7,
   "trail": [
     [
-      45.6319,
-      -122.5403
+      45.6336,
+      -122.5307
     ],
     [
-      45.6314,
-      -122.5311
+      45.6237,
+      -122.5313
     ],
     [
-      45.631,
-      -122.5235
+      45.6221,
+      -122.5274
     ],
     [
-      45.6305,
-      -122.5149
+      45.6237,
+      -122.5268
+    ],
+    [
+      45.6275,
+      -122.5268
+    ],
+    [
+      45.6307,
+      -122.5229
+    ],
+    [
+      45.6329,
+      -122.5183
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-21T21:40:21.968Z"
+  "timestamp": "2026-03-21T23:16:29.858Z"
 }

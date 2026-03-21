@@ -11803,5 +11803,24 @@
     "initialDistance": 0.6479549684399475,
     "initialAltitude": 1750,
     "initialSpeed": 122
+  },
+  {
+    "callsign": "N8212B",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "AB3732",
+    "registration": "N8212B",
+    "firstSeen": "2026-03-21T23:15:07.616Z",
+    "lastSeen": "2026-03-21T23:16:19.587Z",
+    "duration": 72,
+    "closestDistance": 0.1097157702838641,
+    "closestAltitude": 325,
+    "closestSpeed": 68,
+    "initialDistance": 0.511195554334391,
+    "initialAltitude": 175,
+    "initialSpeed": 92
   }
 ]
