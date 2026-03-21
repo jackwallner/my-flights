@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 33975,
-    "speed": 463,
-    "timestamp": "2026-03-21T17:11:47.681Z",
-    "lat": 45.6198,
-    "lon": -122.5272,
+    "distance": 0.54,
+    "altitude": 31075,
+    "speed": 428,
+    "timestamp": "2026-03-21T17:13:40.872Z",
+    "lat": 45.6317,
+    "lon": -122.5371,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7670B",
-    "aircraftType": "CL30",
-    "origin": "TRM",
-    "destination": "BFI",
-    "firstSeen": "2026-02-01T22:26:54.845Z"
+    "callsign": "ASA527",
+    "aircraftType": "B39M",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-03-08T00:19:25.772Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.54,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6198,
-      -122.5272
+      45.6317,
+      -122.5371
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-21T17:12:08.261Z"
+  "timestamp": "2026-03-21T17:14:01.430Z"
 }
