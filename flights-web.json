@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 38300,
-    "speed": 391,
-    "timestamp": "2026-03-21T20:19:26.124Z",
-    "lat": 45.6303,
-    "lon": -122.5414,
+    "distance": 0.42,
+    "altitude": 18000,
+    "speed": 370,
+    "timestamp": "2026-03-21T21:23:34.082Z",
+    "lat": 45.6184,
+    "lon": -122.53,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N78MD",
-    "aircraftType": "C55B",
-    "origin": "CLD",
-    "destination": "BFI",
-    "firstSeen": "2026-03-21T20:19:26.121Z"
+    "callsign": "C68A",
+    "aircraftType": "C68A",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T19:20:04.771Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.42,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6303,
-      -122.5414
+      45.6184,
+      -122.53
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-21T20:19:46.688Z"
+  "timestamp": "2026-03-21T21:23:54.815Z"
 }
