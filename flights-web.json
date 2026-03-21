@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 1100,
-    "speed": 140,
-    "timestamp": "2026-03-21T16:14:41.139Z",
-    "lat": 45.6214,
-    "lon": -122.5155,
-    "precision": "tracked"
+    "distance": 0.36,
+    "altitude": 1225,
+    "speed": 128,
+    "timestamp": "2026-03-21T16:16:44.876Z",
+    "lat": 45.6308,
+    "lon": -122.5313,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N255DS",
@@ -15,19 +15,23 @@
     "destination": null,
     "firstSeen": "2026-03-21T16:14:30.844Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6311,
-      -122.514
+      45.6319,
+      -122.5226
     ],
     [
-      45.6214,
-      -122.5155
+      45.6308,
+      -122.5313
+    ],
+    [
+      45.6297,
+      -122.5407
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-21T16:14:51.411Z"
+  "timestamp": "2026-03-21T16:17:05.439Z"
 }
