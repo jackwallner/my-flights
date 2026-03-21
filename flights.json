@@ -11727,5 +11727,24 @@
     "initialDistance": 0.6901170686171803,
     "initialAltitude": 1625,
     "initialSpeed": 88
+  },
+  {
+    "callsign": "N255DS",
+    "flightNumber": null,
+    "aircraftType": "PA32",
+    "aircraftName": null,
+    "origin": "AST",
+    "destination": null,
+    "icao": "A26A6D",
+    "registration": "N255DS",
+    "firstSeen": "2026-03-21T16:14:30.844Z",
+    "lastSeen": "2026-03-21T16:14:41.137Z",
+    "duration": 10,
+    "closestDistance": 0.5785565783946833,
+    "closestAltitude": 1100,
+    "closestSpeed": 140,
+    "initialDistance": 0.6878600101922699,
+    "initialAltitude": 1100,
+    "initialSpeed": 135
   }
 ]
