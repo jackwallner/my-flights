@@ -11708,5 +11708,24 @@
     "initialDistance": 0.5546980638632747,
     "initialAltitude": 1400,
     "initialSpeed": 121
+  },
+  {
+    "callsign": "N922DD",
+    "flightNumber": null,
+    "aircraftType": "R22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "ACC5E7",
+    "registration": "N922DD",
+    "firstSeen": "2026-03-21T15:31:18.144Z",
+    "lastSeen": "2026-03-21T15:31:38.722Z",
+    "duration": 21,
+    "closestDistance": 0.6421118309038099,
+    "closestAltitude": 1575,
+    "closestSpeed": 87,
+    "initialDistance": 0.6901170686171803,
+    "initialAltitude": 1625,
+    "initialSpeed": 88
   }
 ]
