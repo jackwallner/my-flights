@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 18000,
-    "speed": 370,
-    "timestamp": "2026-03-21T21:23:34.082Z",
-    "lat": 45.6184,
-    "lon": -122.53,
-    "precision": "tracked"
+    "distance": 0.39,
+    "altitude": 1900,
+    "speed": 122,
+    "timestamp": "2026-03-21T21:39:51.136Z",
+    "lat": 45.6314,
+    "lon": -122.5311,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "C68A",
-    "aircraftType": "C68A",
-    "origin": null,
+    "callsign": "N231HF",
+    "aircraftType": "M20T",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-09T19:20:04.771Z"
+    "firstSeen": "2026-03-21T21:39:40.862Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6184,
-      -122.53
+      45.6319,
+      -122.5403
+    ],
+    [
+      45.6314,
+      -122.5311
+    ],
+    [
+      45.631,
+      -122.5235
+    ],
+    [
+      45.6305,
+      -122.5149
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-21T21:23:54.815Z"
+  "timestamp": "2026-03-21T21:40:21.968Z"
 }

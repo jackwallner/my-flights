@@ -11784,5 +11784,24 @@
     "initialDistance": 0.6341342451214085,
     "initialAltitude": 38300,
     "initialSpeed": 391
+  },
+  {
+    "callsign": "N231HF",
+    "flightNumber": null,
+    "aircraftType": "M20T",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A20CEC",
+    "registration": "N231HF",
+    "firstSeen": "2026-03-21T21:39:40.862Z",
+    "lastSeen": "2026-03-21T21:40:11.668Z",
+    "duration": 31,
+    "closestDistance": 0.3882544809369951,
+    "closestAltitude": 1900,
+    "closestSpeed": 122,
+    "initialDistance": 0.6479549684399475,
+    "initialAltitude": 1750,
+    "initialSpeed": 122
   }
 ]
