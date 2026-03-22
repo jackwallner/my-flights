@@ -1,37 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 10325,
-    "speed": 159,
-    "timestamp": "2026-03-22T19:32:18.862Z",
-    "lat": 45.6216,
-    "lon": -122.5242,
-    "precision": "high"
+    "distance": 0.6,
+    "altitude": 13600,
+    "speed": 147,
+    "timestamp": "2026-03-22T21:07:58.822Z",
+    "lat": 45.6349,
+    "lon": -122.5321,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N592GC",
-    "aircraftType": "C340",
-    "origin": "RLD",
+    "callsign": "N1791E",
+    "aircraftType": "C310",
+    "origin": "OLM",
     "destination": null,
-    "firstSeen": "2026-03-22T19:32:08.561Z"
+    "firstSeen": "2026-03-22T21:07:48.538Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.6,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6233,
-      -122.5143
+      45.6348,
+      -122.5214
     ],
     [
-      45.6216,
-      -122.5242
-    ],
-    [
-      45.6198,
-      -122.5353
+      45.6349,
+      -122.5321
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-22T19:32:39.463Z"
+  "timestamp": "2026-03-22T21:08:09.094Z"
 }

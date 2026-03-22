@@ -11879,5 +11879,24 @@
     "initialDistance": 0.5920151310087803,
     "initialAltitude": 10325,
     "initialSpeed": 158
+  },
+  {
+    "callsign": "N1791E",
+    "flightNumber": null,
+    "aircraftType": "C310",
+    "aircraftName": null,
+    "origin": "OLM",
+    "destination": null,
+    "icao": "A13D1C",
+    "registration": "N1791E",
+    "firstSeen": "2026-03-22T21:07:48.538Z",
+    "lastSeen": "2026-03-22T21:07:58.819Z",
+    "duration": 10,
+    "closestDistance": 0.6013481435843099,
+    "closestAltitude": 13600,
+    "closestSpeed": 147,
+    "initialDistance": 0.6372501110337568,
+    "initialAltitude": 13600,
+    "initialSpeed": 148
   }
 ]
