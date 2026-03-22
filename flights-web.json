@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 5100,
-    "speed": 91,
-    "timestamp": "2026-03-22T01:37:55.332Z",
-    "lat": 45.6196,
-    "lon": -122.523,
-    "precision": "high"
+    "distance": 0.5,
+    "altitude": 1950,
+    "speed": 93,
+    "timestamp": "2026-03-22T03:39:23.143Z",
+    "lat": 45.617,
+    "lon": -122.5272,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N560PC",
-    "aircraftType": "C152",
-    "origin": "RDM",
+    "callsign": "N18586",
+    "aircraftType": "C150",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-22T01:37:45.055Z"
+    "firstSeen": "2026-02-06T23:57:53.810Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6217,
-      -122.5171
+      45.615,
+      -122.5317
     ],
     [
-      45.6196,
-      -122.523
-    ],
-    [
-      45.6173,
-      -122.5291
-    ],
-    [
-      45.6157,
-      -122.5337
+      45.617,
+      -122.5272
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-22T01:38:26.204Z"
+  "status": "tracking",
+  "timestamp": "2026-03-22T03:39:23.143Z"
 }
