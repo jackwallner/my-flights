@@ -11841,5 +11841,24 @@
     "initialDistance": 0.5099148660004216,
     "initialAltitude": 5200,
     "initialSpeed": 90
+  },
+  {
+    "callsign": "EJA832",
+    "flightNumber": "EJA832",
+    "aircraftType": "C700",
+    "aircraftName": null,
+    "origin": "FAT",
+    "destination": "BFI",
+    "icao": "AB6137",
+    "registration": "N832QS",
+    "firstSeen": "2026-03-22T15:39:21.320Z",
+    "lastSeen": "2026-03-22T15:39:21.320Z",
+    "duration": 0,
+    "closestDistance": 0.6159829613027639,
+    "closestAltitude": 42725,
+    "closestSpeed": 445,
+    "initialDistance": 0.6159829613027639,
+    "initialAltitude": 42725,
+    "initialSpeed": 445
   }
 ]

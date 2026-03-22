@@ -1,49 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 2500,
-    "speed": 90,
-    "timestamp": "2026-03-22T15:26:39.688Z",
-    "lat": 45.6273,
-    "lon": -122.5291,
-    "precision": "high"
+    "distance": 0.62,
+    "altitude": 42725,
+    "speed": 445,
+    "timestamp": "2026-03-22T15:39:21.323Z",
+    "lat": 45.6242,
+    "lon": -122.5427,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5107H",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T23:58:25.954Z"
+    "callsign": "EJA832",
+    "aircraftType": "Cita",
+    "origin": "FAT",
+    "destination": "BFI",
+    "firstSeen": "2026-03-22T15:39:21.320Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.62,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6344,
-      -122.5221
-    ],
-    [
-      45.631,
-      -122.5256
-    ],
-    [
-      45.6273,
-      -122.5291
-    ],
-    [
-      45.6234,
-      -122.5328
-    ],
-    [
-      45.6205,
-      -122.5355
-    ],
-    [
-      45.6167,
-      -122.539
+      45.6242,
+      -122.5427
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-22T15:27:21.092Z"
+  "timestamp": "2026-03-22T15:39:41.856Z"
 }
