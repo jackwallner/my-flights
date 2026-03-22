@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 2175,
-    "speed": 108,
-    "timestamp": "2026-03-22T22:49:10.626Z",
-    "lat": 45.6287,
+    "distance": 0.2,
+    "altitude": 1725,
+    "speed": 112,
+    "timestamp": "2026-03-22T23:46:10.100Z",
+    "lat": 45.6286,
     "lon": -122.5282,
     "precision": "high"
   },
   "flight": {
-    "callsign": "CAP4661",
+    "callsign": "N6758H",
     "aircraftType": "C172",
-    "origin": null,
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-22T22:48:49.862Z"
+    "firstSeen": "2026-01-31T19:49:55.976Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6279,
-      -122.5135
+      45.6304,
+      -122.5359
     ],
     [
-      45.6282,
-      -122.5211
-    ],
-    [
-      45.6287,
+      45.6286,
       -122.5282
     ],
     [
-      45.6294,
-      -122.5357
+      45.6267,
+      -122.5201
     ],
     [
-      45.6301,
-      -122.5421
+      45.6252,
+      -122.5141
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-22T22:49:41.547Z"
+  "timestamp": "2026-03-22T23:46:41.038Z"
 }
