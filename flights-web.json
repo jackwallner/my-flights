@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 42725,
-    "speed": 445,
-    "timestamp": "2026-03-22T15:39:21.323Z",
-    "lat": 45.6242,
-    "lon": -122.5427,
-    "precision": "tracked"
+    "distance": 0.51,
+    "altitude": 3400,
+    "speed": 124,
+    "timestamp": "2026-03-22T15:44:39.900Z",
+    "lat": 45.6313,
+    "lon": -122.5197,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "EJA832",
-    "aircraftType": "Cita",
-    "origin": "FAT",
-    "destination": "BFI",
-    "firstSeen": "2026-03-22T15:39:21.320Z"
+    "callsign": "N210DM",
+    "aircraftType": "T210",
+    "origin": "TTD",
+    "destination": "KLS",
+    "firstSeen": "2026-03-14T21:59:56.748Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6242,
-      -122.5427
+      45.626,
+      -122.5151
+    ],
+    [
+      45.6313,
+      -122.5197
+    ],
+    [
+      45.6362,
+      -122.5236
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-22T15:39:41.856Z"
+  "timestamp": "2026-03-22T15:45:00.443Z"
 }
