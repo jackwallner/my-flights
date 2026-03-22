@@ -11822,5 +11822,24 @@
     "initialDistance": 0.511195554334391,
     "initialAltitude": 175,
     "initialSpeed": 92
+  },
+  {
+    "callsign": "N560PC",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": null,
+    "icao": "A72832",
+    "registration": "N560PC",
+    "firstSeen": "2026-03-22T01:37:45.055Z",
+    "lastSeen": "2026-03-22T01:38:15.915Z",
+    "duration": 31,
+    "closestDistance": 0.4029787514991765,
+    "closestAltitude": 5100,
+    "closestSpeed": 91,
+    "initialDistance": 0.5099148660004216,
+    "initialAltitude": 5200,
+    "initialSpeed": 90
   }
 ]
