@@ -11860,5 +11860,24 @@
     "initialDistance": 0.6159829613027639,
     "initialAltitude": 42725,
     "initialSpeed": 445
+  },
+  {
+    "callsign": "N592GC",
+    "flightNumber": null,
+    "aircraftType": "C340",
+    "aircraftName": null,
+    "origin": "RLD",
+    "destination": null,
+    "icao": "A7A56E",
+    "registration": "N592GC",
+    "firstSeen": "2026-03-22T19:32:08.561Z",
+    "lastSeen": "2026-03-22T19:32:29.147Z",
+    "duration": 21,
+    "closestDistance": 0.27533442592990787,
+    "closestAltitude": 10325,
+    "closestSpeed": 159,
+    "initialDistance": 0.5920151310087803,
+    "initialAltitude": 10325,
+    "initialSpeed": 158
   }
 ]
