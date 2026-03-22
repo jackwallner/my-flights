@@ -1,57 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 400,
-    "speed": 72,
-    "timestamp": "2026-03-22T18:35:19.695Z",
-    "lat": 45.6281,
-    "lon": -122.5394,
-    "precision": "high"
+    "distance": 0.66,
+    "altitude": 1750,
+    "speed": 120,
+    "timestamp": "2026-03-22T19:28:01.061Z",
+    "lat": 45.6185,
+    "lon": -122.5406,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N519F",
-    "aircraftType": "CH7B",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "BFI",
+    "destination": "PDX",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 8,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6358,
-      -122.5236
+      45.6185,
+      -122.5406
     ],
     [
-      45.6352,
-      -122.529
-    ],
-    [
-      45.6343,
-      -122.5343
-    ],
-    [
-      45.6316,
-      -122.5377
-    ],
-    [
-      45.6281,
-      -122.5394
-    ],
-    [
-      45.6248,
-      -122.5402
-    ],
-    [
-      45.6217,
-      -122.5408
-    ],
-    [
-      45.6192,
-      -122.5388
+      45.6148,
+      -122.5344
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-22T18:36:00.837Z"
+  "timestamp": "2026-03-22T19:28:21.601Z"
 }
