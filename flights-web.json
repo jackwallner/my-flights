@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 13600,
-    "speed": 199,
-    "timestamp": "2026-03-22T21:27:50.751Z",
-    "lat": 45.6231,
-    "lon": -122.5258,
-    "precision": "high"
+    "distance": 0.69,
+    "altitude": 30000,
+    "speed": 329,
+    "timestamp": "2026-03-22T22:16:55.848Z",
+    "lat": 45.623,
+    "lon": -122.5119,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N1791E",
-    "aircraftType": "C310",
-    "origin": "OLM",
-    "destination": null,
-    "firstSeen": "2026-03-22T21:07:48.538Z"
+    "callsign": "SKW5873",
+    "aircraftType": "E175",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-03-05T23:17:15.838Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6231,
-      -122.5402
-    ],
-    [
-      45.6231,
-      -122.5258
-    ],
-    [
       45.623,
-      -122.5149
+      -122.5119
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-22T21:28:11.322Z"
+  "status": "tracking",
+  "timestamp": "2026-03-22T22:16:55.848Z"
 }
