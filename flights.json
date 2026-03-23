@@ -12031,5 +12031,24 @@
     "initialDistance": 0.6738171579814156,
     "initialAltitude": 36075,
     "initialSpeed": 354
+  },
+  {
+    "callsign": "N92448",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "ACD00B",
+    "registration": "N92448",
+    "firstSeen": "2026-03-23T22:58:54.043Z",
+    "lastSeen": "2026-03-23T22:59:24.855Z",
+    "duration": 31,
+    "closestDistance": 0.1633595508153188,
+    "closestAltitude": 2275,
+    "closestSpeed": 104,
+    "initialDistance": 0.5433875184049599,
+    "initialAltitude": 2300,
+    "initialSpeed": 106
   }
 ]
