@@ -11974,5 +11974,24 @@
     "initialDistance": 0.17269703860148328,
     "initialAltitude": 39625,
     "initialSpeed": 335
+  },
+  {
+    "callsign": "QXE2050",
+    "flightNumber": "AS2050",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "STS",
+    "destination": "SEA",
+    "icao": "A8B5AD",
+    "registration": "N660QX",
+    "firstSeen": "2026-03-23T19:27:11.483Z",
+    "lastSeen": "2026-03-23T19:27:11.483Z",
+    "duration": 0,
+    "closestDistance": 0.24490411980322194,
+    "closestAltitude": 35050,
+    "closestSpeed": 374,
+    "initialDistance": 0.24490411980322194,
+    "initialAltitude": 35050,
+    "initialSpeed": 374
   }
 ]
