@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 33525,
-    "speed": 398,
-    "timestamp": "2026-03-23T20:09:23.994Z",
-    "lat": 45.6296,
-    "lon": -122.5201,
+    "distance": 0.5,
+    "altitude": 35600,
+    "speed": 358,
+    "timestamp": "2026-03-23T20:10:36.008Z",
+    "lat": 45.6232,
+    "lon": -122.5165,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1217",
-    "aircraftType": "737 ",
+    "callsign": "QXE2439",
+    "aircraftType": "E175",
     "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-03-06T21:00:50.571Z"
+    "firstSeen": "2026-03-23T20:10:36.006Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.5,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6296,
-      -122.5201
+      45.6232,
+      -122.5165
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-23T20:09:44.503Z"
+  "timestamp": "2026-03-23T20:10:56.536Z"
 }

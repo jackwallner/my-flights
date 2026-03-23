@@ -11993,5 +11993,24 @@
     "initialDistance": 0.24490411980322194,
     "initialAltitude": 35050,
     "initialSpeed": 374
+  },
+  {
+    "callsign": "QXE2439",
+    "flightNumber": "AS2439",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A87CF9",
+    "registration": "N646QX",
+    "firstSeen": "2026-03-23T20:10:36.006Z",
+    "lastSeen": "2026-03-23T20:10:36.006Z",
+    "duration": 0,
+    "closestDistance": 0.5033196267783857,
+    "closestAltitude": 35600,
+    "closestSpeed": 358,
+    "initialDistance": 0.5033196267783857,
+    "initialAltitude": 35600,
+    "initialSpeed": 358
   }
 ]
