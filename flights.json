@@ -11917,5 +11917,24 @@
     "initialDistance": 0.6333570718954866,
     "initialAltitude": 2200,
     "initialSpeed": 106
+  },
+  {
+    "callsign": "ASA644",
+    "flightNumber": "AS644",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A58C2E",
+    "registration": "N457AS",
+    "firstSeen": "2026-03-23T03:46:14.614Z",
+    "lastSeen": "2026-03-23T03:46:14.614Z",
+    "duration": 0,
+    "closestDistance": 0.402748417211317,
+    "closestAltitude": 35650,
+    "closestSpeed": 369,
+    "initialDistance": 0.402748417211317,
+    "initialAltitude": 35650,
+    "initialSpeed": 369
   }
 ]
