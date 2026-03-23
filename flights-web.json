@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 32000,
-    "speed": 383,
-    "timestamp": "2026-03-23T19:40:44.587Z",
-    "lat": 45.6325,
-    "lon": -122.5267,
+    "distance": 0.56,
+    "altitude": 28125,
+    "speed": 387,
+    "timestamp": "2026-03-23T20:03:34.019Z",
+    "lat": 45.6307,
+    "lon": -122.5172,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1388",
-    "aircraftType": "737",
-    "origin": "BUR",
+    "callsign": "SKW4439",
+    "aircraftType": "E175",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T22:04:04.540Z"
+    "firstSeen": "2026-02-09T21:13:12.947Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.56,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6325,
-      -122.5267
+      45.6307,
+      -122.5172
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-23T19:41:05.443Z"
+  "status": "tracking",
+  "timestamp": "2026-03-23T20:03:34.019Z"
 }
