@@ -11955,5 +11955,24 @@
     "initialDistance": 0.472479044007941,
     "initialAltitude": 35575,
     "initialSpeed": 374
+  },
+  {
+    "callsign": "EJA689",
+    "flightNumber": null,
+    "aircraftType": "C56X",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": null,
+    "icao": "A92615",
+    "registration": "N689QS",
+    "firstSeen": "2026-03-23T17:58:43.018Z",
+    "lastSeen": "2026-03-23T17:58:53.289Z",
+    "duration": 10,
+    "closestDistance": 0.17269703860148328,
+    "closestAltitude": 39625,
+    "closestSpeed": 335,
+    "initialDistance": 0.17269703860148328,
+    "initialAltitude": 39625,
+    "initialSpeed": 335
   }
 ]
