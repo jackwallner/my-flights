@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 35050,
-    "speed": 374,
-    "timestamp": "2026-03-23T19:27:11.486Z",
-    "lat": 45.6239,
-    "lon": -122.5336,
+    "distance": 0.44,
+    "altitude": 32000,
+    "speed": 383,
+    "timestamp": "2026-03-23T19:40:44.587Z",
+    "lat": 45.6325,
+    "lon": -122.5267,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2050",
-    "aircraftType": "E175",
-    "origin": "STS",
+    "callsign": "ASA1388",
+    "aircraftType": "737",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-03-23T19:27:11.483Z"
+    "firstSeen": "2026-02-09T22:04:04.540Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.44,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6239,
-      -122.5336
+      45.6325,
+      -122.5267
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-23T19:27:32.256Z"
+  "timestamp": "2026-03-23T19:41:05.443Z"
 }
