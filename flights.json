@@ -11936,5 +11936,24 @@
     "initialDistance": 0.402748417211317,
     "initialAltitude": 35650,
     "initialSpeed": 369
+  },
+  {
+    "callsign": "ASA493",
+    "flightNumber": "AS493",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SBP",
+    "destination": "SEA",
+    "icao": "A6A300",
+    "registration": "N527AS",
+    "firstSeen": "2026-03-23T04:19:01.512Z",
+    "lastSeen": "2026-03-23T04:19:01.512Z",
+    "duration": 0,
+    "closestDistance": 0.472479044007941,
+    "closestAltitude": 35575,
+    "closestSpeed": 374,
+    "initialDistance": 0.472479044007941,
+    "initialAltitude": 35575,
+    "initialSpeed": 374
   }
 ]

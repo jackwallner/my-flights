@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 31450,
-    "speed": 402,
-    "timestamp": "2026-03-23T04:15:45.961Z",
-    "lat": 45.6243,
-    "lon": -122.5189,
+    "distance": 0.47,
+    "altitude": 35575,
+    "speed": 374,
+    "timestamp": "2026-03-23T04:19:01.515Z",
+    "lat": 45.6269,
+    "lon": -122.5171,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4049",
-    "aircraftType": "E175",
-    "origin": "SMF",
+    "callsign": "ASA493",
+    "aircraftType": "737",
+    "origin": "SBP",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:39:41.638Z"
+    "firstSeen": "2026-03-23T04:19:01.512Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.47,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6243,
-      -122.5189
+      45.6269,
+      -122.5171
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-23T04:16:06.556Z"
+  "timestamp": "2026-03-23T04:19:22.079Z"
 }
