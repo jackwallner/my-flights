@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.17,
-    "altitude": 39625,
-    "speed": 335,
-    "timestamp": "2026-03-23T17:58:43.021Z",
-    "lat": 45.6242,
-    "lon": -122.5243,
+    "distance": 0.53,
+    "altitude": 34000,
+    "speed": 369,
+    "timestamp": "2026-03-23T18:54:37.392Z",
+    "lat": 45.6334,
+    "lon": -122.5231,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA689",
-    "aircraftType": "Cita",
-    "origin": "SNA",
-    "destination": null,
-    "firstSeen": "2026-03-23T17:58:43.018Z"
+    "callsign": "ASA1311",
+    "aircraftType": "B39M",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T20:39:05.668Z"
   },
-  "overheadScore": 0.17,
+  "overheadScore": 0.53,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6242,
-      -122.5243
-    ],
-    [
-      45.6362,
-      -122.5309
+      45.6334,
+      -122.5231
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-23T17:59:03.574Z"
+  "timestamp": "2026-03-23T18:54:57.941Z"
 }
