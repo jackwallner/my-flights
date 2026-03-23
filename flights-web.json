@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 35675,
-    "speed": 389,
-    "timestamp": "2026-03-23T04:00:50.044Z",
-    "lat": 45.6251,
-    "lon": -122.5438,
+    "distance": 0.39,
+    "altitude": 31450,
+    "speed": 402,
+    "timestamp": "2026-03-23T04:15:45.961Z",
+    "lat": 45.6243,
+    "lon": -122.5189,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2640",
-    "aircraftType": "737",
-    "origin": "LAX",
+    "callsign": "SKW4049",
+    "aircraftType": "E175",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:49:09.282Z"
+    "firstSeen": "2026-02-10T03:39:41.638Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.39,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6251,
-      -122.5438
+      45.6243,
+      -122.5189
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-23T04:01:10.582Z"
+  "status": "tracking",
+  "timestamp": "2026-03-23T04:15:45.961Z"
 }
