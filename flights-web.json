@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 35575,
-    "speed": 374,
-    "timestamp": "2026-03-23T04:19:01.515Z",
-    "lat": 45.6269,
-    "lon": -122.5171,
+    "distance": 0.68,
+    "altitude": 28000,
+    "speed": 410,
+    "timestamp": "2026-03-23T15:06:49.749Z",
+    "lat": 45.6166,
+    "lon": -122.5384,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA493",
-    "aircraftType": "737",
-    "origin": "SBP",
+    "callsign": "ASA607",
+    "aircraftType": "B39M",
+    "origin": "ONT",
     "destination": "SEA",
-    "firstSeen": "2026-03-23T04:19:01.512Z"
+    "firstSeen": "2026-02-09T16:03:21.448Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.68,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6269,
-      -122.5171
+      45.6166,
+      -122.5384
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-23T04:19:22.079Z"
+  "status": "tracking",
+  "timestamp": "2026-03-23T15:06:49.749Z"
 }
