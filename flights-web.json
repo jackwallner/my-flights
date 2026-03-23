@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 36075,
-    "speed": 354,
-    "timestamp": "2026-03-23T22:17:32.626Z",
-    "lat": 45.6179,
-    "lon": -122.5402,
-    "precision": "tracked"
+    "distance": 0.26,
+    "altitude": 1700,
+    "speed": 158,
+    "timestamp": "2026-03-23T22:28:41.907Z",
+    "lat": 45.6238,
+    "lon": -122.534,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "EJA359",
-    "aircraftType": "Cita",
-    "origin": "PSP",
-    "destination": null,
-    "firstSeen": "2026-03-23T22:17:32.623Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "BFI",
+    "destination": "PDX",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6179,
-      -122.5402
+      45.6299,
+      -122.5416
+    ],
+    [
+      45.6238,
+      -122.534
+    ],
+    [
+      45.6191,
+      -122.5278
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-23T22:17:53.219Z"
+  "timestamp": "2026-03-23T22:29:02.516Z"
 }
