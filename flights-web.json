@@ -1,41 +1,61 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 1475,
-    "speed": 125,
-    "timestamp": "2026-03-23T20:35:39.038Z",
-    "lat": 45.623,
-    "lon": -122.5276,
+    "distance": 0.38,
+    "altitude": 400,
+    "speed": 62,
+    "timestamp": "2026-03-23T21:05:51.908Z",
+    "lat": 45.6204,
+    "lon": -122.534,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N724KP",
-    "aircraftType": "PC-1",
-    "origin": "SLE",
+    "callsign": "N519F",
+    "aircraftType": "CH7B",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-08T18:18:03.924Z"
+    "firstSeen": "2026-02-06T20:53:13.130Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 9,
   "trail": [
     [
-      45.6302,
-      -122.5403
+      45.6355,
+      -122.5244
     ],
     [
-      45.6274,
-      -122.5347
+      45.6349,
+      -122.5322
     ],
     [
-      45.623,
-      -122.5276
+      45.633,
+      -122.5374
+    ],
+    [
+      45.6298,
+      -122.5399
+    ],
+    [
+      45.6264,
+      -122.5407
+    ],
+    [
+      45.6237,
+      -122.5413
+    ],
+    [
+      45.6204,
+      -122.5401
     ],
     [
       45.6197,
-      -122.5205
+      -122.5383
+    ],
+    [
+      45.6204,
+      -122.534
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-23T20:35:59.757Z"
+  "status": "tracking",
+  "timestamp": "2026-03-23T21:05:51.908Z"
 }
