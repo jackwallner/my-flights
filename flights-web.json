@@ -1,73 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 200,
-    "speed": 62,
-    "timestamp": "2026-03-23T21:06:12.681Z",
-    "lat": 45.6264,
-    "lon": -122.531,
-    "precision": "high"
+    "distance": 0.67,
+    "altitude": 36075,
+    "speed": 354,
+    "timestamp": "2026-03-23T22:17:32.626Z",
+    "lat": 45.6179,
+    "lon": -122.5402,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N519F",
-    "aircraftType": "CH7B",
-    "origin": "PDX",
+    "callsign": "EJA359",
+    "aircraftType": "Cita",
+    "origin": "PSP",
     "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "firstSeen": "2026-03-23T22:17:32.623Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 12,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6355,
-      -122.5244
-    ],
-    [
-      45.6349,
-      -122.5322
-    ],
-    [
-      45.633,
-      -122.5374
-    ],
-    [
-      45.6298,
-      -122.5399
-    ],
-    [
-      45.6264,
-      -122.5407
-    ],
-    [
-      45.6237,
-      -122.5413
-    ],
-    [
-      45.6204,
-      -122.5401
-    ],
-    [
-      45.6197,
-      -122.5383
-    ],
-    [
-      45.6204,
-      -122.534
-    ],
-    [
-      45.6242,
-      -122.5314
-    ],
-    [
-      45.6264,
-      -122.531
-    ],
-    [
-      45.6272,
-      -122.5309
+      45.6179,
+      -122.5402
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-23T21:06:33.201Z"
+  "timestamp": "2026-03-23T22:17:53.219Z"
 }

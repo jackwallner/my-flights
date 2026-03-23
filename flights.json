@@ -12012,5 +12012,24 @@
     "initialDistance": 0.5033196267783857,
     "initialAltitude": 35600,
     "initialSpeed": 358
+  },
+  {
+    "callsign": "EJA359",
+    "flightNumber": null,
+    "aircraftType": "C680",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": null,
+    "icao": "A407AB",
+    "registration": "N359QS",
+    "firstSeen": "2026-03-23T22:17:32.623Z",
+    "lastSeen": "2026-03-23T22:17:32.623Z",
+    "duration": 0,
+    "closestDistance": 0.6738171579814156,
+    "closestAltitude": 36075,
+    "closestSpeed": 354,
+    "initialDistance": 0.6738171579814156,
+    "initialAltitude": 36075,
+    "initialSpeed": 354
   }
 ]
