@@ -1,41 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 2275,
-    "speed": 104,
-    "timestamp": "2026-03-23T22:59:14.605Z",
-    "lat": 45.6259,
-    "lon": -122.5319,
+    "distance": 0.3,
+    "altitude": 1900,
+    "speed": 103,
+    "timestamp": "2026-03-24T00:07:07.161Z",
+    "lat": 45.6222,
+    "lon": -122.5336,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N92448",
+    "callsign": "N172MR",
     "aircraftType": "C172",
-    "origin": null,
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-23T22:58:54.043Z"
+    "firstSeen": "2026-01-31T20:41:52.816Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6326,
-      -122.5205
+      45.6278,
+      -122.5441
     ],
     [
-      45.6292,
-      -122.5263
+      45.6248,
+      -122.5382
     ],
     [
-      45.6259,
-      -122.5319
+      45.6222,
+      -122.5336
     ],
     [
-      45.6225,
-      -122.5375
+      45.6188,
+      -122.5278
+    ],
+    [
+      45.6155,
+      -122.5222
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-23T22:59:35.144Z"
+  "timestamp": "2026-03-24T00:07:38.156Z"
 }
