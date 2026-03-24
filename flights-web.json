@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 30525,
-    "speed": 467,
-    "timestamp": "2026-03-24T07:01:38.214Z",
-    "lat": 45.6179,
-    "lon": -122.532,
+    "distance": 0.4,
+    "altitude": 2225,
+    "speed": 179,
+    "timestamp": "2026-03-24T13:50:28.615Z",
+    "lat": 45.6297,
+    "lon": -122.5352,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CKS422",
-    "aircraftType": "747",
-    "origin": "SUU",
-    "destination": "TCM",
-    "firstSeen": "2026-03-24T07:01:38.210Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.4,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6179,
-      -122.532
+      45.6217,
+      -122.5395
+    ],
+    [
+      45.6297,
+      -122.5352
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-24T07:01:58.767Z"
+  "timestamp": "2026-03-24T13:50:38.893Z"
 }
