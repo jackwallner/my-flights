@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 43000,
-    "speed": 442,
-    "timestamp": "2026-03-24T21:05:46.814Z",
-    "lat": 45.6258,
-    "lon": -122.5403,
-    "precision": "tracked"
+    "distance": 0.24,
+    "altitude": 2050,
+    "speed": 188,
+    "timestamp": "2026-03-24T21:45:46.067Z",
+    "lat": 45.6271,
+    "lon": -122.5331,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "LXJ405",
-    "aircraftType": "E545",
-    "origin": "VNY",
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-03-24T21:05:46.810Z"
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6258,
-      -122.5403
+      45.6189,
+      -122.5379
+    ],
+    [
+      45.6271,
+      -122.5331
+    ],
+    [
+      45.6341,
+      -122.5285
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-24T21:06:07.366Z"
+  "timestamp": "2026-03-24T21:46:06.652Z"
 }
