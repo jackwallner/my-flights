@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 36625,
-    "speed": 429,
-    "timestamp": "2026-03-24T17:20:50.387Z",
-    "lat": 45.631,
-    "lon": -122.5144,
+    "distance": 0.5,
+    "altitude": 2475,
+    "speed": 178,
+    "timestamp": "2026-03-24T18:00:29.769Z",
+    "lat": 45.6182,
+    "lon": -122.5217,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1293",
-    "aircraftType": "A220",
-    "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T17:43:44.343Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.631,
-      -122.5144
+      45.6182,
+      -122.5217
+    ],
+    [
+      45.6264,
+      -122.5159
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-24T17:21:10.911Z"
+  "timestamp": "2026-03-24T18:00:50.472Z"
 }
