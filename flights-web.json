@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 1850,
-    "speed": 87,
-    "timestamp": "2026-03-24T02:31:45.514Z",
-    "lat": 45.631,
-    "lon": -122.5291,
-    "precision": "high"
+    "distance": 0.61,
+    "altitude": 25975,
+    "speed": 410,
+    "timestamp": "2026-03-24T03:59:34.826Z",
+    "lat": 45.627,
+    "lon": -122.5424,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7274G",
-    "aircraftType": "C150",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-07T04:51:24.606Z"
+    "callsign": "SKW4049",
+    "aircraftType": "E175",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T03:39:41.638Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.61,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6315,
-      -122.5355
-    ],
-    [
-      45.631,
-      -122.5291
-    ],
-    [
-      45.6305,
-      -122.5242
-    ],
-    [
-      45.6297,
-      -122.5181
+      45.627,
+      -122.5424
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-24T02:32:16.374Z"
+  "timestamp": "2026-03-24T03:59:55.509Z"
 }
