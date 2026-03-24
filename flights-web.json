@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 7100,
-    "speed": 181,
-    "timestamp": "2026-03-24T15:05:47.019Z",
-    "lat": 45.6284,
-    "lon": -122.5331,
-    "precision": "tracked"
+    "distance": 0.26,
+    "altitude": 2925,
+    "speed": 183,
+    "timestamp": "2026-03-24T15:25:00.250Z",
+    "lat": 45.6253,
+    "lon": -122.5219,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N756EM",
-    "aircraftType": "C82R",
-    "origin": "HIO",
-    "destination": "PSC",
-    "firstSeen": "2026-02-17T16:11:53.731Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6284,
-      -122.5331
+      45.6167,
+      -122.5268
     ],
     [
-      45.6332,
-      -122.5221
+      45.6253,
+      -122.5219
+    ],
+    [
+      45.6354,
+      -122.5201
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-24T15:06:07.594Z"
+  "timestamp": "2026-03-24T15:25:20.873Z"
 }
