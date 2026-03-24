@@ -1,49 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 3500,
-    "speed": 79,
-    "timestamp": "2026-03-24T00:58:47.784Z",
-    "lat": 45.6247,
-    "lon": -122.5243,
-    "precision": "high"
+    "distance": 0.09,
+    "altitude": 31250,
+    "speed": 407,
+    "timestamp": "2026-03-24T01:06:41.519Z",
+    "lat": 45.6241,
+    "lon": -122.5268,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7274G",
-    "aircraftType": "C150",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-07T04:51:24.606Z"
+    "callsign": "SKW6481",
+    "aircraftType": "CRJ",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T01:08:39.541Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.09,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6319,
-      -122.521
-    ],
-    [
-      45.6282,
-      -122.5226
-    ],
-    [
-      45.6247,
-      -122.5243
-    ],
-    [
-      45.621,
-      -122.5261
-    ],
-    [
-      45.6179,
-      -122.5278
-    ],
-    [
-      45.6142,
-      -122.5299
+      45.6241,
+      -122.5268
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-24T00:59:28.838Z"
+  "timestamp": "2026-03-24T01:07:02.233Z"
 }
