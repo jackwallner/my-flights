@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 35450,
-    "speed": 371,
-    "timestamp": "2026-03-24T04:11:45.712Z",
-    "lat": 45.6297,
-    "lon": -122.5195,
+    "distance": 0.61,
+    "altitude": 30000,
+    "speed": 420,
+    "timestamp": "2026-03-24T04:17:16.477Z",
+    "lat": 45.6179,
+    "lon": -122.5382,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2031",
-    "aircraftType": "E175",
-    "origin": "RNO",
+    "callsign": "SWA1571",
+    "aircraftType": "737",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T05:22:53.058Z"
+    "firstSeen": "2026-03-09T04:03:14.068Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6297,
-      -122.5195
+      45.6179,
+      -122.5382
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-24T04:12:06.263Z"
+  "timestamp": "2026-03-24T04:17:37.077Z"
 }
