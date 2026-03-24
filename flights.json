@@ -12069,5 +12069,24 @@
     "initialDistance": 0.5540804226524993,
     "initialAltitude": 27350,
     "initialSpeed": 411
+  },
+  {
+    "callsign": "LJ60",
+    "flightNumber": null,
+    "aircraftType": "LJ60",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-03-24T05:43:33.013Z",
+    "lastSeen": "2026-03-24T05:43:43.280Z",
+    "duration": 10,
+    "closestDistance": 0.44291748334052766,
+    "closestAltitude": 38850,
+    "closestSpeed": 367,
+    "initialDistance": 0.44291748334052766,
+    "initialAltitude": 38850,
+    "initialSpeed": 367
   }
 ]
