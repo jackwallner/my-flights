@@ -1,29 +1,29 @@
 {
   "closestApproach": {
     "distance": 0.67,
-    "altitude": 34000,
-    "speed": 442,
-    "timestamp": "2026-03-24T17:01:27.101Z",
-    "lat": 45.6346,
-    "lon": -122.5368,
+    "altitude": 36625,
+    "speed": 429,
+    "timestamp": "2026-03-24T17:20:50.387Z",
+    "lat": 45.631,
+    "lon": -122.5144,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA527",
-    "aircraftType": "B39M",
-    "origin": "LAX",
+    "callsign": "DAL1293",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-03-08T00:19:25.772Z"
+    "firstSeen": "2026-02-09T17:43:44.343Z"
   },
   "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6346,
-      -122.5368
+      45.631,
+      -122.5144
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-24T17:01:47.722Z"
+  "timestamp": "2026-03-24T17:21:10.911Z"
 }
