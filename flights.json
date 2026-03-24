@@ -12050,5 +12050,24 @@
     "initialDistance": 0.5433875184049599,
     "initialAltitude": 2300,
     "initialSpeed": 106
+  },
+  {
+    "callsign": "ASA455",
+    "flightNumber": "AS455",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A6CA7F",
+    "registration": "N537AS",
+    "firstSeen": "2026-03-24T04:28:25.775Z",
+    "lastSeen": "2026-03-24T04:28:25.775Z",
+    "duration": 0,
+    "closestDistance": 0.5540804226524993,
+    "closestAltitude": 27350,
+    "closestSpeed": 411,
+    "initialDistance": 0.5540804226524993,
+    "initialAltitude": 27350,
+    "initialSpeed": 411
   }
 ]
