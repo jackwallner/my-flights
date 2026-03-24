@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 3900,
-    "speed": 66,
-    "timestamp": "2026-03-24T14:19:48.872Z",
-    "lat": 45.6242,
-    "lon": -122.541,
+    "distance": 0.2,
+    "altitude": 2300,
+    "speed": 185,
+    "timestamp": "2026-03-24T14:57:01.370Z",
+    "lat": 45.6219,
+    "lon": -122.528,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N35143",
-    "aircraftType": "C177",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-03-24T14:19:28.314Z"
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6308,
-      -122.5403
+      45.615,
+      -122.5312
     ],
     [
-      45.6276,
-      -122.5407
+      45.6219,
+      -122.528
     ],
     [
-      45.6242,
-      -122.541
-    ],
-    [
-      45.6208,
-      -122.541
+      45.6307,
+      -122.5236
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-24T14:20:09.534Z"
+  "timestamp": "2026-03-24T14:57:21.949Z"
 }
