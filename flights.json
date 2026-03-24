@@ -12126,5 +12126,24 @@
     "initialDistance": 0.6096843007241156,
     "initialAltitude": 3900,
     "initialSpeed": 69
+  },
+  {
+    "callsign": "LXJ405",
+    "flightNumber": "LXJ405",
+    "aircraftType": "E545",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "A4BFC7",
+    "registration": "N405FX",
+    "firstSeen": "2026-03-24T21:05:46.810Z",
+    "lastSeen": "2026-03-24T21:05:46.810Z",
+    "duration": 0,
+    "closestDistance": 0.5127252651388047,
+    "closestAltitude": 43000,
+    "closestSpeed": 442,
+    "initialDistance": 0.5127252651388047,
+    "initialAltitude": 43000,
+    "initialSpeed": 442
   }
 ]
