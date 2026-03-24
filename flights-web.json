@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 38850,
-    "speed": 367,
-    "timestamp": "2026-03-24T05:43:33.015Z",
-    "lat": 45.6183,
-    "lon": -122.5247,
+    "distance": 0.47,
+    "altitude": 30525,
+    "speed": 467,
+    "timestamp": "2026-03-24T07:01:38.214Z",
+    "lat": 45.6179,
+    "lon": -122.532,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LJ60",
-    "aircraftType": "LJ60",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-24T05:43:33.013Z"
+    "callsign": "CKS422",
+    "aircraftType": "747",
+    "origin": "SUU",
+    "destination": "TCM",
+    "firstSeen": "2026-03-24T07:01:38.210Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6183,
-      -122.5247
-    ],
-    [
-      45.6358,
-      -122.5337
+      45.6179,
+      -122.532
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-24T05:43:53.545Z"
+  "timestamp": "2026-03-24T07:01:58.767Z"
 }

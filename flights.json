@@ -12088,5 +12088,24 @@
     "initialDistance": 0.44291748334052766,
     "initialAltitude": 38850,
     "initialSpeed": 367
+  },
+  {
+    "callsign": "CKS422",
+    "flightNumber": "K4422",
+    "aircraftType": "B744",
+    "aircraftName": null,
+    "origin": "SUU",
+    "destination": "TCM",
+    "icao": "A9F2C6",
+    "registration": "N740CK",
+    "firstSeen": "2026-03-24T07:01:38.210Z",
+    "lastSeen": "2026-03-24T07:01:38.210Z",
+    "duration": 0,
+    "closestDistance": 0.4722490521161077,
+    "closestAltitude": 30525,
+    "closestSpeed": 467,
+    "initialDistance": 0.4722490521161077,
+    "initialAltitude": 30525,
+    "initialSpeed": 467
   }
 ]
