@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 3150,
-    "speed": 144,
-    "timestamp": "2026-03-25T15:02:05.551Z",
-    "lat": 45.6318,
-    "lon": -122.5384,
+    "distance": 0.36,
+    "altitude": 38000,
+    "speed": 452,
+    "timestamp": "2026-03-25T17:51:09.854Z",
+    "lat": 45.6293,
+    "lon": -122.5217,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AMF1964",
-    "aircraftType": "BE99",
-    "origin": "PDX",
-    "destination": "HES",
-    "firstSeen": "2026-02-05T15:33:22.640Z"
+    "callsign": "EJA228",
+    "aircraftType": "Chal",
+    "origin": "PSP",
+    "destination": "BFI",
+    "firstSeen": "2026-03-25T17:51:09.849Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6262,
-      -122.5425
-    ],
-    [
-      45.6318,
-      -122.5384
+      45.6293,
+      -122.5217
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-25T15:02:15.926Z"
+  "timestamp": "2026-03-25T17:51:30.400Z"
 }

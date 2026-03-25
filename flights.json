@@ -12202,5 +12202,24 @@
     "initialDistance": 0.3462722335254575,
     "initialAltitude": 35550,
     "initialSpeed": 432
+  },
+  {
+    "callsign": "EJA228",
+    "flightNumber": "EJA228",
+    "aircraftType": "CL60",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "BFI",
+    "icao": "A20028",
+    "registration": "N228QS",
+    "firstSeen": "2026-03-25T17:51:09.849Z",
+    "lastSeen": "2026-03-25T17:51:09.849Z",
+    "duration": 0,
+    "closestDistance": 0.3615496188879539,
+    "closestAltitude": 38000,
+    "closestSpeed": 452,
+    "initialDistance": 0.3615496188879539,
+    "initialAltitude": 38000,
+    "initialSpeed": 452
   }
 ]
