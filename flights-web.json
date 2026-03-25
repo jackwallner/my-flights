@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.31,
+    "distance": 0.16,
     "altitude": 6725,
-    "speed": 126,
-    "timestamp": "2026-03-25T22:40:02.445Z",
-    "lat": 45.6305,
-    "lon": -122.5283,
-    "precision": "tracked"
+    "speed": 130,
+    "timestamp": "2026-03-25T22:40:12.744Z",
+    "lat": 45.6258,
+    "lon": -122.5318,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N721CD",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-01T00:18:05.830Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6359,
@@ -26,8 +26,16 @@
     [
       45.6305,
       -122.5283
+    ],
+    [
+      45.6258,
+      -122.5318
+    ],
+    [
+      45.6197,
+      -122.5359
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-25T22:40:02.445Z"
+  "status": "completed",
+  "timestamp": "2026-03-25T22:40:33.264Z"
 }
