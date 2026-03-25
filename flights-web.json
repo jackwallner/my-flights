@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 38000,
-    "speed": 417,
-    "timestamp": "2026-03-25T14:10:26.156Z",
-    "lat": 45.6311,
-    "lon": -122.5168,
+    "distance": 0.35,
+    "altitude": 35550,
+    "speed": 432,
+    "timestamp": "2026-03-25T14:28:06.169Z",
+    "lat": 45.6275,
+    "lon": -122.5205,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1461",
-    "aircraftType": "737",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-03-25T14:10:26.153Z"
+    "callsign": "N102LJ",
+    "aircraftType": "LJ60",
+    "origin": "MEV",
+    "destination": "PWT",
+    "firstSeen": "2026-03-25T14:28:06.166Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.35,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6311,
-      -122.5168
+      45.6275,
+      -122.5205
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-25T14:10:46.707Z"
+  "timestamp": "2026-03-25T14:28:26.736Z"
 }

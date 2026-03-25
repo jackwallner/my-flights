@@ -12183,5 +12183,24 @@
     "initialDistance": 0.5896254098113879,
     "initialAltitude": 38000,
     "initialSpeed": 417
+  },
+  {
+    "callsign": "N102LJ",
+    "flightNumber": null,
+    "aircraftType": "LJ60",
+    "aircraftName": null,
+    "origin": "MEV",
+    "destination": "PWT",
+    "icao": "A00D25",
+    "registration": "N102LJ",
+    "firstSeen": "2026-03-25T14:28:06.166Z",
+    "lastSeen": "2026-03-25T14:28:06.166Z",
+    "duration": 0,
+    "closestDistance": 0.3462722335254575,
+    "closestAltitude": 35550,
+    "closestSpeed": 432,
+    "initialDistance": 0.3462722335254575,
+    "initialAltitude": 35550,
+    "initialSpeed": 432
   }
 ]
