@@ -12164,5 +12164,24 @@
     "initialDistance": 0.4237666253903631,
     "initialAltitude": 40875,
     "initialSpeed": 496
+  },
+  {
+    "callsign": "ASA1461",
+    "flightNumber": "AS1461",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A5EC61",
+    "registration": "N481AS",
+    "firstSeen": "2026-03-25T14:10:26.153Z",
+    "lastSeen": "2026-03-25T14:10:26.153Z",
+    "duration": 0,
+    "closestDistance": 0.5896254098113879,
+    "closestAltitude": 38000,
+    "closestSpeed": 417,
+    "initialDistance": 0.5896254098113879,
+    "initialAltitude": 38000,
+    "initialSpeed": 417
   }
 ]
