@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 40875,
-    "speed": 496,
-    "timestamp": "2026-03-25T02:34:46.391Z",
-    "lat": 45.627,
-    "lon": -122.5379,
+    "distance": 0.57,
+    "altitude": 27400,
+    "speed": 392,
+    "timestamp": "2026-03-25T03:02:02.903Z",
+    "lat": 45.6178,
+    "lon": -122.5363,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GA6C",
-    "aircraftType": "GA6C",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-25T02:34:46.387Z"
+    "callsign": "SKW4100",
+    "aircraftType": "E175",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T03:47:40.995Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.57,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.627,
-      -122.5379
+      45.6178,
+      -122.5363
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-25T02:35:06.905Z"
+  "timestamp": "2026-03-25T03:02:23.512Z"
 }
