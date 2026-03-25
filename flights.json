@@ -12240,5 +12240,24 @@
     "initialDistance": 0.6255989735768571,
     "initialAltitude": 35950,
     "initialSpeed": 435
+  },
+  {
+    "callsign": "N828RW",
+    "flightNumber": null,
+    "aircraftType": "RV6",
+    "aircraftName": null,
+    "origin": "SLE",
+    "destination": null,
+    "icao": "AB501F",
+    "registration": "N828RW",
+    "firstSeen": "2026-03-25T20:27:07.374Z",
+    "lastSeen": "2026-03-25T20:27:17.651Z",
+    "duration": 10,
+    "closestDistance": 0.5473118756486398,
+    "closestAltitude": 1950,
+    "closestSpeed": 164,
+    "initialDistance": 0.5473118756486398,
+    "initialAltitude": 1950,
+    "initialSpeed": 164
   }
 ]
