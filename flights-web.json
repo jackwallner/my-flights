@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 38000,
-    "speed": 452,
-    "timestamp": "2026-03-25T17:51:09.854Z",
-    "lat": 45.6293,
-    "lon": -122.5217,
+    "distance": 0.38,
+    "altitude": 32400,
+    "speed": 445,
+    "timestamp": "2026-03-25T19:12:28.027Z",
+    "lat": 45.6276,
+    "lon": -122.5197,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA228",
-    "aircraftType": "Chal",
-    "origin": "PSP",
-    "destination": "BFI",
-    "firstSeen": "2026-03-25T17:51:09.849Z"
+    "callsign": "SWA943",
+    "aircraftType": "737 ",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-03-12T20:58:00.826Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.38,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6293,
-      -122.5217
+      45.6276,
+      -122.5197
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-25T17:51:30.400Z"
+  "timestamp": "2026-03-25T19:12:48.591Z"
 }
