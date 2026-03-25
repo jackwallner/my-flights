@@ -12145,5 +12145,24 @@
     "initialDistance": 0.5127252651388047,
     "initialAltitude": 43000,
     "initialSpeed": 442
+  },
+  {
+    "callsign": "GA6C",
+    "flightNumber": null,
+    "aircraftType": "GA6C",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-03-25T02:34:46.387Z",
+    "lastSeen": "2026-03-25T02:34:46.387Z",
+    "duration": 0,
+    "closestDistance": 0.4237666253903631,
+    "closestAltitude": 40875,
+    "closestSpeed": 496,
+    "initialDistance": 0.4237666253903631,
+    "initialAltitude": 40875,
+    "initialSpeed": 496
   }
 ]
