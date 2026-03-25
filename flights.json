@@ -615,8 +615,8 @@
     "icao": "A44591",
     "registration": "N3744F",
     "firstSeen": "2026-02-09T19:46:29.977Z",
-    "lastSeen": "2026-02-19T22:02:55.383Z",
-    "duration": 872185,
+    "lastSeen": "2026-03-25T19:32:12.206Z",
+    "duration": 3800742,
     "closestDistance": 0.23978494246180984,
     "closestAltitude": 33400,
     "closestSpeed": 478,
@@ -12221,5 +12221,24 @@
     "initialDistance": 0.3615496188879539,
     "initialAltitude": 38000,
     "initialSpeed": 452
+  },
+  {
+    "callsign": "ASA1317",
+    "flightNumber": "AS1317",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AAED0C",
+    "registration": "N803AK",
+    "firstSeen": "2026-03-25T19:33:24.439Z",
+    "lastSeen": "2026-03-25T19:33:24.439Z",
+    "duration": 0,
+    "closestDistance": 0.6255989735768571,
+    "closestAltitude": 35950,
+    "closestSpeed": 435,
+    "initialDistance": 0.6255989735768571,
+    "initialAltitude": 35950,
+    "initialSpeed": 435
   }
 ]

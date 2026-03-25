@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 32400,
-    "speed": 445,
-    "timestamp": "2026-03-25T19:12:28.027Z",
-    "lat": 45.6276,
-    "lon": -122.5197,
+    "distance": 0.63,
+    "altitude": 35950,
+    "speed": 435,
+    "timestamp": "2026-03-25T19:33:24.441Z",
+    "lat": 45.6306,
+    "lon": -122.5153,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA943",
+    "callsign": "ASA1317",
     "aircraftType": "737 ",
-    "origin": "LAS",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-03-12T20:58:00.826Z"
+    "firstSeen": "2026-03-25T19:33:24.439Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.63,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6276,
-      -122.5197
+      45.6306,
+      -122.5153
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-25T19:12:48.591Z"
+  "status": "tracking",
+  "timestamp": "2026-03-25T19:33:24.441Z"
 }
