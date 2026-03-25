@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 27400,
-    "speed": 392,
-    "timestamp": "2026-03-25T03:02:02.903Z",
-    "lat": 45.6178,
-    "lon": -122.5363,
-    "precision": "tracked"
+    "distance": 0.09,
+    "altitude": 2325,
+    "speed": 169,
+    "timestamp": "2026-03-25T13:45:23.691Z",
+    "lat": 45.624,
+    "lon": -122.5272,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW4100",
-    "aircraftType": "E175",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T03:47:40.995Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.09,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6178,
-      -122.5363
+      45.6161,
+      -122.5305
+    ],
+    [
+      45.624,
+      -122.5272
+    ],
+    [
+      45.632,
+      -122.527
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-25T03:02:23.512Z"
+  "timestamp": "2026-03-25T13:45:44.240Z"
 }
