@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 1950,
-    "speed": 164,
-    "timestamp": "2026-03-25T20:27:07.377Z",
-    "lat": 45.6343,
-    "lon": -122.53,
+    "distance": 0.31,
+    "altitude": 6725,
+    "speed": 126,
+    "timestamp": "2026-03-25T22:40:02.445Z",
+    "lat": 45.6305,
+    "lon": -122.5283,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N828RW",
-    "aircraftType": "RV6",
-    "origin": "SLE",
+    "callsign": "N721CD",
+    "aircraftType": "S22T",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-25T20:27:07.374Z"
+    "firstSeen": "2026-02-01T00:18:05.830Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6343,
-      -122.53
+      45.6359,
+      -122.5239
     ],
     [
-      45.6336,
-      -122.5182
+      45.6305,
+      -122.5283
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-25T20:27:27.941Z"
+  "status": "tracking",
+  "timestamp": "2026-03-25T22:40:02.445Z"
 }
