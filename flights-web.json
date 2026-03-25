@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 35550,
-    "speed": 432,
-    "timestamp": "2026-03-25T14:28:06.169Z",
-    "lat": 45.6275,
-    "lon": -122.5205,
-    "precision": "tracked"
+    "distance": 0.06,
+    "altitude": 2800,
+    "speed": 147,
+    "timestamp": "2026-03-25T14:58:38.634Z",
+    "lat": 45.6262,
+    "lon": -122.5274,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N102LJ",
-    "aircraftType": "LJ60",
-    "origin": "MEV",
-    "destination": "PWT",
-    "firstSeen": "2026-03-25T14:28:06.166Z"
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.06,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6275,
-      -122.5205
+      45.6193,
+      -122.5312
+    ],
+    [
+      45.6262,
+      -122.5274
+    ],
+    [
+      45.6328,
+      -122.5234
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-25T14:28:26.736Z"
+  "timestamp": "2026-03-25T14:58:59.229Z"
 }
