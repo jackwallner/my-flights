@@ -6,7 +6,7 @@
     "timestamp": "2026-03-26T21:39:01.701Z",
     "lat": 45.6259,
     "lon": -122.5263,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N313ME",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.08,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6278,
@@ -26,8 +26,12 @@
     [
       45.6259,
       -122.5263
+    ],
+    [
+      45.6244,
+      -122.537
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-26T21:39:01.701Z"
+  "status": "completed",
+  "timestamp": "2026-03-26T21:39:22.219Z"
 }
