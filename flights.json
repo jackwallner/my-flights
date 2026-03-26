@@ -12468,5 +12468,24 @@
     "initialDistance": 0.5736579601832665,
     "initialAltitude": 6025,
     "initialSpeed": 195
+  },
+  {
+    "callsign": "N313ME",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "BOI",
+    "destination": null,
+    "icao": "A3530E",
+    "registration": "N313ME",
+    "firstSeen": "2026-03-26T21:38:51.444Z",
+    "lastSeen": "2026-03-26T21:39:01.698Z",
+    "duration": 10,
+    "closestDistance": 0.08467860926981949,
+    "closestAltitude": 2925,
+    "closestSpeed": 164,
+    "initialDistance": 0.5668939967798236,
+    "initialAltitude": 2950,
+    "initialSpeed": 160
   }
 ]

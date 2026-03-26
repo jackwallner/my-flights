@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 6025,
-    "speed": 195,
-    "timestamp": "2026-03-26T21:34:24.304Z",
-    "lat": 45.6347,
-    "lon": -122.5304,
+    "distance": 0.08,
+    "altitude": 2925,
+    "speed": 164,
+    "timestamp": "2026-03-26T21:39:01.701Z",
+    "lat": 45.6259,
+    "lon": -122.5263,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N55NW",
+    "callsign": "N313ME",
     "aircraftType": "S22T",
     "origin": "BOI",
     "destination": null,
-    "firstSeen": "2026-03-26T21:34:24.301Z"
+    "firstSeen": "2026-03-26T21:38:51.444Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.08,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6347,
-      -122.5304
+      45.6278,
+      -122.5151
     ],
     [
-      45.6302,
-      -122.5424
+      45.6259,
+      -122.5263
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-26T21:34:44.861Z"
+  "status": "tracking",
+  "timestamp": "2026-03-26T21:39:01.701Z"
 }
