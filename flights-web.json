@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 4925,
-    "speed": 126,
-    "timestamp": "2026-03-26T14:57:53.066Z",
-    "lat": 45.6301,
-    "lon": -122.5322,
+    "distance": 0.15,
+    "altitude": 3275,
+    "speed": 139,
+    "timestamp": "2026-03-26T15:14:08.630Z",
+    "lat": 45.6265,
+    "lon": -122.525,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N5225",
-    "aircraftType": "SLG4",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-03-26T14:57:42.782Z"
+    "callsign": "N724KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-08T18:18:03.924Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.15,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6278,
-      -122.5409
+      45.6151,
+      -122.5333
     ],
     [
-      45.6301,
-      -122.5322
+      45.6212,
+      -122.5285
     ],
     [
-      45.6325,
-      -122.5225
+      45.6265,
+      -122.525
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-26T14:58:13.594Z"
+  "status": "tracking",
+  "timestamp": "2026-03-26T15:14:08.630Z"
 }
