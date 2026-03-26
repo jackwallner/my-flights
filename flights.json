@@ -11719,8 +11719,8 @@
     "icao": "ACC5E7",
     "registration": "N922DD",
     "firstSeen": "2026-03-21T15:31:18.144Z",
-    "lastSeen": "2026-03-23T01:30:21.701Z",
-    "duration": 122344,
+    "lastSeen": "2026-03-26T23:43:32.007Z",
+    "duration": 461534,
     "closestDistance": 0.4554884902154779,
     "closestAltitude": 1575,
     "closestSpeed": 95,
@@ -12563,5 +12563,24 @@
     "initialDistance": 0.2918249376000796,
     "initialAltitude": 39975,
     "initialSpeed": 413
+  },
+  {
+    "callsign": "N224MZ",
+    "flightNumber": null,
+    "aircraftType": "GALX",
+    "aircraftName": null,
+    "origin": "CLD",
+    "destination": "PAE",
+    "icao": "A1F108",
+    "registration": "N224MZ",
+    "firstSeen": "2026-03-26T23:42:09.649Z",
+    "lastSeen": "2026-03-26T23:42:09.649Z",
+    "duration": 0,
+    "closestDistance": 0.5752171726790698,
+    "closestAltitude": 40000,
+    "closestSpeed": 450,
+    "initialDistance": 0.5752171726790698,
+    "initialAltitude": 40000,
+    "initialSpeed": 450
   }
 ]

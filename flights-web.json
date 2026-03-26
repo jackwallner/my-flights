@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 39975,
-    "speed": 413,
-    "timestamp": "2026-03-26T23:29:18.054Z",
-    "lat": 45.6213,
-    "lon": -122.5321,
+    "distance": 0.64,
+    "altitude": 875,
+    "speed": 83,
+    "timestamp": "2026-03-26T23:43:32.010Z",
+    "lat": 45.6268,
+    "lon": -122.5431,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA314",
-    "aircraftType": "E55P",
-    "origin": "SMO",
+    "callsign": "N922DD",
+    "aircraftType": "R22",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-26T23:29:18.051Z"
+    "firstSeen": "2026-03-21T15:31:18.144Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6213,
-      -122.5321
+      45.6268,
+      -122.5431
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-26T23:29:38.643Z"
+  "status": "tracking",
+  "timestamp": "2026-03-26T23:43:32.010Z"
 }
