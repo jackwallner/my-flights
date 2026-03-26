@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 1225,
-    "speed": 124,
-    "timestamp": "2026-03-26T23:16:16.556Z",
-    "lat": 45.6185,
-    "lon": -122.5296,
-    "precision": "high"
+    "distance": 0.29,
+    "altitude": 39975,
+    "speed": 413,
+    "timestamp": "2026-03-26T23:29:18.054Z",
+    "lat": 45.6213,
+    "lon": -122.5321,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4074Y",
-    "aircraftType": "C185",
-    "origin": null,
+    "callsign": "EJA314",
+    "aircraftType": "E55P",
+    "origin": "SMO",
     "destination": null,
-    "firstSeen": "2026-03-26T23:16:06.225Z"
+    "firstSeen": "2026-03-26T23:29:18.051Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.618,
-      -122.5382
-    ],
-    [
-      45.6185,
-      -122.5296
-    ],
-    [
-      45.6189,
-      -122.5224
-    ],
-    [
-      45.6196,
-      -122.5139
+      45.6213,
+      -122.5321
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-26T23:16:47.367Z"
+  "status": "tracking",
+  "timestamp": "2026-03-26T23:29:18.054Z"
 }

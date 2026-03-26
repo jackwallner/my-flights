@@ -12544,5 +12544,24 @@
     "initialDistance": 0.608715865398223,
     "initialAltitude": 1300,
     "initialSpeed": 126
+  },
+  {
+    "callsign": "EJA314",
+    "flightNumber": null,
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "SMO",
+    "destination": null,
+    "icao": "A3571C",
+    "registration": "N314QS",
+    "firstSeen": "2026-03-26T23:29:18.051Z",
+    "lastSeen": "2026-03-26T23:29:18.051Z",
+    "duration": 0,
+    "closestDistance": 0.2918249376000796,
+    "closestAltitude": 39975,
+    "closestSpeed": 413,
+    "initialDistance": 0.2918249376000796,
+    "initialAltitude": 39975,
+    "initialSpeed": 413
   }
 ]
