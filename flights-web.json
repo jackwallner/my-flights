@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 29975,
-    "speed": 396,
-    "timestamp": "2026-03-26T17:14:23.470Z",
-    "lat": 45.6312,
-    "lon": -122.5348,
-    "precision": "tracked"
+    "distance": 0.12,
+    "altitude": 1700,
+    "speed": 111,
+    "timestamp": "2026-03-26T19:37:20.221Z",
+    "lat": 45.6272,
+    "lon": -122.528,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N85SV",
-    "aircraftType": "LJ35",
-    "origin": "RNO",
-    "destination": "OLM",
-    "firstSeen": "2026-03-26T17:14:13.221Z"
+    "callsign": "N5107H",
+    "aircraftType": "C172",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T23:58:25.954Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6155,
-      -122.5269
+      45.6304,
+      -122.5216
     ],
     [
-      45.6312,
-      -122.5348
+      45.6272,
+      -122.528
+    ],
+    [
+      45.6243,
+      -122.5341
+    ],
+    [
+      45.6216,
+      -122.5391
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-26T17:14:33.716Z"
+  "timestamp": "2026-03-26T19:37:51.061Z"
 }
