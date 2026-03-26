@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 39950,
-    "speed": 429,
-    "timestamp": "2026-03-26T02:54:16.912Z",
-    "lat": 45.6244,
-    "lon": -122.512,
+    "distance": 0.58,
+    "altitude": 36000,
+    "speed": 430,
+    "timestamp": "2026-03-26T02:57:22.802Z",
+    "lat": 45.6222,
+    "lon": -122.5151,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1481",
+    "callsign": "ASA768",
     "aircraftType": "737",
-    "origin": "STS",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-03-20T03:15:58.511Z"
+    "firstSeen": "2026-03-26T02:57:22.799Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.58,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6244,
-      -122.512
+      45.6222,
+      -122.5151
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-26T02:54:37.460Z"
+  "timestamp": "2026-03-26T02:57:43.531Z"
 }

@@ -12278,5 +12278,24 @@
     "initialDistance": 0.3738780307458372,
     "initialAltitude": 40850,
     "initialSpeed": 389
+  },
+  {
+    "callsign": "ASA768",
+    "flightNumber": "AS768",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "SEA",
+    "icao": "A25B3F",
+    "registration": "N251AK",
+    "firstSeen": "2026-03-26T02:57:22.799Z",
+    "lastSeen": "2026-03-26T02:57:22.799Z",
+    "duration": 0,
+    "closestDistance": 0.5768196337818385,
+    "closestAltitude": 36000,
+    "closestSpeed": 430,
+    "initialDistance": 0.5768196337818385,
+    "initialAltitude": 36000,
+    "initialSpeed": 430
   }
 ]
