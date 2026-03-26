@@ -12335,5 +12335,24 @@
     "initialDistance": 0.25308068238183207,
     "initialAltitude": 30000,
     "initialSpeed": 389
+  },
+  {
+    "callsign": "QXE2120",
+    "flightNumber": "AS2120",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": "SEA",
+    "icao": "A87CF9",
+    "registration": "N646QX",
+    "firstSeen": "2026-03-26T03:42:21.025Z",
+    "lastSeen": "2026-03-26T03:42:21.025Z",
+    "duration": 0,
+    "closestDistance": 0.5954911442481907,
+    "closestAltitude": 28000,
+    "closestSpeed": 408,
+    "initialDistance": 0.5954911442481907,
+    "initialAltitude": 28000,
+    "initialSpeed": 408
   }
 ]

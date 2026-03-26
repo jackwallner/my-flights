@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.25,
-    "altitude": 30000,
-    "speed": 389,
-    "timestamp": "2026-03-26T03:30:40.178Z",
-    "lat": 45.6212,
-    "lon": -122.5266,
+    "distance": 0.6,
+    "altitude": 28000,
+    "speed": 408,
+    "timestamp": "2026-03-26T03:42:21.028Z",
+    "lat": 45.6178,
+    "lon": -122.5188,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3048",
+    "callsign": "QXE2120",
     "aircraftType": "E175",
-    "origin": "MFR",
+    "origin": "RDM",
     "destination": "SEA",
-    "firstSeen": "2026-03-26T03:30:40.175Z"
+    "firstSeen": "2026-03-26T03:42:21.025Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.6,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6212,
-      -122.5266
-    ],
-    [
-      45.6354,
-      -122.5339
+      45.6178,
+      -122.5188
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-26T03:31:00.701Z"
+  "timestamp": "2026-03-26T03:42:41.613Z"
 }
