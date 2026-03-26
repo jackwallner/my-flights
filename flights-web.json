@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 38000,
-    "speed": 425,
-    "timestamp": "2026-03-26T21:44:50.605Z",
-    "lat": 45.6153,
-    "lon": -122.5354,
+    "distance": 0.69,
+    "altitude": 4775,
+    "speed": 263,
+    "timestamp": "2026-03-26T22:00:36.084Z",
+    "lat": 45.628,
+    "lon": -122.5441,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UPS2984",
-    "aircraftType": "757",
-    "origin": "ONT",
-    "destination": "BFI",
-    "firstSeen": "2026-03-26T21:44:50.602Z"
+    "callsign": "N1209G",
+    "aircraftType": "GL7T",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-03-26T22:00:36.082Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6153,
-      -122.5354
+      45.628,
+      -122.5441
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-26T21:45:11.158Z"
+  "timestamp": "2026-03-26T22:00:56.629Z"
 }

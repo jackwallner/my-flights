@@ -12506,5 +12506,24 @@
     "initialDistance": 0.6728653597281724,
     "initialAltitude": 38000,
     "initialSpeed": 425
+  },
+  {
+    "callsign": "N1209G",
+    "flightNumber": null,
+    "aircraftType": "GL7T",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "HIO",
+    "icao": "A0574C",
+    "registration": "N1209G",
+    "firstSeen": "2026-03-26T22:00:36.082Z",
+    "lastSeen": "2026-03-26T22:00:36.082Z",
+    "duration": 0,
+    "closestDistance": 0.6908927100754635,
+    "closestAltitude": 4775,
+    "closestSpeed": 263,
+    "initialDistance": 0.6908927100754635,
+    "initialAltitude": 4775,
+    "initialSpeed": 263
   }
 ]
