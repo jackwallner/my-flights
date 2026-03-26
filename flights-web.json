@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 40850,
-    "speed": 389,
-    "timestamp": "2026-03-26T00:17:50.863Z",
-    "lat": 45.6234,
-    "lon": -122.5366,
+    "distance": 0.68,
+    "altitude": 39950,
+    "speed": 429,
+    "timestamp": "2026-03-26T02:54:16.912Z",
+    "lat": 45.6244,
+    "lon": -122.512,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N29QC",
-    "aircraftType": "C560",
-    "origin": "TRM",
-    "destination": "PAE",
-    "firstSeen": "2026-03-26T00:17:50.859Z"
+    "callsign": "ASA1481",
+    "aircraftType": "737",
+    "origin": "STS",
+    "destination": "SEA",
+    "firstSeen": "2026-03-20T03:15:58.511Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.68,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6234,
-      -122.5366
+      45.6244,
+      -122.512
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-26T00:18:11.414Z"
+  "status": "tracking",
+  "timestamp": "2026-03-26T02:54:16.912Z"
 }
