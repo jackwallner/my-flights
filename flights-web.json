@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.08,
-    "altitude": 2925,
-    "speed": 164,
-    "timestamp": "2026-03-26T21:39:01.701Z",
-    "lat": 45.6259,
-    "lon": -122.5263,
-    "precision": "high"
+    "distance": 0.67,
+    "altitude": 38000,
+    "speed": 425,
+    "timestamp": "2026-03-26T21:44:50.605Z",
+    "lat": 45.6153,
+    "lon": -122.5354,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N313ME",
-    "aircraftType": "S22T",
-    "origin": "BOI",
-    "destination": null,
-    "firstSeen": "2026-03-26T21:38:51.444Z"
+    "callsign": "UPS2984",
+    "aircraftType": "757",
+    "origin": "ONT",
+    "destination": "BFI",
+    "firstSeen": "2026-03-26T21:44:50.602Z"
   },
-  "overheadScore": 0.08,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6278,
-      -122.5151
-    ],
-    [
-      45.6259,
-      -122.5263
-    ],
-    [
-      45.6244,
-      -122.537
+      45.6153,
+      -122.5354
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-26T21:39:22.219Z"
+  "status": "tracking",
+  "timestamp": "2026-03-26T21:44:50.605Z"
 }
