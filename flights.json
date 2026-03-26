@@ -12373,5 +12373,24 @@
     "initialDistance": 0.516104770734851,
     "initialAltitude": 38000,
     "initialSpeed": 409
+  },
+  {
+    "callsign": "N5225",
+    "flightNumber": null,
+    "aircraftType": "SLG4",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A69363",
+    "registration": "N5225",
+    "firstSeen": "2026-03-26T14:57:42.782Z",
+    "lastSeen": "2026-03-26T14:58:03.323Z",
+    "duration": 21,
+    "closestDistance": 0.336453501293009,
+    "closestAltitude": 4925,
+    "closestSpeed": 126,
+    "initialDistance": 0.5578616624586178,
+    "initialAltitude": 4925,
+    "initialSpeed": 126
   }
 ]
