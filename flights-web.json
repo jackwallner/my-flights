@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 1050,
-    "speed": 97,
-    "timestamp": "2026-03-26T22:28:51.170Z",
-    "lat": 45.623,
-    "lon": -122.5266,
+    "distance": 0.38,
+    "altitude": 1525,
+    "speed": 146,
+    "timestamp": "2026-03-26T22:49:53.892Z",
+    "lat": 45.6296,
+    "lon": -122.5346,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N6194E",
-    "aircraftType": "C172",
+    "callsign": "N5274Y",
+    "aircraftType": "T210",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-28T19:16:40.151Z"
+    "firstSeen": "2026-03-18T21:35:46.229Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6188,
-      -122.5389
+      45.6339,
+      -122.5255
     ],
     [
-      45.6214,
-      -122.5317
+      45.6296,
+      -122.5346
     ],
     [
-      45.623,
-      -122.5266
-    ],
-    [
-      45.6235,
-      -122.5196
-    ],
-    [
-      45.6237,
-      -122.5137
+      45.6265,
+      -122.5421
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-26T22:29:21.952Z"
+  "timestamp": "2026-03-26T22:50:14.421Z"
 }
