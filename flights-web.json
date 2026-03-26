@@ -1,29 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 4775,
-    "speed": 263,
-    "timestamp": "2026-03-26T22:00:36.084Z",
-    "lat": 45.628,
-    "lon": -122.5441,
-    "precision": "tracked"
+    "distance": 0.15,
+    "altitude": 1050,
+    "speed": 97,
+    "timestamp": "2026-03-26T22:28:51.170Z",
+    "lat": 45.623,
+    "lon": -122.5266,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N1209G",
-    "aircraftType": "GL7T",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-03-26T22:00:36.082Z"
+    "callsign": "N6194E",
+    "aircraftType": "C172",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-28T19:16:40.151Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.628,
-      -122.5441
+      45.6188,
+      -122.5389
+    ],
+    [
+      45.6214,
+      -122.5317
+    ],
+    [
+      45.623,
+      -122.5266
+    ],
+    [
+      45.6235,
+      -122.5196
+    ],
+    [
+      45.6237,
+      -122.5137
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-26T22:00:56.629Z"
+  "timestamp": "2026-03-26T22:29:21.952Z"
 }
