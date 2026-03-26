@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 6725,
-    "speed": 130,
-    "timestamp": "2026-03-25T22:40:12.744Z",
-    "lat": 45.6258,
-    "lon": -122.5318,
-    "precision": "high"
+    "distance": 0.37,
+    "altitude": 40850,
+    "speed": 389,
+    "timestamp": "2026-03-26T00:17:50.863Z",
+    "lat": 45.6234,
+    "lon": -122.5366,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N721CD",
-    "aircraftType": "S22T",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-01T00:18:05.830Z"
+    "callsign": "N29QC",
+    "aircraftType": "C560",
+    "origin": "TRM",
+    "destination": "PAE",
+    "firstSeen": "2026-03-26T00:17:50.859Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6359,
-      -122.5239
-    ],
-    [
-      45.6305,
-      -122.5283
-    ],
-    [
-      45.6258,
-      -122.5318
-    ],
-    [
-      45.6197,
-      -122.5359
+      45.6234,
+      -122.5366
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-25T22:40:33.264Z"
+  "timestamp": "2026-03-26T00:18:11.414Z"
 }

@@ -12259,5 +12259,24 @@
     "initialDistance": 0.5473118756486398,
     "initialAltitude": 1950,
     "initialSpeed": 164
+  },
+  {
+    "callsign": "N29QC",
+    "flightNumber": null,
+    "aircraftType": "C560",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "PAE",
+    "icao": "A2F482",
+    "registration": "N29QC",
+    "firstSeen": "2026-03-26T00:17:50.859Z",
+    "lastSeen": "2026-03-26T00:17:50.859Z",
+    "duration": 0,
+    "closestDistance": 0.3738780307458372,
+    "closestAltitude": 40850,
+    "closestSpeed": 389,
+    "initialDistance": 0.3738780307458372,
+    "initialAltitude": 40850,
+    "initialSpeed": 389
   }
 ]
