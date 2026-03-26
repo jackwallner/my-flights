@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 1500,
-    "speed": 140,
-    "timestamp": "2026-03-26T20:23:12.235Z",
-    "lat": 45.6212,
-    "lon": -122.5391,
+    "distance": 0.54,
+    "altitude": 32125,
+    "speed": 411,
+    "timestamp": "2026-03-26T20:25:56.636Z",
+    "lat": 45.6168,
+    "lon": -122.5235,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N721CD",
-    "aircraftType": "S22T",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-01T00:18:05.830Z"
+    "callsign": "AAL3235",
+    "aircraftType": "A320",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-23T21:01:59.323Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6212,
-      -122.5391
-    ],
-    [
-      45.6266,
-      -122.541
+      45.6168,
+      -122.5235
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-26T20:23:32.749Z"
+  "timestamp": "2026-03-26T20:26:17.152Z"
 }
