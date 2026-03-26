@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 28000,
-    "speed": 408,
-    "timestamp": "2026-03-26T03:42:21.028Z",
-    "lat": 45.6178,
-    "lon": -122.5188,
+    "distance": 0.52,
+    "altitude": 38000,
+    "speed": 409,
+    "timestamp": "2026-03-26T13:24:16.036Z",
+    "lat": 45.6291,
+    "lon": -122.5171,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2120",
-    "aircraftType": "E175",
-    "origin": "RDM",
+    "callsign": "SWA4497",
+    "aircraftType": "737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-03-26T03:42:21.025Z"
+    "firstSeen": "2026-03-26T13:24:16.032Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.52,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6178,
-      -122.5188
+      45.6291,
+      -122.5171
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-26T03:42:41.613Z"
+  "timestamp": "2026-03-26T13:24:36.559Z"
 }

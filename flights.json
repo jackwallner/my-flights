@@ -12354,5 +12354,24 @@
     "initialDistance": 0.5954911442481907,
     "initialAltitude": 28000,
     "initialSpeed": 408
+  },
+  {
+    "callsign": "SWA4497",
+    "flightNumber": "WN4497",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "ABC478",
+    "registration": "N8575Z",
+    "firstSeen": "2026-03-26T13:24:16.032Z",
+    "lastSeen": "2026-03-26T13:24:16.032Z",
+    "duration": 0,
+    "closestDistance": 0.516104770734851,
+    "closestAltitude": 38000,
+    "closestSpeed": 409,
+    "initialDistance": 0.516104770734851,
+    "initialAltitude": 38000,
+    "initialSpeed": 409
   }
 ]
