@@ -12297,5 +12297,24 @@
     "initialDistance": 0.5768196337818385,
     "initialAltitude": 36000,
     "initialSpeed": 430
+  },
+  {
+    "callsign": "ASA374",
+    "flightNumber": "AS374",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A5C4E2",
+    "registration": "N471AS",
+    "firstSeen": "2026-03-26T03:11:58.304Z",
+    "lastSeen": "2026-03-26T03:11:58.304Z",
+    "duration": 0,
+    "closestDistance": 0.5785144530998851,
+    "closestAltitude": 38000,
+    "closestSpeed": 431,
+    "initialDistance": 0.5785144530998851,
+    "initialAltitude": 38000,
+    "initialSpeed": 431
   }
 ]
