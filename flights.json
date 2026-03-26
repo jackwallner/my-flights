@@ -12449,5 +12449,24 @@
     "initialDistance": 0.6080351954680369,
     "initialAltitude": 31450,
     "initialSpeed": 424
+  },
+  {
+    "callsign": "N55NW",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "BOI",
+    "destination": null,
+    "icao": "A6FE53",
+    "registration": "N55NW",
+    "firstSeen": "2026-03-26T21:34:24.301Z",
+    "lastSeen": "2026-03-26T21:34:34.564Z",
+    "duration": 10,
+    "closestDistance": 0.5736579601832665,
+    "closestAltitude": 6025,
+    "closestSpeed": 195,
+    "initialDistance": 0.5736579601832665,
+    "initialAltitude": 6025,
+    "initialSpeed": 195
   }
 ]

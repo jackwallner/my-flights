@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 31450,
-    "speed": 424,
-    "timestamp": "2026-03-26T20:52:08.303Z",
-    "lat": 45.6152,
-    "lon": -122.5295,
+    "distance": 0.57,
+    "altitude": 6025,
+    "speed": 195,
+    "timestamp": "2026-03-26T21:34:24.304Z",
+    "lat": 45.6347,
+    "lon": -122.5304,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N365AV",
-    "aircraftType": "CL35",
-    "origin": "PSP",
-    "destination": "TIW",
-    "firstSeen": "2026-03-26T20:52:08.299Z"
+    "callsign": "N55NW",
+    "aircraftType": "S22T",
+    "origin": "BOI",
+    "destination": null,
+    "firstSeen": "2026-03-26T21:34:24.301Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.57,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6152,
-      -122.5295
+      45.6347,
+      -122.5304
+    ],
+    [
+      45.6302,
+      -122.5424
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-26T20:52:28.841Z"
+  "timestamp": "2026-03-26T21:34:44.861Z"
 }
