@@ -12430,5 +12430,24 @@
     "initialDistance": 0.5894219128746845,
     "initialAltitude": 30000,
     "initialSpeed": 396
+  },
+  {
+    "callsign": "N365AV",
+    "flightNumber": null,
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "TIW",
+    "icao": "A41EF3",
+    "registration": "N365AV",
+    "firstSeen": "2026-03-26T20:52:08.299Z",
+    "lastSeen": "2026-03-26T20:52:08.299Z",
+    "duration": 0,
+    "closestDistance": 0.6080351954680369,
+    "closestAltitude": 31450,
+    "closestSpeed": 424,
+    "initialDistance": 0.6080351954680369,
+    "initialAltitude": 31450,
+    "initialSpeed": 424
   }
 ]

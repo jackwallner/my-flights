@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.26,
-    "altitude": 1200,
-    "speed": 102,
-    "timestamp": "2026-03-26T20:30:23.885Z",
-    "lat": 45.6296,
-    "lon": -122.5287,
-    "precision": "high"
+    "distance": 0.61,
+    "altitude": 31450,
+    "speed": 424,
+    "timestamp": "2026-03-26T20:52:08.303Z",
+    "lat": 45.6152,
+    "lon": -122.5295,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5107H",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T23:58:25.954Z"
+    "callsign": "N365AV",
+    "aircraftType": "CL35",
+    "origin": "PSP",
+    "destination": "TIW",
+    "firstSeen": "2026-03-26T20:52:08.299Z"
   },
-  "overheadScore": 0.26,
+  "overheadScore": 0.61,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6294,
-      -122.5435
-    ],
-    [
-      45.6301,
-      -122.5359
-    ],
-    [
-      45.6296,
-      -122.5287
-    ],
-    [
-      45.6291,
-      -122.5216
-    ],
-    [
-      45.6286,
-      -122.5149
+      45.6152,
+      -122.5295
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-26T20:30:54.689Z"
+  "timestamp": "2026-03-26T20:52:28.841Z"
 }
