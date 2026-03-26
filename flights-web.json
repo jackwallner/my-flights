@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 38000,
-    "speed": 431,
-    "timestamp": "2026-03-26T03:11:58.307Z",
-    "lat": 45.631,
-    "lon": -122.5392,
+    "distance": 0.25,
+    "altitude": 30000,
+    "speed": 389,
+    "timestamp": "2026-03-26T03:30:40.178Z",
+    "lat": 45.6212,
+    "lon": -122.5266,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA374",
-    "aircraftType": "737",
-    "origin": "OAK",
+    "callsign": "SKW3048",
+    "aircraftType": "E175",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-03-26T03:11:58.304Z"
+    "firstSeen": "2026-03-26T03:30:40.175Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.25,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.631,
-      -122.5392
+      45.6212,
+      -122.5266
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-26T03:12:18.952Z"
+  "status": "tracking",
+  "timestamp": "2026-03-26T03:30:40.178Z"
 }

@@ -12316,5 +12316,24 @@
     "initialDistance": 0.5785144530998851,
     "initialAltitude": 38000,
     "initialSpeed": 431
+  },
+  {
+    "callsign": "SKW3048",
+    "flightNumber": "AS3048",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A1512F",
+    "registration": "N184SY",
+    "firstSeen": "2026-03-26T03:30:40.175Z",
+    "lastSeen": "2026-03-26T03:30:40.175Z",
+    "duration": 0,
+    "closestDistance": 0.25308068238183207,
+    "closestAltitude": 30000,
+    "closestSpeed": 389,
+    "initialDistance": 0.25308068238183207,
+    "initialAltitude": 30000,
+    "initialSpeed": 389
   }
 ]
