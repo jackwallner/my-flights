@@ -12392,5 +12392,24 @@
     "initialDistance": 0.5578616624586178,
     "initialAltitude": 4925,
     "initialSpeed": 126
+  },
+  {
+    "callsign": "N726KP",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A9BAC5",
+    "registration": "N726KP",
+    "firstSeen": "2026-03-26T15:49:35.941Z",
+    "lastSeen": "2026-03-26T15:49:56.512Z",
+    "duration": 21,
+    "closestDistance": 0.10405341662657379,
+    "closestAltitude": 1900,
+    "closestSpeed": 165,
+    "initialDistance": 0.5229354758154693,
+    "initialAltitude": 1675,
+    "initialSpeed": 162
   }
 ]
