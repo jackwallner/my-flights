@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 1750,
-    "speed": 111,
-    "timestamp": "2026-03-27T17:35:27.101Z",
-    "lat": 45.6305,
-    "lon": -122.5311,
-    "precision": "high"
+    "distance": 0.51,
+    "altitude": 33225,
+    "speed": 409,
+    "timestamp": "2026-03-27T18:56:46.007Z",
+    "lat": 45.6338,
+    "lon": -122.5269,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6552U",
-    "aircraftType": "M20P",
-    "origin": "DLS",
-    "destination": null,
-    "firstSeen": "2026-02-06T21:45:23.153Z"
+    "callsign": "ASA798",
+    "aircraftType": "B39M",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T19:38:59.887Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6317,
-      -122.5169
-    ],
-    [
-      45.631,
-      -122.5246
-    ],
-    [
-      45.6305,
-      -122.5311
-    ],
-    [
-      45.6298,
-      -122.5389
+      45.6338,
+      -122.5269
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-27T17:35:47.844Z"
+  "timestamp": "2026-03-27T18:57:06.552Z"
 }
