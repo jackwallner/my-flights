@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 3700,
-    "speed": 212,
-    "timestamp": "2026-03-27T16:16:10.492Z",
-    "lat": 45.6214,
-    "lon": -122.5166,
+    "distance": 0.43,
+    "altitude": 28000,
+    "speed": 373,
+    "timestamp": "2026-03-27T16:58:06.962Z",
+    "lat": 45.6199,
+    "lon": -122.5348,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA541",
-    "aircraftType": "737",
-    "origin": "AUS",
-    "destination": "PDX",
-    "firstSeen": "2026-02-08T05:59:25.016Z"
+    "callsign": "QXE2277",
+    "aircraftType": "E175",
+    "origin": "RDM",
+    "destination": "SEA",
+    "firstSeen": "2026-03-12T13:23:08.281Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.43,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6214,
-      -122.5166
+      45.6199,
+      -122.5348
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-27T16:16:31.133Z"
+  "timestamp": "2026-03-27T16:58:27.478Z"
 }
