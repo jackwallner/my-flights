@@ -12582,5 +12582,24 @@
     "initialDistance": 0.5752171726790698,
     "initialAltitude": 40000,
     "initialSpeed": 450
+  },
+  {
+    "callsign": "N541PR",
+    "flightNumber": null,
+    "aircraftType": "R44",
+    "aircraftName": null,
+    "origin": "OLM",
+    "destination": null,
+    "icao": "A6DCF8",
+    "registration": "N541PR",
+    "firstSeen": "2026-03-27T04:15:34.793Z",
+    "lastSeen": "2026-03-27T04:16:05.745Z",
+    "duration": 31,
+    "closestDistance": 0.3843895634749279,
+    "closestAltitude": 1000,
+    "closestSpeed": 90,
+    "initialDistance": 0.5376960162288681,
+    "initialAltitude": 1000,
+    "initialSpeed": 89
   }
 ]

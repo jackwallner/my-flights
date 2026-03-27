@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 825,
-    "speed": 132,
-    "timestamp": "2026-03-27T00:07:31.223Z",
-    "lat": 45.6312,
-    "lon": -122.5276,
+    "distance": 0.38,
+    "altitude": 1000,
+    "speed": 90,
+    "timestamp": "2026-03-27T04:15:55.481Z",
+    "lat": 45.6191,
+    "lon": -122.5305,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N167DR",
-    "aircraftType": "RV7",
-    "origin": null,
+    "callsign": "N541PR",
+    "aircraftType": "R44",
+    "origin": "OLM",
     "destination": null,
-    "firstSeen": "2026-03-20T03:01:20.375Z"
+    "firstSeen": "2026-03-27T04:15:34.793Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6264,
-      -122.5439
+      45.6233,
+      -122.5406
     ],
     [
-      45.631,
-      -122.5359
+      45.6217,
+      -122.5363
     ],
     [
-      45.6312,
-      -122.5276
+      45.6191,
+      -122.5305
     ],
     [
-      45.6295,
-      -122.5198
-    ],
-    [
-      45.6278,
-      -122.5124
+      45.6164,
+      -122.5258
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-27T00:08:02.012Z"
+  "status": "tracking",
+  "timestamp": "2026-03-27T04:16:05.748Z"
 }
