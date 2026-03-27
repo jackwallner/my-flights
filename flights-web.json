@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 1000,
-    "speed": 90,
-    "timestamp": "2026-03-27T04:15:55.481Z",
-    "lat": 45.6191,
-    "lon": -122.5305,
-    "precision": "high"
+    "distance": 0.66,
+    "altitude": 1250,
+    "speed": 81,
+    "timestamp": "2026-03-27T05:04:05.417Z",
+    "lat": 45.6152,
+    "lon": -122.5341,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N541PR",
-    "aircraftType": "R44",
-    "origin": "OLM",
+    "callsign": "N64269",
+    "aircraftType": "C172",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-27T04:15:34.793Z"
+    "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6233,
-      -122.5406
-    ],
-    [
-      45.6217,
-      -122.5363
-    ],
-    [
-      45.6191,
-      -122.5305
-    ],
-    [
-      45.6164,
-      -122.5258
+      45.6152,
+      -122.5341
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-27T04:16:16.009Z"
+  "status": "tracking",
+  "timestamp": "2026-03-27T05:04:05.417Z"
 }
