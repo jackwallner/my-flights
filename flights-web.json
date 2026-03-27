@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.12,
-    "altitude": 1850,
-    "speed": 138,
-    "timestamp": "2026-03-27T15:00:36.790Z",
-    "lat": 45.6234,
-    "lon": -122.5273,
+    "distance": 0.38,
+    "altitude": 1775,
+    "speed": 88,
+    "timestamp": "2026-03-27T15:43:05.544Z",
+    "lat": 45.6316,
+    "lon": -122.5272,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N167DR",
-    "aircraftType": "RV7",
+    "callsign": "N20640",
+    "aircraftType": "C180",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-20T03:01:20.375Z"
+    "firstSeen": "2026-02-27T21:58:04.037Z"
   },
-  "overheadScore": 0.12,
+  "overheadScore": 0.38,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6275,
-      -122.5175
+      45.6321,
+      -122.5162
     ],
     [
-      45.6234,
-      -122.5273
+      45.6322,
+      -122.5215
     ],
     [
-      45.6209,
-      -122.5339
+      45.6316,
+      -122.5272
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-27T15:00:57.354Z"
+  "status": "tracking",
+  "timestamp": "2026-03-27T15:43:05.544Z"
 }
