@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 35075,
-    "speed": 415,
-    "timestamp": "2026-03-27T20:56:42.195Z",
-    "lat": 45.6217,
-    "lon": -122.5156,
-    "precision": "tracked"
+    "distance": 0.24,
+    "altitude": 1475,
+    "speed": 146,
+    "timestamp": "2026-03-27T21:10:46.988Z",
+    "lat": 45.6255,
+    "lon": -122.5337,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA1406",
-    "aircraftType": "737",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-03-20T16:23:22.526Z"
+    "callsign": "N167DR",
+    "aircraftType": "RV7",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-03-20T03:01:20.375Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6217,
-      -122.5156
+      45.622,
+      -122.5405
+    ],
+    [
+      45.6255,
+      -122.5337
+    ],
+    [
+      45.6298,
+      -122.526
+    ],
+    [
+      45.6341,
+      -122.5176
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-27T20:57:02.682Z"
+  "timestamp": "2026-03-27T21:11:18.596Z"
 }
