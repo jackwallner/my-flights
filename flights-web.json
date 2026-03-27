@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 32000,
-    "speed": 424,
-    "timestamp": "2026-03-27T14:19:52.038Z",
-    "lat": 45.6143,
-    "lon": -122.5294,
-    "precision": "tracked"
+    "distance": 0.12,
+    "altitude": 1850,
+    "speed": 138,
+    "timestamp": "2026-03-27T15:00:36.790Z",
+    "lat": 45.6234,
+    "lon": -122.5273,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "QXE2136",
-    "aircraftType": "E175",
-    "origin": "RNO",
-    "destination": "SEA",
-    "firstSeen": "2026-03-27T14:19:52.033Z"
+    "callsign": "N167DR",
+    "aircraftType": "RV7",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-03-20T03:01:20.375Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6143,
-      -122.5294
+      45.6275,
+      -122.5175
     ],
     [
-      45.634,
-      -122.5385
+      45.6234,
+      -122.5273
+    ],
+    [
+      45.6209,
+      -122.5339
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-27T14:20:12.557Z"
+  "timestamp": "2026-03-27T15:00:57.354Z"
 }
