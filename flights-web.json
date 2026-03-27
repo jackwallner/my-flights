@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 875,
-    "speed": 84,
-    "timestamp": "2026-03-26T23:43:52.536Z",
-    "lat": 45.6212,
-    "lon": -122.5348,
+    "distance": 0.36,
+    "altitude": 825,
+    "speed": 132,
+    "timestamp": "2026-03-27T00:07:31.223Z",
+    "lat": 45.6312,
+    "lon": -122.5276,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N922DD",
-    "aircraftType": "R22",
-    "origin": "TTD",
+    "callsign": "N167DR",
+    "aircraftType": "RV7",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-21T15:31:18.144Z"
+    "firstSeen": "2026-03-20T03:01:20.375Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6268,
-      -122.5431
+      45.6264,
+      -122.5439
     ],
     [
-      45.6238,
-      -122.5388
+      45.631,
+      -122.5359
     ],
     [
-      45.6212,
-      -122.5348
+      45.6312,
+      -122.5276
     ],
     [
-      45.6185,
-      -122.5304
-    ],
-    [
-      45.6162,
-      -122.5263
+      45.6295,
+      -122.5198
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-26T23:44:23.430Z"
+  "status": "tracking",
+  "timestamp": "2026-03-27T00:07:41.477Z"
 }
