@@ -12639,5 +12639,24 @@
     "initialDistance": 0.3020298956088438,
     "initialAltitude": 29925,
     "initialSpeed": 391
+  },
+  {
+    "callsign": "N605JG",
+    "flightNumber": null,
+    "aircraftType": "B350",
+    "aircraftName": null,
+    "origin": "TRM",
+    "destination": "TIW",
+    "icao": "A7DAA1",
+    "registration": "N605JG",
+    "firstSeen": "2026-03-27T23:56:07.946Z",
+    "lastSeen": "2026-03-27T23:56:07.946Z",
+    "duration": 0,
+    "closestDistance": 0.5401225608098261,
+    "closestAltitude": 24900,
+    "closestSpeed": 311,
+    "initialDistance": 0.5401225608098261,
+    "initialAltitude": 24900,
+    "initialSpeed": 311
   }
 ]
