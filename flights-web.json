@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 28000,
-    "speed": 373,
-    "timestamp": "2026-03-27T16:58:06.962Z",
-    "lat": 45.6199,
-    "lon": -122.5348,
-    "precision": "tracked"
+    "distance": 0.2,
+    "altitude": 1625,
+    "speed": 175,
+    "timestamp": "2026-03-27T17:08:12.820Z",
+    "lat": 45.622,
+    "lon": -122.5278,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "QXE2277",
-    "aircraftType": "E175",
-    "origin": "RDM",
-    "destination": "SEA",
-    "firstSeen": "2026-03-12T13:23:08.281Z"
+    "callsign": "N726KP",
+    "aircraftType": "PC-1",
+    "origin": "BFI",
+    "destination": "PDX",
+    "firstSeen": "2026-03-26T15:49:35.941Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6199,
-      -122.5348
+      45.631,
+      -122.5292
+    ],
+    [
+      45.622,
+      -122.5278
+    ],
+    [
+      45.6149,
+      -122.5268
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-27T16:58:27.478Z"
+  "timestamp": "2026-03-27T17:08:33.356Z"
 }
