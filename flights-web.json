@@ -1,11 +1,11 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 24900,
-    "speed": 311,
-    "timestamp": "2026-03-27T23:56:07.949Z",
-    "lat": 45.6203,
-    "lon": -122.5174,
+    "distance": 0.45,
+    "altitude": 24700,
+    "speed": 310,
+    "timestamp": "2026-03-27T23:56:18.201Z",
+    "lat": 45.6324,
+    "lon": -122.5244,
     "precision": "tracked"
   },
   "flight": {
@@ -15,15 +15,19 @@
     "destination": "TIW",
     "firstSeen": "2026-03-27T23:56:07.946Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
       45.6203,
       -122.5174
+    ],
+    [
+      45.6324,
+      -122.5244
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-27T23:56:07.949Z"
+  "status": "completed",
+  "timestamp": "2026-03-27T23:56:28.483Z"
 }
