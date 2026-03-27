@@ -12601,5 +12601,24 @@
     "initialDistance": 0.5376960162288681,
     "initialAltitude": 1000,
     "initialSpeed": 89
+  },
+  {
+    "callsign": "QXE2136",
+    "flightNumber": "AS2136",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "SEA",
+    "icao": "A831B2",
+    "registration": "N627QX",
+    "firstSeen": "2026-03-27T14:19:52.033Z",
+    "lastSeen": "2026-03-27T14:20:02.284Z",
+    "duration": 10,
+    "closestDistance": 0.6614862836825836,
+    "closestAltitude": 32000,
+    "closestSpeed": 424,
+    "initialDistance": 0.6614862836825836,
+    "initialAltitude": 32000,
+    "initialSpeed": 424
   }
 ]
