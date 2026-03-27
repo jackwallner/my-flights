@@ -1,12 +1,12 @@
 {
   "closestApproach": {
     "distance": 0.5,
-    "altitude": 3550,
-    "speed": 96,
-    "timestamp": "2026-03-27T23:25:58.197Z",
-    "lat": 45.6171,
-    "lon": -122.5309,
-    "precision": "tracked"
+    "altitude": 3675,
+    "speed": 94,
+    "timestamp": "2026-03-27T23:26:08.440Z",
+    "lat": 45.6176,
+    "lon": -122.5238,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N6552U",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.617,
@@ -26,8 +26,16 @@
     [
       45.6171,
       -122.5309
+    ],
+    [
+      45.6176,
+      -122.5238
+    ],
+    [
+      45.6181,
+      -122.5169
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-27T23:25:58.197Z"
+  "status": "completed",
+  "timestamp": "2026-03-27T23:26:29.144Z"
 }
