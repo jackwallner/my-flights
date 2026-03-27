@@ -12620,5 +12620,24 @@
     "initialDistance": 0.6614862836825836,
     "initialAltitude": 32000,
     "initialSpeed": 424
+  },
+  {
+    "callsign": "SKW9792",
+    "flightNumber": "OO9792",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A4DD35",
+    "registration": "N412SY",
+    "firstSeen": "2026-03-27T19:32:14.697Z",
+    "lastSeen": "2026-03-27T19:32:14.697Z",
+    "duration": 0,
+    "closestDistance": 0.3020298956088438,
+    "closestAltitude": 29925,
+    "closestSpeed": 391,
+    "initialDistance": 0.3020298956088438,
+    "initialAltitude": 29925,
+    "initialSpeed": 391
   }
 ]
