@@ -12753,5 +12753,24 @@
     "initialDistance": 0.12343677220290775,
     "initialAltitude": 34000,
     "initialSpeed": 446
+  },
+  {
+    "callsign": "N6028F",
+    "flightNumber": null,
+    "aircraftType": "BE35",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A7D223",
+    "registration": "N6028F",
+    "firstSeen": "2026-03-28T14:26:51.687Z",
+    "lastSeen": "2026-03-28T14:27:01.940Z",
+    "duration": 10,
+    "closestDistance": 0.5682695857430466,
+    "closestAltitude": 2225,
+    "closestSpeed": 158,
+    "initialDistance": 0.5682695857430466,
+    "initialAltitude": 2225,
+    "initialSpeed": 158
   }
 ]
