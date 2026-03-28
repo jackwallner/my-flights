@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 4425,
-    "speed": 100,
-    "timestamp": "2026-03-28T08:08:55.639Z",
-    "lat": 45.6163,
-    "lon": -122.5308,
-    "precision": "tracked"
+    "distance": 0.43,
+    "altitude": 4375,
+    "speed": 98,
+    "timestamp": "2026-03-28T08:09:05.913Z",
+    "lat": 45.6204,
+    "lon": -122.5355,
+    "precision": "high"
   },
   "flight": {
     "callsign": "C182",
@@ -15,15 +15,23 @@
     "destination": null,
     "firstSeen": "2026-02-02T18:26:35.903Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.43,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6163,
       -122.5308
+    ],
+    [
+      45.6204,
+      -122.5355
+    ],
+    [
+      45.6217,
+      -122.5409
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-28T08:08:55.639Z"
+  "status": "completed",
+  "timestamp": "2026-03-28T08:09:26.447Z"
 }
