@@ -11795,8 +11795,8 @@
     "icao": "A20CEC",
     "registration": "N231HF",
     "firstSeen": "2026-03-21T21:39:40.862Z",
-    "lastSeen": "2026-03-21T21:40:11.668Z",
-    "duration": 31,
+    "lastSeen": "2026-03-28T20:25:17.562Z",
+    "duration": 600337,
     "closestDistance": 0.3882544809369951,
     "closestAltitude": 1900,
     "closestSpeed": 122,
@@ -12829,5 +12829,24 @@
     "initialDistance": 0.2692595299443618,
     "initialAltitude": 3750,
     "initialSpeed": 258
+  },
+  {
+    "callsign": "EJA110",
+    "flightNumber": null,
+    "aircraftType": "GL5T",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": null,
+    "icao": "A02DA2",
+    "registration": "N110QS",
+    "firstSeen": "2026-03-28T20:25:58.833Z",
+    "lastSeen": "2026-03-28T20:25:58.833Z",
+    "duration": 0,
+    "closestDistance": 0.6489768744584736,
+    "closestAltitude": 21325,
+    "closestSpeed": 427,
+    "initialDistance": 0.6489768744584736,
+    "initialAltitude": 21325,
+    "initialSpeed": 427
   }
 ]
