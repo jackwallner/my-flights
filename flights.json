@@ -12848,5 +12848,24 @@
     "initialDistance": 0.6489768744584736,
     "initialAltitude": 21325,
     "initialSpeed": 427
+  },
+  {
+    "callsign": "N924D",
+    "flightNumber": null,
+    "aircraftType": "RV6",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "ACCD51",
+    "registration": "N924D",
+    "firstSeen": "2026-03-28T21:25:34.028Z",
+    "lastSeen": "2026-03-28T21:25:54.557Z",
+    "duration": 21,
+    "closestDistance": 0.6072715449212376,
+    "closestAltitude": 1100,
+    "closestSpeed": 106,
+    "initialDistance": 0.6072715449212376,
+    "initialAltitude": 1100,
+    "initialSpeed": 106
   }
 ]
