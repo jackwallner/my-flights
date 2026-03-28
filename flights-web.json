@@ -1,33 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 2225,
-    "speed": 158,
-    "timestamp": "2026-03-28T14:26:51.691Z",
-    "lat": 45.6333,
-    "lon": -122.5353,
-    "precision": "tracked"
+    "distance": 0.16,
+    "altitude": 3275,
+    "speed": 83,
+    "timestamp": "2026-03-28T14:42:16.543Z",
+    "lat": 45.6248,
+    "lon": -122.5244,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N6028F",
-    "aircraftType": "BE35",
+    "callsign": "N9185H",
+    "aircraftType": "C172",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-28T14:26:51.687Z"
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6333,
-      -122.5353
+      45.6317,
+      -122.5169
     ],
     [
-      45.6256,
-      -122.543
+      45.6283,
+      -122.5207
+    ],
+    [
+      45.6248,
+      -122.5244
+    ],
+    [
+      45.6222,
+      -122.5272
+    ],
+    [
+      45.6187,
+      -122.531
+    ],
+    [
+      45.6153,
+      -122.5346
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-28T14:27:12.247Z"
+  "timestamp": "2026-03-28T14:42:57.645Z"
 }
