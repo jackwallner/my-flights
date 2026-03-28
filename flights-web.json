@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 4375,
-    "speed": 98,
-    "timestamp": "2026-03-28T08:09:05.913Z",
-    "lat": 45.6204,
-    "lon": -122.5355,
-    "precision": "high"
+    "distance": 0.12,
+    "altitude": 34000,
+    "speed": 446,
+    "timestamp": "2026-03-28T09:38:51.864Z",
+    "lat": 45.6234,
+    "lon": -122.5293,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "C182",
-    "aircraftType": "C182",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-02T18:26:35.903Z"
+    "callsign": "ASA53",
+    "aircraftType": "B39M",
+    "origin": "LAS",
+    "destination": "ANC",
+    "firstSeen": "2026-03-28T09:38:51.859Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6163,
-      -122.5308
-    ],
-    [
-      45.6204,
-      -122.5355
-    ],
-    [
-      45.6217,
-      -122.5409
+      45.6234,
+      -122.5293
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-28T08:09:26.447Z"
+  "status": "tracking",
+  "timestamp": "2026-03-28T09:38:51.864Z"
 }

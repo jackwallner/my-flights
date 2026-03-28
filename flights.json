@@ -12734,5 +12734,24 @@
     "initialDistance": 0.4167807120500946,
     "initialAltitude": 5200,
     "initialSpeed": 233
+  },
+  {
+    "callsign": "ASA53",
+    "flightNumber": "AS53",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "ANC",
+    "icao": "ACF0D8",
+    "registration": "N933AK",
+    "firstSeen": "2026-03-28T09:38:51.859Z",
+    "lastSeen": "2026-03-28T09:38:51.859Z",
+    "duration": 0,
+    "closestDistance": 0.12343677220290775,
+    "closestAltitude": 34000,
+    "closestSpeed": 446,
+    "initialDistance": 0.12343677220290775,
+    "initialAltitude": 34000,
+    "initialSpeed": 446
   }
 ]
