@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 39175,
-    "speed": 474,
-    "timestamp": "2026-03-28T17:48:27.580Z",
-    "lat": 45.6261,
-    "lon": -122.525,
-    "precision": "tracked"
+    "distance": 0.46,
+    "altitude": 1100,
+    "speed": 68,
+    "timestamp": "2026-03-28T19:13:22.617Z",
+    "lat": 45.6177,
+    "lon": -122.5294,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "JTL605",
-    "aircraftType": "Chal",
-    "origin": "SNA",
-    "destination": "BFI",
-    "firstSeen": "2026-03-28T17:48:27.577Z"
+    "callsign": "N7148A",
+    "aircraftType": "R22",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-03-28T19:13:02.059Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.46,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6261,
-      -122.525
+      45.6182,
+      -122.5394
+    ],
+    [
+      45.618,
+      -122.5349
+    ],
+    [
+      45.6177,
+      -122.5294
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-28T17:48:48.126Z"
+  "timestamp": "2026-03-28T19:13:32.896Z"
 }

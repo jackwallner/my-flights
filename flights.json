@@ -12791,5 +12791,24 @@
     "initialDistance": 0.1396146939568922,
     "initialAltitude": 39175,
     "initialSpeed": 474
+  },
+  {
+    "callsign": "N7148A",
+    "flightNumber": null,
+    "aircraftType": "R22",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A98E5A",
+    "registration": "N7148A",
+    "firstSeen": "2026-03-28T19:13:02.059Z",
+    "lastSeen": "2026-03-28T19:13:22.614Z",
+    "duration": 21,
+    "closestDistance": 0.45833661009075394,
+    "closestAltitude": 1100,
+    "closestSpeed": 68,
+    "initialDistance": 0.6367205699193069,
+    "initialAltitude": 1100,
+    "initialSpeed": 68
   }
 ]
