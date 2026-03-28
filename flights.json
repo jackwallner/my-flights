@@ -12772,5 +12772,24 @@
     "initialDistance": 0.5682695857430466,
     "initialAltitude": 2225,
     "initialSpeed": 158
+  },
+  {
+    "callsign": "JTL605",
+    "flightNumber": "JL605",
+    "aircraftType": "CL60",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "BFI",
+    "icao": "A7DA15",
+    "registration": "N605CS",
+    "firstSeen": "2026-03-28T17:48:27.577Z",
+    "lastSeen": "2026-03-28T17:48:27.577Z",
+    "duration": 0,
+    "closestDistance": 0.1396146939568922,
+    "closestAltitude": 39175,
+    "closestSpeed": 474,
+    "initialDistance": 0.1396146939568922,
+    "initialAltitude": 39175,
+    "initialSpeed": 474
   }
 ]
