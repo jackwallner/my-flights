@@ -1,49 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 3275,
-    "speed": 83,
-    "timestamp": "2026-03-28T14:42:16.543Z",
-    "lat": 45.6248,
-    "lon": -122.5244,
-    "precision": "high"
+    "distance": 0.46,
+    "altitude": 33125,
+    "speed": 459,
+    "timestamp": "2026-03-28T15:23:33.545Z",
+    "lat": 45.6222,
+    "lon": -122.5382,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "callsign": "SKW4042",
+    "aircraftType": "E175",
+    "origin": "ONT",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T17:33:08.126Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.46,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6317,
-      -122.5169
-    ],
-    [
-      45.6283,
-      -122.5207
-    ],
-    [
-      45.6248,
-      -122.5244
-    ],
-    [
       45.6222,
-      -122.5272
-    ],
-    [
-      45.6187,
-      -122.531
-    ],
-    [
-      45.6153,
-      -122.5346
+      -122.5382
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-28T14:42:57.645Z"
+  "status": "tracking",
+  "timestamp": "2026-03-28T15:23:33.545Z"
 }
