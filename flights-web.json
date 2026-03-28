@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 1100,
-    "speed": 68,
-    "timestamp": "2026-03-28T19:13:22.617Z",
-    "lat": 45.6177,
-    "lon": -122.5294,
+    "distance": 0.1,
+    "altitude": 2975,
+    "speed": 118,
+    "timestamp": "2026-03-28T19:53:26.920Z",
+    "lat": 45.6259,
+    "lon": -122.5259,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N7148A",
-    "aircraftType": "R22",
-    "origin": "PDX",
+    "callsign": "N64269",
+    "aircraftType": "C172",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-28T19:13:02.059Z"
+    "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.1,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6182,
-      -122.5394
+      45.621,
+      -122.5395
     ],
     [
-      45.618,
-      -122.5349
+      45.6237,
+      -122.5321
     ],
     [
-      45.6177,
-      -122.5294
+      45.6259,
+      -122.5259
+    ],
+    [
+      45.6272,
+      -122.5167
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-28T19:13:32.896Z"
+  "timestamp": "2026-03-28T19:53:47.441Z"
 }
