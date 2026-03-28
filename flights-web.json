@@ -1,53 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 1300,
-    "speed": 66,
-    "timestamp": "2026-03-28T01:23:47.988Z",
-    "lat": 45.6264,
-    "lon": -122.5327,
+    "distance": 0.5,
+    "altitude": 2500,
+    "speed": 104,
+    "timestamp": "2026-03-28T01:34:46.499Z",
+    "lat": 45.6335,
+    "lon": -122.5303,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N140JT",
-    "aircraftType": "C140",
-    "origin": null,
+    "callsign": "N2414T",
+    "aircraftType": "BRAV",
+    "origin": "RLD",
     "destination": null,
-    "firstSeen": "2026-03-28T01:23:17.170Z"
+    "firstSeen": "2026-03-28T01:34:36.194Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 7,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6215,
-      -122.5249
+      45.6337,
+      -122.5242
     ],
     [
-      45.6207,
-      -122.5298
+      45.6335,
+      -122.5303
     ],
     [
-      45.6234,
-      -122.5331
-    ],
-    [
-      45.6264,
-      -122.5327
-    ],
-    [
-      45.6292,
-      -122.5321
-    ],
-    [
-      45.6329,
-      -122.5315
-    ],
-    [
-      45.6352,
-      -122.5313
+      45.6333,
+      -122.5372
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-28T01:24:29.061Z"
+  "timestamp": "2026-03-28T01:35:07.079Z"
 }

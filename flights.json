@@ -12677,5 +12677,24 @@
     "initialDistance": 0.2640201838090021,
     "initialAltitude": 1300,
     "initialSpeed": 70
+  },
+  {
+    "callsign": "N2414T",
+    "flightNumber": null,
+    "aircraftType": "BRAV",
+    "aircraftName": null,
+    "origin": "RLD",
+    "destination": null,
+    "icao": "A236AC",
+    "registration": "N2414T",
+    "firstSeen": "2026-03-28T01:34:36.194Z",
+    "lastSeen": "2026-03-28T01:34:56.796Z",
+    "duration": 21,
+    "closestDistance": 0.501986672414277,
+    "closestAltitude": 2500,
+    "closestSpeed": 104,
+    "initialDistance": 0.531524704624028,
+    "initialAltitude": 2625,
+    "initialSpeed": 106
   }
 ]
