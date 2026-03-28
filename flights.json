@@ -12715,5 +12715,24 @@
     "initialDistance": 0.5102813691767736,
     "initialAltitude": 6775,
     "initialSpeed": 271
+  },
+  {
+    "callsign": "ASA1392",
+    "flightNumber": "AS1392",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "PDX",
+    "icao": "A5521C",
+    "registration": "N442AS",
+    "firstSeen": "2026-03-28T03:32:34.871Z",
+    "lastSeen": "2026-03-28T03:32:45.153Z",
+    "duration": 10,
+    "closestDistance": 0.1395183287130476,
+    "closestAltitude": 5050,
+    "closestSpeed": 230,
+    "initialDistance": 0.4167807120500946,
+    "initialAltitude": 5200,
+    "initialSpeed": 233
   }
 ]
