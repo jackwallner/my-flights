@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.7,
-    "altitude": 1725,
-    "speed": 75,
-    "timestamp": "2026-03-28T22:02:32.983Z",
-    "lat": 45.6367,
-    "lon": -122.5251,
+    "distance": 0.33,
+    "altitude": 40000,
+    "speed": 437,
+    "timestamp": "2026-03-28T22:48:05.204Z",
+    "lat": 45.6215,
+    "lon": -122.5225,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N922DD",
-    "aircraftType": "R22",
-    "origin": "TTD",
+    "callsign": "LJ60",
+    "aircraftType": "LJ60",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-21T15:31:18.144Z"
+    "firstSeen": "2026-03-24T05:43:33.013Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.33,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6367,
-      -122.5251
+      45.6215,
+      -122.5225
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-28T22:02:53.510Z"
+  "timestamp": "2026-03-28T22:48:25.714Z"
 }
