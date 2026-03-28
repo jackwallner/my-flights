@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 2500,
-    "speed": 104,
-    "timestamp": "2026-03-28T01:34:46.499Z",
-    "lat": 45.6335,
-    "lon": -122.5303,
-    "precision": "high"
+    "distance": 0.51,
+    "altitude": 6775,
+    "speed": 271,
+    "timestamp": "2026-03-28T03:15:15.843Z",
+    "lat": 45.6214,
+    "lon": -122.5173,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N2414T",
-    "aircraftType": "BRAV",
-    "origin": "RLD",
-    "destination": null,
-    "firstSeen": "2026-03-28T01:34:36.194Z"
+    "callsign": "QXE2114",
+    "aircraftType": "E175",
+    "origin": "ANC",
+    "destination": "PDX",
+    "firstSeen": "2026-03-28T03:15:15.837Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6337,
-      -122.5242
-    ],
-    [
-      45.6335,
-      -122.5303
-    ],
-    [
-      45.6333,
-      -122.5372
+      45.6214,
+      -122.5173
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-28T01:35:07.079Z"
+  "timestamp": "2026-03-28T03:15:36.431Z"
 }

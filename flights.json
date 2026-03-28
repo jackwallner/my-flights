@@ -12696,5 +12696,24 @@
     "initialDistance": 0.531524704624028,
     "initialAltitude": 2625,
     "initialSpeed": 106
+  },
+  {
+    "callsign": "QXE2114",
+    "flightNumber": "AS2114",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "ANC",
+    "destination": "PDX",
+    "icao": "A83F30",
+    "registration": "N630QX",
+    "firstSeen": "2026-03-28T03:15:15.837Z",
+    "lastSeen": "2026-03-28T03:15:15.837Z",
+    "duration": 0,
+    "closestDistance": 0.5102813691767736,
+    "closestAltitude": 6775,
+    "closestSpeed": 271,
+    "initialDistance": 0.5102813691767736,
+    "initialAltitude": 6775,
+    "initialSpeed": 271
   }
 ]
