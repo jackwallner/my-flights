@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 3750,
-    "speed": 258,
-    "timestamp": "2026-03-28T20:06:58.595Z",
-    "lat": 45.6276,
-    "lon": -122.5336,
-    "precision": "tracked"
+    "distance": 0.3,
+    "altitude": 1825,
+    "speed": 139,
+    "timestamp": "2026-03-28T20:13:28.907Z",
+    "lat": 45.6205,
+    "lon": -122.526,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N117AA",
-    "aircraftType": "Chal",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-03-28T20:06:58.592Z"
+    "callsign": "N167DR",
+    "aircraftType": "RV7",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-03-20T03:01:20.375Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6276,
-      -122.5336
+      45.625,
+      -122.5182
+    ],
+    [
+      45.6205,
+      -122.526
+    ],
+    [
+      45.6172,
+      -122.5321
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-28T20:07:19.117Z"
+  "timestamp": "2026-03-28T20:13:49.446Z"
 }
