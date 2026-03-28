@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 21325,
-    "speed": 427,
-    "timestamp": "2026-03-28T20:25:58.836Z",
-    "lat": 45.6357,
-    "lon": -122.524,
+    "distance": 0.59,
+    "altitude": 3525,
+    "speed": 76,
+    "timestamp": "2026-03-28T20:54:14.132Z",
+    "lat": 45.6344,
+    "lon": -122.5232,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA110",
-    "aircraftType": "GL5T",
-    "origin": "PSP",
+    "callsign": "N64269",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-28T20:25:58.833Z"
+    "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6357,
-      -122.524
+      45.6344,
+      -122.5232
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-28T20:26:19.358Z"
+  "status": "tracking",
+  "timestamp": "2026-03-28T20:54:14.132Z"
 }
