@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 33125,
-    "speed": 459,
-    "timestamp": "2026-03-28T15:23:33.545Z",
-    "lat": 45.6222,
-    "lon": -122.5382,
+    "distance": 0.39,
+    "altitude": 1850,
+    "speed": 150,
+    "timestamp": "2026-03-28T16:53:40.140Z",
+    "lat": 45.62,
+    "lon": -122.5229,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4042",
-    "aircraftType": "E175",
-    "origin": "ONT",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T17:33:08.126Z"
+    "callsign": "N6028F",
+    "aircraftType": "BE35",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-03-28T14:26:51.687Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6222,
-      -122.5382
+      45.6197,
+      -122.5339
+    ],
+    [
+      45.62,
+      -122.5229
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-28T15:23:54.077Z"
+  "timestamp": "2026-03-28T16:53:50.429Z"
 }
