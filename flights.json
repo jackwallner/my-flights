@@ -12810,5 +12810,24 @@
     "initialDistance": 0.6367205699193069,
     "initialAltitude": 1100,
     "initialSpeed": 68
+  },
+  {
+    "callsign": "N117AA",
+    "flightNumber": null,
+    "aircraftType": "CL60",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "HIO",
+    "icao": "A04635",
+    "registration": "N117AA",
+    "firstSeen": "2026-03-28T20:06:58.592Z",
+    "lastSeen": "2026-03-28T20:06:58.592Z",
+    "duration": 0,
+    "closestDistance": 0.2692595299443618,
+    "closestAltitude": 3750,
+    "closestSpeed": 258,
+    "initialDistance": 0.2692595299443618,
+    "initialAltitude": 3750,
+    "initialSpeed": 258
   }
 ]

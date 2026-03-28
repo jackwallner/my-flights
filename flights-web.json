@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.1,
-    "altitude": 2975,
-    "speed": 118,
-    "timestamp": "2026-03-28T19:53:26.920Z",
-    "lat": 45.6259,
-    "lon": -122.5259,
-    "precision": "high"
+    "distance": 0.27,
+    "altitude": 3750,
+    "speed": 258,
+    "timestamp": "2026-03-28T20:06:58.595Z",
+    "lat": 45.6276,
+    "lon": -122.5336,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "callsign": "N117AA",
+    "aircraftType": "Chal",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-03-28T20:06:58.592Z"
   },
-  "overheadScore": 0.1,
+  "overheadScore": 0.27,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.621,
-      -122.5395
-    ],
-    [
-      45.6237,
-      -122.5321
-    ],
-    [
-      45.6259,
-      -122.5259
-    ],
-    [
-      45.6272,
-      -122.5167
+      45.6276,
+      -122.5336
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-28T19:53:47.441Z"
+  "timestamp": "2026-03-28T20:07:19.117Z"
 }
