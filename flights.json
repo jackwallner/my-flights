@@ -12658,5 +12658,24 @@
     "initialDistance": 0.5401225608098261,
     "initialAltitude": 24900,
     "initialSpeed": 311
+  },
+  {
+    "callsign": "N140JT",
+    "flightNumber": null,
+    "aircraftType": "C140",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A0A38A",
+    "registration": "N140JT",
+    "firstSeen": "2026-03-28T01:23:17.170Z",
+    "lastSeen": "2026-03-28T01:24:08.510Z",
+    "duration": 51,
+    "closestDistance": 0.20404800701275633,
+    "closestAltitude": 1300,
+    "closestSpeed": 66,
+    "initialDistance": 0.2640201838090021,
+    "initialAltitude": 1300,
+    "initialSpeed": 70
   }
 ]

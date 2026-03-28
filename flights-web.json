@@ -1,45 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 1500,
-    "speed": 101,
-    "timestamp": "2026-03-28T00:04:42.206Z",
-    "lat": 45.6206,
-    "lon": -122.5301,
+    "distance": 0.2,
+    "altitude": 1300,
+    "speed": 66,
+    "timestamp": "2026-03-28T01:23:47.988Z",
+    "lat": 45.6264,
+    "lon": -122.5327,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N6758H",
-    "aircraftType": "C172",
+    "callsign": "N140JT",
+    "aircraftType": "C140",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-01-31T19:49:55.976Z"
+    "firstSeen": "2026-03-28T01:23:17.170Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6243,
-      -122.5433
+      45.6215,
+      -122.5249
     ],
     [
-      45.6225,
-      -122.537
+      45.6207,
+      -122.5298
     ],
     [
-      45.6206,
-      -122.5301
+      45.6234,
+      -122.5331
     ],
     [
-      45.6191,
-      -122.5239
+      45.6264,
+      -122.5327
     ],
     [
-      45.6175,
-      -122.5173
+      45.6292,
+      -122.5321
+    ],
+    [
+      45.6329,
+      -122.5315
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-28T00:05:13.011Z"
+  "status": "tracking",
+  "timestamp": "2026-03-28T01:24:08.513Z"
 }
