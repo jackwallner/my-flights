@@ -12981,5 +12981,24 @@
     "initialDistance": 0.6862133575490857,
     "initialAltitude": 35900,
     "initialSpeed": 398
+  },
+  {
+    "callsign": "TIV709",
+    "flightNumber": "TIV709",
+    "aircraftType": "GLF4",
+    "aircraftName": null,
+    "origin": "HII",
+    "destination": "PWT",
+    "icao": "ACDAA5",
+    "registration": "N92709",
+    "firstSeen": "2026-03-29T22:05:24.998Z",
+    "lastSeen": "2026-03-29T22:05:24.998Z",
+    "duration": 0,
+    "closestDistance": 0.6874496541609536,
+    "closestAltitude": 33525,
+    "closestSpeed": 417,
+    "initialDistance": 0.6874496541609536,
+    "initialAltitude": 33525,
+    "initialSpeed": 417
   }
 ]

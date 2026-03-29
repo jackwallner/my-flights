@@ -1,29 +1,29 @@
 {
   "closestApproach": {
     "distance": 0.69,
-    "altitude": 35900,
-    "speed": 398,
-    "timestamp": "2026-03-29T21:55:50.297Z",
-    "lat": 45.6315,
-    "lon": -122.5144,
+    "altitude": 33525,
+    "speed": 417,
+    "timestamp": "2026-03-29T22:05:25.002Z",
+    "lat": 45.634,
+    "lon": -122.5175,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1456",
-    "aircraftType": "737",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-03-29T21:55:50.292Z"
+    "callsign": "TIV709",
+    "aircraftType": "Gulf",
+    "origin": "HII",
+    "destination": "PWT",
+    "firstSeen": "2026-03-29T22:05:24.998Z"
   },
   "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6315,
-      -122.5144
+      45.634,
+      -122.5175
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-29T21:56:10.823Z"
+  "timestamp": "2026-03-29T22:05:45.537Z"
 }
