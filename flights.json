@@ -12867,5 +12867,24 @@
     "initialDistance": 0.6072715449212376,
     "initialAltitude": 1100,
     "initialSpeed": 106
+  },
+  {
+    "callsign": "GA5C",
+    "flightNumber": null,
+    "aircraftType": "GA5C",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-03-29T16:36:50.379Z",
+    "lastSeen": "2026-03-29T16:37:00.666Z",
+    "duration": 10,
+    "closestDistance": 0.5787813443386449,
+    "closestAltitude": 4900,
+    "closestSpeed": 252,
+    "initialDistance": 0.6603921332085403,
+    "initialAltitude": 5150,
+    "initialSpeed": 253
   }
 ]

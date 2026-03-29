@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 40000,
-    "speed": 419,
-    "timestamp": "2026-03-29T13:27:21.011Z",
-    "lat": 45.63,
-    "lon": -122.5285,
+    "distance": 0.58,
+    "altitude": 4900,
+    "speed": 252,
+    "timestamp": "2026-03-29T16:37:00.669Z",
+    "lat": 45.6269,
+    "lon": -122.5417,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LAE2525",
-    "aircraftType": "767",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-08T19:33:19.685Z"
+    "callsign": "GA5C",
+    "aircraftType": "GA5C",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-03-29T16:36:50.379Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.58,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.63,
-      -122.5285
+      45.6362,
+      -122.53
+    ],
+    [
+      45.6269,
+      -122.5417
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-29T13:27:41.602Z"
+  "timestamp": "2026-03-29T16:37:11.067Z"
 }
