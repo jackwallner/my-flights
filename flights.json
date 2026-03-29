@@ -12905,5 +12905,24 @@
     "initialDistance": 0.4889293679588699,
     "initialAltitude": 34000,
     "initialSpeed": 413
+  },
+  {
+    "callsign": "N733SR",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "TKF",
+    "destination": "TIW",
+    "icao": "A9D7D0",
+    "registration": "N733SR",
+    "firstSeen": "2026-03-29T17:54:59.282Z",
+    "lastSeen": "2026-03-29T17:55:09.550Z",
+    "duration": 10,
+    "closestDistance": 0.43184521591374875,
+    "closestAltitude": 24000,
+    "closestSpeed": 271,
+    "initialDistance": 0.43184521591374875,
+    "initialAltitude": 24000,
+    "initialSpeed": 271
   }
 ]
