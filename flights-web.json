@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 36325,
-    "speed": 435,
-    "timestamp": "2026-03-29T20:56:13.553Z",
-    "lat": 45.6263,
-    "lon": -122.5411,
+    "distance": 0.69,
+    "altitude": 37875,
+    "speed": 425,
+    "timestamp": "2026-03-29T21:06:40.657Z",
+    "lat": 45.6243,
+    "lon": -122.5118,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA784",
-    "aircraftType": "CL35",
-    "origin": "CLD",
+    "callsign": "N7670B",
+    "aircraftType": "CL30",
+    "origin": "TRM",
     "destination": "BFI",
-    "firstSeen": "2026-03-29T20:56:13.548Z"
+    "firstSeen": "2026-02-01T22:26:54.845Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6263,
-      -122.5411
+      45.6243,
+      -122.5118
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-29T20:56:34.132Z"
+  "timestamp": "2026-03-29T21:07:01.185Z"
 }
