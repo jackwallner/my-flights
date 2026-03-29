@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 1300,
-    "speed": 106,
-    "timestamp": "2026-03-29T19:23:12.430Z",
-    "lat": 45.6158,
-    "lon": -122.5345,
+    "distance": 0.66,
+    "altitude": 41000,
+    "speed": 503,
+    "timestamp": "2026-03-29T20:39:57.304Z",
+    "lat": 45.6292,
+    "lon": -122.5429,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N3700Q",
-    "aircraftType": "P28R",
-    "origin": "TTD",
+    "callsign": "GLF6",
+    "aircraftType": "Gulf",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-29T19:23:02.138Z"
+    "firstSeen": "2026-02-04T23:31:14.571Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6141,
-      -122.5271
-    ],
-    [
-      45.6158,
-      -122.5345
+      45.6292,
+      -122.5429
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-29T19:23:22.709Z"
+  "timestamp": "2026-03-29T20:40:17.830Z"
 }
