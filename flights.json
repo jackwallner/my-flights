@@ -12962,5 +12962,24 @@
     "initialDistance": 0.5487890135842113,
     "initialAltitude": 36325,
     "initialSpeed": 435
+  },
+  {
+    "callsign": "ASA1456",
+    "flightNumber": "AS1456",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A677CA",
+    "registration": "N516AS",
+    "firstSeen": "2026-03-29T21:55:50.292Z",
+    "lastSeen": "2026-03-29T21:55:50.292Z",
+    "duration": 0,
+    "closestDistance": 0.6862133575490857,
+    "closestAltitude": 35900,
+    "closestSpeed": 398,
+    "initialDistance": 0.6862133575490857,
+    "initialAltitude": 35900,
+    "initialSpeed": 398
   }
 ]
