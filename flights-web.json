@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 2050,
-    "speed": 150,
-    "timestamp": "2026-03-29T00:32:38.448Z",
-    "lat": 45.6172,
-    "lon": -122.5395,
-    "precision": "tracked"
+    "distance": 0.34,
+    "altitude": 1725,
+    "speed": 142,
+    "timestamp": "2026-03-29T00:32:59.021Z",
+    "lat": 45.6232,
+    "lon": -122.5207,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N167DR",
@@ -15,15 +15,27 @@
     "destination": null,
     "firstSeen": "2026-03-20T03:01:20.375Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.34,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6172,
       -122.5395
+    ],
+    [
+      45.6199,
+      -122.5303
+    ],
+    [
+      45.6232,
+      -122.5207
+    ],
+    [
+      45.6253,
+      -122.5136
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-29T00:32:38.448Z"
+  "status": "completed",
+  "timestamp": "2026-03-29T00:33:19.559Z"
 }
