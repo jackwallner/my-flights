@@ -12924,5 +12924,24 @@
     "initialDistance": 0.43184521591374875,
     "initialAltitude": 24000,
     "initialSpeed": 271
+  },
+  {
+    "callsign": "N3700Q",
+    "flightNumber": null,
+    "aircraftType": "P28R",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A43632",
+    "registration": "N3700Q",
+    "firstSeen": "2026-03-29T19:23:02.138Z",
+    "lastSeen": "2026-03-29T19:23:12.427Z",
+    "duration": 10,
+    "closestDistance": 0.6292571882244866,
+    "closestAltitude": 1300,
+    "closestSpeed": 106,
+    "initialDistance": 0.6726212806636802,
+    "initialAltitude": 1300,
+    "initialSpeed": 107
   }
 ]
