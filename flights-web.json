@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 41000,
-    "speed": 503,
-    "timestamp": "2026-03-29T20:39:57.304Z",
-    "lat": 45.6292,
-    "lon": -122.5429,
+    "distance": 0.55,
+    "altitude": 36325,
+    "speed": 435,
+    "timestamp": "2026-03-29T20:56:13.553Z",
+    "lat": 45.6263,
+    "lon": -122.5411,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GLF6",
-    "aircraftType": "Gulf",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T23:31:14.571Z"
+    "callsign": "EJA784",
+    "aircraftType": "CL35",
+    "origin": "CLD",
+    "destination": "BFI",
+    "firstSeen": "2026-03-29T20:56:13.548Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.55,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6292,
-      -122.5429
+      45.6263,
+      -122.5411
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-29T20:40:17.830Z"
+  "timestamp": "2026-03-29T20:56:34.132Z"
 }

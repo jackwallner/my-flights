@@ -12943,5 +12943,24 @@
     "initialDistance": 0.6726212806636802,
     "initialAltitude": 1300,
     "initialSpeed": 107
+  },
+  {
+    "callsign": "EJA784",
+    "flightNumber": "EJA784",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "CLD",
+    "destination": "BFI",
+    "icao": "AAA0D1",
+    "registration": "N784QS",
+    "firstSeen": "2026-03-29T20:56:13.548Z",
+    "lastSeen": "2026-03-29T20:56:13.548Z",
+    "duration": 0,
+    "closestDistance": 0.5487890135842113,
+    "closestAltitude": 36325,
+    "closestSpeed": 435,
+    "initialDistance": 0.5487890135842113,
+    "initialAltitude": 36325,
+    "initialSpeed": 435
   }
 ]
