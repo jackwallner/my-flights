@@ -12886,5 +12886,24 @@
     "initialDistance": 0.6603921332085403,
     "initialAltitude": 5150,
     "initialSpeed": 253
+  },
+  {
+    "callsign": "SKW3284",
+    "flightNumber": "AS3284",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "PSP",
+    "destination": "SEA",
+    "icao": "A11AD4",
+    "registration": "N170SY",
+    "firstSeen": "2026-03-29T16:39:04.199Z",
+    "lastSeen": "2026-03-29T16:39:14.464Z",
+    "duration": 10,
+    "closestDistance": 0.4889293679588699,
+    "closestAltitude": 34000,
+    "closestSpeed": 413,
+    "initialDistance": 0.4889293679588699,
+    "initialAltitude": 34000,
+    "initialSpeed": 413
   }
 ]
