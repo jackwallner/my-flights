@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 38400,
-    "speed": 480,
-    "timestamp": "2026-03-30T18:00:34.720Z",
-    "lat": 45.6235,
-    "lon": -122.5361,
+    "distance": 0.31,
+    "altitude": 35150,
+    "speed": 396,
+    "timestamp": "2026-03-30T19:45:49.811Z",
+    "lat": 45.6249,
+    "lon": -122.5354,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GA7C",
-    "aircraftType": "GA7C",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T19:01:20.748Z"
+    "callsign": "ASA1489",
+    "aircraftType": "B39M",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-03-30T19:45:49.806Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6235,
-      -122.5361
+      45.6249,
+      -122.5354
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-30T18:00:55.251Z"
+  "timestamp": "2026-03-30T19:46:10.302Z"
 }

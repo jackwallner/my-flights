@@ -13076,5 +13076,24 @@
     "initialDistance": 0.6315146350844335,
     "initialAltitude": 36000,
     "initialSpeed": 398
+  },
+  {
+    "callsign": "ASA1489",
+    "flightNumber": "AS1489",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AD14A0",
+    "registration": "N942AK",
+    "firstSeen": "2026-03-30T19:45:49.806Z",
+    "lastSeen": "2026-03-30T19:45:49.806Z",
+    "duration": 0,
+    "closestDistance": 0.3068830613704045,
+    "closestAltitude": 35150,
+    "closestSpeed": 396,
+    "initialDistance": 0.3068830613704045,
+    "initialAltitude": 35150,
+    "initialSpeed": 396
   }
 ]
