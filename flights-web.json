@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.09,
-    "altitude": 1650,
-    "speed": 89,
-    "timestamp": "2026-03-30T21:51:34.033Z",
-    "lat": 45.6265,
-    "lon": -122.5268,
-    "precision": "high"
+    "distance": 0.41,
+    "altitude": 40000,
+    "speed": 432,
+    "timestamp": "2026-03-30T21:59:17.048Z",
+    "lat": 45.623,
+    "lon": -122.5374,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N451LF",
-    "aircraftType": "B407",
-    "origin": "PDX",
+    "callsign": "CL35",
+    "aircraftType": "CL35",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-02T23:23:22.298Z"
+    "firstSeen": "2026-02-02T21:10:19.478Z"
   },
-  "overheadScore": 0.09,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6265,
-      -122.5396
-    ],
-    [
-      45.6265,
-      -122.5332
-    ],
-    [
-      45.6265,
-      -122.5268
-    ],
-    [
-      45.6266,
-      -122.5214
-    ],
-    [
-      45.6267,
-      -122.5151
+      45.623,
+      -122.5374
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-30T21:52:04.862Z"
+  "timestamp": "2026-03-30T21:59:37.588Z"
 }
