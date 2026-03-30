@@ -13095,5 +13095,24 @@
     "initialDistance": 0.3068830613704045,
     "initialAltitude": 35150,
     "initialSpeed": 396
+  },
+  {
+    "callsign": "EJA797",
+    "flightNumber": "EJA797",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "UDD",
+    "destination": "BFI",
+    "icao": "AAD375",
+    "registration": "N797QS",
+    "firstSeen": "2026-03-30T20:27:07.993Z",
+    "lastSeen": "2026-03-30T20:27:07.993Z",
+    "duration": 0,
+    "closestDistance": 0.6229004421519169,
+    "closestAltitude": 39075,
+    "closestSpeed": 456,
+    "initialDistance": 0.6229004421519169,
+    "initialAltitude": 39075,
+    "initialSpeed": 456
   }
 ]

@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 30000,
-    "speed": 420,
-    "timestamp": "2026-03-30T20:11:32.059Z",
-    "lat": 45.6216,
+    "distance": 0.62,
+    "altitude": 39075,
+    "speed": 456,
+    "timestamp": "2026-03-30T20:27:07.996Z",
+    "lat": 45.6296,
     "lon": -122.5416,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3814",
-    "aircraftType": "E175",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T23:56:05.526Z"
+    "callsign": "EJA797",
+    "aircraftType": "CL35",
+    "origin": "UDD",
+    "destination": "BFI",
+    "firstSeen": "2026-03-30T20:27:07.993Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.62,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6216,
+      45.6296,
       -122.5416
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-30T20:11:52.735Z"
+  "timestamp": "2026-03-30T20:27:28.530Z"
 }
