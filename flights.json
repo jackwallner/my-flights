@@ -13114,5 +13114,24 @@
     "initialDistance": 0.6229004421519169,
     "initialAltitude": 39075,
     "initialSpeed": 456
+  },
+  {
+    "callsign": "LXJ600",
+    "flightNumber": "LXJ600",
+    "aircraftType": "E550",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": "BFI",
+    "icao": "A7C7D2",
+    "registration": "N600FX",
+    "firstSeen": "2026-03-30T22:26:00.802Z",
+    "lastSeen": "2026-03-30T22:26:11.068Z",
+    "duration": 10,
+    "closestDistance": 0.4592883949861931,
+    "closestAltitude": 24000,
+    "closestSpeed": 380,
+    "initialDistance": 0.4592883949861931,
+    "initialAltitude": 24000,
+    "initialSpeed": 380
   }
 ]
