@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 36000,
-    "speed": 398,
-    "timestamp": "2026-03-30T16:56:52.233Z",
-    "lat": 45.634,
-    "lon": -122.5197,
-    "precision": "tracked"
+    "distance": 0.18,
+    "altitude": 1350,
+    "speed": 126,
+    "timestamp": "2026-03-30T17:47:34.036Z",
+    "lat": 45.6272,
+    "lon": -122.5315,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "UAL1351",
-    "aircraftType": "A319",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-03-30T16:56:52.228Z"
+    "callsign": "N451LF",
+    "aircraftType": "B407",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-02T23:23:22.298Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.634,
-      -122.5197
+      45.629,
+      -122.5153
+    ],
+    [
+      45.6282,
+      -122.5228
+    ],
+    [
+      45.6272,
+      -122.5315
+    ],
+    [
+      45.6262,
+      -122.5399
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-30T16:57:12.762Z"
+  "timestamp": "2026-03-30T17:47:54.584Z"
 }
