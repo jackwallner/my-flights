@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 35550,
-    "speed": 387,
-    "timestamp": "2026-03-30T01:55:50.621Z",
-    "lat": 45.6281,
-    "lon": -122.5221,
+    "distance": 0.29,
+    "altitude": 33275,
+    "speed": 423,
+    "timestamp": "2026-03-30T02:15:03.392Z",
+    "lat": 45.6229,
+    "lon": -122.534,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2443",
-    "aircraftType": "E175",
-    "origin": "MRY",
+    "callsign": "DAL2640",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-21T17:40:19.340Z"
+    "firstSeen": "2026-02-10T03:49:09.282Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.29,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6281,
-      -122.5221
+      45.6229,
+      -122.534
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-30T01:56:11.156Z"
+  "status": "tracking",
+  "timestamp": "2026-03-30T02:15:03.392Z"
 }
