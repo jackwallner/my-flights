@@ -13057,5 +13057,24 @@
     "initialDistance": 0.6539648804736276,
     "initialAltitude": 6850,
     "initialSpeed": 132
+  },
+  {
+    "callsign": "UAL1351",
+    "flightNumber": "UA1351",
+    "aircraftType": "A319",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AB7B8C",
+    "registration": "N839UA",
+    "firstSeen": "2026-03-30T16:56:52.228Z",
+    "lastSeen": "2026-03-30T16:56:52.228Z",
+    "duration": 0,
+    "closestDistance": 0.6315146350844335,
+    "closestAltitude": 36000,
+    "closestSpeed": 398,
+    "initialDistance": 0.6315146350844335,
+    "initialAltitude": 36000,
+    "initialSpeed": 398
   }
 ]

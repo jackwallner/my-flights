@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 6850,
-    "speed": 131,
-    "timestamp": "2026-03-30T03:33:55.437Z",
-    "lat": 45.6243,
-    "lon": -122.5353,
-    "precision": "high"
+    "distance": 0.63,
+    "altitude": 36000,
+    "speed": 398,
+    "timestamp": "2026-03-30T16:56:52.233Z",
+    "lat": 45.634,
+    "lon": -122.5197,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "GFY1894",
-    "aircraftType": "DA42",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-30T03:33:34.894Z"
+    "callsign": "UAL1351",
+    "aircraftType": "A319",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-03-30T16:56:52.228Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6355,
-      -122.5335
-    ],
-    [
-      45.6292,
-      -122.5345
-    ],
-    [
-      45.6243,
-      -122.5353
-    ],
-    [
-      45.6174,
-      -122.5364
+      45.634,
+      -122.5197
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-30T03:34:15.957Z"
+  "timestamp": "2026-03-30T16:57:12.762Z"
 }
