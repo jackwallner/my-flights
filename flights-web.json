@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 1350,
-    "speed": 126,
-    "timestamp": "2026-03-30T17:47:34.036Z",
-    "lat": 45.6272,
-    "lon": -122.5315,
-    "precision": "high"
+    "distance": 0.35,
+    "altitude": 38400,
+    "speed": 480,
+    "timestamp": "2026-03-30T18:00:34.720Z",
+    "lat": 45.6235,
+    "lon": -122.5361,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N451LF",
-    "aircraftType": "B407",
+    "callsign": "GA7C",
+    "aircraftType": "GA7C",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-02T23:23:22.298Z"
+    "firstSeen": "2026-02-09T19:01:20.748Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.629,
-      -122.5153
-    ],
-    [
-      45.6282,
-      -122.5228
-    ],
-    [
-      45.6272,
-      -122.5315
-    ],
-    [
-      45.6262,
-      -122.5399
+      45.6235,
+      -122.5361
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-30T17:47:54.584Z"
+  "timestamp": "2026-03-30T18:00:55.251Z"
 }
