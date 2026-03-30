@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 35950,
-    "speed": 392,
-    "timestamp": "2026-03-30T01:50:11.795Z",
-    "lat": 45.6287,
-    "lon": -122.5361,
+    "distance": 0.3,
+    "altitude": 35550,
+    "speed": 387,
+    "timestamp": "2026-03-30T01:55:50.621Z",
+    "lat": 45.6281,
+    "lon": -122.5221,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SIS384",
-    "aircraftType": "GALX",
-    "origin": "VNY",
-    "destination": null,
-    "firstSeen": "2026-03-30T01:50:11.792Z"
+    "callsign": "QXE2443",
+    "aircraftType": "E175",
+    "origin": "MRY",
+    "destination": "SEA",
+    "firstSeen": "2026-02-21T17:40:19.340Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.3,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6287,
-      -122.5361
+      45.6281,
+      -122.5221
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-30T01:50:32.357Z"
+  "timestamp": "2026-03-30T01:56:11.156Z"
 }
