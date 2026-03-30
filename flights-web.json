@@ -1,41 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 2000,
-    "speed": 127,
-    "timestamp": "2026-03-29T22:40:20.566Z",
-    "lat": 45.6213,
-    "lon": -122.525,
+    "distance": 0.09,
+    "altitude": 800,
+    "speed": 90,
+    "timestamp": "2026-03-30T01:38:43.777Z",
+    "lat": 45.6249,
+    "lon": -122.526,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9991Y",
-    "aircraftType": "T210",
-    "origin": "QSN",
+    "callsign": "N3194W",
+    "aircraftType": "R44",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-16T23:44:13.261Z"
+    "firstSeen": "2026-03-30T01:38:23.224Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.09,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6207,
-      -122.5159
+      45.6208,
+      -122.5191
     ],
     [
-      45.6213,
-      -122.525
+      45.6238,
+      -122.5243
     ],
     [
-      45.6219,
-      -122.5325
+      45.6249,
+      -122.526
     ],
     [
-      45.6226,
-      -122.5432
+      45.6294,
+      -122.5313
+    ],
+    [
+      45.6319,
+      -122.5371
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-29T22:40:51.364Z"
+  "status": "tracking",
+  "timestamp": "2026-03-30T01:39:04.321Z"
 }

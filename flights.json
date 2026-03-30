@@ -13000,5 +13000,24 @@
     "initialDistance": 0.6874496541609536,
     "initialAltitude": 33525,
     "initialSpeed": 417
+  },
+  {
+    "callsign": "N3194W",
+    "flightNumber": null,
+    "aircraftType": "R44",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A36B39",
+    "registration": "N3194W",
+    "firstSeen": "2026-03-30T01:38:23.224Z",
+    "lastSeen": "2026-03-30T01:39:04.318Z",
+    "duration": 41,
+    "closestDistance": 0.09156253841959117,
+    "closestAltitude": 800,
+    "closestSpeed": 90,
+    "initialDistance": 0.4642816179205715,
+    "initialAltitude": 700,
+    "initialSpeed": 93
   }
 ]
