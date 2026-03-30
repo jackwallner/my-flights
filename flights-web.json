@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.09,
-    "altitude": 800,
-    "speed": 90,
-    "timestamp": "2026-03-30T01:38:43.777Z",
-    "lat": 45.6249,
-    "lon": -122.526,
-    "precision": "high"
+    "distance": 0.39,
+    "altitude": 35950,
+    "speed": 392,
+    "timestamp": "2026-03-30T01:50:11.795Z",
+    "lat": 45.6287,
+    "lon": -122.5361,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N3194W",
-    "aircraftType": "R44",
-    "origin": "TTD",
+    "callsign": "SIS384",
+    "aircraftType": "GALX",
+    "origin": "VNY",
     "destination": null,
-    "firstSeen": "2026-03-30T01:38:23.224Z"
+    "firstSeen": "2026-03-30T01:50:11.792Z"
   },
-  "overheadScore": 0.09,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6208,
-      -122.5191
-    ],
-    [
-      45.6238,
-      -122.5243
-    ],
-    [
-      45.6249,
-      -122.526
-    ],
-    [
-      45.6294,
-      -122.5313
-    ],
-    [
-      45.6319,
-      -122.5371
+      45.6287,
+      -122.5361
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-30T01:39:14.584Z"
+  "timestamp": "2026-03-30T01:50:32.357Z"
 }

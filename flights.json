@@ -13019,5 +13019,24 @@
     "initialDistance": 0.4642816179205715,
     "initialAltitude": 700,
     "initialSpeed": 93
+  },
+  {
+    "callsign": "SIS384",
+    "flightNumber": null,
+    "aircraftType": "GALX",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": null,
+    "icao": "A46AF8",
+    "registration": "N384JK",
+    "firstSeen": "2026-03-30T01:50:11.792Z",
+    "lastSeen": "2026-03-30T01:50:11.792Z",
+    "duration": 0,
+    "closestDistance": 0.39326209964196535,
+    "closestAltitude": 35950,
+    "closestSpeed": 392,
+    "initialDistance": 0.39326209964196535,
+    "initialAltitude": 35950,
+    "initialSpeed": 392
   }
 ]
