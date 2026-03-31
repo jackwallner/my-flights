@@ -1,53 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 2300,
-    "speed": 82,
-    "timestamp": "2026-03-31T04:49:42.390Z",
-    "lat": 45.623,
-    "lon": -122.5198,
-    "precision": "high"
+    "distance": 0.47,
+    "altitude": 28000,
+    "speed": 467,
+    "timestamp": "2026-03-31T06:16:21.198Z",
+    "lat": 45.6217,
+    "lon": -122.538,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6268D",
-    "aircraftType": "C172",
-    "origin": "OLM",
-    "destination": "PDX",
-    "firstSeen": "2026-03-31T04:49:11.571Z"
+    "callsign": "ASA652",
+    "aircraftType": "B39M",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T06:44:06.218Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 7,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6139,
-      -122.528
-    ],
-    [
-      45.6167,
-      -122.525
-    ],
-    [
-      45.6202,
-      -122.5219
-    ],
-    [
-      45.623,
-      -122.5198
-    ],
-    [
-      45.6274,
-      -122.5193
-    ],
-    [
-      45.6318,
-      -122.5206
-    ],
-    [
-      45.6355,
-      -122.5219
+      45.6217,
+      -122.538
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-31T04:50:23.432Z"
+  "timestamp": "2026-03-31T06:16:41.736Z"
 }
