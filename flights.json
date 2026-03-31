@@ -13209,5 +13209,24 @@
     "initialDistance": 0.48701558152039437,
     "initialAltitude": 3075,
     "initialSpeed": 193
+  },
+  {
+    "callsign": "ASA1340",
+    "flightNumber": "AS1340",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "AD5FE7",
+    "registration": "N961AK",
+    "firstSeen": "2026-03-31T23:59:31.148Z",
+    "lastSeen": "2026-03-31T23:59:31.148Z",
+    "duration": 0,
+    "closestDistance": 0.4223601709663773,
+    "closestAltitude": 34000,
+    "closestSpeed": 443,
+    "initialDistance": 0.4223601709663773,
+    "initialAltitude": 34000,
+    "initialSpeed": 443
   }
 ]
