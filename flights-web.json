@@ -1,45 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 2250,
-    "speed": 103,
-    "timestamp": "2026-03-30T23:54:37.129Z",
-    "lat": 45.6295,
-    "lon": -122.526,
-    "precision": "high"
+    "distance": 0.54,
+    "altitude": 3300,
+    "speed": 132,
+    "timestamp": "2026-03-31T00:17:25.068Z",
+    "lat": 45.63,
+    "lon": -122.539,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N687SD",
-    "aircraftType": "RV8",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-14T00:32:15.774Z"
+    "callsign": "BTQ356",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-02-01T01:16:07.516Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6305,
-      -122.5413
+      45.625,
+      -122.5418
     ],
     [
-      45.6302,
-      -122.5336
-    ],
-    [
-      45.6295,
-      -122.526
-    ],
-    [
-      45.6291,
-      -122.52
-    ],
-    [
-      45.6288,
-      -122.5144
+      45.63,
+      -122.539
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-30T23:55:07.986Z"
+  "timestamp": "2026-03-31T00:17:35.330Z"
 }
