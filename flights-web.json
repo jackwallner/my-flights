@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 32475,
-    "speed": 415,
-    "timestamp": "2026-03-31T03:10:48.654Z",
-    "lat": 45.6318,
-    "lon": -122.5296,
+    "distance": 0.47,
+    "altitude": 32000,
+    "speed": 423,
+    "timestamp": "2026-03-31T03:12:10.934Z",
+    "lat": 45.6331,
+    "lon": -122.5268,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA687",
+    "callsign": "ASA758",
     "aircraftType": "737",
-    "origin": "SBA",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T00:57:47.661Z"
+    "firstSeen": "2026-02-10T03:38:12.907Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6318,
-      -122.5296
+      45.6172,
+      -122.5178
+    ],
+    [
+      45.6331,
+      -122.5268
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-31T03:11:09.210Z"
+  "timestamp": "2026-03-31T03:12:21.235Z"
 }
