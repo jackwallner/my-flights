@@ -12004,11 +12004,11 @@
     "icao": "A87CF9",
     "registration": "N646QX",
     "firstSeen": "2026-03-23T20:10:36.006Z",
-    "lastSeen": "2026-03-23T20:10:36.006Z",
-    "duration": 0,
-    "closestDistance": 0.5033196267783857,
-    "closestAltitude": 35600,
-    "closestSpeed": 358,
+    "lastSeen": "2026-03-31T19:29:11.240Z",
+    "duration": 688715,
+    "closestDistance": 0.4674993115815714,
+    "closestAltitude": 32000,
+    "closestSpeed": 429,
     "initialDistance": 0.5033196267783857,
     "initialAltitude": 35600,
     "initialSpeed": 358
@@ -13171,5 +13171,24 @@
     "initialDistance": 0.6833024657290911,
     "initialAltitude": 2100,
     "initialSpeed": 73
+  },
+  {
+    "callsign": "N3137F",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "GOL",
+    "destination": null,
+    "icao": "A35549",
+    "registration": "N3137F",
+    "firstSeen": "2026-03-31T19:30:23.267Z",
+    "lastSeen": "2026-03-31T19:30:43.853Z",
+    "duration": 21,
+    "closestDistance": 0.4321348423251935,
+    "closestAltitude": 7550,
+    "closestSpeed": 134,
+    "initialDistance": 0.4321348423251935,
+    "initialAltitude": 7550,
+    "initialSpeed": 134
   }
 ]
