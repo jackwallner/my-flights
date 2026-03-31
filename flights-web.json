@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 1150,
-    "speed": 135,
-    "timestamp": "2026-03-31T00:24:46.735Z",
-    "lat": 45.6186,
-    "lon": -122.5307,
-    "precision": "high"
+    "distance": 0.63,
+    "altitude": 1900,
+    "speed": 120,
+    "timestamp": "2026-03-31T00:56:48.370Z",
+    "lat": 45.6357,
+    "lon": -122.5266,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N167DR",
-    "aircraftType": "RV7",
-    "origin": "PDX",
+    "callsign": "N2414T",
+    "aircraftType": "BRAV",
+    "origin": "RLD",
     "destination": null,
-    "firstSeen": "2026-03-20T03:01:20.375Z"
+    "firstSeen": "2026-03-28T01:34:36.194Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6191,
-      -122.54
+      45.6357,
+      -122.5266
     ],
     [
-      45.6186,
-      -122.5307
-    ],
-    [
-      45.619,
-      -122.5225
-    ],
-    [
-      45.6203,
-      -122.5138
+      45.6355,
+      -122.535
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-31T00:25:17.563Z"
+  "timestamp": "2026-03-31T00:57:08.897Z"
 }
