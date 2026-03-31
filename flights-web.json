@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 36000,
-    "speed": 444,
-    "timestamp": "2026-03-31T21:28:07.991Z",
-    "lat": 45.6183,
-    "lon": -122.5154,
+    "distance": 0.44,
+    "altitude": 2750,
+    "speed": 160,
+    "timestamp": "2026-03-31T21:39:46.132Z",
+    "lat": 45.6285,
+    "lon": -122.5375,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UPS2984",
-    "aircraftType": "757",
-    "origin": "ONT",
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-03-26T21:44:50.602Z"
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.44,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6183,
-      -122.5154
+      45.621,
+      -122.5418
+    ],
+    [
+      45.6285,
+      -122.5375
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-31T21:28:28.503Z"
+  "timestamp": "2026-03-31T21:39:56.482Z"
 }
