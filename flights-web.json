@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.45,
+    "distance": 0.09,
     "altitude": 1400,
     "speed": 84,
-    "timestamp": "2026-03-31T04:33:44.965Z",
-    "lat": 45.6238,
-    "lon": -122.5386,
-    "precision": "tracked"
+    "timestamp": "2026-03-31T04:34:05.853Z",
+    "lat": 45.6253,
+    "lon": -122.526,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N9185H",
@@ -15,9 +15,9 @@
     "destination": "PDX",
     "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.09,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 6,
   "trail": [
     [
       45.6233,
@@ -26,8 +26,24 @@
     [
       45.6238,
       -122.5386
+    ],
+    [
+      45.6244,
+      -122.5327
+    ],
+    [
+      45.6253,
+      -122.526
+    ],
+    [
+      45.6259,
+      -122.521
+    ],
+    [
+      45.6267,
+      -122.5148
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-03-31T04:33:44.965Z"
+  "status": "completed",
+  "timestamp": "2026-03-31T04:34:36.739Z"
 }
