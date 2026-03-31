@@ -1,49 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.09,
-    "altitude": 1400,
-    "speed": 84,
-    "timestamp": "2026-03-31T04:34:05.853Z",
-    "lat": 45.6253,
-    "lon": -122.526,
-    "precision": "high"
+    "distance": 0.66,
+    "altitude": 26525,
+    "speed": 413,
+    "timestamp": "2026-03-31T04:35:59.120Z",
+    "lat": 45.6198,
+    "lon": -122.5418,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": "PDX",
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "callsign": "SKW6516",
+    "aircraftType": "CRJ",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-03-31T04:35:59.116Z"
   },
-  "overheadScore": 0.09,
+  "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6233,
-      -122.5431
-    ],
-    [
-      45.6238,
-      -122.5386
-    ],
-    [
-      45.6244,
-      -122.5327
-    ],
-    [
-      45.6253,
-      -122.526
-    ],
-    [
-      45.6259,
-      -122.521
-    ],
-    [
-      45.6267,
-      -122.5148
+      45.6198,
+      -122.5418
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-31T04:34:36.739Z"
+  "timestamp": "2026-03-31T04:36:19.670Z"
 }

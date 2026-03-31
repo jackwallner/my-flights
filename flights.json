@@ -13133,5 +13133,24 @@
     "initialDistance": 0.4592883949861931,
     "initialAltitude": 24000,
     "initialSpeed": 380
+  },
+  {
+    "callsign": "SKW6516",
+    "flightNumber": "AA6516",
+    "aircraftType": "CRJ7",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A9F6B9",
+    "registration": "N741EV",
+    "firstSeen": "2026-03-31T04:35:59.116Z",
+    "lastSeen": "2026-03-31T04:35:59.116Z",
+    "duration": 0,
+    "closestDistance": 0.6623107145232477,
+    "closestAltitude": 26525,
+    "closestSpeed": 413,
+    "initialDistance": 0.6623107145232477,
+    "initialAltitude": 26525,
+    "initialSpeed": 413
   }
 ]
