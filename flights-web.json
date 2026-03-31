@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 3300,
-    "speed": 132,
-    "timestamp": "2026-03-31T00:17:25.068Z",
-    "lat": 45.63,
-    "lon": -122.539,
-    "precision": "tracked"
+    "distance": 0.42,
+    "altitude": 1150,
+    "speed": 135,
+    "timestamp": "2026-03-31T00:24:46.735Z",
+    "lat": 45.6186,
+    "lon": -122.5307,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "BTQ356",
-    "aircraftType": "PC-1",
+    "callsign": "N167DR",
+    "aircraftType": "RV7",
     "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-02-01T01:16:07.516Z"
+    "destination": null,
+    "firstSeen": "2026-03-20T03:01:20.375Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.42,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.625,
-      -122.5418
+      45.6191,
+      -122.54
     ],
     [
-      45.63,
-      -122.539
+      45.6186,
+      -122.5307
+    ],
+    [
+      45.619,
+      -122.5225
+    ],
+    [
+      45.6203,
+      -122.5138
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-31T00:17:35.330Z"
+  "status": "tracking",
+  "timestamp": "2026-03-31T00:25:07.291Z"
 }
