@@ -13190,5 +13190,24 @@
     "initialDistance": 0.4321348423251935,
     "initialAltitude": 7550,
     "initialSpeed": 134
+  },
+  {
+    "callsign": "N119MC",
+    "flightNumber": null,
+    "aircraftType": "BE20",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "TIW",
+    "icao": "A04EB8",
+    "registration": "N119MC",
+    "firstSeen": "2026-03-31T23:30:34.423Z",
+    "lastSeen": "2026-03-31T23:30:44.671Z",
+    "duration": 10,
+    "closestDistance": 0.3993890419197796,
+    "closestAltitude": 3400,
+    "closestSpeed": 196,
+    "initialDistance": 0.48701558152039437,
+    "initialAltitude": 3075,
+    "initialSpeed": 193
   }
 ]
