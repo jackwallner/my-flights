@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 7550,
-    "speed": 134,
-    "timestamp": "2026-03-31T19:30:23.270Z",
-    "lat": 45.6251,
-    "lon": -122.5384,
-    "precision": "high"
+    "distance": 0.4,
+    "altitude": 35375,
+    "speed": 430,
+    "timestamp": "2026-03-31T20:19:18.258Z",
+    "lat": 45.6268,
+    "lon": -122.5188,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N3137F",
-    "aircraftType": "C182",
-    "origin": "GOL",
-    "destination": null,
-    "firstSeen": "2026-03-31T19:30:23.267Z"
+    "callsign": "AAL3235",
+    "aircraftType": "A320",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-23T21:01:59.323Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.4,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6251,
-      -122.5384
-    ],
-    [
-      45.6313,
-      -122.5344
-    ],
-    [
-      45.6364,
-      -122.5321
+      45.6268,
+      -122.5188
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-31T19:30:54.128Z"
+  "timestamp": "2026-03-31T20:19:38.786Z"
 }
