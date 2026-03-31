@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 38000,
-    "speed": 435,
-    "timestamp": "2026-03-31T15:46:06.921Z",
-    "lat": 45.6287,
-    "lon": -122.5196,
+    "distance": 0.39,
+    "altitude": 34850,
+    "speed": 416,
+    "timestamp": "2026-03-31T16:34:06.550Z",
+    "lat": 45.6263,
+    "lon": -122.5189,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA532",
+    "callsign": "DAL2980",
     "aircraftType": "737",
-    "origin": "LAS",
-    "destination": "PAE",
-    "firstSeen": "2026-02-09T05:36:04.548Z"
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T17:41:54.213Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.39,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6287,
-      -122.5196
+      45.6263,
+      -122.5189
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-03-31T15:46:27.444Z"
+  "timestamp": "2026-03-31T16:34:27.099Z"
 }
