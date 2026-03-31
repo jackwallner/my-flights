@@ -13152,5 +13152,24 @@
     "initialDistance": 0.6623107145232477,
     "initialAltitude": 26525,
     "initialSpeed": 413
+  },
+  {
+    "callsign": "N6268D",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "OLM",
+    "destination": "PDX",
+    "icao": "A82FFB",
+    "registration": "N6268D",
+    "firstSeen": "2026-03-31T04:49:11.571Z",
+    "lastSeen": "2026-03-31T04:49:52.650Z",
+    "duration": 41,
+    "closestDistance": 0.374903722660591,
+    "closestAltitude": 2300,
+    "closestSpeed": 82,
+    "initialDistance": 0.6833024657290911,
+    "initialAltitude": 2100,
+    "initialSpeed": 73
   }
 ]

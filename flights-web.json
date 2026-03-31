@@ -1,29 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 26525,
-    "speed": 413,
-    "timestamp": "2026-03-31T04:35:59.120Z",
-    "lat": 45.6198,
-    "lon": -122.5418,
-    "precision": "tracked"
+    "distance": 0.37,
+    "altitude": 2300,
+    "speed": 82,
+    "timestamp": "2026-03-31T04:49:42.390Z",
+    "lat": 45.623,
+    "lon": -122.5198,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW6516",
-    "aircraftType": "CRJ",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-03-31T04:35:59.116Z"
+    "callsign": "N6268D",
+    "aircraftType": "C172",
+    "origin": "OLM",
+    "destination": "PDX",
+    "firstSeen": "2026-03-31T04:49:11.571Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6198,
-      -122.5418
+      45.6139,
+      -122.528
+    ],
+    [
+      45.6167,
+      -122.525
+    ],
+    [
+      45.6202,
+      -122.5219
+    ],
+    [
+      45.623,
+      -122.5198
+    ],
+    [
+      45.6274,
+      -122.5193
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-03-31T04:36:19.670Z"
+  "status": "tracking",
+  "timestamp": "2026-03-31T04:49:52.653Z"
 }
