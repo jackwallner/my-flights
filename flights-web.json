@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.12,
-    "altitude": 3250,
-    "speed": 159,
-    "timestamp": "2026-04-01T11:49:33.177Z",
-    "lat": 45.626,
-    "lon": -122.5254,
-    "precision": "high"
+    "distance": 0.59,
+    "altitude": 2350,
+    "speed": 178,
+    "timestamp": "2026-04-01T13:44:28.899Z",
+    "lat": 45.624,
+    "lon": -122.542,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "BE9L",
-    "aircraftType": "BE9L",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-04-01T11:49:22.912Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.12,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6185,
-      -122.5307
-    ],
-    [
-      45.626,
-      -122.5254
-    ],
-    [
-      45.6322,
-      -122.5209
+      45.624,
+      -122.542
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-01T11:49:53.687Z"
+  "timestamp": "2026-04-01T13:44:49.446Z"
 }
