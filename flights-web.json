@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 30000,
-    "speed": 477,
-    "timestamp": "2026-04-01T18:50:52.513Z",
-    "lat": 45.63,
-    "lon": -122.5187,
+    "distance": 0.29,
+    "altitude": 11575,
+    "speed": 208,
+    "timestamp": "2026-04-01T19:31:49.152Z",
+    "lat": 45.6229,
+    "lon": -122.534,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3779",
-    "aircraftType": "E175",
-    "origin": "MFR",
-    "destination": "SEA",
-    "firstSeen": "2026-02-05T20:48:22.587Z"
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.63,
-      -122.5187
+      45.6229,
+      -122.534
+    ],
+    [
+      45.6272,
+      -122.5211
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-01T18:51:13.039Z"
+  "timestamp": "2026-04-01T19:32:09.700Z"
 }
