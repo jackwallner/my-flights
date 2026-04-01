@@ -13266,5 +13266,24 @@
     "initialDistance": 0.512495745177081,
     "initialAltitude": 2625,
     "initialSpeed": 85
+  },
+  {
+    "callsign": "DAL1521",
+    "flightNumber": "DL1521",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "SEA",
+    "icao": "AD1142",
+    "registration": "N941DZ",
+    "firstSeen": "2026-04-01T03:51:05.136Z",
+    "lastSeen": "2026-04-01T03:51:05.136Z",
+    "duration": 0,
+    "closestDistance": 0.339697648924818,
+    "closestAltitude": 35000,
+    "closestSpeed": 410,
+    "initialDistance": 0.339697648924818,
+    "initialAltitude": 35000,
+    "initialSpeed": 410
   }
 ]
