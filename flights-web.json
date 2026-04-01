@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.25,
-    "altitude": 2600,
-    "speed": 157,
-    "timestamp": "2026-04-01T00:18:42.064Z",
-    "lat": 45.6247,
-    "lon": -122.5341,
-    "precision": "high"
+    "distance": 0.43,
+    "altitude": 45000,
+    "speed": 444,
+    "timestamp": "2026-04-01T01:03:36.466Z",
+    "lat": 45.6216,
+    "lon": -122.5369,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N723KP",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
+    "callsign": "LXJ604",
+    "aircraftType": "E550",
+    "origin": "CSW",
     "destination": "BFI",
-    "firstSeen": "2026-02-07T18:07:34.039Z"
+    "firstSeen": "2026-04-01T01:03:36.463Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.43,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.619,
-      -122.5371
-    ],
-    [
-      45.6247,
-      -122.5341
-    ],
-    [
-      45.6327,
-      -122.5296
+      45.6216,
+      -122.5369
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-01T00:19:02.582Z"
+  "status": "tracking",
+  "timestamp": "2026-04-01T01:03:36.466Z"
 }

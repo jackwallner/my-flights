@@ -13228,5 +13228,24 @@
     "initialDistance": 0.4223601709663773,
     "initialAltitude": 34000,
     "initialSpeed": 443
+  },
+  {
+    "callsign": "LXJ604",
+    "flightNumber": "LXJ604",
+    "aircraftType": "E550",
+    "aircraftName": null,
+    "origin": "CSW",
+    "destination": "BFI",
+    "icao": "A7D6AE",
+    "registration": "N604FX",
+    "firstSeen": "2026-04-01T01:03:36.463Z",
+    "lastSeen": "2026-04-01T01:03:36.463Z",
+    "duration": 0,
+    "closestDistance": 0.43012854610469725,
+    "closestAltitude": 45000,
+    "closestSpeed": 444,
+    "initialDistance": 0.43012854610469725,
+    "initialAltitude": 45000,
+    "initialSpeed": 444
   }
 ]
