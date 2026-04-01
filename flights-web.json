@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 40000,
-    "speed": 461,
-    "timestamp": "2026-04-01T21:22:04.883Z",
-    "lat": 45.6148,
-    "lon": -122.5283,
-    "precision": "tracked"
+    "distance": 0.38,
+    "altitude": 2950,
+    "speed": 179,
+    "timestamp": "2026-04-01T21:52:15.619Z",
+    "lat": 45.6268,
+    "lon": -122.5368,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "F900",
-    "aircraftType": "F900",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-04-01T21:22:04.879Z"
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6148,
-      -122.5283
+      45.619,
+      -122.541
+    ],
+    [
+      45.6268,
+      -122.5368
+    ],
+    [
+      45.6356,
+      -122.5316
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-01T21:22:25.434Z"
+  "timestamp": "2026-04-01T21:52:36.120Z"
 }
