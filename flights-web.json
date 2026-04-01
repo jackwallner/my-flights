@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 26000,
-    "speed": 423,
-    "timestamp": "2026-04-01T17:20:37.554Z",
-    "lat": 45.6285,
-    "lon": -122.5125,
+    "distance": 0.43,
+    "altitude": 33950,
+    "speed": 441,
+    "timestamp": "2026-04-01T17:25:14.692Z",
+    "lat": 45.6245,
+    "lon": -122.5179,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2277",
-    "aircraftType": "E175",
-    "origin": "RDM",
+    "callsign": "ASA527",
+    "aircraftType": "737",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-03-12T13:23:08.281Z"
+    "firstSeen": "2026-03-08T00:19:25.772Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.43,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6285,
-      -122.5125
+      45.6245,
+      -122.5179
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-01T17:20:58.097Z"
+  "status": "tracking",
+  "timestamp": "2026-04-01T17:25:14.692Z"
 }
