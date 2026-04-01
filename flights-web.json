@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.26,
-    "altitude": 2875,
-    "speed": 86,
-    "timestamp": "2026-04-01T01:07:43.473Z",
-    "lat": 45.6238,
-    "lon": -122.5224,
-    "precision": "high"
+    "distance": 0.32,
+    "altitude": 34000,
+    "speed": 419,
+    "timestamp": "2026-04-01T02:34:48.361Z",
+    "lat": 45.6286,
+    "lon": -122.5342,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N35121",
-    "aircraftType": "C172",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-04-01T01:07:22.942Z"
+    "callsign": "SKW4100",
+    "aircraftType": "E175",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T03:47:40.995Z"
   },
-  "overheadScore": 0.26,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6168,
-      -122.5295
-    ],
-    [
-      45.6203,
-      -122.526
-    ],
-    [
-      45.6238,
-      -122.5224
-    ],
-    [
-      45.6268,
-      -122.5197
-    ],
-    [
-      45.6309,
-      -122.5167
+      45.6286,
+      -122.5342
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-01T01:08:14.309Z"
+  "timestamp": "2026-04-01T02:35:09.021Z"
 }
