@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 35000,
-    "speed": 410,
-    "timestamp": "2026-04-01T03:51:05.139Z",
-    "lat": 45.6254,
-    "lon": -122.5362,
-    "precision": "tracked"
+    "distance": 0.12,
+    "altitude": 3250,
+    "speed": 159,
+    "timestamp": "2026-04-01T11:49:33.177Z",
+    "lat": 45.626,
+    "lon": -122.5254,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "DAL1521",
-    "aircraftType": "737",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-04-01T03:51:05.136Z"
+    "callsign": "BE9L",
+    "aircraftType": "BE9L",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-04-01T11:49:22.912Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6254,
-      -122.5362
+      45.6185,
+      -122.5307
+    ],
+    [
+      45.626,
+      -122.5254
+    ],
+    [
+      45.6322,
+      -122.5209
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-01T03:51:25.698Z"
+  "timestamp": "2026-04-01T11:49:53.687Z"
 }

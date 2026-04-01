@@ -13285,5 +13285,24 @@
     "initialDistance": 0.339697648924818,
     "initialAltitude": 35000,
     "initialSpeed": 410
+  },
+  {
+    "callsign": "BE9L",
+    "flightNumber": null,
+    "aircraftType": "BE9L",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-04-01T11:49:22.912Z",
+    "lastSeen": "2026-04-01T11:49:43.433Z",
+    "duration": 21,
+    "closestDistance": 0.12178124568606792,
+    "closestAltitude": 3250,
+    "closestSpeed": 159,
+    "initialDistance": 0.42135940709150166,
+    "initialAltitude": 2925,
+    "initialSpeed": 155
   }
 ]
