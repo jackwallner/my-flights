@@ -13247,5 +13247,24 @@
     "initialDistance": 0.43012854610469725,
     "initialAltitude": 45000,
     "initialSpeed": 444
+  },
+  {
+    "callsign": "N35121",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A3EB3C",
+    "registration": "N35121",
+    "firstSeen": "2026-04-01T01:07:22.942Z",
+    "lastSeen": "2026-04-01T01:07:43.470Z",
+    "duration": 21,
+    "closestDistance": 0.25577318027230783,
+    "closestAltitude": 2875,
+    "closestSpeed": 86,
+    "initialDistance": 0.512495745177081,
+    "initialAltitude": 2625,
+    "initialSpeed": 85
   }
 ]

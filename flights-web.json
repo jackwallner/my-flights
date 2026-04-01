@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 45000,
-    "speed": 444,
-    "timestamp": "2026-04-01T01:03:36.466Z",
-    "lat": 45.6216,
-    "lon": -122.5369,
-    "precision": "tracked"
+    "distance": 0.26,
+    "altitude": 2875,
+    "speed": 86,
+    "timestamp": "2026-04-01T01:07:43.473Z",
+    "lat": 45.6238,
+    "lon": -122.5224,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "LXJ604",
-    "aircraftType": "E550",
-    "origin": "CSW",
-    "destination": "BFI",
-    "firstSeen": "2026-04-01T01:03:36.463Z"
+    "callsign": "N35121",
+    "aircraftType": "C172",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-04-01T01:07:22.942Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6216,
-      -122.5369
+      45.6168,
+      -122.5295
+    ],
+    [
+      45.6203,
+      -122.526
+    ],
+    [
+      45.6238,
+      -122.5224
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-01T01:03:57.014Z"
+  "status": "tracking",
+  "timestamp": "2026-04-01T01:07:43.473Z"
 }
