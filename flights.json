@@ -13323,5 +13323,24 @@
     "initialDistance": 0.6292996523597749,
     "initialAltitude": 40000,
     "initialSpeed": 461
+  },
+  {
+    "callsign": "N9206T",
+    "flightNumber": null,
+    "aircraftType": "C180",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "ACC166",
+    "registration": "N9206T",
+    "firstSeen": "2026-04-01T22:13:08.303Z",
+    "lastSeen": "2026-04-01T22:13:39.079Z",
+    "duration": 31,
+    "closestDistance": 0.383402776929332,
+    "closestAltitude": 1700,
+    "closestSpeed": 92,
+    "initialDistance": 0.4300398770607797,
+    "initialAltitude": 1700,
+    "initialSpeed": 90
   }
 ]
