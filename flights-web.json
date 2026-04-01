@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 15475,
-    "speed": 361,
-    "timestamp": "2026-04-01T19:42:05.435Z",
-    "lat": 45.6172,
-    "lon": -122.5255,
+    "distance": 0.57,
+    "altitude": 2600,
+    "speed": 180,
+    "timestamp": "2026-04-01T21:04:24.875Z",
+    "lat": 45.6303,
+    "lon": -122.5396,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA689",
-    "aircraftType": "Cita",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-03-23T17:58:43.018Z"
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.57,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6172,
-      -122.5255
+      45.6217,
+      -122.5433
+    ],
+    [
+      45.6303,
+      -122.5396
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-01T19:42:26.195Z"
+  "timestamp": "2026-04-01T21:04:35.163Z"
 }
