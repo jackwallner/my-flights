@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 11575,
-    "speed": 208,
-    "timestamp": "2026-04-01T19:31:49.152Z",
-    "lat": 45.6229,
-    "lon": -122.534,
+    "distance": 0.5,
+    "altitude": 15475,
+    "speed": 361,
+    "timestamp": "2026-04-01T19:42:05.435Z",
+    "lat": 45.6172,
+    "lon": -122.5255,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
+    "callsign": "EJA689",
+    "aircraftType": "Cita",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "firstSeen": "2026-03-23T17:58:43.018Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6229,
-      -122.534
-    ],
-    [
-      45.6272,
-      -122.5211
+      45.6172,
+      -122.5255
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-01T19:32:09.700Z"
+  "timestamp": "2026-04-01T19:42:26.195Z"
 }
