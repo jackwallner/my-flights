@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.12,
+    "distance": 0.49,
     "altitude": 30000,
-    "speed": 444,
-    "timestamp": "2026-04-01T17:26:47.068Z",
-    "lat": 45.6272,
-    "lon": -122.529,
+    "speed": 477,
+    "timestamp": "2026-04-01T18:50:52.513Z",
+    "lat": 45.63,
+    "lon": -122.5187,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3284",
+    "callsign": "SKW3779",
     "aircraftType": "E175",
-    "origin": "PSP",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-03-29T16:39:04.199Z"
+    "firstSeen": "2026-02-05T20:48:22.587Z"
   },
-  "overheadScore": 0.12,
+  "overheadScore": 0.49,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6272,
-      -122.529
+      45.63,
+      -122.5187
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-01T17:27:07.628Z"
+  "timestamp": "2026-04-01T18:51:13.039Z"
 }
