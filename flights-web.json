@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 35500,
-    "speed": 448,
-    "timestamp": "2026-04-02T02:13:15.136Z",
-    "lat": 45.6306,
-    "lon": -122.5289,
+    "distance": 0.63,
+    "altitude": 34000,
+    "speed": 441,
+    "timestamp": "2026-04-02T03:32:10.177Z",
+    "lat": 45.615,
+    "lon": -122.5251,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BOX475",
-    "aircraftType": "B77L",
-    "origin": "LAX",
+    "callsign": "ASA374",
+    "aircraftType": "B737",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-04T22:58:16.222Z"
+    "firstSeen": "2026-03-26T03:11:58.304Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.63,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6306,
-      -122.5289
+      45.615,
+      -122.5251
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-02T02:13:35.670Z"
+  "status": "tracking",
+  "timestamp": "2026-04-02T03:32:10.177Z"
 }
