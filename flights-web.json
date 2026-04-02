@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 32000,
-    "speed": 438,
-    "timestamp": "2026-04-02T04:39:39.755Z",
-    "lat": 45.6201,
-    "lon": -122.5414,
+    "distance": 0.46,
+    "altitude": 8500,
+    "speed": 283,
+    "timestamp": "2026-04-02T15:46:31.557Z",
+    "lat": 45.626,
+    "lon": -122.5171,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL1521",
-    "aircraftType": "737",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-04-01T03:51:05.136Z"
+    "callsign": "C56X",
+    "aircraftType": "Cita",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-14T17:19:26.021Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6201,
-      -122.5414
+      45.626,
+      -122.5171
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-02T04:40:00.281Z"
+  "timestamp": "2026-04-02T15:46:52.081Z"
 }
