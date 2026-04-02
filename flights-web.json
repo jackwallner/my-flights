@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 36000,
-    "speed": 440,
-    "timestamp": "2026-04-02T00:53:59.477Z",
-    "lat": 45.6214,
-    "lon": -122.5425,
+    "distance": 0.52,
+    "altitude": 29400,
+    "speed": 449,
+    "timestamp": "2026-04-02T01:36:57.961Z",
+    "lat": 45.617,
+    "lon": -122.532,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA691",
-    "aircraftType": "B39M",
-    "origin": "PSP",
+    "callsign": "QXE2443",
+    "aircraftType": "E175",
+    "origin": "MRY",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:27:05.857Z"
+    "firstSeen": "2026-02-21T17:40:19.340Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.52,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6214,
-      -122.5425
+      45.617,
+      -122.532
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-02T00:54:19.998Z"
+  "timestamp": "2026-04-02T01:37:18.511Z"
 }
