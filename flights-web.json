@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 28000,
-    "speed": 400,
-    "timestamp": "2026-04-02T03:41:24.886Z",
-    "lat": 45.6245,
-    "lon": -122.5133,
+    "distance": 0.31,
+    "altitude": 40000,
+    "speed": 459,
+    "timestamp": "2026-04-02T04:02:39.293Z",
+    "lat": 45.6237,
+    "lon": -122.5211,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2120",
-    "aircraftType": "E175",
-    "origin": "RDM",
-    "destination": "SEA",
-    "firstSeen": "2026-03-26T03:42:21.025Z"
+    "callsign": "N224MZ",
+    "aircraftType": "GALX",
+    "origin": "TRM",
+    "destination": "BFI",
+    "firstSeen": "2026-03-26T23:42:09.649Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6245,
-      -122.5133
+      45.6237,
+      -122.5211
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-02T03:41:45.424Z"
+  "timestamp": "2026-04-02T04:02:59.832Z"
 }
