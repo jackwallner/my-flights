@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 29400,
-    "speed": 449,
-    "timestamp": "2026-04-02T01:36:57.961Z",
-    "lat": 45.617,
-    "lon": -122.532,
+    "distance": 0.32,
+    "altitude": 35500,
+    "speed": 448,
+    "timestamp": "2026-04-02T02:13:15.136Z",
+    "lat": 45.6306,
+    "lon": -122.5289,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2443",
-    "aircraftType": "E175",
-    "origin": "MRY",
+    "callsign": "BOX475",
+    "aircraftType": "B77L",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-02-21T17:40:19.340Z"
+    "firstSeen": "2026-02-04T22:58:16.222Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.32,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.617,
-      -122.532
+      45.6306,
+      -122.5289
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-02T01:37:18.511Z"
+  "timestamp": "2026-04-02T02:13:35.670Z"
 }
