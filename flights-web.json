@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
+    "distance": 0.64,
     "altitude": 32000,
-    "speed": 439,
-    "timestamp": "2026-04-02T04:31:57.364Z",
-    "lat": 45.6319,
-    "lon": -122.5399,
+    "speed": 438,
+    "timestamp": "2026-04-02T04:39:39.755Z",
+    "lat": 45.6201,
+    "lon": -122.5414,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA1232",
-    "aircraftType": "B737",
-    "origin": "OAK",
+    "callsign": "DAL1521",
+    "aircraftType": "737",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-04-02T04:31:57.361Z"
+    "firstSeen": "2026-04-01T03:51:05.136Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6319,
-      -122.5399
+      45.6201,
+      -122.5414
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-02T04:32:17.882Z"
+  "timestamp": "2026-04-02T04:40:00.281Z"
 }
