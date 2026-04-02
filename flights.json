@@ -13361,5 +13361,24 @@
     "initialDistance": 0.5771962306236207,
     "initialAltitude": 4900,
     "initialSpeed": 227
+  },
+  {
+    "callsign": "SWA1232",
+    "flightNumber": "WN1232",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "AA7B54",
+    "registration": "N7748A",
+    "firstSeen": "2026-04-02T04:31:57.361Z",
+    "lastSeen": "2026-04-02T04:31:57.361Z",
+    "duration": 0,
+    "closestDistance": 0.6347743143321416,
+    "closestAltitude": 32000,
+    "closestSpeed": 439,
+    "initialDistance": 0.6347743143321416,
+    "initialAltitude": 32000,
+    "initialSpeed": 439
   }
 ]

@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 40000,
-    "speed": 459,
-    "timestamp": "2026-04-02T04:02:39.293Z",
-    "lat": 45.6237,
-    "lon": -122.5211,
+    "distance": 0.63,
+    "altitude": 32000,
+    "speed": 439,
+    "timestamp": "2026-04-02T04:31:57.364Z",
+    "lat": 45.6319,
+    "lon": -122.5399,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N224MZ",
-    "aircraftType": "GALX",
-    "origin": "TRM",
-    "destination": "BFI",
-    "firstSeen": "2026-03-26T23:42:09.649Z"
+    "callsign": "SWA1232",
+    "aircraftType": "B737",
+    "origin": "OAK",
+    "destination": "SEA",
+    "firstSeen": "2026-04-02T04:31:57.361Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.63,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6237,
-      -122.5211
+      45.6319,
+      -122.5399
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-02T04:02:59.832Z"
+  "timestamp": "2026-04-02T04:32:17.882Z"
 }
