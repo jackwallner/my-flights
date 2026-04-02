@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 29625,
-    "speed": 348,
-    "timestamp": "2026-04-02T19:33:19.927Z",
-    "lat": 45.6262,
-    "lon": -122.5227,
+    "distance": 0.22,
+    "altitude": 27650,
+    "speed": 324,
+    "timestamp": "2026-04-02T20:01:34.682Z",
+    "lat": 45.6258,
+    "lon": -122.5334,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1489",
-    "aircraftType": "B39M",
-    "origin": "SFO",
+    "callsign": "SKW4439",
+    "aircraftType": "E175",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-03-30T19:45:49.806Z"
+    "firstSeen": "2026-02-09T21:13:12.947Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.22,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6262,
-      -122.5227
+      45.6258,
+      -122.5334
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-02T19:33:40.489Z"
+  "timestamp": "2026-04-02T20:01:55.199Z"
 }
