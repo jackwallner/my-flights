@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 34000,
-    "speed": 441,
-    "timestamp": "2026-04-02T03:32:10.177Z",
-    "lat": 45.615,
-    "lon": -122.5251,
+    "distance": 0.62,
+    "altitude": 28000,
+    "speed": 400,
+    "timestamp": "2026-04-02T03:41:24.886Z",
+    "lat": 45.6245,
+    "lon": -122.5133,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA374",
-    "aircraftType": "B737",
-    "origin": "OAK",
+    "callsign": "QXE2120",
+    "aircraftType": "E175",
+    "origin": "RDM",
     "destination": "SEA",
-    "firstSeen": "2026-03-26T03:11:58.304Z"
+    "firstSeen": "2026-03-26T03:42:21.025Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.62,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.615,
-      -122.5251
+      45.6245,
+      -122.5133
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-02T03:32:30.678Z"
+  "timestamp": "2026-04-02T03:41:45.424Z"
 }
