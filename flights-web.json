@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 4725,
-    "speed": 227,
-    "timestamp": "2026-04-02T00:32:03.890Z",
-    "lat": 45.6234,
-    "lon": -122.5376,
+    "distance": 0.65,
+    "altitude": 36000,
+    "speed": 440,
+    "timestamp": "2026-04-02T00:53:59.477Z",
+    "lat": 45.6214,
+    "lon": -122.5425,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GL7T",
-    "aircraftType": "GL7T",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-04-02T00:31:53.589Z"
+    "callsign": "ASA691",
+    "aircraftType": "B39M",
+    "origin": "PSP",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T03:27:05.857Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.65,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6336,
-      -122.535
-    ],
-    [
-      45.6234,
-      -122.5376
+      45.6214,
+      -122.5425
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-02T00:32:14.162Z"
+  "status": "tracking",
+  "timestamp": "2026-04-02T00:53:59.477Z"
 }
