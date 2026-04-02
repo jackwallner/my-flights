@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 28275,
+    "distance": 0.23,
+    "altitude": 29625,
     "speed": 348,
-    "timestamp": "2026-04-02T19:31:47.627Z",
-    "lat": 45.6245,
-    "lon": -122.5237,
+    "timestamp": "2026-04-02T19:33:19.927Z",
+    "lat": 45.6262,
+    "lon": -122.5227,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2050",
-    "aircraftType": "E175",
-    "origin": "STS",
+    "callsign": "ASA1489",
+    "aircraftType": "B39M",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-03-23T19:27:11.483Z"
+    "firstSeen": "2026-03-30T19:45:49.806Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.23,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6245,
-      -122.5237
+      45.6262,
+      -122.5227
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-04-02T19:31:47.627Z"
+  "status": "completed",
+  "timestamp": "2026-04-02T19:33:40.489Z"
 }
