@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 1300,
-    "speed": 107,
-    "timestamp": "2026-04-02T18:27:26.173Z",
-    "lat": 45.6283,
-    "lon": -122.5209,
-    "precision": "high"
+    "distance": 0.56,
+    "altitude": 24000,
+    "speed": 326,
+    "timestamp": "2026-04-02T18:53:37.666Z",
+    "lat": 45.6263,
+    "lon": -122.5148,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5094L",
-    "aircraftType": "C152",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-01-31T22:47:23.955Z"
+    "callsign": "ASA1311",
+    "aircraftType": "737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T20:39:05.668Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.56,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6358,
-      -122.5321
-    ],
-    [
-      45.6319,
-      -122.5268
-    ],
-    [
-      45.6283,
-      -122.5209
-    ],
-    [
-      45.6253,
-      -122.516
+      45.6263,
+      -122.5148
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-02T18:27:46.700Z"
+  "status": "tracking",
+  "timestamp": "2026-04-02T18:53:37.666Z"
 }
