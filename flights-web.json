@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 24000,
-    "speed": 326,
-    "timestamp": "2026-04-02T18:53:37.666Z",
-    "lat": 45.6263,
-    "lon": -122.5148,
+    "distance": 0.19,
+    "altitude": 28275,
+    "speed": 348,
+    "timestamp": "2026-04-02T19:31:47.627Z",
+    "lat": 45.6245,
+    "lon": -122.5237,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1311",
-    "aircraftType": "737",
-    "origin": "SJC",
+    "callsign": "QXE2050",
+    "aircraftType": "E175",
+    "origin": "STS",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T20:39:05.668Z"
+    "firstSeen": "2026-03-23T19:27:11.483Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.19,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6263,
-      -122.5148
+      45.6245,
+      -122.5237
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-02T18:53:58.255Z"
+  "status": "tracking",
+  "timestamp": "2026-04-02T19:31:47.627Z"
 }
