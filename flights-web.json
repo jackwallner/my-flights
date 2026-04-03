@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 36000,
-    "speed": 371,
-    "timestamp": "2026-04-03T08:48:58.921Z",
-    "lat": 45.631,
-    "lon": -122.5347,
+    "distance": 0.2,
+    "altitude": 38000,
+    "speed": 385,
+    "timestamp": "2026-04-03T14:57:43.389Z",
+    "lat": 45.6226,
+    "lon": -122.531,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ATN3378",
-    "aircraftType": "767",
-    "origin": "SBD",
+    "callsign": "ASA1399",
+    "aircraftType": "737",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T09:45:06.501Z"
+    "firstSeen": "2026-04-03T14:57:43.385Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6164,
-      -122.5277
-    ],
-    [
-      45.631,
-      -122.5347
+      45.6226,
+      -122.531
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-03T08:49:09.182Z"
+  "status": "tracking",
+  "timestamp": "2026-04-03T14:57:43.389Z"
 }

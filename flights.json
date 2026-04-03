@@ -105,8 +105,8 @@
     "icao": "ACBE34",
     "registration": "N920AK",
     "firstSeen": "2026-02-09T16:03:21.448Z",
-    "lastSeen": "2026-03-23T15:06:49.745Z",
-    "duration": 3625408,
+    "lastSeen": "2026-04-03T14:56:00.753Z",
+    "duration": 4575159,
     "closestDistance": 0.6769616375856878,
     "closestAltitude": 28000,
     "closestSpeed": 410,
@@ -13475,5 +13475,24 @@
     "initialDistance": 0.6660740001650934,
     "initialAltitude": 36000,
     "initialSpeed": 372
+  },
+  {
+    "callsign": "ASA1399",
+    "flightNumber": "AS1399",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A67F38",
+    "registration": "N518AS",
+    "firstSeen": "2026-04-03T14:57:43.385Z",
+    "lastSeen": "2026-04-03T14:57:43.385Z",
+    "duration": 0,
+    "closestDistance": 0.20151681909534838,
+    "closestAltitude": 38000,
+    "closestSpeed": 385,
+    "initialDistance": 0.20151681909534838,
+    "initialAltitude": 38000,
+    "initialSpeed": 385
   }
 ]
