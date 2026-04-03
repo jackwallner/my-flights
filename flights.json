@@ -13494,5 +13494,24 @@
     "initialDistance": 0.20151681909534838,
     "initialAltitude": 38000,
     "initialSpeed": 385
+  },
+  {
+    "callsign": "N798BP",
+    "flightNumber": null,
+    "aircraftType": "B407",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "AAD5E4",
+    "registration": "N798BP",
+    "firstSeen": "2026-04-03T16:58:29.517Z",
+    "lastSeen": "2026-04-03T16:58:39.790Z",
+    "duration": 10,
+    "closestDistance": 0.6041863729599963,
+    "closestAltitude": 550,
+    "closestSpeed": 93,
+    "initialDistance": 0.6041863729599963,
+    "initialAltitude": 550,
+    "initialSpeed": 93
   }
 ]

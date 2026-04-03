@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 40000,
-    "speed": 409,
-    "timestamp": "2026-04-03T15:09:12.350Z",
-    "lat": 45.6313,
-    "lon": -122.5164,
+    "distance": 0.6,
+    "altitude": 550,
+    "speed": 93,
+    "timestamp": "2026-04-03T16:58:29.520Z",
+    "lat": 45.6304,
+    "lon": -122.5405,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA701",
-    "aircraftType": "737",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T17:02:12.852Z"
+    "callsign": "N798BP",
+    "aircraftType": "B407",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-04-03T16:58:29.517Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.6,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6313,
-      -122.5164
+      45.6304,
+      -122.5405
+    ],
+    [
+      45.6346,
+      -122.5342
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T15:09:32.907Z"
+  "timestamp": "2026-04-03T16:58:50.076Z"
 }
