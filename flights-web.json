@@ -6,7 +6,7 @@
     "timestamp": "2026-04-03T19:28:09.511Z",
     "lat": 45.618,
     "lon": -122.5359,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N5201H",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6206,
@@ -26,8 +26,12 @@
     [
       45.618,
       -122.5359
+    ],
+    [
+      45.6149,
+      -122.5305
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-04-03T19:28:09.511Z"
+  "status": "completed",
+  "timestamp": "2026-04-03T19:28:30.046Z"
 }
