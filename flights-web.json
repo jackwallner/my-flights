@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 36000,
-    "speed": 346,
-    "timestamp": "2026-04-03T03:07:40.667Z",
-    "lat": 45.6291,
-    "lon": -122.5289,
+    "distance": 0.55,
+    "altitude": 40000,
+    "speed": 393,
+    "timestamp": "2026-04-03T03:16:25.196Z",
+    "lat": 45.632,
+    "lon": -122.5191,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA768",
-    "aircraftType": "737",
-    "origin": "BUR",
+    "callsign": "ASA374",
+    "aircraftType": "B737",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-03-26T02:57:22.799Z"
+    "firstSeen": "2026-03-26T03:11:58.304Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.55,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6291,
-      -122.5289
+      45.632,
+      -122.5191
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T03:08:01.212Z"
+  "timestamp": "2026-04-03T03:16:45.708Z"
 }
