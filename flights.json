@@ -13456,5 +13456,24 @@
     "initialDistance": 0.6670233459463455,
     "initialAltitude": 3750,
     "initialSpeed": 95
+  },
+  {
+    "callsign": "UAL1284",
+    "flightNumber": "UA1284",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "AA7F23",
+    "registration": "N77580",
+    "firstSeen": "2026-04-03T03:29:25.902Z",
+    "lastSeen": "2026-04-03T03:29:25.902Z",
+    "duration": 0,
+    "closestDistance": 0.6660740001650934,
+    "closestAltitude": 36000,
+    "closestSpeed": 372,
+    "initialDistance": 0.6660740001650934,
+    "initialAltitude": 36000,
+    "initialSpeed": 372
   }
 ]

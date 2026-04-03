@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 40000,
-    "speed": 393,
-    "timestamp": "2026-04-03T03:16:25.196Z",
-    "lat": 45.632,
-    "lon": -122.5191,
+    "distance": 0.67,
+    "altitude": 36000,
+    "speed": 372,
+    "timestamp": "2026-04-03T03:29:25.905Z",
+    "lat": 45.6296,
+    "lon": -122.5135,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA374",
-    "aircraftType": "B737",
-    "origin": "OAK",
+    "callsign": "UAL1284",
+    "aircraftType": "B39M",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-03-26T03:11:58.304Z"
+    "firstSeen": "2026-04-03T03:29:25.902Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.632,
-      -122.5191
+      45.6296,
+      -122.5135
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T03:16:45.708Z"
+  "timestamp": "2026-04-03T03:29:46.449Z"
 }
