@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 3725,
-    "speed": 91,
-    "timestamp": "2026-04-03T01:35:53.686Z",
-    "lat": 45.632,
-    "lon": -122.5331,
-    "precision": "high"
+    "distance": 0.64,
+    "altitude": 9750,
+    "speed": 113,
+    "timestamp": "2026-04-03T02:00:44.855Z",
+    "lat": 45.6339,
+    "lon": -122.5369,
+    "precision": "tracked"
   },
   "flight": {
     "callsign": "CAP3667",
@@ -15,27 +15,19 @@
     "destination": null,
     "firstSeen": "2026-04-03T01:35:33.112Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.64,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6357,
-      -122.5226
+      45.6339,
+      -122.5369
     ],
     [
-      45.633,
-      -122.5281
-    ],
-    [
-      45.632,
-      -122.5331
-    ],
-    [
-      45.6328,
-      -122.5396
+      45.6308,
+      -122.5417
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T01:36:14.254Z"
+  "timestamp": "2026-04-03T02:01:05.401Z"
 }
