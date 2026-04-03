@@ -13418,5 +13418,24 @@
     "initialDistance": 0.6436184926940972,
     "initialAltitude": 3200,
     "initialSpeed": 172
+  },
+  {
+    "callsign": "SKW3299",
+    "flightNumber": "AS3299",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "RDD",
+    "destination": "SEA",
+    "icao": "A13C43",
+    "registration": "N179SY",
+    "firstSeen": "2026-04-03T01:29:22.895Z",
+    "lastSeen": "2026-04-03T01:29:22.895Z",
+    "duration": 0,
+    "closestDistance": 0.6560106496758461,
+    "closestAltitude": 30000,
+    "closestSpeed": 330,
+    "initialDistance": 0.6560106496758461,
+    "initialAltitude": 30000,
+    "initialSpeed": 330
   }
 ]
