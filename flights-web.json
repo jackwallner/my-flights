@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 3200,
-    "speed": 171,
-    "timestamp": "2026-04-03T01:12:04.364Z",
-    "lat": 45.6295,
-    "lon": -122.5197,
+    "distance": 0.29,
+    "altitude": 1700,
+    "speed": 106,
+    "timestamp": "2026-04-03T01:16:11.073Z",
+    "lat": 45.6208,
+    "lon": -122.5258,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N729JS",
-    "aircraftType": "SR22",
-    "origin": "PDX",
+    "callsign": "N624ST",
+    "aircraftType": "RV12",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-03T01:11:54.075Z"
+    "firstSeen": "2026-02-02T21:45:58.538Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.636,
-      -122.5282
+      45.6217,
+      -122.5394
     ],
     [
-      45.6295,
-      -122.5197
+      45.6212,
+      -122.532
     ],
     [
-      45.6226,
-      -122.5138
+      45.6208,
+      -122.5258
+    ],
+    [
+      45.6204,
+      -122.5184
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-03T01:12:24.918Z"
+  "status": "tracking",
+  "timestamp": "2026-04-03T01:16:21.342Z"
 }
