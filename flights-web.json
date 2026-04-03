@@ -1,49 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 300,
-    "speed": 69,
-    "timestamp": "2026-04-03T18:20:30.900Z",
-    "lat": 45.6266,
-    "lon": -122.5399,
-    "precision": "high"
+    "distance": 0.55,
+    "altitude": 1600,
+    "speed": 101,
+    "timestamp": "2026-04-03T19:28:09.511Z",
+    "lat": 45.618,
+    "lon": -122.5359,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N519F",
-    "aircraftType": "CH7B",
-    "origin": "PDX",
+    "callsign": "N5201H",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "firstSeen": "2026-02-06T19:39:39.423Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6354,
-      -122.5287
+      45.6206,
+      -122.5407
     ],
     [
-      45.6346,
-      -122.5346
-    ],
-    [
-      45.6337,
-      -122.5368
-    ],
-    [
-      45.6306,
-      -122.5392
-    ],
-    [
-      45.6266,
-      -122.5399
-    ],
-    [
-      45.6246,
-      -122.5403
+      45.618,
+      -122.5359
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-03T18:20:51.449Z"
+  "status": "tracking",
+  "timestamp": "2026-04-03T19:28:09.511Z"
 }
