@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 30000,
-    "speed": 362,
-    "timestamp": "2026-04-03T04:37:15.316Z",
-    "lat": 45.6259,
-    "lon": -122.5182,
+    "distance": 0.44,
+    "altitude": 36000,
+    "speed": 371,
+    "timestamp": "2026-04-03T08:48:58.921Z",
+    "lat": 45.631,
+    "lon": -122.5347,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3048",
-    "aircraftType": "E175",
-    "origin": "MFR",
+    "callsign": "ATN3378",
+    "aircraftType": "767",
+    "origin": "SBD",
     "destination": "SEA",
-    "firstSeen": "2026-03-26T03:30:40.175Z"
+    "firstSeen": "2026-02-09T09:45:06.501Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.44,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6259,
-      -122.5182
+      45.6164,
+      -122.5277
+    ],
+    [
+      45.631,
+      -122.5347
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T04:37:35.889Z"
+  "timestamp": "2026-04-03T08:49:09.182Z"
 }
