@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 550,
-    "speed": 93,
-    "timestamp": "2026-04-03T16:58:29.520Z",
-    "lat": 45.6304,
-    "lon": -122.5405,
+    "distance": 0.66,
+    "altitude": 2925,
+    "speed": 108,
+    "timestamp": "2026-04-03T17:14:15.606Z",
+    "lat": 45.6363,
+    "lon": -122.5282,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N798BP",
-    "aircraftType": "B407",
+    "callsign": "N2414T",
+    "aircraftType": "BRAV",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-04-03T16:58:29.517Z"
+    "firstSeen": "2026-03-28T01:34:36.194Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6304,
-      -122.5405
-    ],
-    [
-      45.6346,
-      -122.5342
+      45.6363,
+      -122.5282
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T16:58:50.076Z"
+  "timestamp": "2026-04-03T17:14:36.138Z"
 }
