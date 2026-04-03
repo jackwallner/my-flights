@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.67,
+    "distance": 0.53,
     "altitude": 36000,
-    "speed": 372,
-    "timestamp": "2026-04-03T03:29:25.905Z",
-    "lat": 45.6296,
-    "lon": -122.5135,
+    "speed": 351,
+    "timestamp": "2026-04-03T03:38:10.308Z",
+    "lat": 45.6284,
+    "lon": -122.5162,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL1284",
-    "aircraftType": "B39M",
-    "origin": "LAX",
+    "callsign": "ABX3111",
+    "aircraftType": "767",
+    "origin": "SCK",
     "destination": "SEA",
-    "firstSeen": "2026-04-03T03:29:25.902Z"
+    "firstSeen": "2026-02-10T03:24:35.374Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6296,
-      -122.5135
+      45.6284,
+      -122.5162
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T03:29:46.449Z"
+  "timestamp": "2026-04-03T03:38:30.857Z"
 }
