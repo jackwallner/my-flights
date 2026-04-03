@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 25700,
-    "speed": 292,
-    "timestamp": "2026-04-03T21:02:09.125Z",
-    "lat": 45.6244,
-    "lon": -122.5167,
+    "distance": 0.39,
+    "altitude": 30000,
+    "speed": 283,
+    "timestamp": "2026-04-03T22:18:29.379Z",
+    "lat": 45.619,
+    "lon": -122.5304,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N605JG",
-    "aircraftType": "B350",
-    "origin": "TRM",
-    "destination": "TIW",
-    "firstSeen": "2026-03-27T23:56:07.946Z"
+    "callsign": "N970TX",
+    "aircraftType": "SF50",
+    "origin": "RNO",
+    "destination": "BFI",
+    "firstSeen": "2026-04-03T22:18:29.376Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6244,
-      -122.5167
-    ],
-    [
-      45.6348,
-      -122.523
+      45.619,
+      -122.5304
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-03T21:02:29.632Z"
+  "status": "tracking",
+  "timestamp": "2026-04-03T22:18:29.379Z"
 }

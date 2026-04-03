@@ -13513,5 +13513,24 @@
     "initialDistance": 0.6041863729599963,
     "initialAltitude": 550,
     "initialSpeed": 93
+  },
+  {
+    "callsign": "N970TX",
+    "flightNumber": null,
+    "aircraftType": "SF50",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "BFI",
+    "icao": "AD8564",
+    "registration": "N970TX",
+    "firstSeen": "2026-04-03T22:18:29.376Z",
+    "lastSeen": "2026-04-03T22:18:29.376Z",
+    "duration": 0,
+    "closestDistance": 0.3891306836393521,
+    "closestAltitude": 30000,
+    "closestSpeed": 283,
+    "initialDistance": 0.3891306836393521,
+    "initialAltitude": 30000,
+    "initialSpeed": 283
   }
 ]
