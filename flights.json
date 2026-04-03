@@ -13437,5 +13437,24 @@
     "initialDistance": 0.6560106496758461,
     "initialAltitude": 30000,
     "initialSpeed": 330
+  },
+  {
+    "callsign": "CAP3667",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A7412B",
+    "registration": "N567CP",
+    "firstSeen": "2026-04-03T01:35:33.112Z",
+    "lastSeen": "2026-04-03T01:36:03.962Z",
+    "duration": 31,
+    "closestDistance": 0.45457131092714753,
+    "closestAltitude": 3725,
+    "closestSpeed": 91,
+    "initialDistance": 0.6670233459463455,
+    "initialAltitude": 3750,
+    "initialSpeed": 95
   }
 ]

@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 30000,
-    "speed": 330,
-    "timestamp": "2026-04-03T01:29:22.898Z",
-    "lat": 45.6333,
-    "lon": -122.5175,
-    "precision": "tracked"
+    "distance": 0.45,
+    "altitude": 3725,
+    "speed": 91,
+    "timestamp": "2026-04-03T01:35:53.686Z",
+    "lat": 45.632,
+    "lon": -122.5331,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW3299",
-    "aircraftType": "E175",
-    "origin": "RDD",
-    "destination": "SEA",
-    "firstSeen": "2026-04-03T01:29:22.895Z"
+    "callsign": "CAP3667",
+    "aircraftType": "C182",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-04-03T01:35:33.112Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6333,
-      -122.5175
+      45.6357,
+      -122.5226
+    ],
+    [
+      45.633,
+      -122.5281
+    ],
+    [
+      45.632,
+      -122.5331
+    ],
+    [
+      45.6328,
+      -122.5396
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T01:29:43.451Z"
+  "timestamp": "2026-04-03T01:36:14.254Z"
 }
