@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 34000,
-    "speed": 350,
-    "timestamp": "2026-04-03T04:35:22.152Z",
-    "lat": 45.6216,
-    "lon": -122.523,
+    "distance": 0.42,
+    "altitude": 30000,
+    "speed": 362,
+    "timestamp": "2026-04-03T04:37:15.316Z",
+    "lat": 45.6259,
+    "lon": -122.5182,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4049",
+    "callsign": "SKW3048",
     "aircraftType": "E175",
-    "origin": "SMF",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T03:39:41.638Z"
+    "firstSeen": "2026-03-26T03:30:40.175Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.42,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6216,
-      -122.523
+      45.6259,
+      -122.5182
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T04:35:42.719Z"
+  "timestamp": "2026-04-03T04:37:35.889Z"
 }
