@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 34000,
-    "speed": 341,
-    "timestamp": "2026-04-03T03:03:23.659Z",
-    "lat": 45.6272,
-    "lon": -122.5133,
+    "distance": 0.23,
+    "altitude": 36000,
+    "speed": 346,
+    "timestamp": "2026-04-03T03:07:40.667Z",
+    "lat": 45.6291,
+    "lon": -122.5289,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1301",
+    "callsign": "ASA768",
     "aircraftType": "737",
-    "origin": "LAX",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-02-14T00:22:48.710Z"
+    "firstSeen": "2026-03-26T02:57:22.799Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.23,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6272,
-      -122.5133
+      45.6291,
+      -122.5289
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T03:03:44.204Z"
+  "timestamp": "2026-04-03T03:08:01.212Z"
 }
