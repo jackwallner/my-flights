@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 40000,
-    "speed": 373,
-    "timestamp": "2026-04-03T00:28:21.177Z",
-    "lat": 45.6262,
-    "lon": -122.5358,
-    "precision": "tracked"
+    "distance": 0.43,
+    "altitude": 3200,
+    "speed": 171,
+    "timestamp": "2026-04-03T01:12:04.364Z",
+    "lat": 45.6295,
+    "lon": -122.5197,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "PC24",
-    "aircraftType": "PC24",
-    "origin": null,
+    "callsign": "N729JS",
+    "aircraftType": "SR22",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-04-03T00:28:21.174Z"
+    "firstSeen": "2026-04-03T01:11:54.075Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.43,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6262,
-      -122.5358
+      45.636,
+      -122.5282
+    ],
+    [
+      45.6295,
+      -122.5197
+    ],
+    [
+      45.6226,
+      -122.5138
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T00:28:41.708Z"
+  "timestamp": "2026-04-03T01:12:24.918Z"
 }

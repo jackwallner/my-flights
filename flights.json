@@ -13399,5 +13399,24 @@
     "initialDistance": 0.3275110838299926,
     "initialAltitude": 40000,
     "initialSpeed": 373
+  },
+  {
+    "callsign": "N729JS",
+    "flightNumber": null,
+    "aircraftType": "SR22",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A9C5D4",
+    "registration": "N729JS",
+    "firstSeen": "2026-04-03T01:11:54.075Z",
+    "lastSeen": "2026-04-03T01:12:14.626Z",
+    "duration": 21,
+    "closestDistance": 0.43465381845013157,
+    "closestAltitude": 3200,
+    "closestSpeed": 171,
+    "initialDistance": 0.6436184926940972,
+    "initialAltitude": 3200,
+    "initialSpeed": 172
   }
 ]
