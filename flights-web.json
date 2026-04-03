@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 38000,
-    "speed": 385,
-    "timestamp": "2026-04-03T14:57:43.389Z",
-    "lat": 45.6226,
-    "lon": -122.531,
+    "distance": 0.61,
+    "altitude": 40000,
+    "speed": 409,
+    "timestamp": "2026-04-03T15:09:12.350Z",
+    "lat": 45.6313,
+    "lon": -122.5164,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1399",
+    "callsign": "ASA701",
     "aircraftType": "737",
-    "origin": "SJC",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-04-03T14:57:43.385Z"
+    "firstSeen": "2026-02-09T17:02:12.852Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6226,
-      -122.531
+      45.6313,
+      -122.5164
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T14:58:03.939Z"
+  "timestamp": "2026-04-03T15:09:32.907Z"
 }
