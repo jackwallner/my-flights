@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 27650,
-    "speed": 324,
-    "timestamp": "2026-04-02T20:01:34.682Z",
-    "lat": 45.6258,
-    "lon": -122.5334,
+    "distance": 0.33,
+    "altitude": 40000,
+    "speed": 373,
+    "timestamp": "2026-04-03T00:28:21.177Z",
+    "lat": 45.6262,
+    "lon": -122.5358,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4439",
-    "aircraftType": "E175",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T21:13:12.947Z"
+    "callsign": "PC24",
+    "aircraftType": "PC24",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-04-03T00:28:21.174Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.33,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6258,
-      -122.5334
+      45.6262,
+      -122.5358
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-02T20:01:55.199Z"
+  "status": "tracking",
+  "timestamp": "2026-04-03T00:28:21.177Z"
 }

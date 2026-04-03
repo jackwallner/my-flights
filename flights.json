@@ -13380,5 +13380,24 @@
     "initialDistance": 0.6347743143321416,
     "initialAltitude": 32000,
     "initialSpeed": 439
+  },
+  {
+    "callsign": "PC24",
+    "flightNumber": null,
+    "aircraftType": "PC24",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-04-03T00:28:21.174Z",
+    "lastSeen": "2026-04-03T00:28:21.174Z",
+    "duration": 0,
+    "closestDistance": 0.3275110838299926,
+    "closestAltitude": 40000,
+    "closestSpeed": 373,
+    "initialDistance": 0.3275110838299926,
+    "initialAltitude": 40000,
+    "initialSpeed": 373
   }
 ]
