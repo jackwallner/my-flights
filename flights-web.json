@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 1800,
-    "speed": 115,
-    "timestamp": "2026-04-04T02:00:39.106Z",
-    "lat": 45.6311,
-    "lon": -122.5347,
-    "precision": "high"
+    "distance": 0.53,
+    "altitude": 36000,
+    "speed": 392,
+    "timestamp": "2026-04-04T02:09:23.520Z",
+    "lat": 45.6196,
+    "lon": -122.5379,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N8332S",
-    "aircraftType": "C182",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-03-09T20:36:29.980Z"
+    "callsign": "QXE2443",
+    "aircraftType": "E175",
+    "origin": "MRY",
+    "destination": "SEA",
+    "firstSeen": "2026-02-21T17:40:19.340Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.53,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6351,
-      -122.5288
-    ],
-    [
-      45.6311,
-      -122.5347
-    ],
-    [
-      45.6277,
-      -122.5392
-    ],
-    [
-      45.6234,
-      -122.5444
+      45.6196,
+      -122.5379
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T02:01:09.925Z"
+  "timestamp": "2026-04-04T02:09:44.069Z"
 }
