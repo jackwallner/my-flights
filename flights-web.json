@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 38800,
-    "speed": 393,
-    "timestamp": "2026-04-04T03:19:38.114Z",
-    "lat": 45.6158,
-    "lon": -122.5354,
+    "distance": 0.54,
+    "altitude": 33700,
+    "speed": 399,
+    "timestamp": "2026-04-04T04:14:54.473Z",
+    "lat": 45.6335,
+    "lon": -122.5231,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1481",
-    "aircraftType": "737",
-    "origin": "STS",
+    "callsign": "DAL1430",
+    "aircraftType": "A220",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-03-20T03:15:58.511Z"
+    "firstSeen": "2026-04-04T04:14:54.470Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.54,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6158,
-      -122.5354
+      45.6335,
+      -122.5231
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T03:19:58.826Z"
+  "timestamp": "2026-04-04T04:15:15.000Z"
 }

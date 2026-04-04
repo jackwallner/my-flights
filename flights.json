@@ -13646,5 +13646,24 @@
     "initialDistance": 0.5774276738385382,
     "initialAltitude": 38000,
     "initialSpeed": 392
+  },
+  {
+    "callsign": "DAL1430",
+    "flightNumber": "DL1430",
+    "aircraftType": "BCS1",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A0B59D",
+    "registration": "N145DQ",
+    "firstSeen": "2026-04-04T04:14:54.470Z",
+    "lastSeen": "2026-04-04T04:14:54.470Z",
+    "duration": 0,
+    "closestDistance": 0.5364938703182098,
+    "closestAltitude": 33700,
+    "closestSpeed": 399,
+    "initialDistance": 0.5364938703182098,
+    "initialAltitude": 33700,
+    "initialSpeed": 399
   }
 ]
