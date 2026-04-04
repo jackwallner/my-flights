@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 1425,
-    "speed": 135,
-    "timestamp": "2026-04-04T16:18:18.534Z",
-    "lat": 45.6286,
-    "lon": -122.5261,
-    "precision": "tracked"
+    "distance": 0.1,
+    "altitude": 1525,
+    "speed": 129,
+    "timestamp": "2026-04-04T16:18:28.832Z",
+    "lat": 45.6256,
+    "lon": -122.5305,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N296DB",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-25T22:05:05.121Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.1,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6341,
@@ -26,8 +26,16 @@
     [
       45.6286,
       -122.5261
+    ],
+    [
+      45.6256,
+      -122.5305
+    ],
+    [
+      45.6206,
+      -122.5378
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-04-04T16:18:18.534Z"
+  "status": "completed",
+  "timestamp": "2026-04-04T16:18:49.442Z"
 }
