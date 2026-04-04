@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 33875,
-    "speed": 424,
-    "timestamp": "2026-04-04T22:50:44.626Z",
-    "lat": 45.6312,
-    "lon": -122.5247,
-    "precision": "tracked"
+    "distance": 0.17,
+    "altitude": 9800,
+    "speed": 112,
+    "timestamp": "2026-04-04T23:03:36.905Z",
+    "lat": 45.6271,
+    "lon": -122.5251,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA745",
-    "aircraftType": "737",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T01:01:30.357Z"
+    "callsign": "N73707",
+    "aircraftType": "C172",
+    "origin": "QSN",
+    "destination": "BFI",
+    "firstSeen": "2026-04-04T23:03:16.110Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.17,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6312,
-      -122.5247
+      45.6184,
+      -122.5199
+    ],
+    [
+      45.6228,
+      -122.5226
+    ],
+    [
+      45.6271,
+      -122.5251
+    ],
+    [
+      45.6336,
+      -122.5289
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T22:51:05.212Z"
+  "timestamp": "2026-04-04T23:03:57.470Z"
 }
