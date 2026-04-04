@@ -13551,5 +13551,24 @@
     "initialDistance": 0.35139329720374357,
     "initialAltitude": 38000,
     "initialSpeed": 395
+  },
+  {
+    "callsign": "SKW3785",
+    "flightNumber": "DL3785",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A33743",
+    "registration": "N306SY",
+    "firstSeen": "2026-04-04T00:05:29.971Z",
+    "lastSeen": "2026-04-04T00:05:29.971Z",
+    "duration": 0,
+    "closestDistance": 0.6687763411140062,
+    "closestAltitude": 32000,
+    "closestSpeed": 377,
+    "initialDistance": 0.6687763411140062,
+    "initialAltitude": 32000,
+    "initialSpeed": 377
   }
 ]
