@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 1600,
-    "speed": 127,
-    "timestamp": "2026-04-04T01:50:00.450Z",
-    "lat": 45.6168,
-    "lon": -122.5377,
-    "precision": "tracked"
+    "distance": 0.45,
+    "altitude": 1800,
+    "speed": 115,
+    "timestamp": "2026-04-04T02:00:39.106Z",
+    "lat": 45.6311,
+    "lon": -122.5347,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N91055",
+    "callsign": "N8332S",
     "aircraftType": "C182",
-    "origin": "OTK",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-04T01:50:00.447Z"
+    "firstSeen": "2026-03-09T20:36:29.980Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6168,
-      -122.5377
+      45.6351,
+      -122.5288
     ],
     [
-      45.6137,
-      -122.5291
+      45.6311,
+      -122.5347
+    ],
+    [
+      45.6277,
+      -122.5392
+    ],
+    [
+      45.6234,
+      -122.5444
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-04T01:50:20.993Z"
+  "status": "tracking",
+  "timestamp": "2026-04-04T02:00:59.669Z"
 }
