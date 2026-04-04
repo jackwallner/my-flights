@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 5200,
-    "speed": 263,
-    "timestamp": "2026-04-04T20:46:49.364Z",
-    "lat": 45.6204,
-    "lon": -122.5251,
+    "distance": 0.7,
+    "altitude": 1300,
+    "speed": 101,
+    "timestamp": "2026-04-04T20:56:25.389Z",
+    "lat": 45.6163,
+    "lon": -122.5386,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GL5T",
-    "aircraftType": "GL5T",
-    "origin": null,
+    "callsign": "N5201H",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-04T20:46:39.050Z"
+    "firstSeen": "2026-02-06T19:39:39.423Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.7,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.634,
-      -122.5216
-    ],
-    [
-      45.6204,
-      -122.5251
+      45.6163,
+      -122.5386
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T20:46:59.626Z"
+  "timestamp": "2026-04-04T20:56:45.917Z"
 }
