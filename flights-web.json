@@ -1,41 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 1300,
-    "speed": 113,
-    "timestamp": "2026-04-04T23:06:11.268Z",
-    "lat": 45.6309,
-    "lon": -122.5236,
+    "distance": 0.2,
+    "altitude": 2100,
+    "speed": 74,
+    "timestamp": "2026-04-04T23:08:35.359Z",
+    "lat": 45.6285,
+    "lon": -122.5288,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N735BF",
-    "aircraftType": "C182",
+    "callsign": "N4466R",
+    "aircraftType": "C172",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-04T23:05:50.694Z"
+    "firstSeen": "2026-03-01T01:16:04.720Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6261,
-      -122.5122
+      45.6281,
+      -122.5152
     ],
     [
       45.6282,
-      -122.5178
+      -122.5202
     ],
     [
-      45.6309,
-      -122.5236
+      45.6283,
+      -122.5245
     ],
     [
-      45.6354,
-      -122.5311
+      45.6285,
+      -122.5288
+    ],
+    [
+      45.6286,
+      -122.5338
+    ],
+    [
+      45.6287,
+      -122.5408
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T23:06:31.820Z"
+  "timestamp": "2026-04-04T23:09:06.314Z"
 }
