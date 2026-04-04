@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 2475,
-    "speed": 95,
-    "timestamp": "2026-04-04T15:50:10.828Z",
-    "lat": 45.6173,
-    "lon": -122.5306,
-    "precision": "high"
+    "distance": 0.22,
+    "altitude": 1425,
+    "speed": 135,
+    "timestamp": "2026-04-04T16:18:18.534Z",
+    "lat": 45.6286,
+    "lon": -122.5261,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N545DS",
-    "aircraftType": "C172",
-    "origin": "PDX",
+    "callsign": "N296DB",
+    "aircraftType": "RV6",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-18T22:38:02.420Z"
+    "firstSeen": "2026-02-25T22:05:05.121Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.22,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6179,
-      -122.5362
+      45.6341,
+      -122.5181
     ],
     [
-      45.6173,
-      -122.5306
-    ],
-    [
-      45.6166,
-      -122.5237
-    ],
-    [
-      45.6163,
-      -122.5186
+      45.6286,
+      -122.5261
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-04T15:50:41.630Z"
+  "status": "tracking",
+  "timestamp": "2026-04-04T16:18:18.534Z"
 }
