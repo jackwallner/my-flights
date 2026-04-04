@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 36000,
-    "speed": 396,
-    "timestamp": "2026-04-04T01:01:16.491Z",
-    "lat": 45.6285,
-    "lon": -122.5283,
+    "distance": 0.6,
+    "altitude": 27375,
+    "speed": 360,
+    "timestamp": "2026-04-04T01:13:58.677Z",
+    "lat": 45.635,
+    "lon": -122.5246,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2572",
-    "aircraftType": "A223",
-    "origin": "SAN",
+    "callsign": "SKW127T",
+    "aircraftType": "E175",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T02:33:31.810Z"
+    "firstSeen": "2026-02-27T02:14:48.738Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6285,
-      -122.5283
+      45.635,
+      -122.5246
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T01:01:37.062Z"
+  "timestamp": "2026-04-04T01:14:19.252Z"
 }
