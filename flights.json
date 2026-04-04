@@ -13760,5 +13760,24 @@
     "initialDistance": 0.5381057473354867,
     "initialAltitude": 9775,
     "initialSpeed": 112
+  },
+  {
+    "callsign": "N735BF",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A9DDBD",
+    "registration": "N735BF",
+    "firstSeen": "2026-04-04T23:05:50.694Z",
+    "lastSeen": "2026-04-04T23:06:21.541Z",
+    "duration": 31,
+    "closestDistance": 0.38694214956978545,
+    "closestAltitude": 1300,
+    "closestSpeed": 113,
+    "initialDistance": 0.6699228689774022,
+    "initialAltitude": 1300,
+    "initialSpeed": 110
   }
 ]

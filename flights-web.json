@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.17,
-    "altitude": 9800,
-    "speed": 112,
-    "timestamp": "2026-04-04T23:03:36.905Z",
-    "lat": 45.6271,
-    "lon": -122.5251,
+    "distance": 0.39,
+    "altitude": 1300,
+    "speed": 113,
+    "timestamp": "2026-04-04T23:06:11.268Z",
+    "lat": 45.6309,
+    "lon": -122.5236,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N73707",
-    "aircraftType": "C172",
-    "origin": "QSN",
-    "destination": "BFI",
-    "firstSeen": "2026-04-04T23:03:16.110Z"
+    "callsign": "N735BF",
+    "aircraftType": "C182",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-04-04T23:05:50.694Z"
   },
-  "overheadScore": 0.17,
+  "overheadScore": 0.39,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6184,
-      -122.5199
+      45.6261,
+      -122.5122
     ],
     [
-      45.6228,
-      -122.5226
+      45.6282,
+      -122.5178
     ],
     [
-      45.6271,
-      -122.5251
+      45.6309,
+      -122.5236
     ],
     [
-      45.6336,
-      -122.5289
+      45.6354,
+      -122.5311
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T23:03:57.470Z"
+  "timestamp": "2026-04-04T23:06:31.820Z"
 }
