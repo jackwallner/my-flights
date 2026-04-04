@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 38000,
-    "speed": 392,
-    "timestamp": "2026-04-04T03:00:25.440Z",
-    "lat": 45.6158,
-    "lon": -122.5258,
+    "distance": 0.4,
+    "altitude": 35850,
+    "speed": 399,
+    "timestamp": "2026-04-04T03:02:49.423Z",
+    "lat": 45.6312,
+    "lon": -122.5239,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA533",
-    "aircraftType": "737",
-    "origin": "PSP",
+    "callsign": "ASA758",
+    "aircraftType": "737 ",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-04-04T03:00:25.434Z"
+    "firstSeen": "2026-02-10T03:38:12.907Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.4,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6158,
-      -122.5258
-    ],
-    [
-      45.6348,
-      -122.5352
+      45.6312,
+      -122.5239
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T03:00:45.994Z"
+  "timestamp": "2026-04-04T03:03:10.150Z"
 }
