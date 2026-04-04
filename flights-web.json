@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 39075,
-    "speed": 369,
-    "timestamp": "2026-04-04T18:35:02.325Z",
-    "lat": 45.6323,
-    "lon": -122.5249,
+    "distance": 0.64,
+    "altitude": 1425,
+    "speed": 148,
+    "timestamp": "2026-04-04T19:28:08.092Z",
+    "lat": 45.6147,
+    "lon": -122.528,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N83SJ",
-    "aircraftType": "Cita",
-    "origin": "CSN",
-    "destination": "BFI",
-    "firstSeen": "2026-04-04T18:35:02.322Z"
+    "callsign": "N296DB",
+    "aircraftType": "RV6",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-25T22:05:05.121Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6323,
-      -122.5249
+      45.6147,
+      -122.528
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T18:35:22.847Z"
+  "timestamp": "2026-04-04T19:28:28.646Z"
 }
