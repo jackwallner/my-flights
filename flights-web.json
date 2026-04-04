@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 1800,
-    "speed": 120,
-    "timestamp": "2026-04-04T16:45:42.658Z",
-    "lat": 45.6171,
-    "lon": -122.5319,
-    "precision": "high"
+    "distance": 0.68,
+    "altitude": 36675,
+    "speed": 400,
+    "timestamp": "2026-04-04T16:50:52.076Z",
+    "lat": 45.627,
+    "lon": -122.5442,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N528ES",
-    "aircraftType": "C182",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-04-04T16:45:32.361Z"
+    "callsign": "DAL2530",
+    "aircraftType": "737",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T17:04:34.331Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.68,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6183,
-      -122.5408
-    ],
-    [
-      45.6171,
-      -122.5319
-    ],
-    [
-      45.6157,
-      -122.5232
+      45.627,
+      -122.5442
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T16:46:03.310Z"
+  "timestamp": "2026-04-04T16:51:12.658Z"
 }
