@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 36575,
-    "speed": 382,
-    "timestamp": "2026-04-04T00:27:08.495Z",
-    "lat": 45.6306,
-    "lon": -122.5351,
+    "distance": 0.19,
+    "altitude": 36000,
+    "speed": 396,
+    "timestamp": "2026-04-04T01:01:16.491Z",
+    "lat": 45.6285,
+    "lon": -122.5283,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ356",
-    "aircraftType": "E55P",
-    "origin": "TKF",
-    "destination": "PWT",
-    "firstSeen": "2026-04-04T00:26:58.070Z"
+    "callsign": "DAL2572",
+    "aircraftType": "A223",
+    "origin": "SAN",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T02:33:31.810Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.19,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6157,
-      -122.528
-    ],
-    [
-      45.6306,
-      -122.5351
+      45.6285,
+      -122.5283
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T00:27:18.760Z"
+  "timestamp": "2026-04-04T01:01:37.062Z"
 }
