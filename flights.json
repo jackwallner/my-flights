@@ -13570,5 +13570,24 @@
     "initialDistance": 0.6687763411140062,
     "initialAltitude": 32000,
     "initialSpeed": 377
+  },
+  {
+    "callsign": "LXJ356",
+    "flightNumber": "LXJ356",
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "TKF",
+    "destination": "PWT",
+    "icao": "A3FBAA",
+    "registration": "N356FX",
+    "firstSeen": "2026-04-04T00:26:58.070Z",
+    "lastSeen": "2026-04-04T00:27:08.492Z",
+    "duration": 10,
+    "closestDistance": 0.4337106286381859,
+    "closestAltitude": 36575,
+    "closestSpeed": 382,
+    "initialDistance": 0.5752326592672116,
+    "initialAltitude": 36875,
+    "initialSpeed": 382
   }
 ]
