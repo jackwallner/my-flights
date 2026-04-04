@@ -13589,5 +13589,24 @@
     "initialDistance": 0.5752326592672116,
     "initialAltitude": 36875,
     "initialSpeed": 382
+  },
+  {
+    "callsign": "ASA620",
+    "flightNumber": "AS620",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A4CA6A",
+    "registration": "N408AS",
+    "firstSeen": "2026-04-04T01:39:21.557Z",
+    "lastSeen": "2026-04-04T01:39:21.557Z",
+    "duration": 0,
+    "closestDistance": 0.4474636589523161,
+    "closestAltitude": 36000,
+    "closestSpeed": 388,
+    "initialDistance": 0.4474636589523161,
+    "initialAltitude": 36000,
+    "initialSpeed": 388
   }
 ]
