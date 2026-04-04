@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 43000,
-    "speed": 428,
-    "timestamp": "2026-04-04T06:42:13.606Z",
-    "lat": 45.6301,
-    "lon": -122.5391,
-    "precision": "tracked"
+    "distance": 0.23,
+    "altitude": 2150,
+    "speed": 131,
+    "timestamp": "2026-04-04T15:10:55.257Z",
+    "lat": 45.6229,
+    "lon": -122.5239,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "E55P",
-    "aircraftType": "E55P",
-    "origin": null,
+    "callsign": "N687SD",
+    "aircraftType": "RV8",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-08T06:22:02.211Z"
+    "firstSeen": "2026-02-14T00:32:15.774Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6301,
-      -122.5391
+      45.6265,
+      -122.5163
+    ],
+    [
+      45.6229,
+      -122.5239
+    ],
+    [
+      45.6193,
+      -122.5313
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T06:42:34.350Z"
+  "timestamp": "2026-04-04T15:11:15.918Z"
 }
