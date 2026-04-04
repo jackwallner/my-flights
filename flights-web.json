@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 34000,
-    "speed": 391,
-    "timestamp": "2026-04-04T01:15:51.891Z",
-    "lat": 45.6346,
-    "lon": -122.5193,
+    "distance": 0.63,
+    "altitude": 36000,
+    "speed": 378,
+    "timestamp": "2026-04-04T01:29:55.760Z",
+    "lat": 45.6326,
+    "lon": -122.5175,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3707",
+    "callsign": "SKW3505",
     "aircraftType": "E175",
-    "origin": "SFO",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T01:59:32.125Z"
+    "firstSeen": "2026-03-13T01:30:04.615Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.63,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6346,
-      -122.5193
+      45.6326,
+      -122.5175
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T01:16:12.459Z"
+  "timestamp": "2026-04-04T01:30:16.354Z"
 }
