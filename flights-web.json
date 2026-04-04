@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 1075,
-    "speed": 96,
-    "timestamp": "2026-04-04T21:33:20.122Z",
-    "lat": 45.63,
-    "lon": -122.5336,
-    "precision": "high"
+    "distance": 0.6,
+    "altitude": 1400,
+    "speed": 125,
+    "timestamp": "2026-04-04T21:44:19.242Z",
+    "lat": 45.6163,
+    "lon": -122.5344,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N545DS",
-    "aircraftType": "C172",
-    "origin": "DLS",
+    "callsign": "N729JS",
+    "aircraftType": "SR22",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-18T22:38:02.420Z"
+    "firstSeen": "2026-04-03T01:11:54.075Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.6,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6343,
-      -122.5233
+      45.6163,
+      -122.5344
     ],
     [
-      45.632,
-      -122.5288
-    ],
-    [
-      45.63,
-      -122.5336
-    ],
-    [
-      45.6275,
-      -122.5406
+      45.6148,
+      -122.5263
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T21:33:40.652Z"
+  "timestamp": "2026-04-04T21:44:39.820Z"
 }
