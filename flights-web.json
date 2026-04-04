@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 30000,
-    "speed": 283,
-    "timestamp": "2026-04-03T22:18:29.379Z",
-    "lat": 45.619,
-    "lon": -122.5304,
+    "distance": 0.35,
+    "altitude": 38000,
+    "speed": 395,
+    "timestamp": "2026-04-03T23:59:30.096Z",
+    "lat": 45.6215,
+    "lon": -122.5345,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N970TX",
-    "aircraftType": "SF50",
-    "origin": "RNO",
-    "destination": "BFI",
-    "firstSeen": "2026-04-03T22:18:29.376Z"
+    "callsign": "ASA373",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-04-03T23:59:30.093Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.619,
-      -122.5304
-    ],
-    [
-      45.6305,
-      -122.5358
+      45.6215,
+      -122.5345
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-03T22:18:50.150Z"
+  "timestamp": "2026-04-03T23:59:50.644Z"
 }

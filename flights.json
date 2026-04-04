@@ -13532,5 +13532,24 @@
     "initialDistance": 0.3891306836393521,
     "initialAltitude": 30000,
     "initialSpeed": 283
+  },
+  {
+    "callsign": "ASA373",
+    "flightNumber": "AS373",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "SEA",
+    "icao": "A67B81",
+    "registration": "N517AS",
+    "firstSeen": "2026-04-03T23:59:30.093Z",
+    "lastSeen": "2026-04-03T23:59:30.093Z",
+    "duration": 0,
+    "closestDistance": 0.35139329720374357,
+    "closestAltitude": 38000,
+    "closestSpeed": 395,
+    "initialDistance": 0.35139329720374357,
+    "initialAltitude": 38000,
+    "initialSpeed": 395
   }
 ]
