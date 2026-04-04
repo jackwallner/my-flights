@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 27375,
-    "speed": 360,
-    "timestamp": "2026-04-04T01:13:58.677Z",
-    "lat": 45.635,
-    "lon": -122.5246,
+    "distance": 0.67,
+    "altitude": 34000,
+    "speed": 391,
+    "timestamp": "2026-04-04T01:15:51.891Z",
+    "lat": 45.6346,
+    "lon": -122.5193,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW127T",
+    "callsign": "SKW3707",
     "aircraftType": "E175",
-    "origin": "MFR",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-27T02:14:48.738Z"
+    "firstSeen": "2026-02-10T01:59:32.125Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.635,
-      -122.5246
+      45.6346,
+      -122.5193
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T01:14:19.252Z"
+  "timestamp": "2026-04-04T01:16:12.459Z"
 }
