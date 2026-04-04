@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 2150,
-    "speed": 131,
-    "timestamp": "2026-04-04T15:10:55.257Z",
-    "lat": 45.6229,
-    "lon": -122.5239,
+    "distance": 0.49,
+    "altitude": 2475,
+    "speed": 95,
+    "timestamp": "2026-04-04T15:50:10.828Z",
+    "lat": 45.6173,
+    "lon": -122.5306,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N687SD",
-    "aircraftType": "RV8",
-    "origin": "TTD",
+    "callsign": "N545DS",
+    "aircraftType": "C172",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-14T00:32:15.774Z"
+    "firstSeen": "2026-03-18T22:38:02.420Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.49,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6265,
-      -122.5163
+      45.6179,
+      -122.5362
     ],
     [
-      45.6229,
-      -122.5239
+      45.6173,
+      -122.5306
     ],
     [
-      45.6193,
-      -122.5313
+      45.6166,
+      -122.5237
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-04T15:11:15.918Z"
+  "status": "tracking",
+  "timestamp": "2026-04-04T15:50:21.102Z"
 }
