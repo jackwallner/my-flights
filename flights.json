@@ -13703,5 +13703,24 @@
     "initialDistance": 0.6821270793645557,
     "initialAltitude": 3200,
     "initialSpeed": 116
+  },
+  {
+    "callsign": "N83SJ",
+    "flightNumber": null,
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "CSN",
+    "destination": "BFI",
+    "icao": "AB579A",
+    "registration": "N83SJ",
+    "firstSeen": "2026-04-04T18:35:02.322Z",
+    "lastSeen": "2026-04-04T18:35:02.322Z",
+    "duration": 0,
+    "closestDistance": 0.4425050051751481,
+    "closestAltitude": 39075,
+    "closestSpeed": 369,
+    "initialDistance": 0.4425050051751481,
+    "initialAltitude": 39075,
+    "initialSpeed": 369
   }
 ]

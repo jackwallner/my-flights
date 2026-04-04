@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 3175,
-    "speed": 117,
-    "timestamp": "2026-04-04T18:23:13.290Z",
-    "lat": 45.6321,
-    "lon": -122.5346,
-    "precision": "high"
+    "distance": 0.44,
+    "altitude": 39075,
+    "speed": 369,
+    "timestamp": "2026-04-04T18:35:02.325Z",
+    "lat": 45.6323,
+    "lon": -122.5249,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N130JA",
-    "aircraftType": "C172",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-04-04T18:23:03.030Z"
+    "callsign": "N83SJ",
+    "aircraftType": "Cita",
+    "origin": "CSN",
+    "destination": "BFI",
+    "firstSeen": "2026-04-04T18:35:02.322Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.44,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6366,
-      -122.5295
-    ],
-    [
-      45.6321,
-      -122.5346
-    ],
-    [
-      45.6273,
-      -122.5399
+      45.6323,
+      -122.5249
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T18:23:33.859Z"
+  "timestamp": "2026-04-04T18:35:22.847Z"
 }
