@@ -13665,5 +13665,24 @@
     "initialDistance": 0.5364938703182098,
     "initialAltitude": 33700,
     "initialSpeed": 399
+  },
+  {
+    "callsign": "N528ES",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "QSA",
+    "destination": null,
+    "icao": "A6A71B",
+    "registration": "N528ES",
+    "firstSeen": "2026-04-04T16:45:32.361Z",
+    "lastSeen": "2026-04-04T16:45:53.034Z",
+    "duration": 21,
+    "closestDistance": 0.5162767053665365,
+    "closestAltitude": 1800,
+    "closestSpeed": 120,
+    "initialDistance": 0.6778890318042845,
+    "initialAltitude": 1775,
+    "initialSpeed": 121
   }
 ]

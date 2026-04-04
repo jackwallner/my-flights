@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.1,
-    "altitude": 1525,
-    "speed": 129,
-    "timestamp": "2026-04-04T16:18:28.832Z",
-    "lat": 45.6256,
-    "lon": -122.5305,
+    "distance": 0.52,
+    "altitude": 1800,
+    "speed": 120,
+    "timestamp": "2026-04-04T16:45:42.658Z",
+    "lat": 45.6171,
+    "lon": -122.5319,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N296DB",
-    "aircraftType": "RV6",
-    "origin": null,
+    "callsign": "N528ES",
+    "aircraftType": "C182",
+    "origin": "QSA",
     "destination": null,
-    "firstSeen": "2026-02-25T22:05:05.121Z"
+    "firstSeen": "2026-04-04T16:45:32.361Z"
   },
-  "overheadScore": 0.1,
+  "overheadScore": 0.52,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6341,
-      -122.5181
+      45.6183,
+      -122.5408
     ],
     [
-      45.6286,
-      -122.5261
+      45.6171,
+      -122.5319
     ],
     [
-      45.6256,
-      -122.5305
-    ],
-    [
-      45.6206,
-      -122.5378
+      45.6157,
+      -122.5232
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T16:18:49.442Z"
+  "timestamp": "2026-04-04T16:46:03.310Z"
 }
