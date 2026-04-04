@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 1300,
-    "speed": 100,
-    "timestamp": "2026-04-04T21:32:59.553Z",
-    "lat": 45.6343,
-    "lon": -122.5233,
-    "precision": "tracked"
+    "distance": 0.37,
+    "altitude": 1075,
+    "speed": 96,
+    "timestamp": "2026-04-04T21:33:20.122Z",
+    "lat": 45.63,
+    "lon": -122.5336,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N545DS",
@@ -15,15 +15,27 @@
     "destination": null,
     "firstSeen": "2026-03-18T22:38:02.420Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6343,
       -122.5233
+    ],
+    [
+      45.632,
+      -122.5288
+    ],
+    [
+      45.63,
+      -122.5336
+    ],
+    [
+      45.6275,
+      -122.5406
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-04-04T21:32:59.553Z"
+  "status": "completed",
+  "timestamp": "2026-04-04T21:33:40.652Z"
 }
