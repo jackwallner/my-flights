@@ -13608,5 +13608,24 @@
     "initialDistance": 0.4474636589523161,
     "initialAltitude": 36000,
     "initialSpeed": 388
+  },
+  {
+    "callsign": "N91055",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "OTK",
+    "destination": null,
+    "icao": "AC99D0",
+    "registration": "N91055",
+    "firstSeen": "2026-04-04T01:50:00.447Z",
+    "lastSeen": "2026-04-04T01:50:10.719Z",
+    "duration": 10,
+    "closestDistance": 0.6491295311412391,
+    "closestAltitude": 1600,
+    "closestSpeed": 127,
+    "initialDistance": 0.6491295311412391,
+    "initialAltitude": 1600,
+    "initialSpeed": 127
   }
 ]
