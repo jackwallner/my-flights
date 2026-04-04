@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 36675,
-    "speed": 400,
-    "timestamp": "2026-04-04T16:50:52.076Z",
-    "lat": 45.627,
-    "lon": -122.5442,
-    "precision": "tracked"
+    "distance": 0.49,
+    "altitude": 3175,
+    "speed": 117,
+    "timestamp": "2026-04-04T18:23:13.290Z",
+    "lat": 45.6321,
+    "lon": -122.5346,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "DAL2530",
-    "aircraftType": "737",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T17:04:34.331Z"
+    "callsign": "N130JA",
+    "aircraftType": "C172",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-04-04T18:23:03.030Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.627,
-      -122.5442
+      45.6366,
+      -122.5295
+    ],
+    [
+      45.6321,
+      -122.5346
+    ],
+    [
+      45.6273,
+      -122.5399
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T16:51:12.658Z"
+  "timestamp": "2026-04-04T18:23:33.859Z"
 }

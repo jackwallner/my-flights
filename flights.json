@@ -13684,5 +13684,24 @@
     "initialDistance": 0.6778890318042845,
     "initialAltitude": 1775,
     "initialSpeed": 121
+  },
+  {
+    "callsign": "N130JA",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A07BFA",
+    "registration": "N130JA",
+    "firstSeen": "2026-04-04T18:23:03.030Z",
+    "lastSeen": "2026-04-04T18:23:23.568Z",
+    "duration": 21,
+    "closestDistance": 0.49179624131244276,
+    "closestAltitude": 3175,
+    "closestSpeed": 117,
+    "initialDistance": 0.6821270793645557,
+    "initialAltitude": 3200,
+    "initialSpeed": 116
   }
 ]
