@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.7,
+    "distance": 0.58,
     "altitude": 1300,
-    "speed": 101,
-    "timestamp": "2026-04-04T20:56:25.389Z",
-    "lat": 45.6163,
-    "lon": -122.5386,
+    "speed": 100,
+    "timestamp": "2026-04-04T21:32:59.553Z",
+    "lat": 45.6343,
+    "lon": -122.5233,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5201H",
+    "callsign": "N545DS",
     "aircraftType": "C172",
-    "origin": "TTD",
+    "origin": "DLS",
     "destination": null,
-    "firstSeen": "2026-02-06T19:39:39.423Z"
+    "firstSeen": "2026-03-18T22:38:02.420Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.58,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6163,
-      -122.5386
+      45.6343,
+      -122.5233
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-04T20:56:45.917Z"
+  "status": "tracking",
+  "timestamp": "2026-04-04T21:32:59.553Z"
 }
