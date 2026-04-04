@@ -13722,5 +13722,24 @@
     "initialDistance": 0.4425050051751481,
     "initialAltitude": 39075,
     "initialSpeed": 369
+  },
+  {
+    "callsign": "GL5T",
+    "flightNumber": null,
+    "aircraftType": "GL5T",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-04-04T20:46:39.050Z",
+    "lastSeen": "2026-04-04T20:46:49.361Z",
+    "duration": 10,
+    "closestDistance": 0.31914831866218935,
+    "closestAltitude": 5200,
+    "closestSpeed": 263,
+    "initialDistance": 0.5906159395092047,
+    "initialAltitude": 5475,
+    "initialSpeed": 264
   }
 ]

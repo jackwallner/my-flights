@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 1425,
-    "speed": 148,
-    "timestamp": "2026-04-04T19:28:08.092Z",
-    "lat": 45.6147,
-    "lon": -122.528,
+    "distance": 0.32,
+    "altitude": 5200,
+    "speed": 263,
+    "timestamp": "2026-04-04T20:46:49.364Z",
+    "lat": 45.6204,
+    "lon": -122.5251,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N296DB",
-    "aircraftType": "RV6",
+    "callsign": "GL5T",
+    "aircraftType": "GL5T",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-25T22:05:05.121Z"
+    "firstSeen": "2026-04-04T20:46:39.050Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6147,
-      -122.528
+      45.634,
+      -122.5216
+    ],
+    [
+      45.6204,
+      -122.5251
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-04T19:28:28.646Z"
+  "status": "tracking",
+  "timestamp": "2026-04-04T20:46:49.364Z"
 }
