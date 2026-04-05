@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.25,
-    "altitude": 33800,
-    "speed": 444,
-    "timestamp": "2026-04-05T03:16:47.396Z",
-    "lat": 45.6226,
-    "lon": -122.5328,
+    "distance": 0.68,
+    "altitude": 35100,
+    "speed": 406,
+    "timestamp": "2026-04-05T03:29:18.228Z",
+    "lat": 45.6291,
+    "lon": -122.5129,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA574",
+    "callsign": "ASA374",
     "aircraftType": "B39M",
-    "origin": "SAN",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T05:53:29.933Z"
+    "firstSeen": "2026-03-26T03:11:58.304Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.68,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6226,
-      -122.5328
+      45.6291,
+      -122.5129
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-05T03:17:07.964Z"
+  "timestamp": "2026-04-05T03:29:38.758Z"
 }
