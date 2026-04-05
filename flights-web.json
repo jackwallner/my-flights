@@ -1,29 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 33675,
-    "speed": 418,
-    "timestamp": "2026-04-05T02:51:14.471Z",
-    "lat": 45.6175,
-    "lon": -122.5186,
-    "precision": "tracked"
+    "distance": 0.16,
+    "altitude": 1900,
+    "speed": 91,
+    "timestamp": "2026-04-05T02:56:54.211Z",
+    "lat": 45.6246,
+    "lon": -122.5319,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "UAL1763",
-    "aircraftType": "A320",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-04-05T02:51:14.467Z"
+    "callsign": "N4466R",
+    "aircraftType": "C172",
+    "origin": "FMU",
+    "destination": null,
+    "firstSeen": "2026-03-01T01:16:04.720Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6175,
-      -122.5186
+      45.6232,
+      -122.5388
+    ],
+    [
+      45.6244,
+      -122.5329
+    ],
+    [
+      45.6246,
+      -122.5319
+    ],
+    [
+      45.6246,
+      -122.5319
+    ],
+    [
+      45.6278,
+      -122.5176
+    ],
+    [
+      45.6285,
+      -122.5145
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-05T02:51:35.060Z"
+  "timestamp": "2026-04-05T02:57:35.348Z"
 }
