@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 34625,
-    "speed": 408,
-    "timestamp": "2026-04-05T04:12:53.174Z",
-    "lat": 45.6163,
-    "lon": -122.5248,
+    "distance": 0.29,
+    "altitude": 36125,
+    "speed": 404,
+    "timestamp": "2026-04-05T04:42:11.586Z",
+    "lat": 45.6216,
+    "lon": -122.5236,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA493",
+    "callsign": "ASA455",
     "aircraftType": "737",
-    "origin": "SBP",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-03-23T04:19:01.512Z"
+    "firstSeen": "2026-03-24T04:28:25.775Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6163,
-      -122.5248
-    ],
-    [
-      45.6351,
-      -122.5344
+      45.6216,
+      -122.5236
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-05T04:13:13.739Z"
+  "timestamp": "2026-04-05T04:42:32.153Z"
 }
