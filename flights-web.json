@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 10850,
-    "speed": 153,
-    "timestamp": "2026-04-05T16:36:28.295Z",
-    "lat": 45.6251,
-    "lon": -122.5208,
-    "precision": "high"
+    "distance": 0.38,
+    "altitude": 2300,
+    "speed": 158,
+    "timestamp": "2026-04-05T16:50:58.102Z",
+    "lat": 45.6217,
+    "lon": -122.5355,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "BE35",
-    "aircraftType": "BE35",
-    "origin": null,
+    "callsign": "N723KP",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-04-05T16:36:18.027Z"
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6309,
-      -122.5242
-    ],
-    [
-      45.6251,
-      -122.5208
-    ],
-    [
-      45.6193,
-      -122.5175
+      45.6217,
+      -122.5355
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-05T16:36:48.898Z"
+  "status": "tracking",
+  "timestamp": "2026-04-05T16:50:58.102Z"
 }
