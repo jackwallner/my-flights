@@ -13817,5 +13817,24 @@
     "initialDistance": 0.6146160319136437,
     "initialAltitude": 33675,
     "initialSpeed": 418
+  },
+  {
+    "callsign": "BE35",
+    "flightNumber": null,
+    "aircraftType": "BE35",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-04-05T16:36:18.027Z",
+    "lastSeen": "2026-04-05T16:36:38.570Z",
+    "duration": 21,
+    "closestDistance": 0.30720275746369774,
+    "closestAltitude": 10850,
+    "closestSpeed": 153,
+    "initialDistance": 0.37525250437887925,
+    "initialAltitude": 10875,
+    "initialSpeed": 152
   }
 ]

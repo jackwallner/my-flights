@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 33975,
-    "speed": 428,
-    "timestamp": "2026-04-05T05:31:07.069Z",
-    "lat": 45.635,
-    "lon": -122.5316,
-    "precision": "tracked"
+    "distance": 0.31,
+    "altitude": 10850,
+    "speed": 153,
+    "timestamp": "2026-04-05T16:36:28.295Z",
+    "lat": 45.6251,
+    "lon": -122.5208,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA316",
-    "aircraftType": "737",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-22T06:36:55.379Z"
+    "callsign": "BE35",
+    "aircraftType": "BE35",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-04-05T16:36:18.027Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.615,
-      -122.521
+      45.6309,
+      -122.5242
     ],
     [
-      45.635,
-      -122.5316
+      45.6251,
+      -122.5208
+    ],
+    [
+      45.6193,
+      -122.5175
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-05T05:31:17.333Z"
+  "timestamp": "2026-04-05T16:36:48.898Z"
 }
