@@ -3272,8 +3272,8 @@
     "icao": "A2A686",
     "registration": "N270AK",
     "firstSeen": "2026-02-01T03:10:24.110Z",
-    "lastSeen": "2026-03-13T03:08:34.097Z",
-    "duration": 3455890,
+    "lastSeen": "2026-04-05T02:50:02.053Z",
+    "duration": 5441978,
     "closestDistance": 0.46623077102873567,
     "closestAltitude": 36000,
     "closestSpeed": 396,
@@ -13798,5 +13798,24 @@
     "initialDistance": 0.581597601376835,
     "initialAltitude": 3500,
     "initialSpeed": 104
+  },
+  {
+    "callsign": "UAL1763",
+    "flightNumber": "UA1763",
+    "aircraftType": "A320",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A59B5E",
+    "registration": "N460UA",
+    "firstSeen": "2026-04-05T02:51:14.467Z",
+    "lastSeen": "2026-04-05T02:51:14.467Z",
+    "duration": 0,
+    "closestDistance": 0.6146160319136437,
+    "closestAltitude": 33675,
+    "closestSpeed": 418,
+    "initialDistance": 0.6146160319136437,
+    "initialAltitude": 33675,
+    "initialSpeed": 418
   }
 ]
