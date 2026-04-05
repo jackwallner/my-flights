@@ -1,49 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 1900,
-    "speed": 91,
-    "timestamp": "2026-04-05T02:56:54.211Z",
-    "lat": 45.6246,
-    "lon": -122.5319,
-    "precision": "high"
+    "distance": 0.67,
+    "altitude": 35075,
+    "speed": 415,
+    "timestamp": "2026-04-05T03:13:11.225Z",
+    "lat": 45.6176,
+    "lon": -122.5165,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4466R",
-    "aircraftType": "C172",
-    "origin": "FMU",
-    "destination": null,
-    "firstSeen": "2026-03-01T01:16:04.720Z"
+    "callsign": "DAL2640",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T03:49:09.282Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6232,
-      -122.5388
-    ],
-    [
-      45.6244,
-      -122.5329
-    ],
-    [
-      45.6246,
-      -122.5319
-    ],
-    [
-      45.6246,
-      -122.5319
-    ],
-    [
-      45.6278,
-      -122.5176
-    ],
-    [
-      45.6285,
-      -122.5145
+      45.6176,
+      -122.5165
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-05T02:57:35.348Z"
+  "timestamp": "2026-04-05T03:13:31.743Z"
 }
