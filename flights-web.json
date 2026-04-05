@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 4175,
-    "speed": 100,
-    "timestamp": "2026-04-05T17:52:18.802Z",
-    "lat": 45.6183,
-    "lon": -122.5276,
+    "distance": 0.43,
+    "altitude": 7225,
+    "speed": 102,
+    "timestamp": "2026-04-05T18:12:53.189Z",
+    "lat": 45.6181,
+    "lon": -122.5286,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9185H",
+    "callsign": "N3934F",
     "aircraftType": "C172",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "firstSeen": "2026-04-05T18:12:32.621Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.43,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6195,
-      -122.5417
+      45.6178,
+      -122.5158
     ],
     [
-      45.619,
-      -122.5347
+      45.618,
+      -122.5228
     ],
     [
-      45.6183,
-      -122.5276
+      45.6181,
+      -122.5286
     ],
     [
-      45.6174,
-      -122.5203
+      45.6181,
+      -122.5356
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-04-05T17:52:39.373Z"
+  "status": "tracking",
+  "timestamp": "2026-04-05T18:13:03.453Z"
 }
