@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 3200,
-    "speed": 138,
-    "timestamp": "2026-04-04T23:16:49.445Z",
-    "lat": 45.6309,
-    "lon": -122.5242,
+    "distance": 0.37,
+    "altitude": 3400,
+    "speed": 110,
+    "timestamp": "2026-04-05T02:36:59.144Z",
+    "lat": 45.6193,
+    "lon": -122.5305,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N75TT",
-    "aircraftType": "C414",
-    "origin": "TTD",
-    "destination": "TIW",
-    "firstSeen": "2026-02-28T19:20:17.318Z"
+    "callsign": "N62407",
+    "aircraftType": "C172",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-04-05T02:36:38.567Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6259,
-      -122.5178
+      45.62,
+      -122.5165
     ],
     [
-      45.6309,
-      -122.5242
+      45.6197,
+      -122.5223
     ],
     [
-      45.6352,
-      -122.5295
+      45.6193,
+      -122.5305
+    ],
+    [
+      45.6188,
+      -122.5383
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-04-04T23:17:09.989Z"
+  "timestamp": "2026-04-05T02:37:19.758Z"
 }
