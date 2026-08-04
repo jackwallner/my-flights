@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 7950,
-    "speed": 128,
-    "timestamp": "2026-08-04T18:43:02.679Z",
-    "lat": 45.6202,
-    "lon": -122.5181,
+    "distance": 0.25,
+    "altitude": 36000,
+    "speed": 396,
+    "timestamp": "2026-08-04T21:57:38.823Z",
+    "lat": 45.6278,
+    "lon": -122.5329,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "T206",
-    "aircraftType": "T206",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-18T18:16:03.599Z"
+    "callsign": "ASA471",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-06-22T19:37:33.232Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.25,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6202,
-      -122.5181
+      45.6278,
+      -122.5329
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-04T18:43:33.451Z"
+  "timestamp": "2026-08-04T21:58:10.136Z"
 }
