@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 37050,
-    "speed": 483,
-    "timestamp": "2026-08-04T22:56:01.839Z",
-    "lat": 45.6303,
-    "lon": -122.5428,
+    "distance": 0.28,
+    "altitude": 34000,
+    "speed": 397,
+    "timestamp": "2026-08-04T23:33:20.417Z",
+    "lat": 45.6208,
+    "lon": -122.5298,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GLF6",
-    "aircraftType": "Gulf",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T23:31:14.571Z"
+    "callsign": "QXE2286",
+    "aircraftType": "E175",
+    "origin": "RDD",
+    "destination": "SEA",
+    "firstSeen": "2026-04-27T22:00:37.987Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.28,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6303,
-      -122.5428
+      45.6208,
+      -122.5298
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-04T22:56:32.625Z"
+  "timestamp": "2026-08-04T23:33:51.181Z"
 }
