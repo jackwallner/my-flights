@@ -26566,5 +26566,24 @@
     "initialDistance": 0.5129489728931674,
     "initialAltitude": 1100,
     "initialSpeed": 75
+  },
+  {
+    "callsign": "CFMHJ",
+    "flightNumber": null,
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "BLI",
+    "destination": "HIO",
+    "icao": "C02070",
+    "registration": "C-FMHJ",
+    "firstSeen": "2026-08-04T16:35:26.398Z",
+    "lastSeen": "2026-08-04T16:35:26.398Z",
+    "duration": 0,
+    "closestDistance": 0.5589848150608491,
+    "closestAltitude": 4525,
+    "closestSpeed": 242,
+    "initialDistance": 0.5589848150608491,
+    "initialAltitude": 4525,
+    "initialSpeed": 242
   }
 ]

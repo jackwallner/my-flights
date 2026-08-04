@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 39850,
-    "speed": 369,
-    "timestamp": "2026-08-04T04:57:17.439Z",
-    "lat": 45.6182,
-    "lon": -122.5207,
+    "distance": 0.56,
+    "altitude": 4525,
+    "speed": 242,
+    "timestamp": "2026-08-04T16:35:26.409Z",
+    "lat": 45.6223,
+    "lon": -122.5155,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2956",
-    "aircraftType": "737",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-05-19T06:48:54.563Z"
+    "callsign": "CFMHJ",
+    "aircraftType": "PC-1",
+    "origin": "BLI",
+    "destination": "HIO",
+    "firstSeen": "2026-08-04T16:35:26.398Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.56,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6182,
-      -122.5207
+      45.6223,
+      -122.5155
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-04T04:57:48.277Z"
+  "timestamp": "2026-08-04T16:35:57.193Z"
 }
