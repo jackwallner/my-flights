@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 35525,
-    "speed": 393,
-    "timestamp": "2026-08-04T04:48:12.331Z",
-    "lat": 45.6275,
-    "lon": -122.5408,
+    "distance": 0.53,
+    "altitude": 39850,
+    "speed": 369,
+    "timestamp": "2026-08-04T04:57:17.439Z",
+    "lat": 45.6182,
+    "lon": -122.5207,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2066",
-    "aircraftType": "E175",
-    "origin": "SBP",
+    "callsign": "DAL2956",
+    "aircraftType": "737",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-06-19T04:17:24.129Z"
+    "firstSeen": "2026-05-19T06:48:54.563Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6275,
-      -122.5408
+      45.6182,
+      -122.5207
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-04T04:48:43.158Z"
+  "timestamp": "2026-08-04T04:57:48.277Z"
 }
