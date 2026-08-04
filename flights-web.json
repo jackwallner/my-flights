@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 4525,
-    "speed": 242,
-    "timestamp": "2026-08-04T16:35:26.409Z",
-    "lat": 45.6223,
-    "lon": -122.5155,
+    "distance": 0.47,
+    "altitude": 36000,
+    "speed": 386,
+    "timestamp": "2026-08-04T17:08:17.863Z",
+    "lat": 45.6195,
+    "lon": -122.5204,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CFMHJ",
-    "aircraftType": "PC-1",
-    "origin": "BLI",
-    "destination": "HIO",
-    "firstSeen": "2026-08-04T16:35:26.398Z"
+    "callsign": "SWA2283",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-08-04T17:08:17.847Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6223,
-      -122.5155
+      45.6195,
+      -122.5204
+    ],
+    [
+      45.6346,
+      -122.5287
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-04T16:35:57.193Z"
+  "timestamp": "2026-08-04T17:08:48.636Z"
 }
