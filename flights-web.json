@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 1825,
-    "speed": 151,
-    "timestamp": "2026-08-05T00:35:39.695Z",
-    "lat": 45.6253,
-    "lon": -122.5213,
+    "distance": 0.61,
+    "altitude": 37775,
+    "speed": 468,
+    "timestamp": "2026-08-05T02:30:21.107Z",
+    "lat": 45.6196,
+    "lon": -122.5402,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AMF1991",
-    "aircraftType": "BE99",
-    "origin": "AST",
-    "destination": "PDX",
-    "firstSeen": "2026-04-11T00:40:55.395Z"
+    "callsign": "LXJ200",
+    "aircraftType": "GA5C",
+    "origin": "VNY",
+    "destination": "BFI",
+    "firstSeen": "2026-06-13T21:30:53.513Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.61,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6319,
-      -122.5264
-    ],
-    [
-      45.6253,
-      -122.5213
+      45.6196,
+      -122.5402
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-05T00:36:00.222Z"
+  "timestamp": "2026-08-05T02:30:51.914Z"
 }
