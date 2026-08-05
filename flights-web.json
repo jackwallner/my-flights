@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 34850,
-    "speed": 419,
-    "timestamp": "2026-08-05T15:59:06.573Z",
-    "lat": 45.6302,
-    "lon": -122.5353,
+    "distance": 0.53,
+    "altitude": 39100,
+    "speed": 405,
+    "timestamp": "2026-08-05T16:52:20.807Z",
+    "lat": 45.6285,
+    "lon": -122.5399,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1325",
-    "aircraftType": "737",
-    "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T16:58:38.699Z"
+    "callsign": "N464EG",
+    "aircraftType": "Cita",
+    "origin": "ONT",
+    "destination": null,
+    "firstSeen": "2026-02-15T23:11:09.300Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.53,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6148,
-      -122.528
-    ],
-    [
-      45.6302,
-      -122.5353
+      45.6285,
+      -122.5399
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-05T15:59:27.072Z"
+  "status": "tracking",
+  "timestamp": "2026-08-05T16:52:20.807Z"
 }
