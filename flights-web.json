@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 37775,
-    "speed": 468,
-    "timestamp": "2026-08-05T02:30:21.107Z",
-    "lat": 45.6196,
-    "lon": -122.5402,
+    "distance": 0.48,
+    "altitude": 37075,
+    "speed": 390,
+    "timestamp": "2026-08-05T03:38:17.609Z",
+    "lat": 45.6297,
+    "lon": -122.5187,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ200",
-    "aircraftType": "GA5C",
-    "origin": "VNY",
-    "destination": "BFI",
-    "firstSeen": "2026-06-13T21:30:53.513Z"
+    "callsign": "ASA703",
+    "aircraftType": "737 ",
+    "origin": "BUR",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T23:52:43.147Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6196,
-      -122.5402
+      45.6297,
+      -122.5187
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-05T02:30:51.914Z"
+  "timestamp": "2026-08-05T03:38:48.442Z"
 }
