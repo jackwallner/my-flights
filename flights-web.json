@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 20000,
-    "speed": 196,
-    "timestamp": "2026-08-05T22:55:40.535Z",
-    "lat": 45.6344,
-    "lon": -122.5376,
+    "distance": 0.54,
+    "altitude": 33450,
+    "speed": 431,
+    "timestamp": "2026-08-05T23:58:35.687Z",
+    "lat": 45.618,
+    "lon": -122.5357,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N340SB",
-    "aircraftType": "C340",
-    "origin": "CSN",
-    "destination": "PAE",
-    "firstSeen": "2026-04-26T20:14:04.525Z"
+    "callsign": "ASA521",
+    "aircraftType": "B39M",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-06-13T22:44:23.622Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.54,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6344,
-      -122.5376
+      45.618,
+      -122.5357
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-05T22:56:11.354Z"
+  "timestamp": "2026-08-05T23:59:06.543Z"
 }
