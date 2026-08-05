@@ -1,29 +1,29 @@
 {
   "closestApproach": {
     "distance": 0.48,
-    "altitude": 37075,
-    "speed": 390,
-    "timestamp": "2026-08-05T03:38:17.609Z",
-    "lat": 45.6297,
-    "lon": -122.5187,
+    "altitude": 31375,
+    "speed": 414,
+    "timestamp": "2026-08-05T04:00:12.577Z",
+    "lat": 45.6327,
+    "lon": -122.5237,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA703",
+    "callsign": "SWA3267",
     "aircraftType": "737 ",
-    "origin": "BUR",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T23:52:43.147Z"
+    "firstSeen": "2026-08-05T04:00:12.569Z"
   },
   "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6297,
-      -122.5187
+      45.6327,
+      -122.5237
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-05T03:38:48.442Z"
+  "timestamp": "2026-08-05T04:00:43.391Z"
 }

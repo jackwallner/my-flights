@@ -26604,5 +26604,24 @@
     "initialDistance": 0.47467061837876434,
     "initialAltitude": 36000,
     "initialSpeed": 386
+  },
+  {
+    "callsign": "SWA3267",
+    "flightNumber": "WN3267",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "AC5700",
+    "registration": "N8943Q",
+    "firstSeen": "2026-08-05T04:00:12.569Z",
+    "lastSeen": "2026-08-05T04:00:12.569Z",
+    "duration": 0,
+    "closestDistance": 0.4824495957582813,
+    "closestAltitude": 31375,
+    "closestSpeed": 414,
+    "initialDistance": 0.4824495957582813,
+    "initialAltitude": 31375,
+    "initialSpeed": 414
   }
 ]
