@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 35725,
-    "speed": 403,
-    "timestamp": "2026-08-05T04:20:24.749Z",
-    "lat": 45.6207,
-    "lon": -122.5408,
+    "distance": 0.51,
+    "altitude": 35075,
+    "speed": 406,
+    "timestamp": "2026-08-05T04:38:23.314Z",
+    "lat": 45.6186,
+    "lon": -122.5355,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2066",
+    "callsign": "QXE2116",
     "aircraftType": "E175",
-    "origin": "SBP",
-    "destination": "SEA",
-    "firstSeen": "2026-06-19T04:17:24.129Z"
+    "origin": "SNA",
+    "destination": "PAE",
+    "firstSeen": "2026-03-05T07:02:27.321Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.51,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6207,
-      -122.5408
+      45.6186,
+      -122.5355
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-05T04:20:55.596Z"
+  "timestamp": "2026-08-05T04:38:54.129Z"
 }
