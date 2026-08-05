@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 39100,
-    "speed": 405,
-    "timestamp": "2026-08-05T16:52:20.807Z",
-    "lat": 45.6285,
-    "lon": -122.5399,
+    "distance": 0.67,
+    "altitude": 34000,
+    "speed": 432,
+    "timestamp": "2026-08-05T17:20:34.824Z",
+    "lat": 45.6268,
+    "lon": -122.5439,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N464EG",
-    "aircraftType": "Cita",
-    "origin": "ONT",
-    "destination": null,
-    "firstSeen": "2026-02-15T23:11:09.300Z"
+    "callsign": "SKW6476",
+    "aircraftType": "E175",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-08-05T17:20:34.819Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6285,
-      -122.5399
+      45.6268,
+      -122.5439
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-05T16:52:51.594Z"
+  "status": "tracking",
+  "timestamp": "2026-08-05T17:20:34.824Z"
 }

@@ -26642,5 +26642,24 @@
     "initialDistance": 0.671635049063371,
     "initialAltitude": 38750,
     "initialSpeed": 437
+  },
+  {
+    "callsign": "SKW6476",
+    "flightNumber": "AA6476",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A67D17",
+    "registration": "N517SY",
+    "firstSeen": "2026-08-05T17:20:34.819Z",
+    "lastSeen": "2026-08-05T17:20:34.819Z",
+    "duration": 0,
+    "closestDistance": 0.6691785164631988,
+    "closestAltitude": 34000,
+    "closestSpeed": 432,
+    "initialDistance": 0.6691785164631988,
+    "initialAltitude": 34000,
+    "initialSpeed": 432
   }
 ]
