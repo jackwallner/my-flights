@@ -26623,5 +26623,24 @@
     "initialDistance": 0.4824495957582813,
     "initialAltitude": 31375,
     "initialSpeed": 414
+  },
+  {
+    "callsign": "SWA3744",
+    "flightNumber": "WN3744",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "ABF3DA",
+    "registration": "N8699A",
+    "firstSeen": "2026-08-05T14:19:46.352Z",
+    "lastSeen": "2026-08-05T14:19:46.352Z",
+    "duration": 0,
+    "closestDistance": 0.671635049063371,
+    "closestAltitude": 38750,
+    "closestSpeed": 437,
+    "initialDistance": 0.671635049063371,
+    "initialAltitude": 38750,
+    "initialSpeed": 437
   }
 ]

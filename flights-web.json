@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 35075,
-    "speed": 406,
-    "timestamp": "2026-08-05T04:38:23.314Z",
-    "lat": 45.6186,
-    "lon": -122.5355,
+    "distance": 0.67,
+    "altitude": 38750,
+    "speed": 437,
+    "timestamp": "2026-08-05T14:19:46.359Z",
+    "lat": 45.6231,
+    "lon": -122.5438,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2116",
-    "aircraftType": "E175",
-    "origin": "SNA",
-    "destination": "PAE",
-    "firstSeen": "2026-03-05T07:02:27.321Z"
+    "callsign": "SWA3744",
+    "aircraftType": "737",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-08-05T14:19:46.352Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6186,
-      -122.5355
+      45.6231,
+      -122.5438
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-05T04:38:54.129Z"
+  "timestamp": "2026-08-05T14:20:17.132Z"
 }
