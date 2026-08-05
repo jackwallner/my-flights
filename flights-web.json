@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 34000,
-    "speed": 397,
-    "timestamp": "2026-08-04T23:33:20.417Z",
-    "lat": 45.6208,
-    "lon": -122.5298,
+    "distance": 0.29,
+    "altitude": 1825,
+    "speed": 151,
+    "timestamp": "2026-08-05T00:35:39.695Z",
+    "lat": 45.6253,
+    "lon": -122.5213,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2286",
-    "aircraftType": "E175",
-    "origin": "RDD",
-    "destination": "SEA",
-    "firstSeen": "2026-04-27T22:00:37.987Z"
+    "callsign": "AMF1991",
+    "aircraftType": "BE99",
+    "origin": "AST",
+    "destination": "PDX",
+    "firstSeen": "2026-04-11T00:40:55.395Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6208,
-      -122.5298
+      45.6319,
+      -122.5264
+    ],
+    [
+      45.6253,
+      -122.5213
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-04T23:33:51.181Z"
+  "timestamp": "2026-08-05T00:36:00.222Z"
 }
