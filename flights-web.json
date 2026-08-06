@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 31950,
-    "speed": 456,
-    "timestamp": "2026-08-06T23:00:56.509Z",
-    "lat": 45.6245,
-    "lon": -122.5134,
+    "distance": 0.64,
+    "altitude": 14025,
+    "speed": 341,
+    "timestamp": "2026-08-06T23:24:03.852Z",
+    "lat": 45.6336,
+    "lon": -122.5186,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA521",
-    "aircraftType": "737",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-06-13T22:44:23.622Z"
+    "callsign": "PC24",
+    "aircraftType": "PC24",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-04-03T00:28:21.174Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6245,
-      -122.5134
+      45.6336,
+      -122.5186
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-06T23:01:27.314Z"
+  "timestamp": "2026-08-06T23:24:34.691Z"
 }
