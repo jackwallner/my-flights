@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 34075,
-    "speed": 435,
-    "timestamp": "2026-08-06T22:19:08.126Z",
-    "lat": 45.6325,
-    "lon": -122.5173,
+    "distance": 0.6,
+    "altitude": 35975,
+    "speed": 432,
+    "timestamp": "2026-08-06T22:44:49.983Z",
+    "lat": 45.6251,
+    "lon": -122.5139,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3983",
-    "aircraftType": "737 ",
-    "origin": "SJC",
+    "callsign": "DAL2905",
+    "aircraftType": "737",
+    "origin": "LAS",
     "destination": "SEA",
-    "firstSeen": "2026-08-06T22:19:08.121Z"
+    "firstSeen": "2026-02-08T23:43:56.165Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6325,
-      -122.5173
+      45.6251,
+      -122.5139
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-06T22:19:38.899Z"
+  "timestamp": "2026-08-06T22:45:20.842Z"
 }
