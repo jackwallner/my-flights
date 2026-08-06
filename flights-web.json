@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 34000,
-    "speed": 421,
-    "timestamp": "2026-08-06T05:54:27.225Z",
-    "lat": 45.6255,
-    "lon": -122.5147,
+    "distance": 0.54,
+    "altitude": 36025,
+    "speed": 480,
+    "timestamp": "2026-08-06T15:31:39.113Z",
+    "lat": 45.6342,
+    "lon": -122.5304,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3991",
-    "aircraftType": "E175",
+    "callsign": "ASA68",
+    "aircraftType": "B39M",
     "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T05:05:25.927Z"
+    "firstSeen": "2026-02-08T15:39:02.272Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.54,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6255,
-      -122.5147
+      45.6342,
+      -122.5304
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-06T05:54:58.037Z"
+  "timestamp": "2026-08-06T15:32:10.246Z"
 }
