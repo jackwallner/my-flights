@@ -26737,5 +26737,24 @@
     "initialDistance": 0.6276608727922794,
     "initialAltitude": 34075,
     "initialSpeed": 435
+  },
+  {
+    "callsign": "SWA2748",
+    "flightNumber": "WN2748",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "AAB146",
+    "registration": "N7885A",
+    "firstSeen": "2026-08-06T23:50:26.913Z",
+    "lastSeen": "2026-08-06T23:50:26.913Z",
+    "duration": 0,
+    "closestDistance": 0.6376892578072406,
+    "closestAltitude": 32425,
+    "closestSpeed": 444,
+    "initialDistance": 0.6376892578072406,
+    "initialAltitude": 32425,
+    "initialSpeed": 444
   }
 ]
