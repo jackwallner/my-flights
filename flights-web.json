@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 36025,
-    "speed": 480,
-    "timestamp": "2026-08-06T15:31:39.113Z",
-    "lat": 45.6342,
-    "lon": -122.5304,
+    "distance": 0.23,
+    "altitude": 24000,
+    "speed": 258,
+    "timestamp": "2026-08-06T16:35:03.013Z",
+    "lat": 45.6259,
+    "lon": -122.5226,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA68",
-    "aircraftType": "B39M",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-08T15:39:02.272Z"
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.23,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6342,
-      -122.5304
+      45.6259,
+      -122.5226
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-06T15:32:10.246Z"
+  "status": "tracking",
+  "timestamp": "2026-08-06T16:35:03.013Z"
 }
