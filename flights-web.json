@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.04,
-    "altitude": 1800,
-    "speed": 101,
-    "timestamp": "2026-08-06T20:21:35.085Z",
-    "lat": 45.6246,
-    "lon": -122.5283,
+    "distance": 0.63,
+    "altitude": 34075,
+    "speed": 435,
+    "timestamp": "2026-08-06T22:19:08.126Z",
+    "lat": 45.6325,
+    "lon": -122.5173,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N725FA",
-    "aircraftType": "RV12",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-06-11T20:05:42.436Z"
+    "callsign": "SWA3983",
+    "aircraftType": "737 ",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-08-06T22:19:08.121Z"
   },
-  "overheadScore": 0.04,
+  "overheadScore": 0.63,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6246,
-      -122.5283
+      45.6325,
+      -122.5173
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-06T20:22:05.888Z"
+  "timestamp": "2026-08-06T22:19:38.899Z"
 }

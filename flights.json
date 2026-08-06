@@ -26718,5 +26718,24 @@
     "initialDistance": 0.6596115047259483,
     "initialAltitude": 2725,
     "initialSpeed": 119
+  },
+  {
+    "callsign": "SWA3983",
+    "flightNumber": "WN3983",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AC136D",
+    "registration": "N8775Q",
+    "firstSeen": "2026-08-06T22:19:08.121Z",
+    "lastSeen": "2026-08-06T22:19:08.121Z",
+    "duration": 0,
+    "closestDistance": 0.6276608727922794,
+    "closestAltitude": 34075,
+    "closestSpeed": 435,
+    "initialDistance": 0.6276608727922794,
+    "initialAltitude": 34075,
+    "initialSpeed": 435
   }
 ]
