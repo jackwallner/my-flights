@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 33450,
-    "speed": 431,
-    "timestamp": "2026-08-05T23:58:35.687Z",
-    "lat": 45.618,
-    "lon": -122.5357,
+    "distance": 0.26,
+    "altitude": 34000,
+    "speed": 393,
+    "timestamp": "2026-08-06T04:02:36.653Z",
+    "lat": 45.6217,
+    "lon": -122.5314,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA521",
-    "aircraftType": "B39M",
-    "origin": "SJC",
+    "callsign": "SKW3999",
+    "aircraftType": "E175",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-06-13T22:44:23.622Z"
+    "firstSeen": "2026-04-24T01:25:58.813Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.26,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.618,
-      -122.5357
+      45.6217,
+      -122.5314
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-05T23:59:06.543Z"
+  "timestamp": "2026-08-06T04:03:07.675Z"
 }
