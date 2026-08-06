@@ -26661,5 +26661,24 @@
     "initialDistance": 0.6691785164631988,
     "initialAltitude": 34000,
     "initialSpeed": 432
+  },
+  {
+    "callsign": "SWA4310",
+    "flightNumber": "WN4310",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "AC62CC",
+    "registration": "N8978G",
+    "firstSeen": "2026-08-06T04:47:23.911Z",
+    "lastSeen": "2026-08-06T04:47:23.911Z",
+    "duration": 0,
+    "closestDistance": 0.5907132844022844,
+    "closestAltitude": 34675,
+    "closestSpeed": 424,
+    "initialDistance": 0.5907132844022844,
+    "initialAltitude": 34675,
+    "initialSpeed": 424
   }
 ]

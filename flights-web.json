@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.26,
-    "altitude": 34000,
-    "speed": 393,
-    "timestamp": "2026-08-06T04:02:36.653Z",
-    "lat": 45.6217,
-    "lon": -122.5314,
+    "distance": 0.59,
+    "altitude": 34675,
+    "speed": 424,
+    "timestamp": "2026-08-06T04:47:23.914Z",
+    "lat": 45.6244,
+    "lon": -122.5141,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3999",
-    "aircraftType": "E175",
-    "origin": "SNA",
+    "callsign": "SWA4310",
+    "aircraftType": "737 ",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-04-24T01:25:58.813Z"
+    "firstSeen": "2026-08-06T04:47:23.911Z"
   },
-  "overheadScore": 0.26,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6217,
-      -122.5314
+      45.6244,
+      -122.5141
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-06T04:03:07.675Z"
+  "timestamp": "2026-08-06T04:47:54.734Z"
 }
