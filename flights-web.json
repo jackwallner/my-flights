@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 18000,
-    "speed": 256,
-    "timestamp": "2026-08-06T18:25:06.977Z",
-    "lat": 45.6255,
-    "lon": -122.5145,
+    "distance": 0.62,
+    "altitude": 2725,
+    "speed": 117,
+    "timestamp": "2026-08-06T19:30:11.340Z",
+    "lat": 45.6241,
+    "lon": -122.5428,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CNS28",
-    "aircraftType": "PC-1",
-    "origin": "QSN",
-    "destination": "BFI",
-    "firstSeen": "2026-08-06T18:25:06.971Z"
+    "callsign": "N9358Y",
+    "aircraftType": "BE35",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-08-06T19:30:01.002Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.62,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6255,
-      -122.5145
+      45.619,
+      -122.541
+    ],
+    [
+      45.6241,
+      -122.5428
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-06T18:25:37.764Z"
+  "timestamp": "2026-08-06T19:30:31.887Z"
 }

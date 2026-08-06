@@ -26699,5 +26699,24 @@
     "initialDistance": 0.5716939093553829,
     "initialAltitude": 18000,
     "initialSpeed": 256
+  },
+  {
+    "callsign": "N9358Y",
+    "flightNumber": null,
+    "aircraftType": "BE35",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "ACFBC3",
+    "registration": "N9358Y",
+    "firstSeen": "2026-08-06T19:30:01.002Z",
+    "lastSeen": "2026-08-06T19:30:11.335Z",
+    "duration": 10,
+    "closestDistance": 0.6208160241546729,
+    "closestAltitude": 2725,
+    "closestSpeed": 117,
+    "initialDistance": 0.6596115047259483,
+    "initialAltitude": 2725,
+    "initialSpeed": 119
   }
 ]
