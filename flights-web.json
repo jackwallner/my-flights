@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 35975,
-    "speed": 432,
-    "timestamp": "2026-08-06T22:44:49.983Z",
-    "lat": 45.6251,
-    "lon": -122.5139,
+    "distance": 0.62,
+    "altitude": 31950,
+    "speed": 456,
+    "timestamp": "2026-08-06T23:00:56.509Z",
+    "lat": 45.6245,
+    "lon": -122.5134,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2905",
+    "callsign": "ASA521",
     "aircraftType": "737",
-    "origin": "LAS",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-08T23:43:56.165Z"
+    "firstSeen": "2026-06-13T22:44:23.622Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.62,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6251,
-      -122.5139
+      45.6245,
+      -122.5134
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-06T22:45:20.842Z"
+  "timestamp": "2026-08-06T23:01:27.314Z"
 }
