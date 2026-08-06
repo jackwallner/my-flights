@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 2725,
-    "speed": 117,
-    "timestamp": "2026-08-06T19:30:11.340Z",
-    "lat": 45.6241,
-    "lon": -122.5428,
+    "distance": 0.69,
+    "altitude": 10100,
+    "speed": 191,
+    "timestamp": "2026-08-06T20:19:52.302Z",
+    "lat": 45.6366,
+    "lon": -122.5257,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9358Y",
-    "aircraftType": "BE35",
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-08-06T19:30:01.002Z"
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.619,
-      -122.541
-    ],
-    [
-      45.6241,
-      -122.5428
+      45.6366,
+      -122.5257
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-06T19:30:31.887Z"
+  "timestamp": "2026-08-06T20:20:23.168Z"
 }
