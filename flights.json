@@ -26680,5 +26680,24 @@
     "initialDistance": 0.5907132844022844,
     "initialAltitude": 34675,
     "initialSpeed": 424
+  },
+  {
+    "callsign": "CNS28",
+    "flightNumber": "CNS28",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "QSN",
+    "destination": "BFI",
+    "icao": "A5BB10",
+    "registration": "N469AF",
+    "firstSeen": "2026-08-06T18:25:06.971Z",
+    "lastSeen": "2026-08-06T18:25:06.971Z",
+    "duration": 0,
+    "closestDistance": 0.5716939093553829,
+    "closestAltitude": 18000,
+    "closestSpeed": 256,
+    "initialDistance": 0.5716939093553829,
+    "initialAltitude": 18000,
+    "initialSpeed": 256
   }
 ]

@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 43000,
-    "speed": 424,
-    "timestamp": "2026-08-06T16:55:47.848Z",
-    "lat": 45.6318,
-    "lon": -122.5252,
+    "distance": 0.57,
+    "altitude": 18000,
+    "speed": 256,
+    "timestamp": "2026-08-06T18:25:06.977Z",
+    "lat": 45.6255,
+    "lon": -122.5145,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ356",
-    "aircraftType": "E55P",
-    "origin": "CSN",
+    "callsign": "CNS28",
+    "aircraftType": "PC-1",
+    "origin": "QSN",
     "destination": "BFI",
-    "firstSeen": "2026-04-04T00:26:58.070Z"
+    "firstSeen": "2026-08-06T18:25:06.971Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.57,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6318,
-      -122.5252
+      45.6255,
+      -122.5145
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-06T16:56:18.649Z"
+  "status": "tracking",
+  "timestamp": "2026-08-06T18:25:06.978Z"
 }
