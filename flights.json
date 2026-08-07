@@ -26870,5 +26870,24 @@
     "initialDistance": 0.5871848219653365,
     "initialAltitude": 5200,
     "initialSpeed": 263
+  },
+  {
+    "callsign": "N5871S",
+    "flightNumber": null,
+    "aircraftType": "BE33",
+    "aircraftName": null,
+    "origin": "COE",
+    "destination": null,
+    "icao": "A79275",
+    "registration": "N5871S",
+    "firstSeen": "2026-08-07T23:05:50.577Z",
+    "lastSeen": "2026-08-07T23:06:00.816Z",
+    "duration": 10,
+    "closestDistance": 0.40778684041396995,
+    "closestAltitude": 6100,
+    "closestSpeed": 167,
+    "initialDistance": 0.40778684041396995,
+    "initialAltitude": 6100,
+    "initialSpeed": 167
   }
 ]
