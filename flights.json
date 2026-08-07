@@ -26775,5 +26775,24 @@
     "initialDistance": 0.5109570110353386,
     "initialAltitude": 34150,
     "initialSpeed": 429
+  },
+  {
+    "callsign": "N93KM",
+    "flightNumber": null,
+    "aircraftType": "C510",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "HIO",
+    "icao": "ACE43D",
+    "registration": "N93KM",
+    "firstSeen": "2026-08-07T13:11:59.644Z",
+    "lastSeen": "2026-08-07T13:12:09.903Z",
+    "duration": 10,
+    "closestDistance": 0.17988703115685345,
+    "closestAltitude": 3900,
+    "closestSpeed": 254,
+    "initialDistance": 0.17988703115685345,
+    "initialAltitude": 3900,
+    "initialSpeed": 254
   }
 ]
