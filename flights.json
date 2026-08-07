@@ -26832,5 +26832,24 @@
     "initialDistance": 0.3062522704120655,
     "initialAltitude": 5500,
     "initialSpeed": 107
+  },
+  {
+    "callsign": "AAL2524",
+    "flightNumber": "AA2524",
+    "aircraftType": "A319",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "AB10DF",
+    "registration": "N812AW",
+    "firstSeen": "2026-08-07T20:52:51.275Z",
+    "lastSeen": "2026-08-07T20:52:51.275Z",
+    "duration": 0,
+    "closestDistance": 0.4600944029462365,
+    "closestAltitude": 33925,
+    "closestSpeed": 441,
+    "initialDistance": 0.4600944029462365,
+    "initialAltitude": 33925,
+    "initialSpeed": 441
   }
 ]
