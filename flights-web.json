@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 33925,
-    "speed": 441,
-    "timestamp": "2026-08-07T20:52:51.279Z",
-    "lat": 45.621,
-    "lon": -122.5372,
+    "distance": 0.59,
+    "altitude": 5200,
+    "speed": 263,
+    "timestamp": "2026-08-07T21:18:23.556Z",
+    "lat": 45.6227,
+    "lon": -122.5416,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AAL2524",
-    "aircraftType": "A319",
-    "origin": "PHX",
-    "destination": "SEA",
-    "firstSeen": "2026-08-07T20:52:51.275Z"
+    "callsign": "C525",
+    "aircraftType": "C525",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-08-07T21:18:23.550Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.621,
-      -122.5372
+      45.6227,
+      -122.5416
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-07T20:53:22.072Z"
+  "timestamp": "2026-08-07T21:18:54.402Z"
 }

@@ -26851,5 +26851,24 @@
     "initialDistance": 0.4600944029462365,
     "initialAltitude": 33925,
     "initialSpeed": 441
+  },
+  {
+    "callsign": "C525",
+    "flightNumber": null,
+    "aircraftType": "C525",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-08-07T21:18:23.550Z",
+    "lastSeen": "2026-08-07T21:18:23.550Z",
+    "duration": 0,
+    "closestDistance": 0.5871848219653365,
+    "closestAltitude": 5200,
+    "closestSpeed": 263,
+    "initialDistance": 0.5871848219653365,
+    "initialAltitude": 5200,
+    "initialSpeed": 263
   }
 ]
