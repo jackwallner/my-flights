@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 2400,
-    "speed": 102,
-    "timestamp": "2026-08-07T04:04:18.853Z",
-    "lat": 45.6251,
-    "lon": -122.5318,
-    "precision": "high"
+    "distance": 0.59,
+    "altitude": 34775,
+    "speed": 436,
+    "timestamp": "2026-08-07T04:17:19.585Z",
+    "lat": 45.6278,
+    "lon": -122.5417,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4466R",
-    "aircraftType": "C172",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-03-01T01:16:04.720Z"
+    "callsign": "ASA400",
+    "aircraftType": "737",
+    "origin": "SBA",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T17:32:08.821Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6251,
-      -122.5376
-    ],
-    [
-      45.6251,
-      -122.5318
-    ],
-    [
-      45.625,
-      -122.5185
+      45.6278,
+      -122.5417
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-07T04:04:49.674Z"
+  "timestamp": "2026-08-07T04:17:50.330Z"
 }
