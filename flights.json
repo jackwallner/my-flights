@@ -26813,5 +26813,24 @@
     "initialDistance": 0.5011143586876214,
     "initialAltitude": 3100,
     "initialSpeed": 123
+  },
+  {
+    "callsign": "N3234A",
+    "flightNumber": null,
+    "aircraftType": "C170",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A37C5A",
+    "registration": "N3234A",
+    "firstSeen": "2026-08-07T20:49:15.340Z",
+    "lastSeen": "2026-08-07T20:49:46.120Z",
+    "duration": 31,
+    "closestDistance": 0.07027707787129026,
+    "closestAltitude": 5500,
+    "closestSpeed": 106,
+    "initialDistance": 0.3062522704120655,
+    "initialAltitude": 5500,
+    "initialSpeed": 107
   }
 ]

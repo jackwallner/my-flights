@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 3100,
-    "speed": 123,
-    "timestamp": "2026-08-07T17:50:02.071Z",
-    "lat": 45.6291,
-    "lon": -122.5175,
-    "precision": "tracked"
+    "distance": 0.07,
+    "altitude": 5500,
+    "speed": 106,
+    "timestamp": "2026-08-07T20:49:25.591Z",
+    "lat": 45.6264,
+    "lon": -122.5286,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N476WG",
-    "aircraftType": "SR22",
-    "origin": "TTD",
-    "destination": "BFI",
-    "firstSeen": "2026-08-07T17:50:02.066Z"
+    "callsign": "N3234A",
+    "aircraftType": "C170",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-08-07T20:49:15.340Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.07,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6291,
-      -122.5175
+      45.6301,
+      -122.5305
     ],
     [
-      45.6336,
-      -122.5204
+      45.6264,
+      -122.5286
+    ],
+    [
+      45.6203,
+      -122.5257
+    ],
+    [
+      45.6151,
+      -122.524
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-07T17:50:32.919Z"
+  "timestamp": "2026-08-07T20:49:56.395Z"
 }
