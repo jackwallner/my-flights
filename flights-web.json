@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 3900,
-    "speed": 254,
-    "timestamp": "2026-08-07T13:11:59.651Z",
-    "lat": 45.6276,
-    "lon": -122.5254,
-    "precision": "tracked"
+    "distance": 0.45,
+    "altitude": 2150,
+    "speed": 99,
+    "timestamp": "2026-08-07T15:45:03.097Z",
+    "lat": 45.6203,
+    "lon": -122.5202,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N93KM",
-    "aircraftType": "C510",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-08-07T13:11:59.644Z"
+    "callsign": "N20640",
+    "aircraftType": "C180",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-27T21:58:04.037Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6276,
-      -122.5254
+      45.6225,
+      -122.5153
     ],
     [
-      45.6158,
-      -122.532
+      45.6203,
+      -122.5202
+    ],
+    [
+      45.6168,
+      -122.5267
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-07T13:12:30.383Z"
+  "timestamp": "2026-08-07T15:45:23.789Z"
 }
