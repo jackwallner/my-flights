@@ -26794,5 +26794,24 @@
     "initialDistance": 0.17988703115685345,
     "initialAltitude": 3900,
     "initialSpeed": 254
+  },
+  {
+    "callsign": "N476WG",
+    "flightNumber": null,
+    "aircraftType": "SR22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": "BFI",
+    "icao": "A5D95F",
+    "registration": "N476WG",
+    "firstSeen": "2026-08-07T17:50:02.066Z",
+    "lastSeen": "2026-08-07T17:50:12.368Z",
+    "duration": 10,
+    "closestDistance": 0.5011143586876214,
+    "closestAltitude": 3100,
+    "closestSpeed": 123,
+    "initialDistance": 0.5011143586876214,
+    "initialAltitude": 3100,
+    "initialSpeed": 123
   }
 ]
