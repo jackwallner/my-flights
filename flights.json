@@ -26756,5 +26756,24 @@
     "initialDistance": 0.6376892578072406,
     "initialAltitude": 32425,
     "initialSpeed": 444
+  },
+  {
+    "callsign": "UAL684T",
+    "flightNumber": null,
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": null,
+    "icao": "A1270F",
+    "registration": "N17326",
+    "firstSeen": "2026-08-07T04:22:28.106Z",
+    "lastSeen": "2026-08-07T04:22:28.106Z",
+    "duration": 0,
+    "closestDistance": 0.5109570110353386,
+    "closestAltitude": 34150,
+    "closestSpeed": 429,
+    "initialDistance": 0.5109570110353386,
+    "initialAltitude": 34150,
+    "initialSpeed": 429
   }
 ]
