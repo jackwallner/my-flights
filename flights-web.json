@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 39700,
-    "speed": 431,
-    "timestamp": "2026-08-08T03:16:33.690Z",
-    "lat": 45.6367,
-    "lon": -122.5281,
+    "distance": 0.6,
+    "altitude": 34000,
+    "speed": 433,
+    "timestamp": "2026-08-08T04:17:32.382Z",
+    "lat": 45.6272,
+    "lon": -122.5142,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3323",
-    "aircraftType": "B737",
-    "origin": "SMF",
+    "callsign": "ASA611",
+    "aircraftType": "737",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-08-08T03:16:33.643Z"
+    "firstSeen": "2026-06-15T04:26:00.583Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6367,
-      -122.5281
+      45.6272,
+      -122.5142
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-08T03:17:04.489Z"
+  "timestamp": "2026-08-08T04:18:03.176Z"
 }
