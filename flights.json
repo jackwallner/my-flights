@@ -26965,5 +26965,24 @@
     "initialDistance": 0.5939597168815879,
     "initialAltitude": 3200,
     "initialSpeed": 69
+  },
+  {
+    "callsign": "ASA1314",
+    "flightNumber": "AS1314",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A4B420",
+    "registration": "N402AS",
+    "firstSeen": "2026-08-08T14:46:31.119Z",
+    "lastSeen": "2026-08-08T14:46:31.119Z",
+    "duration": 0,
+    "closestDistance": 0.697259092083926,
+    "closestAltitude": 38000,
+    "closestSpeed": 454,
+    "initialDistance": 0.697259092083926,
+    "initialAltitude": 38000,
+    "initialSpeed": 454
   }
 ]

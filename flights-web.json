@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 3600,
-    "speed": 74,
-    "timestamp": "2026-08-08T14:21:02.120Z",
-    "lat": 45.6238,
-    "lon": -122.5206,
+    "distance": 0.7,
+    "altitude": 38000,
+    "speed": 454,
+    "timestamp": "2026-08-08T14:46:31.124Z",
+    "lat": 45.636,
+    "lon": -122.5345,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N2003K",
-    "aircraftType": "TF19",
-    "origin": "HIO",
-    "destination": "PDX",
-    "firstSeen": "2026-08-08T14:20:20.693Z"
+    "callsign": "ASA1314",
+    "aircraftType": "737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-08-08T14:46:31.119Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.7,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6238,
-      -122.5206
-    ],
-    [
-      45.6225,
-      -122.5153
+      45.636,
+      -122.5345
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-08T14:21:12.389Z"
+  "status": "completed",
+  "timestamp": "2026-08-08T14:47:01.879Z"
 }
