@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 2875,
-    "speed": 73,
-    "timestamp": "2026-08-08T14:56:06.878Z",
-    "lat": 45.6259,
-    "lon": -122.5426,
+    "distance": 0.37,
+    "altitude": 36975,
+    "speed": 534,
+    "timestamp": "2026-08-08T16:22:00.366Z",
+    "lat": 45.6314,
+    "lon": -122.5287,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N24RT",
-    "aircraftType": "R44",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-08-08T14:55:25.233Z"
+    "callsign": "UAL142",
+    "aircraftType": "787",
+    "origin": "NRT",
+    "destination": "DEN",
+    "firstSeen": "2026-08-08T16:22:00.359Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
       45.6259,
       -122.5426
+    ],
+    [
+      45.6314,
+      -122.5287
     ]
   ],
   "status": "tracking",
-  "timestamp": "2026-08-08T14:56:06.878Z"
+  "timestamp": "2026-08-08T16:22:00.366Z"
 }

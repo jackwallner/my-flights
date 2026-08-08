@@ -27003,5 +27003,24 @@
     "initialDistance": 0.6859425994409106,
     "initialAltitude": 2275,
     "initialSpeed": 74
+  },
+  {
+    "callsign": "UAL142",
+    "flightNumber": "UA142",
+    "aircraftType": "B789",
+    "aircraftName": null,
+    "origin": "NRT",
+    "destination": "DEN",
+    "icao": "A254D8",
+    "registration": "N24974",
+    "firstSeen": "2026-08-08T16:22:00.359Z",
+    "lastSeen": "2026-08-08T16:22:00.359Z",
+    "duration": 0,
+    "closestDistance": 0.36825111705188257,
+    "closestAltitude": 36975,
+    "closestSpeed": 534,
+    "initialDistance": 0.36825111705188257,
+    "initialAltitude": 36975,
+    "initialSpeed": 534
   }
 ]
