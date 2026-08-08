@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 40000,
-    "speed": 429,
-    "timestamp": "2026-08-08T02:23:49.524Z",
-    "lat": 45.6233,
-    "lon": -122.5195,
+    "distance": 0.15,
+    "altitude": 34000,
+    "speed": 427,
+    "timestamp": "2026-08-08T02:28:16.582Z",
+    "lat": 45.6243,
+    "lon": -122.5313,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA748",
-    "aircraftType": "737",
-    "origin": "LAX",
+    "callsign": "SKW3707",
+    "aircraftType": "E175",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-02-17T18:08:51.473Z"
+    "firstSeen": "2026-02-10T01:59:32.125Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.15,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6233,
-      -122.5195
+      45.6243,
+      -122.5313
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-08T02:24:20.335Z"
+  "timestamp": "2026-08-08T02:28:47.365Z"
 }
