@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 36975,
-    "speed": 534,
-    "timestamp": "2026-08-08T16:22:00.366Z",
-    "lat": 45.6314,
-    "lon": -122.5287,
+    "distance": 0.67,
+    "altitude": 975,
+    "speed": 109,
+    "timestamp": "2026-08-08T16:35:42.300Z",
+    "lat": 45.6351,
+    "lon": -122.5356,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL142",
-    "aircraftType": "787",
-    "origin": "NRT",
-    "destination": "DEN",
-    "firstSeen": "2026-08-08T16:22:00.359Z"
+    "callsign": "N2237S",
+    "aircraftType": "C82S",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-07-01T16:40:41.157Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6314,
-      -122.5287
+      45.6351,
+      -122.5356
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-08T16:22:31.100Z"
+  "status": "tracking",
+  "timestamp": "2026-08-08T16:35:42.300Z"
 }
