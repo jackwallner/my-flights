@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 36000,
-    "speed": 437,
-    "timestamp": "2026-08-08T04:55:43.039Z",
-    "lat": 45.6156,
-    "lon": -122.5286,
+    "distance": 0.33,
+    "altitude": 3600,
+    "speed": 74,
+    "timestamp": "2026-08-08T14:21:02.120Z",
+    "lat": 45.6238,
+    "lon": -122.5206,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1368",
-    "aircraftType": "B39M",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T20:13:39.592Z"
+    "callsign": "N2003K",
+    "aircraftType": "TF19",
+    "origin": "HIO",
+    "destination": "PDX",
+    "firstSeen": "2026-08-08T14:20:20.693Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.33,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6156,
-      -122.5286
+      45.6238,
+      -122.5206
+    ],
+    [
+      45.6225,
+      -122.5153
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-08T04:56:13.825Z"
+  "status": "tracking",
+  "timestamp": "2026-08-08T14:21:12.389Z"
 }

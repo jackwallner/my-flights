@@ -26946,5 +26946,24 @@
     "initialDistance": 0.6856363069687801,
     "initialAltitude": 39700,
     "initialSpeed": 431
+  },
+  {
+    "callsign": "N2003K",
+    "flightNumber": null,
+    "aircraftType": "TF19",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": "PDX",
+    "icao": "A194CE",
+    "registration": "N2003K",
+    "firstSeen": "2026-08-08T14:20:20.693Z",
+    "lastSeen": "2026-08-08T14:21:12.384Z",
+    "duration": 52,
+    "closestDistance": 0.32769829062446854,
+    "closestAltitude": 3600,
+    "closestSpeed": 74,
+    "initialDistance": 0.5939597168815879,
+    "initialAltitude": 3200,
+    "initialSpeed": 69
   }
 ]
