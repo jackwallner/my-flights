@@ -26908,5 +26908,24 @@
     "initialDistance": 0.5100556620174629,
     "initialAltitude": 40000,
     "initialSpeed": 434
+  },
+  {
+    "callsign": "UAL8101",
+    "flightNumber": "UA2279",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A9D59A",
+    "registration": "N73251",
+    "firstSeen": "2026-08-08T01:40:59.896Z",
+    "lastSeen": "2026-08-08T01:40:59.896Z",
+    "duration": 0,
+    "closestDistance": 0.6490482747162988,
+    "closestAltitude": 34000,
+    "closestSpeed": 429,
+    "initialDistance": 0.6490482747162988,
+    "initialAltitude": 34000,
+    "initialSpeed": 429
   }
 ]
