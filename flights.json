@@ -26927,5 +26927,24 @@
     "initialDistance": 0.6490482747162988,
     "initialAltitude": 34000,
     "initialSpeed": 429
+  },
+  {
+    "callsign": "SWA3323",
+    "flightNumber": "WN3323",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A27380",
+    "registration": "N257WN",
+    "firstSeen": "2026-08-08T03:16:33.643Z",
+    "lastSeen": "2026-08-08T03:16:33.643Z",
+    "duration": 0,
+    "closestDistance": 0.6856363069687801,
+    "closestAltitude": 39700,
+    "closestSpeed": 431,
+    "initialDistance": 0.6856363069687801,
+    "initialAltitude": 39700,
+    "initialSpeed": 431
   }
 ]
