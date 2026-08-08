@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 975,
-    "speed": 109,
-    "timestamp": "2026-08-08T16:35:42.300Z",
-    "lat": 45.6351,
-    "lon": -122.5356,
-    "precision": "tracked"
+    "distance": 0.29,
+    "altitude": 1475,
+    "speed": 116,
+    "timestamp": "2026-08-08T16:46:39.640Z",
+    "lat": 45.627,
+    "lon": -122.5217,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N2237S",
-    "aircraftType": "C82S",
-    "origin": "TTD",
+    "callsign": "N42209",
+    "aircraftType": "C182",
+    "origin": "EAT",
     "destination": null,
-    "firstSeen": "2026-07-01T16:40:41.157Z"
+    "firstSeen": "2026-08-08T16:46:39.635Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6351,
-      -122.5356
+      45.627,
+      -122.5217
+    ],
+    [
+      45.6233,
+      -122.5354
+    ],
+    [
+      45.6212,
+      -122.5421
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-08T16:35:42.300Z"
+  "status": "completed",
+  "timestamp": "2026-08-08T16:47:20.857Z"
 }

@@ -27022,5 +27022,24 @@
     "initialDistance": 0.36825111705188257,
     "initialAltitude": 36975,
     "initialSpeed": 534
+  },
+  {
+    "callsign": "N42209",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "EAT",
+    "destination": null,
+    "icao": "A50587",
+    "registration": "N42209",
+    "firstSeen": "2026-08-08T16:46:39.635Z",
+    "lastSeen": "2026-08-08T16:47:10.567Z",
+    "duration": 31,
+    "closestDistance": 0.28833477257970647,
+    "closestAltitude": 1475,
+    "closestSpeed": 116,
+    "initialDistance": 0.28833477257970647,
+    "initialAltitude": 1475,
+    "initialSpeed": 116
   }
 ]
