@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.7,
-    "altitude": 38000,
-    "speed": 454,
-    "timestamp": "2026-08-08T14:46:31.124Z",
-    "lat": 45.636,
-    "lon": -122.5345,
+    "distance": 0.61,
+    "altitude": 2875,
+    "speed": 73,
+    "timestamp": "2026-08-08T14:56:06.878Z",
+    "lat": 45.6259,
+    "lon": -122.5426,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1314",
-    "aircraftType": "737",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-08-08T14:46:31.119Z"
+    "callsign": "N24RT",
+    "aircraftType": "R44",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-08-08T14:55:25.233Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.636,
-      -122.5345
+      45.6259,
+      -122.5426
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-08T14:47:01.879Z"
+  "status": "tracking",
+  "timestamp": "2026-08-08T14:56:06.878Z"
 }

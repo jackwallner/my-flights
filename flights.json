@@ -26984,5 +26984,24 @@
     "initialDistance": 0.697259092083926,
     "initialAltitude": 38000,
     "initialSpeed": 454
+  },
+  {
+    "callsign": "N24RT",
+    "flightNumber": null,
+    "aircraftType": "R44",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A22F2F",
+    "registration": "N24RT",
+    "firstSeen": "2026-08-08T14:55:25.233Z",
+    "lastSeen": "2026-08-08T14:56:06.872Z",
+    "duration": 42,
+    "closestDistance": 0.6094857807228348,
+    "closestAltitude": 2875,
+    "closestSpeed": 73,
+    "initialDistance": 0.6859425994409106,
+    "initialAltitude": 2275,
+    "initialSpeed": 74
   }
 ]
