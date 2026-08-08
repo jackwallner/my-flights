@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 1125,
-    "speed": 90,
-    "timestamp": "2026-08-08T21:45:46.008Z",
-    "lat": 45.6147,
-    "lon": -122.528,
-    "precision": "tracked"
+    "distance": 0.23,
+    "altitude": 3475,
+    "speed": 81,
+    "timestamp": "2026-08-08T21:47:39.036Z",
+    "lat": 45.6234,
+    "lon": -122.5329,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N61531",
-    "aircraftType": "C172",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-06-20T15:24:46.712Z"
+    "callsign": "N917KF",
+    "aircraftType": "R22",
+    "origin": "TTD",
+    "destination": "HIO",
+    "firstSeen": "2026-02-13T18:16:54.196Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6147,
-      -122.528
+      45.6276,
+      -122.5335
     ],
     [
-      45.6146,
-      -122.5345
+      45.6234,
+      -122.5329
+    ],
+    [
+      45.6194,
+      -122.5322
+    ],
+    [
+      45.6161,
+      -122.5317
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-08T21:46:16.764Z"
+  "timestamp": "2026-08-08T21:48:09.840Z"
 }
