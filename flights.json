@@ -26889,5 +26889,24 @@
     "initialDistance": 0.40778684041396995,
     "initialAltitude": 6100,
     "initialSpeed": 167
+  },
+  {
+    "callsign": "SWA3743",
+    "flightNumber": "WN3743",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "AD5E27",
+    "registration": "N960WN",
+    "firstSeen": "2026-08-08T01:29:00.588Z",
+    "lastSeen": "2026-08-08T01:29:00.588Z",
+    "duration": 0,
+    "closestDistance": 0.5100556620174629,
+    "closestAltitude": 40000,
+    "closestSpeed": 434,
+    "initialDistance": 0.5100556620174629,
+    "initialAltitude": 40000,
+    "initialSpeed": 434
   }
 ]

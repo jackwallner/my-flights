@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 36000,
-    "speed": 426,
-    "timestamp": "2026-08-08T01:25:54.871Z",
-    "lat": 45.6266,
-    "lon": -122.5369,
+    "distance": 0.51,
+    "altitude": 40000,
+    "speed": 434,
+    "timestamp": "2026-08-08T01:29:00.592Z",
+    "lat": 45.6318,
+    "lon": -122.5359,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1375",
-    "aircraftType": "737",
-    "origin": "LAX",
+    "callsign": "SWA3743",
+    "aircraftType": "B737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-06-15T01:51:17.333Z"
+    "firstSeen": "2026-08-08T01:29:00.588Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.51,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6266,
-      -122.5369
+      45.6318,
+      -122.5359
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-08T01:26:25.685Z"
+  "timestamp": "2026-08-08T01:29:31.409Z"
 }
