@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 5775,
-    "speed": 283,
-    "timestamp": "2026-08-09T18:18:53.251Z",
-    "lat": 45.6149,
-    "lon": -122.525,
+    "distance": 0.54,
+    "altitude": 24000,
+    "speed": 262,
+    "timestamp": "2026-08-09T18:42:40.352Z",
+    "lat": 45.6319,
+    "lon": -122.5195,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC24",
-    "aircraftType": "PC24",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-04-03T00:28:21.174Z"
+    "callsign": "N603WA",
+    "aircraftType": "M600",
+    "origin": "RNO",
+    "destination": "RNT",
+    "firstSeen": "2026-03-11T00:52:24.380Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6249,
-      -122.5122
-    ],
-    [
-      45.6149,
-      -122.525
+      45.6319,
+      -122.5195
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-09T18:19:13.805Z"
+  "timestamp": "2026-08-09T18:43:11.153Z"
 }
