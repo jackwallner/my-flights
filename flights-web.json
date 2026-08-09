@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 700,
-    "speed": 63,
-    "timestamp": "2026-08-09T19:28:10.677Z",
-    "lat": 45.6269,
-    "lon": -122.5344,
-    "precision": "high"
+    "distance": 0.68,
+    "altitude": 1500,
+    "speed": 80,
+    "timestamp": "2026-08-09T20:01:33.996Z",
+    "lat": 45.6188,
+    "lon": -122.5148,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N779SH",
-    "aircraftType": "R22",
-    "origin": "TTD",
+    "callsign": "N19298",
+    "aircraftType": "C150",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-01-31T20:05:27.645Z"
+    "firstSeen": "2026-07-20T19:22:38.070Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.68,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6232,
-      -122.5362
-    ],
-    [
-      45.6239,
-      -122.5359
-    ],
-    [
-      45.6269,
-      -122.5344
+      45.6188,
+      -122.5148
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-09T19:28:20.915Z"
+  "status": "tracking",
+  "timestamp": "2026-08-09T20:01:33.996Z"
 }
