@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 36000,
-    "speed": 425,
-    "timestamp": "2026-08-09T18:54:38.642Z",
-    "lat": 45.6262,
-    "lon": -122.5166,
-    "precision": "tracked"
+    "distance": 0.46,
+    "altitude": 650,
+    "speed": 53,
+    "timestamp": "2026-08-09T19:22:42.091Z",
+    "lat": 45.6217,
+    "lon": -122.5379,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA656",
-    "aircraftType": "737",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T18:32:49.641Z"
+    "callsign": "N779SH",
+    "aircraftType": "R22",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-01-31T20:05:27.645Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.46,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6262,
-      -122.5166
+      45.6217,
+      -122.5379
+    ],
+    [
+      45.6216,
+      -122.5439
+    ],
+    [
+      45.6199,
+      -122.5388
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-09T18:55:09.413Z"
+  "status": "tracking",
+  "timestamp": "2026-08-09T19:23:23.098Z"
 }
