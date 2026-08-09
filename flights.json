@@ -27041,5 +27041,24 @@
     "initialDistance": 0.28833477257970647,
     "initialAltitude": 1475,
     "initialSpeed": 116
+  },
+  {
+    "callsign": "N1111Z",
+    "flightNumber": null,
+    "aircraftType": "BE33",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": "RNT",
+    "icao": "A0327D",
+    "registration": "N1111Z",
+    "firstSeen": "2026-08-09T21:52:10.463Z",
+    "lastSeen": "2026-08-09T21:52:10.463Z",
+    "duration": 0,
+    "closestDistance": 0.3915177299406189,
+    "closestAltitude": 11900,
+    "closestSpeed": 155,
+    "initialDistance": 0.3915177299406189,
+    "initialAltitude": 11900,
+    "initialSpeed": 155
   }
 ]

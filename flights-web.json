@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 1500,
-    "speed": 85,
-    "timestamp": "2026-08-09T20:01:54.590Z",
-    "lat": 45.6167,
-    "lon": -122.5258,
+    "distance": 0.39,
+    "altitude": 11900,
+    "speed": 155,
+    "timestamp": "2026-08-09T21:52:10.468Z",
+    "lat": 45.6318,
+    "lon": -122.5283,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N19298",
-    "aircraftType": "C150",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-07-20T19:22:38.070Z"
+    "callsign": "N1111Z",
+    "aircraftType": "BE33",
+    "origin": "RDM",
+    "destination": "RNT",
+    "firstSeen": "2026-08-09T21:52:10.463Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6188,
-      -122.5148
-    ],
-    [
-      45.6167,
-      -122.5258
+      45.6318,
+      -122.5283
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-09T20:02:04.873Z"
+  "timestamp": "2026-08-09T21:52:41.270Z"
 }
