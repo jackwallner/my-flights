@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.45,
+    "distance": 0.14,
     "altitude": 34000,
-    "speed": 418,
-    "timestamp": "2026-08-09T17:08:20.935Z",
-    "lat": 45.6211,
-    "lon": -122.5371,
+    "speed": 413,
+    "timestamp": "2026-08-09T17:30:45.760Z",
+    "lat": 45.6246,
+    "lon": -122.5313,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FFT2407",
-    "aircraftType": "A321",
-    "origin": "LAS",
+    "callsign": "SKW3695",
+    "aircraftType": "E175",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-02-09T18:48:51.853Z"
+    "firstSeen": "2026-05-13T16:33:23.907Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.14,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6211,
-      -122.5371
+      45.6246,
+      -122.5313
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-09T17:08:51.727Z"
+  "status": "tracking",
+  "timestamp": "2026-08-09T17:30:45.760Z"
 }
