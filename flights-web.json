@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.56,
+    "distance": 0.45,
     "altitude": 4375,
-    "speed": 112,
-    "timestamp": "2026-08-09T07:20:35.484Z",
-    "lat": 45.6308,
-    "lon": -122.5388,
-    "precision": "tracked"
+    "speed": 136,
+    "timestamp": "2026-08-09T08:10:46.376Z",
+    "lat": 45.6212,
+    "lon": -122.5371,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N425EJ",
@@ -15,15 +15,23 @@
     "destination": null,
     "firstSeen": "2026-04-19T05:56:20.193Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6308,
-      -122.5388
+      45.6279,
+      -122.5407
+    ],
+    [
+      45.6212,
+      -122.5371
+    ],
+    [
+      45.6159,
+      -122.5343
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-09T07:21:06.268Z"
+  "timestamp": "2026-08-09T08:11:06.918Z"
 }
