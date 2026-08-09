@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 24000,
-    "speed": 262,
-    "timestamp": "2026-08-09T18:42:40.352Z",
-    "lat": 45.6319,
-    "lon": -122.5195,
+    "distance": 0.49,
+    "altitude": 36000,
+    "speed": 425,
+    "timestamp": "2026-08-09T18:54:38.642Z",
+    "lat": 45.6262,
+    "lon": -122.5166,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N603WA",
-    "aircraftType": "M600",
-    "origin": "RNO",
-    "destination": "RNT",
-    "firstSeen": "2026-03-11T00:52:24.380Z"
+    "callsign": "ASA656",
+    "aircraftType": "737",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T18:32:49.641Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.49,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6319,
-      -122.5195
+      45.6262,
+      -122.5166
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-09T18:43:11.153Z"
+  "timestamp": "2026-08-09T18:55:09.413Z"
 }
