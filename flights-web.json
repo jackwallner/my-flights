@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 3475,
-    "speed": 81,
-    "timestamp": "2026-08-08T21:47:39.036Z",
-    "lat": 45.6234,
-    "lon": -122.5329,
-    "precision": "high"
+    "distance": 0.49,
+    "altitude": 1550,
+    "speed": 97,
+    "timestamp": "2026-08-09T00:26:59.958Z",
+    "lat": 45.6181,
+    "lon": -122.5226,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N917KF",
-    "aircraftType": "R22",
-    "origin": "TTD",
-    "destination": "HIO",
-    "firstSeen": "2026-02-13T18:16:54.196Z"
+    "callsign": "N9185H",
+    "aircraftType": "C172",
+    "origin": "OTK",
+    "destination": null,
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6276,
-      -122.5335
+      45.6181,
+      -122.5226
     ],
     [
-      45.6234,
-      -122.5329
-    ],
-    [
-      45.6194,
-      -122.5322
-    ],
-    [
-      45.6161,
-      -122.5317
+      45.6251,
+      -122.5147
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-08T21:48:09.840Z"
+  "status": "tracking",
+  "timestamp": "2026-08-09T00:27:20.481Z"
 }
