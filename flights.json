@@ -27060,5 +27060,24 @@
     "initialDistance": 0.3915177299406189,
     "initialAltitude": 11900,
     "initialSpeed": 155
+  },
+  {
+    "callsign": "QXE2398",
+    "flightNumber": "AS2398",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "ANC",
+    "destination": "PDX",
+    "icao": "A89545",
+    "registration": "N652MK",
+    "firstSeen": "2026-08-10T16:23:02.033Z",
+    "lastSeen": "2026-08-10T16:23:02.033Z",
+    "duration": 0,
+    "closestDistance": 0.5305994104146416,
+    "closestAltitude": 5800,
+    "closestSpeed": 223,
+    "initialDistance": 0.5305994104146416,
+    "initialAltitude": 5800,
+    "initialSpeed": 223
   }
 ]
