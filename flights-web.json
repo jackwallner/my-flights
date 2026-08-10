@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 30000,
-    "speed": 368,
-    "timestamp": "2026-08-10T21:21:05.880Z",
-    "lat": 45.6282,
-    "lon": -122.5169,
+    "distance": 0.48,
+    "altitude": 38000,
+    "speed": 421,
+    "timestamp": "2026-08-10T21:54:39.420Z",
+    "lat": 45.619,
+    "lon": -122.5211,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3087",
-    "aircraftType": "E175",
-    "origin": "MFR",
+    "callsign": "ASA1338",
+    "aircraftType": "737",
+    "origin": "SJD",
     "destination": "SEA",
-    "firstSeen": "2026-06-13T21:38:15.841Z"
+    "firstSeen": "2026-06-26T22:04:00.496Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.48,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6282,
-      -122.5169
+      45.619,
+      -122.5211
+    ],
+    [
+      45.6357,
+      -122.5302
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-10T21:21:36.670Z"
+  "timestamp": "2026-08-10T21:55:10.235Z"
 }
