@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 32300,
-    "speed": 456,
-    "timestamp": "2026-08-10T00:49:16.903Z",
-    "lat": 45.6191,
-    "lon": -122.5321,
+    "distance": 0.6,
+    "altitude": 40000,
+    "speed": 505,
+    "timestamp": "2026-08-10T02:31:24.893Z",
+    "lat": 45.6185,
+    "lon": -122.5387,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1381",
-    "aircraftType": "737",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-06-15T01:52:50.046Z"
+    "callsign": "UPS51",
+    "aircraftType": "747",
+    "origin": "ONT",
+    "destination": "ANC",
+    "firstSeen": "2026-02-02T02:31:43.800Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6191,
-      -122.5321
+      45.6185,
+      -122.5387
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-10T00:49:47.687Z"
+  "timestamp": "2026-08-10T02:31:55.906Z"
 }
