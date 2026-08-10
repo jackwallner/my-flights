@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 38000,
-    "speed": 421,
-    "timestamp": "2026-08-10T21:54:39.420Z",
-    "lat": 45.619,
-    "lon": -122.5211,
+    "distance": 0.55,
+    "altitude": 3200,
+    "speed": 121,
+    "timestamp": "2026-08-10T22:54:13.650Z",
+    "lat": 45.6163,
+    "lon": -122.5254,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1338",
-    "aircraftType": "737",
-    "origin": "SJD",
-    "destination": "SEA",
-    "firstSeen": "2026-06-26T22:04:00.496Z"
+    "callsign": "N9718U",
+    "aircraftType": "AA5",
+    "origin": "LWS",
+    "destination": null,
+    "firstSeen": "2026-08-10T22:54:13.644Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.55,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.619,
-      -122.5211
+      45.6163,
+      -122.5254
     ],
     [
-      45.6357,
-      -122.5302
+      45.6149,
+      -122.5335
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-10T21:55:10.235Z"
+  "status": "tracking",
+  "timestamp": "2026-08-10T22:54:23.896Z"
 }

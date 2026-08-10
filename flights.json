@@ -27079,5 +27079,24 @@
     "initialDistance": 0.5305994104146416,
     "initialAltitude": 5800,
     "initialSpeed": 223
+  },
+  {
+    "callsign": "N9718U",
+    "flightNumber": null,
+    "aircraftType": "AA5",
+    "aircraftName": null,
+    "origin": "LWS",
+    "destination": null,
+    "icao": "AD8ADF",
+    "registration": "N9718U",
+    "firstSeen": "2026-08-10T22:54:13.644Z",
+    "lastSeen": "2026-08-10T22:54:23.891Z",
+    "duration": 10,
+    "closestDistance": 0.5510820847456882,
+    "closestAltitude": 3200,
+    "closestSpeed": 121,
+    "initialDistance": 0.5510820847456882,
+    "initialAltitude": 3200,
+    "initialSpeed": 121
   }
 ]
