@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 34000,
-    "speed": 426,
-    "timestamp": "2026-08-10T21:11:10.297Z",
-    "lat": 45.6244,
-    "lon": -122.5356,
+    "distance": 0.5,
+    "altitude": 30000,
+    "speed": 368,
+    "timestamp": "2026-08-10T21:21:05.880Z",
+    "lat": 45.6282,
+    "lon": -122.5169,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA676",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "SKW3087",
+    "aircraftType": "E175",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T02:10:00.289Z"
+    "firstSeen": "2026-06-13T21:38:15.841Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.5,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6244,
-      -122.5356
+      45.6282,
+      -122.5169
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-10T21:11:41.088Z"
+  "timestamp": "2026-08-10T21:21:36.670Z"
 }
