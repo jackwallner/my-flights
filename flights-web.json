@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 5800,
-    "speed": 247,
-    "timestamp": "2026-08-10T19:29:28.602Z",
-    "lat": 45.6321,
-    "lon": -122.5382,
+    "distance": 0.32,
+    "altitude": 34000,
+    "speed": 426,
+    "timestamp": "2026-08-10T21:11:10.297Z",
+    "lat": 45.6244,
+    "lon": -122.5356,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GL5T",
-    "aircraftType": "GL5T",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-04-04T20:46:39.050Z"
+    "callsign": "ASA676",
+    "aircraftType": "737",
+    "origin": "LAS",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T02:10:00.289Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6321,
-      -122.5382
-    ],
-    [
-      45.6216,
-      -122.5421
+      45.6244,
+      -122.5356
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-10T19:29:59.398Z"
+  "timestamp": "2026-08-10T21:11:41.088Z"
 }
