@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 40000,
-    "speed": 505,
-    "timestamp": "2026-08-10T02:31:24.893Z",
-    "lat": 45.6185,
-    "lon": -122.5387,
+    "distance": 0.53,
+    "altitude": 2475,
+    "speed": 108,
+    "timestamp": "2026-08-10T02:46:49.047Z",
+    "lat": 45.6179,
+    "lon": -122.5212,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UPS51",
-    "aircraftType": "747",
-    "origin": "ONT",
-    "destination": "ANC",
-    "firstSeen": "2026-02-02T02:31:43.800Z"
+    "callsign": "N624ST",
+    "aircraftType": "RV12",
+    "origin": "QSA",
+    "destination": null,
+    "firstSeen": "2026-02-02T21:45:58.538Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.53,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6185,
-      -122.5387
+      45.6158,
+      -122.5286
+    ],
+    [
+      45.6179,
+      -122.5212
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-10T02:31:55.906Z"
+  "timestamp": "2026-08-10T02:47:09.566Z"
 }
