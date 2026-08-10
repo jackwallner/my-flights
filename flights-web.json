@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 4250,
-    "speed": 92,
-    "timestamp": "2026-08-10T14:47:00.068Z",
-    "lat": 45.6232,
-    "lon": -122.5398,
+    "distance": 0.3,
+    "altitude": 30200,
+    "speed": 427,
+    "timestamp": "2026-08-10T15:27:55.061Z",
+    "lat": 45.6301,
+    "lon": -122.5299,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N545DS",
-    "aircraftType": "C172",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-03-18T22:38:02.420Z"
+    "callsign": "UAL1708",
+    "aircraftType": "A320",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-06-10T17:32:33.600Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6325,
-      -122.5357
-    ],
-    [
-      45.6232,
-      -122.5398
+      45.6301,
+      -122.5299
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-10T14:47:10.330Z"
+  "timestamp": "2026-08-10T15:28:25.811Z"
 }
