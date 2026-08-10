@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 5800,
-    "speed": 223,
-    "timestamp": "2026-08-10T16:23:02.041Z",
-    "lat": 45.6325,
-    "lon": -122.5354,
+    "distance": 0.46,
+    "altitude": 36000,
+    "speed": 417,
+    "timestamp": "2026-08-10T19:15:36.240Z",
+    "lat": 45.6198,
+    "lon": -122.5205,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2398",
-    "aircraftType": "E175",
-    "origin": "ANC",
-    "destination": "PDX",
-    "firstSeen": "2026-08-10T16:23:02.033Z"
+    "callsign": "ASA656",
+    "aircraftType": "737",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T18:32:49.641Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6325,
-      -122.5354
+      45.6198,
+      -122.5205
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-10T16:23:32.832Z"
+  "timestamp": "2026-08-10T19:16:07.097Z"
 }
