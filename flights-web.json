@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.04,
-    "altitude": 30575,
-    "speed": 449,
-    "timestamp": "2026-08-11T22:45:03.143Z",
-    "lat": 45.6249,
-    "lon": -122.5273,
+    "distance": 0.03,
+    "altitude": 2050,
+    "speed": 99,
+    "timestamp": "2026-08-11T23:04:43.002Z",
+    "lat": 45.6257,
+    "lon": -122.5285,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL1265",
-    "aircraftType": "B753",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-08-11T22:45:03.138Z"
+    "callsign": "N725FA",
+    "aircraftType": "RV12",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-06-11T20:05:42.436Z"
   },
-  "overheadScore": 0.04,
+  "overheadScore": 0.03,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6249,
-      -122.5273
+      45.6257,
+      -122.5285
+    ],
+    [
+      45.6193,
+      -122.5378
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-11T22:45:33.944Z"
+  "timestamp": "2026-08-11T23:05:13.780Z"
 }
