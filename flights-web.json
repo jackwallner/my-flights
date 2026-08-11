@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 33700,
-    "speed": 426,
-    "timestamp": "2026-08-11T02:27:30.859Z",
-    "lat": 45.6263,
-    "lon": -122.5179,
+    "distance": 0.14,
+    "altitude": 32700,
+    "speed": 434,
+    "timestamp": "2026-08-11T02:41:33.255Z",
+    "lat": 45.6231,
+    "lon": -122.5289,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FFT2275",
-    "aircraftType": "A321",
-    "origin": "ONT",
+    "callsign": "ASA758",
+    "aircraftType": "737",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-06-20T01:30:20.645Z"
+    "firstSeen": "2026-02-10T03:38:12.907Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.14,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6263,
-      -122.5179
+      45.6231,
+      -122.5289
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-11T02:28:01.649Z"
+  "timestamp": "2026-08-11T02:42:04.074Z"
 }
