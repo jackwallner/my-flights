@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 6800,
-    "speed": 189,
-    "timestamp": "2026-08-11T19:09:31.576Z",
-    "lat": 45.6246,
-    "lon": -122.5433,
+    "distance": 0.34,
+    "altitude": 36000,
+    "speed": 447,
+    "timestamp": "2026-08-11T19:21:40.427Z",
+    "lat": 45.6306,
+    "lon": -122.5312,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N421TM",
-    "aircraftType": "C421",
-    "origin": "TIW",
-    "destination": "QSA",
-    "firstSeen": "2026-05-07T21:44:36.636Z"
+    "callsign": "QXE2133",
+    "aircraftType": "E175",
+    "origin": "SBP",
+    "destination": "SEA",
+    "firstSeen": "2026-07-15T19:23:12.294Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.34,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6246,
-      -122.5433
-    ],
-    [
-      45.6174,
-      -122.5398
+      45.6306,
+      -122.5312
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-11T19:10:02.400Z"
+  "timestamp": "2026-08-11T19:22:11.167Z"
 }
