@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 3350,
-    "speed": 105,
-    "timestamp": "2026-08-11T05:30:54.560Z",
-    "lat": 45.6357,
-    "lon": -122.5329,
-    "precision": "tracked"
+    "distance": 0.26,
+    "altitude": 1200,
+    "speed": 73,
+    "timestamp": "2026-08-11T12:15:26.524Z",
+    "lat": 45.6233,
+    "lon": -122.5227,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N451LF",
-    "aircraftType": "B407",
-    "origin": null,
+    "callsign": "N508AD",
+    "aircraftType": "R22",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-02T23:23:22.298Z"
+    "firstSeen": "2026-02-11T00:19:06.239Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6357,
-      -122.5329
+      45.6329,
+      -122.5298
+    ],
+    [
+      45.6233,
+      -122.5227
+    ],
+    [
+      45.6205,
+      -122.5206
+    ],
+    [
+      45.6171,
+      -122.5183
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-11T05:31:25.332Z"
+  "timestamp": "2026-08-11T12:15:57.316Z"
 }
