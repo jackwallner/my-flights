@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 32000,
-    "speed": 438,
-    "timestamp": "2026-08-11T17:07:37.964Z",
-    "lat": 45.6268,
-    "lon": -122.5307,
+    "distance": 0.37,
+    "altitude": 34000,
+    "speed": 431,
+    "timestamp": "2026-08-11T17:15:40.681Z",
+    "lat": 45.6274,
+    "lon": -122.5363,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6476",
+    "callsign": "SKW4041",
     "aircraftType": "E175",
-    "origin": "LAX",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-08-05T17:20:34.819Z"
+    "firstSeen": "2026-02-09T17:26:31.870Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.37,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6268,
-      -122.5307
+      45.6274,
+      -122.5363
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-11T17:08:08.780Z"
+  "timestamp": "2026-08-11T17:16:11.482Z"
 }
