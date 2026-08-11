@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 35025,
-    "speed": 433,
-    "timestamp": "2026-08-11T04:58:21.090Z",
-    "lat": 45.6218,
-    "lon": -122.5363,
+    "distance": 0.48,
+    "altitude": 36225,
+    "speed": 442,
+    "timestamp": "2026-08-11T05:09:29.815Z",
+    "lat": 45.6261,
+    "lon": -122.5395,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2956",
-    "aircraftType": "737",
-    "origin": "LAS",
+    "callsign": "ASA347",
+    "aircraftType": "737 ",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-05-19T06:48:54.563Z"
+    "firstSeen": "2026-06-11T06:26:56.548Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6218,
-      -122.5363
+      45.6261,
+      -122.5395
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-11T04:58:51.902Z"
+  "status": "tracking",
+  "timestamp": "2026-08-11T05:09:29.815Z"
 }
