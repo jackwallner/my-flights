@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 31300,
-    "speed": 442,
-    "timestamp": "2026-08-11T22:40:05.170Z",
-    "lat": 45.6273,
-    "lon": -122.544,
+    "distance": 0.04,
+    "altitude": 30575,
+    "speed": 449,
+    "timestamp": "2026-08-11T22:45:03.143Z",
+    "lat": 45.6249,
+    "lon": -122.5273,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6438",
-    "aircraftType": "E175",
-    "origin": "LAX",
+    "callsign": "UAL1265",
+    "aircraftType": "B753",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-08-11T22:40:05.164Z"
+    "firstSeen": "2026-08-11T22:45:03.138Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.04,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6273,
-      -122.544
+      45.6249,
+      -122.5273
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-11T22:40:35.960Z"
+  "timestamp": "2026-08-11T22:45:33.944Z"
 }
