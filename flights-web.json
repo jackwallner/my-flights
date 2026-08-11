@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 37050,
-    "speed": 420,
-    "timestamp": "2026-08-11T03:13:03.433Z",
-    "lat": 45.6289,
-    "lon": -122.5347,
+    "distance": 0.65,
+    "altitude": 34000,
+    "speed": 438,
+    "timestamp": "2026-08-11T03:48:50.791Z",
+    "lat": 45.6243,
+    "lon": -122.5436,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3323",
-    "aircraftType": "B737",
-    "origin": "SMF",
+    "callsign": "SKW4031",
+    "aircraftType": "E175",
+    "origin": "ONT",
     "destination": "SEA",
-    "firstSeen": "2026-08-08T03:16:33.643Z"
+    "firstSeen": "2026-02-10T01:47:17.687Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.65,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6289,
-      -122.5347
+      45.6243,
+      -122.5436
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-11T03:13:34.257Z"
+  "timestamp": "2026-08-11T03:49:21.525Z"
 }
