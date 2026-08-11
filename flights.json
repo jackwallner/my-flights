@@ -27098,5 +27098,24 @@
     "initialDistance": 0.5510820847456882,
     "initialAltitude": 3200,
     "initialSpeed": 121
+  },
+  {
+    "callsign": "SWA2222",
+    "flightNumber": "WN2222",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "AC5746",
+    "registration": "N8945Q",
+    "firstSeen": "2026-08-11T04:12:17.771Z",
+    "lastSeen": "2026-08-11T04:12:28.032Z",
+    "duration": 10,
+    "closestDistance": 0.6453533006950235,
+    "closestAltitude": 34525,
+    "closestSpeed": 437,
+    "initialDistance": 0.6453533006950235,
+    "initialAltitude": 34525,
+    "initialSpeed": 437
   }
 ]

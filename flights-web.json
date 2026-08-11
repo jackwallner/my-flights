@@ -1,29 +1,33 @@
 {
   "closestApproach": {
     "distance": 0.65,
-    "altitude": 34000,
-    "speed": 438,
-    "timestamp": "2026-08-11T03:48:50.791Z",
-    "lat": 45.6243,
-    "lon": -122.5436,
+    "altitude": 34525,
+    "speed": 437,
+    "timestamp": "2026-08-11T04:12:17.776Z",
+    "lat": 45.6148,
+    "lon": -122.5247,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4031",
-    "aircraftType": "E175",
-    "origin": "ONT",
+    "callsign": "SWA2222",
+    "aircraftType": "737 ",
+    "origin": "OAK",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T01:47:17.687Z"
+    "firstSeen": "2026-08-11T04:12:17.771Z"
   },
   "overheadScore": 0.65,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6243,
-      -122.5436
+      45.6148,
+      -122.5247
+    ],
+    [
+      45.6352,
+      -122.5349
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-11T03:49:21.525Z"
+  "timestamp": "2026-08-11T04:12:48.532Z"
 }
