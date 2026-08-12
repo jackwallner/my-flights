@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 36175,
-    "speed": 432,
-    "timestamp": "2026-08-12T01:22:41.861Z",
-    "lat": 45.6232,
-    "lon": -122.5262,
+    "distance": 0.38,
+    "altitude": 32775,
+    "speed": 443,
+    "timestamp": "2026-08-12T02:24:17.449Z",
+    "lat": 45.6315,
+    "lon": -122.5301,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA2449",
-    "aircraftType": "B737",
-    "origin": "SJC",
+    "callsign": "ASA758",
+    "aircraftType": "737",
+    "origin": "SFO",
     "destination": "SEA",
-    "firstSeen": "2026-08-12T01:22:41.856Z"
+    "firstSeen": "2026-02-10T03:38:12.907Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.38,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6232,
-      -122.5262
+      45.6315,
+      -122.5301
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-12T01:23:12.655Z"
+  "timestamp": "2026-08-12T02:24:48.222Z"
 }
