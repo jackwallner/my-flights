@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 25250,
-    "speed": 440,
-    "timestamp": "2026-08-12T00:55:40.224Z",
-    "lat": 45.6303,
-    "lon": -122.5167,
+    "distance": 0.65,
+    "altitude": 2025,
+    "speed": 169,
+    "timestamp": "2026-08-12T01:10:22.750Z",
+    "lat": 45.6221,
+    "lon": -122.5134,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FFT1177",
-    "aircraftType": "A321",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T03:00:38.644Z"
+    "callsign": "TDY1288",
+    "aircraftType": "PC-1",
+    "origin": "BFI",
+    "destination": "PDX",
+    "firstSeen": "2026-06-17T22:14:22.880Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.65,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6303,
-      -122.5167
+      45.6221,
+      -122.5134
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-12T00:56:10.994Z"
+  "timestamp": "2026-08-12T01:10:53.543Z"
 }
