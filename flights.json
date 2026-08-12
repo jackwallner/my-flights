@@ -27174,5 +27174,24 @@
     "initialDistance": 0.1484788978943012,
     "initialAltitude": 36175,
     "initialSpeed": 432
+  },
+  {
+    "callsign": "SWA3628",
+    "flightNumber": "WN3628",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "ABFD66",
+    "registration": "N8717M",
+    "firstSeen": "2026-08-12T14:49:39.680Z",
+    "lastSeen": "2026-08-12T14:49:39.680Z",
+    "duration": 0,
+    "closestDistance": 0.5355482512758099,
+    "closestAltitude": 40000,
+    "closestSpeed": 439,
+    "initialDistance": 0.5355482512758099,
+    "initialAltitude": 40000,
+    "initialSpeed": 439
   }
 ]

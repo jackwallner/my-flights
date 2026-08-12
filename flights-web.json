@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 30000,
-    "speed": 450,
-    "timestamp": "2026-08-12T04:20:12.677Z",
-    "lat": 45.6201,
-    "lon": -122.5283,
+    "distance": 0.54,
+    "altitude": 40000,
+    "speed": 439,
+    "timestamp": "2026-08-12T14:49:39.688Z",
+    "lat": 45.632,
+    "lon": -122.5365,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2040",
-    "aircraftType": "E175",
-    "origin": "MFR",
+    "callsign": "SWA3628",
+    "aircraftType": "737 ",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-07-06T03:30:21.461Z"
+    "firstSeen": "2026-08-12T14:49:39.680Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.54,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6201,
-      -122.5283
+      45.632,
+      -122.5365
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-12T04:20:43.487Z"
+  "timestamp": "2026-08-12T14:50:10.485Z"
 }
