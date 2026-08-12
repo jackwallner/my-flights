@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 40000,
-    "speed": 439,
-    "timestamp": "2026-08-12T14:49:39.688Z",
-    "lat": 45.632,
-    "lon": -122.5365,
+    "distance": 0.24,
+    "altitude": 36000,
+    "speed": 427,
+    "timestamp": "2026-08-12T15:58:08.770Z",
+    "lat": 45.6217,
+    "lon": -122.5306,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3628",
-    "aircraftType": "737 ",
-    "origin": "SJC",
+    "callsign": "ASA795",
+    "aircraftType": "737",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-08-12T14:49:39.680Z"
+    "firstSeen": "2026-06-10T17:22:47.967Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.24,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.632,
-      -122.5365
+      45.6217,
+      -122.5306
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-12T14:50:10.485Z"
+  "timestamp": "2026-08-12T15:58:39.545Z"
 }
