@@ -27155,5 +27155,24 @@
     "initialDistance": 0.04102784718215876,
     "initialAltitude": 30575,
     "initialSpeed": 449
+  },
+  {
+    "callsign": "SWA2449",
+    "flightNumber": "WN2449",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A742EC",
+    "registration": "N567WN",
+    "firstSeen": "2026-08-12T01:22:41.856Z",
+    "lastSeen": "2026-08-12T01:22:41.856Z",
+    "duration": 0,
+    "closestDistance": 0.1484788978943012,
+    "closestAltitude": 36175,
+    "closestSpeed": 432,
+    "initialDistance": 0.1484788978943012,
+    "initialAltitude": 36175,
+    "initialSpeed": 432
   }
 ]

@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 2025,
-    "speed": 169,
-    "timestamp": "2026-08-12T01:10:22.750Z",
-    "lat": 45.6221,
-    "lon": -122.5134,
+    "distance": 0.15,
+    "altitude": 36175,
+    "speed": 432,
+    "timestamp": "2026-08-12T01:22:41.861Z",
+    "lat": 45.6232,
+    "lon": -122.5262,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "TDY1288",
-    "aircraftType": "PC-1",
-    "origin": "BFI",
-    "destination": "PDX",
-    "firstSeen": "2026-06-17T22:14:22.880Z"
+    "callsign": "SWA2449",
+    "aircraftType": "B737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-08-12T01:22:41.856Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.15,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6221,
-      -122.5134
+      45.6232,
+      -122.5262
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-12T01:10:53.543Z"
+  "timestamp": "2026-08-12T01:23:12.655Z"
 }
