@@ -27212,5 +27212,24 @@
     "initialDistance": 0.47704941792960276,
     "initialAltitude": 5625,
     "initialSpeed": 169
+  },
+  {
+    "callsign": "SWA747",
+    "flightNumber": "WN747",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "LGB",
+    "destination": "SEA",
+    "icao": "A1E302",
+    "registration": "N220WN",
+    "firstSeen": "2026-08-12T20:16:53.684Z",
+    "lastSeen": "2026-08-12T20:16:53.684Z",
+    "duration": 0,
+    "closestDistance": 0.2842685024925249,
+    "closestAltitude": 35775,
+    "closestSpeed": 413,
+    "initialDistance": 0.2842685024925249,
+    "initialAltitude": 35775,
+    "initialSpeed": 413
   }
 ]
