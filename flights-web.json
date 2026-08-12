@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 32850,
-    "speed": 429,
-    "timestamp": "2026-08-12T03:38:34.409Z",
-    "lat": 45.632,
-    "lon": -122.5263,
+    "distance": 0.31,
+    "altitude": 30000,
+    "speed": 450,
+    "timestamp": "2026-08-12T04:20:12.677Z",
+    "lat": 45.6201,
+    "lon": -122.5283,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3999",
+    "callsign": "QXE2040",
     "aircraftType": "E175",
-    "origin": "SNA",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-04-24T01:25:58.813Z"
+    "firstSeen": "2026-07-06T03:30:21.461Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.632,
-      -122.5263
+      45.6201,
+      -122.5283
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-12T03:39:05.212Z"
+  "status": "tracking",
+  "timestamp": "2026-08-12T04:20:12.677Z"
 }
