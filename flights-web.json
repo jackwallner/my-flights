@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 36000,
-    "speed": 427,
-    "timestamp": "2026-08-12T15:58:08.770Z",
-    "lat": 45.6217,
-    "lon": -122.5306,
+    "distance": 0.69,
+    "altitude": 34000,
+    "speed": 428,
+    "timestamp": "2026-08-12T19:29:19.033Z",
+    "lat": 45.6192,
+    "lon": -122.5141,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA795",
-    "aircraftType": "737",
-    "origin": "SMF",
+    "callsign": "SKW3089",
+    "aircraftType": "E175",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-06-10T17:22:47.967Z"
+    "firstSeen": "2026-06-23T17:41:44.940Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6217,
-      -122.5306
+      45.6192,
+      -122.5141
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-12T15:58:39.545Z"
+  "timestamp": "2026-08-12T19:29:49.819Z"
 }
