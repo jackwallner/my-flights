@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 35725,
-    "speed": 422,
-    "timestamp": "2026-08-11T23:19:15.899Z",
-    "lat": 45.6209,
-    "lon": -122.5326,
+    "distance": 0.57,
+    "altitude": 25250,
+    "speed": 440,
+    "timestamp": "2026-08-12T00:55:40.224Z",
+    "lat": 45.6303,
+    "lon": -122.5167,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2286",
-    "aircraftType": "E175",
-    "origin": "RDD",
+    "callsign": "FFT1177",
+    "aircraftType": "A321",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-04-27T22:00:37.987Z"
+    "firstSeen": "2026-02-09T03:00:38.644Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.57,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6209,
-      -122.5326
+      45.6303,
+      -122.5167
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-11T23:19:46.712Z"
+  "status": "tracking",
+  "timestamp": "2026-08-12T00:55:40.224Z"
 }
