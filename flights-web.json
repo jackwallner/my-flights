@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 34000,
-    "speed": 428,
-    "timestamp": "2026-08-12T19:29:19.033Z",
-    "lat": 45.6192,
-    "lon": -122.5141,
+    "distance": 0.48,
+    "altitude": 5625,
+    "speed": 169,
+    "timestamp": "2026-08-12T19:52:45.659Z",
+    "lat": 45.6239,
+    "lon": -122.5393,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3089",
-    "aircraftType": "E175",
-    "origin": "RNO",
-    "destination": "SEA",
-    "firstSeen": "2026-06-23T17:41:44.940Z"
+    "callsign": "BE58",
+    "aircraftType": "BE58",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-08-12T19:52:45.654Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6192,
-      -122.5141
+      45.6239,
+      -122.5393
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-12T19:29:49.819Z"
+  "timestamp": "2026-08-12T19:53:16.419Z"
 }
