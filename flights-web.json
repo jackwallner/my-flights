@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 32900,
-    "speed": 398,
-    "timestamp": "2026-08-12T23:15:52.753Z",
-    "lat": 45.6299,
-    "lon": -122.5237,
+    "distance": 0.14,
+    "altitude": 33025,
+    "speed": 422,
+    "timestamp": "2026-08-12T23:18:47.280Z",
+    "lat": 45.6267,
+    "lon": -122.5309,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3789",
+    "callsign": "QXE2286",
     "aircraftType": "E175",
-    "origin": "SJC",
+    "origin": "RDD",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T00:55:06.057Z"
+    "firstSeen": "2026-04-27T22:00:37.987Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.14,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6299,
-      -122.5237
+      45.6267,
+      -122.5309
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-12T23:16:23.585Z"
+  "timestamp": "2026-08-12T23:19:18.080Z"
 }
