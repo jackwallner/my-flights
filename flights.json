@@ -27231,5 +27231,24 @@
     "initialDistance": 0.2842685024925249,
     "initialAltitude": 35775,
     "initialSpeed": 413
+  },
+  {
+    "callsign": "ASA253",
+    "flightNumber": "AS253",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "KOA",
+    "destination": "PDX",
+    "icao": "A7197D",
+    "registration": "N557AS",
+    "firstSeen": "2026-08-13T03:14:38.292Z",
+    "lastSeen": "2026-08-13T03:14:38.292Z",
+    "duration": 0,
+    "closestDistance": 0.503729058667757,
+    "closestAltitude": 6025,
+    "closestSpeed": 230,
+    "initialDistance": 0.503729058667757,
+    "initialAltitude": 6025,
+    "initialSpeed": 230
   }
 ]

@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 22000,
-    "speed": 331,
-    "timestamp": "2026-08-13T03:12:35.083Z",
-    "lat": 45.6192,
-    "lon": -122.5206,
+    "distance": 0.5,
+    "altitude": 6025,
+    "speed": 230,
+    "timestamp": "2026-08-13T03:14:38.298Z",
+    "lat": 45.6175,
+    "lon": -122.5326,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW4141",
-    "aircraftType": "E175",
-    "origin": "RDM",
-    "destination": "SEA",
-    "firstSeen": "2026-02-27T01:59:42.744Z"
+    "callsign": "ASA253",
+    "aircraftType": "737",
+    "origin": "KOA",
+    "destination": "PDX",
+    "firstSeen": "2026-08-13T03:14:38.292Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6192,
-      -122.5206
-    ],
-    [
-      45.6351,
-      -122.5293
+      45.6175,
+      -122.5326
     ]
   ],
   "status": "tracking",
-  "timestamp": "2026-08-13T03:12:45.351Z"
+  "timestamp": "2026-08-13T03:14:38.298Z"
 }
