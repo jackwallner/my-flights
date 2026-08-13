@@ -27269,5 +27269,24 @@
     "initialDistance": 0.6130526288385225,
     "initialAltitude": 35250,
     "initialSpeed": 413
+  },
+  {
+    "callsign": "SKW6371",
+    "flightNumber": "AA6371",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A651E1",
+    "registration": "N506SY",
+    "firstSeen": "2026-08-13T06:33:31.126Z",
+    "lastSeen": "2026-08-13T06:33:31.126Z",
+    "duration": 0,
+    "closestDistance": 0.5660508621637554,
+    "closestAltitude": 34000,
+    "closestSpeed": 424,
+    "initialDistance": 0.5660508621637554,
+    "initialAltitude": 34000,
+    "initialSpeed": 424
   }
 ]
