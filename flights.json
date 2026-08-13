@@ -27250,5 +27250,24 @@
     "initialDistance": 0.503729058667757,
     "initialAltitude": 6025,
     "initialSpeed": 230
+  },
+  {
+    "callsign": "SWA3096",
+    "flightNumber": "WN3096",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "AC1042",
+    "registration": "N8769Q",
+    "firstSeen": "2026-08-13T04:41:02.252Z",
+    "lastSeen": "2026-08-13T04:41:02.252Z",
+    "duration": 0,
+    "closestDistance": 0.6130526288385225,
+    "closestAltitude": 35250,
+    "closestSpeed": 413,
+    "initialDistance": 0.6130526288385225,
+    "initialAltitude": 35250,
+    "initialSpeed": 413
   }
 ]

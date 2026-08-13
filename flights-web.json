@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 35525,
+    "distance": 0.61,
+    "altitude": 35250,
     "speed": 413,
-    "timestamp": "2026-08-13T03:55:41.597Z",
-    "lat": 45.6273,
-    "lon": -122.5289,
+    "timestamp": "2026-08-13T04:41:02.259Z",
+    "lat": 45.6353,
+    "lon": -122.5253,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA481",
-    "aircraftType": "737",
-    "origin": "SJC",
+    "callsign": "SWA3096",
+    "aircraftType": "737 ",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-06-19T03:59:12.537Z"
+    "firstSeen": "2026-08-13T04:41:02.252Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6273,
-      -122.5289
+      45.6353,
+      -122.5253
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-13T03:56:12.385Z"
+  "status": "tracking",
+  "timestamp": "2026-08-13T04:41:02.259Z"
 }
