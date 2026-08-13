@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.07,
-    "altitude": 38000,
-    "speed": 440,
-    "timestamp": "2026-08-13T15:15:43.184Z",
-    "lat": 45.6242,
-    "lon": -122.5284,
+    "distance": 0.5,
+    "altitude": 36000,
+    "speed": 462,
+    "timestamp": "2026-08-13T21:11:44.941Z",
+    "lat": 45.618,
+    "lon": -122.5223,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3149",
-    "aircraftType": "737 ",
+    "callsign": "ASA1476",
+    "aircraftType": "737",
     "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-08-13T15:15:43.174Z"
+    "firstSeen": "2026-04-29T17:35:17.307Z"
   },
-  "overheadScore": 0.07,
+  "overheadScore": 0.5,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6242,
-      -122.5284
+      45.618,
+      -122.5223
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-13T15:16:14.205Z"
+  "timestamp": "2026-08-13T21:12:15.720Z"
 }
