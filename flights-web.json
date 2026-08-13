@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 36000,
-    "speed": 462,
-    "timestamp": "2026-08-13T21:11:44.941Z",
-    "lat": 45.618,
-    "lon": -122.5223,
+    "distance": 0.55,
+    "altitude": 5650,
+    "speed": 187,
+    "timestamp": "2026-08-13T22:15:29.842Z",
+    "lat": 45.6177,
+    "lon": -122.5208,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1476",
-    "aircraftType": "737",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-04-29T17:35:17.307Z"
+    "callsign": "N903J",
+    "aircraftType": "B350",
+    "origin": "TTD",
+    "destination": "OAK",
+    "firstSeen": "2026-08-13T22:15:29.835Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.55,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.618,
-      -122.5223
+      45.6177,
+      -122.5208
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-13T21:12:15.720Z"
+  "timestamp": "2026-08-13T22:16:00.617Z"
 }

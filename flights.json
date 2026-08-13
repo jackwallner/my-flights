@@ -27307,5 +27307,24 @@
     "initialDistance": 0.06598969727660935,
     "initialAltitude": 38000,
     "initialSpeed": 440
+  },
+  {
+    "callsign": "N903J",
+    "flightNumber": null,
+    "aircraftType": "B350",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": "OAK",
+    "icao": "AC7B19",
+    "registration": "N903J",
+    "firstSeen": "2026-08-13T22:15:29.835Z",
+    "lastSeen": "2026-08-13T22:15:29.835Z",
+    "duration": 0,
+    "closestDistance": 0.5490121320089232,
+    "closestAltitude": 5650,
+    "closestSpeed": 187,
+    "initialDistance": 0.5490121320089232,
+    "initialAltitude": 5650,
+    "initialSpeed": 187
   }
 ]
