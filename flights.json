@@ -27383,5 +27383,24 @@
     "initialDistance": 0.507585196746446,
     "initialAltitude": 32000,
     "initialSpeed": 439
+  },
+  {
+    "callsign": "PWR7",
+    "flightNumber": "PWR7",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "MHR",
+    "destination": "PDX",
+    "icao": "AA8329",
+    "registration": "N777BH",
+    "firstSeen": "2026-08-14T21:52:41.235Z",
+    "lastSeen": "2026-08-14T21:52:41.235Z",
+    "duration": 0,
+    "closestDistance": 0.5347980164575296,
+    "closestAltitude": 5950,
+    "closestSpeed": 238,
+    "initialDistance": 0.5347980164575296,
+    "initialAltitude": 5950,
+    "initialSpeed": 238
   }
 ]
