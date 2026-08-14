@@ -27402,5 +27402,24 @@
     "initialDistance": 0.5347980164575296,
     "initialAltitude": 5950,
     "initialSpeed": 238
+  },
+  {
+    "callsign": "N59NW",
+    "flightNumber": null,
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "QSN",
+    "destination": "BFI",
+    "icao": "A79C4F",
+    "registration": "N59NW",
+    "firstSeen": "2026-08-14T23:40:47.923Z",
+    "lastSeen": "2026-08-14T23:40:47.923Z",
+    "duration": 0,
+    "closestDistance": 0.2871709931529116,
+    "closestAltitude": 12000,
+    "closestSpeed": 176,
+    "initialDistance": 0.2871709931529116,
+    "initialAltitude": 12000,
+    "initialSpeed": 176
   }
 ]
