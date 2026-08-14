@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 3575,
-    "speed": 103,
-    "timestamp": "2026-08-13T23:44:13.119Z",
-    "lat": 45.6329,
-    "lon": -122.5198,
+    "distance": 0.67,
+    "altitude": 38000,
+    "speed": 468,
+    "timestamp": "2026-08-14T00:01:52.152Z",
+    "lat": 45.6312,
+    "lon": -122.5146,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9288K",
-    "aircraftType": "P28A",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-08-13T23:42:09.445Z"
+    "callsign": "FDX1386",
+    "aircraftType": "767",
+    "origin": "OAK",
+    "destination": "SEA",
+    "firstSeen": "2026-08-14T00:01:52.147Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6354,
-      -122.5327
-    ],
-    [
-      45.6329,
-      -122.5198
+      45.6312,
+      -122.5146
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-13T23:44:13.119Z"
+  "status": "completed",
+  "timestamp": "2026-08-14T00:02:22.955Z"
 }

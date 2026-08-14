@@ -27345,5 +27345,24 @@
     "initialDistance": 0.3858212057241073,
     "initialAltitude": 3100,
     "initialSpeed": 122
+  },
+  {
+    "callsign": "FDX1386",
+    "flightNumber": "FX1386",
+    "aircraftType": "B763",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A0B5C5",
+    "registration": "N145FE",
+    "firstSeen": "2026-08-14T00:01:52.147Z",
+    "lastSeen": "2026-08-14T00:01:52.147Z",
+    "duration": 0,
+    "closestDistance": 0.6694506378885967,
+    "closestAltitude": 38000,
+    "closestSpeed": 468,
+    "initialDistance": 0.6694506378885967,
+    "initialAltitude": 38000,
+    "initialSpeed": 468
   }
 ]
