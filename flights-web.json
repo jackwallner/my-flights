@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 38000,
-    "speed": 468,
-    "timestamp": "2026-08-14T00:01:52.152Z",
-    "lat": 45.6312,
-    "lon": -122.5146,
+    "distance": 0.51,
+    "altitude": 32000,
+    "speed": 439,
+    "timestamp": "2026-08-14T02:07:51.501Z",
+    "lat": 45.6313,
+    "lon": -122.5366,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FDX1386",
-    "aircraftType": "767",
-    "origin": "OAK",
+    "callsign": "SKW6047",
+    "aircraftType": "E175",
+    "origin": "LAX",
     "destination": "SEA",
-    "firstSeen": "2026-08-14T00:01:52.147Z"
+    "firstSeen": "2026-08-14T02:07:51.496Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.51,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6312,
-      -122.5146
+      45.6313,
+      -122.5366
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-14T00:02:22.955Z"
+  "timestamp": "2026-08-14T02:08:22.253Z"
 }

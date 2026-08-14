@@ -27364,5 +27364,24 @@
     "initialDistance": 0.6694506378885967,
     "initialAltitude": 38000,
     "initialSpeed": 468
+  },
+  {
+    "callsign": "SKW6047",
+    "flightNumber": "UA6047",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "A82AA8",
+    "registration": "N625UX",
+    "firstSeen": "2026-08-14T02:07:51.496Z",
+    "lastSeen": "2026-08-14T02:07:51.496Z",
+    "duration": 0,
+    "closestDistance": 0.507585196746446,
+    "closestAltitude": 32000,
+    "closestSpeed": 439,
+    "initialDistance": 0.507585196746446,
+    "initialAltitude": 32000,
+    "initialSpeed": 439
   }
 ]
