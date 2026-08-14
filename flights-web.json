@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 32000,
-    "speed": 380,
-    "timestamp": "2026-08-14T16:59:12.798Z",
-    "lat": 45.6245,
-    "lon": -122.5373,
+    "distance": 0.29,
+    "altitude": 36200,
+    "speed": 432,
+    "timestamp": "2026-08-14T19:43:56.139Z",
+    "lat": 45.627,
+    "lon": -122.5346,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3361",
-    "aircraftType": "E175",
-    "origin": "TUS",
+    "callsign": "SWA3096",
+    "aircraftType": "737 ",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-05-19T16:42:56.402Z"
+    "firstSeen": "2026-08-13T04:41:02.252Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.29,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6245,
-      -122.5373
+      45.627,
+      -122.5346
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-14T16:59:43.597Z"
+  "timestamp": "2026-08-14T19:44:26.944Z"
 }
