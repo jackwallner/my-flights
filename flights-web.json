@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 34000,
-    "speed": 424,
-    "timestamp": "2026-08-14T20:07:13.436Z",
-    "lat": 45.6311,
-    "lon": -122.5225,
+    "distance": 0.23,
+    "altitude": 3425,
+    "speed": 92,
+    "timestamp": "2026-08-14T20:40:38.740Z",
+    "lat": 45.6276,
+    "lon": -122.5324,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3881",
-    "aircraftType": "E175",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-06-11T19:37:25.995Z"
+    "callsign": "N69016",
+    "aircraftType": "C152",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-05-18T16:22:33.083Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6311,
-      -122.5225
+      45.6351,
+      -122.5245
+    ],
+    [
+      45.6276,
+      -122.5324
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-14T20:07:44.771Z"
+  "timestamp": "2026-08-14T20:40:49.018Z"
 }
