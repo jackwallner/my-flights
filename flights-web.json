@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.17,
-    "altitude": 1725,
-    "speed": 100,
-    "timestamp": "2026-08-14T06:57:56.399Z",
-    "lat": 45.6226,
-    "lon": -122.5267,
-    "precision": "high"
+    "distance": 0.39,
+    "altitude": 32000,
+    "speed": 380,
+    "timestamp": "2026-08-14T16:59:12.798Z",
+    "lat": 45.6245,
+    "lon": -122.5373,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "callsign": "SKW3361",
+    "aircraftType": "E175",
+    "origin": "TUS",
+    "destination": "SEA",
+    "firstSeen": "2026-05-19T16:42:56.402Z"
   },
-  "overheadScore": 0.17,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6183,
-      -122.5388
-    ],
-    [
-      45.6204,
-      -122.5336
-    ],
-    [
-      45.6226,
-      -122.5267
-    ],
-    [
-      45.6237,
-      -122.5211
+      45.6245,
+      -122.5373
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-14T06:58:16.965Z"
+  "timestamp": "2026-08-14T16:59:43.597Z"
 }
