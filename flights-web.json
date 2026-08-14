@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 3425,
-    "speed": 92,
-    "timestamp": "2026-08-14T20:40:38.740Z",
-    "lat": 45.6276,
-    "lon": -122.5324,
+    "distance": 0.5,
+    "altitude": 26000,
+    "speed": 412,
+    "timestamp": "2026-08-14T21:23:57.079Z",
+    "lat": 45.6256,
+    "lon": -122.5161,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N69016",
-    "aircraftType": "C152",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-05-18T16:22:33.083Z"
+    "callsign": "SKW4125",
+    "aircraftType": "E175",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-04-13T21:10:28.794Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6351,
-      -122.5245
-    ],
-    [
-      45.6276,
-      -122.5324
+      45.6256,
+      -122.5161
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-14T20:40:49.018Z"
+  "timestamp": "2026-08-14T21:24:27.853Z"
 }
