@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.37,
+    "distance": 0.17,
     "altitude": 1725,
-    "speed": 101,
-    "timestamp": "2026-08-14T06:57:46.115Z",
-    "lat": 45.6204,
-    "lon": -122.5336,
-    "precision": "tracked"
+    "speed": 100,
+    "timestamp": "2026-08-14T06:57:56.399Z",
+    "lat": 45.6226,
+    "lon": -122.5267,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N64269",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.17,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6183,
@@ -26,8 +26,16 @@
     [
       45.6204,
       -122.5336
+    ],
+    [
+      45.6226,
+      -122.5267
+    ],
+    [
+      45.6237,
+      -122.5211
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-14T06:57:46.115Z"
+  "status": "completed",
+  "timestamp": "2026-08-14T06:58:16.965Z"
 }
