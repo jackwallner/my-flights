@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 33825,
-    "speed": 455,
-    "timestamp": "2026-08-14T03:02:36.612Z",
-    "lat": 45.618,
-    "lon": -122.5288,
+    "distance": 0.43,
+    "altitude": 36300,
+    "speed": 436,
+    "timestamp": "2026-08-14T04:56:06.878Z",
+    "lat": 45.6305,
+    "lon": -122.521,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA417",
-    "aircraftType": "B39M",
-    "origin": "SAN",
+    "callsign": "ASA347",
+    "aircraftType": "737 ",
+    "origin": "BUR",
     "destination": "SEA",
-    "firstSeen": "2026-06-11T03:14:32.970Z"
+    "firstSeen": "2026-06-11T06:26:56.548Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.43,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.618,
-      -122.5288
+      45.6305,
+      -122.521
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-14T03:03:07.426Z"
+  "timestamp": "2026-08-14T04:56:37.727Z"
 }
