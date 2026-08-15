@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 4450,
-    "speed": 121,
-    "timestamp": "2026-08-15T03:54:46.759Z",
-    "lat": 45.6184,
-    "lon": -122.5405,
+    "distance": 0.37,
+    "altitude": 1875,
+    "speed": 103,
+    "timestamp": "2026-08-15T06:18:02.666Z",
+    "lat": 45.6192,
+    "lon": -122.5268,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N425EJ",
-    "aircraftType": "C182",
-    "origin": "QSA",
+    "callsign": "N910TW",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-19T05:56:20.193Z"
+    "firstSeen": "2026-06-23T23:26:59.804Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.37,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6184,
-      -122.5405
+      45.6192,
+      -122.5268
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-15T03:55:17.547Z"
+  "status": "tracking",
+  "timestamp": "2026-08-15T06:18:02.666Z"
 }
