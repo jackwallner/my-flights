@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 26025,
-    "speed": 313,
-    "timestamp": "2026-08-15T20:12:55.726Z",
-    "lat": 45.6169,
-    "lon": -122.539,
+    "distance": 0.6,
+    "altitude": 39975,
+    "speed": 428,
+    "timestamp": "2026-08-15T20:43:34.378Z",
+    "lat": 45.6312,
+    "lon": -122.5165,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CHEAT51",
-    "aircraftType": "C30J",
-    "origin": "NUQ",
-    "destination": null,
-    "firstSeen": "2026-08-15T20:12:55.720Z"
+    "callsign": "SWA389",
+    "aircraftType": "B737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-08-15T20:43:34.373Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6169,
-      -122.539
+      45.6312,
+      -122.5165
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-15T20:13:26.491Z"
+  "status": "tracking",
+  "timestamp": "2026-08-15T20:43:34.378Z"
 }

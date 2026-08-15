@@ -27440,5 +27440,24 @@
     "initialDistance": 0.679875456068522,
     "initialAltitude": 26025,
     "initialSpeed": 313
+  },
+  {
+    "callsign": "SWA389",
+    "flightNumber": "WN389",
+    "aircraftType": "B737",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "AAA224",
+    "registration": "N7843A",
+    "firstSeen": "2026-08-15T20:43:34.373Z",
+    "lastSeen": "2026-08-15T20:43:34.373Z",
+    "duration": 0,
+    "closestDistance": 0.6033349127548877,
+    "closestAltitude": 39975,
+    "closestSpeed": 428,
+    "initialDistance": 0.6033349127548877,
+    "initialAltitude": 39975,
+    "initialSpeed": 428
   }
 ]
