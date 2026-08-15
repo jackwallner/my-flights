@@ -27459,5 +27459,24 @@
     "initialDistance": 0.6033349127548877,
     "initialAltitude": 39975,
     "initialSpeed": 428
+  },
+  {
+    "callsign": "C6046",
+    "flightNumber": null,
+    "aircraftType": "H60",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "AE4DFE",
+    "registration": "6046",
+    "firstSeen": "2026-08-15T20:48:01.836Z",
+    "lastSeen": "2026-08-15T20:48:12.101Z",
+    "duration": 10,
+    "closestDistance": 0.336296095983333,
+    "closestAltitude": 800,
+    "closestSpeed": 126,
+    "initialDistance": 0.336296095983333,
+    "initialAltitude": 800,
+    "initialSpeed": 126
   }
 ]
