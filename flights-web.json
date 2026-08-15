@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 1975,
-    "speed": 152,
-    "timestamp": "2026-08-15T01:23:26.303Z",
-    "lat": 45.6197,
-    "lon": -122.5238,
+    "distance": 0.68,
+    "altitude": 4500,
+    "speed": 108,
+    "timestamp": "2026-08-15T03:09:35.367Z",
+    "lat": 45.6281,
+    "lon": -122.5438,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N1561B",
-    "aircraftType": "Bona",
-    "origin": "RBG",
+    "callsign": "N425EJ",
+    "aircraftType": "C182",
+    "origin": "QSA",
     "destination": null,
-    "firstSeen": "2026-04-09T14:17:01.652Z"
+    "firstSeen": "2026-04-19T05:56:20.193Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.68,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6197,
-      -122.5238
+      45.6281,
+      -122.5438
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-15T01:23:57.105Z"
+  "status": "tracking",
+  "timestamp": "2026-08-15T03:09:35.367Z"
 }
