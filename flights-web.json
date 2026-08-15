@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 12000,
-    "speed": 176,
-    "timestamp": "2026-08-14T23:40:47.927Z",
-    "lat": 45.6234,
-    "lon": -122.5344,
+    "distance": 0.42,
+    "altitude": 36000,
+    "speed": 433,
+    "timestamp": "2026-08-15T01:13:07.921Z",
+    "lat": 45.6301,
+    "lon": -122.521,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N59NW",
-    "aircraftType": "Cara",
-    "origin": "QSN",
-    "destination": "BFI",
-    "firstSeen": "2026-08-14T23:40:47.923Z"
+    "callsign": "ASA289",
+    "aircraftType": "737",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-06-25T01:32:36.887Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.42,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6234,
-      -122.5344
+      45.6301,
+      -122.521
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-14T23:41:18.689Z"
+  "timestamp": "2026-08-15T01:13:38.760Z"
 }
