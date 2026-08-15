@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 4675,
-    "speed": 181,
-    "timestamp": "2026-08-15T19:47:23.136Z",
-    "lat": 45.6216,
-    "lon": -122.5175,
+    "distance": 0.68,
+    "altitude": 26025,
+    "speed": 313,
+    "timestamp": "2026-08-15T20:12:55.726Z",
+    "lat": 45.6169,
+    "lon": -122.539,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "S22T",
-    "aircraftType": "S22T",
-    "origin": null,
+    "callsign": "CHEAT51",
+    "aircraftType": "C30J",
+    "origin": "NUQ",
     "destination": null,
-    "firstSeen": "2026-03-16T17:23:58.083Z"
+    "firstSeen": "2026-08-15T20:12:55.720Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.68,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6216,
-      -122.5175
-    ],
-    [
-      45.6149,
-      -122.5217
+      45.6169,
+      -122.539
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-15T19:47:53.955Z"
+  "timestamp": "2026-08-15T20:13:26.491Z"
 }
