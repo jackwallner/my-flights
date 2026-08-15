@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 36000,
-    "speed": 433,
-    "timestamp": "2026-08-15T01:13:07.921Z",
-    "lat": 45.6301,
-    "lon": -122.521,
+    "distance": 0.38,
+    "altitude": 1975,
+    "speed": 152,
+    "timestamp": "2026-08-15T01:23:26.303Z",
+    "lat": 45.6197,
+    "lon": -122.5238,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA289",
-    "aircraftType": "737",
-    "origin": "PHX",
-    "destination": "SEA",
-    "firstSeen": "2026-06-25T01:32:36.887Z"
+    "callsign": "N1561B",
+    "aircraftType": "Bona",
+    "origin": "RBG",
+    "destination": null,
+    "firstSeen": "2026-04-09T14:17:01.652Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.38,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6301,
-      -122.521
+      45.6197,
+      -122.5238
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-15T01:13:38.760Z"
+  "status": "tracking",
+  "timestamp": "2026-08-15T01:23:26.303Z"
 }
