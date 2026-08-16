@@ -27573,5 +27573,24 @@
     "initialDistance": 0.37365496046957064,
     "initialAltitude": 39700,
     "initialSpeed": 496
+  },
+  {
+    "callsign": "N102MD",
+    "flightNumber": null,
+    "aircraftType": "M4",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A00D39",
+    "registration": "N102MD",
+    "firstSeen": "2026-08-16T23:30:41.123Z",
+    "lastSeen": "2026-08-16T23:30:51.369Z",
+    "duration": 10,
+    "closestDistance": 0.47647413538244837,
+    "closestAltitude": 7200,
+    "closestSpeed": 106,
+    "initialDistance": 0.47647413538244837,
+    "initialAltitude": 7200,
+    "initialSpeed": 106
   }
 ]
