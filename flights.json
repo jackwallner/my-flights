@@ -27516,5 +27516,24 @@
     "initialDistance": 0.1940756480786704,
     "initialAltitude": 3900,
     "initialSpeed": 130
+  },
+  {
+    "callsign": "N454DR",
+    "flightNumber": null,
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "HHR",
+    "destination": "PWT",
+    "icao": "A58153",
+    "registration": "N454DR",
+    "firstSeen": "2026-08-16T20:03:18.453Z",
+    "lastSeen": "2026-08-16T20:03:18.453Z",
+    "duration": 0,
+    "closestDistance": 0.48539818771640086,
+    "closestAltitude": 31300,
+    "closestSpeed": 444,
+    "initialDistance": 0.48539818771640086,
+    "initialAltitude": 31300,
+    "initialSpeed": 444
   }
 ]
