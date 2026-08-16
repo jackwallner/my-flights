@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 7200,
-    "speed": 106,
-    "timestamp": "2026-08-16T23:30:41.130Z",
-    "lat": 45.6233,
-    "lon": -122.5391,
+    "distance": 0.61,
+    "altitude": 3825,
+    "speed": 273,
+    "timestamp": "2026-08-16T23:50:22.497Z",
+    "lat": 45.6347,
+    "lon": -122.5337,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N102MD",
-    "aircraftType": "M4",
+    "callsign": "GL7T",
+    "aircraftType": "GL7T",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-08-16T23:30:41.123Z"
+    "firstSeen": "2026-04-02T00:31:53.589Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.61,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6233,
-      -122.5391
-    ],
-    [
-      45.6188,
-      -122.5357
+      45.6347,
+      -122.5337
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-16T23:31:11.927Z"
+  "timestamp": "2026-08-16T23:50:53.286Z"
 }
