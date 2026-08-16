@@ -27497,5 +27497,24 @@
     "initialDistance": 0.653282974723305,
     "initialAltitude": 43000,
     "initialSpeed": 460
+  },
+  {
+    "callsign": "N8274V",
+    "flightNumber": null,
+    "aircraftType": "P28B",
+    "aircraftName": null,
+    "origin": "DLS",
+    "destination": null,
+    "icao": "AB4DD4",
+    "registration": "N8274V",
+    "firstSeen": "2026-08-16T18:13:45.121Z",
+    "lastSeen": "2026-08-16T18:13:55.420Z",
+    "duration": 10,
+    "closestDistance": 0.19400995253379696,
+    "closestAltitude": 3825,
+    "closestSpeed": 130,
+    "initialDistance": 0.1940756480786704,
+    "initialAltitude": 3900,
+    "initialSpeed": 130
   }
 ]
