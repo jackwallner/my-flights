@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 39700,
-    "speed": 496,
-    "timestamp": "2026-08-16T20:28:40.317Z",
-    "lat": 45.6315,
-    "lon": -122.5278,
+    "distance": 0.55,
+    "altitude": 800,
+    "speed": 93,
+    "timestamp": "2026-08-16T21:10:24.680Z",
+    "lat": 45.6167,
+    "lon": -122.5233,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N550FR",
-    "aircraftType": "Gulf",
-    "origin": "RNO",
-    "destination": "BFI",
-    "firstSeen": "2026-08-16T20:28:40.311Z"
+    "callsign": "N924D",
+    "aircraftType": "RV6",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.55,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6315,
-      -122.5278
+      45.6167,
+      -122.5233
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-16T20:29:11.146Z"
+  "status": "tracking",
+  "timestamp": "2026-08-16T21:10:24.680Z"
 }
