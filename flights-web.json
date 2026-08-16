@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 36000,
-    "speed": 436,
-    "timestamp": "2026-08-16T01:37:37.338Z",
-    "lat": 45.6299,
-    "lon": -122.5199,
+    "distance": 0.28,
+    "altitude": 37850,
+    "speed": 435,
+    "timestamp": "2026-08-16T02:56:39.834Z",
+    "lat": 45.6236,
+    "lon": -122.5218,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6047",
-    "aircraftType": "E175",
-    "origin": "LAX",
+    "callsign": "SWA3096",
+    "aircraftType": "737 ",
+    "origin": "SMF",
     "destination": "SEA",
-    "firstSeen": "2026-08-14T02:07:51.496Z"
+    "firstSeen": "2026-08-13T04:41:02.252Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.28,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6299,
-      -122.5199
+      45.6236,
+      -122.5218
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-16T01:38:08.119Z"
+  "timestamp": "2026-08-16T02:57:10.628Z"
 }
