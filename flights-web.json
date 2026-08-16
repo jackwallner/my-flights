@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 35475,
-    "speed": 449,
-    "timestamp": "2026-08-16T21:31:59.132Z",
-    "lat": 45.6259,
-    "lon": -122.5233,
+    "distance": 0.57,
+    "altitude": 32000,
+    "speed": 461,
+    "timestamp": "2026-08-16T21:44:08.488Z",
+    "lat": 45.6211,
+    "lon": -122.5404,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ437",
-    "aircraftType": "E545",
-    "origin": "TKF",
-    "destination": "PWT",
-    "firstSeen": "2026-02-25T21:47:54.801Z"
+    "callsign": "SKW3087",
+    "aircraftType": "E175",
+    "origin": "MFR",
+    "destination": "SEA",
+    "firstSeen": "2026-06-13T21:38:15.841Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.57,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6259,
-      -122.5233
+      45.6211,
+      -122.5404
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-16T21:32:29.941Z"
+  "status": "tracking",
+  "timestamp": "2026-08-16T21:44:08.489Z"
 }
