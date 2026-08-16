@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 1325,
-    "speed": 126,
-    "timestamp": "2026-08-15T23:18:49.668Z",
-    "lat": 45.615,
-    "lon": -122.5259,
+    "distance": 0.49,
+    "altitude": 1375,
+    "speed": 125,
+    "timestamp": "2026-08-16T00:02:07.368Z",
+    "lat": 45.6239,
+    "lon": -122.5396,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N456LF",
-    "aircraftType": "B407",
+    "callsign": "N18075",
+    "aircraftType": "C180",
     "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-02T02:02:55.616Z"
+    "destination": "PDX",
+    "firstSeen": "2026-04-08T22:26:24.975Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.49,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.615,
-      -122.5259
+      45.6239,
+      -122.5396
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-15T23:19:20.424Z"
+  "status": "tracking",
+  "timestamp": "2026-08-16T00:02:07.368Z"
 }
