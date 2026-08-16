@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 3550,
-    "speed": 108,
-    "timestamp": "2026-08-16T20:24:12.827Z",
-    "lat": 45.6306,
-    "lon": -122.5199,
+    "distance": 0.37,
+    "altitude": 39700,
+    "speed": 496,
+    "timestamp": "2026-08-16T20:28:40.317Z",
+    "lat": 45.6315,
+    "lon": -122.5278,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ARF7PR",
-    "aircraftType": "Cara",
-    "origin": "TTD",
-    "destination": "TIW",
-    "firstSeen": "2026-08-16T20:24:02.570Z"
+    "callsign": "N550FR",
+    "aircraftType": "Gulf",
+    "origin": "RNO",
+    "destination": "BFI",
+    "firstSeen": "2026-08-16T20:28:40.311Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6269,
-      -122.5169
-    ],
-    [
-      45.6306,
-      -122.5199
+      45.6315,
+      -122.5278
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-16T20:24:33.369Z"
+  "timestamp": "2026-08-16T20:29:11.146Z"
 }

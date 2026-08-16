@@ -27554,5 +27554,24 @@
     "initialDistance": 0.4807000915596439,
     "initialAltitude": 3400,
     "initialSpeed": 110
+  },
+  {
+    "callsign": "N550FR",
+    "flightNumber": null,
+    "aircraftType": "GLF5",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "BFI",
+    "icao": "A6FFF8",
+    "registration": "N550FR",
+    "firstSeen": "2026-08-16T20:28:40.311Z",
+    "lastSeen": "2026-08-16T20:28:40.311Z",
+    "duration": 0,
+    "closestDistance": 0.37365496046957064,
+    "closestAltitude": 39700,
+    "closestSpeed": 496,
+    "initialDistance": 0.37365496046957064,
+    "initialAltitude": 39700,
+    "initialSpeed": 496
   }
 ]
