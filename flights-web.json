@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 37850,
-    "speed": 435,
-    "timestamp": "2026-08-16T02:56:39.834Z",
-    "lat": 45.6236,
-    "lon": -122.5218,
+    "distance": 0.61,
+    "altitude": 2100,
+    "speed": 98,
+    "timestamp": "2026-08-16T03:32:24.658Z",
+    "lat": 45.6233,
+    "lon": -122.5424,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA3096",
-    "aircraftType": "737 ",
-    "origin": "SMF",
-    "destination": "SEA",
-    "firstSeen": "2026-08-13T04:41:02.252Z"
+    "callsign": "N4466R",
+    "aircraftType": "C172",
+    "origin": "QSA",
+    "destination": null,
+    "firstSeen": "2026-03-01T01:16:04.720Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6236,
-      -122.5218
+      45.6233,
+      -122.5424
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-16T02:57:10.628Z"
+  "status": "tracking",
+  "timestamp": "2026-08-16T03:32:24.658Z"
 }
