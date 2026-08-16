@@ -27535,5 +27535,24 @@
     "initialDistance": 0.48539818771640086,
     "initialAltitude": 31300,
     "initialSpeed": 444
+  },
+  {
+    "callsign": "ARF7PR",
+    "flightNumber": null,
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": "TIW",
+    "icao": "A33AA8",
+    "registration": "N307PR",
+    "firstSeen": "2026-08-16T20:24:02.570Z",
+    "lastSeen": "2026-08-16T20:24:12.821Z",
+    "duration": 10,
+    "closestDistance": 0.4699854234230949,
+    "closestAltitude": 3550,
+    "closestSpeed": 108,
+    "initialDistance": 0.4807000915596439,
+    "initialAltitude": 3400,
+    "initialSpeed": 110
   }
 ]

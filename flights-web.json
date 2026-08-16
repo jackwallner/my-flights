@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 31300,
-    "speed": 444,
-    "timestamp": "2026-08-16T20:03:18.458Z",
-    "lat": 45.6181,
-    "lon": -122.5228,
+    "distance": 0.47,
+    "altitude": 3550,
+    "speed": 108,
+    "timestamp": "2026-08-16T20:24:12.827Z",
+    "lat": 45.6306,
+    "lon": -122.5199,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N454DR",
-    "aircraftType": "E55P",
-    "origin": "HHR",
-    "destination": "PWT",
-    "firstSeen": "2026-08-16T20:03:18.453Z"
+    "callsign": "ARF7PR",
+    "aircraftType": "Cara",
+    "origin": "TTD",
+    "destination": "TIW",
+    "firstSeen": "2026-08-16T20:24:02.570Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6181,
-      -122.5228
+      45.6269,
+      -122.5169
+    ],
+    [
+      45.6306,
+      -122.5199
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-16T20:03:49.276Z"
+  "status": "tracking",
+  "timestamp": "2026-08-16T20:24:12.827Z"
 }
