@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 39900,
-    "speed": 520,
-    "timestamp": "2026-08-16T22:24:55.318Z",
-    "lat": 45.6364,
-    "lon": -122.5288,
+    "distance": 0.35,
+    "altitude": 3325,
+    "speed": 94,
+    "timestamp": "2026-08-16T22:31:36.163Z",
+    "lat": 45.624,
+    "lon": -122.5363,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GL7T",
-    "aircraftType": "GL7T",
-    "origin": null,
+    "callsign": "N9185H",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-02T00:31:53.589Z"
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6364,
-      -122.5288
+      45.624,
+      -122.5363
+    ],
+    [
+      45.6226,
+      -122.5429
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-16T22:25:26.180Z"
+  "status": "tracking",
+  "timestamp": "2026-08-16T22:31:46.421Z"
 }
