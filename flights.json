@@ -27668,5 +27668,24 @@
     "initialDistance": 0.6354498506060173,
     "initialAltitude": 31175,
     "initialSpeed": 443
+  },
+  {
+    "callsign": "GFY1124",
+    "flightNumber": "GFY1124",
+    "aircraftType": "DA42",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A034D4",
+    "registration": "N112NG",
+    "firstSeen": "2026-08-17T20:29:50.540Z",
+    "lastSeen": "2026-08-17T20:29:50.540Z",
+    "duration": 0,
+    "closestDistance": 0.31465152234793914,
+    "closestAltitude": 4075,
+    "closestSpeed": 163,
+    "initialDistance": 0.31465152234793914,
+    "initialAltitude": 4075,
+    "initialSpeed": 163
   }
 ]

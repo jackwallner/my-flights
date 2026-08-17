@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.26,
-    "altitude": 5475,
-    "speed": 112,
-    "timestamp": "2026-08-17T19:59:20.120Z",
-    "lat": 45.6292,
-    "lon": -122.5308,
+    "distance": 0.31,
+    "altitude": 4075,
+    "speed": 163,
+    "timestamp": "2026-08-17T20:29:50.546Z",
+    "lat": 45.6238,
+    "lon": -122.5353,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N63843",
-    "aircraftType": "C172",
+    "callsign": "GFY1124",
+    "aircraftType": "DA42",
     "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-03-14T16:28:13.842Z"
+    "firstSeen": "2026-08-17T20:29:50.540Z"
   },
-  "overheadScore": 0.26,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6292,
-      -122.5308
+      45.6238,
+      -122.5353
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-17T19:59:50.958Z"
+  "timestamp": "2026-08-17T20:30:21.390Z"
 }
