@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 3825,
-    "speed": 273,
-    "timestamp": "2026-08-16T23:50:22.497Z",
-    "lat": 45.6347,
-    "lon": -122.5337,
+    "distance": 0.59,
+    "altitude": 700,
+    "speed": 83,
+    "timestamp": "2026-08-17T00:49:05.330Z",
+    "lat": 45.62,
+    "lon": -122.5399,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GL7T",
-    "aircraftType": "GL7T",
+    "callsign": "N924D",
+    "aircraftType": "RV6",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-04-02T00:31:53.589Z"
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6347,
-      -122.5337
+      45.6277,
+      -122.5421
+    ],
+    [
+      45.62,
+      -122.5399
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-16T23:50:53.286Z"
+  "status": "tracking",
+  "timestamp": "2026-08-17T00:49:05.330Z"
 }
