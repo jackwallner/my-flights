@@ -27630,5 +27630,24 @@
     "initialDistance": 0.6834210151750213,
     "initialAltitude": 35525,
     "initialSpeed": 462
+  },
+  {
+    "callsign": "EJA921",
+    "flightNumber": "EJA921",
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": "VNY",
+    "destination": "BFI",
+    "icao": "ACC350",
+    "registration": "N921QS",
+    "firstSeen": "2026-08-17T17:03:01.421Z",
+    "lastSeen": "2026-08-17T17:03:01.421Z",
+    "duration": 0,
+    "closestDistance": 0.5256856703665956,
+    "closestAltitude": 36000,
+    "closestSpeed": 485,
+    "initialDistance": 0.5256856703665956,
+    "initialAltitude": 36000,
+    "initialSpeed": 485
   }
 ]

@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 35525,
-    "speed": 462,
-    "timestamp": "2026-08-17T16:36:58.946Z",
-    "lat": 45.6366,
-    "lon": -122.5264,
+    "distance": 0.53,
+    "altitude": 36000,
+    "speed": 485,
+    "timestamp": "2026-08-17T17:03:01.427Z",
+    "lat": 45.6205,
+    "lon": -122.5386,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "UAL1752",
-    "aircraftType": "A320",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-08-17T16:36:58.941Z"
+    "callsign": "EJA921",
+    "aircraftType": "C68A",
+    "origin": "VNY",
+    "destination": "BFI",
+    "firstSeen": "2026-08-17T17:03:01.421Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6366,
-      -122.5264
+      45.6205,
+      -122.5386
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-17T16:37:29.751Z"
+  "timestamp": "2026-08-17T17:03:32.235Z"
 }
