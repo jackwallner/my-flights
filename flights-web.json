@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 4075,
-    "speed": 163,
-    "timestamp": "2026-08-17T20:29:50.546Z",
-    "lat": 45.6238,
-    "lon": -122.5353,
+    "distance": 0.69,
+    "altitude": 24000,
+    "speed": 304,
+    "timestamp": "2026-08-17T20:50:55.587Z",
+    "lat": 45.6295,
+    "lon": -122.5127,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "GFY1124",
-    "aircraftType": "DA42",
-    "origin": "HIO",
+    "callsign": "RAIDR26",
+    "aircraftType": "C30J",
+    "origin": "YUM",
     "destination": null,
-    "firstSeen": "2026-08-17T20:29:50.540Z"
+    "firstSeen": "2026-08-17T20:50:55.583Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6238,
-      -122.5353
+      45.6295,
+      -122.5127
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-17T20:30:21.390Z"
+  "status": "tracking",
+  "timestamp": "2026-08-17T20:50:55.587Z"
 }
