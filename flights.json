@@ -27649,5 +27649,24 @@
     "initialDistance": 0.5256856703665956,
     "initialAltitude": 36000,
     "initialSpeed": 485
+  },
+  {
+    "callsign": "ASA637",
+    "flightNumber": "AS637",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "PHX",
+    "destination": "SEA",
+    "icao": "AD99F9",
+    "registration": "N976AK",
+    "firstSeen": "2026-08-17T18:58:30.947Z",
+    "lastSeen": "2026-08-17T18:58:30.947Z",
+    "duration": 0,
+    "closestDistance": 0.6354498506060173,
+    "closestAltitude": 31175,
+    "closestSpeed": 443,
+    "initialDistance": 0.6354498506060173,
+    "initialAltitude": 31175,
+    "initialSpeed": 443
   }
 ]

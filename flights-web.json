@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 36000,
-    "speed": 485,
-    "timestamp": "2026-08-17T17:03:01.427Z",
-    "lat": 45.6205,
-    "lon": -122.5386,
+    "distance": 0.64,
+    "altitude": 31175,
+    "speed": 443,
+    "timestamp": "2026-08-17T18:58:30.954Z",
+    "lat": 45.6261,
+    "lon": -122.5432,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA921",
-    "aircraftType": "C68A",
-    "origin": "VNY",
-    "destination": "BFI",
-    "firstSeen": "2026-08-17T17:03:01.421Z"
+    "callsign": "ASA637",
+    "aircraftType": "B39M",
+    "origin": "PHX",
+    "destination": "SEA",
+    "firstSeen": "2026-08-17T18:58:30.947Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6205,
-      -122.5386
+      45.6261,
+      -122.5432
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-17T17:03:32.235Z"
+  "timestamp": "2026-08-17T18:59:01.691Z"
 }
