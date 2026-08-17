@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 36900,
-    "speed": 457,
-    "timestamp": "2026-08-17T19:17:11.818Z",
-    "lat": 45.6268,
-    "lon": -122.5196,
+    "distance": 0.26,
+    "altitude": 5475,
+    "speed": 112,
+    "timestamp": "2026-08-17T19:59:20.120Z",
+    "lat": 45.6292,
+    "lon": -122.5308,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA471",
-    "aircraftType": "737 ",
-    "origin": "SNA",
-    "destination": "SEA",
-    "firstSeen": "2026-06-22T19:37:33.232Z"
+    "callsign": "N63843",
+    "aircraftType": "C172",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-03-14T16:28:13.842Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.26,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6268,
-      -122.5196
+      45.6292,
+      -122.5308
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-17T19:17:42.673Z"
+  "timestamp": "2026-08-17T19:59:50.958Z"
 }
