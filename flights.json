@@ -27592,5 +27592,24 @@
     "initialDistance": 0.47647413538244837,
     "initialAltitude": 7200,
     "initialSpeed": 106
+  },
+  {
+    "callsign": "N43SM",
+    "flightNumber": null,
+    "aircraftType": "GLAS",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A52261",
+    "registration": "N43SM",
+    "firstSeen": "2026-08-17T01:06:34.129Z",
+    "lastSeen": "2026-08-17T01:06:44.366Z",
+    "duration": 10,
+    "closestDistance": 0.4182871964071031,
+    "closestAltitude": 2175,
+    "closestSpeed": 200,
+    "initialDistance": 0.4182871964071031,
+    "initialAltitude": 2175,
+    "initialSpeed": 200
   }
 ]
