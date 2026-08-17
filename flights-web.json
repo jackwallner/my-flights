@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 700,
-    "speed": 83,
-    "timestamp": "2026-08-17T00:49:05.330Z",
-    "lat": 45.62,
-    "lon": -122.5399,
-    "precision": "high"
+    "distance": 0.31,
+    "altitude": 2275,
+    "speed": 110,
+    "timestamp": "2026-08-17T00:54:44.822Z",
+    "lat": 45.6304,
+    "lon": -122.5287,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N924D",
-    "aircraftType": "RV6",
-    "origin": null,
+    "callsign": "N246LT",
+    "aircraftType": "SLG2",
+    "origin": "BFI",
     "destination": null,
-    "firstSeen": "2026-03-28T21:25:34.028Z"
+    "firstSeen": "2026-02-05T06:48:57.804Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6277,
-      -122.5421
-    ],
-    [
-      45.62,
-      -122.5399
-    ],
-    [
-      45.62,
-      -122.5399
-    ],
-    [
-      45.62,
-      -122.5399
+      45.6304,
+      -122.5287
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-17T00:49:36.122Z"
+  "status": "tracking",
+  "timestamp": "2026-08-17T00:54:44.822Z"
 }
