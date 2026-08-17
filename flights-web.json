@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 2175,
-    "speed": 200,
-    "timestamp": "2026-08-17T01:06:34.136Z",
-    "lat": 45.6309,
-    "lon": -122.534,
+    "distance": 0.61,
+    "altitude": 32150,
+    "speed": 440,
+    "timestamp": "2026-08-17T01:27:26.985Z",
+    "lat": 45.6341,
+    "lon": -122.5207,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N43SM",
-    "aircraftType": "GLAS",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-08-17T01:06:34.129Z"
+    "callsign": "ASA1375",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-06-15T01:51:17.333Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.61,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6309,
-      -122.534
-    ],
-    [
-      45.6296,
-      -122.5191
+      45.6341,
+      -122.5207
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-17T01:07:04.912Z"
+  "timestamp": "2026-08-17T01:27:57.725Z"
 }
