@@ -27611,5 +27611,24 @@
     "initialDistance": 0.4182871964071031,
     "initialAltitude": 2175,
     "initialSpeed": 200
+  },
+  {
+    "callsign": "UAL1752",
+    "flightNumber": "UA1752",
+    "aircraftType": "A320",
+    "aircraftName": null,
+    "origin": "SFO",
+    "destination": "SEA",
+    "icao": "A5ADF1",
+    "registration": "N465UA",
+    "firstSeen": "2026-08-17T16:36:58.941Z",
+    "lastSeen": "2026-08-17T16:36:58.941Z",
+    "duration": 0,
+    "closestDistance": 0.6834210151750213,
+    "closestAltitude": 35525,
+    "closestSpeed": 462,
+    "initialDistance": 0.6834210151750213,
+    "initialAltitude": 35525,
+    "initialSpeed": 462
   }
 ]

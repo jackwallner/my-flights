@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 3800,
-    "speed": 130,
-    "timestamp": "2026-08-17T14:51:00.337Z",
-    "lat": 45.6233,
-    "lon": -122.5329,
+    "distance": 0.68,
+    "altitude": 35525,
+    "speed": 462,
+    "timestamp": "2026-08-17T16:36:58.946Z",
+    "lat": 45.6366,
+    "lon": -122.5264,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N56720",
-    "aircraftType": "P28R",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-21T02:06:45.453Z"
+    "callsign": "UAL1752",
+    "aircraftType": "A320",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-08-17T16:36:58.941Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.68,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6233,
-      -122.5329
+      45.6366,
+      -122.5264
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-17T14:51:31.115Z"
+  "timestamp": "2026-08-17T16:37:29.751Z"
 }
