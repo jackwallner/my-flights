@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 1775,
-    "speed": 110,
-    "timestamp": "2026-08-17T21:21:24.894Z",
-    "lat": 45.6152,
-    "lon": -122.5325,
+    "distance": 0.36,
+    "altitude": 33500,
+    "speed": 453,
+    "timestamp": "2026-08-17T23:52:10.389Z",
+    "lat": 45.6247,
+    "lon": -122.5195,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N797BP",
-    "aircraftType": "B407",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-03-18T21:24:25.842Z"
+    "callsign": "ASA790",
+    "aircraftType": "737",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-06-11T23:09:28.010Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.36,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6152,
-      -122.5325
+      45.6247,
+      -122.5195
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-17T21:21:55.651Z"
+  "timestamp": "2026-08-17T23:52:41.139Z"
 }
