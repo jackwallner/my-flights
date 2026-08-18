@@ -27706,5 +27706,24 @@
     "initialDistance": 0.6949251318011881,
     "initialAltitude": 24000,
     "initialSpeed": 304
+  },
+  {
+    "callsign": "N969DW",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "OLM",
+    "destination": "SAC",
+    "icao": "AD7DF5",
+    "registration": "N969DW",
+    "firstSeen": "2026-08-18T00:16:50.441Z",
+    "lastSeen": "2026-08-18T00:17:10.974Z",
+    "duration": 21,
+    "closestDistance": 0.4275366999736768,
+    "closestAltitude": 8900,
+    "closestSpeed": 167,
+    "initialDistance": 0.5710853032358149,
+    "initialAltitude": 8900,
+    "initialSpeed": 168
   }
 ]
