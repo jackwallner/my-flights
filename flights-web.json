@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 30000,
-    "speed": 386,
-    "timestamp": "2026-08-18T03:35:59.876Z",
-    "lat": 45.6314,
-    "lon": -122.5351,
+    "distance": 0.59,
+    "altitude": 29775,
+    "speed": 435,
+    "timestamp": "2026-08-18T04:20:03.114Z",
+    "lat": 45.6326,
+    "lon": -122.5374,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2040",
-    "aircraftType": "E175",
-    "origin": "MFR",
+    "callsign": "ASA930",
+    "aircraftType": "A330",
+    "origin": "OGG",
     "destination": "SEA",
-    "firstSeen": "2026-07-06T03:30:21.461Z"
+    "firstSeen": "2026-08-18T04:20:03.108Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6314,
-      -122.5351
+      45.6326,
+      -122.5374
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-18T03:36:31.006Z"
+  "status": "tracking",
+  "timestamp": "2026-08-18T04:20:03.114Z"
 }

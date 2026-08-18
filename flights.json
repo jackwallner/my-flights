@@ -27744,5 +27744,24 @@
     "initialDistance": 0.6963476782973176,
     "initialAltitude": 20000,
     "initialSpeed": 341
+  },
+  {
+    "callsign": "ASA930",
+    "flightNumber": "AS930",
+    "aircraftType": "A332",
+    "aircraftName": null,
+    "origin": "OGG",
+    "destination": "SEA",
+    "icao": "A499C3",
+    "registration": "N396HA",
+    "firstSeen": "2026-08-18T04:20:03.108Z",
+    "lastSeen": "2026-08-18T04:20:03.108Z",
+    "duration": 0,
+    "closestDistance": 0.5875554244679018,
+    "closestAltitude": 29775,
+    "closestSpeed": 435,
+    "initialDistance": 0.5875554244679018,
+    "initialAltitude": 29775,
+    "initialSpeed": 435
   }
 ]
