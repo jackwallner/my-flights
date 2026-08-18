@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 36100,
-    "speed": 428,
-    "timestamp": "2026-08-18T04:33:35.520Z",
-    "lat": 45.621,
-    "lon": -122.5391,
+    "distance": 0.45,
+    "altitude": 5800,
+    "speed": 239,
+    "timestamp": "2026-08-18T16:33:42.549Z",
+    "lat": 45.6263,
+    "lon": -122.5175,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA599",
-    "aircraftType": "B39M",
-    "origin": "RNO",
-    "destination": "SEA",
-    "firstSeen": "2026-02-23T04:28:18.295Z"
+    "callsign": "ASA541",
+    "aircraftType": "737",
+    "origin": "AUS",
+    "destination": "PDX",
+    "firstSeen": "2026-02-08T05:59:25.016Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.621,
-      -122.5391
+      45.6345,
+      -122.5298
+    ],
+    [
+      45.6263,
+      -122.5175
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-18T04:34:06.381Z"
+  "timestamp": "2026-08-18T16:34:03.054Z"
 }
