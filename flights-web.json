@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 33500,
-    "speed": 453,
-    "timestamp": "2026-08-17T23:52:10.389Z",
-    "lat": 45.6247,
-    "lon": -122.5195,
-    "precision": "tracked"
+    "distance": 0.11,
+    "altitude": 2525,
+    "speed": 109,
+    "timestamp": "2026-08-18T00:14:46.985Z",
+    "lat": 45.6248,
+    "lon": -122.5256,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA790",
-    "aircraftType": "737",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-06-11T23:09:28.010Z"
+    "callsign": "N830KX",
+    "aircraftType": "C172",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-05-04T22:44:11.658Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6247,
-      -122.5195
+      45.6248,
+      -122.5256
+    ],
+    [
+      45.6217,
+      -122.5323
+    ],
+    [
+      45.6189,
+      -122.5386
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-17T23:52:41.139Z"
+  "timestamp": "2026-08-18T00:15:17.815Z"
 }
