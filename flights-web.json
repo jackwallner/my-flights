@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 6775,
-    "speed": 238,
-    "timestamp": "2026-08-18T17:51:03.548Z",
-    "lat": 45.618,
-    "lon": -122.5339,
+    "distance": 0.59,
+    "altitude": 1400,
+    "speed": 98,
+    "timestamp": "2026-08-18T19:10:15.884Z",
+    "lat": 45.6182,
+    "lon": -122.5379,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ABX814",
-    "aircraftType": "767",
-    "origin": "SEA",
-    "destination": "PDX",
-    "firstSeen": "2026-04-30T17:15:03.247Z"
+    "callsign": "N589RC",
+    "aircraftType": "SR22",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-04-08T18:43:11.973Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.618,
-      -122.5339
+      45.6182,
+      -122.5379
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-18T17:51:34.303Z"
+  "timestamp": "2026-08-18T19:10:46.653Z"
 }
