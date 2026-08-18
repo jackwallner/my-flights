@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.7,
-    "altitude": 20000,
-    "speed": 341,
-    "timestamp": "2026-08-18T02:55:34.690Z",
-    "lat": 45.6137,
-    "lon": -122.5272,
+    "distance": 0.47,
+    "altitude": 30000,
+    "speed": 386,
+    "timestamp": "2026-08-18T03:35:59.876Z",
+    "lat": 45.6314,
+    "lon": -122.5351,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SUMO61",
-    "aircraftType": "C30J",
-    "origin": "NKX",
-    "destination": null,
-    "firstSeen": "2026-08-18T02:55:34.683Z"
+    "callsign": "QXE2040",
+    "aircraftType": "E175",
+    "origin": "MFR",
+    "destination": "SEA",
+    "firstSeen": "2026-07-06T03:30:21.461Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.47,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6137,
-      -122.5272
+      45.6314,
+      -122.5351
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-18T02:56:05.456Z"
+  "status": "tracking",
+  "timestamp": "2026-08-18T03:35:59.876Z"
 }
