@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 29775,
-    "speed": 435,
-    "timestamp": "2026-08-18T04:20:03.114Z",
-    "lat": 45.6326,
-    "lon": -122.5374,
+    "distance": 0.53,
+    "altitude": 36100,
+    "speed": 428,
+    "timestamp": "2026-08-18T04:33:35.520Z",
+    "lat": 45.621,
+    "lon": -122.5391,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA930",
-    "aircraftType": "A330",
-    "origin": "OGG",
+    "callsign": "ASA599",
+    "aircraftType": "B39M",
+    "origin": "RNO",
     "destination": "SEA",
-    "firstSeen": "2026-08-18T04:20:03.108Z"
+    "firstSeen": "2026-02-23T04:28:18.295Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6326,
-      -122.5374
+      45.621,
+      -122.5391
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-18T04:20:33.929Z"
+  "timestamp": "2026-08-18T04:34:06.381Z"
 }
