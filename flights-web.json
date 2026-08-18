@@ -1,11 +1,11 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 1400,
-    "speed": 98,
-    "timestamp": "2026-08-18T19:10:15.884Z",
-    "lat": 45.6182,
-    "lon": -122.5379,
+    "distance": 0.62,
+    "altitude": 1325,
+    "speed": 99,
+    "timestamp": "2026-08-18T19:13:00.385Z",
+    "lat": 45.6178,
+    "lon": -122.5383,
     "precision": "tracked"
   },
   "flight": {
@@ -15,15 +15,15 @@
     "destination": null,
     "firstSeen": "2026-04-08T18:43:11.973Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.62,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6182,
-      -122.5379
+      45.6178,
+      -122.5383
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-18T19:10:46.653Z"
+  "status": "tracking",
+  "timestamp": "2026-08-18T19:13:00.385Z"
 }
