@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.26,
-    "altitude": 30200,
-    "speed": 430,
-    "timestamp": "2026-08-18T17:47:48.456Z",
-    "lat": 45.6254,
-    "lon": -122.5219,
+    "distance": 0.5,
+    "altitude": 6775,
+    "speed": 238,
+    "timestamp": "2026-08-18T17:51:03.548Z",
+    "lat": 45.618,
+    "lon": -122.5339,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW5736",
-    "aircraftType": "E175",
-    "origin": "LAX",
-    "destination": "SEA",
-    "firstSeen": "2026-08-18T17:47:48.449Z"
+    "callsign": "ABX814",
+    "aircraftType": "767",
+    "origin": "SEA",
+    "destination": "PDX",
+    "firstSeen": "2026-04-30T17:15:03.247Z"
   },
-  "overheadScore": 0.26,
+  "overheadScore": 0.5,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6254,
-      -122.5219
+      45.618,
+      -122.5339
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-18T17:48:19.208Z"
+  "timestamp": "2026-08-18T17:51:34.303Z"
 }
