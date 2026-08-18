@@ -27763,5 +27763,24 @@
     "initialDistance": 0.5875554244679018,
     "initialAltitude": 29775,
     "initialSpeed": 435
+  },
+  {
+    "callsign": "SKW5736",
+    "flightNumber": "UA5736",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "SEA",
+    "icao": "ABB5E7",
+    "registration": "N85374",
+    "firstSeen": "2026-08-18T17:47:48.449Z",
+    "lastSeen": "2026-08-18T17:47:48.449Z",
+    "duration": 0,
+    "closestDistance": 0.2609215969890394,
+    "closestAltitude": 30200,
+    "closestSpeed": 430,
+    "initialDistance": 0.2609215969890394,
+    "initialAltitude": 30200,
+    "initialSpeed": 430
   }
 ]
