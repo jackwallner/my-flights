@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 8900,
-    "speed": 167,
-    "timestamp": "2026-08-18T00:17:10.979Z",
-    "lat": 45.6183,
-    "lon": -122.5261,
+    "distance": 0.7,
+    "altitude": 20000,
+    "speed": 341,
+    "timestamp": "2026-08-18T02:55:34.690Z",
+    "lat": 45.6137,
+    "lon": -122.5272,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N969DW",
-    "aircraftType": "S22T",
-    "origin": "OLM",
-    "destination": "SAC",
-    "firstSeen": "2026-08-18T00:16:50.441Z"
+    "callsign": "SUMO61",
+    "aircraftType": "C30J",
+    "origin": "NKX",
+    "destination": null,
+    "firstSeen": "2026-08-18T02:55:34.683Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.7,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6347,
-      -122.53
-    ],
-    [
-      45.6183,
-      -122.5261
+      45.6137,
+      -122.5272
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-18T00:17:21.224Z"
+  "timestamp": "2026-08-18T02:56:05.456Z"
 }
