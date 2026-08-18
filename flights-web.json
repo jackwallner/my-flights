@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 1400,
-    "speed": 94,
-    "timestamp": "2026-08-18T19:18:59.199Z",
-    "lat": 45.6154,
-    "lon": -122.534,
+    "distance": 0.54,
+    "altitude": 36000,
+    "speed": 444,
+    "timestamp": "2026-08-18T19:29:45.544Z",
+    "lat": 45.6287,
+    "lon": -122.5401,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N589RC",
-    "aircraftType": "SR22",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-04-08T18:43:11.973Z"
+    "callsign": "ASA471",
+    "aircraftType": "737",
+    "origin": "SNA",
+    "destination": "SEA",
+    "firstSeen": "2026-06-22T19:37:33.232Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6154,
-      -122.534
-    ],
-    [
-      45.6174,
-      -122.5398
+      45.6287,
+      -122.5401
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-18T19:19:29.962Z"
+  "status": "tracking",
+  "timestamp": "2026-08-18T19:29:45.544Z"
 }
