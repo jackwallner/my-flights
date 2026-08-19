@@ -1,57 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0,
-    "altitude": 1250,
-    "speed": 104,
-    "timestamp": "2026-08-19T18:31:51.385Z",
-    "lat": 45.6252,
-    "lon": -122.5281,
+    "distance": 0.46,
+    "altitude": 2425,
+    "speed": 95,
+    "timestamp": "2026-08-19T18:39:34.929Z",
+    "lat": 45.6312,
+    "lon": -122.5352,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N2181N",
-    "aircraftType": "C182",
+    "callsign": "N725FA",
+    "aircraftType": "RV12",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-18T16:46:15.311Z"
+    "firstSeen": "2026-06-11T20:05:42.436Z"
   },
-  "overheadScore": 0,
+  "overheadScore": 0.46,
   "isOverhead": true,
-  "pathSnapshots": 8,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6144,
-      -122.5294
+      45.635,
+      -122.5312
     ],
     [
-      45.6252,
-      -122.5281
+      45.6312,
+      -122.5352
     ],
     [
-      45.6205,
-      -122.5239
-    ],
-    [
-      45.6162,
-      -122.5279
-    ],
-    [
-      45.6159,
-      -122.5331
-    ],
-    [
-      45.6275,
-      -122.5318
-    ],
-    [
-      45.6212,
-      -122.5254
-    ],
-    [
-      45.619,
-      -122.5378
+      45.6239,
+      -122.5434
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-19T18:33:34.207Z"
+  "status": "completed",
+  "timestamp": "2026-08-19T18:40:05.796Z"
 }
