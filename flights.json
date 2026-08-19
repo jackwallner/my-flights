@@ -27801,5 +27801,24 @@
     "initialDistance": 0.5976001433307832,
     "initialAltitude": 5500,
     "initialSpeed": 245
+  },
+  {
+    "callsign": "SWA4204",
+    "flightNumber": "WN4204",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "LAS",
+    "destination": "ANC",
+    "icao": "AC04F5",
+    "registration": "N8738K",
+    "firstSeen": "2026-08-19T03:10:33.430Z",
+    "lastSeen": "2026-08-19T03:10:33.430Z",
+    "duration": 0,
+    "closestDistance": 0.5134088751342555,
+    "closestAltitude": 32000,
+    "closestSpeed": 468,
+    "initialDistance": 0.5134088751342555,
+    "initialAltitude": 32000,
+    "initialSpeed": 468
   }
 ]
