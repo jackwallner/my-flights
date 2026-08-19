@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 1175,
-    "speed": 102,
-    "timestamp": "2026-08-19T18:30:28.557Z",
-    "lat": 45.6221,
-    "lon": -122.5376,
-    "precision": "tracked"
+    "distance": 0,
+    "altitude": 1250,
+    "speed": 104,
+    "timestamp": "2026-08-19T18:31:51.385Z",
+    "lat": 45.6252,
+    "lon": -122.5281,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N2181N",
@@ -15,19 +15,31 @@
     "destination": null,
     "firstSeen": "2026-03-18T16:46:15.311Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6177,
-      -122.5402
+      45.6144,
+      -122.5294
     ],
     [
-      45.6221,
-      -122.5376
+      45.6252,
+      -122.5281
+    ],
+    [
+      45.6205,
+      -122.5239
+    ],
+    [
+      45.6162,
+      -122.5279
+    ],
+    [
+      45.6159,
+      -122.5331
     ]
   ],
   "status": "tracking",
-  "timestamp": "2026-08-19T18:30:28.557Z"
+  "timestamp": "2026-08-19T18:32:22.222Z"
 }
