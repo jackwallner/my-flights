@@ -27820,5 +27820,24 @@
     "initialDistance": 0.5134088751342555,
     "initialAltitude": 32000,
     "initialSpeed": 468
+  },
+  {
+    "callsign": "N66HC",
+    "flightNumber": null,
+    "aircraftType": "SR20",
+    "aircraftName": null,
+    "origin": "RNT",
+    "destination": "PDX",
+    "icao": "A8B292",
+    "registration": "N66HC",
+    "firstSeen": "2026-08-19T05:06:41.455Z",
+    "lastSeen": "2026-08-19T05:06:41.455Z",
+    "duration": 0,
+    "closestDistance": 0.4196486186555566,
+    "closestAltitude": 2100,
+    "closestSpeed": 147,
+    "initialDistance": 0.4196486186555566,
+    "initialAltitude": 2100,
+    "initialSpeed": 147
   }
 ]
