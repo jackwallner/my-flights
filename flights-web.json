@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 24000,
-    "speed": 443,
-    "timestamp": "2026-08-19T05:35:27.200Z",
-    "lat": 45.6197,
-    "lon": -122.5255,
+    "distance": 0.31,
+    "altitude": 37150,
+    "speed": 465,
+    "timestamp": "2026-08-19T14:44:36.163Z",
+    "lat": 45.6222,
+    "lon": -122.5222,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "MULE42",
-    "aircraftType": "C17",
-    "origin": "SUU",
-    "destination": null,
-    "firstSeen": "2026-08-19T05:35:27.194Z"
+    "callsign": "ASA607",
+    "aircraftType": "737",
+    "origin": "ONT",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T16:03:21.448Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6197,
-      -122.5255
+      45.6222,
+      -122.5222
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-19T05:35:57.985Z"
+  "timestamp": "2026-08-19T14:45:06.919Z"
 }
