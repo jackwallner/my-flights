@@ -27839,5 +27839,24 @@
     "initialDistance": 0.4196486186555566,
     "initialAltitude": 2100,
     "initialSpeed": 147
+  },
+  {
+    "callsign": "MULE42",
+    "flightNumber": null,
+    "aircraftType": "C17",
+    "aircraftName": null,
+    "origin": "SUU",
+    "destination": null,
+    "icao": "AE119D",
+    "registration": "03-3120",
+    "firstSeen": "2026-08-19T05:35:27.194Z",
+    "lastSeen": "2026-08-19T05:35:27.194Z",
+    "duration": 0,
+    "closestDistance": 0.35254305543369996,
+    "closestAltitude": 24000,
+    "closestSpeed": 443,
+    "initialDistance": 0.35254305543369996,
+    "initialAltitude": 24000,
+    "initialSpeed": 443
   }
 ]

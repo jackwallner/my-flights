@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 2100,
-    "speed": 147,
-    "timestamp": "2026-08-19T05:06:41.463Z",
-    "lat": 45.6203,
-    "lon": -122.5211,
+    "distance": 0.35,
+    "altitude": 24000,
+    "speed": 443,
+    "timestamp": "2026-08-19T05:35:27.200Z",
+    "lat": 45.6197,
+    "lon": -122.5255,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N66HC",
-    "aircraftType": "SR20",
-    "origin": "RNT",
-    "destination": "PDX",
-    "firstSeen": "2026-08-19T05:06:41.455Z"
+    "callsign": "MULE42",
+    "aircraftType": "C17",
+    "origin": "SUU",
+    "destination": null,
+    "firstSeen": "2026-08-19T05:35:27.194Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.35,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6203,
-      -122.5211
+      45.6197,
+      -122.5255
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-19T05:07:12.205Z"
+  "timestamp": "2026-08-19T05:35:57.985Z"
 }
