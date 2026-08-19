@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 5500,
-    "speed": 245,
-    "timestamp": "2026-08-19T00:29:55.000Z",
-    "lat": 45.6245,
-    "lon": -122.5423,
+    "distance": 0.22,
+    "altitude": 35125,
+    "speed": 446,
+    "timestamp": "2026-08-19T01:36:19.003Z",
+    "lat": 45.6225,
+    "lon": -122.5317,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "LXJ418",
-    "aircraftType": "E545",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-08-19T00:29:54.995Z"
+    "callsign": "SWA2449",
+    "aircraftType": "B737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-08-12T01:22:41.856Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.22,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6245,
-      -122.5423
+      45.6225,
+      -122.5317
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-19T00:30:25.713Z"
+  "status": "tracking",
+  "timestamp": "2026-08-19T01:36:19.003Z"
 }
