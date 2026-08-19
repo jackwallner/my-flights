@@ -27877,5 +27877,24 @@
     "initialDistance": 0.6600540301872782,
     "initialAltitude": 1050,
     "initialSpeed": 141
+  },
+  {
+    "callsign": "170037",
+    "flightNumber": null,
+    "aircraftType": "C30J",
+    "aircraftName": null,
+    "origin": "TCM",
+    "destination": null,
+    "icao": "AE6A12",
+    "registration": "170037",
+    "firstSeen": "2026-08-19T22:35:32.129Z",
+    "lastSeen": "2026-08-19T22:35:32.129Z",
+    "duration": 0,
+    "closestDistance": 0.5060975277428301,
+    "closestAltitude": 24000,
+    "closestSpeed": 311,
+    "initialDistance": 0.5060975277428301,
+    "initialAltitude": 24000,
+    "initialSpeed": 311
   }
 ]

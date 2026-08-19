@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 1050,
-    "speed": 141,
-    "timestamp": "2026-08-19T20:58:26.424Z",
-    "lat": 45.6304,
-    "lon": -122.5142,
+    "distance": 0.51,
+    "altitude": 24000,
+    "speed": 311,
+    "timestamp": "2026-08-19T22:35:32.137Z",
+    "lat": 45.6317,
+    "lon": -122.5203,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N20LU",
-    "aircraftType": "TB21",
-    "origin": "PDX",
+    "callsign": "170037",
+    "aircraftType": "C30J",
+    "origin": "TCM",
     "destination": null,
-    "firstSeen": "2026-08-19T20:58:26.417Z"
+    "firstSeen": "2026-08-19T22:35:32.129Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.51,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6304,
-      -122.5142
+      45.6317,
+      -122.5203
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-19T20:58:57.212Z"
+  "timestamp": "2026-08-19T22:36:02.910Z"
 }
