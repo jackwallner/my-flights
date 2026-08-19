@@ -27858,5 +27858,24 @@
     "initialDistance": 0.35254305543369996,
     "initialAltitude": 24000,
     "initialSpeed": 443
+  },
+  {
+    "callsign": "N20LU",
+    "flightNumber": null,
+    "aircraftType": "TB21",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A190B7",
+    "registration": "N20LU",
+    "firstSeen": "2026-08-19T20:58:26.417Z",
+    "lastSeen": "2026-08-19T20:58:26.417Z",
+    "duration": 0,
+    "closestDistance": 0.6600540301872782,
+    "closestAltitude": 1050,
+    "closestSpeed": 141,
+    "initialDistance": 0.6600540301872782,
+    "initialAltitude": 1050,
+    "initialSpeed": 141
   }
 ]

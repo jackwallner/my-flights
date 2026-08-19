@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 35575,
-    "speed": 453,
-    "timestamp": "2026-08-19T20:13:15.126Z",
-    "lat": 45.6347,
-    "lon": -122.5321,
+    "distance": 0.66,
+    "altitude": 1050,
+    "speed": 141,
+    "timestamp": "2026-08-19T20:58:26.424Z",
+    "lat": 45.6304,
+    "lon": -122.5142,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SWA747",
-    "aircraftType": "B737",
-    "origin": "LGB",
-    "destination": "SEA",
-    "firstSeen": "2026-08-12T20:16:53.684Z"
+    "callsign": "N20LU",
+    "aircraftType": "TB21",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-08-19T20:58:26.417Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.66,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6347,
-      -122.5321
+      45.6304,
+      -122.5142
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-19T20:13:46.659Z"
+  "timestamp": "2026-08-19T20:58:57.212Z"
 }
