@@ -27782,5 +27782,24 @@
     "initialDistance": 0.2609215969890394,
     "initialAltitude": 30200,
     "initialSpeed": 430
+  },
+  {
+    "callsign": "LXJ418",
+    "flightNumber": "LXJ418",
+    "aircraftType": "E545",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "HIO",
+    "icao": "A4F26B",
+    "registration": "N418FX",
+    "firstSeen": "2026-08-19T00:29:54.995Z",
+    "lastSeen": "2026-08-19T00:29:54.995Z",
+    "duration": 0,
+    "closestDistance": 0.5976001433307832,
+    "closestAltitude": 5500,
+    "closestSpeed": 245,
+    "initialDistance": 0.5976001433307832,
+    "initialAltitude": 5500,
+    "initialSpeed": 245
   }
 ]
