@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 2900,
-    "speed": 129,
-    "timestamp": "2026-08-19T03:54:10.659Z",
-    "lat": 45.616,
-    "lon": -122.5368,
+    "distance": 0.41,
+    "altitude": 30000,
+    "speed": 443,
+    "timestamp": "2026-08-19T04:09:13.929Z",
+    "lat": 45.6291,
+    "lon": -122.5201,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N8191G",
-    "aircraftType": "C182",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-02-11T22:15:44.790Z"
+    "callsign": "SWA3096",
+    "aircraftType": "737 ",
+    "origin": "SMF",
+    "destination": "SEA",
+    "firstSeen": "2026-08-13T04:41:02.252Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.616,
-      -122.5368
-    ],
-    [
-      45.6137,
-      -122.5282
+      45.6291,
+      -122.5201
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-19T03:54:41.476Z"
+  "timestamp": "2026-08-19T04:09:44.690Z"
 }
