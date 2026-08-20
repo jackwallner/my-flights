@@ -28010,5 +28010,24 @@
     "initialDistance": 0.43089478671650505,
     "initialAltitude": 31325,
     "initialSpeed": 463
+  },
+  {
+    "callsign": "TKR184",
+    "flightNumber": null,
+    "aircraftType": "DH8D",
+    "aircraftName": null,
+    "origin": "OLM",
+    "destination": null,
+    "icao": "AD272C",
+    "registration": "N947AC",
+    "firstSeen": "2026-08-20T23:45:32.311Z",
+    "lastSeen": "2026-08-20T23:45:32.311Z",
+    "duration": 0,
+    "closestDistance": 0.6014815029351069,
+    "closestAltitude": 17425,
+    "closestSpeed": 317,
+    "initialDistance": 0.6014815029351069,
+    "initialAltitude": 17425,
+    "initialSpeed": 317
   }
 ]
