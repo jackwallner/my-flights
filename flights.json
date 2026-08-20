@@ -27953,5 +27953,24 @@
     "initialDistance": 0.3058145001065925,
     "initialAltitude": 2950,
     "initialSpeed": 144
+  },
+  {
+    "callsign": "B58T",
+    "flightNumber": null,
+    "aircraftType": "B58T",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-08-20T15:09:56.165Z",
+    "lastSeen": "2026-08-20T15:09:56.165Z",
+    "duration": 0,
+    "closestDistance": 0.5613192484508673,
+    "closestAltitude": 1800,
+    "closestSpeed": 130,
+    "initialDistance": 0.5613192484508673,
+    "initialAltitude": 1800,
+    "initialSpeed": 130
   }
 ]
