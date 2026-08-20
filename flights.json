@@ -27896,5 +27896,24 @@
     "initialDistance": 0.5060975277428301,
     "initialAltitude": 24000,
     "initialSpeed": 311
+  },
+  {
+    "callsign": "ASA1373",
+    "flightNumber": "AS1373",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SAN",
+    "destination": "SEA",
+    "icao": "A9C506",
+    "registration": "N729AL",
+    "firstSeen": "2026-08-20T02:00:24.061Z",
+    "lastSeen": "2026-08-20T02:00:24.061Z",
+    "duration": 0,
+    "closestDistance": 0.6719230158116863,
+    "closestAltitude": 32850,
+    "closestSpeed": 434,
+    "initialDistance": 0.6719230158116863,
+    "initialAltitude": 32850,
+    "initialSpeed": 434
   }
 ]
