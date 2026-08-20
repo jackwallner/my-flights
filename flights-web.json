@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 33100,
-    "speed": 452,
-    "timestamp": "2026-08-20T02:05:01.507Z",
-    "lat": 45.6212,
-    "lon": -122.513,
+    "distance": 0.43,
+    "altitude": 31825,
+    "speed": 441,
+    "timestamp": "2026-08-20T02:40:47.488Z",
+    "lat": 45.6287,
+    "lon": -122.5372,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3707",
-    "aircraftType": "E175",
-    "origin": "SFO",
+    "callsign": "ASA745",
+    "aircraftType": "B39M",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T01:59:32.125Z"
+    "firstSeen": "2026-02-10T01:01:30.357Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.43,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6212,
-      -122.513
+      45.6287,
+      -122.5372
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-20T02:05:32.319Z"
+  "timestamp": "2026-08-20T02:41:18.271Z"
 }
