@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 30000,
-    "speed": 454,
-    "timestamp": "2026-08-20T02:45:14.753Z",
-    "lat": 45.6228,
-    "lon": -122.5198,
+    "distance": 0.54,
+    "altitude": 1550,
+    "speed": 112,
+    "timestamp": "2026-08-20T04:49:43.541Z",
+    "lat": 45.6179,
+    "lon": -122.5353,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2520",
-    "aircraftType": "E175",
-    "origin": "MFR",
-    "destination": "SEA",
-    "firstSeen": "2026-08-20T02:45:14.747Z"
+    "callsign": "N6758H",
+    "aircraftType": "C172",
+    "origin": "TIW",
+    "destination": null,
+    "firstSeen": "2026-01-31T19:49:55.976Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.54,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6228,
-      -122.5198
+      45.6179,
+      -122.5353
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-20T02:45:45.517Z"
+  "status": "tracking",
+  "timestamp": "2026-08-20T04:49:43.541Z"
 }
