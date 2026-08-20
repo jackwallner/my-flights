@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 24000,
-    "speed": 311,
-    "timestamp": "2026-08-19T22:35:32.137Z",
-    "lat": 45.6317,
-    "lon": -122.5203,
+    "distance": 0.61,
+    "altitude": 30000,
+    "speed": 441,
+    "timestamp": "2026-08-20T01:09:43.891Z",
+    "lat": 45.6319,
+    "lon": -122.539,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "170037",
-    "aircraftType": "C30J",
-    "origin": "TCM",
-    "destination": null,
-    "firstSeen": "2026-08-19T22:35:32.129Z"
+    "callsign": "SKW127T",
+    "aircraftType": "E175",
+    "origin": "MFR",
+    "destination": "SEA",
+    "firstSeen": "2026-02-27T02:14:48.738Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6317,
-      -122.5203
+      45.6319,
+      -122.539
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-19T22:36:02.910Z"
+  "timestamp": "2026-08-20T01:10:14.643Z"
 }
