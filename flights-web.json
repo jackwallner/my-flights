@@ -1,61 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 300,
-    "speed": 59,
-    "timestamp": "2026-08-20T16:10:18.558Z",
-    "lat": 45.6263,
-    "lon": -122.5311,
+    "distance": 0.01,
+    "altitude": 2375,
+    "speed": 152,
+    "timestamp": "2026-08-20T16:29:45.278Z",
+    "lat": 45.6252,
+    "lon": -122.5278,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N519F",
-    "aircraftType": "CH7B",
+    "callsign": "TDY1992",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "destination": "BFI",
+    "firstSeen": "2026-08-20T13:45:30.631Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.01,
   "isOverhead": true,
-  "pathSnapshots": 9,
+  "pathSnapshots": 3,
   "trail": [
     [
+      45.6183,
+      -122.5305
+    ],
+    [
       45.6252,
-      -122.5401
+      -122.5278
     ],
     [
-      45.6182,
-      -122.5347
-    ],
-    [
-      45.6204,
-      -122.5323
-    ],
-    [
-      45.6234,
-      -122.5316
-    ],
-    [
-      45.6263,
-      -122.5311
-    ],
-    [
-      45.6263,
-      -122.5311
-    ],
-    [
-      45.6263,
-      -122.5311
-    ],
-    [
-      45.6326,
-      -122.5301
-    ],
-    [
-      45.6343,
-      -122.5303
+      45.6327,
+      -122.528
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-20T16:11:40.948Z"
+  "status": "completed",
+  "timestamp": "2026-08-20T16:30:05.838Z"
 }
