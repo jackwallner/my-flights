@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 30000,
-    "speed": 441,
-    "timestamp": "2026-08-20T01:09:43.891Z",
-    "lat": 45.6319,
-    "lon": -122.539,
+    "distance": 0.37,
+    "altitude": 24000,
+    "speed": 322,
+    "timestamp": "2026-08-20T01:24:48.058Z",
+    "lat": 45.6232,
+    "lon": -122.5197,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW127T",
-    "aircraftType": "E175",
-    "origin": "MFR",
-    "destination": "SEA",
-    "firstSeen": "2026-02-27T02:14:48.738Z"
+    "callsign": "SUMO61",
+    "aircraftType": "C30J",
+    "origin": "NKX",
+    "destination": null,
+    "firstSeen": "2026-08-18T02:55:34.683Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.37,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6319,
-      -122.539
+      45.6232,
+      -122.5197
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-20T01:10:14.643Z"
+  "timestamp": "2026-08-20T01:25:18.842Z"
 }
