@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 4425,
-    "speed": 101,
-    "timestamp": "2026-08-20T15:56:23.482Z",
-    "lat": 45.6312,
-    "lon": -122.5423,
+    "distance": 0.47,
+    "altitude": 1200,
+    "speed": 82,
+    "timestamp": "2026-08-20T16:01:12.661Z",
+    "lat": 45.626,
+    "lon": -122.517,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N725FA",
-    "aircraftType": "RV12",
-    "origin": "TTD",
+    "callsign": "N519F",
+    "aircraftType": "CH7B",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-06-11T20:05:42.436Z"
+    "firstSeen": "2026-02-06T20:53:13.130Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.47,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6312,
-      -122.5423
+      45.626,
+      -122.517
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-20T15:56:54.532Z"
+  "status": "tracking",
+  "timestamp": "2026-08-20T16:01:12.661Z"
 }
