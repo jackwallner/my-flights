@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 31975,
-    "speed": 459,
-    "timestamp": "2026-08-20T15:23:46.295Z",
-    "lat": 45.6358,
-    "lon": -122.5298,
+    "distance": 0.41,
+    "altitude": 1400,
+    "speed": 81,
+    "timestamp": "2026-08-20T15:40:15.919Z",
+    "lat": 45.6309,
+    "lon": -122.5227,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA709",
-    "aircraftType": "B39M",
-    "origin": "SAN",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T16:33:54.998Z"
+    "callsign": "N441MR",
+    "aircraftType": "R44",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-08-20T15:40:15.912Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6358,
-      -122.5298
+      45.6309,
+      -122.5227
+    ],
+    [
+      45.6307,
+      -122.5173
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-20T15:24:17.202Z"
+  "timestamp": "2026-08-20T15:40:46.778Z"
 }
