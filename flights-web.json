@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 700,
-    "speed": 66,
-    "timestamp": "2026-08-20T16:09:16.875Z",
-    "lat": 45.6252,
-    "lon": -122.5401,
-    "precision": "tracked"
+    "distance": 0.14,
+    "altitude": 300,
+    "speed": 59,
+    "timestamp": "2026-08-20T16:10:18.558Z",
+    "lat": 45.6263,
+    "lon": -122.5311,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N519F",
@@ -15,15 +15,43 @@
     "destination": null,
     "firstSeen": "2026-02-06T20:53:13.130Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.14,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 8,
   "trail": [
     [
       45.6252,
       -122.5401
+    ],
+    [
+      45.6182,
+      -122.5347
+    ],
+    [
+      45.6204,
+      -122.5323
+    ],
+    [
+      45.6234,
+      -122.5316
+    ],
+    [
+      45.6263,
+      -122.5311
+    ],
+    [
+      45.6263,
+      -122.5311
+    ],
+    [
+      45.6263,
+      -122.5311
+    ],
+    [
+      45.6326,
+      -122.5301
     ]
   ],
   "status": "tracking",
-  "timestamp": "2026-08-20T16:09:16.875Z"
+  "timestamp": "2026-08-20T16:10:49.510Z"
 }
