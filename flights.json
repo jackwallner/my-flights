@@ -27934,5 +27934,24 @@
     "initialDistance": 0.37945445356393653,
     "initialAltitude": 30000,
     "initialSpeed": 454
+  },
+  {
+    "callsign": "TDY1992",
+    "flightNumber": "TDY1992",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A9AFA0",
+    "registration": "N723KP",
+    "firstSeen": "2026-08-20T13:45:30.631Z",
+    "lastSeen": "2026-08-20T13:45:30.631Z",
+    "duration": 0,
+    "closestDistance": 0.3058145001065925,
+    "closestAltitude": 2950,
+    "closestSpeed": 144,
+    "initialDistance": 0.3058145001065925,
+    "initialAltitude": 2950,
+    "initialSpeed": 144
   }
 ]
