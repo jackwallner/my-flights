@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 30900,
-    "speed": 452,
-    "timestamp": "2026-08-20T22:59:59.139Z",
-    "lat": 45.6221,
-    "lon": -122.518,
+    "distance": 0.43,
+    "altitude": 31325,
+    "speed": 463,
+    "timestamp": "2026-08-20T23:33:43.352Z",
+    "lat": 45.6272,
+    "lon": -122.538,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW6438",
-    "aircraftType": "E175",
-    "origin": "LAX",
+    "callsign": "ASA659",
+    "aircraftType": "B39M",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-08-11T22:40:05.164Z"
+    "firstSeen": "2026-08-20T23:33:43.347Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.43,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6221,
-      -122.518
+      45.6272,
+      -122.538
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-20T23:00:29.948Z"
+  "status": "tracking",
+  "timestamp": "2026-08-20T23:33:43.352Z"
 }

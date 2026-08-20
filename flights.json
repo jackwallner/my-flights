@@ -27991,5 +27991,24 @@
     "initialDistance": 0.4067786118168747,
     "initialAltitude": 1400,
     "initialSpeed": 81
+  },
+  {
+    "callsign": "ASA659",
+    "flightNumber": "AS659",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A99262",
+    "registration": "N716AL",
+    "firstSeen": "2026-08-20T23:33:43.347Z",
+    "lastSeen": "2026-08-20T23:33:43.347Z",
+    "duration": 0,
+    "closestDistance": 0.43089478671650505,
+    "closestAltitude": 31325,
+    "closestSpeed": 463,
+    "initialDistance": 0.43089478671650505,
+    "initialAltitude": 31325,
+    "initialSpeed": 463
   }
 ]
