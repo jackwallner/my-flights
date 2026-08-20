@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 31825,
-    "speed": 441,
-    "timestamp": "2026-08-20T02:40:47.488Z",
-    "lat": 45.6287,
-    "lon": -122.5372,
+    "distance": 0.38,
+    "altitude": 30000,
+    "speed": 454,
+    "timestamp": "2026-08-20T02:45:14.753Z",
+    "lat": 45.6228,
+    "lon": -122.5198,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA745",
-    "aircraftType": "B39M",
-    "origin": "SJC",
+    "callsign": "QXE2520",
+    "aircraftType": "E175",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-02-10T01:01:30.357Z"
+    "firstSeen": "2026-08-20T02:45:14.747Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.38,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6287,
-      -122.5372
+      45.6228,
+      -122.5198
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-20T02:41:18.271Z"
+  "status": "tracking",
+  "timestamp": "2026-08-20T02:45:14.753Z"
 }

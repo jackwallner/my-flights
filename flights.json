@@ -27915,5 +27915,24 @@
     "initialDistance": 0.6719230158116863,
     "initialAltitude": 32850,
     "initialSpeed": 434
+  },
+  {
+    "callsign": "QXE2520",
+    "flightNumber": "AS2520",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "SEA",
+    "icao": "A842E7",
+    "registration": "N631QX",
+    "firstSeen": "2026-08-20T02:45:14.747Z",
+    "lastSeen": "2026-08-20T02:45:14.747Z",
+    "duration": 0,
+    "closestDistance": 0.37945445356393653,
+    "closestAltitude": 30000,
+    "closestSpeed": 454,
+    "initialDistance": 0.37945445356393653,
+    "initialAltitude": 30000,
+    "initialSpeed": 454
   }
 ]
