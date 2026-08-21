@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 35375,
-    "speed": 469,
-    "timestamp": "2026-08-21T18:42:04.254Z",
-    "lat": 45.6246,
-    "lon": -122.5402,
+    "distance": 0.58,
+    "altitude": 6000,
+    "speed": 251,
+    "timestamp": "2026-08-21T19:49:54.112Z",
+    "lat": 45.619,
+    "lon": -122.5177,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N34SJ",
+    "callsign": "N741MM",
     "aircraftType": "Cita",
-    "origin": "CLD",
-    "destination": "BFI",
-    "firstSeen": "2026-08-21T18:42:04.247Z"
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-04-23T22:11:25.979Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.58,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6246,
-      -122.5402
+      45.628,
+      -122.5131
+    ],
+    [
+      45.619,
+      -122.5177
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-21T18:42:35.058Z"
+  "timestamp": "2026-08-21T19:50:14.635Z"
 }
