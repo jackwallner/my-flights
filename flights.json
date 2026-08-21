@@ -28048,5 +28048,24 @@
     "initialDistance": 0.16798922784848216,
     "initialAltitude": 17325,
     "initialSpeed": 388
+  },
+  {
+    "callsign": "ASA1398",
+    "flightNumber": "AS1398",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A5521C",
+    "registration": "N442AS",
+    "firstSeen": "2026-08-21T04:43:00.700Z",
+    "lastSeen": "2026-08-21T04:43:00.700Z",
+    "duration": 0,
+    "closestDistance": 0.11339278661442712,
+    "closestAltitude": 31375,
+    "closestSpeed": 476,
+    "initialDistance": 0.11339278661442712,
+    "initialAltitude": 31375,
+    "initialSpeed": 476
   }
 ]

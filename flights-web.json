@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 2000,
-    "speed": 105,
-    "timestamp": "2026-08-21T01:51:13.247Z",
-    "lat": 45.6362,
-    "lon": -122.5246,
+    "distance": 0.11,
+    "altitude": 31375,
+    "speed": 476,
+    "timestamp": "2026-08-21T04:43:00.709Z",
+    "lat": 45.6248,
+    "lon": -122.5255,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N2414T",
-    "aircraftType": "BRAV",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-28T01:34:36.194Z"
+    "callsign": "ASA1398",
+    "aircraftType": "737",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-08-21T04:43:00.700Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6362,
-      -122.5246
-    ],
-    [
-      45.6339,
-      -122.5392
+      45.6248,
+      -122.5255
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-21T01:51:44.042Z"
+  "timestamp": "2026-08-21T04:43:31.535Z"
 }
