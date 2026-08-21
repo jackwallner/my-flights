@@ -28029,5 +28029,24 @@
     "initialDistance": 0.6014815029351069,
     "initialAltitude": 17425,
     "initialSpeed": 317
+  },
+  {
+    "callsign": "TKR137",
+    "flightNumber": "CUL137",
+    "aircraftType": "B733",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": "RDM",
+    "icao": "A0956B",
+    "registration": "N137CG",
+    "firstSeen": "2026-08-21T00:18:15.265Z",
+    "lastSeen": "2026-08-21T00:18:15.265Z",
+    "duration": 0,
+    "closestDistance": 0.16798922784848216,
+    "closestAltitude": 17325,
+    "closestSpeed": 388,
+    "initialDistance": 0.16798922784848216,
+    "initialAltitude": 17325,
+    "initialSpeed": 388
   }
 ]

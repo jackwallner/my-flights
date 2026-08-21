@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 17425,
-    "speed": 317,
-    "timestamp": "2026-08-20T23:45:32.317Z",
-    "lat": 45.6208,
-    "lon": -122.5153,
+    "distance": 0.17,
+    "altitude": 17325,
+    "speed": 388,
+    "timestamp": "2026-08-21T00:18:15.270Z",
+    "lat": 45.6274,
+    "lon": -122.5255,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "TKR184",
-    "aircraftType": "Dash",
-    "origin": "OLM",
-    "destination": null,
-    "firstSeen": "2026-08-20T23:45:32.311Z"
+    "callsign": "TKR137",
+    "aircraftType": "B733",
+    "origin": "RDM",
+    "destination": "RDM",
+    "firstSeen": "2026-08-21T00:18:15.265Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.17,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6208,
-      -122.5153
+      45.6274,
+      -122.5255
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-20T23:46:03.096Z"
+  "status": "tracking",
+  "timestamp": "2026-08-21T00:18:15.270Z"
 }
