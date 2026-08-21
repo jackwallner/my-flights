@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 39400,
-    "speed": 468,
-    "timestamp": "2026-08-21T20:16:17.385Z",
-    "lat": 45.616,
-    "lon": -122.5234,
+    "distance": 0.43,
+    "altitude": 1925,
+    "speed": 106,
+    "timestamp": "2026-08-21T20:30:51.062Z",
+    "lat": 45.6186,
+    "lon": -122.5246,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PXT466",
-    "aircraftType": "Cita",
-    "origin": "RNO",
-    "destination": "BFI",
-    "firstSeen": "2026-08-21T20:16:17.382Z"
+    "callsign": "N64269",
+    "aircraftType": "C172",
+    "origin": "QSA",
+    "destination": null,
+    "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.43,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.616,
-      -122.5234
+      45.6183,
+      -122.532
+    ],
+    [
+      45.6186,
+      -122.5246
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-21T20:16:48.160Z"
+  "timestamp": "2026-08-21T20:31:11.597Z"
 }
