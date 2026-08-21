@@ -28105,5 +28105,24 @@
     "initialDistance": 0.5092233561464387,
     "initialAltitude": 35375,
     "initialSpeed": 469
+  },
+  {
+    "callsign": "PXT466",
+    "flightNumber": "PXT466",
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "RNO",
+    "destination": "BFI",
+    "icao": "A5B062",
+    "registration": "N466F",
+    "firstSeen": "2026-08-21T20:16:17.382Z",
+    "lastSeen": "2026-08-21T20:16:17.382Z",
+    "duration": 0,
+    "closestDistance": 0.5912869743777714,
+    "closestAltitude": 39400,
+    "closestSpeed": 468,
+    "initialDistance": 0.5912869743777714,
+    "initialAltitude": 39400,
+    "initialSpeed": 468
   }
 ]
