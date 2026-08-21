@@ -28067,5 +28067,24 @@
     "initialDistance": 0.11339278661442712,
     "initialAltitude": 31375,
     "initialSpeed": 476
+  },
+  {
+    "callsign": "N717GW",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": "YKM",
+    "icao": "A996B9",
+    "registration": "N717GW",
+    "firstSeen": "2026-08-21T17:35:56.178Z",
+    "lastSeen": "2026-08-21T17:35:56.178Z",
+    "duration": 0,
+    "closestDistance": 0.5337978165189683,
+    "closestAltitude": 3950,
+    "closestSpeed": 148,
+    "initialDistance": 0.5337978165189683,
+    "initialAltitude": 3950,
+    "initialSpeed": 148
   }
 ]
