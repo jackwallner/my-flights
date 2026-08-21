@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 31375,
-    "speed": 476,
-    "timestamp": "2026-08-21T04:43:00.709Z",
-    "lat": 45.6248,
-    "lon": -122.5255,
+    "distance": 0.23,
+    "altitude": 31325,
+    "speed": 482,
+    "timestamp": "2026-08-21T15:32:09.113Z",
+    "lat": 45.6278,
+    "lon": -122.5323,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1398",
-    "aircraftType": "737",
+    "callsign": "SKW4041",
+    "aircraftType": "E175",
     "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-08-21T04:43:00.700Z"
+    "firstSeen": "2026-02-09T17:26:31.870Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.23,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6248,
-      -122.5255
+      45.6278,
+      -122.5323
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-21T04:43:31.535Z"
+  "timestamp": "2026-08-21T15:32:39.916Z"
 }
