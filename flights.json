@@ -28086,5 +28086,24 @@
     "initialDistance": 0.5337978165189683,
     "initialAltitude": 3950,
     "initialSpeed": 148
+  },
+  {
+    "callsign": "N34SJ",
+    "flightNumber": null,
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "CLD",
+    "destination": "BFI",
+    "icao": "A3BC8E",
+    "registration": "N34SJ",
+    "firstSeen": "2026-08-21T18:42:04.247Z",
+    "lastSeen": "2026-08-21T18:42:04.247Z",
+    "duration": 0,
+    "closestDistance": 0.5092233561464387,
+    "closestAltitude": 35375,
+    "closestSpeed": 469,
+    "initialDistance": 0.5092233561464387,
+    "initialAltitude": 35375,
+    "initialSpeed": 469
   }
 ]

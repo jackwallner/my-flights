@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 3950,
-    "speed": 148,
-    "timestamp": "2026-08-21T17:35:56.186Z",
-    "lat": 45.6264,
-    "lon": -122.5155,
+    "distance": 0.51,
+    "altitude": 35375,
+    "speed": 469,
+    "timestamp": "2026-08-21T18:42:04.254Z",
+    "lat": 45.6246,
+    "lon": -122.5402,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N717GW",
-    "aircraftType": "S22T",
-    "origin": "TTD",
-    "destination": "YKM",
-    "firstSeen": "2026-08-21T17:35:56.178Z"
+    "callsign": "N34SJ",
+    "aircraftType": "Cita",
+    "origin": "CLD",
+    "destination": "BFI",
+    "firstSeen": "2026-08-21T18:42:04.247Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6264,
-      -122.5155
-    ],
-    [
-      45.6332,
-      -122.5215
+      45.6246,
+      -122.5402
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-21T17:36:26.987Z"
+  "status": "tracking",
+  "timestamp": "2026-08-21T18:42:04.254Z"
 }
