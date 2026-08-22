@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 40000,
-    "speed": 517,
-    "timestamp": "2026-08-22T19:22:55.815Z",
-    "lat": 45.6167,
-    "lon": -122.5197,
+    "distance": 0.68,
+    "altitude": 1700,
+    "speed": 98,
+    "timestamp": "2026-08-22T20:27:00.106Z",
+    "lat": 45.6361,
+    "lon": -122.5326,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA759",
-    "aircraftType": "CL35",
-    "origin": "BUR",
-    "destination": "BFI",
-    "firstSeen": "2026-08-22T19:22:55.808Z"
+    "callsign": "N545DS",
+    "aircraftType": "C172",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-03-18T22:38:02.420Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.68,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6167,
-      -122.5197
+      45.6361,
+      -122.5326
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-22T19:23:26.586Z"
+  "status": "tracking",
+  "timestamp": "2026-08-22T20:27:00.106Z"
 }
