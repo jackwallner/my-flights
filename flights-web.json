@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 3850,
-    "speed": 202,
-    "timestamp": "2026-08-22T15:46:55.544Z",
-    "lat": 45.6206,
-    "lon": -122.5406,
+    "distance": 0.4,
+    "altitude": 1150,
+    "speed": 120,
+    "timestamp": "2026-08-22T16:52:16.484Z",
+    "lat": 45.6189,
+    "lon": -122.5254,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
+    "callsign": "N2181N",
+    "aircraftType": "C182",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "firstSeen": "2026-03-18T16:46:15.311Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.4,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6206,
-      -122.5406
+      45.6189,
+      -122.5254
+    ],
+    [
+      45.624,
+      -122.5392
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-22T15:47:26.323Z"
+  "status": "tracking",
+  "timestamp": "2026-08-22T16:52:37.002Z"
 }
