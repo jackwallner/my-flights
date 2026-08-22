@@ -28143,5 +28143,24 @@
     "initialDistance": 0.6058742513848733,
     "initialAltitude": 32100,
     "initialSpeed": 498
+  },
+  {
+    "callsign": "N938AX",
+    "flightNumber": null,
+    "aircraftType": "M7",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "PDX",
+    "icao": "AD0377",
+    "registration": "N938AX",
+    "firstSeen": "2026-08-22T02:08:40.736Z",
+    "lastSeen": "2026-08-22T02:08:40.736Z",
+    "duration": 0,
+    "closestDistance": 0.49970502083480844,
+    "closestAltitude": 2050,
+    "closestSpeed": 89,
+    "initialDistance": 0.49970502083480844,
+    "initialAltitude": 2050,
+    "initialSpeed": 89
   }
 ]
