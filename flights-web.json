@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 34000,
-    "speed": 504,
-    "timestamp": "2026-08-22T18:35:00.030Z",
-    "lat": 45.6177,
-    "lon": -122.5271,
+    "distance": 0.62,
+    "altitude": 40000,
+    "speed": 517,
+    "timestamp": "2026-08-22T19:22:55.815Z",
+    "lat": 45.6167,
+    "lon": -122.5197,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3750",
-    "aircraftType": "E175",
-    "origin": "BOI",
-    "destination": "SEA",
-    "firstSeen": "2026-08-22T18:35:00.025Z"
+    "callsign": "EJA759",
+    "aircraftType": "CL35",
+    "origin": "BUR",
+    "destination": "BFI",
+    "firstSeen": "2026-08-22T19:22:55.808Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.62,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6177,
-      -122.5271
+      45.6167,
+      -122.5197
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-22T18:35:30.773Z"
+  "status": "tracking",
+  "timestamp": "2026-08-22T19:22:55.815Z"
 }

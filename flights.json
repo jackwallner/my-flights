@@ -28181,5 +28181,24 @@
     "initialDistance": 0.4571109764833969,
     "initialAltitude": 34000,
     "initialSpeed": 504
+  },
+  {
+    "callsign": "EJA759",
+    "flightNumber": "EJA759",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "BUR",
+    "destination": "BFI",
+    "icao": "AA3CE7",
+    "registration": "N759QS",
+    "firstSeen": "2026-08-22T19:22:55.808Z",
+    "lastSeen": "2026-08-22T19:22:55.808Z",
+    "duration": 0,
+    "closestDistance": 0.6246376036230428,
+    "closestAltitude": 40000,
+    "closestSpeed": 517,
+    "initialDistance": 0.6246376036230428,
+    "initialAltitude": 40000,
+    "initialSpeed": 517
   }
 ]
