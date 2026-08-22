@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 1700,
-    "speed": 98,
-    "timestamp": "2026-08-22T20:27:00.106Z",
-    "lat": 45.6361,
-    "lon": -122.5326,
-    "precision": "tracked"
+    "distance": 0.17,
+    "altitude": 1225,
+    "speed": 112,
+    "timestamp": "2026-08-22T21:24:24.311Z",
+    "lat": 45.6232,
+    "lon": -122.5307,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N545DS",
+    "callsign": "N738FD",
     "aircraftType": "C172",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-18T22:38:02.420Z"
+    "firstSeen": "2026-03-16T21:51:17.244Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.17,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6361,
-      -122.5326
+      45.6233,
+      -122.5445
+    ],
+    [
+      45.6232,
+      -122.5307
+    ],
+    [
+      45.6231,
+      -122.522
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-22T20:27:30.889Z"
+  "timestamp": "2026-08-22T21:24:44.853Z"
 }
