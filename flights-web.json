@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.43,
-    "altitude": 1925,
-    "speed": 106,
-    "timestamp": "2026-08-21T20:30:51.062Z",
-    "lat": 45.6186,
-    "lon": -122.5246,
+    "distance": 0.26,
+    "altitude": 33825,
+    "speed": 515,
+    "timestamp": "2026-08-22T01:24:29.493Z",
+    "lat": 45.6282,
+    "lon": -122.5234,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "callsign": "ASA630",
+    "aircraftType": "B39M",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-06-16T21:41:16.864Z"
   },
-  "overheadScore": 0.43,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6183,
-      -122.532
-    ],
-    [
-      45.6186,
-      -122.5246
+      45.6282,
+      -122.5234
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-21T20:31:11.597Z"
+  "timestamp": "2026-08-22T01:25:00.279Z"
 }
