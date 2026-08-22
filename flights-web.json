@@ -1,11 +1,11 @@
 {
   "closestApproach": {
     "distance": 0.5,
-    "altitude": 2050,
-    "speed": 89,
-    "timestamp": "2026-08-22T02:08:40.743Z",
-    "lat": 45.6249,
-    "lon": -122.54,
+    "altitude": 2325,
+    "speed": 96,
+    "timestamp": "2026-08-22T02:09:21.887Z",
+    "lat": 45.6241,
+    "lon": -122.5164,
     "precision": "tracked"
   },
   "flight": {
@@ -20,10 +20,10 @@
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6249,
-      -122.54
+      45.6241,
+      -122.5164
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-22T02:09:11.550Z"
+  "status": "tracking",
+  "timestamp": "2026-08-22T02:09:21.887Z"
 }
