@@ -28200,5 +28200,24 @@
     "initialDistance": 0.6246376036230428,
     "initialAltitude": 40000,
     "initialSpeed": 517
+  },
+  {
+    "callsign": "ASA536",
+    "flightNumber": "AS536",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "SEA",
+    "icao": "A7687B",
+    "registration": "N577AS",
+    "firstSeen": "2026-08-22T22:50:41.325Z",
+    "lastSeen": "2026-08-22T22:50:41.325Z",
+    "duration": 0,
+    "closestDistance": 0.6576704434242787,
+    "closestAltitude": 36025,
+    "closestSpeed": 491,
+    "initialDistance": 0.6576704434242787,
+    "initialAltitude": 36025,
+    "initialSpeed": 491
   }
 ]
