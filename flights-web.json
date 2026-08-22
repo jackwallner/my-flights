@@ -1,29 +1,29 @@
 {
   "closestApproach": {
     "distance": 0.61,
-    "altitude": 32100,
-    "speed": 498,
-    "timestamp": "2026-08-22T01:39:02.959Z",
-    "lat": 45.631,
-    "lon": -122.54,
+    "altitude": 35400,
+    "speed": 506,
+    "timestamp": "2026-08-22T01:50:11.027Z",
+    "lat": 45.6283,
+    "lon": -122.5421,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3391",
-    "aircraftType": "E175",
-    "origin": "SJC",
+    "callsign": "DAL2572",
+    "aircraftType": "737",
+    "origin": "SAN",
     "destination": "SEA",
-    "firstSeen": "2026-08-22T01:39:02.952Z"
+    "firstSeen": "2026-02-09T02:33:31.810Z"
   },
   "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.631,
-      -122.54
+      45.6283,
+      -122.5421
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-22T01:39:33.761Z"
+  "timestamp": "2026-08-22T01:50:41.796Z"
 }
