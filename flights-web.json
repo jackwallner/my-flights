@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 1150,
-    "speed": 120,
-    "timestamp": "2026-08-22T16:52:16.484Z",
-    "lat": 45.6189,
-    "lon": -122.5254,
+    "distance": 0.6,
+    "altitude": 1300,
+    "speed": 91,
+    "timestamp": "2026-08-22T17:12:39.726Z",
+    "lat": 45.6268,
+    "lon": -122.5423,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N2181N",
-    "aircraftType": "C182",
-    "origin": "TTD",
+    "callsign": "N731PP",
+    "aircraftType": "SR22",
+    "origin": "EUG",
     "destination": null,
-    "firstSeen": "2026-03-18T16:46:15.311Z"
+    "firstSeen": "2026-06-30T01:19:25.876Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.6,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6189,
-      -122.5254
-    ],
-    [
-      45.624,
-      -122.5392
+      45.6268,
+      -122.5423
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-22T16:52:47.273Z"
+  "status": "tracking",
+  "timestamp": "2026-08-22T17:12:39.726Z"
 }
