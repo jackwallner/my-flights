@@ -28162,5 +28162,24 @@
     "initialDistance": 0.49970502083480844,
     "initialAltitude": 2050,
     "initialSpeed": 89
+  },
+  {
+    "callsign": "SKW3750",
+    "flightNumber": "DL3750",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "BOI",
+    "destination": "SEA",
+    "icao": "A314D9",
+    "registration": "N298SY",
+    "firstSeen": "2026-08-22T18:35:00.025Z",
+    "lastSeen": "2026-08-22T18:35:00.025Z",
+    "duration": 0,
+    "closestDistance": 0.4571109764833969,
+    "closestAltitude": 34000,
+    "closestSpeed": 504,
+    "initialDistance": 0.4571109764833969,
+    "initialAltitude": 34000,
+    "initialSpeed": 504
   }
 ]

@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 1300,
-    "speed": 91,
-    "timestamp": "2026-08-22T17:12:39.726Z",
-    "lat": 45.6268,
-    "lon": -122.5423,
+    "distance": 0.46,
+    "altitude": 34000,
+    "speed": 504,
+    "timestamp": "2026-08-22T18:35:00.030Z",
+    "lat": 45.6177,
+    "lon": -122.5271,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N731PP",
-    "aircraftType": "SR22",
-    "origin": "EUG",
-    "destination": null,
-    "firstSeen": "2026-06-30T01:19:25.876Z"
+    "callsign": "SKW3750",
+    "aircraftType": "E175",
+    "origin": "BOI",
+    "destination": "SEA",
+    "firstSeen": "2026-08-22T18:35:00.025Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6268,
-      -122.5423
+      45.6177,
+      -122.5271
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-22T17:12:39.726Z"
+  "status": "completed",
+  "timestamp": "2026-08-22T18:35:30.773Z"
 }
