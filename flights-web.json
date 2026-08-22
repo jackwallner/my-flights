@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 2325,
-    "speed": 96,
-    "timestamp": "2026-08-22T02:09:21.887Z",
-    "lat": 45.6241,
-    "lon": -122.5164,
+    "distance": 0.59,
+    "altitude": 3850,
+    "speed": 202,
+    "timestamp": "2026-08-22T15:46:55.544Z",
+    "lat": 45.6206,
+    "lon": -122.5406,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N938AX",
-    "aircraftType": "M7",
-    "origin": "PDX",
-    "destination": "PDX",
-    "firstSeen": "2026-08-22T02:08:40.736Z"
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6241,
-      -122.5164
+      45.6206,
+      -122.5406
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-22T02:09:21.887Z"
+  "status": "completed",
+  "timestamp": "2026-08-22T15:47:26.323Z"
 }
