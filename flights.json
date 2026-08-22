@@ -28124,5 +28124,24 @@
     "initialDistance": 0.5912869743777714,
     "initialAltitude": 39400,
     "initialSpeed": 468
+  },
+  {
+    "callsign": "SKW3391",
+    "flightNumber": "AS3391",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SJC",
+    "destination": "SEA",
+    "icao": "A4D97E",
+    "registration": "N411SY",
+    "firstSeen": "2026-08-22T01:39:02.952Z",
+    "lastSeen": "2026-08-22T01:39:02.952Z",
+    "duration": 0,
+    "closestDistance": 0.6058742513848733,
+    "closestAltitude": 32100,
+    "closestSpeed": 498,
+    "initialDistance": 0.6058742513848733,
+    "initialAltitude": 32100,
+    "initialSpeed": 498
   }
 ]
