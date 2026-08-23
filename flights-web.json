@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 22050,
-    "speed": 271,
-    "timestamp": "2026-08-23T03:56:56.838Z",
-    "lat": 45.6292,
-    "lon": -122.5267,
+    "distance": 0.53,
+    "altitude": 2900,
+    "speed": 72,
+    "timestamp": "2026-08-23T04:40:04.425Z",
+    "lat": 45.6332,
+    "lon": -122.5223,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PKW917",
-    "aircraftType": "Metr",
-    "origin": "ELP",
-    "destination": "PAE",
-    "firstSeen": "2026-08-23T03:56:56.832Z"
+    "callsign": "N7668U",
+    "aircraftType": "C150",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-06-15T20:44:25.390Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6292,
-      -122.5267
+      45.6332,
+      -122.5223
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-23T03:57:27.595Z"
+  "status": "tracking",
+  "timestamp": "2026-08-23T04:40:04.425Z"
 }
