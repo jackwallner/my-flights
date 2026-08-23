@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 34000,
-    "speed": 432,
-    "timestamp": "2026-08-23T22:57:59.960Z",
-    "lat": 45.6265,
-    "lon": -122.5328,
-    "precision": "tracked"
+    "distance": 0.28,
+    "altitude": 3900,
+    "speed": 90,
+    "timestamp": "2026-08-23T23:22:29.626Z",
+    "lat": 45.6283,
+    "lon": -122.5333,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW3789",
-    "aircraftType": "E175",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-02-10T00:55:06.057Z"
+    "callsign": "GFY4787",
+    "aircraftType": "DA40",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-08-23T23:21:58.800Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6265,
-      -122.5328
+      45.629,
+      -122.5148
+    ],
+    [
+      45.6283,
+      -122.5333
+    ],
+    [
+      45.6279,
+      -122.5383
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-23T22:58:30.792Z"
+  "timestamp": "2026-08-23T23:22:50.211Z"
 }

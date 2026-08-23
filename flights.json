@@ -28295,5 +28295,24 @@
     "initialDistance": 0.6723163138850246,
     "initialAltitude": 36500,
     "initialSpeed": 381
+  },
+  {
+    "callsign": "GFY4787",
+    "flightNumber": "GFY4787",
+    "aircraftType": "DA40",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "AAAADE",
+    "registration": "N787DM",
+    "firstSeen": "2026-08-23T23:21:58.800Z",
+    "lastSeen": "2026-08-23T23:22:39.894Z",
+    "duration": 41,
+    "closestDistance": 0.2834183101776998,
+    "closestAltitude": 3900,
+    "closestSpeed": 90,
+    "initialDistance": 0.6018920668584155,
+    "initialAltitude": 3900,
+    "initialSpeed": 85
   }
 ]
