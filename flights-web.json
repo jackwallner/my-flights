@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 800,
-    "speed": 72,
-    "timestamp": "2026-08-23T23:47:40.077Z",
-    "lat": 45.6285,
-    "lon": -122.5255,
-    "precision": "high"
+    "distance": 0.58,
+    "altitude": 35975,
+    "speed": 447,
+    "timestamp": "2026-08-23T23:56:34.174Z",
+    "lat": 45.6337,
+    "lon": -122.5348,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5148D",
-    "aircraftType": "C182",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-08-23T23:47:40.072Z"
+    "callsign": "FFT1177",
+    "aircraftType": "A321",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-09T03:00:38.644Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.58,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6285,
-      -122.5255
-    ],
-    [
-      45.6286,
-      -122.533
-    ],
-    [
-      45.6283,
-      -122.5365
-    ],
-    [
-      45.6258,
-      -122.5407
-    ],
-    [
-      45.6235,
-      -122.5436
+      45.6337,
+      -122.5348
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-23T23:48:31.409Z"
+  "timestamp": "2026-08-23T23:57:04.952Z"
 }
