@@ -28257,5 +28257,24 @@
     "initialDistance": 0.24268241312680544,
     "initialAltitude": 22050,
     "initialSpeed": 271
+  },
+  {
+    "callsign": "N2008W",
+    "flightNumber": null,
+    "aircraftType": "BE35",
+    "aircraftName": null,
+    "origin": "CCR",
+    "destination": null,
+    "icao": "A19588",
+    "registration": "N2008W",
+    "firstSeen": "2026-08-23T20:50:48.242Z",
+    "lastSeen": "2026-08-23T20:50:48.242Z",
+    "duration": 0,
+    "closestDistance": 0.28414492107434564,
+    "closestAltitude": 6200,
+    "closestSpeed": 149,
+    "initialDistance": 0.28414492107434564,
+    "initialAltitude": 6200,
+    "initialSpeed": 149
   }
 ]

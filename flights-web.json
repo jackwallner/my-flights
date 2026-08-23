@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 975,
-    "speed": 93,
-    "timestamp": "2026-08-23T17:45:09.470Z",
-    "lat": 45.6277,
-    "lon": -122.5317,
-    "precision": "high"
+    "distance": 0.28,
+    "altitude": 6200,
+    "speed": 149,
+    "timestamp": "2026-08-23T20:50:48.253Z",
+    "lat": 45.6242,
+    "lon": -122.5347,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N731PP",
-    "aircraftType": "SR22",
-    "origin": "EUG",
+    "callsign": "N2008W",
+    "aircraftType": "BE35",
+    "origin": "CCR",
     "destination": null,
-    "firstSeen": "2026-06-30T01:19:25.876Z"
+    "firstSeen": "2026-08-23T20:50:48.242Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6165,
-      -122.5301
-    ],
-    [
-      45.6196,
-      -122.5263
-    ],
-    [
-      45.6277,
-      -122.5317
-    ],
-    [
-      45.6281,
-      -122.538
+      45.6242,
+      -122.5347
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-23T17:45:29.981Z"
+  "timestamp": "2026-08-23T20:51:19.052Z"
 }
