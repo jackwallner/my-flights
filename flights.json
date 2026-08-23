@@ -28219,5 +28219,24 @@
     "initialDistance": 0.6576704434242787,
     "initialAltitude": 36025,
     "initialSpeed": 491
+  },
+  {
+    "callsign": "N20033",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A194E0",
+    "registration": "N20033",
+    "firstSeen": "2026-08-23T03:00:37.574Z",
+    "lastSeen": "2026-08-23T03:00:37.574Z",
+    "duration": 0,
+    "closestDistance": 0.5307616326772249,
+    "closestAltitude": 3350,
+    "closestSpeed": 125,
+    "initialDistance": 0.5307616326772249,
+    "initialAltitude": 3350,
+    "initialSpeed": 125
   }
 ]
