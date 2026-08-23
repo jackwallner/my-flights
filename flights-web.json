@@ -6,7 +6,7 @@
     "timestamp": "2026-08-23T23:47:40.077Z",
     "lat": 45.6285,
     "lon": -122.5255,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N5148D",
@@ -17,13 +17,29 @@
   },
   "overheadScore": 0.22,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6285,
       -122.5255
+    ],
+    [
+      45.6286,
+      -122.533
+    ],
+    [
+      45.6283,
+      -122.5365
+    ],
+    [
+      45.6258,
+      -122.5407
+    ],
+    [
+      45.6235,
+      -122.5436
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-23T23:47:40.077Z"
+  "status": "completed",
+  "timestamp": "2026-08-23T23:48:31.409Z"
 }
