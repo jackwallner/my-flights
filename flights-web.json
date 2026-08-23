@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 1000,
-    "speed": 101,
-    "timestamp": "2026-08-23T21:09:28.009Z",
-    "lat": 45.622,
-    "lon": -122.5198,
-    "precision": "high"
+    "distance": 0.21,
+    "altitude": 34000,
+    "speed": 432,
+    "timestamp": "2026-08-23T22:57:59.960Z",
+    "lat": 45.6265,
+    "lon": -122.5328,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N924D",
-    "aircraftType": "RV6",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-03-28T21:25:34.028Z"
+    "callsign": "SKW3789",
+    "aircraftType": "E175",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-02-10T00:55:06.057Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.21,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6171,
-      -122.5237
-    ],
-    [
-      45.622,
-      -122.5198
-    ],
-    [
-      45.6264,
-      -122.5165
+      45.6265,
+      -122.5328
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-23T21:09:48.527Z"
+  "timestamp": "2026-08-23T22:58:30.792Z"
 }
