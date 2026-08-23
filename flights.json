@@ -28238,5 +28238,24 @@
     "initialDistance": 0.5307616326772249,
     "initialAltitude": 3350,
     "initialSpeed": 125
+  },
+  {
+    "callsign": "PKW917",
+    "flightNumber": "PKW917",
+    "aircraftType": "SW4",
+    "aircraftName": null,
+    "origin": "ELP",
+    "destination": "PAE",
+    "icao": "AA6AC0",
+    "registration": "N770TR",
+    "firstSeen": "2026-08-23T03:56:56.832Z",
+    "lastSeen": "2026-08-23T03:56:56.832Z",
+    "duration": 0,
+    "closestDistance": 0.24268241312680544,
+    "closestAltitude": 22050,
+    "closestSpeed": 271,
+    "initialDistance": 0.24268241312680544,
+    "initialAltitude": 22050,
+    "initialSpeed": 271
   }
 ]
