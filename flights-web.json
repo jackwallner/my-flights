@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 3900,
-    "speed": 90,
-    "timestamp": "2026-08-23T23:22:29.626Z",
-    "lat": 45.6283,
-    "lon": -122.5333,
-    "precision": "high"
+    "distance": 0.22,
+    "altitude": 800,
+    "speed": 72,
+    "timestamp": "2026-08-23T23:47:40.077Z",
+    "lat": 45.6285,
+    "lon": -122.5255,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "GFY4787",
-    "aircraftType": "DA40",
-    "origin": "HIO",
+    "callsign": "N5148D",
+    "aircraftType": "C182",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-08-23T23:21:58.800Z"
+    "firstSeen": "2026-08-23T23:47:40.072Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.22,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.629,
-      -122.5148
-    ],
-    [
-      45.6283,
-      -122.5333
-    ],
-    [
-      45.6279,
-      -122.5383
+      45.6285,
+      -122.5255
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-23T23:22:50.211Z"
+  "status": "tracking",
+  "timestamp": "2026-08-23T23:47:40.077Z"
 }

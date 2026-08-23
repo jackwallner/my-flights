@@ -28314,5 +28314,24 @@
     "initialDistance": 0.6018920668584155,
     "initialAltitude": 3900,
     "initialSpeed": 85
+  },
+  {
+    "callsign": "N5148D",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A673BF",
+    "registration": "N5148D",
+    "firstSeen": "2026-08-23T23:47:40.072Z",
+    "lastSeen": "2026-08-23T23:47:40.072Z",
+    "duration": 0,
+    "closestDistance": 0.22224232096806606,
+    "closestAltitude": 800,
+    "closestSpeed": 72,
+    "initialDistance": 0.22224232096806606,
+    "initialAltitude": 800,
+    "initialSpeed": 72
   }
 ]
