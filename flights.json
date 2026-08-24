@@ -28371,5 +28371,24 @@
     "initialDistance": 0.37633759694103247,
     "initialAltitude": 34525,
     "initialSpeed": 418
+  },
+  {
+    "callsign": "N18213",
+    "flightNumber": null,
+    "aircraftType": "C150",
+    "aircraftName": null,
+    "origin": "DLS",
+    "destination": null,
+    "icao": "A14AB1",
+    "registration": "N18213",
+    "firstSeen": "2026-08-24T14:19:38.744Z",
+    "lastSeen": "2026-08-24T14:19:49.020Z",
+    "duration": 10,
+    "closestDistance": 0.4854506246706547,
+    "closestAltitude": 3475,
+    "closestSpeed": 103,
+    "initialDistance": 0.6439942496885934,
+    "initialAltitude": 3600,
+    "initialSpeed": 102
   }
 ]

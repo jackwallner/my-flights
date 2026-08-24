@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 34425,
-    "speed": 457,
-    "timestamp": "2026-08-24T04:59:20.896Z",
-    "lat": 45.6197,
-    "lon": -122.5332,
+    "distance": 0.49,
+    "altitude": 3475,
+    "speed": 103,
+    "timestamp": "2026-08-24T14:19:49.026Z",
+    "lat": 45.6326,
+    "lon": -122.5232,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1398",
-    "aircraftType": "B39M",
-    "origin": "SJC",
-    "destination": "SEA",
-    "firstSeen": "2026-08-21T04:43:00.700Z"
+    "callsign": "N18213",
+    "aircraftType": "C150",
+    "origin": "DLS",
+    "destination": null,
+    "firstSeen": "2026-08-24T14:19:38.744Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6197,
-      -122.5332
+      45.6326,
+      -122.5169
+    ],
+    [
+      45.6326,
+      -122.5232
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-24T04:59:51.679Z"
+  "timestamp": "2026-08-24T14:20:09.566Z"
 }
