@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 2750,
-    "speed": 95,
-    "timestamp": "2026-08-24T14:33:31.067Z",
-    "lat": 45.6352,
-    "lon": -122.5228,
+    "distance": 0.6,
+    "altitude": 32000,
+    "speed": 446,
+    "timestamp": "2026-08-24T14:49:16.888Z",
+    "lat": 45.6348,
+    "lon": -122.5322,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N231HF",
-    "aircraftType": "M20T",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-03-21T21:39:40.862Z"
+    "callsign": "ASA748",
+    "aircraftType": "737",
+    "origin": "LAX",
+    "destination": "SEA",
+    "firstSeen": "2026-02-17T18:08:51.473Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6352,
-      -122.5228
+      45.6348,
+      -122.5322
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-24T14:34:01.900Z"
+  "status": "tracking",
+  "timestamp": "2026-08-24T14:49:16.888Z"
 }
