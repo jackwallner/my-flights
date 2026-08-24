@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 34750,
-    "speed": 426,
-    "timestamp": "2026-08-24T02:56:09.759Z",
-    "lat": 45.6185,
-    "lon": -122.5218,
+    "distance": 0.31,
+    "altitude": 34000,
+    "speed": 425,
+    "timestamp": "2026-08-24T02:59:25.228Z",
+    "lat": 45.6278,
+    "lon": -122.5216,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA537",
+    "callsign": "DAL2442",
     "aircraftType": "737",
-    "origin": "BUR",
+    "origin": "PHX",
     "destination": "SEA",
-    "firstSeen": "2026-04-25T23:56:11.174Z"
+    "firstSeen": "2026-06-25T02:46:13.820Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6185,
-      -122.5218
+      45.6278,
+      -122.5216
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-24T02:56:40.555Z"
+  "timestamp": "2026-08-24T02:59:56.018Z"
 }
