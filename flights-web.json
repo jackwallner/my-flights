@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 32425,
-    "speed": 459,
-    "timestamp": "2026-08-24T14:53:54.502Z",
-    "lat": 45.6359,
-    "lon": -122.5327,
+    "distance": 0.48,
+    "altitude": 1400,
+    "speed": 111,
+    "timestamp": "2026-08-24T15:26:15.168Z",
+    "lat": 45.6189,
+    "lon": -122.5211,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA607",
-    "aircraftType": "B39M",
-    "origin": "ONT",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T16:03:21.448Z"
+    "callsign": "N799BP",
+    "aircraftType": "B407",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-08-24T00:46:43.393Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6359,
-      -122.5327
+      45.6189,
+      -122.5211
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-24T14:54:25.281Z"
+  "timestamp": "2026-08-24T15:26:45.953Z"
 }
