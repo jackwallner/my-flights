@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 1525,
-    "speed": 110,
-    "timestamp": "2026-08-24T21:20:12.552Z",
-    "lat": 45.6156,
-    "lon": -122.5271,
+    "distance": 0.67,
+    "altitude": 30500,
+    "speed": 460,
+    "timestamp": "2026-08-24T23:26:34.524Z",
+    "lat": 45.6143,
+    "lon": -122.525,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N545DS",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-18T22:38:02.420Z"
+    "callsign": "UAL1265",
+    "aircraftType": "B39M",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-08-11T22:45:03.138Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.67,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6156,
-      -122.5271
+      45.6143,
+      -122.525
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-24T21:20:43.569Z"
+  "timestamp": "2026-08-24T23:27:05.356Z"
 }
