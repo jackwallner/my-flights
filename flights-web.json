@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 34000,
-    "speed": 425,
-    "timestamp": "2026-08-24T02:59:25.228Z",
-    "lat": 45.6278,
-    "lon": -122.5216,
+    "distance": 0.4,
+    "altitude": 34425,
+    "speed": 457,
+    "timestamp": "2026-08-24T04:59:20.896Z",
+    "lat": 45.6197,
+    "lon": -122.5332,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "DAL2442",
-    "aircraftType": "737",
-    "origin": "PHX",
+    "callsign": "ASA1398",
+    "aircraftType": "B39M",
+    "origin": "SJC",
     "destination": "SEA",
-    "firstSeen": "2026-06-25T02:46:13.820Z"
+    "firstSeen": "2026-08-21T04:43:00.700Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.4,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6278,
-      -122.5216
+      45.6197,
+      -122.5332
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-24T02:59:56.018Z"
+  "timestamp": "2026-08-24T04:59:51.679Z"
 }
