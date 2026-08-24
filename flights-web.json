@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 34525,
-    "speed": 418,
-    "timestamp": "2026-08-24T01:29:32.374Z",
-    "lat": 45.6287,
-    "lon": -122.5206,
+    "distance": 0.63,
+    "altitude": 34500,
+    "speed": 421,
+    "timestamp": "2026-08-24T02:50:41.091Z",
+    "lat": 45.6274,
+    "lon": -122.5133,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA1437",
+    "callsign": "ASA774",
     "aircraftType": "737",
-    "origin": "SMF",
+    "origin": "SNA",
     "destination": "SEA",
-    "firstSeen": "2026-08-24T01:29:32.369Z"
+    "firstSeen": "2026-02-10T03:11:13.913Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.63,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6287,
-      -122.5206
+      45.6274,
+      -122.5133
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-24T01:30:03.187Z"
+  "timestamp": "2026-08-24T02:51:11.885Z"
 }
