@@ -28333,5 +28333,24 @@
     "initialDistance": 0.22224232096806606,
     "initialAltitude": 800,
     "initialSpeed": 72
+  },
+  {
+    "callsign": "N799BP",
+    "flightNumber": null,
+    "aircraftType": "B407",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "AAD99B",
+    "registration": "N799BP",
+    "firstSeen": "2026-08-24T00:46:43.393Z",
+    "lastSeen": "2026-08-24T00:47:03.955Z",
+    "duration": 21,
+    "closestDistance": 0.3620954678218799,
+    "closestAltitude": 1500,
+    "closestSpeed": 115,
+    "initialDistance": 0.3620954678218799,
+    "initialAltitude": 1500,
+    "initialSpeed": 115
   }
 ]
