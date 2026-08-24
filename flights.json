@@ -28352,5 +28352,24 @@
     "initialDistance": 0.3620954678218799,
     "initialAltitude": 1500,
     "initialSpeed": 115
+  },
+  {
+    "callsign": "ASA1437",
+    "flightNumber": "AS1437",
+    "aircraftType": "B738",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A6EE47",
+    "registration": "N546AS",
+    "firstSeen": "2026-08-24T01:29:32.369Z",
+    "lastSeen": "2026-08-24T01:29:32.369Z",
+    "duration": 0,
+    "closestDistance": 0.37633759694103247,
+    "closestAltitude": 34525,
+    "closestSpeed": 418,
+    "initialDistance": 0.37633759694103247,
+    "initialAltitude": 34525,
+    "initialSpeed": 418
   }
 ]
