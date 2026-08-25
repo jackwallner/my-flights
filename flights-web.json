@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 22000,
-    "speed": 396,
-    "timestamp": "2026-08-25T21:21:02.062Z",
-    "lat": 45.6221,
-    "lon": -122.5124,
-    "precision": "tracked"
+    "distance": 0.37,
+    "altitude": 2725,
+    "speed": 91,
+    "timestamp": "2026-08-25T23:35:58.608Z",
+    "lat": 45.6302,
+    "lon": -122.5336,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW3735",
-    "aircraftType": "E175",
-    "origin": "RDM",
-    "destination": "SEA",
-    "firstSeen": "2026-02-03T21:18:45.805Z"
+    "callsign": "N624ST",
+    "aircraftType": "RV12",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-02T21:45:58.538Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6221,
-      -122.5124
+      45.6327,
+      -122.5301
+    ],
+    [
+      45.6302,
+      -122.5336
+    ],
+    [
+      45.6272,
+      -122.5381
+    ],
+    [
+      45.6244,
+      -122.5429
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-25T21:21:32.879Z"
+  "timestamp": "2026-08-25T23:36:29.455Z"
 }
