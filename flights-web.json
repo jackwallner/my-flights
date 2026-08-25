@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 33500,
-    "speed": 434,
-    "timestamp": "2026-08-25T02:27:59.942Z",
-    "lat": 45.6313,
-    "lon": -122.5318,
+    "distance": 0.46,
+    "altitude": 30000,
+    "speed": 446,
+    "timestamp": "2026-08-25T02:55:23.328Z",
+    "lat": 45.6184,
+    "lon": -122.533,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA575",
-    "aircraftType": "737",
-    "origin": "ONT",
+    "callsign": "QXE2520",
+    "aircraftType": "E175",
+    "origin": "MFR",
     "destination": "SEA",
-    "firstSeen": "2026-06-20T02:34:22.342Z"
+    "firstSeen": "2026-08-20T02:45:14.747Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6313,
-      -122.5318
+      45.6184,
+      -122.533
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-25T02:28:30.715Z"
+  "timestamp": "2026-08-25T02:55:54.155Z"
 }
