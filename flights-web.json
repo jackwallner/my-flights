@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 2450,
-    "speed": 112,
-    "timestamp": "2026-08-25T04:53:30.974Z",
-    "lat": 45.6275,
-    "lon": -122.5362,
+    "distance": 0.52,
+    "altitude": 6025,
+    "speed": 268,
+    "timestamp": "2026-08-25T05:49:43.073Z",
+    "lat": 45.6286,
+    "lon": -122.5396,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "S22T",
-    "aircraftType": "S22T",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-16T17:23:58.083Z"
+    "callsign": "WIL142",
+    "aircraftType": "Cita",
+    "origin": "RNT",
+    "destination": "HIO",
+    "firstSeen": "2026-04-23T17:42:39.797Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.52,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6268,
-      -122.544
-    ],
-    [
-      45.6275,
-      -122.5362
+      45.6286,
+      -122.5396
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-25T04:53:51.508Z"
+  "timestamp": "2026-08-25T05:50:15.077Z"
 }
