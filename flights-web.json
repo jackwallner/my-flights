@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 1075,
-    "speed": 87,
-    "timestamp": "2026-08-25T16:33:12.990Z",
-    "lat": 45.6171,
-    "lon": -122.5287,
+    "distance": 0.51,
+    "altitude": 3200,
+    "speed": 76,
+    "timestamp": "2026-08-25T16:55:29.011Z",
+    "lat": 45.6173,
+    "lon": -122.5326,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N3659K",
-    "aircraftType": "P28A",
-    "origin": "PDX",
+    "callsign": "N7353T",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-08-25T16:32:52.478Z"
+    "firstSeen": "2026-04-29T16:43:55.072Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.618,
-      -122.541
-    ],
-    [
-      45.6171,
-      -122.5287
+      45.6173,
+      -122.5326
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-25T16:33:23.237Z"
+  "status": "tracking",
+  "timestamp": "2026-08-25T16:55:29.011Z"
 }
