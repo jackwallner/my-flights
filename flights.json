@@ -28428,5 +28428,24 @@
     "initialDistance": 0.45615716504682585,
     "initialAltitude": 4350,
     "initialSpeed": 144
+  },
+  {
+    "callsign": "N1844Z",
+    "flightNumber": null,
+    "aircraftType": "C205",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A15284",
+    "registration": "N1844Z",
+    "firstSeen": "2026-08-25T15:11:29.409Z",
+    "lastSeen": "2026-08-25T15:11:29.409Z",
+    "duration": 0,
+    "closestDistance": 0.60459969993803,
+    "closestAltitude": 7675,
+    "closestSpeed": 102,
+    "initialDistance": 0.60459969993803,
+    "initialAltitude": 7675,
+    "initialSpeed": 102
   }
 ]
