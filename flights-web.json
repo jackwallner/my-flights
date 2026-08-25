@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 4075,
-    "speed": 152,
-    "timestamp": "2026-08-25T00:26:48.083Z",
-    "lat": 45.6172,
-    "lon": -122.5173,
-    "precision": "tracked"
+    "distance": 0.18,
+    "altitude": 1475,
+    "speed": 126,
+    "timestamp": "2026-08-25T00:39:48.305Z",
+    "lat": 45.6269,
+    "lon": -122.5244,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N44Y",
-    "aircraftType": "T34P",
-    "origin": "SFF",
+    "callsign": "N799BP",
+    "aircraftType": "B407",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-08-25T00:26:48.079Z"
+    "firstSeen": "2026-08-24T00:46:43.393Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6172,
-      -122.5173
+      45.6294,
+      -122.5158
+    ],
+    [
+      45.6269,
+      -122.5244
+    ],
+    [
+      45.6208,
+      -122.5396
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-25T00:27:18.900Z"
+  "timestamp": "2026-08-25T00:40:19.127Z"
 }
