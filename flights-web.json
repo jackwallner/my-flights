@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 3925,
-    "speed": 199,
-    "timestamp": "2026-08-25T20:45:56.072Z",
-    "lat": 45.6307,
-    "lon": -122.5283,
+    "distance": 0.39,
+    "altitude": 2650,
+    "speed": 114,
+    "timestamp": "2026-08-25T21:10:45.647Z",
+    "lat": 45.6195,
+    "lon": -122.5322,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N240WC",
-    "aircraftType": "PC24",
-    "origin": "EAT",
-    "destination": "QSA",
-    "firstSeen": "2026-08-25T20:45:56.065Z"
+    "callsign": "N738FD",
+    "aircraftType": "C172",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-03-16T21:51:17.244Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6307,
-      -122.5283
+      45.6195,
+      -122.5322
+    ],
+    [
+      45.6183,
+      -122.5242
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-25T20:46:26.953Z"
+  "status": "tracking",
+  "timestamp": "2026-08-25T21:10:55.919Z"
 }
