@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 30000,
-    "speed": 446,
-    "timestamp": "2026-08-25T02:55:23.328Z",
-    "lat": 45.6184,
-    "lon": -122.533,
+    "distance": 0.5,
+    "altitude": 36000,
+    "speed": 449,
+    "timestamp": "2026-08-25T03:37:51.357Z",
+    "lat": 45.6296,
+    "lon": -122.518,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "QXE2520",
+    "callsign": "QXE2301",
     "aircraftType": "E175",
-    "origin": "MFR",
-    "destination": "SEA",
-    "firstSeen": "2026-08-20T02:45:14.747Z"
+    "origin": "LAS",
+    "destination": "PAE",
+    "firstSeen": "2026-05-21T04:22:43.303Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.5,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6184,
-      -122.533
+      45.6296,
+      -122.518
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-25T02:55:54.155Z"
+  "timestamp": "2026-08-25T03:38:22.143Z"
 }
