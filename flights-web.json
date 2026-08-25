@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 4350,
-    "speed": 144,
-    "timestamp": "2026-08-25T01:04:16.845Z",
-    "lat": 45.6326,
-    "lon": -122.5252,
+    "distance": 0.21,
+    "altitude": 33775,
+    "speed": 449,
+    "timestamp": "2026-08-25T02:14:48.560Z",
+    "lat": 45.6287,
+    "lon": -122.5269,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N36024",
-    "aircraftType": "P28R",
-    "origin": "PSC",
-    "destination": "TTD",
-    "firstSeen": "2026-08-25T01:04:16.838Z"
+    "callsign": "SKW3897",
+    "aircraftType": "E175",
+    "origin": "SJC",
+    "destination": "SEA",
+    "firstSeen": "2026-05-30T02:17:44.925Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.21,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6326,
-      -122.5252
+      45.6287,
+      -122.5269
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-25T01:04:47.577Z"
+  "status": "tracking",
+  "timestamp": "2026-08-25T02:14:48.560Z"
 }
