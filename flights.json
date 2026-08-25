@@ -28390,5 +28390,24 @@
     "initialDistance": 0.6439942496885934,
     "initialAltitude": 3600,
     "initialSpeed": 102
+  },
+  {
+    "callsign": "N44Y",
+    "flightNumber": null,
+    "aircraftType": "T34P",
+    "aircraftName": null,
+    "origin": "SFF",
+    "destination": null,
+    "icao": "A54A6A",
+    "registration": "N44Y",
+    "firstSeen": "2026-08-25T00:26:48.079Z",
+    "lastSeen": "2026-08-25T00:26:48.079Z",
+    "duration": 0,
+    "closestDistance": 0.6644507249363213,
+    "closestAltitude": 4075,
+    "closestSpeed": 152,
+    "initialDistance": 0.6644507249363213,
+    "initialAltitude": 4075,
+    "initialSpeed": 152
   }
 ]
