@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 33775,
-    "speed": 449,
-    "timestamp": "2026-08-25T02:14:48.560Z",
-    "lat": 45.6287,
-    "lon": -122.5269,
+    "distance": 0.39,
+    "altitude": 33500,
+    "speed": 434,
+    "timestamp": "2026-08-25T02:27:59.942Z",
+    "lat": 45.6313,
+    "lon": -122.5318,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "SKW3897",
-    "aircraftType": "E175",
-    "origin": "SJC",
+    "callsign": "ASA575",
+    "aircraftType": "737",
+    "origin": "ONT",
     "destination": "SEA",
-    "firstSeen": "2026-05-30T02:17:44.925Z"
+    "firstSeen": "2026-06-20T02:34:22.342Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.39,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6287,
-      -122.5269
+      45.6313,
+      -122.5318
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-25T02:15:19.698Z"
+  "timestamp": "2026-08-25T02:28:30.715Z"
 }
