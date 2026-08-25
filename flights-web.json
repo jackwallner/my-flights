@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 2550,
-    "speed": 109,
-    "timestamp": "2026-08-25T20:04:49.517Z",
-    "lat": 45.6294,
-    "lon": -122.5232,
+    "distance": 0.33,
+    "altitude": 3925,
+    "speed": 199,
+    "timestamp": "2026-08-25T20:45:56.072Z",
+    "lat": 45.6307,
+    "lon": -122.5283,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N725FA",
-    "aircraftType": "RV12",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-06-11T20:05:42.436Z"
+    "callsign": "N240WC",
+    "aircraftType": "PC24",
+    "origin": "EAT",
+    "destination": "QSA",
+    "firstSeen": "2026-08-25T20:45:56.065Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.33,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6294,
-      -122.5232
+      45.6307,
+      -122.5283
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-25T20:05:20.322Z"
+  "timestamp": "2026-08-25T20:46:26.953Z"
 }

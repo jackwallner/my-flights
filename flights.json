@@ -28466,5 +28466,24 @@
     "initialDistance": 0.6956849391799684,
     "initialAltitude": 1000,
     "initialSpeed": 89
+  },
+  {
+    "callsign": "N240WC",
+    "flightNumber": null,
+    "aircraftType": "PC24",
+    "aircraftName": null,
+    "origin": "EAT",
+    "destination": "QSA",
+    "icao": "A231F6",
+    "registration": "N240WC",
+    "firstSeen": "2026-08-25T20:45:56.065Z",
+    "lastSeen": "2026-08-25T20:45:56.065Z",
+    "duration": 0,
+    "closestDistance": 0.32548942881919607,
+    "closestAltitude": 3925,
+    "closestSpeed": 199,
+    "initialDistance": 0.32548942881919607,
+    "initialAltitude": 3925,
+    "initialSpeed": 199
   }
 ]
