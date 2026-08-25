@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 7675,
-    "speed": 102,
-    "timestamp": "2026-08-25T15:11:29.416Z",
-    "lat": 45.6176,
-    "lon": -122.5188,
+    "distance": 0.49,
+    "altitude": 1075,
+    "speed": 87,
+    "timestamp": "2026-08-25T16:33:12.990Z",
+    "lat": 45.6171,
+    "lon": -122.5287,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N1844Z",
-    "aircraftType": "C205",
-    "origin": null,
+    "callsign": "N3659K",
+    "aircraftType": "P28A",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-08-25T15:11:29.409Z"
+    "firstSeen": "2026-08-25T16:32:52.478Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6176,
-      -122.5188
+      45.618,
+      -122.541
+    ],
+    [
+      45.6171,
+      -122.5287
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-25T15:12:00.413Z"
+  "timestamp": "2026-08-25T16:33:23.237Z"
 }

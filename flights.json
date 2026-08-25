@@ -28447,5 +28447,24 @@
     "initialDistance": 0.60459969993803,
     "initialAltitude": 7675,
     "initialSpeed": 102
+  },
+  {
+    "callsign": "N3659K",
+    "flightNumber": null,
+    "aircraftType": "P28A",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A4227C",
+    "registration": "N3659K",
+    "firstSeen": "2026-08-25T16:32:52.478Z",
+    "lastSeen": "2026-08-25T16:33:12.986Z",
+    "duration": 21,
+    "closestDistance": 0.49177783775343276,
+    "closestAltitude": 1075,
+    "closestSpeed": 87,
+    "initialDistance": 0.6956849391799684,
+    "initialAltitude": 1000,
+    "initialSpeed": 89
   }
 ]
