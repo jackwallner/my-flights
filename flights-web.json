@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 2550,
-    "speed": 122,
-    "timestamp": "2026-08-26T22:25:44.412Z",
-    "lat": 45.6289,
-    "lon": -122.5228,
+    "distance": 0.33,
+    "altitude": 1100,
+    "speed": 113,
+    "timestamp": "2026-08-26T23:07:30.621Z",
+    "lat": 45.622,
+    "lon": -122.5219,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N8191G",
-    "aircraftType": "C182",
+    "callsign": "N799BP",
+    "aircraftType": "B407",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-11T22:15:44.790Z"
+    "firstSeen": "2026-08-24T00:46:43.393Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.33,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6314,
-      -122.54
+      45.6235,
+      -122.5177
     ],
     [
-      45.6303,
-      -122.5315
+      45.622,
+      -122.5219
     ],
     [
-      45.6289,
-      -122.5228
+      45.6185,
+      -122.5313
     ],
     [
-      45.627,
-      -122.515
+      45.6162,
+      -122.5372
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-26T22:26:04.952Z"
+  "timestamp": "2026-08-26T23:08:01.444Z"
 }
