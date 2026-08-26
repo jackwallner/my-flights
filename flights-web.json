@@ -1,29 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.7,
-    "altitude": 1100,
-    "speed": 85,
-    "timestamp": "2026-08-26T19:38:17.928Z",
-    "lat": 45.6143,
-    "lon": -122.5337,
-    "precision": "tracked"
+    "distance": 0.08,
+    "altitude": 1600,
+    "speed": 100,
+    "timestamp": "2026-08-26T19:41:02.823Z",
+    "lat": 45.6254,
+    "lon": -122.5301,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N19298",
-    "aircraftType": "C150",
+    "callsign": "N738FD",
+    "aircraftType": "C172",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-07-20T19:22:38.070Z"
+    "firstSeen": "2026-03-16T21:51:17.244Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.08,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6143,
-      -122.5337
+      45.6239,
+      -122.5424
+    ],
+    [
+      45.6246,
+      -122.5372
+    ],
+    [
+      45.6254,
+      -122.5301
+    ],
+    [
+      45.626,
+      -122.5238
+    ],
+    [
+      45.6267,
+      -122.5164
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-26T19:38:48.883Z"
+  "timestamp": "2026-08-26T19:41:33.626Z"
 }
