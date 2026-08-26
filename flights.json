@@ -28542,5 +28542,24 @@
     "initialDistance": 0.3622023617818037,
     "initialAltitude": 22300,
     "initialSpeed": 360
+  },
+  {
+    "callsign": "ASA692",
+    "flightNumber": "AS692",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "SEA",
+    "icao": "A2E098",
+    "registration": "N285AK",
+    "firstSeen": "2026-08-26T16:04:24.654Z",
+    "lastSeen": "2026-08-26T16:04:24.654Z",
+    "duration": 0,
+    "closestDistance": 0.22330694199672488,
+    "closestAltitude": 36000,
+    "closestSpeed": 456,
+    "initialDistance": 0.22330694199672488,
+    "initialAltitude": 36000,
+    "initialSpeed": 456
   }
 ]
