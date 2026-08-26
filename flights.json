@@ -28523,5 +28523,24 @@
     "initialDistance": 0.5195206874178268,
     "initialAltitude": 43075,
     "initialSpeed": 474
+  },
+  {
+    "callsign": "N43BG",
+    "flightNumber": null,
+    "aircraftType": "B350",
+    "aircraftName": null,
+    "origin": "CLD",
+    "destination": "TIW",
+    "icao": "A520E5",
+    "registration": "N43BG",
+    "firstSeen": "2026-08-26T15:50:42.429Z",
+    "lastSeen": "2026-08-26T15:50:42.429Z",
+    "duration": 0,
+    "closestDistance": 0.3622023617818037,
+    "closestAltitude": 22300,
+    "closestSpeed": 360,
+    "initialDistance": 0.3622023617818037,
+    "initialAltitude": 22300,
+    "initialSpeed": 360
   }
 ]

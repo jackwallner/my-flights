@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 37275,
-    "speed": 460,
-    "timestamp": "2026-08-26T15:17:39.406Z",
-    "lat": 45.6215,
-    "lon": -122.527,
+    "distance": 0.36,
+    "altitude": 22300,
+    "speed": 360,
+    "timestamp": "2026-08-26T15:50:42.437Z",
+    "lat": 45.6301,
+    "lon": -122.5333,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA620",
-    "aircraftType": "B39M",
-    "origin": "SFO",
-    "destination": "SEA",
-    "firstSeen": "2026-04-04T01:39:21.557Z"
+    "callsign": "N43BG",
+    "aircraftType": "B350",
+    "origin": "CLD",
+    "destination": "TIW",
+    "firstSeen": "2026-08-26T15:50:42.429Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.36,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6215,
-      -122.527
+      45.6301,
+      -122.5333
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-26T15:18:10.254Z"
+  "status": "tracking",
+  "timestamp": "2026-08-26T15:50:42.437Z"
 }
