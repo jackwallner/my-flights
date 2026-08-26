@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 2000,
-    "speed": 102,
-    "timestamp": "2026-08-26T11:31:57.485Z",
-    "lat": 45.6165,
-    "lon": -122.5262,
-    "precision": "high"
+    "distance": 0.23,
+    "altitude": 37275,
+    "speed": 460,
+    "timestamp": "2026-08-26T15:17:39.406Z",
+    "lat": 45.6215,
+    "lon": -122.527,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N456LF",
-    "aircraftType": "B407",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-02T02:02:55.616Z"
+    "callsign": "ASA620",
+    "aircraftType": "B39M",
+    "origin": "SFO",
+    "destination": "SEA",
+    "firstSeen": "2026-04-04T01:39:21.557Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.614,
-      -122.5315
-    ],
-    [
-      45.6165,
-      -122.5262
-    ],
-    [
-      45.6186,
-      -122.5195
-    ],
-    [
-      45.6204,
-      -122.513
+      45.6215,
+      -122.527
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-26T11:32:28.277Z"
+  "timestamp": "2026-08-26T15:18:10.254Z"
 }
