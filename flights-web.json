@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 43075,
-    "speed": 474,
-    "timestamp": "2026-08-26T03:46:54.537Z",
-    "lat": 45.6182,
-    "lon": -122.521,
+    "distance": 0.46,
+    "altitude": 2175,
+    "speed": 132,
+    "timestamp": "2026-08-26T04:35:51.246Z",
+    "lat": 45.6321,
+    "lon": -122.5229,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "VJA578",
-    "aircraftType": "CL30",
-    "origin": "LAX",
-    "destination": "GYR",
-    "firstSeen": "2026-08-26T03:46:54.531Z"
+    "callsign": "N456LF",
+    "aircraftType": "B407",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-02T02:02:55.616Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6182,
-      -122.521
+      45.6321,
+      -122.5229
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-26T03:47:25.321Z"
+  "status": "tracking",
+  "timestamp": "2026-08-26T04:35:51.246Z"
 }
