@@ -28580,5 +28580,24 @@
     "initialDistance": 0.5990979638143948,
     "initialAltitude": 39825,
     "initialSpeed": 481
+  },
+  {
+    "callsign": "N22TE",
+    "flightNumber": null,
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "OLM",
+    "destination": null,
+    "icao": "A1E056",
+    "registration": "N22TE",
+    "firstSeen": "2026-08-26T20:52:46.767Z",
+    "lastSeen": "2026-08-26T20:53:17.558Z",
+    "duration": 31,
+    "closestDistance": 0.1561840312590155,
+    "closestAltitude": 1375,
+    "closestSpeed": 117,
+    "initialDistance": 0.4614468981793706,
+    "initialAltitude": 1375,
+    "initialSpeed": 120
   }
 ]

@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.08,
-    "altitude": 1600,
-    "speed": 100,
-    "timestamp": "2026-08-26T19:41:02.823Z",
-    "lat": 45.6254,
-    "lon": -122.5301,
+    "distance": 0.16,
+    "altitude": 1375,
+    "speed": 117,
+    "timestamp": "2026-08-26T20:52:57.032Z",
+    "lat": 45.6233,
+    "lon": -122.5257,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N738FD",
-    "aircraftType": "C172",
-    "origin": "PDX",
+    "callsign": "N22TE",
+    "aircraftType": "Cara",
+    "origin": "OLM",
     "destination": null,
-    "firstSeen": "2026-03-16T21:51:17.244Z"
+    "firstSeen": "2026-08-26T20:52:46.767Z"
   },
-  "overheadScore": 0.08,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6239,
-      -122.5424
+      45.6177,
+      -122.5263
     ],
     [
-      45.6246,
-      -122.5372
+      45.6233,
+      -122.5257
     ],
     [
-      45.6254,
-      -122.5301
+      45.628,
+      -122.5261
     ],
     [
-      45.626,
-      -122.5238
-    ],
-    [
-      45.6267,
-      -122.5164
+      45.6336,
+      -122.5313
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-26T19:41:33.626Z"
+  "timestamp": "2026-08-26T20:53:27.825Z"
 }
