@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 1375,
-    "speed": 118,
-    "timestamp": "2026-08-26T20:57:44.457Z",
-    "lat": 45.6344,
-    "lon": -122.5209,
-    "precision": "tracked"
+    "distance": 0.31,
+    "altitude": 2550,
+    "speed": 122,
+    "timestamp": "2026-08-26T22:25:44.412Z",
+    "lat": 45.6289,
+    "lon": -122.5228,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N22TE",
-    "aircraftType": "Cara",
-    "origin": "OLM",
+    "callsign": "N8191G",
+    "aircraftType": "C182",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-08-26T20:52:46.767Z"
+    "firstSeen": "2026-02-11T22:15:44.790Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6344,
-      -122.5209
+      45.6314,
+      -122.54
+    ],
+    [
+      45.6303,
+      -122.5315
+    ],
+    [
+      45.6289,
+      -122.5228
+    ],
+    [
+      45.627,
+      -122.515
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-26T20:57:44.457Z"
+  "status": "completed",
+  "timestamp": "2026-08-26T22:26:04.952Z"
 }
