@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.16,
+    "distance": 0.63,
     "altitude": 1375,
-    "speed": 117,
-    "timestamp": "2026-08-26T20:52:57.032Z",
-    "lat": 45.6233,
-    "lon": -122.5257,
-    "precision": "high"
+    "speed": 118,
+    "timestamp": "2026-08-26T20:57:44.457Z",
+    "lat": 45.6344,
+    "lon": -122.5209,
+    "precision": "tracked"
   },
   "flight": {
     "callsign": "N22TE",
@@ -15,27 +15,15 @@
     "destination": null,
     "firstSeen": "2026-08-26T20:52:46.767Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6177,
-      -122.5263
-    ],
-    [
-      45.6233,
-      -122.5257
-    ],
-    [
-      45.628,
-      -122.5261
-    ],
-    [
-      45.6336,
-      -122.5313
+      45.6344,
+      -122.5209
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-26T20:53:27.825Z"
+  "status": "tracking",
+  "timestamp": "2026-08-26T20:57:44.457Z"
 }
