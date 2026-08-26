@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 24000,
-    "speed": 459,
-    "timestamp": "2026-08-26T00:08:49.631Z",
-    "lat": 45.617,
-    "lon": -122.5259,
-    "precision": "tracked"
+    "distance": 0.39,
+    "altitude": 2825,
+    "speed": 124,
+    "timestamp": "2026-08-26T03:36:37.607Z",
+    "lat": 45.6315,
+    "lon": -122.5256,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "MYSTC23",
-    "aircraftType": "C17",
-    "origin": "NZY",
+    "callsign": "N456LF",
+    "aircraftType": "B407",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-08-26T00:08:49.626Z"
+    "firstSeen": "2026-02-02T02:02:55.616Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.617,
-      -122.5259
+      45.6326,
+      -122.5166
+    ],
+    [
+      45.6315,
+      -122.5256
+    ],
+    [
+      45.6253,
+      -122.54
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-26T00:09:20.409Z"
+  "timestamp": "2026-08-26T03:37:08.441Z"
 }
