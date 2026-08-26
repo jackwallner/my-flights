@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 2725,
-    "speed": 91,
-    "timestamp": "2026-08-25T23:35:58.608Z",
-    "lat": 45.6302,
-    "lon": -122.5336,
-    "precision": "high"
+    "distance": 0.51,
+    "altitude": 24000,
+    "speed": 459,
+    "timestamp": "2026-08-26T00:08:49.631Z",
+    "lat": 45.617,
+    "lon": -122.5259,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N624ST",
-    "aircraftType": "RV12",
-    "origin": "TTD",
+    "callsign": "MYSTC23",
+    "aircraftType": "C17",
+    "origin": "NZY",
     "destination": null,
-    "firstSeen": "2026-02-02T21:45:58.538Z"
+    "firstSeen": "2026-08-26T00:08:49.626Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6327,
-      -122.5301
-    ],
-    [
-      45.6302,
-      -122.5336
-    ],
-    [
-      45.6272,
-      -122.5381
-    ],
-    [
-      45.6244,
-      -122.5429
+      45.617,
+      -122.5259
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-25T23:36:29.455Z"
+  "timestamp": "2026-08-26T00:09:20.409Z"
 }
