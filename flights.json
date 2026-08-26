@@ -28504,5 +28504,24 @@
     "initialDistance": 0.5057612522902717,
     "initialAltitude": 24000,
     "initialSpeed": 459
+  },
+  {
+    "callsign": "VJA578",
+    "flightNumber": "VJA578",
+    "aircraftType": "CL30",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "GYR",
+    "icao": "A76E37",
+    "registration": "N578XJ",
+    "firstSeen": "2026-08-26T03:46:54.531Z",
+    "lastSeen": "2026-08-26T03:46:54.531Z",
+    "duration": 0,
+    "closestDistance": 0.5195206874178268,
+    "closestAltitude": 43075,
+    "closestSpeed": 474,
+    "initialDistance": 0.5195206874178268,
+    "initialAltitude": 43075,
+    "initialSpeed": 474
   }
 ]
