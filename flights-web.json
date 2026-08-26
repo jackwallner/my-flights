@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 39825,
-    "speed": 481,
-    "timestamp": "2026-08-26T16:53:14.210Z",
-    "lat": 45.6339,
-    "lon": -122.5353,
+    "distance": 0.7,
+    "altitude": 1100,
+    "speed": 85,
+    "timestamp": "2026-08-26T19:38:17.928Z",
+    "lat": 45.6143,
+    "lon": -122.5337,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "EJA766",
-    "aircraftType": "CL35",
-    "origin": "SNA",
-    "destination": "BFI",
-    "firstSeen": "2026-08-26T16:53:14.202Z"
+    "callsign": "N19298",
+    "aircraftType": "C150",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-07-20T19:22:38.070Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.7,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6339,
-      -122.5353
+      45.6143,
+      -122.5337
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-26T16:53:45.032Z"
+  "timestamp": "2026-08-26T19:38:48.883Z"
 }
