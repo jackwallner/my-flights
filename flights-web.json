@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 35475,
-    "speed": 470,
-    "timestamp": "2026-08-26T16:21:42.528Z",
-    "lat": 45.6169,
-    "lon": -122.5293,
+    "distance": 0.6,
+    "altitude": 39825,
+    "speed": 481,
+    "timestamp": "2026-08-26T16:53:14.210Z",
+    "lat": 45.6339,
+    "lon": -122.5353,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "FFT2407",
-    "aircraftType": "A321",
-    "origin": "LAS",
-    "destination": "SEA",
-    "firstSeen": "2026-02-09T18:48:51.853Z"
+    "callsign": "EJA766",
+    "aircraftType": "CL35",
+    "origin": "SNA",
+    "destination": "BFI",
+    "firstSeen": "2026-08-26T16:53:14.202Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.6,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6169,
-      -122.5293
-    ],
-    [
-      45.6346,
-      -122.5377
+      45.6339,
+      -122.5353
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-26T16:22:13.425Z"
+  "timestamp": "2026-08-26T16:53:45.032Z"
 }

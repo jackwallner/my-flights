@@ -28561,5 +28561,24 @@
     "initialDistance": 0.22330694199672488,
     "initialAltitude": 36000,
     "initialSpeed": 456
+  },
+  {
+    "callsign": "EJA766",
+    "flightNumber": "EJA766",
+    "aircraftType": "CL35",
+    "aircraftName": null,
+    "origin": "SNA",
+    "destination": "BFI",
+    "icao": "AA5941",
+    "registration": "N766QS",
+    "firstSeen": "2026-08-26T16:53:14.202Z",
+    "lastSeen": "2026-08-26T16:53:14.202Z",
+    "duration": 0,
+    "closestDistance": 0.5990979638143948,
+    "closestAltitude": 39825,
+    "closestSpeed": 481,
+    "initialDistance": 0.5990979638143948,
+    "initialAltitude": 39825,
+    "initialSpeed": 481
   }
 ]
