@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 4950,
-    "speed": 202,
-    "timestamp": "2026-08-27T03:12:21.002Z",
-    "lat": 45.6314,
-    "lon": -122.5342,
-    "precision": "tracked"
+    "distance": 0.16,
+    "altitude": 2125,
+    "speed": 125,
+    "timestamp": "2026-08-27T06:51:19.800Z",
+    "lat": 45.6275,
+    "lon": -122.5304,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW3372",
-    "aircraftType": "E175",
-    "origin": "OAK",
-    "destination": "PDX",
-    "firstSeen": "2026-08-27T03:12:10.709Z"
+    "callsign": "N456LF",
+    "aircraftType": "B407",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-02T02:02:55.616Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6233,
-      -122.5433
+      45.6321,
+      -122.5163
     ],
     [
-      45.6314,
-      -122.5342
+      45.6297,
+      -122.5252
+    ],
+    [
+      45.6275,
+      -122.5304
+    ],
+    [
+      45.624,
+      -122.5364
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-27T03:12:41.567Z"
+  "status": "tracking",
+  "timestamp": "2026-08-27T06:51:30.061Z"
 }
