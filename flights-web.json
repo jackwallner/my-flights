@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 1775,
-    "speed": 94,
-    "timestamp": "2026-08-27T17:46:56.809Z",
-    "lat": 45.6228,
-    "lon": -122.5269,
+    "distance": 0.49,
+    "altitude": 1375,
+    "speed": 109,
+    "timestamp": "2026-08-27T20:08:44.997Z",
+    "lat": 45.6331,
+    "lon": -122.5312,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N13096",
-    "aircraftType": "C172",
-    "origin": null,
+    "callsign": "N97627",
+    "aircraftType": "C182",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-05-08T16:59:31.185Z"
+    "firstSeen": "2026-08-27T20:08:34.722Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6228,
-      -122.5396
+      45.6332,
+      -122.5382
     ],
     [
-      45.6227,
-      -122.5331
+      45.6331,
+      -122.5312
     ],
     [
-      45.6228,
-      -122.5269
-    ],
-    [
-      45.6228,
-      -122.5204
-    ],
-    [
-      45.6228,
-      -122.5151
+      45.6332,
+      -122.5221
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-27T17:47:27.625Z"
+  "status": "tracking",
+  "timestamp": "2026-08-27T20:08:55.291Z"
 }
