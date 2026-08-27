@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 1825,
-    "speed": 132,
-    "timestamp": "2026-08-27T07:54:30.985Z",
-    "lat": 45.6216,
-    "lon": -122.5272,
+    "distance": 0.4,
+    "altitude": 2250,
+    "speed": 86,
+    "timestamp": "2026-08-27T15:02:56.630Z",
+    "lat": 45.6296,
+    "lon": -122.5354,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N456LF",
-    "aircraftType": "B407",
-    "origin": null,
+    "callsign": "N13096",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-02T02:02:55.616Z"
+    "firstSeen": "2026-05-08T16:59:31.185Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.4,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6189,
-      -122.5361
-    ],
-    [
-      45.6216,
+      45.6358,
       -122.5272
     ],
     [
-      45.623,
-      -122.5198
+      45.6322,
+      -122.5319
+    ],
+    [
+      45.6296,
+      -122.5354
+    ],
+    [
+      45.6264,
+      -122.5394
+    ],
+    [
+      45.6232,
+      -122.5434
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-27T07:54:51.553Z"
+  "timestamp": "2026-08-27T15:03:27.401Z"
 }
