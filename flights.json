@@ -28599,5 +28599,24 @@
     "initialDistance": 0.4614468981793706,
     "initialAltitude": 1375,
     "initialSpeed": 120
+  },
+  {
+    "callsign": "N3478X",
+    "flightNumber": null,
+    "aircraftType": "M20P",
+    "aircraftName": null,
+    "origin": "SLE",
+    "destination": null,
+    "icao": "A3DAD5",
+    "registration": "N3478X",
+    "firstSeen": "2026-08-27T02:52:39.872Z",
+    "lastSeen": "2026-08-27T02:52:50.144Z",
+    "duration": 10,
+    "closestDistance": 0.6477912548200507,
+    "closestAltitude": 1300,
+    "closestSpeed": 158,
+    "initialDistance": 0.6765420284885633,
+    "initialAltitude": 1400,
+    "initialSpeed": 159
   }
 ]
