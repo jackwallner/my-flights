@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 1375,
-    "speed": 109,
-    "timestamp": "2026-08-27T20:08:44.997Z",
-    "lat": 45.6331,
-    "lon": -122.5312,
+    "distance": 0.58,
+    "altitude": 3750,
+    "speed": 86,
+    "timestamp": "2026-08-27T21:14:45.148Z",
+    "lat": 45.6174,
+    "lon": -122.5202,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N97627",
-    "aircraftType": "C182",
-    "origin": "PDX",
+    "callsign": "N6460M",
+    "aircraftType": "C152",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-08-27T20:08:34.722Z"
+    "firstSeen": "2026-06-19T22:50:05.822Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.58,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6332,
-      -122.5382
+      45.6201,
+      -122.5153
     ],
     [
-      45.6331,
-      -122.5312
+      45.6174,
+      -122.5202
     ],
     [
-      45.6332,
-      -122.5221
+      45.6153,
+      -122.5251
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-27T20:09:05.573Z"
+  "timestamp": "2026-08-27T21:15:05.678Z"
 }
