@@ -28618,5 +28618,24 @@
     "initialDistance": 0.6765420284885633,
     "initialAltitude": 1400,
     "initialSpeed": 159
+  },
+  {
+    "callsign": "SKW3372",
+    "flightNumber": "AS3372",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "OAK",
+    "destination": "PDX",
+    "icao": "A18B41",
+    "registration": "N199SY",
+    "firstSeen": "2026-08-27T03:12:10.709Z",
+    "lastSeen": "2026-08-27T03:12:20.996Z",
+    "duration": 10,
+    "closestDistance": 0.44759949850212116,
+    "closestAltitude": 4950,
+    "closestSpeed": 202,
+    "initialDistance": 0.6487465545141552,
+    "initialAltitude": 4950,
+    "initialSpeed": 202
   }
 ]
