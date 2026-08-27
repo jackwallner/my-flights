@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 1100,
-    "speed": 113,
-    "timestamp": "2026-08-26T23:07:30.621Z",
-    "lat": 45.622,
-    "lon": -122.5219,
+    "distance": 0.18,
+    "altitude": 3400,
+    "speed": 115,
+    "timestamp": "2026-08-27T00:58:48.247Z",
+    "lat": 45.624,
+    "lon": -122.5243,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N799BP",
-    "aircraftType": "B407",
-    "origin": null,
+    "callsign": "N867LA",
+    "aircraftType": "C172",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-08-24T00:46:43.393Z"
+    "firstSeen": "2026-02-28T19:22:41.427Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6235,
-      -122.5177
+      45.6345,
+      -122.5201
     ],
     [
-      45.622,
-      -122.5219
+      45.6284,
+      -122.5224
     ],
     [
-      45.6185,
-      -122.5313
-    ],
-    [
-      45.6162,
-      -122.5372
+      45.624,
+      -122.5243
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-26T23:08:01.444Z"
+  "status": "tracking",
+  "timestamp": "2026-08-27T00:58:48.248Z"
 }
