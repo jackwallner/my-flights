@@ -28675,5 +28675,24 @@
     "initialDistance": 0.671635049063371,
     "initialAltitude": 9825,
     "initialSpeed": 121
+  },
+  {
+    "callsign": "CPA3280",
+    "flightNumber": "CX3280",
+    "aircraftType": "B744",
+    "aircraftName": null,
+    "origin": "LAX",
+    "destination": "PDX",
+    "icao": "78021A",
+    "registration": "B-LID",
+    "firstSeen": "2026-08-28T00:26:19.721Z",
+    "lastSeen": "2026-08-28T00:26:19.721Z",
+    "duration": 0,
+    "closestDistance": 0.6701131776505974,
+    "closestAltitude": 5900,
+    "closestSpeed": 233,
+    "initialDistance": 0.6701131776505974,
+    "initialAltitude": 5900,
+    "initialSpeed": 233
   }
 ]

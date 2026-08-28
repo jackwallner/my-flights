@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 9925,
-    "speed": 121,
-    "timestamp": "2026-08-28T00:05:12.811Z",
-    "lat": 45.6177,
-    "lon": -122.539,
+    "distance": 0.67,
+    "altitude": 5900,
+    "speed": 233,
+    "timestamp": "2026-08-28T00:26:19.728Z",
+    "lat": 45.6331,
+    "lon": -122.5395,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6049K",
-    "aircraftType": "C82S",
-    "origin": "MVW",
-    "destination": "QSN",
-    "firstSeen": "2026-08-28T00:05:02.542Z"
+    "callsign": "CPA3280",
+    "aircraftType": "747",
+    "origin": "LAX",
+    "destination": "PDX",
+    "firstSeen": "2026-08-28T00:26:19.721Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6231,
-      -122.5438
-    ],
-    [
-      45.6177,
-      -122.539
+      45.6331,
+      -122.5395
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-28T00:05:33.350Z"
+  "timestamp": "2026-08-28T00:26:50.640Z"
 }
