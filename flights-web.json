@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 4150,
-    "speed": 172,
-    "timestamp": "2026-08-28T19:13:12.083Z",
-    "lat": 45.6251,
-    "lon": -122.5317,
+    "distance": 0.28,
+    "altitude": 2400,
+    "speed": 86,
+    "timestamp": "2026-08-28T19:54:58.784Z",
+    "lat": 45.6298,
+    "lon": -122.527,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N352CL",
-    "aircraftType": "K100",
-    "origin": "LGD",
+    "callsign": "N4466R",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-05-16T00:17:03.447Z"
+    "firstSeen": "2026-03-01T01:16:04.720Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6331,
-      -122.5272
+      45.6306,
+      -122.5171
     ],
     [
-      45.6251,
-      -122.5317
+      45.6302,
+      -122.5222
     ],
     [
-      45.6187,
-      -122.5353
+      45.6298,
+      -122.527
+    ],
+    [
+      45.6293,
+      -122.532
+    ],
+    [
+      45.6285,
+      -122.5394
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-28T19:13:32.632Z"
+  "timestamp": "2026-08-28T19:55:29.555Z"
 }
