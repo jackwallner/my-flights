@@ -28732,5 +28732,24 @@
     "initialDistance": 0.6362369561706402,
     "initialAltitude": 3800,
     "initialSpeed": 106
+  },
+  {
+    "callsign": "HUSK",
+    "flightNumber": null,
+    "aircraftType": "HUSK",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-08-28T20:04:55.191Z",
+    "lastSeen": "2026-08-28T20:05:15.760Z",
+    "duration": 21,
+    "closestDistance": 0.35491771983502124,
+    "closestAltitude": 750,
+    "closestSpeed": 65,
+    "initialDistance": 0.6157188269351258,
+    "initialAltitude": 750,
+    "initialSpeed": 65
   }
 ]
