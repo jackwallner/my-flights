@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 1550,
-    "speed": 109,
-    "timestamp": "2026-08-28T09:46:13.155Z",
-    "lat": 45.6213,
-    "lon": -122.5227,
-    "precision": "high"
+    "distance": 0.5,
+    "altitude": 4850,
+    "speed": 252,
+    "timestamp": "2026-08-28T16:16:08.955Z",
+    "lat": 45.628,
+    "lon": -122.5394,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N456LF",
-    "aircraftType": "B407",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-02T02:02:55.616Z"
+    "callsign": "N960RT",
+    "aircraftType": "E55P",
+    "origin": "RAP",
+    "destination": "HIO",
+    "firstSeen": "2026-08-28T16:16:08.949Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6168,
-      -122.5369
-    ],
-    [
-      45.6187,
-      -122.5316
-    ],
-    [
-      45.6213,
-      -122.5227
-    ],
-    [
-      45.623,
-      -122.5166
+      45.628,
+      -122.5394
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-28T09:46:33.671Z"
+  "timestamp": "2026-08-28T16:16:39.708Z"
 }

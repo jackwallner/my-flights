@@ -28694,5 +28694,24 @@
     "initialDistance": 0.6701131776505974,
     "initialAltitude": 5900,
     "initialSpeed": 233
+  },
+  {
+    "callsign": "N960RT",
+    "flightNumber": null,
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "RAP",
+    "destination": "HIO",
+    "icao": "AD5DAF",
+    "registration": "N960RT",
+    "firstSeen": "2026-08-28T16:16:08.949Z",
+    "lastSeen": "2026-08-28T16:16:08.949Z",
+    "duration": 0,
+    "closestDistance": 0.5013132447493763,
+    "closestAltitude": 4850,
+    "closestSpeed": 252,
+    "initialDistance": 0.5013132447493763,
+    "initialAltitude": 4850,
+    "initialSpeed": 252
   }
 ]
