@@ -1,49 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.09,
-    "altitude": 2800,
-    "speed": 73,
-    "timestamp": "2026-08-28T04:30:01.324Z",
-    "lat": 45.6266,
-    "lon": -122.5269,
+    "distance": 0.33,
+    "altitude": 1550,
+    "speed": 109,
+    "timestamp": "2026-08-28T09:46:13.155Z",
+    "lat": 45.6213,
+    "lon": -122.5227,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N18586",
-    "aircraftType": "C150",
-    "origin": "TTD",
+    "callsign": "N456LF",
+    "aircraftType": "B407",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-06T23:57:53.810Z"
+    "firstSeen": "2026-02-02T02:02:55.616Z"
   },
-  "overheadScore": 0.09,
+  "overheadScore": 0.33,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6298,
-      -122.5188
+      45.6168,
+      -122.5369
     ],
     [
-      45.6284,
-      -122.5224
+      45.6187,
+      -122.5316
     ],
     [
-      45.6266,
-      -122.5269
+      45.6213,
+      -122.5227
     ],
     [
-      45.6249,
-      -122.5311
-    ],
-    [
-      45.6231,
-      -122.5355
-    ],
-    [
-      45.6217,
-      -122.5389
+      45.623,
+      -122.5166
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-28T04:30:42.392Z"
+  "status": "tracking",
+  "timestamp": "2026-08-28T09:46:23.422Z"
 }
