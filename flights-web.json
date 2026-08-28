@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 3800,
-    "speed": 106,
-    "timestamp": "2026-08-28T16:56:11.840Z",
-    "lat": 45.6234,
-    "lon": -122.5132,
-    "precision": "tracked"
+    "distance": 0.15,
+    "altitude": 1825,
+    "speed": 118,
+    "timestamp": "2026-08-28T17:37:06.793Z",
+    "lat": 45.6256,
+    "lon": -122.5246,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N2308J",
-    "aircraftType": "BE23",
-    "origin": "RLD",
-    "destination": "HIO",
-    "firstSeen": "2026-08-28T16:56:11.834Z"
+    "callsign": "N9185H",
+    "aircraftType": "C172",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6234,
-      -122.5132
+      45.6259,
+      -122.5416
     ],
     [
-      45.6193,
-      -122.5154
+      45.6259,
+      -122.5328
+    ],
+    [
+      45.6256,
+      -122.5246
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-28T16:56:42.665Z"
+  "status": "tracking",
+  "timestamp": "2026-08-28T17:37:06.793Z"
 }
