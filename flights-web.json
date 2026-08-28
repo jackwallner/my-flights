@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 750,
-    "speed": 65,
-    "timestamp": "2026-08-28T20:05:15.765Z",
-    "lat": 45.6232,
-    "lon": -122.5202,
+    "distance": 0.27,
+    "altitude": 1600,
+    "speed": 90,
+    "timestamp": "2026-08-28T20:47:04.089Z",
+    "lat": 45.6292,
+    "lon": -122.5252,
     "precision": "high"
   },
   "flight": {
-    "callsign": "HUSK",
-    "aircraftType": "HUSK",
+    "callsign": "N504PC",
+    "aircraftType": "TAMP",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-08-28T20:04:55.191Z"
+    "firstSeen": "2026-02-11T23:24:34.726Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.27,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6195,
-      -122.516
+      45.6298,
+      -122.537
     ],
     [
-      45.6207,
-      -122.5174
+      45.6295,
+      -122.5305
     ],
     [
-      45.6232,
-      -122.5202
+      45.6292,
+      -122.5252
+    ],
+    [
+      45.6289,
+      -122.5185
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-28T20:05:26.021Z"
+  "timestamp": "2026-08-28T20:47:24.826Z"
 }
