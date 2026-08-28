@@ -28713,5 +28713,24 @@
     "initialDistance": 0.5013132447493763,
     "initialAltitude": 4850,
     "initialSpeed": 252
+  },
+  {
+    "callsign": "N2308J",
+    "flightNumber": null,
+    "aircraftType": "BE23",
+    "aircraftName": null,
+    "origin": "RLD",
+    "destination": "HIO",
+    "icao": "A20BF9",
+    "registration": "N2308J",
+    "firstSeen": "2026-08-28T16:56:11.834Z",
+    "lastSeen": "2026-08-28T16:56:22.117Z",
+    "duration": 10,
+    "closestDistance": 0.6362369561706402,
+    "closestAltitude": 3800,
+    "closestSpeed": 106,
+    "initialDistance": 0.6362369561706402,
+    "initialAltitude": 3800,
+    "initialSpeed": 106
   }
 ]

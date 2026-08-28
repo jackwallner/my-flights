@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 4850,
-    "speed": 252,
-    "timestamp": "2026-08-28T16:16:08.955Z",
-    "lat": 45.628,
-    "lon": -122.5394,
+    "distance": 0.64,
+    "altitude": 3800,
+    "speed": 106,
+    "timestamp": "2026-08-28T16:56:11.840Z",
+    "lat": 45.6234,
+    "lon": -122.5132,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N960RT",
-    "aircraftType": "E55P",
-    "origin": "RAP",
+    "callsign": "N2308J",
+    "aircraftType": "BE23",
+    "origin": "RLD",
     "destination": "HIO",
-    "firstSeen": "2026-08-28T16:16:08.949Z"
+    "firstSeen": "2026-08-28T16:56:11.834Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.64,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.628,
-      -122.5394
+      45.6234,
+      -122.5132
+    ],
+    [
+      45.6193,
+      -122.5154
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-28T16:16:39.708Z"
+  "timestamp": "2026-08-28T16:56:42.665Z"
 }
