@@ -1,41 +1,37 @@
 {
   "closestApproach": {
     "distance": 0.15,
-    "altitude": 1825,
-    "speed": 118,
-    "timestamp": "2026-08-28T17:37:06.793Z",
-    "lat": 45.6256,
-    "lon": -122.5246,
+    "altitude": 4150,
+    "speed": 172,
+    "timestamp": "2026-08-28T19:13:12.083Z",
+    "lat": 45.6251,
+    "lon": -122.5317,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
-    "origin": null,
+    "callsign": "N352CL",
+    "aircraftType": "K100",
+    "origin": "LGD",
     "destination": null,
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "firstSeen": "2026-05-16T00:17:03.447Z"
   },
   "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6259,
-      -122.5416
+      45.6331,
+      -122.5272
     ],
     [
-      45.6259,
-      -122.5328
+      45.6251,
+      -122.5317
     ],
     [
-      45.6256,
-      -122.5246
-    ],
-    [
-      45.6254,
-      -122.5178
+      45.6187,
+      -122.5353
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-28T17:37:27.325Z"
+  "status": "tracking",
+  "timestamp": "2026-08-28T19:13:22.351Z"
 }
