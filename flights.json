@@ -28656,5 +28656,24 @@
     "initialDistance": 0.6367943714259354,
     "initialAltitude": 1475,
     "initialSpeed": 108
+  },
+  {
+    "callsign": "N6049K",
+    "flightNumber": null,
+    "aircraftType": "C82S",
+    "aircraftName": null,
+    "origin": "MVW",
+    "destination": "QSN",
+    "icao": "A7D9B8",
+    "registration": "N6049K",
+    "firstSeen": "2026-08-28T00:05:02.542Z",
+    "lastSeen": "2026-08-28T00:05:12.804Z",
+    "duration": 10,
+    "closestDistance": 0.6451343650287403,
+    "closestAltitude": 9925,
+    "closestSpeed": 121,
+    "initialDistance": 0.671635049063371,
+    "initialAltitude": 9825,
+    "initialSpeed": 121
   }
 ]
