@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 1600,
-    "speed": 90,
-    "timestamp": "2026-08-28T20:47:04.089Z",
-    "lat": 45.6292,
-    "lon": -122.5252,
+    "distance": 0.19,
+    "altitude": 2100,
+    "speed": 101,
+    "timestamp": "2026-08-29T00:19:52.799Z",
+    "lat": 45.6224,
+    "lon": -122.5262,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N504PC",
-    "aircraftType": "TAMP",
-    "origin": null,
+    "callsign": "N4466R",
+    "aircraftType": "C172",
+    "origin": "QSA",
     "destination": null,
-    "firstSeen": "2026-02-11T23:24:34.726Z"
+    "firstSeen": "2026-03-01T01:16:04.720Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.19,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6298,
-      -122.537
+      45.6192,
+      -122.5401
     ],
     [
-      45.6295,
-      -122.5305
+      45.6208,
+      -122.5329
     ],
     [
-      45.6292,
-      -122.5252
+      45.6224,
+      -122.5262
     ],
     [
-      45.6289,
-      -122.5185
+      45.624,
+      -122.5186
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-28T20:47:24.826Z"
+  "status": "tracking",
+  "timestamp": "2026-08-29T00:20:03.081Z"
 }
