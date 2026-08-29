@@ -1,29 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 3825,
-    "speed": 210,
-    "timestamp": "2026-08-29T19:46:07.506Z",
-    "lat": 45.6205,
-    "lon": -122.5189,
-    "precision": "tracked"
+    "distance": 0.27,
+    "altitude": 1100,
+    "speed": 83,
+    "timestamp": "2026-08-29T21:05:21.208Z",
+    "lat": 45.6252,
+    "lon": -122.5216,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
+    "callsign": "N924D",
+    "aircraftType": "RV6",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.27,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6205,
-      -122.5189
+      45.6212,
+      -122.5219
+    ],
+    [
+      45.6252,
+      -122.5216
+    ],
+    [
+      45.6291,
+      -122.5217
+    ],
+    [
+      45.632,
+      -122.522
+    ],
+    [
+      45.6357,
+      -122.5221
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-29T19:46:38.290Z"
+  "status": "tracking",
+  "timestamp": "2026-08-29T21:05:52.035Z"
 }
