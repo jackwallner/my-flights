@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 3775,
-    "speed": 88,
-    "timestamp": "2026-08-30T17:42:45.368Z",
-    "lat": 45.6253,
-    "lon": -122.5347,
+    "distance": 0.06,
+    "altitude": 2200,
+    "speed": 104,
+    "timestamp": "2026-08-30T18:24:05.172Z",
+    "lat": 45.6248,
+    "lon": -122.5268,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N308SU",
+    "callsign": "N4466R",
     "aircraftType": "C172",
-    "origin": "HIO",
-    "destination": "HIO",
-    "firstSeen": "2026-05-04T15:50:53.234Z"
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-03-01T01:16:04.720Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.06,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6337,
-      -122.5327
+      45.6252,
+      -122.5133
     ],
     [
-      45.6295,
-      -122.5337
+      45.6251,
+      -122.5201
     ],
     [
-      45.6253,
-      -122.5347
-    ],
-    [
-      45.6209,
-      -122.5354
-    ],
-    [
-      45.6168,
-      -122.5365
+      45.6248,
+      -122.5268
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-30T17:43:16.415Z"
+  "status": "tracking",
+  "timestamp": "2026-08-30T18:24:05.172Z"
 }
