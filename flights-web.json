@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.08,
-    "altitude": 1150,
-    "speed": 126,
-    "timestamp": "2026-08-30T06:28:12.733Z",
-    "lat": 45.626,
-    "lon": -122.5266,
+    "distance": 0.1,
+    "altitude": 7300,
+    "speed": 95,
+    "timestamp": "2026-08-30T16:40:54.955Z",
+    "lat": 45.6257,
+    "lon": -122.5258,
     "precision": "high"
   },
   "flight": {
-    "callsign": "EC35",
-    "aircraftType": "EC35",
+    "callsign": "N5283K",
+    "aircraftType": "C172",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-04T22:46:49.256Z"
+    "firstSeen": "2026-02-27T20:42:55.296Z"
   },
-  "overheadScore": 0.08,
+  "overheadScore": 0.1,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6274,
-      -122.5186
+      45.6181,
+      -122.5346
     ],
     [
-      45.626,
-      -122.5266
+      45.6218,
+      -122.5302
     ],
     [
-      45.6242,
-      -122.5365
+      45.6257,
+      -122.5258
+    ],
+    [
+      45.6287,
+      -122.5221
+    ],
+    [
+      45.6326,
+      -122.5177
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-30T06:28:33.437Z"
+  "timestamp": "2026-08-30T16:41:25.761Z"
 }
