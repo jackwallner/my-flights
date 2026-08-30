@@ -1,45 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.1,
-    "altitude": 7300,
-    "speed": 95,
-    "timestamp": "2026-08-30T16:40:54.955Z",
-    "lat": 45.6257,
-    "lon": -122.5258,
-    "precision": "high"
+    "distance": 0.12,
+    "altitude": 2000,
+    "speed": 126,
+    "timestamp": "2026-08-30T16:55:49.267Z",
+    "lat": 45.6233,
+    "lon": -122.5284,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5283K",
-    "aircraftType": "C172",
-    "origin": null,
+    "callsign": "N4456S",
+    "aircraftType": "Bona",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-27T20:42:55.296Z"
+    "firstSeen": "2026-06-11T18:37:00.158Z"
   },
-  "overheadScore": 0.1,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6181,
-      -122.5346
+      45.6215,
+      -122.5376
     ],
     [
-      45.6218,
-      -122.5302
-    ],
-    [
-      45.6257,
-      -122.5258
-    ],
-    [
-      45.6287,
-      -122.5221
-    ],
-    [
-      45.6326,
-      -122.5177
+      45.6233,
+      -122.5284
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-30T16:41:25.761Z"
+  "status": "tracking",
+  "timestamp": "2026-08-30T16:55:49.267Z"
 }
