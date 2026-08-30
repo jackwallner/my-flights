@@ -1,41 +1,53 @@
 {
   "closestApproach": {
-    "distance": 0.12,
-    "altitude": 2000,
-    "speed": 126,
-    "timestamp": "2026-08-30T16:55:49.267Z",
-    "lat": 45.6233,
-    "lon": -122.5284,
+    "distance": 0.35,
+    "altitude": 500,
+    "speed": 79,
+    "timestamp": "2026-08-30T17:37:36.690Z",
+    "lat": 45.626,
+    "lon": -122.5363,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N4456S",
-    "aircraftType": "Bona",
+    "callsign": "N7329A",
+    "aircraftType": "C150",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-06-11T18:37:00.158Z"
+    "firstSeen": "2026-03-19T23:10:51.367Z"
   },
-  "overheadScore": 0.12,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 7,
   "trail": [
     [
-      45.6215,
-      -122.5376
+      45.6365,
+      -122.5268
     ],
     [
-      45.6233,
-      -122.5284
+      45.6355,
+      -122.5323
     ],
     [
-      45.6251,
-      -122.5191
+      45.6328,
+      -122.5356
     ],
     [
-      45.6262,
-      -122.5121
+      45.6293,
+      -122.5361
+    ],
+    [
+      45.626,
+      -122.5363
+    ],
+    [
+      45.6221,
+      -122.5365
+    ],
+    [
+      45.6204,
+      -122.5335
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-30T16:56:20.067Z"
+  "status": "tracking",
+  "timestamp": "2026-08-30T17:37:57.245Z"
 }
