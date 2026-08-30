@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 4850,
-    "speed": 135,
-    "timestamp": "2026-08-30T19:55:10.911Z",
-    "lat": 45.6325,
-    "lon": -122.541,
-    "precision": "tracked"
+    "distance": 0.16,
+    "altitude": 6825,
+    "speed": 117,
+    "timestamp": "2026-08-30T21:23:53.924Z",
+    "lat": 45.6277,
+    "lon": -122.5298,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N618F",
-    "aircraftType": "C82S",
-    "origin": "COE",
-    "destination": "HIO",
-    "firstSeen": "2026-08-30T19:55:10.902Z"
+    "callsign": "N6256P",
+    "aircraftType": "PA24",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-08-30T21:23:33.406Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6325,
-      -122.541
+      45.6168,
+      -122.5342
+    ],
+    [
+      45.6224,
+      -122.5319
+    ],
+    [
+      45.6277,
+      -122.5298
+    ],
+    [
+      45.6337,
+      -122.5274
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-30T19:55:41.799Z"
+  "timestamp": "2026-08-30T21:24:14.494Z"
 }

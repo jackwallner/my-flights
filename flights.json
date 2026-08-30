@@ -28770,5 +28770,24 @@
     "initialDistance": 0.6933400385362041,
     "initialAltitude": 4850,
     "initialSpeed": 135
+  },
+  {
+    "callsign": "N6256P",
+    "flightNumber": null,
+    "aircraftType": "PA24",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A82C08",
+    "registration": "N6256P",
+    "firstSeen": "2026-08-30T21:23:33.406Z",
+    "lastSeen": "2026-08-30T21:24:04.212Z",
+    "duration": 31,
+    "closestDistance": 0.16164567562006063,
+    "closestAltitude": 6825,
+    "closestSpeed": 117,
+    "initialDistance": 0.569751473446813,
+    "initialAltitude": 6650,
+    "initialSpeed": 114
   }
 ]
