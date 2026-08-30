@@ -1,61 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 300,
-    "speed": 60,
-    "timestamp": "2026-08-30T17:38:17.770Z",
-    "lat": 45.6244,
-    "lon": -122.5312,
+    "distance": 0.28,
+    "altitude": 3775,
+    "speed": 88,
+    "timestamp": "2026-08-30T17:42:45.368Z",
+    "lat": 45.6253,
+    "lon": -122.5347,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N7329A",
-    "aircraftType": "C150",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-03-19T23:10:51.367Z"
+    "callsign": "N308SU",
+    "aircraftType": "C172",
+    "origin": "HIO",
+    "destination": "HIO",
+    "firstSeen": "2026-05-04T15:50:53.234Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 9,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6365,
-      -122.5268
+      45.6337,
+      -122.5327
     ],
     [
-      45.6355,
-      -122.5323
+      45.6295,
+      -122.5337
     ],
     [
-      45.6328,
-      -122.5356
+      45.6253,
+      -122.5347
     ],
     [
-      45.6293,
-      -122.5361
+      45.6209,
+      -122.5354
     ],
     [
-      45.626,
-      -122.5363
-    ],
-    [
-      45.6221,
+      45.6168,
       -122.5365
-    ],
-    [
-      45.6204,
-      -122.5335
-    ],
-    [
-      45.623,
-      -122.5316
-    ],
-    [
-      45.6244,
-      -122.5312
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-30T17:38:28.030Z"
+  "timestamp": "2026-08-30T17:43:16.415Z"
 }
