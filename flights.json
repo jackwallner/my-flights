@@ -28751,5 +28751,24 @@
     "initialDistance": 0.6157188269351258,
     "initialAltitude": 750,
     "initialSpeed": 65
+  },
+  {
+    "callsign": "N618F",
+    "flightNumber": null,
+    "aircraftType": "C82S",
+    "aircraftName": null,
+    "origin": "COE",
+    "destination": "HIO",
+    "icao": "A80CF3",
+    "registration": "N618F",
+    "firstSeen": "2026-08-30T19:55:10.902Z",
+    "lastSeen": "2026-08-30T19:55:10.902Z",
+    "duration": 0,
+    "closestDistance": 0.6933400385362041,
+    "closestAltitude": 4850,
+    "closestSpeed": 135,
+    "initialDistance": 0.6933400385362041,
+    "initialAltitude": 4850,
+    "initialSpeed": 135
   }
 ]
