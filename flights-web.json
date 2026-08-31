@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 1000,
-    "speed": 77,
-    "timestamp": "2026-08-31T20:43:57.044Z",
-    "lat": 45.6339,
-    "lon": -122.5206,
+    "distance": 0.52,
+    "altitude": 2400,
+    "speed": 201,
+    "timestamp": "2026-08-31T22:20:32.841Z",
+    "lat": 45.6198,
+    "lon": -122.5186,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N9505D",
-    "aircraftType": "PA22",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-08-31T20:43:46.782Z"
+    "callsign": "TDY007",
+    "aircraftType": "PC-1",
+    "origin": "BFI",
+    "destination": "PDX",
+    "firstSeen": "2026-05-18T22:08:46.446Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.52,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6327,
-      -122.5163
+      45.629,
+      -122.5139
     ],
     [
-      45.6339,
-      -122.5206
+      45.6198,
+      -122.5186
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-31T20:44:17.569Z"
+  "timestamp": "2026-08-31T22:20:53.401Z"
 }
