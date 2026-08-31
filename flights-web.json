@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 6825,
-    "speed": 117,
-    "timestamp": "2026-08-30T21:23:53.924Z",
-    "lat": 45.6277,
-    "lon": -122.5298,
-    "precision": "high"
+    "distance": 0.34,
+    "altitude": 700,
+    "speed": 83,
+    "timestamp": "2026-08-31T01:28:07.911Z",
+    "lat": 45.6199,
+    "lon": -122.5305,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6256P",
-    "aircraftType": "PA24",
+    "callsign": "N924D",
+    "aircraftType": "RV6",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-08-30T21:23:33.406Z"
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.34,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6168,
-      -122.5342
+      45.6202,
+      -122.5333
     ],
     [
-      45.6224,
-      -122.5319
-    ],
-    [
-      45.6277,
-      -122.5298
-    ],
-    [
-      45.6337,
-      -122.5274
+      45.6199,
+      -122.5305
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-30T21:24:14.494Z"
+  "timestamp": "2026-08-31T01:28:28.447Z"
 }
