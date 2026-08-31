@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 8200,
+    "distance": 0.17,
+    "altitude": 8300,
     "speed": 143,
-    "timestamp": "2026-08-31T17:41:53.373Z",
-    "lat": 45.6201,
-    "lon": -122.5247,
-    "precision": "tracked"
+    "timestamp": "2026-08-31T17:42:03.626Z",
+    "lat": 45.6255,
+    "lon": -122.5241,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N30VG",
@@ -15,15 +15,23 @@
     "destination": null,
     "firstSeen": "2026-06-02T19:07:30.461Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.17,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6201,
       -122.5247
+    ],
+    [
+      45.6255,
+      -122.5241
+    ],
+    [
+      45.6327,
+      -122.5237
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-31T17:41:53.373Z"
+  "status": "completed",
+  "timestamp": "2026-08-31T17:42:24.185Z"
 }
