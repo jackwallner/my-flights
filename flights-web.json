@@ -1,37 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 2125,
-    "speed": 145,
-    "timestamp": "2026-08-31T19:52:34.672Z",
-    "lat": 45.6301,
-    "lon": -122.5285,
+    "distance": 0.28,
+    "altitude": 1475,
+    "speed": 79,
+    "timestamp": "2026-08-31T19:59:46.186Z",
+    "lat": 45.6217,
+    "lon": -122.524,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N687SD",
-    "aircraftType": "RV8",
-    "origin": null,
+    "callsign": "N725FA",
+    "aircraftType": "RV12",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-14T00:32:15.774Z"
+    "firstSeen": "2026-06-11T20:05:42.436Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6352,
-      -122.5216
+      45.6167,
+      -122.5383
     ],
     [
-      45.6301,
-      -122.5285
+      45.6184,
+      -122.5331
     ],
     [
-      45.6249,
-      -122.5359
+      45.6198,
+      -122.5292
+    ],
+    [
+      45.6217,
+      -122.524
+    ],
+    [
+      45.6236,
+      -122.5196
+    ],
+    [
+      45.6256,
+      -122.5146
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-31T19:52:55.200Z"
+  "timestamp": "2026-08-31T20:00:16.991Z"
 }
