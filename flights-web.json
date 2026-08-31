@@ -1,45 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 1150,
-    "speed": 99,
-    "timestamp": "2026-08-31T04:00:24.463Z",
-    "lat": 45.6251,
-    "lon": -122.5329,
-    "precision": "high"
+    "distance": 0.63,
+    "altitude": 1250,
+    "speed": 98,
+    "timestamp": "2026-08-31T04:40:38.316Z",
+    "lat": 45.6162,
+    "lon": -122.5205,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N246LT",
-    "aircraftType": "SLG2",
-    "origin": "PAE",
+    "callsign": "N725FA",
+    "aircraftType": "RV12",
+    "origin": "SLE",
     "destination": null,
-    "firstSeen": "2026-02-05T06:48:57.804Z"
+    "firstSeen": "2026-06-11T20:05:42.436Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6346,
-      -122.5344
+      45.6146,
+      -122.5278
     ],
     [
-      45.6306,
-      -122.5336
-    ],
-    [
-      45.6251,
-      -122.5329
-    ],
-    [
-      45.6231,
-      -122.5327
-    ],
-    [
-      45.6156,
-      -122.5322
+      45.6162,
+      -122.5205
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-31T04:00:55.308Z"
+  "timestamp": "2026-08-31T04:40:58.843Z"
 }
