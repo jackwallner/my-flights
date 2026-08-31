@@ -28808,5 +28808,24 @@
     "initialDistance": 0.5978127985846801,
     "initialAltitude": 3000,
     "initialSpeed": 132
+  },
+  {
+    "callsign": "N9505D",
+    "flightNumber": null,
+    "aircraftType": "PA22",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "AD37B2",
+    "registration": "N9505D",
+    "firstSeen": "2026-08-31T20:43:46.782Z",
+    "lastSeen": "2026-08-31T20:43:57.036Z",
+    "duration": 10,
+    "closestDistance": 0.6060506987622339,
+    "closestAltitude": 1000,
+    "closestSpeed": 77,
+    "initialDistance": 0.6666285159165968,
+    "initialAltitude": 900,
+    "initialSpeed": 79
   }
 ]
