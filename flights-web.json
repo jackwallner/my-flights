@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.09,
-    "altitude": 3300,
-    "speed": 113,
-    "timestamp": "2026-08-31T17:18:43.966Z",
-    "lat": 45.6243,
-    "lon": -122.5298,
-    "precision": "high"
+    "distance": 0.34,
+    "altitude": 8200,
+    "speed": 143,
+    "timestamp": "2026-08-31T17:41:53.373Z",
+    "lat": 45.6201,
+    "lon": -122.5247,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "NGF7818",
-    "aircraftType": "BE33",
-    "origin": "TTD",
-    "destination": "MFR",
-    "firstSeen": "2026-08-31T17:18:23.356Z"
+    "callsign": "N30VG",
+    "aircraftType": "T210",
+    "origin": "QSA",
+    "destination": null,
+    "firstSeen": "2026-06-02T19:07:30.461Z"
   },
-  "overheadScore": 0.09,
+  "overheadScore": 0.34,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6304,
-      -122.5159
-    ],
-    [
-      45.6286,
-      -122.524
-    ],
-    [
-      45.6243,
-      -122.5298
-    ],
-    [
-      45.6196,
-      -122.5331
+      45.6201,
+      -122.5247
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-31T17:19:04.610Z"
+  "status": "tracking",
+  "timestamp": "2026-08-31T17:41:53.373Z"
 }
