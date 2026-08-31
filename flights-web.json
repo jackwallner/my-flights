@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 2200,
-    "speed": 101,
-    "timestamp": "2026-08-31T01:50:01.779Z",
-    "lat": 45.6217,
-    "lon": -122.5305,
+    "distance": 0.28,
+    "altitude": 1250,
+    "speed": 135,
+    "timestamp": "2026-08-31T02:33:32.143Z",
+    "lat": 45.6253,
+    "lon": -122.5348,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N4466R",
-    "aircraftType": "C172",
-    "origin": "EUG",
+    "callsign": "N1561B",
+    "aircraftType": "Bona",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-01T01:16:04.720Z"
+    "firstSeen": "2026-04-09T14:17:01.652Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.621,
-      -122.538
+      45.631,
+      -122.527
     ],
     [
-      45.6217,
-      -122.5305
+      45.6253,
+      -122.5348
     ],
     [
-      45.6224,
-      -122.5233
-    ],
-    [
-      45.6229,
-      -122.5164
+      45.6207,
+      -122.5414
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-31T01:50:32.624Z"
+  "timestamp": "2026-08-31T02:33:52.660Z"
 }
