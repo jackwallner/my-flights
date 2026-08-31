@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 1250,
-    "speed": 135,
-    "timestamp": "2026-08-31T02:33:32.143Z",
-    "lat": 45.6253,
-    "lon": -122.5348,
+    "distance": 0.2,
+    "altitude": 1150,
+    "speed": 99,
+    "timestamp": "2026-08-31T04:00:24.463Z",
+    "lat": 45.6251,
+    "lon": -122.5329,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N1561B",
-    "aircraftType": "Bona",
-    "origin": "TTD",
+    "callsign": "N246LT",
+    "aircraftType": "SLG2",
+    "origin": "PAE",
     "destination": null,
-    "firstSeen": "2026-04-09T14:17:01.652Z"
+    "firstSeen": "2026-02-05T06:48:57.804Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.631,
-      -122.527
+      45.6346,
+      -122.5344
     ],
     [
-      45.6253,
-      -122.5348
+      45.6306,
+      -122.5336
     ],
     [
-      45.6207,
-      -122.5414
+      45.6251,
+      -122.5329
+    ],
+    [
+      45.6231,
+      -122.5327
+    ],
+    [
+      45.6156,
+      -122.5322
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-31T02:33:52.660Z"
+  "timestamp": "2026-08-31T04:00:55.308Z"
 }
