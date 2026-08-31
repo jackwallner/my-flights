@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 2025,
-    "speed": 141,
-    "timestamp": "2026-08-31T19:52:24.411Z",
-    "lat": 45.6352,
-    "lon": -122.5216,
-    "precision": "tracked"
+    "distance": 0.29,
+    "altitude": 2125,
+    "speed": 145,
+    "timestamp": "2026-08-31T19:52:34.672Z",
+    "lat": 45.6301,
+    "lon": -122.5285,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N687SD",
@@ -15,15 +15,23 @@
     "destination": null,
     "firstSeen": "2026-02-14T00:32:15.774Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6352,
       -122.5216
+    ],
+    [
+      45.6301,
+      -122.5285
+    ],
+    [
+      45.6249,
+      -122.5359
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-08-31T19:52:24.411Z"
+  "status": "completed",
+  "timestamp": "2026-08-31T19:52:55.200Z"
 }
