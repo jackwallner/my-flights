@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 9800,
-    "speed": 152,
-    "timestamp": "2026-08-31T18:08:47.579Z",
-    "lat": 45.6247,
-    "lon": -122.5232,
-    "precision": "high"
+    "distance": 0.37,
+    "altitude": 4075,
+    "speed": 202,
+    "timestamp": "2026-08-31T19:22:16.668Z",
+    "lat": 45.6291,
+    "lon": -122.5211,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N30VG",
-    "aircraftType": "T210",
-    "origin": "QSA",
+    "callsign": "F2TH",
+    "aircraftType": "F2TH",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-06-02T19:07:30.461Z"
+    "firstSeen": "2026-02-27T01:55:35.322Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.621,
-      -122.5428
-    ],
-    [
-      45.6209,
-      -122.5326
-    ],
-    [
-      45.6247,
-      -122.5232
-    ],
-    [
-      45.6269,
-      -122.5152
+      45.6291,
+      -122.5211
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-08-31T18:09:08.132Z"
+  "status": "tracking",
+  "timestamp": "2026-08-31T19:22:16.668Z"
 }
