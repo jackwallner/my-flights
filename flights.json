@@ -28789,5 +28789,24 @@
     "initialDistance": 0.569751473446813,
     "initialAltitude": 6650,
     "initialSpeed": 114
+  },
+  {
+    "callsign": "NGF7818",
+    "flightNumber": "NGF7818",
+    "aircraftType": "BE33",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": "MFR",
+    "icao": "A0D46F",
+    "registration": "N1523S",
+    "firstSeen": "2026-08-31T17:18:23.356Z",
+    "lastSeen": "2026-08-31T17:18:54.252Z",
+    "duration": 31,
+    "closestDistance": 0.09214573370693933,
+    "closestAltitude": 3300,
+    "closestSpeed": 113,
+    "initialDistance": 0.5978127985846801,
+    "initialAltitude": 3000,
+    "initialSpeed": 132
   }
 ]

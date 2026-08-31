@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 1250,
-    "speed": 98,
-    "timestamp": "2026-08-31T04:40:38.316Z",
-    "lat": 45.6162,
-    "lon": -122.5205,
-    "precision": "tracked"
+    "distance": 0.09,
+    "altitude": 3300,
+    "speed": 113,
+    "timestamp": "2026-08-31T17:18:43.966Z",
+    "lat": 45.6243,
+    "lon": -122.5298,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N725FA",
-    "aircraftType": "RV12",
-    "origin": "SLE",
-    "destination": null,
-    "firstSeen": "2026-06-11T20:05:42.436Z"
+    "callsign": "NGF7818",
+    "aircraftType": "BE33",
+    "origin": "TTD",
+    "destination": "MFR",
+    "firstSeen": "2026-08-31T17:18:23.356Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.09,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6146,
-      -122.5278
+      45.6304,
+      -122.5159
     ],
     [
-      45.6162,
-      -122.5205
+      45.6286,
+      -122.524
+    ],
+    [
+      45.6243,
+      -122.5298
+    ],
+    [
+      45.6196,
+      -122.5331
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-08-31T04:40:58.843Z"
+  "timestamp": "2026-08-31T17:19:04.610Z"
 }
