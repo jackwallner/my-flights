@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 4200,
-    "speed": 95,
-    "timestamp": "2026-09-01T02:31:12.624Z",
-    "lat": 45.632,
-    "lon": -122.5376,
-    "precision": "high"
+    "distance": 0.69,
+    "altitude": 2200,
+    "speed": 123,
+    "timestamp": "2026-09-01T21:31:04.070Z",
+    "lat": 45.6155,
+    "lon": -122.5195,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4803G",
-    "aircraftType": "C172",
-    "origin": "RLD",
+    "callsign": "N8031X",
+    "aircraftType": "RV6",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-09-01T02:31:02.363Z"
+    "firstSeen": "2026-09-01T21:31:04.063Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6346,
-      -122.5335
-    ],
-    [
-      45.632,
-      -122.5376
-    ],
-    [
-      45.629,
-      -122.5427
+      45.6155,
+      -122.5195
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-01T02:31:33.220Z"
+  "timestamp": "2026-09-01T21:31:35.026Z"
 }

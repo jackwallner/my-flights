@@ -28846,5 +28846,24 @@
     "initialDistance": 0.6035550308280573,
     "initialAltitude": 4300,
     "initialSpeed": 96
+  },
+  {
+    "callsign": "N8031X",
+    "flightNumber": null,
+    "aircraftType": "RV6",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "AAEF93",
+    "registration": "N8031X",
+    "firstSeen": "2026-09-01T21:31:04.063Z",
+    "lastSeen": "2026-09-01T21:31:04.063Z",
+    "duration": 0,
+    "closestDistance": 0.6896408776423818,
+    "closestAltitude": 2200,
+    "closestSpeed": 123,
+    "initialDistance": 0.6896408776423818,
+    "initialAltitude": 2200,
+    "initialSpeed": 123
   }
 ]
