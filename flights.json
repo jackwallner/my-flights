@@ -28827,5 +28827,24 @@
     "initialDistance": 0.6666285159165968,
     "initialAltitude": 900,
     "initialSpeed": 79
+  },
+  {
+    "callsign": "N4803G",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "RLD",
+    "destination": null,
+    "icao": "A5EB61",
+    "registration": "N4803G",
+    "firstSeen": "2026-09-01T02:31:02.363Z",
+    "lastSeen": "2026-09-01T02:31:22.895Z",
+    "duration": 21,
+    "closestDistance": 0.5669900827743728,
+    "closestAltitude": 4200,
+    "closestSpeed": 95,
+    "initialDistance": 0.6035550308280573,
+    "initialAltitude": 4300,
+    "initialSpeed": 96
   }
 ]
