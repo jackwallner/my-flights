@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 2200,
-    "speed": 123,
-    "timestamp": "2026-09-01T21:31:04.070Z",
-    "lat": 45.6155,
-    "lon": -122.5195,
-    "precision": "tracked"
+    "distance": 0.44,
+    "altitude": 2300,
+    "speed": 151,
+    "timestamp": "2026-09-01T23:24:10.153Z",
+    "lat": 45.618,
+    "lon": -122.5263,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N8031X",
     "aircraftType": "RV6",
-    "origin": "TTD",
+    "origin": "HIO",
     "destination": null,
     "firstSeen": "2026-09-01T21:31:04.063Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.44,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6155,
-      -122.5195
+      45.6176,
+      -122.5369
+    ],
+    [
+      45.618,
+      -122.5263
+    ],
+    [
+      45.6183,
+      -122.5154
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-01T21:31:35.026Z"
+  "timestamp": "2026-09-01T23:24:30.720Z"
 }
