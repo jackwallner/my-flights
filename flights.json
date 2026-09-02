@@ -28865,5 +28865,24 @@
     "initialDistance": 0.6896408776423818,
     "initialAltitude": 2200,
     "initialSpeed": 123
+  },
+  {
+    "callsign": "AMF8035",
+    "flightNumber": "A88035",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "AST",
+    "icao": "A1EC47",
+    "registration": "N223BH",
+    "firstSeen": "2026-09-02T20:22:49.075Z",
+    "lastSeen": "2026-09-02T20:22:59.364Z",
+    "duration": 10,
+    "closestDistance": 0.5080529346888121,
+    "closestAltitude": 2525,
+    "closestSpeed": 167,
+    "initialDistance": 0.6215376206922792,
+    "initialAltitude": 2450,
+    "initialSpeed": 154
   }
 ]
