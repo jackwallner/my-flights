@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 2975,
-    "speed": 175,
-    "timestamp": "2026-09-03T14:57:21.946Z",
-    "lat": 45.6299,
-    "lon": -122.5343,
+    "distance": 0.18,
+    "altitude": 3000,
+    "speed": 169,
+    "timestamp": "2026-09-03T15:38:40.169Z",
+    "lat": 45.6282,
+    "lon": -122.5285,
     "precision": "high"
   },
   "flight": {
-    "callsign": "AMF1964",
-    "aircraftType": "BE99",
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "HES",
-    "firstSeen": "2026-02-05T15:33:22.640Z"
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.18,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
       45.6204,
-      -122.5378
+      -122.5322
     ],
     [
-      45.6299,
-      -122.5343
+      45.6282,
+      -122.5285
     ],
     [
-      45.6365,
-      -122.5317
+      45.6348,
+      -122.525
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-03T14:57:42.551Z"
+  "timestamp": "2026-09-03T15:39:00.686Z"
 }
