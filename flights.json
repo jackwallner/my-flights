@@ -28922,5 +28922,24 @@
     "initialDistance": 0.6042520556868979,
     "initialAltitude": 2000,
     "initialSpeed": 128
+  },
+  {
+    "callsign": "N1328Z",
+    "flightNumber": null,
+    "aircraftType": "BE35",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": "RKS",
+    "icao": "A08627",
+    "registration": "N1328Z",
+    "firstSeen": "2026-09-03T22:29:24.678Z",
+    "lastSeen": "2026-09-03T22:29:34.932Z",
+    "duration": 10,
+    "closestDistance": 0.46788869783864273,
+    "closestAltitude": 7075,
+    "closestSpeed": 161,
+    "initialDistance": 0.6459549884633324,
+    "initialAltitude": 7100,
+    "initialSpeed": 155
   }
 ]
