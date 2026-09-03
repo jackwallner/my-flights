@@ -6,7 +6,7 @@
     "timestamp": "2026-09-03T23:25:10.861Z",
     "lat": 45.6219,
     "lon": -122.5291,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "TDY1288",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.21,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.616,
@@ -26,8 +26,12 @@
     [
       45.6219,
       -122.5291
+    ],
+    [
+      45.6312,
+      -122.5242
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-03T23:25:10.861Z"
+  "status": "completed",
+  "timestamp": "2026-09-03T23:25:31.783Z"
 }
