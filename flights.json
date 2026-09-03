@@ -28884,5 +28884,24 @@
     "initialDistance": 0.6215376206922792,
     "initialAltitude": 2450,
     "initialSpeed": 154
+  },
+  {
+    "callsign": "TDY1776",
+    "flightNumber": "TDY1776",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A9B357",
+    "registration": "N724KP",
+    "firstSeen": "2026-09-03T13:40:35.851Z",
+    "lastSeen": "2026-09-03T13:40:56.541Z",
+    "duration": 21,
+    "closestDistance": 0.17887844695895014,
+    "closestAltitude": 2600,
+    "closestSpeed": 178,
+    "initialDistance": 0.6101391980580193,
+    "initialAltitude": 2300,
+    "initialSpeed": 179
   }
 ]

@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 2125,
-    "speed": 108,
-    "timestamp": "2026-09-03T07:04:40.605Z",
-    "lat": 45.6294,
-    "lon": -122.5341,
+    "distance": 0.18,
+    "altitude": 2600,
+    "speed": 178,
+    "timestamp": "2026-09-03T13:40:46.133Z",
+    "lat": 45.6224,
+    "lon": -122.5292,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N491TC",
-    "aircraftType": "DA40",
+    "callsign": "TDY1776",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-07-10T05:42:24.386Z"
+    "destination": "BFI",
+    "firstSeen": "2026-09-03T13:40:35.851Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6194,
-      -122.5399
+      45.6159,
+      -122.5337
     ],
     [
-      45.6249,
-      -122.5368
+      45.6224,
+      -122.5292
     ],
     [
-      45.6294,
-      -122.5341
-    ],
-    [
-      45.6347,
-      -122.5309
+      45.6304,
+      -122.523
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-03T07:05:01.438Z"
+  "timestamp": "2026-09-03T13:41:06.798Z"
 }
