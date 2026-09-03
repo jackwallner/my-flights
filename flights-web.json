@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.06,
-    "altitude": 2425,
-    "speed": 131,
-    "timestamp": "2026-09-03T23:10:05.211Z",
-    "lat": 45.6254,
-    "lon": -122.5267,
-    "precision": "high"
+    "distance": 0.21,
+    "altitude": 1950,
+    "speed": 161,
+    "timestamp": "2026-09-03T23:25:10.861Z",
+    "lat": 45.6219,
+    "lon": -122.5291,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N511EX",
-    "aircraftType": "Cara",
+    "callsign": "TDY1288",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "FRD",
-    "firstSeen": "2026-02-02T20:45:56.983Z"
+    "destination": "BFI",
+    "firstSeen": "2026-06-17T22:14:22.880Z"
   },
-  "overheadScore": 0.06,
+  "overheadScore": 0.21,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6148,
-      -122.5337
+      45.616,
+      -122.5323
     ],
     [
-      45.6207,
-      -122.5298
-    ],
-    [
-      45.6254,
-      -122.5267
-    ],
-    [
-      45.6326,
-      -122.5222
+      45.6219,
+      -122.5291
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-03T23:10:25.787Z"
+  "status": "tracking",
+  "timestamp": "2026-09-03T23:25:10.861Z"
 }
