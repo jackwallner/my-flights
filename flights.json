@@ -28903,5 +28903,24 @@
     "initialDistance": 0.6101391980580193,
     "initialAltitude": 2300,
     "initialSpeed": 179
+  },
+  {
+    "callsign": "CFS123",
+    "flightNumber": "EM123",
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "AST",
+    "icao": "AD4F2A",
+    "registration": "N957FE",
+    "firstSeen": "2026-09-03T22:00:06.063Z",
+    "lastSeen": "2026-09-03T22:00:26.647Z",
+    "duration": 21,
+    "closestDistance": 0.5419271248712537,
+    "closestAltitude": 2150,
+    "closestSpeed": 128,
+    "initialDistance": 0.6042520556868979,
+    "initialAltitude": 2000,
+    "initialSpeed": 128
   }
 ]
