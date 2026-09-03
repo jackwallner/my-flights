@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 7075,
-    "speed": 161,
-    "timestamp": "2026-09-03T22:29:34.937Z",
-    "lat": 45.6194,
-    "lon": -122.5208,
-    "precision": "tracked"
+    "distance": 0.06,
+    "altitude": 2425,
+    "speed": 131,
+    "timestamp": "2026-09-03T23:10:05.211Z",
+    "lat": 45.6254,
+    "lon": -122.5267,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N1328Z",
-    "aircraftType": "BE35",
-    "origin": "HIO",
-    "destination": "RKS",
-    "firstSeen": "2026-09-03T22:29:24.678Z"
+    "callsign": "N511EX",
+    "aircraftType": "Cara",
+    "origin": "PDX",
+    "destination": "FRD",
+    "firstSeen": "2026-02-02T20:45:56.983Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.06,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6147,
-      -122.5309
+      45.6148,
+      -122.5337
     ],
     [
-      45.6194,
-      -122.5208
+      45.6207,
+      -122.5298
+    ],
+    [
+      45.6254,
+      -122.5267
+    ],
+    [
+      45.6326,
+      -122.5222
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-03T22:29:55.469Z"
+  "timestamp": "2026-09-03T23:10:25.787Z"
 }
