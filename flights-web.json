@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 2700,
-    "speed": 146,
-    "timestamp": "2026-09-04T21:06:04.584Z",
-    "lat": 45.6218,
-    "lon": -122.5272,
+    "distance": 0.14,
+    "altitude": 1625,
+    "speed": 128,
+    "timestamp": "2026-09-04T21:47:42.979Z",
+    "lat": 45.6267,
+    "lon": -122.5254,
     "precision": "high"
   },
   "flight": {
-    "callsign": "BTQ354",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-01-31T21:45:56.090Z"
+    "callsign": "N790BP",
+    "aircraftType": "B407",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-09-04T21:47:32.355Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.14,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6148,
-      -122.5306
+      45.6288,
+      -122.5191
     ],
     [
-      45.6218,
-      -122.5272
+      45.6267,
+      -122.5254
     ],
     [
-      45.628,
-      -122.5239
+      45.6241,
+      -122.5331
     ],
     [
-      45.6353,
-      -122.5198
+      45.6209,
+      -122.5408
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-04T21:06:35.385Z"
+  "status": "tracking",
+  "timestamp": "2026-09-04T21:48:03.509Z"
 }
