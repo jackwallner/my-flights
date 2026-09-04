@@ -28979,5 +28979,24 @@
     "initialDistance": 0.4333898674889168,
     "initialAltitude": 1750,
     "initialSpeed": 124
+  },
+  {
+    "callsign": "AMF2221",
+    "flightNumber": "A82221",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BLI",
+    "icao": "A1EC47",
+    "registration": "N223BH",
+    "firstSeen": "2026-09-04T21:49:46.667Z",
+    "lastSeen": "2026-09-04T21:49:57.087Z",
+    "duration": 10,
+    "closestDistance": 0.31353215245590565,
+    "closestAltitude": 3100,
+    "closestSpeed": 192,
+    "initialDistance": 0.5669462205033592,
+    "initialAltitude": 3025,
+    "initialSpeed": 188
   }
 ]

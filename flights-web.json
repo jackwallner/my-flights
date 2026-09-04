@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 1625,
-    "speed": 128,
-    "timestamp": "2026-09-04T21:47:42.979Z",
-    "lat": 45.6267,
-    "lon": -122.5254,
-    "precision": "high"
+    "distance": 0.31,
+    "altitude": 3100,
+    "speed": 192,
+    "timestamp": "2026-09-04T21:49:57.094Z",
+    "lat": 45.6284,
+    "lon": -122.5341,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N790BP",
-    "aircraftType": "B407",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-09-04T21:47:32.355Z"
+    "callsign": "AMF2221",
+    "aircraftType": "BE99",
+    "origin": "PDX",
+    "destination": "BLI",
+    "firstSeen": "2026-09-04T21:49:46.667Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6288,
-      -122.5191
+      45.6201,
+      -122.5394
     ],
     [
-      45.6267,
-      -122.5254
-    ],
-    [
-      45.6241,
-      -122.5331
-    ],
-    [
-      45.6209,
-      -122.5408
+      45.6284,
+      -122.5341
     ]
   ],
   "status": "tracking",
-  "timestamp": "2026-09-04T21:48:03.509Z"
+  "timestamp": "2026-09-04T21:49:57.094Z"
 }
