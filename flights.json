@@ -28941,5 +28941,24 @@
     "initialDistance": 0.6459549884633324,
     "initialAltitude": 7100,
     "initialSpeed": 155
+  },
+  {
+    "callsign": "C150",
+    "flightNumber": null,
+    "aircraftType": "C150",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-09-04T19:05:17.303Z",
+    "lastSeen": "2026-09-04T19:05:27.566Z",
+    "duration": 10,
+    "closestDistance": 0.6143456326601372,
+    "closestAltitude": 1600,
+    "closestSpeed": 61,
+    "initialDistance": 0.6143456326601372,
+    "initialAltitude": 1600,
+    "initialSpeed": 61
   }
 ]
