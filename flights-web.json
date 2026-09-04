@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 2400,
-    "speed": 148,
-    "timestamp": "2026-09-04T21:05:54.287Z",
-    "lat": 45.6148,
-    "lon": -122.5306,
-    "precision": "tracked"
+    "distance": 0.21,
+    "altitude": 2700,
+    "speed": 146,
+    "timestamp": "2026-09-04T21:06:04.584Z",
+    "lat": 45.6218,
+    "lon": -122.5272,
+    "precision": "high"
   },
   "flight": {
     "callsign": "BTQ354",
@@ -15,15 +15,27 @@
     "destination": "PDT",
     "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.21,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6148,
       -122.5306
+    ],
+    [
+      45.6218,
+      -122.5272
+    ],
+    [
+      45.628,
+      -122.5239
+    ],
+    [
+      45.6353,
+      -122.5198
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-04T21:05:54.287Z"
+  "status": "completed",
+  "timestamp": "2026-09-04T21:06:35.385Z"
 }
