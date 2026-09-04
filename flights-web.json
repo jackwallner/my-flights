@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 1600,
-    "speed": 61,
-    "timestamp": "2026-09-04T19:05:17.310Z",
-    "lat": 45.6245,
-    "lon": -122.5427,
+    "distance": 0.7,
+    "altitude": 4825,
+    "speed": 254,
+    "timestamp": "2026-09-04T20:15:02.444Z",
+    "lat": 45.628,
+    "lon": -122.5443,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "C150",
-    "aircraftType": "C150",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-09-04T19:05:17.303Z"
+    "callsign": "N175AA",
+    "aircraftType": "Cita",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-02-27T20:27:06.915Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.7,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6245,
-      -122.5427
-    ],
-    [
-      45.6273,
-      -122.5437
+      45.628,
+      -122.5443
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-04T19:05:48.155Z"
+  "timestamp": "2026-09-04T20:15:33.274Z"
 }
