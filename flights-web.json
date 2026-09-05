@@ -1,61 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 1825,
-    "speed": 105,
-    "timestamp": "2026-09-05T22:00:16.783Z",
-    "lat": 45.6194,
-    "lon": -122.5302,
+    "distance": 0.57,
+    "altitude": 1400,
+    "speed": 111,
+    "timestamp": "2026-09-05T22:25:39.184Z",
+    "lat": 45.6166,
+    "lon": -122.5228,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N545DS",
-    "aircraftType": "C172",
-    "origin": "PDX",
+    "callsign": "N790BP",
+    "aircraftType": "B407",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-18T22:38:02.420Z"
+    "firstSeen": "2026-09-04T21:47:32.355Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.57,
   "isOverhead": true,
-  "pathSnapshots": 9,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6218,
-      -122.5435
+      45.6187,
+      -122.5177
     ],
     [
-      45.6207,
-      -122.5378
+      45.6166,
+      -122.5228
     ],
     [
-      45.6194,
-      -122.5302
-    ],
-    [
-      45.6201,
-      -122.5234
-    ],
-    [
-      45.624,
-      -122.5192
-    ],
-    [
-      45.629,
-      -122.5199
-    ],
-    [
-      45.6314,
-      -122.5241
-    ],
-    [
-      45.6324,
-      -122.5291
-    ],
-    [
-      45.6335,
-      -122.5362
+      45.6138,
+      -122.5294
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-05T22:01:28.834Z"
+  "timestamp": "2026-09-05T22:25:59.743Z"
 }
