@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 3875,
-    "speed": 253,
-    "timestamp": "2026-09-05T18:46:16.028Z",
-    "lat": 45.6296,
-    "lon": -122.5391,
-    "precision": "tracked"
+    "distance": 0.36,
+    "altitude": 1825,
+    "speed": 105,
+    "timestamp": "2026-09-05T22:00:16.783Z",
+    "lat": 45.6194,
+    "lon": -122.5302,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N605JG",
-    "aircraftType": "B350",
-    "origin": "TIW",
-    "destination": "QSA",
-    "firstSeen": "2026-03-27T23:56:07.946Z"
+    "callsign": "N545DS",
+    "aircraftType": "C172",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-03-18T22:38:02.420Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6296,
-      -122.5391
+      45.6218,
+      -122.5435
+    ],
+    [
+      45.6207,
+      -122.5378
+    ],
+    [
+      45.6194,
+      -122.5302
+    ],
+    [
+      45.6201,
+      -122.5234
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-05T18:46:46.924Z"
+  "status": "tracking",
+  "timestamp": "2026-09-05T22:00:27.077Z"
 }
