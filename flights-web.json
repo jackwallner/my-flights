@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.57,
-    "altitude": 1400,
-    "speed": 111,
-    "timestamp": "2026-09-05T22:25:39.184Z",
-    "lat": 45.6166,
-    "lon": -122.5228,
+    "distance": 0.29,
+    "altitude": 2500,
+    "speed": 85,
+    "timestamp": "2026-09-05T23:04:22.999Z",
+    "lat": 45.6293,
+    "lon": -122.5244,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N790BP",
-    "aircraftType": "B407",
+    "callsign": "N66119",
+    "aircraftType": "C150",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-09-04T21:47:32.355Z"
+    "firstSeen": "2026-09-05T23:04:02.398Z"
   },
-  "overheadScore": 0.57,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6187,
-      -122.5177
+      45.6247,
+      -122.5142
     ],
     [
-      45.6166,
-      -122.5228
+      45.6264,
+      -122.518
     ],
     [
-      45.6138,
-      -122.5294
+      45.6293,
+      -122.5244
+    ],
+    [
+      45.6313,
+      -122.5283
+    ],
+    [
+      45.6339,
+      -122.5336
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-05T22:25:59.743Z"
+  "status": "tracking",
+  "timestamp": "2026-09-05T23:04:43.550Z"
 }

@@ -28998,5 +28998,24 @@
     "initialDistance": 0.5669462205033592,
     "initialAltitude": 3025,
     "initialSpeed": 188
+  },
+  {
+    "callsign": "N66119",
+    "flightNumber": null,
+    "aircraftType": "C150",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A8BA8D",
+    "registration": "N66119",
+    "firstSeen": "2026-09-05T23:04:02.398Z",
+    "lastSeen": "2026-09-05T23:04:43.539Z",
+    "duration": 41,
+    "closestDistance": 0.2872819902674197,
+    "closestAltitude": 2500,
+    "closestSpeed": 85,
+    "initialDistance": 0.585181406911287,
+    "initialAltitude": 2650,
+    "initialSpeed": 88
   }
 ]
