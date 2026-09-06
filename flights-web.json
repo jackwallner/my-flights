@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 1325,
-    "speed": 134,
-    "timestamp": "2026-09-06T05:39:25.589Z",
-    "lat": 45.6251,
-    "lon": -122.5193,
-    "precision": "tracked"
+    "distance": 0.09,
+    "altitude": 1275,
+    "speed": 133,
+    "timestamp": "2026-09-06T05:39:35.858Z",
+    "lat": 45.6243,
+    "lon": -122.5264,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N451LF",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-02-02T23:23:22.298Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.09,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6259,
@@ -26,8 +26,16 @@
     [
       45.6251,
       -122.5193
+    ],
+    [
+      45.6243,
+      -122.5264
+    ],
+    [
+      45.6233,
+      -122.5351
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-06T05:39:25.589Z"
+  "status": "completed",
+  "timestamp": "2026-09-06T05:39:56.398Z"
 }
