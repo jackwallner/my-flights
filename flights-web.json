@@ -1,29 +1,65 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 5900,
-    "speed": 135,
-    "timestamp": "2026-09-06T17:16:00.403Z",
-    "lat": 45.6316,
-    "lon": -122.5394,
-    "precision": "tracked"
+    "distance": 0.14,
+    "altitude": 300,
+    "speed": 71,
+    "timestamp": "2026-09-07T02:59:10.010Z",
+    "lat": 45.6264,
+    "lon": -122.5309,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N7236U",
-    "aircraftType": "P32R",
-    "origin": "QSA",
-    "destination": "TIW",
-    "firstSeen": "2026-09-06T17:16:00.396Z"
+    "callsign": "N924D",
+    "aircraftType": "RV6",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.14,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 10,
   "trail": [
     [
-      45.6316,
-      -122.5394
+      45.6297,
+      -122.5423
+    ],
+    [
+      45.6262,
+      -122.5428
+    ],
+    [
+      45.6224,
+      -122.5423
+    ],
+    [
+      45.6205,
+      -122.5401
+    ],
+    [
+      45.6198,
+      -122.5369
+    ],
+    [
+      45.6222,
+      -122.5315
+    ],
+    [
+      45.6264,
+      -122.5309
+    ],
+    [
+      45.6264,
+      -122.5309
+    ],
+    [
+      45.6264,
+      -122.5309
+    ],
+    [
+      45.634,
+      -122.5303
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-06T17:16:31.300Z"
+  "timestamp": "2026-09-07T02:59:51.207Z"
 }
