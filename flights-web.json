@@ -1,29 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 6425,
-    "speed": 246,
-    "timestamp": "2026-09-07T03:00:11.950Z",
-    "lat": 45.6229,
-    "lon": -122.5416,
-    "precision": "tracked"
+    "distance": 0.16,
+    "altitude": 1300,
+    "speed": 72,
+    "timestamp": "2026-09-07T21:27:53.724Z",
+    "lat": 45.6227,
+    "lon": -122.5291,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N464EG",
-    "aircraftType": "Cita",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-02-15T23:11:09.300Z"
+    "callsign": "N917KF",
+    "aircraftType": "R22",
+    "origin": "KLS",
+    "destination": null,
+    "firstSeen": "2026-02-13T18:16:54.196Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6229,
-      -122.5416
+      45.6308,
+      -122.5401
+    ],
+    [
+      45.6278,
+      -122.5361
+    ],
+    [
+      45.6256,
+      -122.5329
+    ],
+    [
+      45.6227,
+      -122.5291
+    ],
+    [
+      45.6206,
+      -122.5266
+    ],
+    [
+      45.6179,
+      -122.5231
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-07T03:00:42.933Z"
+  "status": "tracking",
+  "timestamp": "2026-09-07T21:28:14.278Z"
 }
