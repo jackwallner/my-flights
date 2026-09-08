@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 1900,
-    "speed": 171,
-    "timestamp": "2026-09-08T03:55:56.808Z",
-    "lat": 45.6164,
-    "lon": -122.5366,
-    "precision": "tracked"
+    "distance": 0.28,
+    "altitude": 1300,
+    "speed": 173,
+    "timestamp": "2026-09-08T16:10:19.742Z",
+    "lat": 45.625,
+    "lon": -122.5214,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "B58T",
-    "aircraftType": "B58T",
-    "origin": null,
+    "callsign": "N164BJ",
+    "aircraftType": "RV6",
+    "origin": "EUG",
     "destination": null,
-    "firstSeen": "2026-08-20T15:09:56.165Z"
+    "firstSeen": "2026-09-08T16:10:09.428Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6164,
-      -122.5366
+      45.6255,
+      -122.5363
+    ],
+    [
+      45.625,
+      -122.5214
+    ],
+    [
+      45.6247,
+      -122.5119
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-08T03:56:27.622Z"
+  "status": "tracking",
+  "timestamp": "2026-09-08T16:10:30.047Z"
 }

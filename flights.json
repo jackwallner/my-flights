@@ -29036,5 +29036,24 @@
     "initialDistance": 0.6071291424236258,
     "initialAltitude": 5900,
     "initialSpeed": 135
+  },
+  {
+    "callsign": "N164BJ",
+    "flightNumber": null,
+    "aircraftType": "RV6",
+    "aircraftName": null,
+    "origin": "EUG",
+    "destination": null,
+    "icao": "A100AC",
+    "registration": "N164BJ",
+    "firstSeen": "2026-09-08T16:10:09.428Z",
+    "lastSeen": "2026-09-08T16:10:30.041Z",
+    "duration": 21,
+    "closestDistance": 0.2823209142755919,
+    "closestAltitude": 1300,
+    "closestSpeed": 173,
+    "initialDistance": 0.34407303192280086,
+    "initialAltitude": 1400,
+    "initialSpeed": 171
   }
 ]
