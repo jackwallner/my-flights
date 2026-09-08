@@ -29055,5 +29055,24 @@
     "initialDistance": 0.34407303192280086,
     "initialAltitude": 1400,
     "initialSpeed": 171
+  },
+  {
+    "callsign": "N636DK",
+    "flightNumber": null,
+    "aircraftType": "E55P",
+    "aircraftName": null,
+    "origin": "YKM",
+    "destination": "QSA",
+    "icao": "A8545B",
+    "registration": "N636DK",
+    "firstSeen": "2026-09-08T16:23:02.106Z",
+    "lastSeen": "2026-09-08T16:23:12.393Z",
+    "duration": 10,
+    "closestDistance": 0.597148204973803,
+    "closestAltitude": 7050,
+    "closestSpeed": 274,
+    "initialDistance": 0.6831348202664712,
+    "initialAltitude": 7400,
+    "initialSpeed": 270
   }
 ]
