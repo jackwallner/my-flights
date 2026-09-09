@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 2000,
-    "speed": 122,
-    "timestamp": "2026-09-09T15:47:45.036Z",
-    "lat": 45.6273,
-    "lon": -122.5194,
-    "precision": "tracked"
+    "distance": 0.13,
+    "altitude": 1900,
+    "speed": 123,
+    "timestamp": "2026-09-09T15:47:55.331Z",
+    "lat": 45.6275,
+    "lon": -122.5283,
+    "precision": "high"
   },
   "flight": {
     "callsign": "C180",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-09-09T15:47:34.686Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6272,
@@ -26,8 +26,16 @@
     [
       45.6273,
       -122.5194
+    ],
+    [
+      45.6275,
+      -122.5283
+    ],
+    [
+      45.6278,
+      -122.5386
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-09T15:47:45.036Z"
+  "status": "completed",
+  "timestamp": "2026-09-09T15:48:15.902Z"
 }
