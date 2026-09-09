@@ -1,49 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.08,
-    "altitude": 1700,
-    "speed": 84,
-    "timestamp": "2026-09-09T00:39:11.084Z",
-    "lat": 45.6263,
-    "lon": -122.527,
+    "distance": 0.45,
+    "altitude": 1350,
+    "speed": 91,
+    "timestamp": "2026-09-09T02:03:18.577Z",
+    "lat": 45.6179,
+    "lon": -122.5305,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N4466R",
-    "aircraftType": "C172",
-    "origin": "TTD",
+    "callsign": "N7274G",
+    "aircraftType": "C150",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-01T01:16:04.720Z"
+    "firstSeen": "2026-02-07T04:51:24.606Z"
   },
-  "overheadScore": 0.08,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6257,
-      -122.5162
+      45.618,
+      -122.5368
     ],
     [
-      45.626,
-      -122.522
+      45.6179,
+      -122.5305
     ],
     [
-      45.6263,
-      -122.527
+      45.6181,
+      -122.5239
     ],
     [
-      45.6265,
-      -122.5332
-    ],
-    [
-      45.6266,
-      -122.5378
-    ],
-    [
-      45.6266,
-      -122.5434
+      45.6183,
+      -122.5187
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-09T00:39:52.177Z"
+  "timestamp": "2026-09-09T02:03:49.376Z"
 }
