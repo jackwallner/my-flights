@@ -29131,5 +29131,24 @@
     "initialDistance": 0.5560108294554399,
     "initialAltitude": 1850,
     "initialSpeed": 161
+  },
+  {
+    "callsign": "N9517E",
+    "flightNumber": null,
+    "aircraftType": "BL17",
+    "aircraftName": null,
+    "origin": "LWT",
+    "destination": "HIO",
+    "icao": "AD3BB0",
+    "registration": "N9517E",
+    "firstSeen": "2026-09-09T20:41:56.237Z",
+    "lastSeen": "2026-09-09T20:42:06.521Z",
+    "duration": 10,
+    "closestDistance": 0.6093986057092411,
+    "closestAltitude": 4000,
+    "closestSpeed": 147,
+    "initialDistance": 0.6093986057092411,
+    "initialAltitude": 4000,
+    "initialSpeed": 147
   }
 ]
