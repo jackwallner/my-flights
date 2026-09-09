@@ -29093,5 +29093,24 @@
     "initialDistance": 0.42218552561455447,
     "initialAltitude": 9250,
     "initialSpeed": 166
+  },
+  {
+    "callsign": "C180",
+    "flightNumber": null,
+    "aircraftType": "C180",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-09-09T15:47:34.686Z",
+    "lastSeen": "2026-09-09T15:47:45.027Z",
+    "duration": 10,
+    "closestDistance": 0.38536332538397333,
+    "closestAltitude": 2000,
+    "closestSpeed": 122,
+    "initialDistance": 0.6738372068110341,
+    "initialAltitude": 2000,
+    "initialSpeed": 122
   }
 ]
