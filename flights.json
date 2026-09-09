@@ -29112,5 +29112,24 @@
     "initialDistance": 0.6738372068110341,
     "initialAltitude": 2000,
     "initialSpeed": 122
+  },
+  {
+    "callsign": "N330DB",
+    "flightNumber": null,
+    "aircraftType": "BE9L",
+    "aircraftName": null,
+    "origin": "QSN",
+    "destination": "PDX",
+    "icao": "A3961C",
+    "registration": "N330DB",
+    "firstSeen": "2026-09-09T18:42:27.649Z",
+    "lastSeen": "2026-09-09T18:44:11.133Z",
+    "duration": 103,
+    "closestDistance": 0.49919688663757017,
+    "closestAltitude": 1775,
+    "closestSpeed": 167,
+    "initialDistance": 0.5560108294554399,
+    "initialAltitude": 1850,
+    "initialSpeed": 161
   }
 ]

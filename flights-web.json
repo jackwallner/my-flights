@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 8575,
-    "speed": 125,
-    "timestamp": "2026-09-09T17:21:27.544Z",
-    "lat": 45.6231,
-    "lon": -122.5351,
-    "precision": "high"
+    "distance": 0.5,
+    "altitude": 1775,
+    "speed": 167,
+    "timestamp": "2026-09-09T18:44:11.138Z",
+    "lat": 45.6215,
+    "lon": -122.5387,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "T206",
-    "aircraftType": "T206",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-18T18:16:03.599Z"
+    "callsign": "N330DB",
+    "aircraftType": "BE9L",
+    "origin": "QSN",
+    "destination": "PDX",
+    "firstSeen": "2026-09-09T18:42:27.649Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6168,
-      -122.5351
+      45.6145,
+      -122.5342
     ],
     [
-      45.6231,
-      -122.5351
-    ],
-    [
-      45.6294,
-      -122.535
-    ],
-    [
-      45.6354,
-      -122.535
+      45.6215,
+      -122.5387
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-09T17:21:58.452Z"
+  "status": "tracking",
+  "timestamp": "2026-09-09T18:44:11.138Z"
 }
