@@ -1,41 +1,57 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 1900,
-    "speed": 123,
-    "timestamp": "2026-09-09T15:47:55.331Z",
-    "lat": 45.6275,
-    "lon": -122.5283,
+    "distance": 0.16,
+    "altitude": 300,
+    "speed": 65,
+    "timestamp": "2026-09-09T15:56:10.745Z",
+    "lat": 45.6249,
+    "lon": -122.532,
     "precision": "high"
   },
   "flight": {
-    "callsign": "C180",
-    "aircraftType": "C180",
-    "origin": null,
+    "callsign": "N519F",
+    "aircraftType": "CH7B",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-09-09T15:47:34.686Z"
+    "firstSeen": "2026-02-06T20:53:13.130Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 8,
   "trail": [
     [
-      45.6272,
-      -122.5123
+      45.6249,
+      -122.532
     ],
     [
-      45.6273,
+      45.6218,
+      -122.532
+    ],
+    [
+      45.6189,
+      -122.5301
+    ],
+    [
+      45.6175,
+      -122.5256
+    ],
+    [
+      45.6194,
+      -122.5211
+    ],
+    [
+      45.6218,
       -122.5194
     ],
     [
-      45.6275,
-      -122.5283
+      45.6253,
+      -122.5179
     ],
     [
-      45.6278,
-      -122.5386
+      45.6293,
+      -122.5159
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-09T15:48:15.902Z"
+  "timestamp": "2026-09-09T15:57:33.021Z"
 }
