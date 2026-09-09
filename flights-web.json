@@ -1,33 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 1775,
-    "speed": 167,
-    "timestamp": "2026-09-09T18:44:11.138Z",
-    "lat": 45.6215,
-    "lon": -122.5387,
-    "precision": "tracked"
+    "distance": 0.15,
+    "altitude": 400,
+    "speed": 79,
+    "timestamp": "2026-09-09T18:45:23.516Z",
+    "lat": 45.624,
+    "lon": -122.5313,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N330DB",
-    "aircraftType": "BE9L",
-    "origin": "QSN",
-    "destination": "PDX",
-    "firstSeen": "2026-09-09T18:42:27.649Z"
+    "callsign": "N924D",
+    "aircraftType": "RV6",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6145,
-      -122.5342
+      45.624,
+      -122.5313
     ],
     [
-      45.6215,
-      -122.5387
+      45.6204,
+      -122.531
+    ],
+    [
+      45.6178,
+      -122.5273
+    ],
+    [
+      45.619,
+      -122.5195
+    ],
+    [
+      45.6231,
+      -122.5125
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-09T18:44:11.138Z"
+  "status": "completed",
+  "timestamp": "2026-09-09T18:46:15.365Z"
 }
