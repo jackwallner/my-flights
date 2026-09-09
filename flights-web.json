@@ -6,7 +6,7 @@
     "timestamp": "2026-09-09T19:50:35.383Z",
     "lat": 45.6201,
     "lon": -122.528,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N9185H",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6201,
@@ -26,8 +26,12 @@
     [
       45.6201,
       -122.528
+    ],
+    [
+      45.6201,
+      -122.5218
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-09T19:50:35.384Z"
+  "status": "completed",
+  "timestamp": "2026-09-09T19:50:55.935Z"
 }
