@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 5725,
-    "speed": 237,
-    "timestamp": "2026-09-09T17:12:32.308Z",
-    "lat": 45.6204,
-    "lon": -122.5155,
-    "precision": "tracked"
+    "distance": 0.32,
+    "altitude": 8575,
+    "speed": 125,
+    "timestamp": "2026-09-09T17:21:27.544Z",
+    "lat": 45.6231,
+    "lon": -122.5351,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ABX814",
-    "aircraftType": "767",
-    "origin": "SEA",
-    "destination": "PDX",
-    "firstSeen": "2026-04-30T17:15:03.247Z"
+    "callsign": "T206",
+    "aircraftType": "T206",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-03-18T18:16:03.599Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6318,
-      -122.5145
+      45.6168,
+      -122.5351
     ],
     [
-      45.6204,
-      -122.5155
+      45.6231,
+      -122.5351
+    ],
+    [
+      45.6294,
+      -122.535
+    ],
+    [
+      45.6354,
+      -122.535
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-09T17:12:52.875Z"
+  "timestamp": "2026-09-09T17:21:58.452Z"
 }
