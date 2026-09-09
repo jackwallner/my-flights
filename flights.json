@@ -29074,5 +29074,24 @@
     "initialDistance": 0.6831348202664712,
     "initialAltitude": 7400,
     "initialSpeed": 270
+  },
+  {
+    "callsign": "N9943C",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "ADE443",
+    "registration": "N9943C",
+    "firstSeen": "2026-09-09T15:42:35.549Z",
+    "lastSeen": "2026-09-09T15:42:45.857Z",
+    "duration": 10,
+    "closestDistance": 0.42218552561455447,
+    "closestAltitude": 9250,
+    "closestSpeed": 166,
+    "initialDistance": 0.42218552561455447,
+    "initialAltitude": 9250,
+    "initialSpeed": 166
   }
 ]

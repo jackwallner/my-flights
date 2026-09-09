@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.25,
-    "altitude": 1025,
-    "speed": 120,
-    "timestamp": "2026-09-09T02:41:53.466Z",
-    "lat": 45.6213,
-    "lon": -122.5266,
-    "precision": "high"
+    "distance": 0.42,
+    "altitude": 9250,
+    "speed": 166,
+    "timestamp": "2026-09-09T15:42:35.556Z",
+    "lat": 45.6183,
+    "lon": -122.5269,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N624ST",
-    "aircraftType": "RV12",
-    "origin": "TTD",
+    "callsign": "N9943C",
+    "aircraftType": "S22T",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-02-02T21:45:58.538Z"
+    "firstSeen": "2026-09-09T15:42:35.549Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.42,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6218,
-      -122.5395
+      45.6183,
+      -122.5269
     ],
     [
-      45.6216,
-      -122.5344
-    ],
-    [
-      45.6213,
-      -122.5266
-    ],
-    [
-      45.6208,
-      -122.5151
+      45.6209,
+      -122.5154
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-09T02:42:13.989Z"
+  "timestamp": "2026-09-09T15:43:06.431Z"
 }
