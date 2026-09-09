@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 1100,
-    "speed": 118,
-    "timestamp": "2026-09-09T02:09:39.272Z",
-    "lat": 45.623,
-    "lon": -122.5293,
+    "distance": 0.24,
+    "altitude": 1000,
+    "speed": 103,
+    "timestamp": "2026-09-09T02:27:50.457Z",
+    "lat": 45.6293,
+    "lon": -122.5277,
     "precision": "high"
   },
   "flight": {
     "callsign": "N624ST",
     "aircraftType": "RV12",
-    "origin": "PDX",
+    "origin": "TTD",
     "destination": null,
     "firstSeen": "2026-02-02T21:45:58.538Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.24,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6233,
-      -122.5389
+      45.6285,
+      -122.5142
     ],
     [
-      45.623,
-      -122.5293
+      45.629,
+      -122.5219
     ],
     [
-      45.6228,
-      -122.5221
+      45.6293,
+      -122.5277
     ],
     [
-      45.6226,
-      -122.5138
+      45.6299,
+      -122.5347
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-09T02:10:10.245Z"
+  "status": "tracking",
+  "timestamp": "2026-09-09T02:28:00.732Z"
 }
