@@ -1,57 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 300,
-    "speed": 65,
-    "timestamp": "2026-09-09T15:56:10.745Z",
-    "lat": 45.6249,
-    "lon": -122.532,
+    "distance": 0.39,
+    "altitude": 1200,
+    "speed": 148,
+    "timestamp": "2026-09-09T16:05:06.708Z",
+    "lat": 45.6201,
+    "lon": -122.5338,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N519F",
-    "aircraftType": "CH7B",
-    "origin": "PDX",
+    "callsign": "N8031X",
+    "aircraftType": "RV6",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "firstSeen": "2026-09-01T21:31:04.063Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 8,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6249,
-      -122.532
+      45.6239,
+      -122.5419
     ],
     [
-      45.6218,
-      -122.532
+      45.6201,
+      -122.5338
     ],
     [
-      45.6189,
-      -122.5301
-    ],
-    [
-      45.6175,
-      -122.5256
-    ],
-    [
-      45.6194,
-      -122.5211
-    ],
-    [
-      45.6218,
-      -122.5194
-    ],
-    [
-      45.6253,
-      -122.5179
-    ],
-    [
-      45.6293,
-      -122.5159
+      45.6158,
+      -122.5249
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-09T15:57:33.021Z"
+  "timestamp": "2026-09-09T16:05:27.279Z"
 }
