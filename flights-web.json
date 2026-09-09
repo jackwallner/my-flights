@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 1350,
-    "speed": 91,
-    "timestamp": "2026-09-09T02:03:18.577Z",
-    "lat": 45.6179,
-    "lon": -122.5305,
+    "distance": 0.15,
+    "altitude": 1100,
+    "speed": 118,
+    "timestamp": "2026-09-09T02:09:39.272Z",
+    "lat": 45.623,
+    "lon": -122.5293,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N7274G",
-    "aircraftType": "C150",
+    "callsign": "N624ST",
+    "aircraftType": "RV12",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-07T04:51:24.606Z"
+    "firstSeen": "2026-02-02T21:45:58.538Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.15,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.618,
-      -122.5368
+      45.6233,
+      -122.5389
     ],
     [
-      45.6179,
-      -122.5305
+      45.623,
+      -122.5293
     ],
     [
-      45.6181,
-      -122.5239
+      45.6228,
+      -122.5221
     ],
     [
-      45.6183,
-      -122.5187
+      45.6226,
+      -122.5138
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-09T02:03:49.376Z"
+  "status": "tracking",
+  "timestamp": "2026-09-09T02:09:59.934Z"
 }
