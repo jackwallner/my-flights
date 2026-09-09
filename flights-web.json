@@ -1,37 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 1200,
-    "speed": 148,
-    "timestamp": "2026-09-09T16:05:06.708Z",
-    "lat": 45.6201,
-    "lon": -122.5338,
-    "precision": "high"
+    "distance": 0.58,
+    "altitude": 2700,
+    "speed": 138,
+    "timestamp": "2026-09-09T16:29:59.009Z",
+    "lat": 45.6157,
+    "lon": -122.5305,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N8031X",
-    "aircraftType": "RV6",
-    "origin": "TTD",
+    "callsign": "C180",
+    "aircraftType": "C180",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-09-01T21:31:04.063Z"
+    "firstSeen": "2026-09-09T15:47:34.686Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.58,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6239,
-      -122.5419
+      45.6175,
+      -122.5398
     ],
     [
-      45.6201,
-      -122.5338
-    ],
-    [
-      45.6158,
-      -122.5249
+      45.6157,
+      -122.5305
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-09T16:05:27.279Z"
+  "status": "tracking",
+  "timestamp": "2026-09-09T16:29:59.009Z"
 }
