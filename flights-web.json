@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 1400,
-    "speed": 108,
-    "timestamp": "2026-09-10T21:43:03.202Z",
-    "lat": 45.6179,
-    "lon": -122.5225,
+    "distance": 0.32,
+    "altitude": 1775,
+    "speed": 141,
+    "timestamp": "2026-09-10T21:52:49.014Z",
+    "lat": 45.6199,
+    "lon": -122.5287,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N796BP",
-    "aircraftType": "B407",
-    "origin": "GEG",
+    "callsign": "N167DR",
+    "aircraftType": "RV7",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-09-10T21:42:52.912Z"
+    "firstSeen": "2026-03-20T03:01:20.375Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.32,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6201,
-      -122.5158
+      45.618,
+      -122.5364
     ],
     [
-      45.6179,
-      -122.5225
+      45.6199,
+      -122.5287
     ],
     [
-      45.6153,
-      -122.5296
+      45.6226,
+      -122.5201
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-10T21:43:23.721Z"
+  "timestamp": "2026-09-10T21:53:09.548Z"
 }
