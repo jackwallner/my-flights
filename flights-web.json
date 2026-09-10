@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 3400,
-    "speed": 117,
-    "timestamp": "2026-09-10T17:39:04.154Z",
-    "lat": 45.6155,
-    "lon": -122.529,
+    "distance": 0.25,
+    "altitude": 1900,
+    "speed": 150,
+    "timestamp": "2026-09-10T18:52:49.579Z",
+    "lat": 45.629,
+    "lon": -122.5309,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N23078",
-    "aircraftType": "C172",
-    "origin": null,
+    "callsign": "N167DR",
+    "aircraftType": "RV7",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-09-10T17:38:53.857Z"
+    "firstSeen": "2026-03-20T03:01:20.375Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.25,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.616,
-      -122.5352
+      45.629,
+      -122.5309
     ],
     [
-      45.6155,
-      -122.529
+      45.6236,
+      -122.5384
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-10T17:39:24.822Z"
+  "timestamp": "2026-09-10T18:53:20.430Z"
 }
