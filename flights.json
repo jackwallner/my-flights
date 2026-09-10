@@ -29188,5 +29188,24 @@
     "initialDistance": 0.6317226084902436,
     "initialAltitude": 3400,
     "initialSpeed": 114
+  },
+  {
+    "callsign": "N796BP",
+    "flightNumber": null,
+    "aircraftType": "B407",
+    "aircraftName": null,
+    "origin": "GEG",
+    "destination": null,
+    "icao": "AACE76",
+    "registration": "N796BP",
+    "firstSeen": "2026-09-10T21:42:52.912Z",
+    "lastSeen": "2026-09-10T21:43:13.456Z",
+    "duration": 21,
+    "closestDistance": 0.5018844112767419,
+    "closestAltitude": 1400,
+    "closestSpeed": 108,
+    "initialDistance": 0.6033344112459996,
+    "initialAltitude": 1375,
+    "initialSpeed": 110
   }
 ]
