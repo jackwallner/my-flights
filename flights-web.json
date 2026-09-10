@@ -1,37 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 1775,
-    "speed": 141,
-    "timestamp": "2026-09-10T21:52:49.014Z",
-    "lat": 45.6199,
-    "lon": -122.5287,
-    "precision": "high"
+    "distance": 0.53,
+    "altitude": 2375,
+    "speed": 168,
+    "timestamp": "2026-09-10T22:40:10.756Z",
+    "lat": 45.6251,
+    "lon": -122.5156,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N167DR",
-    "aircraftType": "RV7",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-20T03:01:20.375Z"
+    "callsign": "TDY007",
+    "aircraftType": "PC-1",
+    "origin": "BFI",
+    "destination": "PDX",
+    "firstSeen": "2026-05-18T22:08:46.446Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.53,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.618,
-      -122.5364
+      45.6251,
+      -122.5156
     ],
     [
-      45.6199,
-      -122.5287
-    ],
-    [
-      45.6226,
-      -122.5201
+      45.6173,
+      -122.5185
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-10T21:53:09.548Z"
+  "status": "tracking",
+  "timestamp": "2026-09-10T22:40:21.028Z"
 }
