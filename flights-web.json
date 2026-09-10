@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.7,
-    "altitude": 900,
-    "speed": 122,
-    "timestamp": "2026-09-10T01:23:16.795Z",
-    "lat": 45.6295,
-    "lon": -122.5436,
-    "precision": "tracked"
+    "distance": 0.16,
+    "altitude": 400,
+    "speed": 77,
+    "timestamp": "2026-09-10T01:24:18.935Z",
+    "lat": 45.6236,
+    "lon": -122.531,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N924D",
@@ -15,15 +15,27 @@
     "destination": null,
     "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6295,
-      -122.5436
+      45.6236,
+      -122.531
+    ],
+    [
+      45.6236,
+      -122.531
+    ],
+    [
+      45.6319,
+      -122.5306
+    ],
+    [
+      45.6357,
+      -122.5304
     ]
   ],
   "status": "tracking",
-  "timestamp": "2026-09-10T01:23:16.795Z"
+  "timestamp": "2026-09-10T01:24:50.048Z"
 }
