@@ -29150,5 +29150,24 @@
     "initialDistance": 0.6093986057092411,
     "initialAltitude": 4000,
     "initialSpeed": 147
+  },
+  {
+    "callsign": "N660HC",
+    "flightNumber": null,
+    "aircraftType": "C680",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "HIO",
+    "icao": "A8B4EB",
+    "registration": "N660HC",
+    "firstSeen": "2026-09-10T17:32:01.921Z",
+    "lastSeen": "2026-09-10T17:32:01.921Z",
+    "duration": 0,
+    "closestDistance": 0.5395401891484646,
+    "closestAltitude": 6800,
+    "closestSpeed": 279,
+    "initialDistance": 0.5395401891484646,
+    "initialAltitude": 6800,
+    "initialSpeed": 279
   }
 ]
