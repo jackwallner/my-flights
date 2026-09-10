@@ -1,45 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.21,
+    "distance": 0.3,
     "altitude": 2225,
-    "speed": 96,
-    "timestamp": "2026-09-10T08:21:33.694Z",
-    "lat": 45.622,
-    "lon": -122.5267,
-    "precision": "high"
+    "speed": 126,
+    "timestamp": "2026-09-10T15:15:12.116Z",
+    "lat": 45.6298,
+    "lon": -122.5309,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N451LF",
-    "aircraftType": "B407",
-    "origin": null,
+    "callsign": "N231HF",
+    "aircraftType": "M20T",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-02T23:23:22.298Z"
+    "firstSeen": "2026-03-21T21:39:40.862Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6219,
-      -122.5393
+      45.6294,
+      -122.5383
     ],
     [
-      45.6219,
-      -122.5335
-    ],
-    [
-      45.622,
-      -122.5267
-    ],
-    [
-      45.622,
-      -122.5197
-    ],
-    [
-      45.6221,
-      -122.5125
+      45.6298,
+      -122.5309
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-10T08:22:04.573Z"
+  "status": "tracking",
+  "timestamp": "2026-09-10T15:15:12.116Z"
 }
