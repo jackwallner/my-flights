@@ -6,7 +6,7 @@
     "timestamp": "2026-09-10T15:15:12.116Z",
     "lat": 45.6298,
     "lon": -122.5309,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N231HF",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6294,
@@ -26,8 +26,12 @@
     [
       45.6298,
       -122.5309
+    ],
+    [
+      45.6303,
+      -122.5225
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-10T15:15:12.116Z"
+  "status": "completed",
+  "timestamp": "2026-09-10T15:15:32.952Z"
 }
