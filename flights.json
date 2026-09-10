@@ -29169,5 +29169,24 @@
     "initialDistance": 0.5395401891484646,
     "initialAltitude": 6800,
     "initialSpeed": 279
+  },
+  {
+    "callsign": "N23078",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A20BEE",
+    "registration": "N23078",
+    "firstSeen": "2026-09-10T17:38:53.857Z",
+    "lastSeen": "2026-09-10T17:39:04.148Z",
+    "duration": 10,
+    "closestDistance": 0.5884052915360091,
+    "closestAltitude": 3400,
+    "closestSpeed": 117,
+    "initialDistance": 0.6317226084902436,
+    "initialAltitude": 3400,
+    "initialSpeed": 114
   }
 ]
