@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 2275,
-    "speed": 103,
-    "timestamp": "2026-09-10T05:19:58.492Z",
-    "lat": 45.6203,
-    "lon": -122.5259,
+    "distance": 0.15,
+    "altitude": 1500,
+    "speed": 123,
+    "timestamp": "2026-09-10T07:39:13.675Z",
+    "lat": 45.6258,
+    "lon": -122.5317,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N624ST",
-    "aircraftType": "RV12",
-    "origin": "TTD",
+    "callsign": "N451LF",
+    "aircraftType": "B407",
+    "origin": "DLS",
     "destination": null,
-    "firstSeen": "2026-02-02T21:45:58.538Z"
+    "firstSeen": "2026-02-02T23:23:22.298Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6172,
-      -122.5389
+      45.6283,
+      -122.5149
     ],
     [
-      45.6186,
-      -122.5333
+      45.6272,
+      -122.5226
     ],
     [
-      45.6203,
-      -122.5259
+      45.6258,
+      -122.5317
     ],
     [
-      45.6214,
-      -122.5201
-    ],
-    [
-      45.6227,
-      -122.5128
+      45.6245,
+      -122.5403
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-10T05:20:29.354Z"
+  "timestamp": "2026-09-10T07:39:34.219Z"
 }
