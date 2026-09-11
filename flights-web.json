@@ -1,37 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.1,
-    "altitude": 1625,
-    "speed": 176,
-    "timestamp": "2026-09-11T00:02:58.672Z",
-    "lat": 45.6253,
-    "lon": -122.5257,
-    "precision": "high"
+    "distance": 0.45,
+    "altitude": 4475,
+    "speed": 108,
+    "timestamp": "2026-09-11T03:06:54.210Z",
+    "lat": 45.6183,
+    "lon": -122.5239,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N160Z",
-    "aircraftType": "K100",
-    "origin": "OLM",
+    "callsign": "N130JA",
+    "aircraftType": "C172",
+    "origin": "DLS",
     "destination": null,
-    "firstSeen": "2026-09-11T00:02:48.398Z"
+    "firstSeen": "2026-04-04T18:23:03.030Z"
   },
-  "overheadScore": 0.1,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6335,
-      -122.5262
+      45.6195,
+      -122.5164
     ],
     [
-      45.6253,
-      -122.5257
-    ],
-    [
-      45.617,
-      -122.5258
+      45.6183,
+      -122.5239
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-11T00:03:19.281Z"
+  "status": "tracking",
+  "timestamp": "2026-09-11T03:06:54.210Z"
 }
