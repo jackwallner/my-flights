@@ -29207,5 +29207,24 @@
     "initialDistance": 0.6033344112459996,
     "initialAltitude": 1375,
     "initialSpeed": 110
+  },
+  {
+    "callsign": "N160Z",
+    "flightNumber": null,
+    "aircraftType": "K100",
+    "aircraftName": null,
+    "origin": "OLM",
+    "destination": null,
+    "icao": "A0F3ED",
+    "registration": "N160Z",
+    "firstSeen": "2026-09-11T00:02:48.398Z",
+    "lastSeen": "2026-09-11T00:03:08.979Z",
+    "duration": 21,
+    "closestDistance": 0.1012710189767732,
+    "closestAltitude": 1625,
+    "closestSpeed": 176,
+    "initialDistance": 0.4999910899606422,
+    "initialAltitude": 1750,
+    "initialSpeed": 185
   }
 ]

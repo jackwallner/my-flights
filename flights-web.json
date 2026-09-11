@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 2375,
-    "speed": 168,
-    "timestamp": "2026-09-10T22:40:10.756Z",
-    "lat": 45.6251,
-    "lon": -122.5156,
-    "precision": "tracked"
+    "distance": 0.1,
+    "altitude": 1625,
+    "speed": 176,
+    "timestamp": "2026-09-11T00:02:58.672Z",
+    "lat": 45.6253,
+    "lon": -122.5257,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "TDY007",
-    "aircraftType": "PC-1",
-    "origin": "BFI",
-    "destination": "PDX",
-    "firstSeen": "2026-05-18T22:08:46.446Z"
+    "callsign": "N160Z",
+    "aircraftType": "K100",
+    "origin": "OLM",
+    "destination": null,
+    "firstSeen": "2026-09-11T00:02:48.398Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.1,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6251,
-      -122.5156
+      45.6335,
+      -122.5262
     ],
     [
-      45.6173,
-      -122.5185
+      45.6253,
+      -122.5257
+    ],
+    [
+      45.617,
+      -122.5258
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-10T22:40:41.547Z"
+  "timestamp": "2026-09-11T00:03:19.281Z"
 }
