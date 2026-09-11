@@ -1,41 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 3500,
-    "speed": 96,
-    "timestamp": "2026-09-11T15:55:56.245Z",
-    "lat": 45.6271,
-    "lon": -122.5401,
+    "distance": 0.17,
+    "altitude": 1025,
+    "speed": 93,
+    "timestamp": "2026-09-11T20:21:32.461Z",
+    "lat": 45.6281,
+    "lon": -122.5272,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N648SP",
+    "callsign": "N9262H",
     "aircraftType": "C172",
-    "origin": "HIO",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-26T20:18:52.171Z"
+    "firstSeen": "2026-05-06T23:15:43.376Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.17,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6353,
-      -122.5366
+      45.6266,
+      -122.5187
     ],
     [
-      45.6315,
-      -122.5384
+      45.6272,
+      -122.5226
     ],
     [
-      45.6271,
-      -122.5401
+      45.6281,
+      -122.5272
     ],
     [
-      45.6225,
-      -122.5418
+      45.6296,
+      -122.5355
+    ],
+    [
+      45.6305,
+      -122.542
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-11T15:56:16.971Z"
+  "timestamp": "2026-09-11T20:22:03.282Z"
 }
