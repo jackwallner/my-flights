@@ -1,57 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 3500,
-    "speed": 95,
-    "timestamp": "2026-09-11T03:30:36.684Z",
-    "lat": 45.6227,
-    "lon": -122.5229,
-    "precision": "high"
+    "distance": 0.53,
+    "altitude": 3700,
+    "speed": 208,
+    "timestamp": "2026-09-11T05:46:16.429Z",
+    "lat": 45.6338,
+    "lon": -122.5248,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N910TW",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-06-23T23:26:59.804Z"
+    "callsign": "N101PV",
+    "aircraftType": "F2TH",
+    "origin": "OLM",
+    "destination": "PDX",
+    "firstSeen": "2026-09-11T05:46:16.419Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.53,
   "isOverhead": true,
-  "pathSnapshots": 8,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6222,
-      -122.5153
-    ],
-    [
-      45.6238,
-      -122.5207
-    ],
-    [
-      45.6214,
+      45.6338,
       -122.5248
     ],
     [
-      45.616,
-      -122.5255
-    ],
-    [
-      45.6245,
-      -122.5171
-    ],
-    [
-      45.6227,
-      -122.5229
-    ],
-    [
-      45.6188,
-      -122.5268
-    ],
-    [
-      45.6155,
-      -122.532
+      45.628,
+      -122.5128
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-11T03:30:57.220Z"
+  "status": "completed",
+  "timestamp": "2026-09-11T05:46:47.258Z"
 }

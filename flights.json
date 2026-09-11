@@ -29226,5 +29226,24 @@
     "initialDistance": 0.4999910899606422,
     "initialAltitude": 1750,
     "initialSpeed": 185
+  },
+  {
+    "callsign": "N101PV",
+    "flightNumber": null,
+    "aircraftType": "F2TH",
+    "aircraftName": null,
+    "origin": "OLM",
+    "destination": "PDX",
+    "icao": "A009C4",
+    "registration": "N101PV",
+    "firstSeen": "2026-09-11T05:46:16.419Z",
+    "lastSeen": "2026-09-11T05:46:26.705Z",
+    "duration": 10,
+    "closestDistance": 0.5300798886161445,
+    "closestAltitude": 3700,
+    "closestSpeed": 208,
+    "initialDistance": 0.5300798886161445,
+    "initialAltitude": 3700,
+    "initialSpeed": 208
   }
 ]
