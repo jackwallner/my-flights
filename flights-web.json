@@ -1,45 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.17,
-    "altitude": 1025,
-    "speed": 93,
-    "timestamp": "2026-09-11T20:21:32.461Z",
-    "lat": 45.6281,
-    "lon": -122.5272,
+    "distance": 0.35,
+    "altitude": 1600,
+    "speed": 96,
+    "timestamp": "2026-09-11T23:10:57.223Z",
+    "lat": 45.6298,
+    "lon": -122.5229,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9262H",
-    "aircraftType": "C172",
+    "callsign": "N4056V",
+    "aircraftType": "R44",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-05-06T23:15:43.376Z"
+    "firstSeen": "2026-02-07T00:55:41.449Z"
   },
-  "overheadScore": 0.17,
+  "overheadScore": 0.35,
   "isOverhead": true,
   "pathSnapshots": 5,
   "trail": [
     [
-      45.6266,
-      -122.5187
+      45.636,
+      -122.5333
     ],
     [
-      45.6272,
-      -122.5226
+      45.6328,
+      -122.5278
     ],
     [
-      45.6281,
-      -122.5272
+      45.6298,
+      -122.5229
     ],
     [
-      45.6296,
-      -122.5355
+      45.627,
+      -122.5186
     ],
     [
-      45.6305,
-      -122.542
+      45.6236,
+      -122.5138
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-11T20:22:03.282Z"
+  "status": "tracking",
+  "timestamp": "2026-09-11T23:11:17.884Z"
 }
