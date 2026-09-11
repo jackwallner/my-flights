@@ -6,7 +6,7 @@
     "timestamp": "2026-09-11T03:06:54.210Z",
     "lat": 45.6183,
     "lon": -122.5239,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N130JA",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6195,
@@ -26,8 +26,12 @@
     [
       45.6183,
       -122.5239
+    ],
+    [
+      45.617,
+      -122.5314
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-11T03:06:54.210Z"
+  "status": "completed",
+  "timestamp": "2026-09-11T03:07:14.750Z"
 }
