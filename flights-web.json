@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.66,
+    "distance": 0.45,
     "altitude": 4000,
-    "speed": 99,
-    "timestamp": "2026-09-12T18:13:46.810Z",
-    "lat": 45.6349,
-    "lon": -122.5357,
-    "precision": "tracked"
+    "speed": 98,
+    "timestamp": "2026-09-12T18:14:07.763Z",
+    "lat": 45.6254,
+    "lon": -122.5388,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N832KX",
@@ -15,15 +15,27 @@
     "destination": null,
     "firstSeen": "2026-05-04T22:12:22.880Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6349,
       -122.5357
+    ],
+    [
+      45.6294,
+      -122.5375
+    ],
+    [
+      45.6254,
+      -122.5388
+    ],
+    [
+      45.6197,
+      -122.5406
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-12T18:13:46.810Z"
+  "status": "completed",
+  "timestamp": "2026-09-12T18:14:28.733Z"
 }
