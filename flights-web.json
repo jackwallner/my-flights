@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 1600,
-    "speed": 96,
-    "timestamp": "2026-09-11T23:10:57.223Z",
-    "lat": 45.6298,
-    "lon": -122.5229,
+    "distance": 0.18,
+    "altitude": 2225,
+    "speed": 130,
+    "timestamp": "2026-09-12T00:22:08.896Z",
+    "lat": 45.6224,
+    "lon": -122.5288,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N4056V",
-    "aircraftType": "R44",
-    "origin": "TTD",
+    "callsign": "N448LF",
+    "aircraftType": "B407",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-07T00:55:41.449Z"
+    "firstSeen": "2026-06-17T02:13:23.499Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.636,
-      -122.5333
+      45.6237,
+      -122.5122
     ],
     [
-      45.6328,
-      -122.5278
+      45.623,
+      -122.5215
     ],
     [
-      45.6298,
-      -122.5229
+      45.6224,
+      -122.5288
     ],
     [
-      45.627,
-      -122.5186
-    ],
-    [
-      45.6236,
-      -122.5138
+      45.621,
+      -122.5377
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-11T23:11:28.140Z"
+  "timestamp": "2026-09-12T00:22:29.423Z"
 }
