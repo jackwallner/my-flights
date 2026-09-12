@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.54,
+    "distance": 0.15,
     "altitude": 6050,
-    "speed": 131,
-    "timestamp": "2026-09-12T22:32:25.118Z",
-    "lat": 45.6341,
-    "lon": -122.5252,
-    "precision": "tracked"
+    "speed": 134,
+    "timestamp": "2026-09-12T22:32:35.371Z",
+    "lat": 45.6275,
+    "lon": -122.5298,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N5383E",
@@ -15,19 +15,27 @@
     "destination": null,
     "firstSeen": "2026-09-12T22:32:25.114Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
-    [
-      45.6145,
-      -122.526
-    ],
     [
       45.6341,
       -122.5252
+    ],
+    [
+      45.6275,
+      -122.5298
+    ],
+    [
+      45.6211,
+      -122.5342
+    ],
+    [
+      45.6161,
+      -122.5376
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-12T22:32:25.118Z"
+  "status": "completed",
+  "timestamp": "2026-09-12T22:33:06.164Z"
 }
