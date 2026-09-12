@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 2400,
-    "speed": 92,
-    "timestamp": "2026-09-12T01:24:43.939Z",
-    "lat": 45.6276,
-    "lon": -122.5252,
+    "distance": 0.51,
+    "altitude": 2525,
+    "speed": 103,
+    "timestamp": "2026-09-12T02:02:51.684Z",
+    "lat": 45.631,
+    "lon": -122.5371,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N4466R",
-    "aircraftType": "C172",
-    "origin": "PDX",
+    "callsign": "N725FA",
+    "aircraftType": "RV12",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-01T01:16:04.720Z"
+    "firstSeen": "2026-06-11T20:05:42.436Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6286,
-      -122.5386
+      45.6349,
+      -122.5317
     ],
     [
-      45.6281,
-      -122.532
+      45.631,
+      -122.5371
     ],
     [
-      45.6276,
-      -122.5252
-    ],
-    [
-      45.627,
-      -122.5186
+      45.628,
+      -122.5409
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-12T01:25:04.487Z"
+  "timestamp": "2026-09-12T02:03:12.210Z"
 }
