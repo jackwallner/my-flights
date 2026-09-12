@@ -1,41 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 3000,
-    "speed": 127,
-    "timestamp": "2026-09-12T20:22:22.512Z",
-    "lat": 45.6297,
-    "lon": -122.5277,
+    "distance": 0.29,
+    "altitude": 900,
+    "speed": 86,
+    "timestamp": "2026-09-12T21:19:16.541Z",
+    "lat": 45.6209,
+    "lon": -122.5309,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N5900B",
-    "aircraftType": "C182",
-    "origin": null,
+    "callsign": "N924D",
+    "aircraftType": "RV6",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-04-24T04:43:49.821Z"
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6223,
-      -122.5406
+      45.6209,
+      -122.5309
     ],
     [
-      45.6257,
-      -122.5348
+      45.6185,
+      -122.5276
     ],
     [
-      45.6297,
-      -122.5277
+      45.6187,
+      -122.5203
     ],
     [
-      45.6333,
-      -122.5201
+      45.6222,
+      -122.5161
+    ],
+    [
+      45.6276,
+      -122.514
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-12T20:22:43.054Z"
+  "timestamp": "2026-09-12T21:20:08.019Z"
 }
