@@ -29245,5 +29245,24 @@
     "initialDistance": 0.5300798886161445,
     "initialAltitude": 3700,
     "initialSpeed": 208
+  },
+  {
+    "callsign": "N2865B",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "SFF",
+    "destination": "QSA",
+    "icao": "A2E74E",
+    "registration": "N2865B",
+    "firstSeen": "2026-09-12T01:01:34.059Z",
+    "lastSeen": "2026-09-12T01:01:44.320Z",
+    "duration": 10,
+    "closestDistance": 0.3574143858864219,
+    "closestAltitude": 4050,
+    "closestSpeed": 173,
+    "initialDistance": 0.3574143858864219,
+    "initialAltitude": 4050,
+    "initialSpeed": 173
   }
 ]

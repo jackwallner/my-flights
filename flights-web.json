@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 2225,
-    "speed": 130,
-    "timestamp": "2026-09-12T00:22:08.896Z",
-    "lat": 45.6224,
-    "lon": -122.5288,
-    "precision": "high"
+    "distance": 0.36,
+    "altitude": 4050,
+    "speed": 173,
+    "timestamp": "2026-09-12T01:01:34.063Z",
+    "lat": 45.6308,
+    "lon": -122.5313,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N448LF",
-    "aircraftType": "B407",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-06-17T02:13:23.499Z"
+    "callsign": "N2865B",
+    "aircraftType": "S22T",
+    "origin": "SFF",
+    "destination": "QSA",
+    "firstSeen": "2026-09-12T01:01:34.059Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6237,
-      -122.5122
+      45.6308,
+      -122.5313
     ],
     [
       45.623,
-      -122.5215
-    ],
-    [
-      45.6224,
-      -122.5288
-    ],
-    [
-      45.621,
-      -122.5377
+      -122.5361
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-12T00:22:29.423Z"
+  "status": "tracking",
+  "timestamp": "2026-09-12T01:01:44.325Z"
 }
