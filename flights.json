@@ -29264,5 +29264,24 @@
     "initialDistance": 0.3574143858864219,
     "initialAltitude": 4050,
     "initialSpeed": 173
+  },
+  {
+    "callsign": "N723SB",
+    "flightNumber": null,
+    "aircraftType": "C177",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A9B043",
+    "registration": "N723SB",
+    "firstSeen": "2026-09-12T18:06:19.839Z",
+    "lastSeen": "2026-09-12T18:06:51.971Z",
+    "duration": 32,
+    "closestDistance": 0.27729084608389565,
+    "closestAltitude": 1850,
+    "closestSpeed": 117,
+    "initialDistance": 0.49105749128237336,
+    "initialAltitude": 1875,
+    "initialSpeed": 114
   }
 ]

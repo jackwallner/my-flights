@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 2525,
-    "speed": 96,
-    "timestamp": "2026-09-12T18:04:57.373Z",
-    "lat": 45.6175,
-    "lon": -122.5334,
+    "distance": 0.28,
+    "altitude": 1850,
+    "speed": 117,
+    "timestamp": "2026-09-12T18:06:30.175Z",
+    "lat": 45.6221,
+    "lon": -122.5329,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N58518",
-    "aircraftType": "C182",
+    "callsign": "N723SB",
+    "aircraftType": "C177",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-07-12T18:13:53.518Z"
+    "firstSeen": "2026-09-12T18:06:19.839Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.28,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6181,
-      -122.5388
+      45.6229,
+      -122.5393
     ],
     [
-      45.6175,
-      -122.5334
+      45.6221,
+      -122.5329
     ],
     [
-      45.6166,
-      -122.527
+      45.6209,
+      -122.5242
     ],
     [
-      45.6153,
-      -122.5204
+      45.6199,
+      -122.516
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-12T18:05:28.230Z"
+  "timestamp": "2026-09-12T18:07:02.255Z"
 }
