@@ -28952,8 +28952,8 @@
     "icao": null,
     "registration": null,
     "firstSeen": "2026-09-04T19:05:17.303Z",
-    "lastSeen": "2026-09-04T19:05:27.566Z",
-    "duration": 10,
+    "lastSeen": "2026-09-12T22:32:14.861Z",
+    "duration": 703618,
     "closestDistance": 0.6143456326601372,
     "closestAltitude": 1600,
     "closestSpeed": 61,
@@ -29283,5 +29283,24 @@
     "initialDistance": 0.49105749128237336,
     "initialAltitude": 1875,
     "initialSpeed": 114
+  },
+  {
+    "callsign": "N5383E",
+    "flightNumber": null,
+    "aircraftType": "BE35",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A6D0EB",
+    "registration": "N5383E",
+    "firstSeen": "2026-09-12T22:32:25.114Z",
+    "lastSeen": "2026-09-12T22:32:25.114Z",
+    "duration": 0,
+    "closestDistance": 0.5434591749869673,
+    "closestAltitude": 6050,
+    "closestSpeed": 131,
+    "initialDistance": 0.5434591749869673,
+    "initialAltitude": 6050,
+    "initialSpeed": 131
   }
 ]
