@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.26,
-    "altitude": 2150,
-    "speed": 110,
-    "timestamp": "2026-09-12T18:34:36.462Z",
-    "lat": 45.6209,
-    "lon": -122.5274,
+    "distance": 0.34,
+    "altitude": 2000,
+    "speed": 116,
+    "timestamp": "2026-09-12T19:42:38.567Z",
+    "lat": 45.6199,
+    "lon": -122.5307,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
+    "callsign": "C180",
+    "aircraftType": "C180",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "firstSeen": "2026-09-09T15:47:34.686Z"
   },
-  "overheadScore": 0.26,
+  "overheadScore": 0.34,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6207,
-      -122.5355
+      45.6184,
+      -122.5223
     ],
     [
-      45.6209,
-      -122.5274
+      45.6199,
+      -122.5307
     ],
     [
-      45.621,
-      -122.5205
+      45.6211,
+      -122.5389
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-12T18:34:56.998Z"
+  "timestamp": "2026-09-12T19:42:59.101Z"
 }
