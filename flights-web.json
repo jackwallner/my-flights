@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.28,
+    "distance": 0.27,
     "altitude": 3000,
-    "speed": 128,
-    "timestamp": "2026-09-12T20:22:12.233Z",
-    "lat": 45.6257,
-    "lon": -122.5348,
-    "precision": "tracked"
+    "speed": 127,
+    "timestamp": "2026-09-12T20:22:22.512Z",
+    "lat": 45.6297,
+    "lon": -122.5277,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N5900B",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-04-24T04:43:49.821Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.27,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6223,
@@ -26,8 +26,16 @@
     [
       45.6257,
       -122.5348
+    ],
+    [
+      45.6297,
+      -122.5277
+    ],
+    [
+      45.6333,
+      -122.5201
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-12T20:22:12.234Z"
+  "status": "completed",
+  "timestamp": "2026-09-12T20:22:43.054Z"
 }
