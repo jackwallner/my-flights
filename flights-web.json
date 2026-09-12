@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 4300,
-    "speed": 114,
-    "timestamp": "2026-09-12T08:22:11.453Z",
-    "lat": 45.6243,
-    "lon": -122.5311,
+    "distance": 0.08,
+    "altitude": 1575,
+    "speed": 98,
+    "timestamp": "2026-09-12T16:51:25.302Z",
+    "lat": 45.6259,
+    "lon": -122.5298,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N450LF",
-    "aircraftType": "B407",
+    "callsign": "N9185H",
+    "aircraftType": "C172",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-20T06:24:51.929Z"
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.08,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6214,
-      -122.5382
+      45.6237,
+      -122.5174
     ],
     [
-      45.6243,
-      -122.5311
+      45.6251,
+      -122.5231
     ],
     [
-      45.6261,
-      -122.5247
+      45.6259,
+      -122.5298
     ],
     [
-      45.6275,
-      -122.5166
+      45.6253,
+      -122.5363
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-12T08:22:42.304Z"
+  "status": "tracking",
+  "timestamp": "2026-09-12T16:51:35.566Z"
 }
