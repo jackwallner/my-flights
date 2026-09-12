@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 4000,
-    "speed": 98,
-    "timestamp": "2026-09-12T18:14:07.763Z",
-    "lat": 45.6254,
-    "lon": -122.5388,
+    "distance": 0.26,
+    "altitude": 2150,
+    "speed": 110,
+    "timestamp": "2026-09-12T18:34:36.462Z",
+    "lat": 45.6209,
+    "lon": -122.5274,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N832KX",
+    "callsign": "N9185H",
     "aircraftType": "C172",
-    "origin": "HIO",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-05-04T22:12:22.880Z"
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6349,
-      -122.5357
+      45.6207,
+      -122.5355
     ],
     [
-      45.6294,
-      -122.5375
+      45.6209,
+      -122.5274
     ],
     [
-      45.6254,
-      -122.5388
-    ],
-    [
-      45.6197,
-      -122.5406
+      45.621,
+      -122.5205
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-12T18:14:28.733Z"
+  "timestamp": "2026-09-12T18:34:56.998Z"
 }
