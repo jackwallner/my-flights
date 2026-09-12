@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.08,
-    "altitude": 1575,
-    "speed": 98,
-    "timestamp": "2026-09-12T16:51:25.302Z",
-    "lat": 45.6259,
-    "lon": -122.5298,
+    "distance": 0.52,
+    "altitude": 2525,
+    "speed": 96,
+    "timestamp": "2026-09-12T18:04:57.373Z",
+    "lat": 45.6175,
+    "lon": -122.5334,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
-    "origin": null,
+    "callsign": "N58518",
+    "aircraftType": "C182",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "firstSeen": "2026-07-12T18:13:53.518Z"
   },
-  "overheadScore": 0.08,
+  "overheadScore": 0.52,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6237,
-      -122.5174
+      45.6181,
+      -122.5388
     ],
     [
-      45.6251,
-      -122.5231
+      45.6175,
+      -122.5334
     ],
     [
-      45.6259,
-      -122.5298
+      45.6166,
+      -122.527
     ],
     [
-      45.6253,
-      -122.5363
-    ],
-    [
-      45.6237,
-      -122.5417
+      45.6153,
+      -122.5204
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-12T16:51:56.109Z"
+  "timestamp": "2026-09-12T18:05:28.230Z"
 }
