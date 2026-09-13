@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 2050,
-    "speed": 156,
-    "timestamp": "2026-09-13T14:50:59.437Z",
-    "lat": 45.6307,
-    "lon": -122.5318,
+    "distance": 0.46,
+    "altitude": 3850,
+    "speed": 113,
+    "timestamp": "2026-09-13T21:44:32.528Z",
+    "lat": 45.6281,
+    "lon": -122.5383,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N926RU",
-    "aircraftType": "RV6",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-09-13T14:50:49.084Z"
+    "callsign": "N834KX",
+    "aircraftType": "C172",
+    "origin": "HIO",
+    "destination": "HIO",
+    "firstSeen": "2026-06-24T20:22:49.072Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.625,
-      -122.5405
+      45.6324,
+      -122.5372
     ],
     [
-      45.6307,
-      -122.5318
+      45.6281,
+      -122.5383
     ],
     [
-      45.6351,
-      -122.5253
+      45.6221,
+      -122.5412
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-13T14:51:19.989Z"
+  "timestamp": "2026-09-13T21:44:53.016Z"
 }
