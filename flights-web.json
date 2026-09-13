@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 6050,
-    "speed": 134,
-    "timestamp": "2026-09-12T22:32:35.371Z",
-    "lat": 45.6275,
-    "lon": -122.5298,
+    "distance": 0.09,
+    "altitude": 1625,
+    "speed": 124,
+    "timestamp": "2026-09-13T00:01:24.714Z",
+    "lat": 45.6251,
+    "lon": -122.5259,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N5383E",
-    "aircraftType": "BE35",
-    "origin": null,
+    "callsign": "N58518",
+    "aircraftType": "C182",
+    "origin": "PSC",
     "destination": null,
-    "firstSeen": "2026-09-12T22:32:25.114Z"
+    "firstSeen": "2026-07-12T18:13:53.518Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.09,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6341,
-      -122.5252
+      45.6259,
+      -122.5154
     ],
     [
-      45.6275,
-      -122.5298
+      45.6251,
+      -122.5259
     ],
     [
-      45.6211,
-      -122.5342
+      45.6246,
+      -122.5332
     ],
     [
-      45.6161,
-      -122.5376
+      45.6242,
+      -122.5412
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-12T22:33:06.164Z"
+  "timestamp": "2026-09-13T00:01:55.536Z"
 }
