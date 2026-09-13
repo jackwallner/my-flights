@@ -1,41 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.09,
-    "altitude": 1625,
-    "speed": 124,
-    "timestamp": "2026-09-13T00:01:24.714Z",
-    "lat": 45.6251,
-    "lon": -122.5259,
+    "distance": 0.55,
+    "altitude": 800,
+    "speed": 70,
+    "timestamp": "2026-09-13T01:24:23.482Z",
+    "lat": 45.6207,
+    "lon": -122.5394,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N58518",
-    "aircraftType": "C182",
-    "origin": "PSC",
+    "callsign": "N924D",
+    "aircraftType": "RV6",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-07-12T18:13:53.518Z"
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.09,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6259,
-      -122.5154
+      45.6274,
+      -122.5414
     ],
     [
-      45.6251,
-      -122.5259
+      45.6261,
+      -122.5414
     ],
     [
-      45.6246,
-      -122.5332
+      45.6207,
+      -122.5394
     ],
     [
-      45.6242,
-      -122.5412
+      45.6207,
+      -122.5394
+    ],
+    [
+      45.6207,
+      -122.5394
+    ],
+    [
+      45.6151,
+      -122.5325
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-13T00:01:55.536Z"
+  "status": "tracking",
+  "timestamp": "2026-09-13T01:24:54.341Z"
 }
