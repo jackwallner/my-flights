@@ -29340,5 +29340,24 @@
     "initialDistance": 0.3926579934087378,
     "initialAltitude": 1375,
     "initialSpeed": 156
+  },
+  {
+    "callsign": "N739MR",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "QSA",
+    "destination": null,
+    "icao": "A9ED9D",
+    "registration": "N739MR",
+    "firstSeen": "2026-09-13T23:04:55.132Z",
+    "lastSeen": "2026-09-13T23:05:15.676Z",
+    "duration": 21,
+    "closestDistance": 0.49638428794895123,
+    "closestAltitude": 3850,
+    "closestSpeed": 117,
+    "initialDistance": 0.5965431164851327,
+    "initialAltitude": 3850,
+    "initialSpeed": 117
   }
 ]

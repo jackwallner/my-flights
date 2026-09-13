@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 5250,
-    "speed": 275,
-    "timestamp": "2026-09-13T22:40:44.162Z",
-    "lat": 45.6217,
-    "lon": -122.538,
-    "precision": "tracked"
+    "distance": 0.5,
+    "altitude": 3850,
+    "speed": 117,
+    "timestamp": "2026-09-13T23:05:05.387Z",
+    "lat": 45.6221,
+    "lon": -122.5172,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "GL7T",
-    "aircraftType": "GL7T",
-    "origin": null,
+    "callsign": "N739MR",
+    "aircraftType": "C172",
+    "origin": "QSA",
     "destination": null,
-    "firstSeen": "2026-04-02T00:31:53.589Z"
+    "firstSeen": "2026-09-13T23:04:55.132Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6327,
-      -122.5346
+      45.6166,
+      -122.5212
     ],
     [
-      45.6217,
-      -122.538
+      45.6221,
+      -122.5172
+    ],
+    [
+      45.6263,
+      -122.514
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-13T22:41:04.700Z"
+  "status": "tracking",
+  "timestamp": "2026-09-13T23:05:15.681Z"
 }
