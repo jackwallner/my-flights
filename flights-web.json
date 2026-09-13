@@ -1,49 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 800,
-    "speed": 70,
-    "timestamp": "2026-09-13T01:24:23.482Z",
-    "lat": 45.6207,
-    "lon": -122.5394,
+    "distance": 0.36,
+    "altitude": 2050,
+    "speed": 156,
+    "timestamp": "2026-09-13T14:50:59.437Z",
+    "lat": 45.6307,
+    "lon": -122.5318,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N924D",
+    "callsign": "N926RU",
     "aircraftType": "RV6",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-28T21:25:34.028Z"
+    "firstSeen": "2026-09-13T14:50:49.084Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6274,
-      -122.5414
+      45.625,
+      -122.5405
     ],
     [
-      45.6261,
-      -122.5414
+      45.6307,
+      -122.5318
     ],
     [
-      45.6207,
-      -122.5394
-    ],
-    [
-      45.6207,
-      -122.5394
-    ],
-    [
-      45.6207,
-      -122.5394
-    ],
-    [
-      45.6151,
-      -122.5325
+      45.6351,
+      -122.5253
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-13T01:25:04.599Z"
+  "timestamp": "2026-09-13T14:51:19.989Z"
 }

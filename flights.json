@@ -29302,5 +29302,24 @@
     "initialDistance": 0.5434591749869673,
     "initialAltitude": 6050,
     "initialSpeed": 131
+  },
+  {
+    "callsign": "N926RU",
+    "flightNumber": null,
+    "aircraftType": "RV6",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "ACD5FE",
+    "registration": "N926RU",
+    "firstSeen": "2026-09-13T14:50:49.084Z",
+    "lastSeen": "2026-09-13T14:51:09.708Z",
+    "duration": 21,
+    "closestDistance": 0.36036532614336075,
+    "closestAltitude": 2050,
+    "closestSpeed": 156,
+    "initialDistance": 0.5204493364646907,
+    "initialAltitude": 2025,
+    "initialSpeed": 160
   }
 ]
