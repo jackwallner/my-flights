@@ -1,37 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 3850,
-    "speed": 117,
-    "timestamp": "2026-09-13T23:05:05.387Z",
-    "lat": 45.6221,
-    "lon": -122.5172,
-    "precision": "high"
+    "distance": 0.64,
+    "altitude": 7900,
+    "speed": 127,
+    "timestamp": "2026-09-13T23:09:01.709Z",
+    "lat": 45.6202,
+    "lon": -122.5414,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N739MR",
-    "aircraftType": "C172",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-09-13T23:04:55.132Z"
+    "callsign": "N756EM",
+    "aircraftType": "C82R",
+    "origin": "RDM",
+    "destination": "TIW",
+    "firstSeen": "2026-02-17T16:11:53.731Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.64,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6166,
-      -122.5212
+      45.6202,
+      -122.5414
     ],
     [
-      45.6221,
-      -122.5172
-    ],
-    [
-      45.6263,
-      -122.514
+      45.627,
+      -122.5432
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-13T23:05:25.948Z"
+  "status": "tracking",
+  "timestamp": "2026-09-13T23:09:11.962Z"
 }
