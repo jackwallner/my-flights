@@ -29321,5 +29321,24 @@
     "initialDistance": 0.5204493364646907,
     "initialAltitude": 2025,
     "initialSpeed": 160
+  },
+  {
+    "callsign": "N3023W",
+    "flightNumber": null,
+    "aircraftType": "BE35",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A32996",
+    "registration": "N3023W",
+    "firstSeen": "2026-09-13T22:02:31.043Z",
+    "lastSeen": "2026-09-13T22:02:51.622Z",
+    "duration": 21,
+    "closestDistance": 0.35840230077270696,
+    "closestAltitude": 1400,
+    "closestSpeed": 153,
+    "initialDistance": 0.3926579934087378,
+    "initialAltitude": 1375,
+    "initialSpeed": 156
   }
 ]
