@@ -29359,5 +29359,24 @@
     "initialDistance": 0.5965431164851327,
     "initialAltitude": 3850,
     "initialSpeed": 117
+  },
+  {
+    "callsign": "N34CE",
+    "flightNumber": null,
+    "aircraftType": "BE9L",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A3BB2C",
+    "registration": "N34CE",
+    "firstSeen": "2026-09-14T14:37:25.187Z",
+    "lastSeen": "2026-09-14T14:37:35.461Z",
+    "duration": 10,
+    "closestDistance": 0.3838895477263792,
+    "closestAltitude": 1300,
+    "closestSpeed": 160,
+    "initialDistance": 0.3838895477263792,
+    "initialAltitude": 1300,
+    "initialSpeed": 160
   }
 ]
