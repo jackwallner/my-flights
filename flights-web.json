@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 7900,
-    "speed": 127,
-    "timestamp": "2026-09-13T23:09:01.709Z",
-    "lat": 45.6202,
-    "lon": -122.5414,
+    "distance": 0.6,
+    "altitude": 3925,
+    "speed": 95,
+    "timestamp": "2026-09-14T01:13:08.123Z",
+    "lat": 45.6274,
+    "lon": -122.542,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N756EM",
-    "aircraftType": "C82R",
-    "origin": "RDM",
-    "destination": "TIW",
-    "firstSeen": "2026-02-17T16:11:53.731Z"
+    "callsign": "N130JA",
+    "aircraftType": "C172",
+    "origin": "HIO",
+    "destination": "HIO",
+    "firstSeen": "2026-04-04T18:23:03.030Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6202,
-      -122.5414
+      45.6319,
+      -122.5396
     ],
     [
-      45.627,
-      -122.5432
+      45.6274,
+      -122.542
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-13T23:09:32.528Z"
+  "timestamp": "2026-09-14T01:13:28.661Z"
 }
