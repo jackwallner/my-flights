@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 1175,
-    "speed": 109,
-    "timestamp": "2026-09-15T16:39:54.639Z",
-    "lat": 45.6172,
-    "lon": -122.5392,
-    "precision": "tracked"
+    "distance": 0.24,
+    "altitude": 3875,
+    "speed": 105,
+    "timestamp": "2026-09-15T17:07:49.232Z",
+    "lat": 45.6246,
+    "lon": -122.5225,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N2181N",
-    "aircraftType": "C182",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-03-18T16:46:15.311Z"
+    "callsign": "N545DS",
+    "aircraftType": "C172",
+    "origin": "PDX",
+    "destination": "QSA",
+    "firstSeen": "2026-03-18T22:38:02.420Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6172,
-      -122.5392
+      45.6333,
+      -122.5173
+    ],
+    [
+      45.6292,
+      -122.5197
+    ],
+    [
+      45.6246,
+      -122.5225
+    ],
+    [
+      45.6194,
+      -122.5253
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-15T16:40:25.441Z"
+  "status": "tracking",
+  "timestamp": "2026-09-15T17:07:59.517Z"
 }
