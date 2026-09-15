@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 3900,
-    "speed": 106,
-    "timestamp": "2026-09-15T20:37:12.418Z",
-    "lat": 45.6283,
-    "lon": -122.5405,
+    "distance": 0.26,
+    "altitude": 1625,
+    "speed": 129,
+    "timestamp": "2026-09-15T22:46:15.006Z",
+    "lat": 45.6216,
+    "lon": -122.5247,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N734KU",
-    "aircraftType": "C172",
+    "callsign": "N443LF",
+    "aircraftType": "B407",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-09-15T20:37:02.166Z"
+    "firstSeen": "2026-09-15T22:45:54.460Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6329,
-      -122.5394
+      45.6196,
+      -122.541
     ],
     [
-      45.6283,
-      -122.5405
+      45.6208,
+      -122.5327
     ],
     [
-      45.6231,
-      -122.5416
+      45.6216,
+      -122.5247
+    ],
+    [
+      45.6219,
+      -122.5145
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-15T20:37:32.932Z"
+  "timestamp": "2026-09-15T22:46:35.549Z"
 }
