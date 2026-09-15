@@ -6,7 +6,7 @@
     "timestamp": "2026-09-15T19:50:28.692Z",
     "lat": 45.6249,
     "lon": -122.5262,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N18075",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.08,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6263,
@@ -26,8 +26,16 @@
     [
       45.6249,
       -122.5262
+    ],
+    [
+      45.6229,
+      -122.534
+    ],
+    [
+      45.6207,
+      -122.5412
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-15T19:50:28.692Z"
+  "status": "completed",
+  "timestamp": "2026-09-15T19:50:59.446Z"
 }
