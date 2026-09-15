@@ -29378,5 +29378,24 @@
     "initialDistance": 0.3838895477263792,
     "initialAltitude": 1300,
     "initialSpeed": 160
+  },
+  {
+    "callsign": "N734KU",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A9DADB",
+    "registration": "N734KU",
+    "firstSeen": "2026-09-15T20:37:02.166Z",
+    "lastSeen": "2026-09-15T20:37:22.665Z",
+    "duration": 20,
+    "closestDistance": 0.5508506371143397,
+    "closestAltitude": 3900,
+    "closestSpeed": 106,
+    "initialDistance": 0.6587288931161086,
+    "initialAltitude": 3925,
+    "initialSpeed": 104
   }
 ]
