@@ -1,49 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 1000,
-    "speed": 72,
-    "timestamp": "2026-09-14T22:44:52.443Z",
-    "lat": 45.6225,
-    "lon": -122.5351,
-    "precision": "high"
+    "distance": 0.67,
+    "altitude": 1175,
+    "speed": 109,
+    "timestamp": "2026-09-15T16:39:54.639Z",
+    "lat": 45.6172,
+    "lon": -122.5392,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N922DD",
-    "aircraftType": "R22",
-    "origin": null,
+    "callsign": "N2181N",
+    "aircraftType": "C182",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-21T15:31:18.144Z"
+    "firstSeen": "2026-03-18T16:46:15.311Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6275,
-      -122.5435
-    ],
-    [
-      45.6248,
-      -122.5385
-    ],
-    [
-      45.6225,
-      -122.5351
-    ],
-    [
-      45.6201,
-      -122.5317
-    ],
-    [
-      45.6175,
-      -122.5278
-    ],
-    [
-      45.6153,
-      -122.524
+      45.6172,
+      -122.5392
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-14T22:45:33.655Z"
+  "status": "tracking",
+  "timestamp": "2026-09-15T16:39:54.639Z"
 }
