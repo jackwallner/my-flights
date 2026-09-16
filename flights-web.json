@@ -1,41 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.26,
-    "altitude": 1625,
-    "speed": 129,
-    "timestamp": "2026-09-15T22:46:15.006Z",
-    "lat": 45.6216,
-    "lon": -122.5247,
+    "distance": 0.12,
+    "altitude": 1175,
+    "speed": 90,
+    "timestamp": "2026-09-16T02:50:02.476Z",
+    "lat": 45.6272,
+    "lon": -122.5283,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N443LF",
-    "aircraftType": "B407",
-    "origin": null,
+    "callsign": "N917KF",
+    "aircraftType": "R22",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-09-15T22:45:54.460Z"
+    "firstSeen": "2026-02-13T18:16:54.196Z"
   },
-  "overheadScore": 0.26,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6196,
-      -122.541
+      45.6325,
+      -122.5384
     ],
     [
-      45.6208,
-      -122.5327
+      45.6306,
+      -122.5347
     ],
     [
-      45.6216,
-      -122.5247
+      45.6272,
+      -122.5283
     ],
     [
-      45.6219,
-      -122.5145
+      45.6244,
+      -122.5232
+    ],
+    [
+      45.6228,
+      -122.5204
+    ],
+    [
+      45.6194,
+      -122.5142
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-15T22:46:35.549Z"
+  "timestamp": "2026-09-16T02:50:43.530Z"
 }
