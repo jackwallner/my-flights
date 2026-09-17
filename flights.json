@@ -29435,5 +29435,24 @@
     "initialDistance": 0.6673706278502235,
     "initialAltitude": 5450,
     "initialSpeed": 87
+  },
+  {
+    "callsign": "TDY1337",
+    "flightNumber": "TDY1337",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "QSA",
+    "icao": "A9B70E",
+    "registration": "N725KP",
+    "firstSeen": "2026-09-17T01:47:34.777Z",
+    "lastSeen": "2026-09-17T01:47:45.045Z",
+    "duration": 10,
+    "closestDistance": 0.21866583185378125,
+    "closestAltitude": 4000,
+    "closestSpeed": 219,
+    "initialDistance": 0.21866583185378125,
+    "initialAltitude": 4000,
+    "initialSpeed": 219
   }
 ]
