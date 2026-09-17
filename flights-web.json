@@ -1,37 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 6950,
-    "speed": 147,
-    "timestamp": "2026-09-17T21:32:17.123Z",
-    "lat": 45.6218,
-    "lon": -122.5266,
+    "distance": 0.19,
+    "altitude": 950,
+    "speed": 84,
+    "timestamp": "2026-09-17T22:12:13.094Z",
+    "lat": 45.6282,
+    "lon": -122.5301,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9676C",
-    "aircraftType": "P32T",
-    "origin": "QSA",
+    "callsign": "RV7",
+    "aircraftType": "RV7",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-09-17T21:32:06.878Z"
+    "firstSeen": "2026-07-11T20:29:40.327Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.19,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6146,
-      -122.5308
+      45.6282,
+      -122.5123
     ],
     [
-      45.6218,
-      -122.5266
+      45.6282,
+      -122.5168
     ],
     [
-      45.6287,
+      45.6281,
       -122.5227
+    ],
+    [
+      45.6282,
+      -122.5301
+    ],
+    [
+      45.6283,
+      -122.5335
+    ],
+    [
+      45.6286,
+      -122.543
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-17T21:32:37.668Z"
+  "timestamp": "2026-09-17T22:12:43.976Z"
 }
