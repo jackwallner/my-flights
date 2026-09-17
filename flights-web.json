@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 4000,
-    "speed": 219,
-    "timestamp": "2026-09-17T01:47:34.783Z",
-    "lat": 45.6283,
-    "lon": -122.5252,
+    "distance": 0.33,
+    "altitude": 3925,
+    "speed": 202,
+    "timestamp": "2026-09-17T13:15:19.696Z",
+    "lat": 45.6307,
+    "lon": -122.528,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "TDY1337",
+    "callsign": "PC12",
     "aircraftType": "PC-1",
-    "origin": "BFI",
-    "destination": "QSA",
-    "firstSeen": "2026-09-17T01:47:34.777Z"
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.33,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6283,
-      -122.5252
-    ],
-    [
-      45.6184,
-      -122.5301
+      45.6307,
+      -122.528
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-17T01:48:05.859Z"
+  "status": "tracking",
+  "timestamp": "2026-09-17T13:15:19.696Z"
 }
