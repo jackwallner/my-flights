@@ -29454,5 +29454,24 @@
     "initialDistance": 0.21866583185378125,
     "initialAltitude": 4000,
     "initialSpeed": 219
+  },
+  {
+    "callsign": "PA18",
+    "flightNumber": null,
+    "aircraftType": "PA18",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-09-17T18:15:16.961Z",
+    "lastSeen": "2026-09-17T18:16:08.335Z",
+    "duration": 51,
+    "closestDistance": 0.07171447801248187,
+    "closestAltitude": 1100,
+    "closestSpeed": 76,
+    "initialDistance": 0.6965473960158876,
+    "initialAltitude": 1100,
+    "initialSpeed": 76
   }
 ]
