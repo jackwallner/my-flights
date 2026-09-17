@@ -1,49 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 950,
-    "speed": 84,
-    "timestamp": "2026-09-17T22:12:13.094Z",
+    "distance": 0.27,
+    "altitude": 8950,
+    "speed": 138,
+    "timestamp": "2026-09-17T22:13:04.618Z",
     "lat": 45.6282,
-    "lon": -122.5301,
+    "lon": -122.5231,
     "precision": "high"
   },
   "flight": {
-    "callsign": "RV7",
-    "aircraftType": "RV7",
+    "callsign": "N75US",
+    "aircraftType": "C182",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-07-11T20:29:40.327Z"
+    "firstSeen": "2026-07-15T17:57:20.260Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.27,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6282,
-      -122.5123
+      45.6346,
+      -122.5268
     ],
     [
       45.6282,
-      -122.5168
+      -122.5231
     ],
     [
-      45.6281,
-      -122.5227
-    ],
-    [
-      45.6282,
-      -122.5301
-    ],
-    [
-      45.6283,
-      -122.5335
-    ],
-    [
-      45.6286,
-      -122.543
+      45.6219,
+      -122.5195
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-17T22:12:43.976Z"
+  "timestamp": "2026-09-17T22:13:25.149Z"
 }
