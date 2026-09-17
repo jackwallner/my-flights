@@ -1,53 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.07,
-    "altitude": 1100,
-    "speed": 76,
-    "timestamp": "2026-09-17T18:15:47.780Z",
-    "lat": 45.6251,
-    "lon": -122.5298,
-    "precision": "high"
+    "distance": 0.35,
+    "altitude": 1975,
+    "speed": 86,
+    "timestamp": "2026-09-17T18:34:07.599Z",
+    "lat": 45.6243,
+    "lon": -122.5363,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "PA18",
-    "aircraftType": "PA18",
+    "callsign": "N64269",
+    "aircraftType": "C172",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-09-17T18:15:16.961Z"
+    "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.07,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 7,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6252,
-      -122.5447
+      45.6238,
+      -122.5431
     ],
     [
-      45.6253,
-      -122.5407
-    ],
-    [
-      45.6253,
-      -122.5344
-    ],
-    [
-      45.6251,
-      -122.5298
-    ],
-    [
-      45.6251,
-      -122.5241
-    ],
-    [
-      45.6251,
-      -122.5197
-    ],
-    [
-      45.6252,
-      -122.515
+      45.6243,
+      -122.5363
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-17T18:16:28.930Z"
+  "status": "tracking",
+  "timestamp": "2026-09-17T18:34:07.599Z"
 }
