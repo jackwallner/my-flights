@@ -29473,5 +29473,24 @@
     "initialDistance": 0.6965473960158876,
     "initialAltitude": 1100,
     "initialSpeed": 76
+  },
+  {
+    "callsign": "N9676C",
+    "flightNumber": null,
+    "aircraftType": "P32T",
+    "aircraftName": null,
+    "origin": "QSA",
+    "destination": null,
+    "icao": "AD7954",
+    "registration": "N9676C",
+    "firstSeen": "2026-09-17T21:32:06.878Z",
+    "lastSeen": "2026-09-17T21:32:27.388Z",
+    "duration": 21,
+    "closestDistance": 0.21839480181272974,
+    "closestAltitude": 6950,
+    "closestSpeed": 147,
+    "initialDistance": 0.6511192988231487,
+    "initialAltitude": 6950,
+    "initialSpeed": 147
   }
 ]
