@@ -6,7 +6,7 @@
     "timestamp": "2026-09-17T17:37:52.869Z",
     "lat": 45.625,
     "lon": -122.532,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N519F",
@@ -17,13 +17,37 @@
   },
   "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 7,
   "trail": [
     [
       45.625,
       -122.532
+    ],
+    [
+      45.6219,
+      -122.5315
+    ],
+    [
+      45.6197,
+      -122.528
+    ],
+    [
+      45.6198,
+      -122.5241
+    ],
+    [
+      45.6232,
+      -122.5201
+    ],
+    [
+      45.6268,
+      -122.5191
+    ],
+    [
+      45.6312,
+      -122.5187
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-17T17:37:52.869Z"
+  "status": "completed",
+  "timestamp": "2026-09-17T17:39:04.863Z"
 }
