@@ -29416,5 +29416,24 @@
     "initialDistance": 0.6396982736613002,
     "initialAltitude": 1600,
     "initialSpeed": 130
+  },
+  {
+    "callsign": "N79453",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "AACA04",
+    "registration": "N79453",
+    "firstSeen": "2026-09-17T01:32:39.131Z",
+    "lastSeen": "2026-09-17T01:32:59.695Z",
+    "duration": 21,
+    "closestDistance": 0.5865010366814567,
+    "closestAltitude": 5450,
+    "closestSpeed": 88,
+    "initialDistance": 0.6673706278502235,
+    "initialAltitude": 5450,
+    "initialSpeed": 87
   }
 ]
