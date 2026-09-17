@@ -1,49 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 1950,
-    "speed": 84,
-    "timestamp": "2026-09-17T18:34:28.135Z",
-    "lat": 45.6242,
-    "lon": -122.526,
+    "distance": 0.19,
+    "altitude": 1325,
+    "speed": 123,
+    "timestamp": "2026-09-17T20:00:11.966Z",
+    "lat": 45.6261,
+    "lon": -122.5324,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": null,
+    "callsign": "N2123Y",
+    "aircraftType": "C182",
+    "origin": "QSA",
     "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "firstSeen": "2026-02-25T22:15:02.685Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.19,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6238,
-      -122.5431
+      45.6233,
+      -122.5394
     ],
     [
-      45.6243,
-      -122.5363
+      45.6261,
+      -122.5324
     ],
     [
-      45.6243,
-      -122.5311
-    ],
-    [
-      45.6242,
-      -122.526
-    ],
-    [
-      45.624,
-      -122.5197
-    ],
-    [
-      45.6239,
-      -122.5142
+      45.6286,
+      -122.5261
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-17T18:34:59.109Z"
+  "status": "tracking",
+  "timestamp": "2026-09-17T20:00:22.265Z"
 }
