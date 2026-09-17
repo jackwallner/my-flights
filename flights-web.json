@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 1925,
-    "speed": 132,
-    "timestamp": "2026-09-17T13:34:50.615Z",
-    "lat": 45.6333,
-    "lon": -122.5339,
-    "precision": "high"
+    "distance": 0.16,
+    "altitude": 500,
+    "speed": 62,
+    "timestamp": "2026-09-17T17:37:52.869Z",
+    "lat": 45.625,
+    "lon": -122.532,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N2123Y",
-    "aircraftType": "C182",
-    "origin": "TTD",
+    "callsign": "N519F",
+    "aircraftType": "CH7B",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-25T22:15:02.685Z"
+    "firstSeen": "2026-02-06T20:53:13.130Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6368,
-      -122.5286
-    ],
-    [
-      45.6333,
-      -122.5339
-    ],
-    [
-      45.6287,
-      -122.5408
+      45.625,
+      -122.532
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-17T13:35:11.170Z"
+  "status": "tracking",
+  "timestamp": "2026-09-17T17:37:52.869Z"
 }
