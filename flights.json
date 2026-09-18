@@ -29530,5 +29530,24 @@
     "initialDistance": 0.6666267288180282,
     "initialAltitude": 7325,
     "initialSpeed": 133
+  },
+  {
+    "callsign": "N132MR",
+    "flightNumber": null,
+    "aircraftType": "PA18",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A083C2",
+    "registration": "N132MR",
+    "firstSeen": "2026-09-18T23:38:11.632Z",
+    "lastSeen": "2026-09-18T23:38:11.632Z",
+    "duration": 0,
+    "closestDistance": 0.6663543085461381,
+    "closestAltitude": 2350,
+    "closestSpeed": 91,
+    "initialDistance": 0.6663543085461381,
+    "initialAltitude": 2350,
+    "initialSpeed": 91
   }
 ]

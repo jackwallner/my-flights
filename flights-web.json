@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 4675,
-    "speed": 228,
-    "timestamp": "2026-09-18T23:24:09.359Z",
-    "lat": 45.6251,
-    "lon": -122.5306,
+    "distance": 0.67,
+    "altitude": 2350,
+    "speed": 91,
+    "timestamp": "2026-09-18T23:38:11.637Z",
+    "lat": 45.6359,
+    "lon": -122.5235,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "C525",
-    "aircraftType": "C525",
-    "origin": null,
+    "callsign": "N132MR",
+    "aircraftType": "PA18",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-08-07T21:18:23.550Z"
+    "firstSeen": "2026-09-18T23:38:11.632Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6341,
-      -122.5274
-    ],
-    [
-      45.6251,
-      -122.5306
+      45.6359,
+      -122.5235
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-18T23:24:29.876Z"
+  "status": "tracking",
+  "timestamp": "2026-09-18T23:38:11.637Z"
 }
