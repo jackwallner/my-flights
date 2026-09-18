@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 7325,
-    "speed": 244,
-    "timestamp": "2026-09-18T16:46:16.221Z",
-    "lat": 45.624,
-    "lon": -122.5392,
+    "distance": 0.53,
+    "altitude": 4025,
+    "speed": 224,
+    "timestamp": "2026-09-18T18:38:53.898Z",
+    "lat": 45.6294,
+    "lon": -122.517,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N175AA",
-    "aircraftType": "Cita",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-02-27T20:27:06.915Z"
+    "callsign": "N479CV",
+    "aircraftType": "SF50",
+    "origin": "TTD",
+    "destination": "PDT",
+    "firstSeen": "2026-09-18T18:38:53.883Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.53,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6346,
-      -122.5326
-    ],
-    [
-      45.624,
-      -122.5392
+      45.6294,
+      -122.517
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-18T16:46:36.725Z"
+  "timestamp": "2026-09-18T18:39:24.677Z"
 }

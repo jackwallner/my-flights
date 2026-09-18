@@ -29492,5 +29492,24 @@
     "initialDistance": 0.6511192988231487,
     "initialAltitude": 6950,
     "initialSpeed": 147
+  },
+  {
+    "callsign": "N479CV",
+    "flightNumber": null,
+    "aircraftType": "SF50",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": "PDT",
+    "icao": "A5E2CF",
+    "registration": "N479CV",
+    "firstSeen": "2026-09-18T18:38:53.883Z",
+    "lastSeen": "2026-09-18T18:38:53.883Z",
+    "duration": 0,
+    "closestDistance": 0.5280616313187899,
+    "closestAltitude": 4025,
+    "closestSpeed": 224,
+    "initialDistance": 0.5280616313187899,
+    "initialAltitude": 4025,
+    "initialSpeed": 224
   }
 ]
