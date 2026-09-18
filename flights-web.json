@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 4025,
-    "speed": 224,
-    "timestamp": "2026-09-18T18:38:53.898Z",
-    "lat": 45.6294,
-    "lon": -122.517,
-    "precision": "tracked"
+    "distance": 0.47,
+    "altitude": 5400,
+    "speed": 132,
+    "timestamp": "2026-09-18T21:19:23.453Z",
+    "lat": 45.6199,
+    "lon": -122.5201,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N479CV",
-    "aircraftType": "SF50",
-    "origin": "TTD",
-    "destination": "PDT",
-    "firstSeen": "2026-09-18T18:38:53.883Z"
+    "callsign": "N2952C",
+    "aircraftType": "C180",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-07-31T20:02:23.362Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6294,
-      -122.517
+      45.6239,
+      -122.5124
+    ],
+    [
+      45.6199,
+      -122.5201
+    ],
+    [
+      45.6163,
+      -122.5271
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-18T18:39:24.677Z"
+  "timestamp": "2026-09-18T21:19:43.983Z"
 }
