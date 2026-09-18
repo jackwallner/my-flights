@@ -1,41 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 7500,
-    "speed": 118,
-    "timestamp": "2026-09-18T00:49:35.907Z",
-    "lat": 45.6249,
-    "lon": -122.5246,
+    "distance": 0.29,
+    "altitude": 3450,
+    "speed": 100,
+    "timestamp": "2026-09-18T01:59:45.794Z",
+    "lat": 45.6262,
+    "lon": -122.535,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N867LA",
+    "callsign": "N830KX",
     "aircraftType": "C172",
-    "origin": "MWH",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-02-28T19:22:41.427Z"
+    "firstSeen": "2026-05-04T22:44:11.658Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6263,
-      -122.5166
+      45.636,
+      -122.5309
     ],
     [
-      45.6249,
-      -122.5246
+      45.6312,
+      -122.5329
     ],
     [
-      45.6237,
-      -122.5327
+      45.6262,
+      -122.535
     ],
     [
-      45.6227,
-      -122.5408
+      45.6214,
+      -122.537
+    ],
+    [
+      45.618,
+      -122.5386
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-18T00:50:06.722Z"
+  "timestamp": "2026-09-18T02:00:16.581Z"
 }
