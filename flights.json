@@ -29511,5 +29511,24 @@
     "initialDistance": 0.5280616313187899,
     "initialAltitude": 4025,
     "initialSpeed": 224
+  },
+  {
+    "callsign": "N8494M",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "PAE",
+    "destination": null,
+    "icao": "ABA438",
+    "registration": "N8494M",
+    "firstSeen": "2026-09-18T22:25:44.713Z",
+    "lastSeen": "2026-09-18T22:25:54.966Z",
+    "duration": 10,
+    "closestDistance": 0.5286852984477002,
+    "closestAltitude": 7325,
+    "closestSpeed": 133,
+    "initialDistance": 0.6666267288180282,
+    "initialAltitude": 7325,
+    "initialSpeed": 133
   }
 ]

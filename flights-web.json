@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 3725,
-    "speed": 258,
-    "timestamp": "2026-09-18T22:20:36.976Z",
-    "lat": 45.6272,
-    "lon": -122.5396,
+    "distance": 0.53,
+    "altitude": 7325,
+    "speed": 133,
+    "timestamp": "2026-09-18T22:25:54.971Z",
+    "lat": 45.6251,
+    "lon": -122.5407,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "C56X",
-    "aircraftType": "Cita",
-    "origin": null,
+    "callsign": "N8494M",
+    "aircraftType": "C182",
+    "origin": "PAE",
     "destination": null,
-    "firstSeen": "2026-02-14T17:19:26.021Z"
+    "firstSeen": "2026-09-18T22:25:44.713Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.53,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6367,
-      -122.5281
+      45.6304,
+      -122.5422
     ],
     [
-      45.6272,
-      -122.5396
+      45.6251,
+      -122.5407
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-18T22:20:57.465Z"
+  "status": "tracking",
+  "timestamp": "2026-09-18T22:25:54.971Z"
 }
