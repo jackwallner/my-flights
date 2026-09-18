@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 2350,
-    "speed": 91,
-    "timestamp": "2026-09-18T23:38:11.637Z",
-    "lat": 45.6359,
-    "lon": -122.5235,
-    "precision": "tracked"
+    "distance": 0.34,
+    "altitude": 2275,
+    "speed": 95,
+    "timestamp": "2026-09-18T23:38:32.182Z",
+    "lat": 45.6296,
+    "lon": -122.5335,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N132MR",
@@ -15,15 +15,31 @@
     "destination": null,
     "firstSeen": "2026-09-18T23:38:11.632Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.34,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6359,
       -122.5235
+    ],
+    [
+      45.633,
+      -122.5293
+    ],
+    [
+      45.6296,
+      -122.5335
+    ],
+    [
+      45.6267,
+      -122.537
+    ],
+    [
+      45.6235,
+      -122.5412
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-18T23:38:11.637Z"
+  "status": "completed",
+  "timestamp": "2026-09-18T23:39:02.976Z"
 }
