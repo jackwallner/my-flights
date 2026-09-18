@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 1500,
-    "speed": 122,
-    "timestamp": "2026-09-17T23:31:22.948Z",
-    "lat": 45.6284,
-    "lon": -122.5249,
+    "distance": 0.15,
+    "altitude": 7500,
+    "speed": 118,
+    "timestamp": "2026-09-18T00:49:35.907Z",
+    "lat": 45.6249,
+    "lon": -122.5246,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N91055",
-    "aircraftType": "C182",
-    "origin": null,
+    "callsign": "N867LA",
+    "aircraftType": "C172",
+    "origin": "MWH",
     "destination": null,
-    "firstSeen": "2026-04-04T01:50:00.447Z"
+    "firstSeen": "2026-02-28T19:22:41.427Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.632,
-      -122.5325
+      45.6263,
+      -122.5166
     ],
     [
-      45.6284,
-      -122.5249
+      45.6249,
+      -122.5246
     ],
     [
-      45.6256,
-      -122.5185
+      45.6237,
+      -122.5327
+    ],
+    [
+      45.6227,
+      -122.5408
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-17T23:31:43.503Z"
+  "timestamp": "2026-09-18T00:50:06.722Z"
 }
