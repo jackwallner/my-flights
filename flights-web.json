@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 1400,
-    "speed": 128,
-    "timestamp": "2026-09-18T03:48:20.054Z",
-    "lat": 45.6248,
-    "lon": -122.5325,
+    "distance": 0.16,
+    "altitude": 5400,
+    "speed": 129,
+    "timestamp": "2026-09-18T04:20:59.611Z",
+    "lat": 45.628,
+    "lon": -122.5286,
     "precision": "high"
   },
   "flight": {
-    "callsign": "B407",
-    "aircraftType": "B407",
+    "callsign": "N7753W",
+    "aircraftType": "P28A",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-04-07T03:22:47.616Z"
+    "firstSeen": "2026-06-11T21:43:10.333Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6259,
-      -122.5392
+      45.6298,
+      -122.5375
     ],
     [
-      45.6248,
-      -122.5325
+      45.628,
+      -122.5286
     ],
     [
-      45.6232,
-      -122.5238
+      45.6263,
+      -122.5211
+    ],
+    [
+      45.6244,
+      -122.5123
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-18T03:48:41.001Z"
+  "timestamp": "2026-09-18T04:21:30.417Z"
 }
