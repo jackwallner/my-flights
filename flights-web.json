@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 2400,
-    "speed": 98,
-    "timestamp": "2026-09-19T03:10:45.822Z",
-    "lat": 45.6343,
-    "lon": -122.5359,
+    "distance": 0.64,
+    "altitude": 875,
+    "speed": 94,
+    "timestamp": "2026-09-19T07:52:53.665Z",
+    "lat": 45.6225,
+    "lon": -122.5428,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7668U",
-    "aircraftType": "C150",
-    "origin": "TTD",
+    "callsign": "N246LT",
+    "aircraftType": "SLG2",
+    "origin": "SLE",
     "destination": null,
-    "firstSeen": "2026-06-15T20:44:25.390Z"
+    "firstSeen": "2026-02-05T06:48:57.804Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6343,
-      -122.5359
+      45.6263,
+      -122.5438
     ],
     [
-      45.6312,
-      -122.5407
+      45.6225,
+      -122.5428
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-19T03:11:16.576Z"
+  "status": "tracking",
+  "timestamp": "2026-09-19T07:52:53.665Z"
 }
