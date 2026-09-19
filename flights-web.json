@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 2375,
-    "speed": 147,
-    "timestamp": "2026-09-19T23:16:39.914Z",
-    "lat": 45.6238,
-    "lon": -122.5197,
-    "precision": "high"
+    "distance": 0.64,
+    "altitude": 1475,
+    "speed": 97,
+    "timestamp": "2026-09-19T23:22:29.132Z",
+    "lat": 45.6193,
+    "lon": -122.5408,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N773PD",
-    "aircraftType": "PA46",
-    "origin": "LWS",
-    "destination": "PDX",
-    "firstSeen": "2026-09-19T23:16:29.621Z"
+    "callsign": "N54FM",
+    "aircraftType": "S22T",
+    "origin": "RDM",
+    "destination": null,
+    "firstSeen": "2026-09-19T23:22:29.125Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.64,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6317,
-      -122.5166
-    ],
-    [
-      45.6238,
-      -122.5197
-    ],
-    [
-      45.618,
-      -122.5224
+      45.6193,
+      -122.5408
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-19T23:17:00.437Z"
+  "timestamp": "2026-09-19T23:22:59.954Z"
 }

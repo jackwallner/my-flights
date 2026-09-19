@@ -29625,5 +29625,24 @@
     "initialDistance": 0.618202973872493,
     "initialAltitude": 2700,
     "initialSpeed": 147
+  },
+  {
+    "callsign": "N54FM",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": null,
+    "icao": "A6D61C",
+    "registration": "N54FM",
+    "firstSeen": "2026-09-19T23:22:29.125Z",
+    "lastSeen": "2026-09-19T23:22:29.125Z",
+    "duration": 0,
+    "closestDistance": 0.6425001299702623,
+    "closestAltitude": 1475,
+    "closestSpeed": 97,
+    "initialDistance": 0.6425001299702623,
+    "initialAltitude": 1475,
+    "initialSpeed": 97
   }
 ]
