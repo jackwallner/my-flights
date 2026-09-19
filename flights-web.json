@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.36,
+    "distance": 0.11,
     "altitude": 3000,
     "speed": 94,
-    "timestamp": "2026-09-19T20:26:23.107Z",
-    "lat": 45.6294,
-    "lon": -122.5219,
-    "precision": "tracked"
+    "timestamp": "2026-09-19T20:26:33.373Z",
+    "lat": 45.627,
+    "lon": -122.5275,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N725FA",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-06-11T20:05:42.436Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6319,
@@ -26,8 +26,20 @@
     [
       45.6294,
       -122.5219
+    ],
+    [
+      45.627,
+      -122.5275
+    ],
+    [
+      45.6246,
+      -122.5335
+    ],
+    [
+      45.6228,
+      -122.5383
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-19T20:26:23.107Z"
+  "status": "completed",
+  "timestamp": "2026-09-19T20:27:04.241Z"
 }
