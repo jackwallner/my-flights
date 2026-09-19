@@ -29606,5 +29606,24 @@
     "initialDistance": 0.2092112902312237,
     "initialAltitude": 1425,
     "initialSpeed": 125
+  },
+  {
+    "callsign": "N773PD",
+    "flightNumber": null,
+    "aircraftType": "PA46",
+    "aircraftName": null,
+    "origin": "LWS",
+    "destination": "PDX",
+    "icao": "AA7575",
+    "registration": "N773PD",
+    "firstSeen": "2026-09-19T23:16:29.621Z",
+    "lastSeen": "2026-09-19T23:16:50.177Z",
+    "duration": 21,
+    "closestDistance": 0.3642165825817825,
+    "closestAltitude": 2375,
+    "closestSpeed": 147,
+    "initialDistance": 0.618202973872493,
+    "initialAltitude": 2700,
+    "initialSpeed": 147
   }
 ]
