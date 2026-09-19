@@ -1,45 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 2275,
-    "speed": 95,
-    "timestamp": "2026-09-18T23:38:32.182Z",
-    "lat": 45.6296,
-    "lon": -122.5335,
+    "distance": 0.5,
+    "altitude": 2325,
+    "speed": 82,
+    "timestamp": "2026-09-19T00:15:16.627Z",
+    "lat": 45.6191,
+    "lon": -122.5202,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N132MR",
-    "aircraftType": "PA18",
+    "callsign": "N18586",
+    "aircraftType": "C150",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-09-18T23:38:11.632Z"
+    "firstSeen": "2026-02-06T23:57:53.810Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.5,
   "isOverhead": true,
   "pathSnapshots": 5,
   "trail": [
     [
-      45.6359,
-      -122.5235
+      45.6252,
+      -122.5127
     ],
     [
-      45.633,
-      -122.5293
+      45.6221,
+      -122.5163
     ],
     [
-      45.6296,
-      -122.5335
+      45.6191,
+      -122.5202
     ],
     [
-      45.6267,
-      -122.537
+      45.6165,
+      -122.525
     ],
     [
-      45.6235,
-      -122.5412
+      45.6139,
+      -122.5303
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-18T23:39:02.976Z"
+  "timestamp": "2026-09-19T00:15:47.432Z"
 }
