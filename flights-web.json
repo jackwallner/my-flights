@@ -1,65 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 900,
-    "speed": 81,
-    "timestamp": "2026-09-19T21:33:33.236Z",
-    "lat": 45.6307,
-    "lon": -122.5238,
+    "distance": 0.53,
+    "altitude": 2500,
+    "speed": 94,
+    "timestamp": "2026-09-19T21:37:40.415Z",
+    "lat": 45.6164,
+    "lon": -122.5286,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N924D",
-    "aircraftType": "RV6",
+    "callsign": "N300PA",
+    "aircraftType": "P28R",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-28T21:25:34.028Z"
+    "firstSeen": "2026-03-15T20:46:41.470Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.53,
   "isOverhead": true,
-  "pathSnapshots": 10,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6307,
-      -122.5238
+      45.6165,
+      -122.5353
     ],
     [
-      45.6328,
+      45.6164,
       -122.5286
     ],
     [
-      45.633,
-      -122.5333
-    ],
-    [
-      45.6312,
-      -122.5379
-    ],
-    [
-      45.6274,
-      -122.5403
-    ],
-    [
-      45.6235,
-      -122.5406
-    ],
-    [
-      45.6197,
-      -122.5377
-    ],
-    [
-      45.6197,
-      -122.5377
-    ],
-    [
-      45.6197,
-      -122.5377
-    ],
-    [
-      45.6146,
-      -122.5271
+      45.6163,
+      -122.5219
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-19T21:35:16.155Z"
+  "timestamp": "2026-09-19T21:38:00.976Z"
 }
