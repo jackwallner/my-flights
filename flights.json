@@ -29549,5 +29549,24 @@
     "initialDistance": 0.6663543085461381,
     "initialAltitude": 2350,
     "initialSpeed": 91
+  },
+  {
+    "callsign": "N6437A",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A873AE",
+    "registration": "N6437A",
+    "firstSeen": "2026-09-19T00:24:32.021Z",
+    "lastSeen": "2026-09-19T00:24:52.562Z",
+    "duration": 21,
+    "closestDistance": 0.5070686441628999,
+    "closestAltitude": 2975,
+    "closestSpeed": 110,
+    "initialDistance": 0.546044660200437,
+    "initialAltitude": 3050,
+    "initialSpeed": 110
   }
 ]
