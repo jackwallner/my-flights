@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 2500,
-    "speed": 94,
-    "timestamp": "2026-09-19T21:37:40.415Z",
-    "lat": 45.6164,
-    "lon": -122.5286,
+    "distance": 0.22,
+    "altitude": 1775,
+    "speed": 91,
+    "timestamp": "2026-09-19T22:32:16.754Z",
+    "lat": 45.6281,
+    "lon": -122.5249,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N300PA",
-    "aircraftType": "P28R",
-    "origin": "PDX",
+    "callsign": "N922DD",
+    "aircraftType": "R22",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-15T20:46:41.470Z"
+    "firstSeen": "2026-03-21T15:31:18.144Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.22,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6165,
-      -122.5353
+      45.6347,
+      -122.5334
     ],
     [
-      45.6164,
-      -122.5286
+      45.6312,
+      -122.5287
     ],
     [
-      45.6163,
-      -122.5219
+      45.6281,
+      -122.5249
+    ],
+    [
+      45.6248,
+      -122.5209
+    ],
+    [
+      45.6209,
+      -122.5166
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-19T21:38:00.976Z"
+  "timestamp": "2026-09-19T22:32:47.550Z"
 }
