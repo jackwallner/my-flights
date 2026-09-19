@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 2625,
-    "speed": 80,
-    "timestamp": "2026-09-19T00:35:34.552Z",
-    "lat": 45.6315,
-    "lon": -122.5255,
-    "precision": "high"
+    "distance": 0.63,
+    "altitude": 2400,
+    "speed": 98,
+    "timestamp": "2026-09-19T03:10:45.822Z",
+    "lat": 45.6343,
+    "lon": -122.5359,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6437A",
-    "aircraftType": "C182",
-    "origin": null,
+    "callsign": "N7668U",
+    "aircraftType": "C150",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-09-19T00:24:32.021Z"
+    "firstSeen": "2026-06-15T20:44:25.390Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.63,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6299,
-      -122.5183
+      45.6343,
+      -122.5359
     ],
     [
-      45.6315,
-      -122.5255
-    ],
-    [
-      45.6327,
-      -122.5312
-    ],
-    [
-      45.6341,
-      -122.537
+      45.6312,
+      -122.5407
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-19T00:36:05.342Z"
+  "timestamp": "2026-09-19T03:11:16.576Z"
 }
