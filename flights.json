@@ -29568,5 +29568,24 @@
     "initialDistance": 0.546044660200437,
     "initialAltitude": 3050,
     "initialSpeed": 110
+  },
+  {
+    "callsign": "N8315H",
+    "flightNumber": null,
+    "aircraftType": "PA32",
+    "aircraftName": null,
+    "origin": "QSA",
+    "destination": null,
+    "icao": "AB5F20",
+    "registration": "N8315H",
+    "firstSeen": "2026-09-19T15:17:16.203Z",
+    "lastSeen": "2026-09-19T15:17:36.843Z",
+    "duration": 21,
+    "closestDistance": 0.4528693298309873,
+    "closestAltitude": 3700,
+    "closestSpeed": 142,
+    "initialDistance": 0.4782111591317131,
+    "initialAltitude": 3800,
+    "initialSpeed": 140
   }
 ]
