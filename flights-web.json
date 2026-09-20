@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 2100,
-    "speed": 91,
-    "timestamp": "2026-09-20T03:57:33.000Z",
+    "distance": 0.15,
+    "altitude": 9725,
+    "speed": 294,
+    "timestamp": "2026-09-20T13:07:45.572Z",
     "lat": 45.6273,
-    "lon": -122.5294,
-    "precision": "high"
+    "lon": -122.5303,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4466R",
-    "aircraftType": "C172",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-03-01T01:16:04.720Z"
+    "callsign": "ASA710",
+    "aircraftType": "B39M",
+    "origin": "GEG",
+    "destination": "PDX",
+    "firstSeen": "2026-09-20T13:07:45.567Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6266,
-      -122.5431
-    ],
-    [
-      45.6271,
-      -122.5362
-    ],
-    [
       45.6273,
-      -122.5294
-    ],
-    [
-      45.6274,
-      -122.5232
-    ],
-    [
-      45.6273,
-      -122.5179
+      -122.5303
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-20T03:58:03.792Z"
+  "timestamp": "2026-09-20T13:08:16.374Z"
 }

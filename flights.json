@@ -29644,5 +29644,24 @@
     "initialDistance": 0.6425001299702623,
     "initialAltitude": 1475,
     "initialSpeed": 97
+  },
+  {
+    "callsign": "ASA710",
+    "flightNumber": "AS710",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "GEG",
+    "destination": "PDX",
+    "icao": "AD3FD6",
+    "registration": "N953AK",
+    "firstSeen": "2026-09-20T13:07:45.567Z",
+    "lastSeen": "2026-09-20T13:07:45.567Z",
+    "duration": 0,
+    "closestDistance": 0.15213711396294738,
+    "closestAltitude": 9725,
+    "closestSpeed": 294,
+    "initialDistance": 0.15213711396294738,
+    "initialAltitude": 9725,
+    "initialSpeed": 294
   }
 ]
