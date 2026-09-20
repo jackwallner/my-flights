@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6266,
@@ -30,8 +30,16 @@
     [
       45.6273,
       -122.5294
+    ],
+    [
+      45.6274,
+      -122.5232
+    ],
+    [
+      45.6273,
+      -122.5179
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-20T03:57:33.000Z"
+  "status": "completed",
+  "timestamp": "2026-09-20T03:58:03.792Z"
 }
