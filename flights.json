@@ -29663,5 +29663,24 @@
     "initialDistance": 0.15213711396294738,
     "initialAltitude": 9725,
     "initialSpeed": 294
+  },
+  {
+    "callsign": "BTQ913",
+    "flightNumber": "4B913",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "PDX",
+    "icao": "A57774",
+    "registration": "N451SS",
+    "firstSeen": "2026-09-20T18:01:33.120Z",
+    "lastSeen": "2026-09-20T18:01:53.636Z",
+    "duration": 21,
+    "closestDistance": 0.2621887333523894,
+    "closestAltitude": 2900,
+    "closestSpeed": 150,
+    "initialDistance": 0.43327637442553946,
+    "initialAltitude": 2600,
+    "initialSpeed": 151
   }
 ]
