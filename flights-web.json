@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.26,
-    "altitude": 2900,
-    "speed": 150,
-    "timestamp": "2026-09-20T18:01:43.380Z",
-    "lat": 45.6241,
-    "lon": -122.5221,
+    "distance": 0.07,
+    "altitude": 3200,
+    "speed": 159,
+    "timestamp": "2026-09-20T18:44:55.321Z",
+    "lat": 45.6242,
+    "lon": -122.5276,
     "precision": "high"
   },
   "flight": {
-    "callsign": "BTQ913",
+    "callsign": "BOE1AU",
     "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "PDX",
-    "firstSeen": "2026-09-20T18:01:33.120Z"
+    "destination": "BFI",
+    "firstSeen": "2026-02-03T23:18:02.427Z"
   },
-  "overheadScore": 0.26,
+  "overheadScore": 0.07,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6184,
-      -122.525
+      45.6169,
+      -122.5313
     ],
     [
-      45.6241,
-      -122.5221
+      45.6242,
+      -122.5276
     ],
     [
-      45.6311,
-      -122.5186
+      45.6306,
+      -122.5244
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-20T18:02:03.906Z"
+  "status": "tracking",
+  "timestamp": "2026-09-20T18:45:05.624Z"
 }
