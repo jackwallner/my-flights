@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 9725,
-    "speed": 294,
-    "timestamp": "2026-09-20T13:07:45.572Z",
-    "lat": 45.6273,
-    "lon": -122.5303,
-    "precision": "tracked"
+    "distance": 0.3,
+    "altitude": 3100,
+    "speed": 148,
+    "timestamp": "2026-09-20T14:58:04.560Z",
+    "lat": 45.624,
+    "lon": -122.5213,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "ASA710",
-    "aircraftType": "B39M",
-    "origin": "GEG",
-    "destination": "PDX",
-    "firstSeen": "2026-09-20T13:07:45.567Z"
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6273,
-      -122.5303
+      45.6185,
+      -122.5239
+    ],
+    [
+      45.624,
+      -122.5213
+    ],
+    [
+      45.6313,
+      -122.5183
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-20T13:08:16.374Z"
+  "timestamp": "2026-09-20T14:58:25.110Z"
 }
