@@ -1,49 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 3200,
-    "speed": 72,
-    "timestamp": "2026-09-20T20:57:01.237Z",
-    "lat": 45.6217,
-    "lon": -122.5295,
+    "distance": 0.11,
+    "altitude": 2325,
+    "speed": 137,
+    "timestamp": "2026-09-20T21:48:30.420Z",
+    "lat": 45.6237,
+    "lon": -122.5294,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N1449Q",
-    "aircraftType": "C150",
-    "origin": "PDX",
+    "callsign": "B407",
+    "aircraftType": "B407",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-06-20T16:12:50.201Z"
+    "firstSeen": "2026-04-07T03:22:47.616Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6225,
-      -122.5401
+      45.6269,
+      -122.5224
     ],
     [
-      45.6222,
-      -122.535
+      45.6237,
+      -122.5294
     ],
     [
-      45.6217,
-      -122.5295
-    ],
-    [
-      45.6215,
-      -122.525
-    ],
-    [
-      45.6213,
-      -122.521
-    ],
-    [
-      45.6212,
-      -122.5157
+      45.6197,
+      -122.5376
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-20T20:57:42.286Z"
+  "timestamp": "2026-09-20T21:48:50.928Z"
 }
