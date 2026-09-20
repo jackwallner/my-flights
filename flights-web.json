@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 2950,
-    "speed": 109,
-    "timestamp": "2026-09-20T01:47:52.413Z",
-    "lat": 45.6164,
-    "lon": -122.5383,
-    "precision": "tracked"
+    "distance": 0.13,
+    "altitude": 2100,
+    "speed": 91,
+    "timestamp": "2026-09-20T03:57:33.000Z",
+    "lat": 45.6273,
+    "lon": -122.5294,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N6242F",
+    "callsign": "N4466R",
     "aircraftType": "C172",
-    "origin": "SLE",
+    "origin": "QSA",
     "destination": null,
-    "firstSeen": "2026-07-22T04:02:21.267Z"
+    "firstSeen": "2026-03-01T01:16:04.720Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6164,
-      -122.5383
+      45.6266,
+      -122.5431
+    ],
+    [
+      45.6271,
+      -122.5362
+    ],
+    [
+      45.6273,
+      -122.5294
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-20T01:48:26.026Z"
+  "status": "tracking",
+  "timestamp": "2026-09-20T03:57:33.000Z"
 }
