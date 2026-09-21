@@ -29701,5 +29701,24 @@
     "initialDistance": 0.6227478338728749,
     "initialAltitude": 8000,
     "initialSpeed": 136
+  },
+  {
+    "callsign": "AMF8049",
+    "flightNumber": "A88049",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "AST",
+    "icao": "A16BF6",
+    "registration": "N191AV",
+    "firstSeen": "2026-09-21T19:02:23.278Z",
+    "lastSeen": "2026-09-21T19:02:23.278Z",
+    "duration": 0,
+    "closestDistance": 0.6162930371870772,
+    "closestAltitude": 2700,
+    "closestSpeed": 173,
+    "initialDistance": 0.6162930371870772,
+    "initialAltitude": 2700,
+    "initialSpeed": 173
   }
 ]
