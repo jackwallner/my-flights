@@ -29682,5 +29682,24 @@
     "initialDistance": 0.43327637442553946,
     "initialAltitude": 2600,
     "initialSpeed": 151
+  },
+  {
+    "callsign": "RFS801",
+    "flightNumber": "RFS801",
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "QSN",
+    "destination": "PAE",
+    "icao": "A24E94",
+    "registration": "N248JW",
+    "firstSeen": "2026-09-21T01:41:11.790Z",
+    "lastSeen": "2026-09-21T01:41:11.790Z",
+    "duration": 0,
+    "closestDistance": 0.6227478338728749,
+    "closestAltitude": 8000,
+    "closestSpeed": 136,
+    "initialDistance": 0.6227478338728749,
+    "initialAltitude": 8000,
+    "initialSpeed": 136
   }
 ]
