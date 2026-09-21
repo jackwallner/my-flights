@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 8000,
-    "speed": 136,
-    "timestamp": "2026-09-21T01:41:11.797Z",
-    "lat": 45.6294,
-    "lon": -122.5145,
-    "precision": "tracked"
+    "distance": 0.54,
+    "altitude": 2125,
+    "speed": 139,
+    "timestamp": "2026-09-21T02:11:36.959Z",
+    "lat": 45.6171,
+    "lon": -122.5229,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "RFS801",
-    "aircraftType": "C182",
-    "origin": "QSN",
-    "destination": "PAE",
-    "firstSeen": "2026-09-21T01:41:11.790Z"
+    "callsign": "B407",
+    "aircraftType": "B407",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-04-07T03:22:47.616Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6294,
-      -122.5145
+      45.6192,
+      -122.5156
+    ],
+    [
+      45.6171,
+      -122.5229
+    ],
+    [
+      45.6147,
+      -122.5317
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-21T01:41:42.565Z"
+  "timestamp": "2026-09-21T02:11:57.506Z"
 }
