@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 1100,
-    "speed": 120,
-    "timestamp": "2026-09-22T20:10:27.042Z",
-    "lat": 45.629,
-    "lon": -122.5402,
-    "precision": "tracked"
+    "distance": 0.18,
+    "altitude": 1200,
+    "speed": 118,
+    "timestamp": "2026-09-22T20:10:47.716Z",
+    "lat": 45.6279,
+    "lon": -122.5259,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N18075",
@@ -15,15 +15,27 @@
     "destination": null,
     "firstSeen": "2026-04-08T22:26:24.975Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.629,
       -122.5402
+    ],
+    [
+      45.6284,
+      -122.5339
+    ],
+    [
+      45.6279,
+      -122.5259
+    ],
+    [
+      45.6275,
+      -122.519
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-22T20:10:27.042Z"
+  "status": "completed",
+  "timestamp": "2026-09-22T20:11:08.244Z"
 }
