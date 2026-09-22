@@ -29739,5 +29739,24 @@
     "initialDistance": 0.4614651195001471,
     "initialAltitude": 1125,
     "initialSpeed": 96
+  },
+  {
+    "callsign": "N2771W",
+    "flightNumber": null,
+    "aircraftType": "M20P",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A2C30D",
+    "registration": "N2771W",
+    "firstSeen": "2026-09-22T19:53:39.817Z",
+    "lastSeen": "2026-09-22T19:53:50.090Z",
+    "duration": 10,
+    "closestDistance": 0.512807868795608,
+    "closestAltitude": 5800,
+    "closestSpeed": 137,
+    "initialDistance": 0.512807868795608,
+    "initialAltitude": 5800,
+    "initialSpeed": 137
   }
 ]
