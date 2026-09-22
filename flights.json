@@ -29720,5 +29720,24 @@
     "initialDistance": 0.6162930371870772,
     "initialAltitude": 2700,
     "initialSpeed": 173
+  },
+  {
+    "callsign": "N231GR",
+    "flightNumber": null,
+    "aircraftType": "M20T",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A20CDD",
+    "registration": "N231GR",
+    "firstSeen": "2026-09-22T15:30:33.536Z",
+    "lastSeen": "2026-09-22T15:31:14.650Z",
+    "duration": 41,
+    "closestDistance": 0.12654147419422163,
+    "closestAltitude": 1150,
+    "closestSpeed": 95,
+    "initialDistance": 0.4614651195001471,
+    "initialAltitude": 1125,
+    "initialSpeed": 96
   }
 ]

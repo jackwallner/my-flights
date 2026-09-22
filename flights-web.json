@@ -1,33 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 3925,
-    "speed": 219,
-    "timestamp": "2026-09-22T03:52:31.715Z",
-    "lat": 45.6265,
-    "lon": -122.5249,
-    "precision": "tracked"
+    "distance": 0.13,
+    "altitude": 1150,
+    "speed": 95,
+    "timestamp": "2026-09-22T15:30:54.107Z",
+    "lat": 45.6268,
+    "lon": -122.5302,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
+    "callsign": "N231GR",
+    "aircraftType": "M20T",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "firstSeen": "2026-09-22T15:30:33.536Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6265,
-      -122.5249
+      45.627,
+      -122.5174
     ],
     [
-      45.6159,
-      -122.5288
+      45.6269,
+      -122.5241
+    ],
+    [
+      45.6268,
+      -122.5302
+    ],
+    [
+      45.6257,
+      -122.5368
+    ],
+    [
+      45.6239,
+      -122.5423
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-22T03:53:02.513Z"
+  "timestamp": "2026-09-22T15:31:24.910Z"
 }
