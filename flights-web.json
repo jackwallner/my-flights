@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 1250,
-    "speed": 82,
-    "timestamp": "2026-09-22T00:43:22.266Z",
-    "lat": 45.6353,
-    "lon": -122.5202,
-    "precision": "tracked"
+    "distance": 0.54,
+    "altitude": 3875,
+    "speed": 114,
+    "timestamp": "2026-09-22T03:18:18.383Z",
+    "lat": 45.6176,
+    "lon": -122.5213,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N922DD",
-    "aircraftType": "R22",
-    "origin": "KLS",
+    "callsign": "B407",
+    "aircraftType": "B407",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-21T15:31:18.144Z"
+    "firstSeen": "2026-04-07T03:22:47.616Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6353,
-      -122.5202
+      45.6157,
+      -122.5269
+    ],
+    [
+      45.6176,
+      -122.5213
+    ],
+    [
+      45.6199,
+      -122.5139
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-22T00:43:53.111Z"
+  "status": "tracking",
+  "timestamp": "2026-09-22T03:18:28.694Z"
 }
