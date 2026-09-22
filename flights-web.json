@@ -1,69 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 200,
-    "speed": 59,
-    "timestamp": "2026-09-22T18:06:17.754Z",
-    "lat": 45.6245,
-    "lon": -122.5313,
+    "distance": 0.2,
+    "altitude": 1600,
+    "speed": 96,
+    "timestamp": "2026-09-22T19:14:12.215Z",
+    "lat": 45.6221,
+    "lon": -122.5271,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N519F",
+    "callsign": "N8741V",
     "aircraftType": "CH7B",
-    "origin": "PDX",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "firstSeen": "2026-03-01T00:03:19.190Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 11,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6356,
-      -122.5244
+      45.6201,
+      -122.5404
     ],
     [
-      45.6347,
-      -122.5318
+      45.6215,
+      -122.5335
     ],
     [
-      45.6323,
-      -122.5363
-    ],
-    [
-      45.6308,
-      -122.5374
-    ],
-    [
-      45.6275,
-      -122.5383
-    ],
-    [
-      45.6229,
-      -122.539
-    ],
-    [
-      45.62,
-      -122.5381
-    ],
-    [
-      45.6193,
-      -122.5341
-    ],
-    [
-      45.6217,
-      -122.5318
-    ],
-    [
-      45.6245,
-      -122.5313
-    ],
-    [
-      45.6272,
-      -122.5309
+      45.6221,
+      -122.5271
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-22T18:06:38.454Z"
+  "status": "tracking",
+  "timestamp": "2026-09-22T19:14:12.215Z"
 }
