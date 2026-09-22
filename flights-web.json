@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 5800,
-    "speed": 137,
-    "timestamp": "2026-09-22T19:53:39.825Z",
-    "lat": 45.6254,
-    "lon": -122.5159,
+    "distance": 0.55,
+    "altitude": 1100,
+    "speed": 120,
+    "timestamp": "2026-09-22T20:10:27.042Z",
+    "lat": 45.629,
+    "lon": -122.5402,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N2771W",
-    "aircraftType": "M20P",
-    "origin": null,
+    "callsign": "N18075",
+    "aircraftType": "C180",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-09-22T19:53:39.817Z"
+    "firstSeen": "2026-04-08T22:26:24.975Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6254,
-      -122.5159
-    ],
-    [
-      45.6307,
-      -122.5186
+      45.629,
+      -122.5402
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-22T19:54:10.631Z"
+  "status": "tracking",
+  "timestamp": "2026-09-22T20:10:27.042Z"
 }
