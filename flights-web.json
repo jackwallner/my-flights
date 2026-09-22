@@ -1,45 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 1150,
-    "speed": 95,
-    "timestamp": "2026-09-22T15:30:54.107Z",
-    "lat": 45.6268,
-    "lon": -122.5302,
+    "distance": 0.21,
+    "altitude": 500,
+    "speed": 68,
+    "timestamp": "2026-09-22T17:52:56.385Z",
+    "lat": 45.6222,
+    "lon": -122.5307,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N231GR",
-    "aircraftType": "M20T",
-    "origin": null,
+    "callsign": "N519F",
+    "aircraftType": "CH7B",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-09-22T15:30:33.536Z"
+    "firstSeen": "2026-02-06T20:53:13.130Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.21,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.627,
-      -122.5174
+      45.6222,
+      -122.5307
     ],
     [
-      45.6269,
-      -122.5241
+      45.6208,
+      -122.5296
     ],
     [
-      45.6268,
-      -122.5302
+      45.6186,
+      -122.5239
     ],
     [
-      45.6257,
-      -122.5368
+      45.6189,
+      -122.5202
     ],
     [
-      45.6239,
-      -122.5423
+      45.6221,
+      -122.5155
+    ],
+    [
+      45.6237,
+      -122.5146
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-22T15:31:24.910Z"
+  "timestamp": "2026-09-22T17:53:58.031Z"
 }
