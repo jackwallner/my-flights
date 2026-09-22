@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 2700,
-    "speed": 173,
-    "timestamp": "2026-09-21T19:02:23.286Z",
-    "lat": 45.631,
-    "lon": -122.5403,
+    "distance": 0.69,
+    "altitude": 1250,
+    "speed": 82,
+    "timestamp": "2026-09-22T00:43:22.266Z",
+    "lat": 45.6353,
+    "lon": -122.5202,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "AMF8049",
-    "aircraftType": "BE99",
-    "origin": "PDX",
-    "destination": "AST",
-    "firstSeen": "2026-09-21T19:02:23.278Z"
+    "callsign": "N922DD",
+    "aircraftType": "R22",
+    "origin": "KLS",
+    "destination": null,
+    "firstSeen": "2026-03-21T15:31:18.144Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.69,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.631,
-      -122.5403
+      45.6353,
+      -122.5202
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-21T19:02:54.050Z"
+  "timestamp": "2026-09-22T00:43:53.111Z"
 }
