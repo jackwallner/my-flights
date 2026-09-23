@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 1875,
-    "speed": 130,
-    "timestamp": "2026-09-23T22:43:59.946Z",
-    "lat": 45.6153,
-    "lon": -122.5271,
-    "precision": "tracked"
+    "distance": 0.32,
+    "altitude": 2500,
+    "speed": 117,
+    "timestamp": "2026-09-23T23:52:43.614Z",
+    "lat": 45.6221,
+    "lon": -122.5221,
+    "precision": "high"
   },
   "flight": {
     "callsign": "B407",
@@ -15,19 +15,27 @@
     "destination": null,
     "firstSeen": "2026-04-07T03:22:47.616Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6164,
-      -122.5201
+      45.6156,
+      -122.5339
     ],
     [
-      45.6153,
-      -122.5271
+      45.6187,
+      -122.5284
+    ],
+    [
+      45.6221,
+      -122.5221
+    ],
+    [
+      45.6257,
+      -122.5156
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-23T22:44:20.451Z"
+  "timestamp": "2026-09-23T23:53:04.143Z"
 }
