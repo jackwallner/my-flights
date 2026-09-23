@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 1100,
-    "speed": 122,
-    "timestamp": "2026-09-23T18:16:20.178Z",
-    "lat": 45.6297,
-    "lon": -122.5258,
-    "precision": "high"
+    "distance": 0.6,
+    "altitude": 1875,
+    "speed": 130,
+    "timestamp": "2026-09-23T22:43:59.946Z",
+    "lat": 45.6153,
+    "lon": -122.5271,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N91643",
-    "aircraftType": "NAVI",
+    "callsign": "B407",
+    "aircraftType": "B407",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-09-23T18:16:09.908Z"
+    "firstSeen": "2026-04-07T03:22:47.616Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.6,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6293,
-      -122.5164
+      45.6164,
+      -122.5201
     ],
     [
-      45.6297,
-      -122.5258
-    ],
-    [
-      45.63,
-      -122.532
-    ],
-    [
-      45.6302,
-      -122.5387
+      45.6153,
+      -122.5271
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-23T18:16:50.985Z"
+  "timestamp": "2026-09-23T22:44:20.451Z"
 }
