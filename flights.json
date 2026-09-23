@@ -29758,5 +29758,24 @@
     "initialDistance": 0.512807868795608,
     "initialAltitude": 5800,
     "initialSpeed": 137
+  },
+  {
+    "callsign": "N91643",
+    "flightNumber": null,
+    "aircraftType": "NAVI",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "ACAFF5",
+    "registration": "N91643",
+    "firstSeen": "2026-09-23T18:16:09.908Z",
+    "lastSeen": "2026-09-23T18:16:40.713Z",
+    "duration": 31,
+    "closestDistance": 0.28254751000759576,
+    "closestAltitude": 1100,
+    "closestSpeed": 122,
+    "initialDistance": 0.5477750326449066,
+    "initialAltitude": 1100,
+    "initialSpeed": 121
   }
 ]
