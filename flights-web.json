@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 5875,
-    "speed": 235,
-    "timestamp": "2026-09-24T03:52:18.441Z",
-    "lat": 45.625,
-    "lon": -122.5173,
-    "precision": "tracked"
+    "distance": 0.08,
+    "altitude": 700,
+    "speed": 142,
+    "timestamp": "2026-09-24T16:06:57.241Z",
+    "lat": 45.6261,
+    "lon": -122.5266,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SWA3726",
-    "aircraftType": "737 ",
-    "origin": "SMF",
-    "destination": "PDX",
-    "firstSeen": "2026-09-24T03:52:08.192Z"
+    "callsign": "RV7",
+    "aircraftType": "RV7",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-07-11T20:29:40.327Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.08,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6147,
-      -122.5274
+      45.6258,
+      -122.5364
     ],
     [
-      45.625,
-      -122.5173
+      45.6261,
+      -122.5266
+    ],
+    [
+      45.6268,
+      -122.5171
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-24T03:52:38.978Z"
+  "status": "tracking",
+  "timestamp": "2026-09-24T16:07:07.511Z"
 }
