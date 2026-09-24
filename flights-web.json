@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.08,
-    "altitude": 700,
-    "speed": 142,
-    "timestamp": "2026-09-24T16:06:57.241Z",
-    "lat": 45.6261,
-    "lon": -122.5266,
-    "precision": "high"
+    "distance": 0.65,
+    "altitude": 4500,
+    "speed": 132,
+    "timestamp": "2026-09-24T19:29:10.870Z",
+    "lat": 45.6196,
+    "lon": -122.5412,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "RV7",
-    "aircraftType": "RV7",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-07-11T20:29:40.327Z"
+    "callsign": "N5549A",
+    "aircraftType": "T210",
+    "origin": "QSA",
+    "destination": "SLE",
+    "firstSeen": "2026-06-12T17:30:54.941Z"
   },
-  "overheadScore": 0.08,
+  "overheadScore": 0.65,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6258,
-      -122.5364
-    ],
-    [
-      45.6261,
-      -122.5266
-    ],
-    [
-      45.6268,
-      -122.5171
+      45.6196,
+      -122.5412
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-24T16:07:17.821Z"
+  "status": "tracking",
+  "timestamp": "2026-09-24T19:29:10.870Z"
 }
