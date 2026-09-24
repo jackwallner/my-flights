@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 4500,
-    "speed": 132,
-    "timestamp": "2026-09-24T19:29:10.870Z",
-    "lat": 45.6196,
-    "lon": -122.5412,
-    "precision": "tracked"
+    "distance": 0.23,
+    "altitude": 3650,
+    "speed": 95,
+    "timestamp": "2026-09-24T19:41:30.741Z",
+    "lat": 45.6259,
+    "lon": -122.5336,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N5549A",
-    "aircraftType": "T210",
-    "origin": "QSA",
-    "destination": "SLE",
-    "firstSeen": "2026-06-12T17:30:54.941Z"
+    "callsign": "N834KX",
+    "aircraftType": "C172",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-06-24T20:22:49.072Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6196,
-      -122.5412
+      45.6341,
+      -122.5311
+    ],
+    [
+      45.6296,
+      -122.5324
+    ],
+    [
+      45.6259,
+      -122.5336
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-24T19:29:41.618Z"
+  "status": "tracking",
+  "timestamp": "2026-09-24T19:41:30.741Z"
 }
