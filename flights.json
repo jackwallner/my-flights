@@ -29777,5 +29777,24 @@
     "initialDistance": 0.5477750326449066,
     "initialAltitude": 1100,
     "initialSpeed": 121
+  },
+  {
+    "callsign": "SWA3726",
+    "flightNumber": "WN3726",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "SMF",
+    "destination": "PDX",
+    "icao": "AC7686",
+    "registration": "N9019R",
+    "firstSeen": "2026-09-24T03:52:08.192Z",
+    "lastSeen": "2026-09-24T03:52:18.434Z",
+    "duration": 10,
+    "closestDistance": 0.45428657763400704,
+    "closestAltitude": 5875,
+    "closestSpeed": 235,
+    "initialDistance": 0.6359565940267815,
+    "initialAltitude": 5875,
+    "initialSpeed": 236
   }
 ]
