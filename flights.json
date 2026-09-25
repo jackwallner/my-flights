@@ -29815,5 +29815,24 @@
     "initialDistance": 0.6071322578237505,
     "initialAltitude": 3850,
     "initialSpeed": 90
+  },
+  {
+    "callsign": "TDY1989",
+    "flightNumber": "TDY1989",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A9AFA0",
+    "registration": "N723KP",
+    "firstSeen": "2026-09-25T14:26:50.933Z",
+    "lastSeen": "2026-09-25T14:27:01.217Z",
+    "duration": 10,
+    "closestDistance": 0.3659558101024,
+    "closestAltitude": 2800,
+    "closestSpeed": 177,
+    "initialDistance": 0.3659558101024,
+    "initialAltitude": 2800,
+    "initialSpeed": 177
   }
 ]
