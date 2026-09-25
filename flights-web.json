@@ -6,7 +6,7 @@
     "timestamp": "2026-09-25T04:54:39.912Z",
     "lat": 45.627,
     "lon": -122.5206,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "TDY007",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.33,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6171,
@@ -26,8 +26,12 @@
     [
       45.627,
       -122.5206
+    ],
+    [
+      45.6355,
+      -122.5223
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-25T04:54:39.912Z"
+  "status": "completed",
+  "timestamp": "2026-09-25T04:55:00.458Z"
 }
