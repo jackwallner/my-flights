@@ -29796,5 +29796,24 @@
     "initialDistance": 0.6359565940267815,
     "initialAltitude": 5875,
     "initialSpeed": 236
+  },
+  {
+    "callsign": "N95539",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": "DLS",
+    "destination": null,
+    "icao": "AD4A1D",
+    "registration": "N95539",
+    "firstSeen": "2026-09-25T00:59:06.390Z",
+    "lastSeen": "2026-09-25T00:59:26.934Z",
+    "duration": 21,
+    "closestDistance": 0.601800382118007,
+    "closestAltitude": 3750,
+    "closestSpeed": 88,
+    "initialDistance": 0.6071322578237505,
+    "initialAltitude": 3850,
+    "initialSpeed": 90
   }
 ]
