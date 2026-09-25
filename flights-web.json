@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 2800,
-    "speed": 177,
-    "timestamp": "2026-09-25T14:26:50.940Z",
-    "lat": 45.6248,
-    "lon": -122.5368,
-    "precision": "tracked"
+    "distance": 0.21,
+    "altitude": 2400,
+    "speed": 172,
+    "timestamp": "2026-09-25T16:50:30.581Z",
+    "lat": 45.6241,
+    "lon": -122.5329,
+    "precision": "high"
   },
   "flight": {
     "callsign": "TDY1989",
@@ -15,19 +15,23 @@
     "destination": "BFI",
     "firstSeen": "2026-09-25T14:26:50.933Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.21,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6248,
-      -122.5368
+      45.6164,
+      -122.5377
     ],
     [
-      45.6327,
-      -122.5328
+      45.6241,
+      -122.5329
+    ],
+    [
+      45.6309,
+      -122.5286
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-25T14:27:21.734Z"
+  "timestamp": "2026-09-25T16:50:51.179Z"
 }
