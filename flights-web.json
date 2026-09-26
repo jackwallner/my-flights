@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 1150,
-    "speed": 107,
-    "timestamp": "2026-09-26T18:24:57.877Z",
-    "lat": 45.6324,
-    "lon": -122.5233,
-    "precision": "high"
+    "distance": 0.26,
+    "altitude": 5675,
+    "speed": 262,
+    "timestamp": "2026-09-26T19:21:33.631Z",
+    "lat": 45.6216,
+    "lon": -122.525,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N2181N",
-    "aircraftType": "C182",
-    "origin": "TTD",
+    "callsign": "LJ45",
+    "aircraftType": "LJ45",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-18T16:46:15.311Z"
+    "firstSeen": "2026-05-13T07:07:44.875Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6294,
-      -122.5168
-    ],
-    [
-      45.6324,
-      -122.5233
-    ],
-    [
-      45.6345,
-      -122.529
+      45.6216,
+      -122.525
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-26T18:25:18.399Z"
+  "timestamp": "2026-09-26T19:22:04.384Z"
 }
