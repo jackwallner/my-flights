@@ -29834,5 +29834,24 @@
     "initialDistance": 0.3659558101024,
     "initialAltitude": 2800,
     "initialSpeed": 177
+  },
+  {
+    "callsign": "N6101B",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A7F13B",
+    "registration": "N6101B",
+    "firstSeen": "2026-09-27T02:11:10.487Z",
+    "lastSeen": "2026-09-27T02:11:10.487Z",
+    "duration": 0,
+    "closestDistance": 0.5464055308762727,
+    "closestAltitude": 1550,
+    "closestSpeed": 93,
+    "initialDistance": 0.5464055308762727,
+    "initialAltitude": 1550,
+    "initialSpeed": 93
   }
 ]
