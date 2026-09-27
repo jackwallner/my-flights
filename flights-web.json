@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.53,
+    "distance": 0.44,
     "altitude": 1400,
-    "speed": 74,
-    "timestamp": "2026-09-27T05:21:27.244Z",
-    "lat": 45.6175,
-    "lon": -122.5343,
-    "precision": "tracked"
+    "speed": 80,
+    "timestamp": "2026-09-27T05:21:37.501Z",
+    "lat": 45.6179,
+    "lon": -122.5283,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N7668U",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-06-15T20:44:25.390Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.44,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6177,
@@ -26,8 +26,20 @@
     [
       45.6175,
       -122.5343
+    ],
+    [
+      45.6179,
+      -122.5283
+    ],
+    [
+      45.6182,
+      -122.523
+    ],
+    [
+      45.6185,
+      -122.5182
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-27T05:21:27.244Z"
+  "status": "completed",
+  "timestamp": "2026-09-27T05:22:08.265Z"
 }
