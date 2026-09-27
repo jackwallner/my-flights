@@ -29853,5 +29853,24 @@
     "initialDistance": 0.5464055308762727,
     "initialAltitude": 1550,
     "initialSpeed": 93
+  },
+  {
+    "callsign": "N93124",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": "DLS",
+    "destination": null,
+    "icao": "ACEC1B",
+    "registration": "N93124",
+    "firstSeen": "2026-09-27T02:26:19.613Z",
+    "lastSeen": "2026-09-27T02:26:40.109Z",
+    "duration": 20,
+    "closestDistance": 0.37263797445472224,
+    "closestAltitude": 2000,
+    "closestSpeed": 99,
+    "initialDistance": 0.47776520713015996,
+    "initialAltitude": 2200,
+    "initialSpeed": 103
   }
 ]

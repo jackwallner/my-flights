@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 1550,
-    "speed": 94,
-    "timestamp": "2026-09-27T02:11:31.042Z",
-    "lat": 45.6228,
-    "lon": -122.5269,
+    "distance": 0.37,
+    "altitude": 2000,
+    "speed": 99,
+    "timestamp": "2026-09-27T02:26:29.865Z",
+    "lat": 45.6191,
+    "lon": -122.5273,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N6101B",
-    "aircraftType": "C182",
-    "origin": "TTD",
+    "callsign": "N93124",
+    "aircraftType": "C152",
+    "origin": "DLS",
     "destination": null,
-    "firstSeen": "2026-09-27T02:11:10.487Z"
+    "firstSeen": "2026-09-27T02:26:19.613Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6198,
-      -122.5385
+      45.62,
+      -122.5196
     ],
     [
-      45.6213,
-      -122.5331
+      45.6191,
+      -122.5273
     ],
     [
-      45.6228,
-      -122.5269
-    ],
-    [
-      45.6232,
-      -122.5201
-    ],
-    [
-      45.622,
-      -122.5143
+      45.6182,
+      -122.5341
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-27T02:12:02.020Z"
+  "timestamp": "2026-09-27T02:26:50.384Z"
 }
