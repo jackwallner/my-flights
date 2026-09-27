@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 2500,
-    "speed": 105,
-    "timestamp": "2026-09-27T02:48:39.797Z",
-    "lat": 45.6366,
-    "lon": -122.5265,
-    "precision": "tracked"
+    "distance": 0.56,
+    "altitude": 2400,
+    "speed": 83,
+    "timestamp": "2026-09-27T03:05:36.870Z",
+    "lat": 45.617,
+    "lon": -122.5219,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N3240V",
+    "callsign": "N7668U",
     "aircraftType": "C150",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-09-27T02:48:39.791Z"
+    "firstSeen": "2026-06-15T20:44:25.390Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.56,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6366,
-      -122.5265
+      45.6191,
+      -122.5177
+    ],
+    [
+      45.617,
+      -122.5219
+    ],
+    [
+      45.6145,
+      -122.5266
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-27T02:49:10.571Z"
+  "timestamp": "2026-09-27T03:05:57.410Z"
 }
