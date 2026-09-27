@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 7425,
-    "speed": 163,
-    "timestamp": "2026-09-27T18:24:56.058Z",
-    "lat": 45.6293,
-    "lon": -122.5234,
+    "distance": 0.67,
+    "altitude": 2200,
+    "speed": 116,
+    "timestamp": "2026-09-27T18:40:36.019Z",
+    "lat": 45.6336,
+    "lon": -122.5175,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "S22T",
-    "aircraftType": "S22T",
-    "origin": null,
+    "callsign": "N5201H",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-16T17:23:58.083Z"
+    "firstSeen": "2026-02-06T19:39:39.423Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6293,
-      -122.5234
-    ],
-    [
-      45.6216,
-      -122.5189
+      45.6336,
+      -122.5175
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-27T18:25:26.896Z"
+  "status": "tracking",
+  "timestamp": "2026-09-27T18:40:36.019Z"
 }
