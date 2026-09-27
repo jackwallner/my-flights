@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.55,
+    "distance": 0.16,
     "altitude": 1550,
-    "speed": 93,
-    "timestamp": "2026-09-27T02:11:10.495Z",
-    "lat": 45.6198,
-    "lon": -122.5385,
-    "precision": "tracked"
+    "speed": 94,
+    "timestamp": "2026-09-27T02:11:31.042Z",
+    "lat": 45.6228,
+    "lon": -122.5269,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N6101B",
@@ -15,15 +15,31 @@
     "destination": null,
     "firstSeen": "2026-09-27T02:11:10.487Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6198,
       -122.5385
+    ],
+    [
+      45.6213,
+      -122.5331
+    ],
+    [
+      45.6228,
+      -122.5269
+    ],
+    [
+      45.6232,
+      -122.5201
+    ],
+    [
+      45.622,
+      -122.5143
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-27T02:11:10.495Z"
+  "status": "completed",
+  "timestamp": "2026-09-27T02:12:02.020Z"
 }
