@@ -29872,5 +29872,24 @@
     "initialDistance": 0.47776520713015996,
     "initialAltitude": 2200,
     "initialSpeed": 103
+  },
+  {
+    "callsign": "N3240V",
+    "flightNumber": null,
+    "aircraftType": "C150",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A37F98",
+    "registration": "N3240V",
+    "firstSeen": "2026-09-27T02:48:39.791Z",
+    "lastSeen": "2026-09-27T02:48:39.791Z",
+    "duration": 0,
+    "closestDistance": 0.6829922881583594,
+    "closestAltitude": 2500,
+    "closestSpeed": 105,
+    "initialDistance": 0.6829922881583594,
+    "initialAltitude": 2500,
+    "initialSpeed": 105
   }
 ]
