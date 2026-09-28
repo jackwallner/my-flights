@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.7,
-    "altitude": 1625,
-    "speed": 87,
-    "timestamp": "2026-09-28T03:03:48.044Z",
-    "lat": 45.6142,
-    "lon": -122.5331,
-    "precision": "tracked"
+    "distance": 0.55,
+    "altitude": 1575,
+    "speed": 85,
+    "timestamp": "2026-09-28T03:04:08.651Z",
+    "lat": 45.6169,
+    "lon": -122.5229,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N13096",
@@ -15,15 +15,27 @@
     "destination": null,
     "firstSeen": "2026-05-08T16:59:31.185Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6142,
       -122.5331
+    ],
+    [
+      45.6157,
+      -122.5276
+    ],
+    [
+      45.6169,
+      -122.5229
+    ],
+    [
+      45.6181,
+      -122.516
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-28T03:03:48.044Z"
+  "status": "completed",
+  "timestamp": "2026-09-28T03:04:29.206Z"
 }
