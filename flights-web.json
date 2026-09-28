@@ -6,7 +6,7 @@
     "timestamp": "2026-09-28T18:35:27.363Z",
     "lat": 45.6293,
     "lon": -122.5259,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N8116Z",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6343,
@@ -26,8 +26,16 @@
     [
       45.6293,
       -122.5259
+    ],
+    [
+      45.6251,
+      -122.5214
+    ],
+    [
+      45.6195,
+      -122.5152
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-28T18:35:27.363Z"
+  "status": "completed",
+  "timestamp": "2026-09-28T18:35:58.137Z"
 }
