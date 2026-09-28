@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 1575,
-    "speed": 85,
-    "timestamp": "2026-09-28T03:04:08.651Z",
-    "lat": 45.6169,
-    "lon": -122.5229,
+    "distance": 0.11,
+    "altitude": 4225,
+    "speed": 123,
+    "timestamp": "2026-09-28T05:22:44.674Z",
+    "lat": 45.627,
+    "lon": -122.5286,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N13096",
+    "callsign": "N910TW",
     "aircraftType": "C172",
-    "origin": null,
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-05-08T16:59:31.185Z"
+    "firstSeen": "2026-06-23T23:26:59.804Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.11,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6142,
-      -122.5331
+      45.6164,
+      -122.5265
     ],
     [
-      45.6157,
-      -122.5276
+      45.6212,
+      -122.5271
     ],
     [
-      45.6169,
-      -122.5229
+      45.627,
+      -122.5286
     ],
     [
-      45.6181,
-      -122.516
+      45.633,
+      -122.5317
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-28T03:04:29.206Z"
+  "timestamp": "2026-09-28T05:23:05.186Z"
 }
