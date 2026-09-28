@@ -29910,5 +29910,24 @@
     "initialDistance": 0.5652545274679224,
     "initialAltitude": 1325,
     "initialSpeed": 160
+  },
+  {
+    "callsign": "N8116Z",
+    "flightNumber": null,
+    "aircraftType": "C205",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "AB1055",
+    "registration": "N8116Z",
+    "firstSeen": "2026-09-28T18:35:17.090Z",
+    "lastSeen": "2026-09-28T18:35:27.357Z",
+    "duration": 10,
+    "closestDistance": 0.2585864667190009,
+    "closestAltitude": 7500,
+    "closestSpeed": 124,
+    "initialDistance": 0.5588612565653002,
+    "initialAltitude": 7400,
+    "initialSpeed": 122
   }
 ]
