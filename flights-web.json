@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.26,
-    "altitude": 7500,
-    "speed": 124,
-    "timestamp": "2026-09-28T18:35:27.363Z",
-    "lat": 45.6293,
-    "lon": -122.5259,
+    "distance": 0.32,
+    "altitude": 1200,
+    "speed": 142,
+    "timestamp": "2026-09-28T21:32:44.584Z",
+    "lat": 45.6203,
+    "lon": -122.5307,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N8116Z",
-    "aircraftType": "C205",
+    "callsign": "N3478X",
+    "aircraftType": "M20P",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-09-28T18:35:17.090Z"
+    "firstSeen": "2026-08-27T02:52:39.872Z"
   },
-  "overheadScore": 0.26,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6343,
-      -122.5314
+      45.6198,
+      -122.5387
     ],
     [
-      45.6293,
-      -122.5259
+      45.6203,
+      -122.5307
     ],
     [
-      45.6251,
-      -122.5214
-    ],
-    [
-      45.6195,
-      -122.5152
+      45.6205,
+      -122.5201
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-28T18:35:58.137Z"
+  "timestamp": "2026-09-28T21:33:05.159Z"
 }
