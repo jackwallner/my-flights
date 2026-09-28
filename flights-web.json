@@ -1,33 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 1300,
-    "speed": 157,
-    "timestamp": "2026-09-27T23:08:30.116Z",
-    "lat": 45.6208,
-    "lon": -122.5376,
-    "precision": "tracked"
+    "distance": 0.12,
+    "altitude": 2200,
+    "speed": 104,
+    "timestamp": "2026-09-28T00:55:20.387Z",
+    "lat": 45.6235,
+    "lon": -122.527,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N930DG",
-    "aircraftType": "SR22",
-    "origin": null,
+    "callsign": "N4466R",
+    "aircraftType": "C172",
+    "origin": "QSA",
     "destination": null,
-    "firstSeen": "2026-09-27T23:08:19.859Z"
+    "firstSeen": "2026-03-01T01:16:04.720Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.628,
-      -122.541
+      45.6209,
+      -122.5409
     ],
     [
-      45.6208,
-      -122.5376
+      45.6219,
+      -122.5354
+    ],
+    [
+      45.6235,
+      -122.527
+    ],
+    [
+      45.6244,
+      -122.5212
+    ],
+    [
+      45.6251,
+      -122.5138
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-27T23:08:50.628Z"
+  "status": "tracking",
+  "timestamp": "2026-09-28T00:55:40.901Z"
 }
