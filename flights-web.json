@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.12,
-    "altitude": 2200,
-    "speed": 104,
-    "timestamp": "2026-09-28T00:55:20.387Z",
-    "lat": 45.6235,
-    "lon": -122.527,
-    "precision": "high"
+    "distance": 0.7,
+    "altitude": 1625,
+    "speed": 87,
+    "timestamp": "2026-09-28T03:03:48.044Z",
+    "lat": 45.6142,
+    "lon": -122.5331,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4466R",
+    "callsign": "N13096",
     "aircraftType": "C172",
-    "origin": "QSA",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-01T01:16:04.720Z"
+    "firstSeen": "2026-05-08T16:59:31.185Z"
   },
-  "overheadScore": 0.12,
+  "overheadScore": 0.7,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6209,
-      -122.5409
-    ],
-    [
-      45.6219,
-      -122.5354
-    ],
-    [
-      45.6235,
-      -122.527
-    ],
-    [
-      45.6244,
-      -122.5212
-    ],
-    [
-      45.6251,
-      -122.5138
+      45.6142,
+      -122.5331
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-28T00:55:51.145Z"
+  "status": "tracking",
+  "timestamp": "2026-09-28T03:03:48.044Z"
 }
