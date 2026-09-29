@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.25,
-    "altitude": 2050,
-    "speed": 106,
-    "timestamp": "2026-09-29T01:09:16.622Z",
-    "lat": 45.629,
-    "lon": -122.5257,
-    "precision": "high"
+    "distance": 0.5,
+    "altitude": 1400,
+    "speed": 105,
+    "timestamp": "2026-09-29T01:40:12.530Z",
+    "lat": 45.6225,
+    "lon": -122.5394,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N2414T",
-    "aircraftType": "BRAV",
-    "origin": null,
+    "callsign": "N9185H",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-28T01:34:36.194Z"
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6297,
-      -122.5167
-    ],
-    [
-      45.629,
-      -122.5257
-    ],
-    [
-      45.6284,
-      -122.5327
-    ],
-    [
-      45.6279,
-      -122.539
+      45.6225,
+      -122.5394
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-29T01:09:47.430Z"
+  "status": "tracking",
+  "timestamp": "2026-09-29T01:40:12.530Z"
 }
