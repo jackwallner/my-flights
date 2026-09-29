@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 2600,
-    "speed": 135,
-    "timestamp": "2026-09-29T14:54:21.306Z",
-    "lat": 45.6189,
-    "lon": -122.5272,
+    "distance": 0.28,
+    "altitude": 2475,
+    "speed": 165,
+    "timestamp": "2026-09-29T16:28:47.813Z",
+    "lat": 45.6233,
+    "lon": -122.5221,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N386ME",
-    "aircraftType": "C172",
-    "origin": "HIO",
-    "destination": "DLS",
-    "firstSeen": "2026-02-26T16:09:59.584Z"
+    "callsign": "TDY1776",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-09-03T13:40:35.851Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.28,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6168,
-      -122.5346
+      45.6159,
+      -122.5274
     ],
     [
-      45.6189,
-      -122.5272
+      45.6233,
+      -122.5221
     ],
     [
-      45.6201,
-      -122.5173
+      45.6291,
+      -122.5175
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-29T14:54:41.849Z"
+  "timestamp": "2026-09-29T16:29:08.388Z"
 }
