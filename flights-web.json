@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 8900,
-    "speed": 188,
-    "timestamp": "2026-09-29T18:36:57.197Z",
-    "lat": 45.6243,
-    "lon": -122.5205,
-    "precision": "high"
+    "distance": 0.69,
+    "altitude": 1775,
+    "speed": 114,
+    "timestamp": "2026-09-29T19:10:20.744Z",
+    "lat": 45.6138,
+    "lon": -122.5274,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N123XA",
-    "aircraftType": "S22T",
-    "origin": "BLI",
-    "destination": "EKO",
-    "firstSeen": "2026-09-29T18:36:46.903Z"
+    "callsign": "N725FA",
+    "aircraftType": "RV12",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-06-11T20:05:42.436Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6313,
-      -122.5246
-    ],
-    [
-      45.6243,
-      -122.5205
-    ],
-    [
-      45.6171,
-      -122.5164
+      45.6138,
+      -122.5274
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-29T18:37:17.711Z"
+  "status": "tracking",
+  "timestamp": "2026-09-29T19:10:20.744Z"
 }
