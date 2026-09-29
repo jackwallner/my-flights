@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 3825,
-    "speed": 181,
-    "timestamp": "2026-09-29T20:54:40.015Z",
-    "lat": 45.6269,
-    "lon": -122.537,
-    "precision": "tracked"
+    "distance": 0.28,
+    "altitude": 2500,
+    "speed": 158,
+    "timestamp": "2026-09-29T20:57:04.265Z",
+    "lat": 45.6234,
+    "lon": -122.522,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "LJ35",
-    "aircraftType": "LJ35",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-04-13T16:18:39.158Z"
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6356,
-      -122.5292
+      45.6172,
+      -122.526
     ],
     [
-      45.6269,
-      -122.537
+      45.6234,
+      -122.522
+    ],
+    [
+      45.632,
+      -122.5164
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-29T20:55:00.580Z"
+  "timestamp": "2026-09-29T20:57:24.840Z"
 }
