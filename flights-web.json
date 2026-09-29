@@ -1,41 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 5500,
-    "speed": 112,
-    "timestamp": "2026-09-29T03:11:53.974Z",
-    "lat": 45.6235,
-    "lon": -122.5235,
+    "distance": 0.01,
+    "altitude": 3375,
+    "speed": 88,
+    "timestamp": "2026-09-29T04:45:14.610Z",
+    "lat": 45.6252,
+    "lon": -122.5284,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N734KU",
+    "callsign": "N833KX",
     "aircraftType": "C172",
-    "origin": null,
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-09-15T20:37:02.166Z"
+    "firstSeen": "2026-09-29T04:44:54.053Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.01,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6184,
-      -122.5273
+      45.633,
+      -122.5229
     ],
     [
-      45.6235,
-      -122.5235
+      45.6288,
+      -122.5254
     ],
     [
-      45.6274,
-      -122.5206
+      45.6252,
+      -122.5284
     ],
     [
-      45.6322,
-      -122.5171
+      45.6211,
+      -122.531
+    ],
+    [
+      45.6181,
+      -122.5332
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-29T03:12:24.754Z"
+  "timestamp": "2026-09-29T04:45:45.359Z"
 }

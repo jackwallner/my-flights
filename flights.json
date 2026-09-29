@@ -29929,5 +29929,24 @@
     "initialDistance": 0.5588612565653002,
     "initialAltitude": 7400,
     "initialSpeed": 122
+  },
+  {
+    "callsign": "N833KX",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "AB6471",
+    "registration": "N833KS",
+    "firstSeen": "2026-09-29T04:44:54.053Z",
+    "lastSeen": "2026-09-29T04:45:35.095Z",
+    "duration": 41,
+    "closestDistance": 0.013034179130698223,
+    "closestAltitude": 3375,
+    "closestSpeed": 88,
+    "initialDistance": 0.5125440054234699,
+    "initialAltitude": 3425,
+    "initialSpeed": 87
   }
 ]
