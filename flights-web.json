@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.01,
-    "altitude": 3375,
-    "speed": 88,
-    "timestamp": "2026-09-29T04:45:14.610Z",
-    "lat": 45.6252,
-    "lon": -122.5284,
+    "distance": 0.07,
+    "altitude": 2325,
+    "speed": 164,
+    "timestamp": "2026-09-29T13:43:14.298Z",
+    "lat": 45.6253,
+    "lon": -122.5298,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N833KX",
-    "aircraftType": "C172",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-09-29T04:44:54.053Z"
+    "callsign": "TDY1776",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-09-03T13:40:35.851Z"
   },
-  "overheadScore": 0.01,
+  "overheadScore": 0.07,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.633,
-      -122.5229
+      45.618,
+      -122.5347
     ],
     [
-      45.6288,
-      -122.5254
+      45.6253,
+      -122.5298
     ],
     [
-      45.6252,
-      -122.5284
-    ],
-    [
-      45.6211,
-      -122.531
-    ],
-    [
-      45.6181,
-      -122.5332
+      45.6326,
+      -122.5246
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-29T04:45:45.359Z"
+  "status": "tracking",
+  "timestamp": "2026-09-29T13:43:24.584Z"
 }
