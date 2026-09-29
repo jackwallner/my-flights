@@ -29967,5 +29967,24 @@
     "initialDistance": 0.3903364757167339,
     "initialAltitude": 8900,
     "initialSpeed": 189
+  },
+  {
+    "callsign": "STT11",
+    "flightNumber": "ST11",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A03775",
+    "registration": "N113BD",
+    "firstSeen": "2026-09-29T20:59:59.091Z",
+    "lastSeen": "2026-09-29T21:00:19.727Z",
+    "duration": 21,
+    "closestDistance": 0.40469080122047607,
+    "closestAltitude": 2600,
+    "closestSpeed": 156,
+    "initialDistance": 0.6108735188236665,
+    "initialAltitude": 2275,
+    "initialSpeed": 153
   }
 ]
