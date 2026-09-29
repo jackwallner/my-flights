@@ -29948,5 +29948,24 @@
     "initialDistance": 0.5125440054234699,
     "initialAltitude": 3425,
     "initialSpeed": 87
+  },
+  {
+    "callsign": "N123XA",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "BLI",
+    "destination": "EKO",
+    "icao": "A060E5",
+    "registration": "N123XA",
+    "firstSeen": "2026-09-29T18:36:46.903Z",
+    "lastSeen": "2026-09-29T18:37:07.443Z",
+    "duration": 21,
+    "closestDistance": 0.3249864339002474,
+    "closestAltitude": 8900,
+    "closestSpeed": 188,
+    "initialDistance": 0.3903364757167339,
+    "initialAltitude": 8900,
+    "initialSpeed": 189
   }
 ]

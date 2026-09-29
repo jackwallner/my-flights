@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 2475,
-    "speed": 165,
-    "timestamp": "2026-09-29T16:28:47.813Z",
-    "lat": 45.6233,
-    "lon": -122.5221,
+    "distance": 0.32,
+    "altitude": 8900,
+    "speed": 188,
+    "timestamp": "2026-09-29T18:36:57.197Z",
+    "lat": 45.6243,
+    "lon": -122.5205,
     "precision": "high"
   },
   "flight": {
-    "callsign": "TDY1776",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-09-03T13:40:35.851Z"
+    "callsign": "N123XA",
+    "aircraftType": "S22T",
+    "origin": "BLI",
+    "destination": "EKO",
+    "firstSeen": "2026-09-29T18:36:46.903Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.32,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6159,
-      -122.5274
+      45.6313,
+      -122.5246
     ],
     [
-      45.6233,
-      -122.5221
+      45.6243,
+      -122.5205
     ],
     [
-      45.6291,
-      -122.5175
+      45.6171,
+      -122.5164
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-29T16:29:08.388Z"
+  "timestamp": "2026-09-29T18:37:17.711Z"
 }
