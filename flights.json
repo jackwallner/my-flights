@@ -30024,5 +30024,24 @@
     "initialDistance": 0.4110660011320961,
     "initialAltitude": 7900,
     "initialSpeed": 146
+  },
+  {
+    "callsign": "N7502D",
+    "flightNumber": null,
+    "aircraftType": "PA22",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "AA1CAB",
+    "registration": "N7502D",
+    "firstSeen": "2026-09-30T18:02:17.805Z",
+    "lastSeen": "2026-09-30T18:02:28.128Z",
+    "duration": 10,
+    "closestDistance": 0.6443738174270371,
+    "closestAltitude": 1850,
+    "closestSpeed": 92,
+    "initialDistance": 0.676520066695616,
+    "initialAltitude": 1800,
+    "initialSpeed": 93
   }
 ]
