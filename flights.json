@@ -30005,5 +30005,24 @@
     "initialDistance": 0.6549416193701778,
     "initialAltitude": 3900,
     "initialSpeed": 225
+  },
+  {
+    "callsign": "N4312W",
+    "flightNumber": null,
+    "aircraftType": "BE35",
+    "aircraftName": null,
+    "origin": "QSA",
+    "destination": null,
+    "icao": "A52988",
+    "registration": "N4312W",
+    "firstSeen": "2026-09-30T15:21:57.200Z",
+    "lastSeen": "2026-09-30T15:22:17.722Z",
+    "duration": 21,
+    "closestDistance": 0.3335083638505196,
+    "closestAltitude": 8000,
+    "closestSpeed": 144,
+    "initialDistance": 0.4110660011320961,
+    "initialAltitude": 7900,
+    "initialSpeed": 146
   }
 ]

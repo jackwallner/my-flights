@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 3900,
-    "speed": 225,
-    "timestamp": "2026-09-30T12:28:58.024Z",
-    "lat": 45.6249,
-    "lon": -122.5437,
-    "precision": "tracked"
+    "distance": 0.33,
+    "altitude": 8000,
+    "speed": 144,
+    "timestamp": "2026-09-30T15:22:07.475Z",
+    "lat": 45.6302,
+    "lon": -122.5318,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N138SP",
-    "aircraftType": "Cita",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-09-30T12:28:58.018Z"
+    "callsign": "N4312W",
+    "aircraftType": "BE35",
+    "origin": "QSA",
+    "destination": null,
+    "firstSeen": "2026-09-30T15:21:57.200Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.33,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6249,
-      -122.5437
+      45.6254,
+      -122.5379
+    ],
+    [
+      45.6302,
+      -122.5318
+    ],
+    [
+      45.6356,
+      -122.5252
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-30T12:29:28.812Z"
+  "timestamp": "2026-09-30T15:22:27.980Z"
 }
