@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 4850,
-    "speed": 94,
-    "timestamp": "2026-09-30T20:03:16.217Z",
-    "lat": 45.621,
-    "lon": -122.5226,
+    "distance": 0.34,
+    "altitude": 4300,
+    "speed": 83,
+    "timestamp": "2026-09-30T22:57:15.898Z",
+    "lat": 45.6232,
+    "lon": -122.5206,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N65KD",
+    "callsign": "N64269",
     "aircraftType": "C172",
-    "origin": null,
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-19T19:59:31.010Z"
+    "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.34,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6298,
-      -122.5164
+      45.6309,
+      -122.5153
     ],
     [
-      45.6254,
-      -122.5193
+      45.6271,
+      -122.518
     ],
     [
-      45.621,
-      -122.5226
+      45.6232,
+      -122.5206
     ],
     [
-      45.6175,
-      -122.5252
+      45.6198,
+      -122.5229
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-30T20:03:36.818Z"
+  "status": "tracking",
+  "timestamp": "2026-09-30T22:57:26.145Z"
 }
