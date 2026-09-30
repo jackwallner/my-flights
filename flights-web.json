@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 4300,
-    "speed": 83,
-    "timestamp": "2026-09-30T22:57:15.898Z",
-    "lat": 45.6232,
-    "lon": -122.5206,
+    "distance": 0.16,
+    "altitude": 3900,
+    "speed": 111,
+    "timestamp": "2026-09-30T23:11:07.372Z",
+    "lat": 45.6263,
+    "lon": -122.5316,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
+    "callsign": "N624ST",
+    "aircraftType": "RV12",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "firstSeen": "2026-02-02T21:45:58.538Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6309,
-      -122.5153
+      45.6329,
+      -122.5203
     ],
     [
-      45.6271,
-      -122.518
+      45.6291,
+      -122.527
     ],
     [
-      45.6232,
-      -122.5206
+      45.6263,
+      -122.5316
     ],
     [
-      45.6198,
-      -122.5229
-    ],
-    [
-      45.6162,
-      -122.5256
+      45.6226,
+      -122.5372
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-30T22:57:46.844Z"
+  "timestamp": "2026-09-30T23:11:27.900Z"
 }
