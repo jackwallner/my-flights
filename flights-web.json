@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 1900,
-    "speed": 93,
-    "timestamp": "2026-09-30T06:40:33.068Z",
-    "lat": 45.62,
-    "lon": -122.5292,
-    "precision": "high"
+    "distance": 0.65,
+    "altitude": 3900,
+    "speed": 225,
+    "timestamp": "2026-09-30T12:28:58.024Z",
+    "lat": 45.6249,
+    "lon": -122.5437,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N3659K",
-    "aircraftType": "P28A",
-    "origin": "GNG",
-    "destination": null,
-    "firstSeen": "2026-08-25T16:32:52.478Z"
+    "callsign": "N138SP",
+    "aircraftType": "Cita",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-09-30T12:28:58.018Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.65,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6198,
-      -122.5167
-    ],
-    [
-      45.6199,
-      -122.5238
-    ],
-    [
-      45.62,
-      -122.5292
-    ],
-    [
-      45.6201,
-      -122.5365
-    ],
-    [
-      45.6203,
-      -122.5416
+      45.6249,
+      -122.5437
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-30T06:41:03.861Z"
+  "timestamp": "2026-09-30T12:29:28.812Z"
 }

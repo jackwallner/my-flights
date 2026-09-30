@@ -29986,5 +29986,24 @@
     "initialDistance": 0.6108735188236665,
     "initialAltitude": 2275,
     "initialSpeed": 153
+  },
+  {
+    "callsign": "N138SP",
+    "flightNumber": null,
+    "aircraftType": "C750",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "HIO",
+    "icao": "A09A87",
+    "registration": "N138SP",
+    "firstSeen": "2026-09-30T12:28:58.018Z",
+    "lastSeen": "2026-09-30T12:28:58.018Z",
+    "duration": 0,
+    "closestDistance": 0.6549416193701778,
+    "closestAltitude": 3900,
+    "closestSpeed": 225,
+    "initialDistance": 0.6549416193701778,
+    "initialAltitude": 3900,
+    "initialSpeed": 225
   }
 ]
