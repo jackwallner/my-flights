@@ -1,33 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 4100,
-    "speed": 252,
-    "timestamp": "2026-09-30T03:26:55.196Z",
-    "lat": 45.6295,
-    "lon": -122.5188,
-    "precision": "tracked"
+    "distance": 0.32,
+    "altitude": 1900,
+    "speed": 93,
+    "timestamp": "2026-09-30T06:40:33.068Z",
+    "lat": 45.62,
+    "lon": -122.5292,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "C56X",
-    "aircraftType": "Cita",
-    "origin": null,
+    "callsign": "N3659K",
+    "aircraftType": "P28A",
+    "origin": "GNG",
     "destination": null,
-    "firstSeen": "2026-02-14T17:19:26.021Z"
+    "firstSeen": "2026-08-25T16:32:52.478Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6295,
-      -122.5188
+      45.6198,
+      -122.5167
     ],
     [
-      45.6178,
-      -122.5221
+      45.6199,
+      -122.5238
+    ],
+    [
+      45.62,
+      -122.5292
+    ],
+    [
+      45.6201,
+      -122.5365
+    ],
+    [
+      45.6203,
+      -122.5416
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-09-30T03:27:26.006Z"
+  "timestamp": "2026-09-30T06:41:03.861Z"
 }
