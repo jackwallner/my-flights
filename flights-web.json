@@ -1,49 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 2225,
-    "speed": 69,
-    "timestamp": "2026-09-30T23:17:20.926Z",
-    "lat": 45.6225,
-    "lon": -122.5212,
+    "distance": 0.15,
+    "altitude": 4000,
+    "speed": 99,
+    "timestamp": "2026-09-30T23:39:27.819Z",
+    "lat": 45.624,
+    "lon": -122.5313,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N7274G",
-    "aircraftType": "C150",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-07T04:51:24.606Z"
+    "callsign": "N4803G",
+    "aircraftType": "C172",
+    "origin": "LGD",
+    "destination": "MMV",
+    "firstSeen": "2026-09-01T02:31:02.363Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6277,
-      -122.5151
+      45.6345,
+      -122.5188
     ],
     [
-      45.6258,
-      -122.5175
+      45.6313,
+      -122.5227
     ],
     [
-      45.6225,
-      -122.5212
+      45.6278,
+      -122.527
     ],
     [
-      45.6204,
-      -122.5238
+      45.624,
+      -122.5313
     ],
     [
-      45.6179,
-      -122.5267
-    ],
-    [
-      45.6157,
-      -122.5292
+      45.6201,
+      -122.5353
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-30T23:18:02.009Z"
+  "status": "tracking",
+  "timestamp": "2026-09-30T23:39:38.078Z"
 }
