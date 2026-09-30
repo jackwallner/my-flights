@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 2500,
+    "distance": 0.55,
+    "altitude": 2400,
     "speed": 91,
-    "timestamp": "2026-09-30T01:51:15.809Z",
-    "lat": 45.615,
-    "lon": -122.5271,
-    "precision": "tracked"
+    "timestamp": "2026-09-30T01:51:26.075Z",
+    "lat": 45.6165,
+    "lon": -122.532,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N5094L",
@@ -15,15 +15,23 @@
     "destination": null,
     "firstSeen": "2026-01-31T22:47:23.955Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.615,
       -122.5271
+    ],
+    [
+      45.6165,
+      -122.532
+    ],
+    [
+      45.6183,
+      -122.5388
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-09-30T01:51:15.809Z"
+  "status": "completed",
+  "timestamp": "2026-09-30T01:51:46.630Z"
 }
