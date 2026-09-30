@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 1850,
-    "speed": 92,
-    "timestamp": "2026-09-30T18:02:28.133Z",
-    "lat": 45.6354,
-    "lon": -122.523,
+    "distance": 0.37,
+    "altitude": 4850,
+    "speed": 96,
+    "timestamp": "2026-09-30T20:03:05.959Z",
+    "lat": 45.6254,
+    "lon": -122.5193,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7502D",
-    "aircraftType": "PA22",
-    "origin": "PDX",
+    "callsign": "N65KD",
+    "aircraftType": "C172",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-09-30T18:02:17.805Z"
+    "firstSeen": "2026-04-19T19:59:31.010Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.37,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6365,
-      -122.5296
+      45.6298,
+      -122.5164
     ],
     [
-      45.6354,
-      -122.523
+      45.6254,
+      -122.5193
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-30T18:02:48.659Z"
+  "status": "tracking",
+  "timestamp": "2026-09-30T20:03:05.959Z"
 }
