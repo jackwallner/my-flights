@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 2375,
-    "speed": 156,
-    "timestamp": "2026-09-29T23:07:42.312Z",
-    "lat": 45.6231,
-    "lon": -122.5241,
-    "precision": "high"
+    "distance": 0.62,
+    "altitude": 2500,
+    "speed": 91,
+    "timestamp": "2026-09-30T01:51:15.809Z",
+    "lat": 45.615,
+    "lon": -122.5271,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "TDY1288",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-06-17T22:14:22.880Z"
+    "callsign": "N5094L",
+    "aircraftType": "C152",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-01-31T22:47:23.955Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.62,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6159,
-      -122.5292
-    ],
-    [
-      45.6231,
-      -122.5241
-    ],
-    [
-      45.6305,
-      -122.5185
+      45.615,
+      -122.5271
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-09-29T23:08:02.840Z"
+  "status": "tracking",
+  "timestamp": "2026-09-30T01:51:15.809Z"
 }
