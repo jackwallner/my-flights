@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 2500,
-    "speed": 84,
-    "timestamp": "2026-10-01T00:47:25.474Z",
-    "lat": 45.6188,
-    "lon": -122.5223,
-    "precision": "high"
+    "distance": 0.59,
+    "altitude": 2300,
+    "speed": 139,
+    "timestamp": "2026-10-01T16:27:03.131Z",
+    "lat": 45.6249,
+    "lon": -122.5421,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7274G",
-    "aircraftType": "C150",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-07T04:51:24.606Z"
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6158,
-      -122.5328
+      45.6249,
+      -122.5421
     ],
     [
-      45.6173,
-      -122.5269
-    ],
-    [
-      45.6188,
-      -122.5223
-    ],
-    [
-      45.6206,
-      -122.5169
+      45.6307,
+      -122.5402
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-01T00:47:46.018Z"
+  "status": "tracking",
+  "timestamp": "2026-10-01T16:27:13.434Z"
 }
