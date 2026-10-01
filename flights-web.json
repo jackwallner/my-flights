@@ -1,49 +1,37 @@
 {
   "closestApproach": {
     "distance": 0.05,
-    "altitude": 1400,
-    "speed": 141,
-    "timestamp": "2026-10-01T17:27:53.453Z",
-    "lat": 45.6258,
-    "lon": -122.5289,
+    "altitude": 1000,
+    "speed": 82,
+    "timestamp": "2026-10-01T19:11:41.874Z",
+    "lat": 45.6248,
+    "lon": -122.5271,
     "precision": "high"
   },
   "flight": {
-    "callsign": "BE30",
-    "aircraftType": "BE30",
-    "origin": null,
+    "callsign": "N4056V",
+    "aircraftType": "R44",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-10-01T17:25:29.633Z"
+    "firstSeen": "2026-02-07T00:55:41.449Z"
   },
   "overheadScore": 0.05,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6307,
-      -122.5358
+      45.6201,
+      -122.5195
     ],
     [
-      45.6258,
-      -122.5289
+      45.6216,
+      -122.522
     ],
     [
-      45.6206,
-      -122.5262
-    ],
-    [
-      45.629,
-      -122.5411
-    ],
-    [
-      45.6228,
-      -122.5361
-    ],
-    [
-      45.6161,
-      -122.5378
+      45.6248,
+      -122.5271
     ]
   ],
   "status": "tracking",
-  "timestamp": "2026-10-01T17:30:08.127Z"
+  "timestamp": "2026-10-01T19:11:41.874Z"
 }
