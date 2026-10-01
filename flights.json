@@ -30062,5 +30062,24 @@
     "initialDistance": 0.3487760363418829,
     "initialAltitude": 1400,
     "initialSpeed": 140
+  },
+  {
+    "callsign": "N340DS",
+    "flightNumber": null,
+    "aircraftType": "C340",
+    "aircraftName": null,
+    "origin": "TIW",
+    "destination": null,
+    "icao": "A3BDAA",
+    "registration": "N340DS",
+    "firstSeen": "2026-10-01T22:42:29.921Z",
+    "lastSeen": "2026-10-01T22:42:40.185Z",
+    "duration": 10,
+    "closestDistance": 0.6526761407488562,
+    "closestAltitude": 3450,
+    "closestSpeed": 160,
+    "initialDistance": 0.679971162885692,
+    "initialAltitude": 3475,
+    "initialSpeed": 163
   }
 ]
