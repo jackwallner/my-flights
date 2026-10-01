@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 1850,
-    "speed": 171,
-    "timestamp": "2026-10-01T23:28:36.506Z",
-    "lat": 45.6253,
-    "lon": -122.5247,
-    "precision": "high"
+    "distance": 0.52,
+    "altitude": 7425,
+    "speed": 269,
+    "timestamp": "2026-10-01T23:46:07.623Z",
+    "lat": 45.6228,
+    "lon": -122.5162,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "BE30",
-    "aircraftType": "BE30",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-10-01T17:25:29.633Z"
+    "callsign": "N423BB",
+    "aircraftType": "Cita",
+    "origin": "BLI",
+    "destination": "QSA",
+    "firstSeen": "2026-10-01T23:46:07.618Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.52,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6292,
-      -122.5353
-    ],
-    [
-      45.6253,
-      -122.5247
-    ],
-    [
-      45.6246,
-      -122.5151
+      45.6228,
+      -122.5162
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-01T23:28:57.014Z"
+  "status": "tracking",
+  "timestamp": "2026-10-01T23:46:07.624Z"
 }

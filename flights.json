@@ -30081,5 +30081,24 @@
     "initialDistance": 0.679971162885692,
     "initialAltitude": 3475,
     "initialSpeed": 163
+  },
+  {
+    "callsign": "N423BB",
+    "flightNumber": null,
+    "aircraftType": "C25B",
+    "aircraftName": null,
+    "origin": "BLI",
+    "destination": "QSA",
+    "icao": "A506DF",
+    "registration": "N423BB",
+    "firstSeen": "2026-10-01T23:46:07.618Z",
+    "lastSeen": "2026-10-01T23:46:07.618Z",
+    "duration": 0,
+    "closestDistance": 0.5218731066994122,
+    "closestAltitude": 7425,
+    "closestSpeed": 269,
+    "initialDistance": 0.5218731066994122,
+    "initialAltitude": 7425,
+    "initialSpeed": 269
   }
 ]
