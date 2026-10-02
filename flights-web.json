@@ -1,29 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 7425,
-    "speed": 269,
-    "timestamp": "2026-10-01T23:46:07.623Z",
-    "lat": 45.6228,
-    "lon": -122.5162,
-    "precision": "tracked"
+    "distance": 0.36,
+    "altitude": 3000,
+    "speed": 80,
+    "timestamp": "2026-10-02T00:09:26.259Z",
+    "lat": 45.6306,
+    "lon": -122.524,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N423BB",
-    "aircraftType": "Cita",
-    "origin": "BLI",
-    "destination": "QSA",
-    "firstSeen": "2026-10-01T23:46:07.618Z"
+    "callsign": "N44DM",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-04-30T21:44:46.809Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6228,
-      -122.5162
+      45.6265,
+      -122.5149
+    ],
+    [
+      45.6284,
+      -122.519
+    ],
+    [
+      45.6306,
+      -122.524
+    ],
+    [
+      45.6323,
+      -122.5278
+    ],
+    [
+      45.6346,
+      -122.5331
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-01T23:46:38.450Z"
+  "timestamp": "2026-10-02T00:09:57.058Z"
 }
