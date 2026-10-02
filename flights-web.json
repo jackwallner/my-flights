@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 1775,
-    "speed": 125,
-    "timestamp": "2026-10-02T20:44:11.113Z",
-    "lat": 45.631,
-    "lon": -122.5307,
-    "precision": "high"
+    "distance": 0.59,
+    "altitude": 2400,
+    "speed": 144,
+    "timestamp": "2026-10-02T20:54:32.641Z",
+    "lat": 45.6213,
+    "lon": -122.5153,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N723SB",
-    "aircraftType": "C177",
-    "origin": "GEG",
-    "destination": null,
-    "firstSeen": "2026-09-12T18:06:19.839Z"
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6349,
-      -122.5223
-    ],
-    [
-      45.631,
-      -122.5307
-    ],
-    [
-      45.6279,
-      -122.5378
+      45.6213,
+      -122.5153
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-02T20:44:31.758Z"
+  "timestamp": "2026-10-02T20:55:03.448Z"
 }
