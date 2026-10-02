@@ -6,7 +6,7 @@
     "timestamp": "2026-10-02T15:46:15.459Z",
     "lat": 45.6253,
     "lon": -122.5294,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "BE30",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.05,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6198,
@@ -26,8 +26,12 @@
     [
       45.6253,
       -122.5294
+    ],
+    [
+      45.6324,
+      -122.521
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-02T15:46:15.459Z"
+  "status": "completed",
+  "timestamp": "2026-10-02T15:46:36.018Z"
 }
