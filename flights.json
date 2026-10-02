@@ -30100,5 +30100,24 @@
     "initialDistance": 0.5218731066994122,
     "initialAltitude": 7425,
     "initialSpeed": 269
+  },
+  {
+    "callsign": "N410KC",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "ALW",
+    "destination": null,
+    "icao": "A4D504",
+    "registration": "N410KC",
+    "firstSeen": "2026-10-02T17:42:29.784Z",
+    "lastSeen": "2026-10-02T17:42:40.048Z",
+    "duration": 10,
+    "closestDistance": 0.11386701616487942,
+    "closestAltitude": 1525,
+    "closestSpeed": 117,
+    "initialDistance": 0.44883155786331197,
+    "initialAltitude": 1600,
+    "initialSpeed": 117
   }
 ]
