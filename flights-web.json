@@ -6,7 +6,7 @@
     "timestamp": "2026-10-02T17:42:40.055Z",
     "lat": 45.6253,
     "lon": -122.5254,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N410KC",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6279,
@@ -26,8 +26,16 @@
     [
       45.6253,
       -122.5254
+    ],
+    [
+      45.6232,
+      -122.5312
+    ],
+    [
+      45.6202,
+      -122.5383
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-02T17:42:40.055Z"
+  "status": "completed",
+  "timestamp": "2026-10-02T17:43:10.856Z"
 }
