@@ -1,53 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.08,
-    "altitude": 2800,
-    "speed": 70,
-    "timestamp": "2026-10-02T20:38:30.592Z",
-    "lat": 45.6265,
-    "lon": -122.5271,
+    "distance": 0.36,
+    "altitude": 1775,
+    "speed": 125,
+    "timestamp": "2026-10-02T20:44:11.113Z",
+    "lat": 45.631,
+    "lon": -122.5307,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N7668U",
-    "aircraftType": "C150",
-    "origin": "TTD",
+    "callsign": "N723SB",
+    "aircraftType": "C177",
+    "origin": "GEG",
     "destination": null,
-    "firstSeen": "2026-06-15T20:44:25.390Z"
+    "firstSeen": "2026-09-12T18:06:19.839Z"
   },
-  "overheadScore": 0.08,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 7,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6314,
-      -122.5191
+      45.6349,
+      -122.5223
     ],
     [
-      45.6281,
-      -122.5226
+      45.631,
+      -122.5307
     ],
     [
-      45.6265,
-      -122.5271
-    ],
-    [
-      45.6251,
-      -122.531
-    ],
-    [
-      45.6235,
-      -122.5342
-    ],
-    [
-      45.6213,
-      -122.5384
-    ],
-    [
-      45.6189,
-      -122.5419
+      45.6279,
+      -122.5378
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-02T20:39:21.990Z"
+  "timestamp": "2026-10-02T20:44:31.758Z"
 }
