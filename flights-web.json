@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 1525,
-    "speed": 117,
-    "timestamp": "2026-10-02T17:42:40.055Z",
-    "lat": 45.6253,
+    "distance": 0.19,
+    "altitude": 1900,
+    "speed": 112,
+    "timestamp": "2026-10-02T18:54:07.903Z",
+    "lat": 45.6227,
     "lon": -122.5254,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N410KC",
-    "aircraftType": "C182",
-    "origin": "ALW",
+    "callsign": "N300PA",
+    "aircraftType": "P28R",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-10-02T17:42:29.784Z"
+    "firstSeen": "2026-03-15T20:46:41.470Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.19,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6279,
-      -122.5181
+      45.623,
+      -122.5407
     ],
     [
-      45.6253,
+      45.6227,
+      -122.5337
+    ],
+    [
+      45.6227,
       -122.5254
     ],
     [
-      45.6232,
-      -122.5312
-    ],
-    [
-      45.6202,
-      -122.5383
+      45.6229,
+      -122.5186
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-02T17:43:10.856Z"
+  "timestamp": "2026-10-02T18:54:28.424Z"
 }
