@@ -1,29 +1,53 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 1375,
-    "speed": 147,
-    "timestamp": "2026-10-02T20:15:12.951Z",
-    "lat": 45.6185,
-    "lon": -122.5157,
-    "precision": "tracked"
+    "distance": 0.08,
+    "altitude": 2800,
+    "speed": 70,
+    "timestamp": "2026-10-02T20:38:30.592Z",
+    "lat": 45.6265,
+    "lon": -122.5271,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "BE30",
-    "aircraftType": "BE30",
-    "origin": null,
+    "callsign": "N7668U",
+    "aircraftType": "C150",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-10-01T17:25:29.633Z"
+    "firstSeen": "2026-06-15T20:44:25.390Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.08,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 7,
   "trail": [
     [
-      45.6185,
-      -122.5157
+      45.6314,
+      -122.5191
+    ],
+    [
+      45.6281,
+      -122.5226
+    ],
+    [
+      45.6265,
+      -122.5271
+    ],
+    [
+      45.6251,
+      -122.531
+    ],
+    [
+      45.6235,
+      -122.5342
+    ],
+    [
+      45.6213,
+      -122.5384
+    ],
+    [
+      45.6189,
+      -122.5419
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-02T20:15:43.755Z"
+  "status": "tracking",
+  "timestamp": "2026-10-02T20:39:11.738Z"
 }
