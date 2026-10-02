@@ -1,29 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 1400,
-    "speed": 181,
-    "timestamp": "2026-10-02T14:15:34.771Z",
-    "lat": 45.6239,
-    "lon": -122.512,
+    "distance": 0.64,
+    "altitude": 2300,
+    "speed": 144,
+    "timestamp": "2026-10-02T15:08:10.863Z",
+    "lat": 45.6147,
+    "lon": -122.5278,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BE30",
-    "aircraftType": "BE30",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-10-01T17:25:29.633Z"
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.64,
   "isOverhead": true,
   "pathSnapshots": 1,
   "trail": [
     [
-      45.6239,
-      -122.512
+      45.6147,
+      -122.5278
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-02T14:16:05.964Z"
+  "status": "tracking",
+  "timestamp": "2026-10-02T15:08:10.863Z"
 }
