@@ -1,45 +1,53 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 3000,
-    "speed": 80,
-    "timestamp": "2026-10-02T00:09:26.259Z",
-    "lat": 45.6306,
-    "lon": -122.524,
+    "distance": 0.26,
+    "altitude": 1300,
+    "speed": 90,
+    "timestamp": "2026-10-02T00:20:00.542Z",
+    "lat": 45.6257,
+    "lon": -122.5219,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N44DM",
-    "aircraftType": "C172",
-    "origin": "TTD",
+    "callsign": "N924D",
+    "aircraftType": "RV6",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-04-30T21:44:46.809Z"
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 7,
   "trail": [
     [
-      45.6265,
-      -122.5149
+      45.6188,
+      -122.5312
     ],
     [
-      45.6284,
-      -122.519
+      45.618,
+      -122.5247
     ],
     [
-      45.6306,
-      -122.524
+      45.6205,
+      -122.5222
     ],
     [
-      45.6323,
-      -122.5278
+      45.6257,
+      -122.5219
     ],
     [
-      45.6346,
-      -122.5331
+      45.6293,
+      -122.5244
+    ],
+    [
+      45.6312,
+      -122.5294
+    ],
+    [
+      45.6304,
+      -122.5369
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-02T00:09:57.058Z"
+  "status": "tracking",
+  "timestamp": "2026-10-02T00:20:31.375Z"
 }
