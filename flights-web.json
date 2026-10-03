@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 5200,
-    "speed": 176,
-    "timestamp": "2026-10-03T18:20:59.392Z",
-    "lat": 45.6221,
-    "lon": -122.5262,
+    "distance": 0.59,
+    "altitude": 7500,
+    "speed": 101,
+    "timestamp": "2026-10-03T18:35:35.105Z",
+    "lat": 45.6164,
+    "lon": -122.534,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N98869",
-    "aircraftType": "C310",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-10-03T17:46:21.166Z"
+    "callsign": "N62407",
+    "aircraftType": "C172",
+    "origin": "HIO",
+    "destination": "AST",
+    "firstSeen": "2026-04-05T02:36:38.567Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.59,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6258,
-      -122.5374
-    ],
-    [
-      45.6221,
-      -122.5262
+      45.6164,
+      -122.534
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-03T18:21:19.951Z"
+  "status": "tracking",
+  "timestamp": "2026-10-03T18:35:35.105Z"
 }
