@@ -1,45 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 4300,
-    "speed": 98,
-    "timestamp": "2026-10-03T14:39:53.576Z",
-    "lat": 45.6306,
-    "lon": -122.5343,
-    "precision": "high"
+    "distance": 0.07,
+    "altitude": 3875,
+    "speed": 283,
+    "timestamp": "2026-10-03T16:08:01.765Z",
+    "lat": 45.625,
+    "lon": -122.5264,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N90UL",
-    "aircraftType": "CC11",
-    "origin": "YKM",
+    "callsign": "C68A",
+    "aircraftType": "C68A",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-10-03T14:39:33.064Z"
+    "firstSeen": "2026-02-09T19:20:04.771Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.07,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6363,
-      -122.5229
+      45.625,
+      -122.5264
     ],
     [
-      45.6334,
-      -122.5287
-    ],
-    [
-      45.6306,
-      -122.5343
-    ],
-    [
-      45.6277,
-      -122.5401
-    ],
-    [
-      45.6255,
-      -122.5445
+      45.6358,
+      -122.5299
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-03T14:40:24.530Z"
+  "timestamp": "2026-10-03T16:08:32.594Z"
 }
