@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.59,
+    "distance": 0.47,
     "altitude": 7500,
-    "speed": 101,
-    "timestamp": "2026-10-03T18:35:35.105Z",
-    "lat": 45.6164,
-    "lon": -122.534,
-    "precision": "tracked"
+    "speed": 105,
+    "timestamp": "2026-10-03T18:35:45.352Z",
+    "lat": 45.6174,
+    "lon": -122.5282,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N62407",
@@ -15,15 +15,23 @@
     "destination": "AST",
     "firstSeen": "2026-04-05T02:36:38.567Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.47,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6164,
       -122.534
+    ],
+    [
+      45.6174,
+      -122.5282
+    ],
+    [
+      45.6188,
+      -122.5202
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-03T18:35:35.105Z"
+  "status": "completed",
+  "timestamp": "2026-10-03T18:36:06.063Z"
 }
