@@ -1,41 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 1675,
-    "speed": 130,
-    "timestamp": "2026-10-03T21:21:44.819Z",
-    "lat": 45.6303,
-    "lon": -122.5288,
+    "distance": 0.04,
+    "altitude": 925,
+    "speed": 80,
+    "timestamp": "2026-10-03T21:31:21.190Z",
+    "lat": 45.6259,
+    "lon": -122.5277,
     "precision": "high"
   },
   "flight": {
-    "callsign": "B407",
-    "aircraftType": "B407",
-    "origin": null,
+    "callsign": "N505PD",
+    "aircraftType": "C182",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-04-07T03:22:47.616Z"
+    "firstSeen": "2026-02-06T21:09:58.652Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.04,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 6,
   "trail": [
     [
       45.6207,
-      -122.5432
+      -122.5313
     ],
     [
-      45.6275,
-      -122.535
+      45.6219,
+      -122.5271
     ],
     [
-      45.6303,
-      -122.5288
+      45.6259,
+      -122.5277
     ],
     [
-      45.632,
-      -122.5197
+      45.6289,
+      -122.528
+    ],
+    [
+      45.6327,
+      -122.5268
+    ],
+    [
+      45.6352,
+      -122.521
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-03T21:22:05.402Z"
+  "timestamp": "2026-10-03T21:32:02.319Z"
 }
