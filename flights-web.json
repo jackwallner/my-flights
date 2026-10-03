@@ -1,49 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.04,
-    "altitude": 925,
-    "speed": 80,
-    "timestamp": "2026-10-03T21:31:21.190Z",
-    "lat": 45.6259,
-    "lon": -122.5277,
-    "precision": "high"
+    "distance": 0.55,
+    "altitude": 3975,
+    "speed": 255,
+    "timestamp": "2026-10-03T23:13:12.542Z",
+    "lat": 45.6224,
+    "lon": -122.5405,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N505PD",
-    "aircraftType": "C182",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-06T21:09:58.652Z"
+    "callsign": "N174AA",
+    "aircraftType": "Cita",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-02-06T22:58:59.693Z"
   },
-  "overheadScore": 0.04,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6207,
-      -122.5313
+      45.6341,
+      -122.5324
     ],
     [
-      45.6219,
-      -122.5271
-    ],
-    [
-      45.6259,
-      -122.5277
-    ],
-    [
-      45.6289,
-      -122.528
-    ],
-    [
-      45.6327,
-      -122.5268
-    ],
-    [
-      45.6352,
-      -122.521
+      45.6224,
+      -122.5405
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-03T21:32:02.319Z"
+  "timestamp": "2026-10-03T23:13:33.088Z"
 }
