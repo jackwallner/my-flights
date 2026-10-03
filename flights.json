@@ -30157,5 +30157,24 @@
     "initialDistance": 0.49667620924081524,
     "initialAltitude": 5200,
     "initialSpeed": 183
+  },
+  {
+    "callsign": "N65PT",
+    "flightNumber": null,
+    "aircraftType": "C77R",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A88BB8",
+    "registration": "N65PT",
+    "firstSeen": "2026-10-03T19:17:10.783Z",
+    "lastSeen": "2026-10-03T19:17:41.557Z",
+    "duration": 31,
+    "closestDistance": 0.3088284776483211,
+    "closestAltitude": 3100,
+    "closestSpeed": 83,
+    "initialDistance": 0.6387370241648834,
+    "initialAltitude": 2900,
+    "initialSpeed": 84
   }
 ]

@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 2125,
-    "speed": 146,
-    "timestamp": "2026-10-03T19:07:15.112Z",
-    "lat": 45.6216,
-    "lon": -122.5256,
+    "distance": 0.31,
+    "altitude": 3100,
+    "speed": 83,
+    "timestamp": "2026-10-03T19:17:41.564Z",
+    "lat": 45.6298,
+    "lon": -122.5246,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N926RU",
-    "aircraftType": "RV6",
-    "origin": "TTD",
+    "callsign": "N65PT",
+    "aircraftType": "C77R",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-09-13T14:50:49.084Z"
+    "firstSeen": "2026-10-03T19:17:10.783Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6251,
-      -122.5165
+      45.6302,
+      -122.5416
     ],
     [
-      45.6216,
-      -122.5256
+      45.6302,
+      -122.5368
     ],
     [
-      45.6179,
-      -122.5348
+      45.6301,
+      -122.5308
+    ],
+    [
+      45.6298,
+      -122.5246
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-03T19:07:35.631Z"
+  "status": "tracking",
+  "timestamp": "2026-10-03T19:17:41.564Z"
 }
