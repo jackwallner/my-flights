@@ -1,33 +1,69 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 5300,
-    "speed": 185,
-    "timestamp": "2026-10-03T19:56:16.195Z",
-    "lat": 45.6331,
-    "lon": -122.5247,
-    "precision": "tracked"
+    "distance": 0.13,
+    "altitude": 325,
+    "speed": 61,
+    "timestamp": "2026-10-03T20:37:28.517Z",
+    "lat": 45.6255,
+    "lon": -122.5311,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N98869",
-    "aircraftType": "C310",
-    "origin": "QSA",
+    "callsign": "N505PD",
+    "aircraftType": "C182",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-10-03T17:46:21.166Z"
+    "firstSeen": "2026-02-06T21:09:58.652Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 11,
   "trail": [
     [
-      45.6291,
-      -122.5125
+      45.6359,
+      -122.5261
     ],
     [
-      45.6331,
-      -122.5247
+      45.6358,
+      -122.5308
+    ],
+    [
+      45.6346,
+      -122.5352
+    ],
+    [
+      45.6289,
+      -122.5386
+    ],
+    [
+      45.6268,
+      -122.5386
+    ],
+    [
+      45.6218,
+      -122.5355
+    ],
+    [
+      45.623,
+      -122.5323
+    ],
+    [
+      45.6255,
+      -122.5311
+    ],
+    [
+      45.629,
+      -122.5307
+    ],
+    [
+      45.6296,
+      -122.5307
+    ],
+    [
+      45.6296,
+      -122.5307
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-03T19:56:36.738Z"
+  "status": "tracking",
+  "timestamp": "2026-10-03T20:37:59.456Z"
 }
