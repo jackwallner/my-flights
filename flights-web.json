@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.07,
+    "distance": 0.15,
     "altitude": 3875,
-    "speed": 283,
-    "timestamp": "2026-10-03T16:08:01.765Z",
-    "lat": 45.625,
-    "lon": -122.5264,
-    "precision": "tracked"
+    "speed": 118,
+    "timestamp": "2026-10-03T16:56:20.626Z",
+    "lat": 45.6231,
+    "lon": -122.5299,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "C68A",
-    "aircraftType": "C68A",
+    "callsign": "C182",
+    "aircraftType": "C182",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-09T19:20:04.771Z"
+    "firstSeen": "2026-02-02T18:26:35.903Z"
   },
-  "overheadScore": 0.07,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.625,
-      -122.5264
+      45.6336,
+      -122.5245
     ],
     [
-      45.6358,
+      45.6291,
+      -122.5269
+    ],
+    [
+      45.6231,
       -122.5299
+    ],
+    [
+      45.6189,
+      -122.5319
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-03T16:08:32.594Z"
+  "timestamp": "2026-10-03T16:56:41.131Z"
 }
