@@ -30176,5 +30176,24 @@
     "initialDistance": 0.6387370241648834,
     "initialAltitude": 2900,
     "initialSpeed": 84
+  },
+  {
+    "callsign": "N60FL",
+    "flightNumber": null,
+    "aircraftType": "M600",
+    "aircraftName": null,
+    "origin": "SUO",
+    "destination": null,
+    "icao": "A7C56E",
+    "registration": "N60FL",
+    "firstSeen": "2026-10-03T23:15:26.748Z",
+    "lastSeen": "2026-10-03T23:15:37.020Z",
+    "duration": 10,
+    "closestDistance": 0.5970432015015313,
+    "closestAltitude": 5100,
+    "closestSpeed": 236,
+    "initialDistance": 0.5970432015015313,
+    "initialAltitude": 5100,
+    "initialSpeed": 236
   }
 ]

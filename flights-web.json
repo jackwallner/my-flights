@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 3975,
-    "speed": 255,
-    "timestamp": "2026-10-03T23:13:12.542Z",
-    "lat": 45.6224,
-    "lon": -122.5405,
+    "distance": 0.6,
+    "altitude": 5100,
+    "speed": 236,
+    "timestamp": "2026-10-03T23:15:26.753Z",
+    "lat": 45.6256,
+    "lon": -122.5139,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N174AA",
-    "aircraftType": "Cita",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-02-06T22:58:59.693Z"
+    "callsign": "N60FL",
+    "aircraftType": "M600",
+    "origin": "SUO",
+    "destination": null,
+    "firstSeen": "2026-10-03T23:15:26.748Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.6,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6341,
-      -122.5324
+      45.6256,
+      -122.5139
     ],
     [
-      45.6224,
-      -122.5405
+      45.615,
+      -122.5211
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-03T23:13:33.088Z"
+  "timestamp": "2026-10-03T23:15:57.544Z"
 }
