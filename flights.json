@@ -30138,5 +30138,24 @@
     "initialDistance": 0.6968642801809533,
     "initialAltitude": 4300,
     "initialSpeed": 97
+  },
+  {
+    "callsign": "N98869",
+    "flightNumber": null,
+    "aircraftType": "C310",
+    "aircraftName": null,
+    "origin": "QSA",
+    "destination": null,
+    "icao": "ADCC28",
+    "registration": "N98869",
+    "firstSeen": "2026-10-03T17:46:21.166Z",
+    "lastSeen": "2026-10-03T17:46:31.413Z",
+    "duration": 10,
+    "closestDistance": 0.49667620924081524,
+    "closestAltitude": 5200,
+    "closestSpeed": 183,
+    "initialDistance": 0.49667620924081524,
+    "initialAltitude": 5200,
+    "initialSpeed": 183
   }
 ]

@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 3875,
-    "speed": 191,
-    "timestamp": "2026-10-03T17:36:35.082Z",
-    "lat": 45.6295,
-    "lon": -122.538,
+    "distance": 0.5,
+    "altitude": 5200,
+    "speed": 183,
+    "timestamp": "2026-10-03T17:46:21.172Z",
+    "lat": 45.6326,
+    "lon": -122.5226,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
+    "callsign": "N98869",
+    "aircraftType": "C310",
+    "origin": "QSA",
     "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "firstSeen": "2026-10-03T17:46:21.166Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.5,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6295,
-      -122.538
+      45.6326,
+      -122.5226
     ],
     [
-      45.6206,
-      -122.5416
+      45.6356,
+      -122.5317
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-03T17:37:05.876Z"
+  "timestamp": "2026-10-03T17:46:51.937Z"
 }
