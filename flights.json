@@ -30119,5 +30119,24 @@
     "initialDistance": 0.44883155786331197,
     "initialAltitude": 1600,
     "initialSpeed": 117
+  },
+  {
+    "callsign": "N90UL",
+    "flightNumber": null,
+    "aircraftType": "CC11",
+    "aircraftName": null,
+    "origin": "YKM",
+    "destination": null,
+    "icao": "AC6EA0",
+    "registration": "N90UL",
+    "firstSeen": "2026-10-03T14:39:33.064Z",
+    "lastSeen": "2026-10-03T14:40:14.269Z",
+    "duration": 41,
+    "closestDistance": 0.4117297222070303,
+    "closestAltitude": 4300,
+    "closestSpeed": 98,
+    "initialDistance": 0.6968642801809533,
+    "initialAltitude": 4300,
+    "initialSpeed": 97
   }
 ]

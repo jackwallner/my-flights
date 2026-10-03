@@ -1,45 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.12,
-    "altitude": 3850,
-    "speed": 96,
-    "timestamp": "2026-10-02T22:50:32.421Z",
-    "lat": 45.6249,
-    "lon": -122.5252,
+    "distance": 0.41,
+    "altitude": 4300,
+    "speed": 98,
+    "timestamp": "2026-10-03T14:39:53.576Z",
+    "lat": 45.6306,
+    "lon": -122.5343,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": "TTD",
+    "callsign": "N90UL",
+    "aircraftType": "CC11",
+    "origin": "YKM",
     "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "firstSeen": "2026-10-03T14:39:33.064Z"
   },
-  "overheadScore": 0.12,
+  "overheadScore": 0.41,
   "isOverhead": true,
   "pathSnapshots": 5,
   "trail": [
     [
-      45.6343,
-      -122.5205
-    ],
-    [
-      45.6297,
+      45.6363,
       -122.5229
     ],
     [
-      45.6249,
-      -122.5252
+      45.6334,
+      -122.5287
     ],
     [
-      45.6211,
-      -122.5268
+      45.6306,
+      -122.5343
     ],
     [
-      45.6165,
-      -122.5286
+      45.6277,
+      -122.5401
+    ],
+    [
+      45.6255,
+      -122.5445
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-02T22:51:03.175Z"
+  "timestamp": "2026-10-03T14:40:24.530Z"
 }
