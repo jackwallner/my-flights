@@ -1,49 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 3100,
-    "speed": 83,
-    "timestamp": "2026-10-03T19:17:41.564Z",
-    "lat": 45.6298,
-    "lon": -122.5246,
+    "distance": 0.38,
+    "altitude": 4050,
+    "speed": 71,
+    "timestamp": "2026-10-03T19:46:39.431Z",
+    "lat": 45.619,
+    "lon": -122.5282,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N65PT",
-    "aircraftType": "C77R",
+    "callsign": "N61531",
+    "aircraftType": "C172",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-10-03T19:17:10.783Z"
+    "firstSeen": "2026-06-20T15:24:46.712Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.38,
   "isOverhead": true,
   "pathSnapshots": 6,
   "trail": [
     [
-      45.6302,
-      -122.5416
+      45.6194,
+      -122.5421
     ],
     [
-      45.6302,
-      -122.5368
+      45.6193,
+      -122.5381
     ],
     [
-      45.6301,
-      -122.5308
+      45.6192,
+      -122.5331
     ],
     [
-      45.6298,
-      -122.5246
+      45.619,
+      -122.5282
     ],
     [
-      45.6293,
-      -122.5187
+      45.6187,
+      -122.5241
     ],
     [
-      45.6289,
-      -122.514
+      45.6182,
+      -122.5186
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-03T19:18:12.473Z"
+  "timestamp": "2026-10-03T19:47:10.287Z"
 }
