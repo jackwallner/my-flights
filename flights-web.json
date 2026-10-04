@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 1600,
-    "speed": 144,
-    "timestamp": "2026-10-04T01:35:44.812Z",
-    "lat": 45.6262,
-    "lon": -122.5327,
-    "precision": "high"
+    "distance": 0.68,
+    "altitude": 6100,
+    "speed": 85,
+    "timestamp": "2026-10-04T01:43:25.142Z",
+    "lat": 45.6144,
+    "lon": -122.5234,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N3478X",
-    "aircraftType": "M20P",
-    "origin": "SUO",
+    "callsign": "N62407",
+    "aircraftType": "C172",
+    "origin": "DLS",
     "destination": null,
-    "firstSeen": "2026-08-27T02:52:39.872Z"
+    "firstSeen": "2026-04-05T02:36:38.567Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.68,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.627,
-      -122.5432
+      45.6164,
+      -122.5179
     ],
     [
-      45.6262,
-      -122.5327
-    ],
-    [
-      45.6252,
-      -122.5233
-    ],
-    [
-      45.6243,
-      -122.5127
+      45.6144,
+      -122.5234
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-04T01:36:15.573Z"
+  "timestamp": "2026-10-04T01:43:45.649Z"
 }
