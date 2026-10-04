@@ -30214,5 +30214,24 @@
     "initialDistance": 0.39135289021079633,
     "initialAltitude": 1375,
     "initialSpeed": 118
+  },
+  {
+    "callsign": "SKW3336",
+    "flightNumber": "AS3336",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "SEA",
+    "destination": "PDX",
+    "icao": "A1878A",
+    "registration": "N198SY",
+    "firstSeen": "2026-10-04T03:41:23.209Z",
+    "lastSeen": "2026-10-04T03:41:33.502Z",
+    "duration": 10,
+    "closestDistance": 0.3171905142523118,
+    "closestAltitude": 4950,
+    "closestSpeed": 221,
+    "initialDistance": 0.3171905142523118,
+    "initialAltitude": 4950,
+    "initialSpeed": 221
   }
 ]

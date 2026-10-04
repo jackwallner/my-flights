@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 1300,
-    "speed": 120,
-    "timestamp": "2026-10-04T02:24:40.530Z",
-    "lat": 45.6244,
-    "lon": -122.5258,
-    "precision": "high"
+    "distance": 0.32,
+    "altitude": 4950,
+    "speed": 221,
+    "timestamp": "2026-10-04T03:41:23.216Z",
+    "lat": 45.6298,
+    "lon": -122.5242,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N480JP",
-    "aircraftType": "DA40",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-10-04T02:24:30.216Z"
+    "callsign": "SKW3336",
+    "aircraftType": "E175",
+    "origin": "SEA",
+    "destination": "PDX",
+    "firstSeen": "2026-10-04T03:41:23.209Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.625,
-      -122.5188
+      45.6298,
+      -122.5242
     ],
     [
-      45.6244,
-      -122.5258
-    ],
-    [
-      45.623,
-      -122.5333
-    ],
-    [
-      45.6218,
-      -122.5422
+      45.619,
+      -122.5238
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-04T02:25:11.385Z"
+  "timestamp": "2026-10-04T03:41:54.040Z"
 }
