@@ -30195,5 +30195,24 @@
     "initialDistance": 0.5970432015015313,
     "initialAltitude": 5100,
     "initialSpeed": 236
+  },
+  {
+    "callsign": "N480JP",
+    "flightNumber": null,
+    "aircraftType": "DA40",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A5E96F",
+    "registration": "N480JP",
+    "firstSeen": "2026-10-04T02:24:30.216Z",
+    "lastSeen": "2026-10-04T02:24:50.836Z",
+    "duration": 21,
+    "closestDistance": 0.11052675256896027,
+    "closestAltitude": 1300,
+    "closestSpeed": 120,
+    "initialDistance": 0.39135289021079633,
+    "initialAltitude": 1375,
+    "initialSpeed": 118
   }
 ]

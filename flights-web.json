@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 6100,
-    "speed": 85,
-    "timestamp": "2026-10-04T01:43:25.142Z",
-    "lat": 45.6144,
-    "lon": -122.5234,
-    "precision": "tracked"
+    "distance": 0.11,
+    "altitude": 1300,
+    "speed": 120,
+    "timestamp": "2026-10-04T02:24:40.530Z",
+    "lat": 45.6244,
+    "lon": -122.5258,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N62407",
-    "aircraftType": "C172",
-    "origin": "DLS",
+    "callsign": "N480JP",
+    "aircraftType": "DA40",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-04-05T02:36:38.567Z"
+    "firstSeen": "2026-10-04T02:24:30.216Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6164,
-      -122.5179
+      45.625,
+      -122.5188
     ],
     [
-      45.6144,
-      -122.5234
+      45.6244,
+      -122.5258
+    ],
+    [
+      45.623,
+      -122.5333
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-04T01:43:45.649Z"
+  "status": "tracking",
+  "timestamp": "2026-10-04T02:24:50.841Z"
 }
