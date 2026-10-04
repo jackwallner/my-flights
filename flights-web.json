@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 4950,
-    "speed": 221,
-    "timestamp": "2026-10-04T03:41:23.216Z",
-    "lat": 45.6298,
-    "lon": -122.5242,
-    "precision": "tracked"
+    "distance": 0.24,
+    "altitude": 7400,
+    "speed": 163,
+    "timestamp": "2026-10-04T18:12:44.410Z",
+    "lat": 45.629,
+    "lon": -122.5299,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "SKW3336",
-    "aircraftType": "E175",
-    "origin": "SEA",
-    "destination": "PDX",
-    "firstSeen": "2026-10-04T03:41:23.209Z"
+    "callsign": "N485RW",
+    "aircraftType": "RV7",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-10-04T18:12:34.116Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6298,
-      -122.5242
+      45.6225,
+      -122.5379
     ],
     [
-      45.619,
+      45.629,
+      -122.5299
+    ],
+    [
+      45.6339,
       -122.5238
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-04T03:41:54.040Z"
+  "timestamp": "2026-10-04T18:13:06.415Z"
 }

@@ -30233,5 +30233,24 @@
     "initialDistance": 0.3171905142523118,
     "initialAltitude": 4950,
     "initialSpeed": 221
+  },
+  {
+    "callsign": "N485RW",
+    "flightNumber": null,
+    "aircraftType": "RV7",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A5FCB8",
+    "registration": "N485RW",
+    "firstSeen": "2026-10-04T18:12:34.116Z",
+    "lastSeen": "2026-10-04T18:12:54.685Z",
+    "duration": 21,
+    "closestDistance": 0.2356099588766456,
+    "closestAltitude": 7400,
+    "closestSpeed": 163,
+    "initialDistance": 0.443622465420434,
+    "initialAltitude": 7400,
+    "initialSpeed": 163
   }
 ]
