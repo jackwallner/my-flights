@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 7400,
-    "speed": 163,
-    "timestamp": "2026-10-04T18:12:44.410Z",
-    "lat": 45.629,
-    "lon": -122.5299,
+    "distance": 0.25,
+    "altitude": 1325,
+    "speed": 118,
+    "timestamp": "2026-10-04T18:34:44.118Z",
+    "lat": 45.6252,
+    "lon": -122.5222,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N485RW",
-    "aircraftType": "RV7",
-    "origin": null,
+    "callsign": "N410KC",
+    "aircraftType": "C182",
+    "origin": "ALW",
     "destination": null,
-    "firstSeen": "2026-10-04T18:12:34.116Z"
+    "firstSeen": "2026-10-02T17:42:29.784Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.25,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6225,
-      -122.5379
+      45.631,
+      -122.5227
     ],
     [
-      45.629,
-      -122.5299
+      45.6252,
+      -122.5222
     ],
     [
-      45.6339,
-      -122.5238
+      45.6193,
+      -122.5213
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-04T18:13:06.415Z"
+  "timestamp": "2026-10-04T18:35:04.671Z"
 }
