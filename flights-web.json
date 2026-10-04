@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 1100,
-    "speed": 113,
-    "timestamp": "2026-10-04T20:50:28.522Z",
-    "lat": 45.6243,
-    "lon": -122.5204,
-    "precision": "high"
+    "distance": 0.68,
+    "altitude": 1500,
+    "speed": 80,
+    "timestamp": "2026-10-04T21:52:24.754Z",
+    "lat": 45.6143,
+    "lon": -122.5321,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N300PA",
-    "aircraftType": "P28R",
-    "origin": "PUW",
+    "callsign": "N19298",
+    "aircraftType": "C150",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-15T20:46:41.470Z"
+    "firstSeen": "2026-07-20T19:22:38.070Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.68,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6307,
-      -122.5155
-    ],
-    [
-      45.6261,
-      -122.5192
-    ],
-    [
-      45.6243,
-      -122.5204
-    ],
-    [
-      45.6174,
-      -122.5244
+      45.6143,
+      -122.5321
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-04T20:50:49.047Z"
+  "status": "tracking",
+  "timestamp": "2026-10-04T21:52:24.754Z"
 }
