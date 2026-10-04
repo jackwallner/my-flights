@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 5100,
-    "speed": 236,
-    "timestamp": "2026-10-03T23:15:26.753Z",
-    "lat": 45.6256,
-    "lon": -122.5139,
-    "precision": "tracked"
+    "distance": 0.2,
+    "altitude": 1600,
+    "speed": 144,
+    "timestamp": "2026-10-04T01:35:44.812Z",
+    "lat": 45.6262,
+    "lon": -122.5327,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N60FL",
-    "aircraftType": "M600",
+    "callsign": "N3478X",
+    "aircraftType": "M20P",
     "origin": "SUO",
     "destination": null,
-    "firstSeen": "2026-10-03T23:15:26.748Z"
+    "firstSeen": "2026-08-27T02:52:39.872Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6256,
-      -122.5139
+      45.627,
+      -122.5432
     ],
     [
-      45.615,
-      -122.5211
+      45.6262,
+      -122.5327
+    ],
+    [
+      45.6252,
+      -122.5233
+    ],
+    [
+      45.6243,
+      -122.5127
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-03T23:15:57.544Z"
+  "timestamp": "2026-10-04T01:36:15.573Z"
 }
