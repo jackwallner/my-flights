@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 1500,
-    "speed": 80,
-    "timestamp": "2026-10-04T21:52:24.754Z",
-    "lat": 45.6143,
-    "lon": -122.5321,
-    "precision": "tracked"
+    "distance": 0.43,
+    "altitude": 1175,
+    "speed": 133,
+    "timestamp": "2026-10-05T04:41:05.269Z",
+    "lat": 45.6322,
+    "lon": -122.5256,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N19298",
-    "aircraftType": "C150",
-    "origin": "PDX",
+    "callsign": "N4456S",
+    "aircraftType": "Bona",
+    "origin": "COE",
     "destination": null,
-    "firstSeen": "2026-07-20T19:22:38.070Z"
+    "firstSeen": "2026-06-11T18:37:00.158Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.43,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6143,
-      -122.5321
+      45.6314,
+      -122.5161
+    ],
+    [
+      45.6322,
+      -122.5256
+    ],
+    [
+      45.6331,
+      -122.5352
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-04T21:52:55.547Z"
+  "timestamp": "2026-10-05T04:41:25.814Z"
 }
