@@ -30271,5 +30271,24 @@
     "initialDistance": 0.6944466596891428,
     "initialAltitude": 2400,
     "initialSpeed": 105
+  },
+  {
+    "callsign": "N707GS",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A96F36",
+    "registration": "N707GS",
+    "firstSeen": "2026-10-05T22:01:23.458Z",
+    "lastSeen": "2026-10-05T22:01:23.458Z",
+    "duration": 0,
+    "closestDistance": 0.6912720263014012,
+    "closestAltitude": 4950,
+    "closestSpeed": 86,
+    "initialDistance": 0.6912720263014012,
+    "initialAltitude": 4950,
+    "initialSpeed": 86
   }
 ]

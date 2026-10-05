@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 2400,
-    "speed": 107,
-    "timestamp": "2026-10-05T21:56:02.963Z",
-    "lat": 45.6337,
-    "lon": -122.5327,
-    "precision": "high"
+    "distance": 0.69,
+    "altitude": 4950,
+    "speed": 86,
+    "timestamp": "2026-10-05T22:01:23.463Z",
+    "lat": 45.615,
+    "lon": -122.5207,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N129SA",
-    "aircraftType": "P28R",
-    "origin": "PDX",
+    "callsign": "N707GS",
+    "aircraftType": "C152",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-10-05T21:55:52.691Z"
+    "firstSeen": "2026-10-05T22:01:23.458Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6327,
-      -122.5408
-    ],
-    [
-      45.6337,
-      -122.5327
-    ],
-    [
-      45.6343,
-      -122.5266
-    ],
-    [
-      45.6351,
-      -122.5192
+      45.615,
+      -122.5207
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-05T21:56:34.001Z"
+  "timestamp": "2026-10-05T22:01:54.244Z"
 }
