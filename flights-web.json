@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 2550,
-    "speed": 142,
-    "timestamp": "2026-10-05T17:11:34.265Z",
-    "lat": 45.624,
-    "lon": -122.5212,
-    "precision": "high"
+    "distance": 0.67,
+    "altitude": 400,
+    "speed": 62,
+    "timestamp": "2026-10-05T19:55:25.229Z",
+    "lat": 45.6363,
+    "lon": -122.53,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "TDY1776",
-    "aircraftType": "PC-1",
+    "callsign": "N519F",
+    "aircraftType": "CH7B",
     "origin": "PDX",
-    "destination": "PAE",
-    "firstSeen": "2026-09-03T13:40:35.851Z"
+    "destination": null,
+    "firstSeen": "2026-02-06T20:53:13.130Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6176,
-      -122.5255
-    ],
-    [
-      45.624,
-      -122.5212
-    ],
-    [
-      45.6305,
-      -122.5165
+      45.6363,
+      -122.53
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-05T17:11:54.793Z"
+  "timestamp": "2026-10-05T19:55:55.982Z"
 }
