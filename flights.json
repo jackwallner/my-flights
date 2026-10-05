@@ -30252,5 +30252,24 @@
     "initialDistance": 0.443622465420434,
     "initialAltitude": 7400,
     "initialSpeed": 163
+  },
+  {
+    "callsign": "N129SA",
+    "flightNumber": null,
+    "aircraftType": "P28R",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A076B2",
+    "registration": "N129SA",
+    "firstSeen": "2026-10-05T21:55:52.691Z",
+    "lastSeen": "2026-10-05T21:56:23.720Z",
+    "duration": 31,
+    "closestDistance": 0.5409782542199986,
+    "closestAltitude": 2400,
+    "closestSpeed": 107,
+    "initialDistance": 0.6944466596891428,
+    "initialAltitude": 2400,
+    "initialSpeed": 105
   }
 ]

@@ -1,73 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 200,
-    "speed": 60,
-    "timestamp": "2026-10-05T20:00:23.445Z",
-    "lat": 45.6265,
-    "lon": -122.531,
+    "distance": 0.54,
+    "altitude": 2400,
+    "speed": 107,
+    "timestamp": "2026-10-05T21:56:02.963Z",
+    "lat": 45.6337,
+    "lon": -122.5327,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N519F",
-    "aircraftType": "CH7B",
+    "callsign": "N129SA",
+    "aircraftType": "P28R",
     "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "firstSeen": "2026-10-05T21:55:52.691Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.54,
   "isOverhead": true,
-  "pathSnapshots": 12,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6354,
-      -122.5234
+      45.6327,
+      -122.5408
     ],
     [
-      45.6353,
-      -122.5248
+      45.6337,
+      -122.5327
     ],
     [
-      45.6347,
-      -122.5332
+      45.6343,
+      -122.5266
     ],
     [
-      45.6326,
-      -122.5377
-    ],
-    [
-      45.6286,
-      -122.5396
-    ],
-    [
-      45.626,
-      -122.5399
-    ],
-    [
-      45.6233,
-      -122.5404
-    ],
-    [
-      45.6195,
-      -122.54
-    ],
-    [
-      45.6179,
-      -122.5363
-    ],
-    [
-      45.6194,
-      -122.5325
-    ],
-    [
-      45.6236,
-      -122.5314
-    ],
-    [
-      45.6265,
-      -122.531
+      45.6351,
+      -122.5192
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-05T20:00:23.446Z"
+  "status": "completed",
+  "timestamp": "2026-10-05T21:56:34.001Z"
 }
