@@ -1,69 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 200,
-    "speed": 62,
-    "timestamp": "2026-10-06T19:04:47.488Z",
-    "lat": 45.6265,
-    "lon": -122.531,
+    "distance": 0.13,
+    "altitude": 4100,
+    "speed": 125,
+    "timestamp": "2026-10-06T19:13:52.468Z",
+    "lat": 45.6261,
+    "lon": -122.5252,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N519F",
-    "aircraftType": "CH7B",
-    "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "callsign": "N648SP",
+    "aircraftType": "C172",
+    "origin": "HIO",
+    "destination": "HIO",
+    "firstSeen": "2026-04-26T20:18:52.171Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 11,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6355,
-      -122.528
+      45.6316,
+      -122.521
     ],
     [
-      45.635,
-      -122.5331
+      45.6261,
+      -122.5252
     ],
     [
-      45.6341,
-      -122.5355
+      45.6208,
+      -122.5296
     ],
     [
-      45.6309,
-      -122.5386
-    ],
-    [
-      45.6268,
-      -122.5394
-    ],
-    [
-      45.6235,
-      -122.54
-    ],
-    [
-      45.6202,
-      -122.5388
-    ],
-    [
-      45.6195,
-      -122.5342
-    ],
-    [
-      45.6205,
-      -122.5324
-    ],
-    [
-      45.6236,
-      -122.5314
-    ],
-    [
-      45.6265,
-      -122.531
+      45.6156,
+      -122.5341
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-06T19:04:57.736Z"
+  "timestamp": "2026-10-06T19:14:23.426Z"
 }
