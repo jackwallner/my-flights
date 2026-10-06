@@ -1,33 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 3800,
-    "speed": 112,
-    "timestamp": "2026-10-06T19:55:31.761Z",
-    "lat": 45.63,
-    "lon": -122.5409,
-    "precision": "tracked"
+    "distance": 0.11,
+    "altitude": 4925,
+    "speed": 78,
+    "timestamp": "2026-10-06T20:36:59.253Z",
+    "lat": 45.6244,
+    "lon": -122.5258,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N65KD",
-    "aircraftType": "C172",
-    "origin": null,
+    "callsign": "N5124B",
+    "aircraftType": "C152",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-04-19T19:59:31.010Z"
+    "firstSeen": "2026-01-31T21:40:44.690Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6339,
-      -122.5375
+      45.618,
+      -122.5399
     ],
     [
-      45.63,
-      -122.5409
+      45.6203,
+      -122.5351
+    ],
+    [
+      45.6222,
+      -122.5305
+    ],
+    [
+      45.6244,
+      -122.5258
+    ],
+    [
+      45.626,
+      -122.5217
+    ],
+    [
+      45.6282,
+      -122.5167
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-06T19:55:52.283Z"
+  "timestamp": "2026-10-06T20:37:30.030Z"
 }
