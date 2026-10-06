@@ -1,49 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 4925,
-    "speed": 78,
-    "timestamp": "2026-10-06T20:36:59.253Z",
-    "lat": 45.6244,
-    "lon": -122.5258,
-    "precision": "high"
+    "distance": 0.62,
+    "altitude": 2350,
+    "speed": 133,
+    "timestamp": "2026-10-06T20:57:52.031Z",
+    "lat": 45.6188,
+    "lon": -122.5396,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N5124B",
-    "aircraftType": "C152",
-    "origin": "HIO",
+    "callsign": "N72ZG",
+    "aircraftType": "T206",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-01-31T21:40:44.690Z"
+    "firstSeen": "2026-10-06T20:57:52.024Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.62,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.618,
-      -122.5399
-    ],
-    [
-      45.6203,
-      -122.5351
-    ],
-    [
-      45.6222,
-      -122.5305
-    ],
-    [
-      45.6244,
-      -122.5258
-    ],
-    [
-      45.626,
-      -122.5217
-    ],
-    [
-      45.6282,
-      -122.5167
+      45.6188,
+      -122.5396
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-06T20:37:30.030Z"
+  "status": "tracking",
+  "timestamp": "2026-10-06T20:57:52.031Z"
 }
