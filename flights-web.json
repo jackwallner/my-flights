@@ -1,53 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.1,
-    "altitude": 2900,
-    "speed": 72,
-    "timestamp": "2026-10-05T23:54:18.902Z",
-    "lat": 45.6237,
-    "lon": -122.5273,
+    "distance": 0.5,
+    "altitude": 4850,
+    "speed": 97,
+    "timestamp": "2026-10-06T00:52:47.748Z",
+    "lat": 45.6219,
+    "lon": -122.5391,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N7668U",
-    "aircraftType": "C150",
+    "callsign": "N910TW",
+    "aircraftType": "C172",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-06-15T20:44:25.390Z"
+    "firstSeen": "2026-06-23T23:26:59.804Z"
   },
-  "overheadScore": 0.1,
+  "overheadScore": 0.5,
   "isOverhead": true,
-  "pathSnapshots": 7,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6305,
-      -122.5152
+      45.617,
+      -122.5381
     ],
     [
-      45.6284,
-      -122.5193
+      45.6219,
+      -122.5391
     ],
     [
-      45.6256,
-      -122.5239
-    ],
-    [
-      45.6237,
-      -122.5273
-    ],
-    [
-      45.6215,
-      -122.5317
-    ],
-    [
-      45.6195,
-      -122.5358
-    ],
-    [
-      45.6175,
-      -122.5398
+      45.6251,
+      -122.5414
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-05T23:54:59.945Z"
+  "timestamp": "2026-10-06T00:53:08.282Z"
 }
