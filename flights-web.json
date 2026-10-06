@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 2350,
-    "speed": 134,
-    "timestamp": "2026-10-06T20:58:02.317Z",
-    "lat": 45.6211,
-    "lon": -122.5312,
+    "distance": 0.48,
+    "altitude": 2100,
+    "speed": 101,
+    "timestamp": "2026-10-06T22:23:04.008Z",
+    "lat": 45.6174,
+    "lon": -122.53,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N72ZG",
-    "aircraftType": "T206",
-    "origin": null,
+    "callsign": "N8741V",
+    "aircraftType": "CH7B",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-10-06T20:57:52.024Z"
+    "firstSeen": "2026-03-01T00:03:19.190Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6188,
-      -122.5396
+      45.6173,
+      -122.5175
     ],
     [
-      45.6211,
-      -122.5312
+      45.6175,
+      -122.5253
     ],
     [
-      45.6209,
-      -122.5227
+      45.6174,
+      -122.53
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-06T20:58:22.864Z"
+  "timestamp": "2026-10-06T22:23:14.262Z"
 }
