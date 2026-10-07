@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 2100,
-    "speed": 101,
-    "timestamp": "2026-10-06T22:23:04.008Z",
-    "lat": 45.6174,
-    "lon": -122.53,
+    "distance": 0.3,
+    "altitude": 2275,
+    "speed": 112,
+    "timestamp": "2026-10-07T00:15:31.821Z",
+    "lat": 45.6208,
+    "lon": -122.5252,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N8741V",
-    "aircraftType": "CH7B",
-    "origin": "TTD",
+    "callsign": "N624ST",
+    "aircraftType": "RV12",
+    "origin": "OTK",
     "destination": null,
-    "firstSeen": "2026-03-01T00:03:19.190Z"
+    "firstSeen": "2026-02-02T21:45:58.538Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6173,
-      -122.5175
+      45.6183,
+      -122.5384
     ],
     [
-      45.6175,
-      -122.5253
+      45.6203,
+      -122.5329
     ],
     [
-      45.6174,
-      -122.53
+      45.6208,
+      -122.5252
+    ],
+    [
+      45.6209,
+      -122.5187
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-06T22:23:14.262Z"
+  "timestamp": "2026-10-07T00:15:52.343Z"
 }
