@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.54,
-    "altitude": 1025,
-    "speed": 105,
-    "timestamp": "2026-10-07T18:46:57.176Z",
-    "lat": 45.6177,
-    "lon": -122.535,
+    "distance": 0.31,
+    "altitude": 850,
+    "speed": 146,
+    "timestamp": "2026-10-07T19:35:52.598Z",
+    "lat": 45.629,
+    "lon": -122.5229,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N2181N",
-    "aircraftType": "C182",
-    "origin": null,
+    "callsign": "N589RC",
+    "aircraftType": "SR22",
+    "origin": "SFF",
     "destination": null,
-    "firstSeen": "2026-03-18T16:46:15.311Z"
+    "firstSeen": "2026-04-08T18:43:11.973Z"
   },
-  "overheadScore": 0.54,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6144,
-      -122.5309
+      45.6292,
+      -122.518
     ],
     [
-      45.6177,
-      -122.535
+      45.629,
+      -122.5229
     ],
     [
-      45.621,
-      -122.5398
+      45.6287,
+      -122.5348
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-07T18:47:17.701Z"
+  "timestamp": "2026-10-07T19:36:13.095Z"
 }
