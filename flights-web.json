@@ -6,7 +6,7 @@
     "timestamp": "2026-10-07T18:41:59.382Z",
     "lat": 45.6282,
     "lon": -122.5302,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N832KX",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.633,
@@ -26,8 +26,16 @@
     [
       45.6282,
       -122.5302
+    ],
+    [
+      45.6234,
+      -122.535
+    ],
+    [
+      45.6195,
+      -122.5388
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-07T18:41:59.382Z"
+  "status": "completed",
+  "timestamp": "2026-10-07T18:42:30.184Z"
 }
