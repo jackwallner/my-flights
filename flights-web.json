@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 2275,
-    "speed": 112,
-    "timestamp": "2026-10-07T00:15:31.821Z",
-    "lat": 45.6208,
-    "lon": -122.5252,
+    "distance": 0.19,
+    "altitude": 1575,
+    "speed": 87,
+    "timestamp": "2026-10-07T01:26:23.205Z",
+    "lat": 45.6279,
+    "lon": -122.5256,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N624ST",
-    "aircraftType": "RV12",
-    "origin": "OTK",
+    "callsign": "N917KF",
+    "aircraftType": "R22",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-02T21:45:58.538Z"
+    "firstSeen": "2026-02-13T18:16:54.196Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.19,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6183,
-      -122.5384
+      45.6326,
+      -122.5355
     ],
     [
-      45.6203,
-      -122.5329
+      45.6306,
+      -122.5313
     ],
     [
-      45.6208,
-      -122.5252
-    ],
-    [
-      45.6209,
-      -122.5187
+      45.6279,
+      -122.5256
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-07T00:15:52.343Z"
+  "status": "tracking",
+  "timestamp": "2026-10-07T01:26:23.205Z"
 }
