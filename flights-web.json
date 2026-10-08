@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.12,
-    "altitude": 2075,
-    "speed": 89,
-    "timestamp": "2026-10-08T23:44:06.166Z",
-    "lat": 45.6249,
-    "lon": -122.5253,
+    "distance": 0.49,
+    "altitude": 7500,
+    "speed": 103,
+    "timestamp": "2026-10-08T23:52:30.063Z",
+    "lat": 45.6173,
+    "lon": -122.5263,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N4056V",
-    "aircraftType": "R44",
-    "origin": "CVO",
-    "destination": "HIO",
-    "firstSeen": "2026-02-07T00:55:41.449Z"
+    "callsign": "N62407",
+    "aircraftType": "C172",
+    "origin": "LWS",
+    "destination": null,
+    "firstSeen": "2026-04-05T02:36:38.567Z"
   },
-  "overheadScore": 0.12,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.631,
-      -122.5349
+      45.6205,
+      -122.5137
     ],
     [
-      45.6282,
-      -122.5304
+      45.6188,
+      -122.5207
     ],
     [
-      45.6249,
-      -122.5253
+      45.6173,
+      -122.5263
     ],
     [
-      45.6227,
-      -122.5217
-    ],
-    [
-      45.6196,
-      -122.5171
+      45.6155,
+      -122.5332
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-08T23:44:36.936Z"
+  "timestamp": "2026-10-08T23:52:50.636Z"
 }
