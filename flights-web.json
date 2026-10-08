@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.47,
-    "altitude": 7400,
-    "speed": 146,
-    "timestamp": "2026-10-08T19:03:29.405Z",
-    "lat": 45.627,
-    "lon": -122.539,
+    "distance": 0.48,
+    "altitude": 3425,
+    "speed": 114,
+    "timestamp": "2026-10-08T19:53:39.967Z",
+    "lat": 45.6175,
+    "lon": -122.5304,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N899MD",
-    "aircraftType": "T210",
-    "origin": "SLE",
+    "callsign": "N6552U",
+    "aircraftType": "M20P",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-06-24T18:07:05.384Z"
+    "firstSeen": "2026-02-06T21:45:23.153Z"
   },
-  "overheadScore": 0.47,
+  "overheadScore": 0.48,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6193,
-      -122.5408
+      45.6187,
+      -122.5383
     ],
     [
-      45.627,
-      -122.539
+      45.6175,
+      -122.5304
     ],
     [
-      45.634,
-      -122.5377
+      45.6164,
+      -122.5228
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-08T19:03:49.929Z"
+  "timestamp": "2026-10-08T19:54:00.465Z"
 }
