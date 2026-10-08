@@ -1,45 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 775,
+    "distance": 0.12,
+    "altitude": 2075,
     "speed": 89,
-    "timestamp": "2026-10-08T20:55:14.909Z",
-    "lat": 45.6299,
-    "lon": -122.5262,
+    "timestamp": "2026-10-08T23:44:06.166Z",
+    "lat": 45.6249,
+    "lon": -122.5253,
     "precision": "high"
   },
   "flight": {
-    "callsign": "R21284",
-    "aircraftType": "H60",
-    "origin": "OTK",
-    "destination": null,
-    "firstSeen": "2026-10-08T20:54:54.383Z"
+    "callsign": "N4056V",
+    "aircraftType": "R44",
+    "origin": "CVO",
+    "destination": "HIO",
+    "firstSeen": "2026-02-07T00:55:41.449Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.12,
   "isOverhead": true,
   "pathSnapshots": 5,
   "trail": [
     [
-      45.6346,
-      -122.5359
+      45.631,
+      -122.5349
     ],
     [
-      45.6323,
-      -122.5311
+      45.6282,
+      -122.5304
     ],
     [
-      45.6299,
-      -122.5262
+      45.6249,
+      -122.5253
     ],
     [
-      45.6275,
-      -122.5211
+      45.6227,
+      -122.5217
     ],
     [
-      45.6251,
-      -122.5161
+      45.6196,
+      -122.5171
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-08T20:55:45.731Z"
+  "timestamp": "2026-10-08T23:44:36.936Z"
 }
