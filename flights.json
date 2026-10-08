@@ -30328,5 +30328,24 @@
     "initialDistance": 0.39783372798400146,
     "initialAltitude": 1325,
     "initialSpeed": 141
+  },
+  {
+    "callsign": "R21284",
+    "flightNumber": null,
+    "aircraftType": "H60",
+    "aircraftName": null,
+    "origin": "OTK",
+    "destination": null,
+    "icao": "AFF47E",
+    "registration": "24-21284",
+    "firstSeen": "2026-10-08T20:54:54.383Z",
+    "lastSeen": "2026-10-08T20:55:14.903Z",
+    "duration": 21,
+    "closestDistance": 0.28874176450193145,
+    "closestAltitude": 775,
+    "closestSpeed": 89,
+    "initialDistance": 0.6480936137947649,
+    "initialAltitude": 725,
+    "initialSpeed": 90
   }
 ]

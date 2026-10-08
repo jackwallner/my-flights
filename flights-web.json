@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 3425,
-    "speed": 114,
-    "timestamp": "2026-10-08T19:53:39.967Z",
-    "lat": 45.6175,
-    "lon": -122.5304,
+    "distance": 0.29,
+    "altitude": 775,
+    "speed": 89,
+    "timestamp": "2026-10-08T20:55:14.909Z",
+    "lat": 45.6299,
+    "lon": -122.5262,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N6552U",
-    "aircraftType": "M20P",
-    "origin": "PDX",
+    "callsign": "R21284",
+    "aircraftType": "H60",
+    "origin": "OTK",
     "destination": null,
-    "firstSeen": "2026-02-06T21:45:23.153Z"
+    "firstSeen": "2026-10-08T20:54:54.383Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.29,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6187,
-      -122.5383
+      45.6346,
+      -122.5359
     ],
     [
-      45.6175,
-      -122.5304
+      45.6323,
+      -122.5311
     ],
     [
-      45.6164,
-      -122.5228
+      45.6299,
+      -122.5262
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-08T19:54:00.465Z"
+  "status": "tracking",
+  "timestamp": "2026-10-08T20:55:14.909Z"
 }
