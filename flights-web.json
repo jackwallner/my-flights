@@ -1,53 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.12,
-    "altitude": 1500,
-    "speed": 95,
-    "timestamp": "2026-10-08T14:50:36.071Z",
-    "lat": 45.6267,
-    "lon": -122.526,
+    "distance": 0.49,
+    "altitude": 7500,
+    "speed": 106,
+    "timestamp": "2026-10-08T17:28:17.407Z",
+    "lat": 45.633,
+    "lon": -122.5318,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N8741V",
-    "aircraftType": "CH7B",
+    "callsign": "N62407",
+    "aircraftType": "C172",
     "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-03-01T00:03:19.190Z"
+    "firstSeen": "2026-04-05T02:36:38.567Z"
   },
-  "overheadScore": 0.12,
+  "overheadScore": 0.49,
   "isOverhead": true,
-  "pathSnapshots": 7,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6217,
-      -122.5372
+      45.6282,
+      -122.544
     ],
     [
-      45.6234,
-      -122.5335
+      45.6308,
+      -122.5371
     ],
     [
-      45.6267,
-      -122.526
+      45.633,
+      -122.5318
     ],
     [
-      45.628,
-      -122.5221
-    ],
-    [
-      45.6292,
-      -122.5174
-    ],
-    [
-      45.6292,
-      -122.5174
-    ],
-    [
-      45.6292,
-      -122.5174
+      45.6359,
+      -122.525
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-08T14:51:27.369Z"
+  "timestamp": "2026-10-08T17:28:37.930Z"
 }
