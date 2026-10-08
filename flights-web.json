@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.25,
+    "distance": 0.12,
     "altitude": 1500,
     "speed": 95,
-    "timestamp": "2026-10-08T14:50:25.792Z",
-    "lat": 45.6234,
-    "lon": -122.5335,
-    "precision": "tracked"
+    "timestamp": "2026-10-08T14:50:36.071Z",
+    "lat": 45.6267,
+    "lon": -122.526,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N8741V",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-03-01T00:03:19.190Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 7,
   "trail": [
     [
       45.6217,
@@ -26,8 +26,28 @@
     [
       45.6234,
       -122.5335
+    ],
+    [
+      45.6267,
+      -122.526
+    ],
+    [
+      45.628,
+      -122.5221
+    ],
+    [
+      45.6292,
+      -122.5174
+    ],
+    [
+      45.6292,
+      -122.5174
+    ],
+    [
+      45.6292,
+      -122.5174
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-08T14:50:25.792Z"
+  "status": "completed",
+  "timestamp": "2026-10-08T14:51:27.369Z"
 }
