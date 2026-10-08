@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.21,
-    "altitude": 1400,
-    "speed": 167,
-    "timestamp": "2026-10-08T00:34:34.170Z",
-    "lat": 45.6234,
-    "lon": -122.5323,
-    "precision": "tracked"
+    "distance": 0.55,
+    "altitude": 2600,
+    "speed": 93,
+    "timestamp": "2026-10-08T01:14:37.442Z",
+    "lat": 45.6171,
+    "lon": -122.5224,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "AMF1991",
-    "aircraftType": "BE99",
-    "origin": "AST",
-    "destination": "PDX",
-    "firstSeen": "2026-04-11T00:40:55.395Z"
+    "callsign": "N7668U",
+    "aircraftType": "C150",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-06-15T20:44:25.390Z"
   },
-  "overheadScore": 0.21,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6318,
+      45.6151,
       -122.5291
     ],
     [
-      45.6234,
-      -122.5323
+      45.6171,
+      -122.5224
+    ],
+    [
+      45.6187,
+      -122.5176
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-08T00:34:54.737Z"
+  "status": "tracking",
+  "timestamp": "2026-10-08T01:14:47.707Z"
 }
