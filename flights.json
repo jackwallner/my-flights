@@ -30309,5 +30309,24 @@
     "initialDistance": 0.6197677678286481,
     "initialAltitude": 2350,
     "initialSpeed": 133
+  },
+  {
+    "callsign": "N700MM",
+    "flightNumber": null,
+    "aircraftType": "EPIC",
+    "aircraftName": null,
+    "origin": "RDM",
+    "destination": null,
+    "icao": "A955AD",
+    "registration": "N700MM",
+    "firstSeen": "2026-10-08T14:15:11.925Z",
+    "lastSeen": "2026-10-08T14:15:32.448Z",
+    "duration": 21,
+    "closestDistance": 0.3770803418506026,
+    "closestAltitude": 1350,
+    "closestSpeed": 136,
+    "initialDistance": 0.39783372798400146,
+    "initialAltitude": 1325,
+    "initialSpeed": 141
   }
 ]

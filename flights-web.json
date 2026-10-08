@@ -1,69 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 1625,
-    "speed": 74,
-    "timestamp": "2026-10-08T03:58:07.533Z",
-    "lat": 45.634,
-    "lon": -122.5331,
+    "distance": 0.38,
+    "altitude": 1350,
+    "speed": 136,
+    "timestamp": "2026-10-08T14:15:22.200Z",
+    "lat": 45.619,
+    "lon": -122.5281,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N5124B",
-    "aircraftType": "C152",
-    "origin": "PWT",
+    "callsign": "N700MM",
+    "aircraftType": "EPIC",
+    "origin": "RDM",
     "destination": null,
-    "firstSeen": "2026-01-31T21:40:44.690Z"
+    "firstSeen": "2026-10-08T14:15:11.925Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 11,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6263,
-      -122.544
+      45.6222,
+      -122.5365
     ],
     [
-      45.6298,
-      -122.541
+      45.619,
+      -122.5281
     ],
     [
-      45.6321,
-      -122.5381
-    ],
-    [
-      45.634,
-      -122.5331
-    ],
-    [
-      45.6347,
-      -122.5288
-    ],
-    [
-      45.6347,
-      -122.5237
-    ],
-    [
-      45.6336,
-      -122.5186
-    ],
-    [
-      45.6316,
-      -122.5153
-    ],
-    [
-      45.6283,
-      -122.5132
-    ],
-    [
-      45.6252,
-      -122.5129
-    ],
-    [
-      45.6214,
-      -122.5131
+      45.6165,
+      -122.5217
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-08T03:59:19.420Z"
+  "status": "completed",
+  "timestamp": "2026-10-08T14:15:42.704Z"
 }
