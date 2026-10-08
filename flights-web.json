@@ -1,49 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 2600,
-    "speed": 74,
-    "timestamp": "2026-10-08T00:07:10.691Z",
-    "lat": 45.6241,
-    "lon": -122.5252,
-    "precision": "high"
+    "distance": 0.21,
+    "altitude": 1400,
+    "speed": 167,
+    "timestamp": "2026-10-08T00:34:34.170Z",
+    "lat": 45.6234,
+    "lon": -122.5323,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7668U",
-    "aircraftType": "C150",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-06-15T20:44:25.390Z"
+    "callsign": "AMF1991",
+    "aircraftType": "BE99",
+    "origin": "AST",
+    "destination": "PDX",
+    "firstSeen": "2026-04-11T00:40:55.395Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.21,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6285,
-      -122.5159
+      45.6318,
+      -122.5291
     ],
     [
-      45.6262,
-      -122.5207
-    ],
-    [
-      45.6241,
-      -122.5252
-    ],
-    [
-      45.6222,
-      -122.5294
-    ],
-    [
-      45.621,
+      45.6234,
       -122.5323
-    ],
-    [
-      45.6187,
-      -122.5376
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-08T00:07:51.837Z"
+  "status": "tracking",
+  "timestamp": "2026-10-08T00:34:34.170Z"
 }
