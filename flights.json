@@ -30347,5 +30347,24 @@
     "initialDistance": 0.6480936137947649,
     "initialAltitude": 725,
     "initialSpeed": 90
+  },
+  {
+    "callsign": "N3824D",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A465A0",
+    "registration": "N3824D",
+    "firstSeen": "2026-10-09T01:45:45.539Z",
+    "lastSeen": "2026-10-09T01:45:45.539Z",
+    "duration": 0,
+    "closestDistance": 0.45318382306231947,
+    "closestAltitude": 6500,
+    "closestSpeed": 132,
+    "initialDistance": 0.45318382306231947,
+    "initialAltitude": 6500,
+    "initialSpeed": 132
   }
 ]
