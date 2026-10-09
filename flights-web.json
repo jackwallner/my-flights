@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 6500,
-    "speed": 132,
-    "timestamp": "2026-10-09T01:45:55.820Z",
+    "distance": 0.35,
+    "altitude": 4025,
+    "speed": 115,
+    "timestamp": "2026-10-09T18:58:24.120Z",
     "lat": 45.6259,
-    "lon": -122.5311,
+    "lon": -122.5365,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N3824D",
-    "aircraftType": "C182",
+    "callsign": "N834KX",
+    "aircraftType": "C172",
     "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-10-09T01:45:45.539Z"
+    "destination": "KLS",
+    "firstSeen": "2026-06-24T20:22:49.072Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6255,
-      -122.5389
+      45.6312,
+      -122.5347
     ],
     [
       45.6259,
-      -122.5311
+      -122.5365
     ],
     [
-      45.6263,
-      -122.5221
-    ],
-    [
-      45.6268,
-      -122.5129
+      45.6203,
+      -122.5384
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-09T01:46:26.716Z"
+  "timestamp": "2026-10-09T18:58:44.624Z"
 }
