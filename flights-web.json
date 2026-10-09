@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.45,
+    "distance": 0.13,
     "altitude": 6500,
     "speed": 132,
-    "timestamp": "2026-10-09T01:45:45.555Z",
-    "lat": 45.6255,
-    "lon": -122.5389,
-    "precision": "tracked"
+    "timestamp": "2026-10-09T01:45:55.820Z",
+    "lat": 45.6259,
+    "lon": -122.5311,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N3824D",
@@ -15,15 +15,27 @@
     "destination": null,
     "firstSeen": "2026-10-09T01:45:45.539Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6255,
       -122.5389
+    ],
+    [
+      45.6259,
+      -122.5311
+    ],
+    [
+      45.6263,
+      -122.5221
+    ],
+    [
+      45.6268,
+      -122.5129
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-09T01:45:45.555Z"
+  "status": "completed",
+  "timestamp": "2026-10-09T01:46:26.716Z"
 }
