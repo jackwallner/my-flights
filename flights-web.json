@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 4075,
-    "speed": 216,
-    "timestamp": "2026-10-10T22:45:24.422Z",
-    "lat": 45.6295,
-    "lon": -122.5256,
+    "distance": 0.66,
+    "altitude": 2275,
+    "speed": 110,
+    "timestamp": "2026-10-10T23:22:51.758Z",
+    "lat": 45.615,
+    "lon": -122.534,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
+    "callsign": "N9185H",
+    "aircraftType": "C172",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6295,
-      -122.5256
-    ],
-    [
-      45.6195,
-      -122.5306
+      45.615,
+      -122.534
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-10T22:45:55.206Z"
+  "status": "tracking",
+  "timestamp": "2026-10-10T23:22:51.758Z"
 }
