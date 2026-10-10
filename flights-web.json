@@ -1,53 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.05,
-    "altitude": 1500,
-    "speed": 68,
-    "timestamp": "2026-10-10T19:46:06.460Z",
-    "lat": 45.6245,
-    "lon": -122.5281,
+    "distance": 0.26,
+    "altitude": 1425,
+    "speed": 134,
+    "timestamp": "2026-10-10T22:01:37.496Z",
+    "lat": 45.6217,
+    "lon": -122.5245,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N917KF",
-    "aircraftType": "R22",
-    "origin": "TTD",
+    "callsign": "N167DR",
+    "aircraftType": "RV7",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-13T18:16:54.196Z"
+    "firstSeen": "2026-03-20T03:01:20.375Z"
   },
-  "overheadScore": 0.05,
+  "overheadScore": 0.26,
   "isOverhead": true,
-  "pathSnapshots": 7,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6316,
-      -122.537
+      45.6184,
+      -122.5333
     ],
     [
-      45.6289,
-      -122.5334
+      45.6217,
+      -122.5245
     ],
     [
-      45.6269,
-      -122.5309
-    ],
-    [
-      45.6245,
-      -122.5281
-    ],
-    [
-      45.6219,
-      -122.5246
-    ],
-    [
-      45.6198,
-      -122.5218
-    ],
-    [
-      45.6175,
-      -122.5191
+      45.6235,
+      -122.5173
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-10T19:46:47.518Z"
+  "timestamp": "2026-10-10T22:01:58.036Z"
 }
