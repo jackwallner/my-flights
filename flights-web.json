@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.67,
-    "altitude": 7025,
-    "speed": 142,
-    "timestamp": "2026-10-09T19:19:47.196Z",
-    "lat": 45.6277,
-    "lon": -122.5438,
-    "precision": "tracked"
+    "distance": 0.27,
+    "altitude": 2800,
+    "speed": 106,
+    "timestamp": "2026-10-10T01:34:43.707Z",
+    "lat": 45.6214,
+    "lon": -122.525,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N721CD",
-    "aircraftType": "S22T",
-    "origin": "PDX",
+    "callsign": "N7353T",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-01T00:18:05.830Z"
+    "firstSeen": "2026-04-29T16:43:55.072Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.27,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6277,
-      -122.5438
+      45.62,
+      -122.5397
+    ],
+    [
+      45.6209,
+      -122.5327
+    ],
+    [
+      45.6214,
+      -122.525
+    ],
+    [
+      45.6217,
+      -122.5193
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-09T19:20:17.972Z"
+  "timestamp": "2026-10-10T01:35:04.259Z"
 }
