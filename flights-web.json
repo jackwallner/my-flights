@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 2800,
-    "speed": 106,
-    "timestamp": "2026-10-10T01:34:43.707Z",
-    "lat": 45.6214,
-    "lon": -122.525,
+    "distance": 0.34,
+    "altitude": 2225,
+    "speed": 177,
+    "timestamp": "2026-10-10T03:55:03.011Z",
+    "lat": 45.6276,
+    "lon": -122.5208,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N7353T",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-04-29T16:43:55.072Z"
+    "callsign": "TDY1337",
+    "aircraftType": "PC-1",
+    "origin": "BFI",
+    "destination": "PDX",
+    "firstSeen": "2026-09-17T01:47:34.777Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.34,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.62,
-      -122.5397
+      45.6362,
+      -122.5238
     ],
     [
-      45.6209,
-      -122.5327
+      45.6276,
+      -122.5208
     ],
     [
-      45.6214,
-      -122.525
-    ],
-    [
-      45.6217,
-      -122.5193
+      45.6189,
+      -122.5181
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-10T01:35:04.259Z"
+  "timestamp": "2026-10-10T03:55:23.564Z"
 }
