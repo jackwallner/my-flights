@@ -1,33 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 4075,
-    "speed": 102,
-    "timestamp": "2026-10-10T15:53:36.724Z",
-    "lat": 45.6189,
-    "lon": -122.5152,
-    "precision": "tracked"
+    "distance": 0.05,
+    "altitude": 1500,
+    "speed": 68,
+    "timestamp": "2026-10-10T19:46:06.460Z",
+    "lat": 45.6245,
+    "lon": -122.5281,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
+    "callsign": "N917KF",
+    "aircraftType": "R22",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "firstSeen": "2026-02-13T18:16:54.196Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.05,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6189,
-      -122.5152
+      45.6316,
+      -122.537
     ],
     [
-      45.6151,
-      -122.521
+      45.6289,
+      -122.5334
+    ],
+    [
+      45.6269,
+      -122.5309
+    ],
+    [
+      45.6245,
+      -122.5281
+    ],
+    [
+      45.6219,
+      -122.5246
+    ],
+    [
+      45.6198,
+      -122.5218
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-10T15:54:07.469Z"
+  "status": "tracking",
+  "timestamp": "2026-10-10T19:46:26.978Z"
 }
