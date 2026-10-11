@@ -30385,5 +30385,24 @@
     "initialDistance": 0.5970738105704171,
     "initialAltitude": 3000,
     "initialSpeed": 145
+  },
+  {
+    "callsign": "N226DM",
+    "flightNumber": null,
+    "aircraftType": "C77R",
+    "aircraftName": null,
+    "origin": "QSA",
+    "destination": null,
+    "icao": "A1F7A2",
+    "registration": "N226DM",
+    "firstSeen": "2026-10-11T22:00:34.793Z",
+    "lastSeen": "2026-10-11T22:01:05.620Z",
+    "duration": 31,
+    "closestDistance": 0.15228971632511168,
+    "closestAltitude": 5600,
+    "closestSpeed": 144,
+    "initialDistance": 0.5244372394092461,
+    "initialAltitude": 5600,
+    "initialSpeed": 139
   }
 ]
