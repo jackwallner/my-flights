@@ -6,7 +6,7 @@
     "timestamp": "2026-10-11T16:42:31.808Z",
     "lat": 45.6256,
     "lon": -122.5289,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "TDY1776",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.04,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6188,
@@ -26,8 +26,12 @@
     [
       45.6256,
       -122.5289
+    ],
+    [
+      45.6312,
+      -122.5258
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-11T16:42:31.808Z"
+  "status": "completed",
+  "timestamp": "2026-10-11T16:42:52.382Z"
 }
