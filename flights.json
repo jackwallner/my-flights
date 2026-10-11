@@ -30366,5 +30366,24 @@
     "initialDistance": 0.45318382306231947,
     "initialAltitude": 6500,
     "initialSpeed": 132
+  },
+  {
+    "callsign": "BTQ358",
+    "flightNumber": "4B358",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "PDT",
+    "icao": "A5D54E",
+    "registration": "N475SS",
+    "firstSeen": "2026-10-11T17:58:55.115Z",
+    "lastSeen": "2026-10-11T17:59:15.623Z",
+    "duration": 21,
+    "closestDistance": 0.2556695172378465,
+    "closestAltitude": 3300,
+    "closestSpeed": 147,
+    "initialDistance": 0.5970738105704171,
+    "initialAltitude": 3000,
+    "initialSpeed": 145
   }
 ]
