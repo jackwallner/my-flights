@@ -1,37 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 2775,
-    "speed": 167,
-    "timestamp": "2026-10-12T16:38:13.314Z",
-    "lat": 45.6288,
-    "lon": -122.5327,
+    "distance": 0.24,
+    "altitude": 2050,
+    "speed": 64,
+    "timestamp": "2026-10-12T16:43:52.615Z",
+    "lat": 45.6292,
+    "lon": -122.5269,
     "precision": "high"
   },
   "flight": {
-    "callsign": "TDY1992",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-08-20T13:45:30.631Z"
+    "callsign": "N7274G",
+    "aircraftType": "C150",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-07T04:51:24.606Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.622,
-      -122.5375
+      45.6315,
+      -122.5358
     ],
     [
-      45.6288,
-      -122.5327
+      45.63,
+      -122.532
     ],
     [
-      45.6349,
-      -122.5282
+      45.6292,
+      -122.5269
+    ],
+    [
+      45.6285,
+      -122.5226
+    ],
+    [
+      45.6278,
+      -122.5185
+    ],
+    [
+      45.627,
+      -122.5151
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-12T16:38:33.883Z"
+  "timestamp": "2026-10-12T16:44:33.686Z"
 }
