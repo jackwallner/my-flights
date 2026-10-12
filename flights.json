@@ -30423,5 +30423,24 @@
     "initialDistance": 0.45805664248361927,
     "initialAltitude": 3800,
     "initialSpeed": 161
+  },
+  {
+    "callsign": "N55398",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "YKM",
+    "destination": null,
+    "icao": "A70E44",
+    "registration": "N55398",
+    "firstSeen": "2026-10-12T21:55:14.621Z",
+    "lastSeen": "2026-10-12T21:55:45.413Z",
+    "duration": 31,
+    "closestDistance": 0.07155394794070392,
+    "closestAltitude": 7375,
+    "closestSpeed": 104,
+    "initialDistance": 0.5344380515982082,
+    "initialAltitude": 7575,
+    "initialSpeed": 103
   }
 ]
