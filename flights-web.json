@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 500,
-    "speed": 60,
-    "timestamp": "2026-10-12T19:24:57.803Z",
-    "lat": 45.6261,
-    "lon": -122.5318,
+    "distance": 0.39,
+    "altitude": 1900,
+    "speed": 112,
+    "timestamp": "2026-10-12T19:25:59.363Z",
+    "lat": 45.6318,
+    "lon": -122.5271,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N519F",
-    "aircraftType": "CH7B",
-    "origin": "PDX",
+    "callsign": "N2414T",
+    "aircraftType": "BRAV",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-06T20:53:13.130Z"
+    "firstSeen": "2026-03-28T01:34:36.194Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.39,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6261,
-      -122.5318
+      45.6321,
+      -122.5188
     ],
     [
-      45.6231,
-      -122.5324
+      45.6318,
+      -122.5271
     ],
     [
-      45.6199,
-      -122.531
+      45.6315,
+      -122.5352
     ],
     [
-      45.6181,
-      -122.5282
+      45.6311,
+      -122.5418
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-12T19:25:28.584Z"
+  "status": "completed",
+  "timestamp": "2026-10-12T19:26:30.133Z"
 }
