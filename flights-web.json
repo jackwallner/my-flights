@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 5600,
-    "speed": 144,
-    "timestamp": "2026-10-11T22:00:45.069Z",
-    "lat": 45.6277,
-    "lon": -122.5292,
+    "distance": 0.61,
+    "altitude": 900,
+    "speed": 118,
+    "timestamp": "2026-10-12T00:33:53.290Z",
+    "lat": 45.62,
+    "lon": -122.5405,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N226DM",
-    "aircraftType": "C77R",
-    "origin": "QSA",
+    "callsign": "N924D",
+    "aircraftType": "RV6",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-10-11T22:00:34.793Z"
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.61,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6298,
-      -122.5388
+      45.6257,
+      -122.5432
     ],
     [
-      45.6277,
-      -122.5292
+      45.6257,
+      -122.5432
     ],
     [
-      45.6232,
-      -122.521
+      45.62,
+      -122.5405
     ],
     [
-      45.6188,
-      -122.5163
+      45.62,
+      -122.5405
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-11T22:01:15.874Z"
+  "timestamp": "2026-10-12T00:34:13.952Z"
 }
