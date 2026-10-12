@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 2900,
-    "speed": 102,
-    "timestamp": "2026-10-12T21:40:42.998Z",
-    "lat": 45.6182,
-    "lon": -122.5195,
+    "distance": 0.43,
+    "altitude": 3425,
+    "speed": 97,
+    "timestamp": "2026-10-12T21:46:11.136Z",
+    "lat": 45.6306,
+    "lon": -122.5348,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N725FA",
-    "aircraftType": "RV12",
+    "callsign": "N64269",
+    "aircraftType": "C172",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-06-11T20:05:42.436Z"
+    "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.43,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6249,
-      -122.5115
+      45.6343,
+      -122.5304
     ],
     [
-      45.6211,
-      -122.516
+      45.6306,
+      -122.5348
     ],
     [
-      45.6182,
-      -122.5195
+      45.627,
+      -122.539
     ],
     [
-      45.6143,
-      -122.5243
+      45.6232,
+      -122.5435
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-12T21:41:03.504Z"
+  "timestamp": "2026-10-12T21:46:41.925Z"
 }
