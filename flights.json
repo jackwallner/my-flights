@@ -30404,5 +30404,24 @@
     "initialDistance": 0.5244372394092461,
     "initialAltitude": 5600,
     "initialSpeed": 139
+  },
+  {
+    "callsign": "N87SM",
+    "flightNumber": null,
+    "aircraftType": "BE58",
+    "aircraftName": null,
+    "origin": "PWT",
+    "destination": "QSA",
+    "icao": "ABF599",
+    "registration": "N87SM",
+    "firstSeen": "2026-10-12T19:20:10.030Z",
+    "lastSeen": "2026-10-12T19:20:20.303Z",
+    "duration": 10,
+    "closestDistance": 0.45436040770620534,
+    "closestAltitude": 3800,
+    "closestSpeed": 161,
+    "initialDistance": 0.45805664248361927,
+    "initialAltitude": 3800,
+    "initialSpeed": 161
   }
 ]
