@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.45,
-    "altitude": 3800,
-    "speed": 161,
-    "timestamp": "2026-10-12T19:20:20.310Z",
-    "lat": 45.6241,
-    "lon": -122.5388,
-    "precision": "tracked"
+    "distance": 0.16,
+    "altitude": 500,
+    "speed": 60,
+    "timestamp": "2026-10-12T19:24:57.803Z",
+    "lat": 45.6261,
+    "lon": -122.5318,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N87SM",
-    "aircraftType": "BE58",
-    "origin": "PWT",
-    "destination": "QSA",
-    "firstSeen": "2026-10-12T19:20:10.030Z"
+    "callsign": "N519F",
+    "aircraftType": "CH7B",
+    "origin": "PDX",
+    "destination": null,
+    "firstSeen": "2026-02-06T20:53:13.130Z"
   },
-  "overheadScore": 0.45,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6304,
-      -122.5362
+      45.6261,
+      -122.5318
     ],
     [
-      45.6241,
-      -122.5388
+      45.6231,
+      -122.5324
+    ],
+    [
+      45.6199,
+      -122.531
+    ],
+    [
+      45.6181,
+      -122.5282
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-12T19:20:40.821Z"
+  "status": "tracking",
+  "timestamp": "2026-10-12T19:25:28.584Z"
 }
