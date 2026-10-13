@@ -30461,5 +30461,24 @@
     "initialDistance": 0.48366193541068814,
     "initialAltitude": 7800,
     "initialSpeed": 219
+  },
+  {
+    "callsign": "N93082",
+    "flightNumber": null,
+    "aircraftType": "C152",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "ACE934",
+    "registration": "N93082",
+    "firstSeen": "2026-10-13T00:36:51.518Z",
+    "lastSeen": "2026-10-13T00:37:32.588Z",
+    "duration": 41,
+    "closestDistance": 0.28230462415220836,
+    "closestAltitude": 2300,
+    "closestSpeed": 96,
+    "initialDistance": 0.548168315881528,
+    "initialAltitude": 2400,
+    "initialSpeed": 103
   }
 ]
