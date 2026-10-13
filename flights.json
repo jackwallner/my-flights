@@ -21808,8 +21808,8 @@
     "icao": "A9B69D",
     "registration": "N725FA",
     "firstSeen": "2026-06-11T20:05:42.436Z",
-    "lastSeen": "2026-10-12T21:40:53.251Z",
-    "duration": 10632911,
+    "lastSeen": "2026-10-13T00:16:50.301Z",
+    "duration": 10642268,
     "closestDistance": 0.020538022810714065,
     "closestAltitude": 925,
     "closestSpeed": 87,
@@ -30442,5 +30442,24 @@
     "initialDistance": 0.5344380515982082,
     "initialAltitude": 7575,
     "initialSpeed": 103
+  },
+  {
+    "callsign": "N986SA",
+    "flightNumber": null,
+    "aircraftType": "LJ35",
+    "aircraftName": null,
+    "origin": "YKM",
+    "destination": null,
+    "icao": "ADC2FF",
+    "registration": "N986SA",
+    "firstSeen": "2026-10-13T00:17:21.207Z",
+    "lastSeen": "2026-10-13T00:17:31.455Z",
+    "duration": 10,
+    "closestDistance": 0.48366193541068814,
+    "closestAltitude": 7800,
+    "closestSpeed": 219,
+    "initialDistance": 0.48366193541068814,
+    "initialAltitude": 7800,
+    "initialSpeed": 219
   }
 ]
