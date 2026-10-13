@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 7800,
-    "speed": 219,
-    "timestamp": "2026-10-13T00:17:21.212Z",
-    "lat": 45.6333,
-    "lon": -122.5292,
-    "precision": "tracked"
+    "distance": 0.35,
+    "altitude": 3550,
+    "speed": 115,
+    "timestamp": "2026-10-13T00:31:33.235Z",
+    "lat": 45.6291,
+    "lon": -122.5344,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N986SA",
-    "aircraftType": "LJ35",
-    "origin": "YKM",
+    "callsign": "N63843",
+    "aircraftType": "C172",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-10-13T00:17:21.207Z"
+    "firstSeen": "2026-03-14T16:28:13.842Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6333,
-      -122.5292
+      45.6331,
+      -122.5307
     ],
     [
-      45.6256,
-      -122.5408
+      45.6291,
+      -122.5344
+    ],
+    [
+      45.6242,
+      -122.5391
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-13T00:17:51.963Z"
+  "timestamp": "2026-10-13T00:31:53.797Z"
 }
