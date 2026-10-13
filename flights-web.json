@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 1225,
-    "speed": 106,
-    "timestamp": "2026-10-13T20:48:49.917Z",
-    "lat": 45.627,
-    "lon": -122.5289,
+    "distance": 0.31,
+    "altitude": 3775,
+    "speed": 111,
+    "timestamp": "2026-10-13T22:53:54.601Z",
+    "lat": 45.6273,
+    "lon": -122.535,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N6758H",
+    "callsign": "N13096",
     "aircraftType": "C172",
-    "origin": null,
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-01-31T19:49:55.976Z"
+    "firstSeen": "2026-05-08T16:59:31.185Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6342,
-      -122.5378
+      45.6362,
+      -122.5287
     ],
     [
-      45.6304,
-      -122.5329
+      45.6323,
+      -122.5315
     ],
     [
-      45.627,
-      -122.5289
+      45.6273,
+      -122.535
     ],
     [
-      45.6225,
-      -122.524
-    ],
-    [
-      45.6188,
-      -122.5198
+      45.6221,
+      -122.5384
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-13T20:49:20.774Z"
+  "timestamp": "2026-10-13T22:54:15.400Z"
 }
