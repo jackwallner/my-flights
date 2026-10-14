@@ -1,45 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 2650,
-    "speed": 85,
-    "timestamp": "2026-10-14T19:19:52.428Z",
-    "lat": 45.6298,
-    "lon": -122.5333,
-    "precision": "high"
+    "distance": 0.38,
+    "altitude": 5650,
+    "speed": 220,
+    "timestamp": "2026-10-14T20:33:31.796Z",
+    "lat": 45.6316,
+    "lon": -122.5284,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "callsign": "SKW3034",
+    "aircraftType": "E175",
+    "origin": "MFR",
+    "destination": "PDX",
+    "firstSeen": "2026-10-14T20:33:21.531Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6356,
-      -122.5245
+      45.6244,
+      -122.54
     ],
     [
-      45.6325,
-      -122.5289
-    ],
-    [
-      45.6298,
-      -122.5333
-    ],
-    [
-      45.627,
-      -122.5377
-    ],
-    [
-      45.624,
-      -122.5418
+      45.6316,
+      -122.5284
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-14T19:20:23.298Z"
+  "timestamp": "2026-10-14T20:33:52.374Z"
 }

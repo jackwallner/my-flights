@@ -30480,5 +30480,24 @@
     "initialDistance": 0.548168315881528,
     "initialAltitude": 2400,
     "initialSpeed": 103
+  },
+  {
+    "callsign": "SKW3034",
+    "flightNumber": "AS3034",
+    "aircraftType": "E75L",
+    "aircraftName": null,
+    "origin": "MFR",
+    "destination": "PDX",
+    "icao": "A4B5B6",
+    "registration": "N402SY",
+    "firstSeen": "2026-10-14T20:33:21.531Z",
+    "lastSeen": "2026-10-14T20:33:31.791Z",
+    "duration": 10,
+    "closestDistance": 0.3796228546035531,
+    "closestAltitude": 5650,
+    "closestSpeed": 220,
+    "initialDistance": 0.5019760422959487,
+    "initialAltitude": 5650,
+    "initialSpeed": 221
   }
 ]
