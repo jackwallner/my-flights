@@ -6,7 +6,7 @@
     "timestamp": "2026-10-14T00:37:28.560Z",
     "lat": 45.6143,
     "lon": -122.5276,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "B407",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6151,
@@ -26,8 +26,12 @@
     [
       45.6143,
       -122.5276
+    ],
+    [
+      45.6149,
+      -122.5337
     ]
   ],
   "status": "tracking",
-  "timestamp": "2026-10-14T00:37:28.560Z"
+  "timestamp": "2026-10-14T16:46:00.915Z"
 }
