@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 2325,
-    "speed": 95,
-    "timestamp": "2026-10-15T19:56:41.453Z",
-    "lat": 45.6272,
-    "lon": -122.5309,
+    "distance": 0.17,
+    "altitude": 2025,
+    "speed": 147,
+    "timestamp": "2026-10-15T20:11:14.045Z",
+    "lat": 45.628,
+    "lon": -122.5296,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N725FA",
-    "aircraftType": "RV12",
-    "origin": "TTD",
+    "callsign": "N524GT",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-06-11T20:05:42.436Z"
+    "firstSeen": "2026-04-26T22:39:53.034Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.17,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6322,
-      -122.5212
+      45.6175,
+      -122.5401
     ],
     [
-      45.6299,
-      -122.5259
+      45.6221,
+      -122.5354
     ],
     [
-      45.6272,
-      -122.5309
+      45.628,
+      -122.5296
     ],
     [
-      45.624,
-      -122.5361
-    ],
-    [
-      45.6211,
-      -122.5403
+      45.6342,
+      -122.5234
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-15T19:57:12.257Z"
+  "timestamp": "2026-10-15T20:11:34.547Z"
 }
