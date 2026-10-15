@@ -1,33 +1,53 @@
 {
   "closestApproach": {
-    "distance": 0.28,
-    "altitude": 5900,
-    "speed": 190,
-    "timestamp": "2026-10-15T22:14:46.262Z",
-    "lat": 45.621,
-    "lon": -122.5306,
-    "precision": "tracked"
+    "distance": 0.04,
+    "altitude": 1175,
+    "speed": 76,
+    "timestamp": "2026-10-15T23:18:36.917Z",
+    "lat": 45.6255,
+    "lon": -122.529,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N2224T",
-    "aircraftType": "RV7",
-    "origin": "SUO",
+    "callsign": "N725FA",
+    "aircraftType": "RV12",
+    "origin": "QSA",
     "destination": null,
-    "firstSeen": "2026-10-15T22:14:46.257Z"
+    "firstSeen": "2026-06-11T20:05:42.436Z"
   },
-  "overheadScore": 0.28,
+  "overheadScore": 0.04,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 7,
   "trail": [
     [
-      45.621,
-      -122.5306
+      45.622,
+      -122.5433
+    ],
+    [
+      45.6234,
+      -122.5383
+    ],
+    [
+      45.6245,
+      -122.5339
+    ],
+    [
+      45.6255,
+      -122.529
+    ],
+    [
+      45.6263,
+      -122.5237
+    ],
+    [
+      45.6269,
+      -122.5188
     ],
     [
       45.6276,
-      -122.5355
+      -122.5123
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-15T22:15:17.006Z"
+  "timestamp": "2026-10-15T23:19:17.951Z"
 }
