@@ -30518,5 +30518,24 @@
     "initialDistance": 0.6147688974189759,
     "initialAltitude": 1550,
     "initialSpeed": 120
+  },
+  {
+    "callsign": "N2224T",
+    "flightNumber": null,
+    "aircraftType": "RV7",
+    "aircraftName": null,
+    "origin": "SUO",
+    "destination": null,
+    "icao": "A1EB65",
+    "registration": "N2224T",
+    "firstSeen": "2026-10-15T22:14:46.257Z",
+    "lastSeen": "2026-10-15T22:14:56.507Z",
+    "duration": 10,
+    "closestDistance": 0.27742749837812747,
+    "closestAltitude": 5900,
+    "closestSpeed": 190,
+    "initialDistance": 0.27742749837812747,
+    "initialAltitude": 5900,
+    "initialSpeed": 190
   }
 ]
