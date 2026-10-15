@@ -30499,5 +30499,24 @@
     "initialDistance": 0.5019760422959487,
     "initialAltitude": 5650,
     "initialSpeed": 221
+  },
+  {
+    "callsign": "G08031",
+    "flightNumber": null,
+    "aircraftType": "H47",
+    "aircraftName": null,
+    "origin": "PDT",
+    "destination": null,
+    "icao": "AE1C1F",
+    "registration": "06-08031",
+    "firstSeen": "2026-10-15T15:21:24.730Z",
+    "lastSeen": "2026-10-15T15:21:45.293Z",
+    "duration": 21,
+    "closestDistance": 0.4615923683973118,
+    "closestAltitude": 1375,
+    "closestSpeed": 118,
+    "initialDistance": 0.6147688974189759,
+    "initialAltitude": 1550,
+    "initialSpeed": 120
   }
 ]
