@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.17,
-    "altitude": 2025,
-    "speed": 147,
-    "timestamp": "2026-10-15T20:11:14.045Z",
-    "lat": 45.628,
-    "lon": -122.5296,
-    "precision": "high"
+    "distance": 0.52,
+    "altitude": 2200,
+    "speed": 162,
+    "timestamp": "2026-10-15T21:02:35.108Z",
+    "lat": 45.6292,
+    "lon": -122.5392,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N524GT",
+    "callsign": "BTQ354",
     "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-04-26T22:39:53.034Z"
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.17,
+  "overheadScore": 0.52,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6175,
-      -122.5401
+      45.6223,
+      -122.5408
     ],
     [
-      45.6221,
-      -122.5354
-    ],
-    [
-      45.628,
-      -122.5296
-    ],
-    [
-      45.6342,
-      -122.5234
+      45.6292,
+      -122.5392
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-15T20:11:34.547Z"
+  "timestamp": "2026-10-15T21:02:55.652Z"
 }
