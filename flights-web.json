@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 2200,
-    "speed": 119,
-    "timestamp": "2026-10-14T23:44:30.472Z",
-    "lat": 45.6192,
-    "lon": -122.5261,
+    "distance": 0.56,
+    "altitude": 4200,
+    "speed": 108,
+    "timestamp": "2026-10-15T00:18:10.775Z",
+    "lat": 45.6165,
+    "lon": -122.5235,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N56720",
-    "aircraftType": "P28R",
-    "origin": "TTD",
+    "callsign": "N386ME",
+    "aircraftType": "C172",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-02-21T02:06:45.453Z"
+    "firstSeen": "2026-02-26T16:09:59.584Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.56,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6242,
-      -122.5142
+      45.6186,
+      -122.5176
     ],
     [
-      45.6217,
-      -122.5203
+      45.6165,
+      -122.5235
     ],
     [
-      45.6192,
-      -122.5261
-    ],
-    [
-      45.6159,
-      -122.534
+      45.6141,
+      -122.5307
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-14T23:44:50.962Z"
+  "timestamp": "2026-10-15T00:18:31.265Z"
 }
