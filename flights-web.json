@@ -1,49 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 3400,
-    "speed": 76,
-    "timestamp": "2026-10-15T19:02:27.233Z",
-    "lat": 45.6296,
-    "lon": -122.5302,
+    "distance": 0.16,
+    "altitude": 2325,
+    "speed": 95,
+    "timestamp": "2026-10-15T19:56:41.453Z",
+    "lat": 45.6272,
+    "lon": -122.5309,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N5274Y",
-    "aircraftType": "T210",
-    "origin": "PDX",
+    "callsign": "N725FA",
+    "aircraftType": "RV12",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-18T21:35:46.229Z"
+    "firstSeen": "2026-06-11T20:05:42.436Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6289,
-      -122.5407
-    ],
-    [
-      45.6292,
-      -122.5351
-    ],
-    [
-      45.6296,
-      -122.5302
+      45.6322,
+      -122.5212
     ],
     [
       45.6299,
-      -122.5254
+      -122.5259
     ],
     [
-      45.6304,
-      -122.5191
+      45.6272,
+      -122.5309
     ],
     [
-      45.6308,
-      -122.5141
+      45.624,
+      -122.5361
+    ],
+    [
+      45.6211,
+      -122.5403
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-15T19:03:08.346Z"
+  "timestamp": "2026-10-15T19:57:12.257Z"
 }
