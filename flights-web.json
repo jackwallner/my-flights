@@ -1,29 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 3200,
-    "speed": 74,
-    "timestamp": "2026-10-15T17:46:38.777Z",
-    "lat": 45.6147,
-    "lon": -122.5215,
-    "precision": "tracked"
+    "distance": 0.27,
+    "altitude": 3400,
+    "speed": 76,
+    "timestamp": "2026-10-15T19:02:27.233Z",
+    "lat": 45.6296,
+    "lon": -122.5302,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "C182",
-    "aircraftType": "C182",
-    "origin": null,
+    "callsign": "N5274Y",
+    "aircraftType": "T210",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-02-02T18:26:35.903Z"
+    "firstSeen": "2026-03-18T21:35:46.229Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.27,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6147,
-      -122.5215
+      45.6289,
+      -122.5407
+    ],
+    [
+      45.6292,
+      -122.5351
+    ],
+    [
+      45.6296,
+      -122.5302
+    ],
+    [
+      45.6299,
+      -122.5254
+    ],
+    [
+      45.6304,
+      -122.5191
+    ],
+    [
+      45.6308,
+      -122.5141
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-15T17:47:09.603Z"
+  "timestamp": "2026-10-15T19:03:08.346Z"
 }
