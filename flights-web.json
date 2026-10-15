@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.52,
-    "altitude": 1500,
-    "speed": 148,
-    "timestamp": "2026-10-15T16:36:54.200Z",
-    "lat": 45.6321,
-    "lon": -122.5357,
-    "precision": "high"
+    "distance": 0.69,
+    "altitude": 3200,
+    "speed": 74,
+    "timestamp": "2026-10-15T17:46:38.777Z",
+    "lat": 45.6147,
+    "lon": -122.5215,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N16NH",
-    "aircraftType": "Bona",
-    "origin": "TTD",
+    "callsign": "C182",
+    "aircraftType": "C182",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-05-07T17:38:06.129Z"
+    "firstSeen": "2026-02-02T18:26:35.903Z"
   },
-  "overheadScore": 0.52,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6367,
-      -122.5276
-    ],
-    [
-      45.6321,
-      -122.5357
-    ],
-    [
-      45.6274,
-      -122.5443
+      45.6147,
+      -122.5215
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-15T16:37:14.862Z"
+  "timestamp": "2026-10-15T17:47:09.603Z"
 }
