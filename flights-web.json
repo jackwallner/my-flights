@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 4200,
-    "speed": 108,
-    "timestamp": "2026-10-15T00:18:10.775Z",
-    "lat": 45.6165,
-    "lon": -122.5235,
+    "distance": 0.44,
+    "altitude": 1725,
+    "speed": 114,
+    "timestamp": "2026-10-15T00:44:09.745Z",
+    "lat": 45.6185,
+    "lon": -122.5239,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N386ME",
+    "callsign": "N9185H",
     "aircraftType": "C172",
-    "origin": "HIO",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-26T16:09:59.584Z"
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.44,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6186,
-      -122.5176
+      45.6172,
+      -122.5329
     ],
     [
-      45.6165,
-      -122.5235
+      45.6185,
+      -122.5239
     ],
     [
-      45.6141,
-      -122.5307
+      45.6195,
+      -122.5169
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-15T00:18:31.265Z"
+  "timestamp": "2026-10-15T00:44:30.268Z"
 }
