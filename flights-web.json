@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 2125,
-    "speed": 172,
-    "timestamp": "2026-10-16T00:54:55.284Z",
-    "lat": 45.6287,
-    "lon": -122.5303,
+    "distance": 0.17,
+    "altitude": 1775,
+    "speed": 168,
+    "timestamp": "2026-10-16T01:26:23.137Z",
+    "lat": 45.6241,
+    "lon": -122.5244,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N5274Y",
-    "aircraftType": "T210",
-    "origin": "HES",
+    "callsign": "A119",
+    "aircraftType": "A119",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-18T21:35:46.229Z"
+    "firstSeen": "2026-04-07T02:46:50.092Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.17,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6282,
-      -122.5185
+      45.6251,
+      -122.5126
     ],
     [
-      45.6287,
-      -122.5303
+      45.6241,
+      -122.5244
     ],
     [
-      45.6292,
-      -122.5428
+      45.6222,
+      -122.5356
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-16T00:55:15.964Z"
+  "timestamp": "2026-10-16T01:26:43.929Z"
 }
