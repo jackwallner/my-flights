@@ -1,53 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.04,
-    "altitude": 1175,
-    "speed": 76,
-    "timestamp": "2026-10-15T23:18:36.917Z",
-    "lat": 45.6255,
-    "lon": -122.529,
-    "precision": "high"
+    "distance": 0.66,
+    "altitude": 2400,
+    "speed": 161,
+    "timestamp": "2026-10-16T00:16:45.859Z",
+    "lat": 45.6296,
+    "lon": -122.5425,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N725FA",
-    "aircraftType": "RV12",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-06-11T20:05:42.436Z"
+    "callsign": "BTQ356",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-02-01T01:16:07.516Z"
   },
-  "overheadScore": 0.04,
+  "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 7,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.622,
-      -122.5433
-    ],
-    [
-      45.6234,
-      -122.5383
-    ],
-    [
-      45.6245,
-      -122.5339
-    ],
-    [
-      45.6255,
-      -122.529
-    ],
-    [
-      45.6263,
-      -122.5237
-    ],
-    [
-      45.6269,
-      -122.5188
-    ],
-    [
-      45.6276,
-      -122.5123
+      45.6296,
+      -122.5425
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-15T23:19:17.951Z"
+  "status": "tracking",
+  "timestamp": "2026-10-16T00:16:45.861Z"
 }
