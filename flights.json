@@ -30613,5 +30613,24 @@
     "initialDistance": 0.5852782114593521,
     "initialAltitude": 3100,
     "initialSpeed": 106
+  },
+  {
+    "callsign": "N23CM",
+    "flightNumber": null,
+    "aircraftType": "SR20",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "RNT",
+    "icao": "A20665",
+    "registration": "N23CM",
+    "firstSeen": "2026-10-16T19:34:48.306Z",
+    "lastSeen": "2026-10-16T19:35:29.351Z",
+    "duration": 41,
+    "closestDistance": 0.186664566617467,
+    "closestAltitude": 1550,
+    "closestSpeed": 107,
+    "initialDistance": 0.6532604129103815,
+    "initialAltitude": 1350,
+    "initialSpeed": 101
   }
 ]

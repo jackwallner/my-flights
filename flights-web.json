@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.1,
-    "altitude": 1875,
-    "speed": 141,
-    "timestamp": "2026-10-16T18:45:52.615Z",
-    "lat": 45.6238,
-    "lon": -122.5269,
+    "distance": 0.19,
+    "altitude": 1550,
+    "speed": 107,
+    "timestamp": "2026-10-16T19:35:08.841Z",
+    "lat": 45.6261,
+    "lon": -122.5324,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N93202",
-    "aircraftType": "C185",
-    "origin": "PDT",
-    "destination": null,
-    "firstSeen": "2026-06-12T16:33:19.980Z"
+    "callsign": "N23CM",
+    "aircraftType": "SR20",
+    "origin": "PDX",
+    "destination": "RNT",
+    "firstSeen": "2026-10-16T19:34:48.306Z"
   },
-  "overheadScore": 0.1,
+  "overheadScore": 0.19,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.628,
-      -122.518
+      45.6164,
+      -122.5371
     ],
     [
-      45.6238,
-      -122.5269
+      45.6212,
+      -122.5348
     ],
     [
-      45.6204,
-      -122.5333
+      45.6261,
+      -122.5324
+    ],
+    [
+      45.6296,
+      -122.5307
+    ],
+    [
+      45.635,
+      -122.5281
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-16T18:46:13.156Z"
+  "status": "tracking",
+  "timestamp": "2026-10-16T19:35:29.356Z"
 }
