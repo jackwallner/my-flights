@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 1550,
-    "speed": 107,
-    "timestamp": "2026-10-16T19:35:08.841Z",
-    "lat": 45.6261,
-    "lon": -122.5324,
+    "distance": 0.06,
+    "altitude": 2400,
+    "speed": 158,
+    "timestamp": "2026-10-16T20:55:01.409Z",
+    "lat": 45.6259,
+    "lon": -122.527,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N23CM",
-    "aircraftType": "SR20",
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "RNT",
-    "firstSeen": "2026-10-16T19:34:48.306Z"
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.06,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6164,
-      -122.5371
+      45.6194,
+      -122.5299
     ],
     [
-      45.6212,
-      -122.5348
+      45.6259,
+      -122.527
     ],
     [
-      45.6261,
-      -122.5324
-    ],
-    [
-      45.6296,
-      -122.5307
-    ],
-    [
-      45.635,
-      -122.5281
+      45.6342,
+      -122.5233
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-16T19:35:39.626Z"
+  "timestamp": "2026-10-16T20:55:21.945Z"
 }
