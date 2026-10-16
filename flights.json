@@ -30556,5 +30556,24 @@
     "initialDistance": 0.602837787386122,
     "initialAltitude": 725,
     "initialSpeed": 113
+  },
+  {
+    "callsign": "N759HB",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "AA3C29",
+    "registration": "N759HB",
+    "firstSeen": "2026-10-16T16:45:06.875Z",
+    "lastSeen": "2026-10-16T16:45:17.152Z",
+    "duration": 10,
+    "closestDistance": 0.5908155738601072,
+    "closestAltitude": 7200,
+    "closestSpeed": 147,
+    "initialDistance": 0.6411622248727843,
+    "initialAltitude": 7200,
+    "initialSpeed": 147
   }
 ]
