@@ -1,53 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 1200,
-    "speed": 68,
-    "timestamp": "2026-10-16T14:33:07.078Z",
-    "lat": 45.6313,
-    "lon": -122.5274,
+    "distance": 0.44,
+    "altitude": 2800,
+    "speed": 159,
+    "timestamp": "2026-10-16T14:53:15.400Z",
+    "lat": 45.6281,
+    "lon": -122.5379,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N18586",
-    "aircraftType": "C150",
-    "origin": "TTD",
-    "destination": null,
-    "firstSeen": "2026-02-06T23:57:53.810Z"
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.44,
   "isOverhead": true,
-  "pathSnapshots": 7,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6311,
-      -122.5415
+      45.6204,
+      -122.5407
     ],
     [
-      45.6314,
-      -122.5366
+      45.6281,
+      -122.5379
     ],
     [
-      45.6315,
-      -122.5317
-    ],
-    [
-      45.6313,
-      -122.5274
-    ],
-    [
-      45.6311,
-      -122.5227
-    ],
-    [
-      45.6309,
-      -122.5182
-    ],
-    [
-      45.6306,
-      -122.5134
+      45.6357,
+      -122.5344
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-16T14:33:48.543Z"
+  "timestamp": "2026-10-16T14:53:36.031Z"
 }
