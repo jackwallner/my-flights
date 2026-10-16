@@ -30594,5 +30594,24 @@
     "initialDistance": 0.5851175081752078,
     "initialAltitude": 1775,
     "initialSpeed": 74
+  },
+  {
+    "callsign": "N641B",
+    "flightNumber": null,
+    "aircraftType": "RV6",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "A8690B",
+    "registration": "N641B",
+    "firstSeen": "2026-10-16T18:42:06.619Z",
+    "lastSeen": "2026-10-16T18:42:27.138Z",
+    "duration": 21,
+    "closestDistance": 0.4857084516527995,
+    "closestAltitude": 3200,
+    "closestSpeed": 103,
+    "initialDistance": 0.5852782114593521,
+    "initialAltitude": 3100,
+    "initialSpeed": 106
   }
 ]
