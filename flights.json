@@ -30537,5 +30537,24 @@
     "initialDistance": 0.27742749837812747,
     "initialAltitude": 5900,
     "initialSpeed": 190
+  },
+  {
+    "callsign": "R20401",
+    "flightNumber": null,
+    "aircraftType": "H60",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "AE51C7",
+    "registration": "11-20401",
+    "firstSeen": "2026-10-16T03:34:01.017Z",
+    "lastSeen": "2026-10-16T03:34:21.527Z",
+    "duration": 21,
+    "closestDistance": 0.46742317848472525,
+    "closestAltitude": 725,
+    "closestSpeed": 113,
+    "initialDistance": 0.602837787386122,
+    "initialAltitude": 725,
+    "initialSpeed": 113
   }
 ]
