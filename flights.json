@@ -30575,5 +30575,24 @@
     "initialDistance": 0.6411622248727843,
     "initialAltitude": 7200,
     "initialSpeed": 147
+  },
+  {
+    "callsign": "N31KK",
+    "flightNumber": null,
+    "aircraftType": "RV9",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A34563",
+    "registration": "N31KK",
+    "firstSeen": "2026-10-16T17:26:36.732Z",
+    "lastSeen": "2026-10-16T17:26:57.235Z",
+    "duration": 21,
+    "closestDistance": 0.1655006417576224,
+    "closestAltitude": 1775,
+    "closestSpeed": 73,
+    "initialDistance": 0.5851175081752078,
+    "initialAltitude": 1775,
+    "initialSpeed": 74
   }
 ]
