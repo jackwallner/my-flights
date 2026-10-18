@@ -30632,5 +30632,24 @@
     "initialDistance": 0.6532604129103815,
     "initialAltitude": 1350,
     "initialSpeed": 101
+  },
+  {
+    "callsign": "N6241M",
+    "flightNumber": null,
+    "aircraftType": "M5",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A827A0",
+    "registration": "N6241M",
+    "firstSeen": "2026-10-18T20:55:30.641Z",
+    "lastSeen": "2026-10-18T20:55:51.304Z",
+    "duration": 21,
+    "closestDistance": 0.4565442948627418,
+    "closestAltitude": 7500,
+    "closestSpeed": 119,
+    "initialDistance": 0.5487250532226553,
+    "initialAltitude": 7500,
+    "initialSpeed": 119
   }
 ]

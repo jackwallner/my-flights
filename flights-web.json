@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 800,
-    "speed": 89,
-    "timestamp": "2026-10-18T20:25:22.519Z",
-    "lat": 45.6187,
-    "lon": -122.5283,
+    "distance": 0.46,
+    "altitude": 7500,
+    "speed": 119,
+    "timestamp": "2026-10-18T20:55:41.030Z",
+    "lat": 45.6183,
+    "lon": -122.5238,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N924D",
-    "aircraftType": "RV6",
-    "origin": "PDX",
+    "callsign": "N6241M",
+    "aircraftType": "M5",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-03-28T21:25:34.028Z"
+    "firstSeen": "2026-10-18T20:55:30.641Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6187,
-      -122.5283
+      45.6166,
+      -122.5322
     ],
     [
-      45.6187,
-      -122.5219
+      45.6183,
+      -122.5238
     ],
     [
-      45.6205,
-      -122.5164
+      45.6199,
+      -122.5154
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-18T20:25:53.359Z"
+  "timestamp": "2026-10-18T20:56:01.725Z"
 }
