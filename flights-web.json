@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 2425,
-    "speed": 150,
-    "timestamp": "2026-10-18T16:25:53.326Z",
-    "lat": 45.6223,
-    "lon": -122.5314,
+    "distance": 0.4,
+    "altitude": 800,
+    "speed": 89,
+    "timestamp": "2026-10-18T20:25:22.519Z",
+    "lat": 45.6187,
+    "lon": -122.5283,
     "precision": "high"
   },
   "flight": {
-    "callsign": "TDY1776",
-    "aircraftType": "PC-1",
+    "callsign": "N924D",
+    "aircraftType": "RV6",
     "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-09-03T13:40:35.851Z"
+    "destination": null,
+    "firstSeen": "2026-03-28T21:25:34.028Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.4,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6153,
-      -122.5348
+      45.6187,
+      -122.5283
     ],
     [
-      45.6223,
-      -122.5314
+      45.6187,
+      -122.5219
     ],
     [
-      45.6297,
-      -122.5284
+      45.6205,
+      -122.5164
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-18T16:26:13.875Z"
+  "timestamp": "2026-10-18T20:25:53.359Z"
 }
