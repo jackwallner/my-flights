@@ -1,29 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 1600,
-    "speed": 96,
-    "timestamp": "2026-10-18T22:02:03.317Z",
-    "lat": 45.6138,
-    "lon": -122.5282,
-    "precision": "tracked"
+    "distance": 0.37,
+    "altitude": 3350,
+    "speed": 63,
+    "timestamp": "2026-10-18T22:05:18.631Z",
+    "lat": 45.62,
+    "lon": -122.5326,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N8741V",
-    "aircraftType": "CH7B",
-    "origin": null,
+    "callsign": "N80347",
+    "aircraftType": "C172",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-03-01T00:03:19.190Z"
+    "firstSeen": "2026-04-19T17:50:56.308Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6138,
-      -122.5282
+      45.6216,
+      -122.5415
+    ],
+    [
+      45.6209,
+      -122.5371
+    ],
+    [
+      45.62,
+      -122.5326
+    ],
+    [
+      45.6191,
+      -122.5278
+    ],
+    [
+      45.6179,
+      -122.524
+    ],
+    [
+      45.6165,
+      -122.5188
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-18T22:02:34.093Z"
+  "timestamp": "2026-10-18T22:05:59.663Z"
 }
