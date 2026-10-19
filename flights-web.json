@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 4450,
-    "speed": 164,
-    "timestamp": "2026-10-19T01:06:59.155Z",
-    "lat": 45.6261,
-    "lon": -122.5435,
-    "precision": "tracked"
+    "distance": 0.64,
+    "altitude": 1825,
+    "speed": 92,
+    "timestamp": "2026-10-19T01:40:21.763Z",
+    "lat": 45.6164,
+    "lon": -122.5196,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N402RH",
-    "aircraftType": "RV10",
-    "origin": null,
+    "callsign": "N9185H",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-10-19T01:06:48.856Z"
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.64,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.633,
-      -122.539
+      45.6191,
+      -122.5153
     ],
     [
-      45.6261,
-      -122.5435
+      45.6164,
+      -122.5196
+    ],
+    [
+      45.6143,
+      -122.5256
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-19T01:07:19.651Z"
+  "timestamp": "2026-10-19T01:40:42.286Z"
 }
