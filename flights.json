@@ -30670,5 +30670,24 @@
     "initialDistance": 0.6510109557803523,
     "initialAltitude": 4450,
     "initialSpeed": 165
+  },
+  {
+    "callsign": "ASA761",
+    "flightNumber": "AS761",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "SEA",
+    "destination": "PDX",
+    "icao": "A58C2E",
+    "registration": "N457AS",
+    "firstSeen": "2026-10-19T15:03:30.567Z",
+    "lastSeen": "2026-10-19T15:03:30.567Z",
+    "duration": 0,
+    "closestDistance": 0.4105104921855891,
+    "closestAltitude": 3925,
+    "closestSpeed": 198,
+    "initialDistance": 0.4105104921855891,
+    "initialAltitude": 3925,
+    "initialSpeed": 198
   }
 ]
