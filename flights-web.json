@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 2300,
-    "speed": 100,
-    "timestamp": "2026-10-19T02:47:16.947Z",
-    "lat": 45.6249,
-    "lon": -122.5395,
-    "precision": "tracked"
+    "distance": 0.11,
+    "altitude": 2400,
+    "speed": 94,
+    "timestamp": "2026-10-19T02:47:37.796Z",
+    "lat": 45.6257,
+    "lon": -122.5255,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N4466R",
@@ -15,15 +15,31 @@
     "destination": null,
     "firstSeen": "2026-03-01T01:16:04.720Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6249,
       -122.5395
+    ],
+    [
+      45.6253,
+      -122.5325
+    ],
+    [
+      45.6257,
+      -122.5255
+    ],
+    [
+      45.6261,
+      -122.5188
+    ],
+    [
+      45.6267,
+      -122.512
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-19T02:47:16.947Z"
+  "status": "completed",
+  "timestamp": "2026-10-19T02:48:08.998Z"
 }
