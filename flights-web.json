@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 3925,
-    "speed": 198,
-    "timestamp": "2026-10-19T15:03:30.572Z",
-    "lat": 45.6237,
-    "lon": -122.5186,
+    "distance": 0.3,
+    "altitude": 2350,
+    "speed": 153,
+    "timestamp": "2026-10-19T17:17:43.381Z",
+    "lat": 45.6233,
+    "lon": -122.5346,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "ASA761",
-    "aircraftType": "737",
-    "origin": "SEA",
-    "destination": "PDX",
-    "firstSeen": "2026-10-19T15:03:30.567Z"
+    "callsign": "TDY1776",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-09-03T13:40:35.851Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6237,
-      -122.5186
+      45.6161,
+      -122.5383
+    ],
+    [
+      45.6233,
+      -122.5346
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-19T15:04:01.442Z"
+  "status": "tracking",
+  "timestamp": "2026-10-19T17:17:43.381Z"
 }
