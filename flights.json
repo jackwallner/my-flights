@@ -30651,5 +30651,24 @@
     "initialDistance": 0.5487250532226553,
     "initialAltitude": 7500,
     "initialSpeed": 119
+  },
+  {
+    "callsign": "N402RH",
+    "flightNumber": null,
+    "aircraftType": "RV10",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A4B58E",
+    "registration": "N402RH",
+    "firstSeen": "2026-10-19T01:06:48.856Z",
+    "lastSeen": "2026-10-19T01:06:59.150Z",
+    "duration": 10,
+    "closestDistance": 0.6480094214453196,
+    "closestAltitude": 4450,
+    "closestSpeed": 164,
+    "initialDistance": 0.6510109557803523,
+    "initialAltitude": 4450,
+    "initialSpeed": 165
   }
 ]
