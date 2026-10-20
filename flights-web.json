@@ -1,33 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 2175,
-    "speed": 183,
-    "timestamp": "2026-10-20T17:07:45.980Z",
-    "lat": 45.6196,
-    "lon": -122.5319,
-    "precision": "tracked"
+    "distance": 0.15,
+    "altitude": 4250,
+    "speed": 102,
+    "timestamp": "2026-10-20T18:37:06.463Z",
+    "lat": 45.6255,
+    "lon": -122.5245,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "AMF1992",
-    "aircraftType": "BE99",
-    "origin": "HES",
-    "destination": "PDX",
-    "firstSeen": "2026-02-04T18:29:04.359Z"
+    "callsign": "N95539",
+    "aircraftType": "C152",
+    "origin": "HIO",
+    "destination": null,
+    "firstSeen": "2026-09-25T00:59:06.390Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.15,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6219,
-      -122.5191
+      45.6274,
+      -122.5179
     ],
     [
-      45.6196,
-      -122.5319
+      45.6255,
+      -122.5245
+    ],
+    [
+      45.6237,
+      -122.5313
+    ],
+    [
+      45.6223,
+      -122.5363
+    ],
+    [
+      45.6202,
+      -122.5423
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-20T17:08:06.533Z"
+  "status": "tracking",
+  "timestamp": "2026-10-20T18:37:37.313Z"
 }
