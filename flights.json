@@ -30689,5 +30689,24 @@
     "initialDistance": 0.4105104921855891,
     "initialAltitude": 3925,
     "initialSpeed": 198
+  },
+  {
+    "callsign": "PA12",
+    "flightNumber": null,
+    "aircraftType": "PA12",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-10-20T23:16:04.268Z",
+    "lastSeen": "2026-10-20T23:16:24.828Z",
+    "duration": 21,
+    "closestDistance": 0.2898395834354977,
+    "closestAltitude": 1500,
+    "closestSpeed": 50,
+    "initialDistance": 0.47306288314786993,
+    "initialAltitude": 1500,
+    "initialSpeed": 50
   }
 ]

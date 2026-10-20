@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 1875,
-    "speed": 97,
-    "timestamp": "2026-10-20T21:15:29.782Z",
-    "lat": 45.6253,
-    "lon": -122.525,
+    "distance": 0.29,
+    "altitude": 1500,
+    "speed": 50,
+    "timestamp": "2026-10-20T23:16:24.845Z",
+    "lat": 45.6212,
+    "lon": -122.5318,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": "TTD",
+    "callsign": "PA12",
+    "aircraftType": "PA12",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "firstSeen": "2026-10-20T23:16:04.268Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6202,
-      -122.5354
+      45.6201,
+      -122.5366
     ],
     [
-      45.6227,
-      -122.5311
+      45.6205,
+      -122.535
     ],
     [
-      45.6253,
-      -122.525
-    ],
-    [
-      45.627,
-      -122.519
-    ],
-    [
-      45.6279,
-      -122.5131
+      45.6212,
+      -122.5318
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-20T21:16:00.544Z"
+  "timestamp": "2026-10-20T23:16:35.082Z"
 }
