@@ -1,45 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.09,
-    "altitude": 1350,
-    "speed": 91,
-    "timestamp": "2026-10-21T00:17:18.417Z",
-    "lat": 45.6238,
-    "lon": -122.5276,
+    "distance": 0.56,
+    "altitude": 2125,
+    "speed": 90,
+    "timestamp": "2026-10-21T00:43:38.886Z",
+    "lat": 45.6164,
+    "lon": -122.5238,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N21LW",
-    "aircraftType": "C182",
-    "origin": "PDX",
+    "callsign": "B407",
+    "aircraftType": "B407",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-06-07T23:51:48.539Z"
+    "firstSeen": "2026-04-07T03:22:47.616Z"
   },
-  "overheadScore": 0.09,
+  "overheadScore": 0.56,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6189,
-      -122.5386
+      45.6149,
+      -122.5354
     ],
     [
-      45.622,
-      -122.5329
+      45.6156,
+      -122.5302
     ],
     [
-      45.6238,
-      -122.5276
+      45.6164,
+      -122.5238
     ],
     [
-      45.6255,
-      -122.5216
-    ],
-    [
-      45.627,
-      -122.5165
+      45.617,
+      -122.5194
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-21T00:17:49.205Z"
+  "timestamp": "2026-10-21T00:43:59.388Z"
 }
