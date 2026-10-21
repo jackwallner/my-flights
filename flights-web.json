@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 1700,
-    "speed": 127,
-    "timestamp": "2026-10-21T22:30:46.813Z",
-    "lat": 45.618,
-    "lon": -122.5234,
+    "distance": 0.24,
+    "altitude": 4425,
+    "speed": 84,
+    "timestamp": "2026-10-21T22:39:30.899Z",
+    "lat": 45.6261,
+    "lon": -122.5225,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N641B",
-    "aircraftType": "RV6",
+    "callsign": "N64269",
+    "aircraftType": "C172",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-10-16T18:42:06.619Z"
+    "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.24,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6159,
-      -122.5302
+      45.6337,
+      -122.5199
     ],
     [
-      45.618,
-      -122.5234
+      45.6295,
+      -122.5213
     ],
     [
-      45.6195,
-      -122.5143
+      45.6261,
+      -122.5225
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-21T22:31:07.529Z"
+  "status": "tracking",
+  "timestamp": "2026-10-21T22:39:30.899Z"
 }
