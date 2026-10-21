@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 1500,
-    "speed": 50,
-    "timestamp": "2026-10-20T23:16:24.845Z",
-    "lat": 45.6212,
-    "lon": -122.5318,
+    "distance": 0.09,
+    "altitude": 1350,
+    "speed": 91,
+    "timestamp": "2026-10-21T00:17:18.417Z",
+    "lat": 45.6238,
+    "lon": -122.5276,
     "precision": "high"
   },
   "flight": {
-    "callsign": "PA12",
-    "aircraftType": "PA12",
-    "origin": null,
+    "callsign": "N21LW",
+    "aircraftType": "C182",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-10-20T23:16:04.268Z"
+    "firstSeen": "2026-06-07T23:51:48.539Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.09,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6201,
-      -122.5366
+      45.6189,
+      -122.5386
     ],
     [
-      45.6205,
-      -122.535
+      45.622,
+      -122.5329
     ],
     [
-      45.6212,
-      -122.5318
+      45.6238,
+      -122.5276
+    ],
+    [
+      45.6255,
+      -122.5216
+    ],
+    [
+      45.627,
+      -122.5165
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-20T23:16:35.082Z"
+  "timestamp": "2026-10-21T00:17:49.205Z"
 }
