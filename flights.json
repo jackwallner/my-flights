@@ -30708,5 +30708,24 @@
     "initialDistance": 0.47306288314786993,
     "initialAltitude": 1500,
     "initialSpeed": 50
+  },
+  {
+    "callsign": "EJA697",
+    "flightNumber": "EJA697",
+    "aircraftType": "C68A",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "QSA",
+    "icao": "A94626",
+    "registration": "N697QS",
+    "firstSeen": "2026-10-21T06:47:09.278Z",
+    "lastSeen": "2026-10-21T06:47:09.278Z",
+    "duration": 0,
+    "closestDistance": 0.192199322436721,
+    "closestAltitude": 4950,
+    "closestSpeed": 267,
+    "initialDistance": 0.192199322436721,
+    "initialAltitude": 4950,
+    "initialSpeed": 267
   }
 ]
