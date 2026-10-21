@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.4,
-    "altitude": 3500,
-    "speed": 96,
-    "timestamp": "2026-10-21T19:30:25.385Z",
-    "lat": 45.6226,
-    "lon": -122.5193,
+    "distance": 0.48,
+    "altitude": 1700,
+    "speed": 127,
+    "timestamp": "2026-10-21T22:30:46.813Z",
+    "lat": 45.618,
+    "lon": -122.5234,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N52371",
-    "aircraftType": "C172",
-    "origin": "HIO",
+    "callsign": "N641B",
+    "aircraftType": "RV6",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-10-21T19:30:04.581Z"
+    "firstSeen": "2026-10-16T18:42:06.619Z"
   },
-  "overheadScore": 0.4,
+  "overheadScore": 0.48,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6318,
-      -122.5148
+      45.6159,
+      -122.5302
     ],
     [
-      45.6272,
-      -122.5173
+      45.618,
+      -122.5234
     ],
     [
-      45.6226,
-      -122.5193
-    ],
-    [
-      45.6186,
-      -122.5208
+      45.6195,
+      -122.5143
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-21T19:30:45.904Z"
+  "timestamp": "2026-10-21T22:31:07.529Z"
 }
