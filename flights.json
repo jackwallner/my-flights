@@ -30727,5 +30727,24 @@
     "initialDistance": 0.192199322436721,
     "initialAltitude": 4950,
     "initialSpeed": 267
+  },
+  {
+    "callsign": "N52371",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A6977A",
+    "registration": "N52371",
+    "firstSeen": "2026-10-21T19:30:04.581Z",
+    "lastSeen": "2026-10-21T19:30:35.652Z",
+    "duration": 31,
+    "closestDistance": 0.40348814734081173,
+    "closestAltitude": 3500,
+    "closestSpeed": 96,
+    "initialDistance": 0.6823548886082849,
+    "initialAltitude": 3500,
+    "initialSpeed": 97
   }
 ]
