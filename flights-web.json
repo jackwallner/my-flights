@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.41,
-    "altitude": 2200,
-    "speed": 98,
-    "timestamp": "2026-10-22T01:18:19.402Z",
-    "lat": 45.6184,
-    "lon": -122.529,
+    "distance": 0.16,
+    "altitude": 4050,
+    "speed": 134,
+    "timestamp": "2026-10-22T02:00:34.137Z",
+    "lat": 45.6252,
+    "lon": -122.532,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9262H",
-    "aircraftType": "C172",
-    "origin": "RLD",
+    "callsign": "N480JP",
+    "aircraftType": "DA40",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-05-06T23:15:43.376Z"
+    "firstSeen": "2026-10-04T02:24:30.216Z"
   },
-  "overheadScore": 0.41,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6204,
-      -122.5166
+      45.6186,
+      -122.5167
     ],
     [
-      45.6192,
-      -122.5234
+      45.6216,
+      -122.5238
     ],
     [
-      45.6184,
-      -122.529
-    ],
-    [
-      45.6176,
-      -122.5357
+      45.6252,
+      -122.532
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-22T01:18:39.911Z"
+  "status": "tracking",
+  "timestamp": "2026-10-22T02:00:34.137Z"
 }
