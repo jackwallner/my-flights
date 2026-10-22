@@ -30765,5 +30765,24 @@
     "initialDistance": 0.6210119358453546,
     "initialAltitude": 1125,
     "initialSpeed": 76
+  },
+  {
+    "callsign": "N983HC",
+    "flightNumber": null,
+    "aircraftType": "R22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "ADB6FB",
+    "registration": "N983HC",
+    "firstSeen": "2026-10-22T19:02:15.580Z",
+    "lastSeen": "2026-10-22T19:02:36.132Z",
+    "duration": 21,
+    "closestDistance": 0.5064826997741962,
+    "closestAltitude": 1900,
+    "closestSpeed": 84,
+    "initialDistance": 0.5721080166363885,
+    "initialAltitude": 1875,
+    "initialSpeed": 87
   }
 ]

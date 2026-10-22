@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 1625,
-    "speed": 131,
-    "timestamp": "2026-10-22T18:43:45.364Z",
-    "lat": 45.6191,
-    "lon": -122.5254,
+    "distance": 0.51,
+    "altitude": 1900,
+    "speed": 84,
+    "timestamp": "2026-10-22T19:02:25.856Z",
+    "lat": 45.6176,
+    "lon": -122.5331,
     "precision": "high"
   },
   "flight": {
-    "callsign": "B407",
-    "aircraftType": "B407",
-    "origin": null,
+    "callsign": "N983HC",
+    "aircraftType": "R22",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-07T03:22:47.616Z"
+    "firstSeen": "2026-10-22T19:02:15.580Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.51,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6201,
-      -122.5344
+      45.6188,
+      -122.5381
     ],
     [
-      45.6191,
-      -122.5254
+      45.6176,
+      -122.5331
     ],
     [
-      45.6179,
-      -122.516
+      45.6162,
+      -122.5274
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-22T18:44:06.243Z"
+  "status": "tracking",
+  "timestamp": "2026-10-22T19:02:36.149Z"
 }
