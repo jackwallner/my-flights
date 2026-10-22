@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 3600,
-    "speed": 108,
-    "timestamp": "2026-10-22T00:44:05.863Z",
-    "lat": 45.6255,
-    "lon": -122.5225,
-    "precision": "tracked"
+    "distance": 0.2,
+    "altitude": 3575,
+    "speed": 112,
+    "timestamp": "2026-10-22T00:44:16.146Z",
+    "lat": 45.6219,
+    "lon": -122.5285,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N65KD",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-04-19T19:59:31.010Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6289,
@@ -26,8 +26,16 @@
     [
       45.6255,
       -122.5225
+    ],
+    [
+      45.6219,
+      -122.5285
+    ],
+    [
+      45.6186,
+      -122.5341
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-22T00:44:05.863Z"
+  "status": "completed",
+  "timestamp": "2026-10-22T00:44:36.641Z"
 }
