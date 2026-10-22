@@ -30746,5 +30746,24 @@
     "initialDistance": 0.6823548886082849,
     "initialAltitude": 3500,
     "initialSpeed": 97
+  },
+  {
+    "callsign": "N771SH",
+    "flightNumber": null,
+    "aircraftType": "R22",
+    "aircraftName": null,
+    "origin": "TTD",
+    "destination": null,
+    "icao": "AA6E56",
+    "registration": "N771SH",
+    "firstSeen": "2026-10-22T00:58:48.672Z",
+    "lastSeen": "2026-10-22T00:59:40.068Z",
+    "duration": 51,
+    "closestDistance": 0.42089661576898274,
+    "closestAltitude": 1100,
+    "closestSpeed": 76,
+    "initialDistance": 0.6210119358453546,
+    "initialAltitude": 1125,
+    "initialSpeed": 76
   }
 ]

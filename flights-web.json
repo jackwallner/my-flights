@@ -1,41 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 3575,
-    "speed": 112,
-    "timestamp": "2026-10-22T00:44:16.146Z",
-    "lat": 45.6219,
-    "lon": -122.5285,
+    "distance": 0.42,
+    "altitude": 1100,
+    "speed": 76,
+    "timestamp": "2026-10-22T00:59:09.261Z",
+    "lat": 45.6192,
+    "lon": -122.5331,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N65KD",
-    "aircraftType": "C172",
-    "origin": "HES",
+    "callsign": "N771SH",
+    "aircraftType": "R22",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-19T19:59:31.010Z"
+    "firstSeen": "2026-10-22T00:58:48.672Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.42,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6289,
-      -122.5166
+      45.6155,
+      -122.5233
     ],
     [
-      45.6255,
-      -122.5225
+      45.6174,
+      -122.5281
     ],
     [
-      45.6219,
-      -122.5285
+      45.6192,
+      -122.5331
     ],
     [
-      45.6186,
-      -122.5341
+      45.6214,
+      -122.538
+    ],
+    [
+      45.6226,
+      -122.5412
+    ],
+    [
+      45.623,
+      -122.5438
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-22T00:44:36.641Z"
+  "timestamp": "2026-10-22T00:59:50.332Z"
 }
