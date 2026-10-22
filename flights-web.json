@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 3525,
-    "speed": 144,
-    "timestamp": "2026-10-22T15:28:42.911Z",
-    "lat": 45.6279,
-    "lon": -122.5262,
+    "distance": 0.19,
+    "altitude": 2600,
+    "speed": 117,
+    "timestamp": "2026-10-22T16:00:43.401Z",
+    "lat": 45.6266,
+    "lon": -122.5323,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N6028F",
-    "aircraftType": "BE35",
+    "callsign": "N8031X",
+    "aircraftType": "RV6",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-28T14:26:51.687Z"
+    "firstSeen": "2026-09-01T21:31:04.063Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.19,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6335,
-      -122.5201
+      45.6331,
+      -122.5195
     ],
     [
-      45.6279,
-      -122.5262
+      45.6299,
+      -122.5256
     ],
     [
-      45.6232,
-      -122.5311
+      45.6266,
+      -122.5323
     ],
     [
-      45.6172,
-      -122.5369
+      45.6228,
+      -122.5392
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-22T15:29:13.690Z"
+  "timestamp": "2026-10-22T16:01:04.125Z"
 }
