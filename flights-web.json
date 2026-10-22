@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 6100,
-    "speed": 174,
-    "timestamp": "2026-10-22T18:41:00.723Z",
-    "lat": 45.6199,
-    "lon": -122.5176,
-    "precision": "tracked"
+    "distance": 0.39,
+    "altitude": 1625,
+    "speed": 131,
+    "timestamp": "2026-10-22T18:43:45.364Z",
+    "lat": 45.6191,
+    "lon": -122.5254,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N589RC",
-    "aircraftType": "SR22",
-    "origin": "YKM",
+    "callsign": "B407",
+    "aircraftType": "B407",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-04-08T18:43:11.973Z"
+    "firstSeen": "2026-04-07T03:22:47.616Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.39,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6199,
-      -122.5176
+      45.6201,
+      -122.5344
     ],
     [
-      45.6156,
-      -122.5291
+      45.6191,
+      -122.5254
+    ],
+    [
+      45.6179,
+      -122.516
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-22T18:41:31.533Z"
+  "timestamp": "2026-10-22T18:44:06.243Z"
 }
