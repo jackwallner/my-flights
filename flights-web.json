@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 2100,
-    "speed": 115,
-    "timestamp": "2026-10-22T00:18:26.260Z",
-    "lat": 45.6193,
-    "lon": -122.5264,
+    "distance": 0.3,
+    "altitude": 2300,
+    "speed": 108,
+    "timestamp": "2026-10-22T00:35:32.666Z",
+    "lat": 45.6205,
+    "lon": -122.5257,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N480JP",
-    "aircraftType": "DA40",
-    "origin": "PDX",
+    "callsign": "N64269",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-10-04T02:24:30.216Z"
+    "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.3,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6187,
-      -122.535
+      45.6182,
+      -122.5331
     ],
     [
-      45.6193,
-      -122.5264
+      45.6205,
+      -122.5257
     ],
     [
-      45.6197,
-      -122.5197
+      45.6225,
+      -122.519
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-22T00:18:46.793Z"
+  "timestamp": "2026-10-22T00:35:53.198Z"
 }
