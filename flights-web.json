@@ -1,41 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 1900,
-    "speed": 84,
-    "timestamp": "2026-10-22T19:02:25.856Z",
-    "lat": 45.6176,
-    "lon": -122.5331,
+    "distance": 0.13,
+    "altitude": 1525,
+    "speed": 112,
+    "timestamp": "2026-10-22T21:09:42.057Z",
+    "lat": 45.6234,
+    "lon": -122.5296,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N983HC",
-    "aircraftType": "R22",
+    "callsign": "N6758H",
+    "aircraftType": "C172",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-10-22T19:02:15.580Z"
+    "firstSeen": "2026-01-31T19:49:55.976Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6188,
-      -122.5381
+      45.6318,
+      -122.5415
     ],
     [
-      45.6176,
-      -122.5331
+      45.6277,
+      -122.5354
     ],
     [
-      45.6162,
-      -122.5274
+      45.6234,
+      -122.5296
     ],
     [
-      45.6151,
-      -122.5226
+      45.62,
+      -122.5249
+    ],
+    [
+      45.6166,
+      -122.5201
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-22T19:02:56.677Z"
+  "status": "tracking",
+  "timestamp": "2026-10-22T21:10:02.579Z"
 }
