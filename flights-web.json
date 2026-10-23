@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 3700,
-    "speed": 101,
-    "timestamp": "2026-10-23T18:19:14.203Z",
-    "lat": 45.6222,
-    "lon": -122.5201,
+    "distance": 0.62,
+    "altitude": 4150,
+    "speed": 91,
+    "timestamp": "2026-10-23T23:43:33.943Z",
+    "lat": 45.616,
+    "lon": -122.5217,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N52371",
-    "aircraftType": "C172",
-    "origin": "HIO",
-    "destination": "HIO",
-    "firstSeen": "2026-10-21T19:30:04.581Z"
+    "callsign": "N49824",
+    "aircraftType": "C152",
+    "origin": "DLS",
+    "destination": null,
+    "firstSeen": "2026-04-05T20:48:21.788Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.62,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6304,
-      -122.5145
+      45.618,
+      -122.5156
     ],
     [
-      45.6268,
-      -122.5171
+      45.616,
+      -122.5217
     ],
     [
-      45.6222,
-      -122.5201
-    ],
-    [
-      45.6177,
-      -122.5229
-    ],
-    [
-      45.6138,
-      -122.5255
+      45.6145,
+      -122.5265
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-23T18:19:44.998Z"
+  "timestamp": "2026-10-23T23:43:54.424Z"
 }
