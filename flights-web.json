@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.17,
-    "altitude": 3550,
-    "speed": 85,
-    "timestamp": "2026-10-22T21:18:35.646Z",
-    "lat": 45.6276,
-    "lon": -122.5306,
+    "distance": 0.23,
+    "altitude": 1525,
+    "speed": 182,
+    "timestamp": "2026-10-23T00:34:09.282Z",
+    "lat": 45.6257,
+    "lon": -122.5226,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N8317G",
-    "aircraftType": "C172",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-04-30T02:20:43.830Z"
+    "callsign": "AMF1991",
+    "aircraftType": "BE99",
+    "origin": "AST",
+    "destination": "PDX",
+    "firstSeen": "2026-04-11T00:40:55.395Z"
   },
-  "overheadScore": 0.17,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6204,
-      -122.5363
+      45.6304,
+      -122.5358
     ],
     [
-      45.6243,
-      -122.5332
+      45.6257,
+      -122.5226
     ],
     [
-      45.6276,
-      -122.5306
-    ],
-    [
-      45.6306,
-      -122.5279
-    ],
-    [
-      45.6347,
-      -122.5247
+      45.62,
+      -122.5172
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-22T21:19:06.431Z"
+  "timestamp": "2026-10-23T00:34:29.797Z"
 }
