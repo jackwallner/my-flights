@@ -30803,5 +30803,24 @@
     "initialDistance": 0.6461823328788284,
     "initialAltitude": 4025,
     "initialSpeed": 117
+  },
+  {
+    "callsign": "TDY514",
+    "flightNumber": "TDY514",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BFI",
+    "icao": "A9AFA0",
+    "registration": "N723KP",
+    "firstSeen": "2026-10-25T23:29:48.749Z",
+    "lastSeen": "2026-10-25T23:29:59.057Z",
+    "duration": 10,
+    "closestDistance": 0.5338339994069103,
+    "closestAltitude": 2250,
+    "closestSpeed": 177,
+    "initialDistance": 0.5682485524480058,
+    "initialAltitude": 2000,
+    "initialSpeed": 174
   }
 ]
