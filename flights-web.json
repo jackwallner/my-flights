@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.6,
-    "altitude": 1800,
-    "speed": 121,
-    "timestamp": "2026-10-25T21:28:23.894Z",
-    "lat": 45.6153,
-    "lon": -122.5273,
+    "distance": 0.57,
+    "altitude": 1750,
+    "speed": 125,
+    "timestamp": "2026-10-25T21:58:29.806Z",
+    "lat": 45.6289,
+    "lon": -122.5406,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N4511V",
-    "aircraftType": "P28B",
+    "callsign": "EC35",
+    "aircraftType": "EC35",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-10-24T16:42:29.574Z"
+    "firstSeen": "2026-02-04T22:46:49.256Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.57,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6153,
-      -122.5273
+      45.624,
+      -122.5427
     ],
     [
-      45.6161,
-      -122.5347
+      45.6289,
+      -122.5406
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-25T21:28:54.654Z"
+  "status": "tracking",
+  "timestamp": "2026-10-25T21:58:29.806Z"
 }
