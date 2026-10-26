@@ -30822,5 +30822,24 @@
     "initialDistance": 0.5682485524480058,
     "initialAltitude": 2000,
     "initialSpeed": 174
+  },
+  {
+    "callsign": "CFS210",
+    "flightNumber": "EM210",
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "IDA",
+    "icao": "AC1E57",
+    "registration": "N880FE",
+    "firstSeen": "2026-10-26T20:08:22.557Z",
+    "lastSeen": "2026-10-26T20:08:32.861Z",
+    "duration": 10,
+    "closestDistance": 0.3140559793397512,
+    "closestAltitude": 1675,
+    "closestSpeed": 147,
+    "initialDistance": 0.5932922724827239,
+    "initialAltitude": 1525,
+    "initialSpeed": 149
   }
 ]

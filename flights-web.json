@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 2500,
-    "speed": 169,
-    "timestamp": "2026-10-26T16:28:42.610Z",
-    "lat": 45.6303,
-    "lon": -122.5372,
+    "distance": 0.31,
+    "altitude": 1675,
+    "speed": 147,
+    "timestamp": "2026-10-26T20:08:32.867Z",
+    "lat": 45.6207,
+    "lon": -122.5245,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "TDY1992",
-    "aircraftType": "PC-1",
+    "callsign": "CFS210",
+    "aircraftType": "Cara",
     "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-08-20T13:45:30.631Z"
+    "destination": "IDA",
+    "firstSeen": "2026-10-26T20:08:22.557Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.31,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6224,
-      -122.5421
+      45.6154,
+      -122.5279
     ],
     [
-      45.6303,
-      -122.5372
+      45.6207,
+      -122.5245
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-26T16:29:03.106Z"
+  "status": "tracking",
+  "timestamp": "2026-10-26T20:08:32.867Z"
 }
