@@ -6,7 +6,7 @@
     "timestamp": "2026-10-26T20:08:32.867Z",
     "lat": 45.6207,
     "lon": -122.5245,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "CFS210",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.31,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6154,
@@ -26,8 +26,12 @@
     [
       45.6207,
       -122.5245
+    ],
+    [
+      45.6273,
+      -122.5202
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-10-26T20:08:32.867Z"
+  "status": "completed",
+  "timestamp": "2026-10-26T20:08:53.444Z"
 }
