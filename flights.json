@@ -30841,5 +30841,24 @@
     "initialDistance": 0.5932922724827239,
     "initialAltitude": 1525,
     "initialSpeed": 149
+  },
+  {
+    "callsign": "AMF1970",
+    "flightNumber": "A81970",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "EAT",
+    "icao": "ADEE36",
+    "registration": "N997SB",
+    "firstSeen": "2026-10-26T21:57:33.567Z",
+    "lastSeen": "2026-10-26T21:57:43.852Z",
+    "duration": 10,
+    "closestDistance": 0.4841296264771888,
+    "closestAltitude": 3050,
+    "closestSpeed": 178,
+    "initialDistance": 0.4841296264771888,
+    "initialAltitude": 3050,
+    "initialSpeed": 178
   }
 ]

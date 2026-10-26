@@ -1,37 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.05,
-    "altitude": 2300,
-    "speed": 166,
-    "timestamp": "2026-10-26T21:00:35.596Z",
-    "lat": 45.6247,
-    "lon": -122.5273,
-    "precision": "high"
+    "distance": 0.48,
+    "altitude": 3050,
+    "speed": 178,
+    "timestamp": "2026-10-26T21:57:33.580Z",
+    "lat": 45.6184,
+    "lon": -122.5221,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ354",
-    "aircraftType": "PC-1",
+    "callsign": "AMF1970",
+    "aircraftType": "BE99",
     "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-01-31T21:45:56.090Z"
+    "destination": "EAT",
+    "firstSeen": "2026-10-26T21:57:33.567Z"
   },
-  "overheadScore": 0.05,
+  "overheadScore": 0.48,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6171,
-      -122.5316
+      45.6184,
+      -122.5221
     ],
     [
-      45.6247,
-      -122.5273
-    ],
-    [
-      45.6308,
-      -122.5237
+      45.6264,
+      -122.5162
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-26T21:00:56.137Z"
+  "timestamp": "2026-10-26T21:58:04.369Z"
 }
