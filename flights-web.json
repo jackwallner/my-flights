@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 3050,
-    "speed": 178,
-    "timestamp": "2026-10-26T21:57:33.580Z",
-    "lat": 45.6184,
-    "lon": -122.5221,
-    "precision": "tracked"
+    "distance": 0.29,
+    "altitude": 2425,
+    "speed": 174,
+    "timestamp": "2026-10-26T22:34:51.342Z",
+    "lat": 45.6216,
+    "lon": -122.5237,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "AMF1970",
-    "aircraftType": "BE99",
-    "origin": "PDX",
-    "destination": "EAT",
-    "firstSeen": "2026-10-26T21:57:33.567Z"
+    "callsign": "PC12",
+    "aircraftType": "PC-1",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.29,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6184,
-      -122.5221
+      45.6139,
+      -122.529
     ],
     [
-      45.6264,
-      -122.5162
+      45.6216,
+      -122.5237
+    ],
+    [
+      45.6277,
+      -122.5193
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-26T21:58:04.369Z"
+  "timestamp": "2026-10-26T22:35:11.905Z"
 }
