@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.31,
-    "altitude": 1675,
-    "speed": 147,
-    "timestamp": "2026-10-26T20:08:32.867Z",
-    "lat": 45.6207,
-    "lon": -122.5245,
+    "distance": 0.05,
+    "altitude": 2300,
+    "speed": 166,
+    "timestamp": "2026-10-26T21:00:35.596Z",
+    "lat": 45.6247,
+    "lon": -122.5273,
     "precision": "high"
   },
   "flight": {
-    "callsign": "CFS210",
-    "aircraftType": "Cara",
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "IDA",
-    "firstSeen": "2026-10-26T20:08:22.557Z"
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.31,
+  "overheadScore": 0.05,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6154,
-      -122.5279
+      45.6171,
+      -122.5316
     ],
     [
-      45.6207,
-      -122.5245
+      45.6247,
+      -122.5273
     ],
     [
-      45.6273,
-      -122.5202
+      45.6308,
+      -122.5237
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-26T20:08:53.444Z"
+  "status": "tracking",
+  "timestamp": "2026-10-26T21:00:45.844Z"
 }
