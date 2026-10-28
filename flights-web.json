@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 3900,
-    "speed": 212,
-    "timestamp": "2026-10-28T04:42:34.601Z",
-    "lat": 45.6257,
-    "lon": -122.5361,
+    "distance": 0.55,
+    "altitude": 4900,
+    "speed": 217,
+    "timestamp": "2026-10-28T16:01:48.982Z",
+    "lat": 45.6294,
+    "lon": -122.5399,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "callsign": "RKJ750",
+    "aircraftType": "Cita",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-10-28T16:01:48.827Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6359,
-      -122.5311
-    ],
-    [
-      45.6257,
-      -122.5361
+      45.6294,
+      -122.5399
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-28T04:42:55.113Z"
+  "status": "tracking",
+  "timestamp": "2026-10-28T16:01:48.982Z"
 }

@@ -30860,5 +30860,24 @@
     "initialDistance": 0.4841296264771888,
     "initialAltitude": 3050,
     "initialSpeed": 178
+  },
+  {
+    "callsign": "RKJ750",
+    "flightNumber": "RKJ750",
+    "aircraftType": "C750",
+    "aircraftName": null,
+    "origin": "BFI",
+    "destination": "HIO",
+    "icao": "AA1AAB",
+    "registration": "N750GM",
+    "firstSeen": "2026-10-28T16:01:48.827Z",
+    "lastSeen": "2026-10-28T16:01:48.827Z",
+    "duration": 0,
+    "closestDistance": 0.5533233529585552,
+    "closestAltitude": 4900,
+    "closestSpeed": 217,
+    "initialDistance": 0.5533233529585552,
+    "initialAltitude": 4900,
+    "initialSpeed": 217
   }
 ]
