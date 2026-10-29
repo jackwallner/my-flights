@@ -1,29 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 4900,
-    "speed": 217,
-    "timestamp": "2026-10-28T16:01:48.982Z",
-    "lat": 45.6294,
-    "lon": -122.5399,
-    "precision": "tracked"
+    "distance": 0.22,
+    "altitude": 3900,
+    "speed": 102,
+    "timestamp": "2026-10-29T00:47:48.153Z",
+    "lat": 45.6269,
+    "lon": -122.5327,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "RKJ750",
-    "aircraftType": "Cita",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-10-28T16:01:48.827Z"
+    "callsign": "N839SP",
+    "aircraftType": "C172",
+    "origin": "EUG",
+    "destination": null,
+    "firstSeen": "2026-10-29T00:47:27.140Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.22,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6294,
-      -122.5399
+      45.6353,
+      -122.5305
+    ],
+    [
+      45.6306,
+      -122.5318
+    ],
+    [
+      45.6269,
+      -122.5327
+    ],
+    [
+      45.622,
+      -122.5337
+    ],
+    [
+      45.617,
+      -122.5348
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-28T16:02:19.882Z"
+  "timestamp": "2026-10-29T00:48:19.635Z"
 }

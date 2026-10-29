@@ -30879,5 +30879,24 @@
     "initialDistance": 0.5533233529585552,
     "initialAltitude": 4900,
     "initialSpeed": 217
+  },
+  {
+    "callsign": "N839SP",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "EUG",
+    "destination": null,
+    "icao": "AB7B67",
+    "registration": "N839SP",
+    "firstSeen": "2026-10-29T00:47:27.140Z",
+    "lastSeen": "2026-10-29T00:48:08.835Z",
+    "duration": 42,
+    "closestDistance": 0.21580629103054252,
+    "closestAltitude": 3900,
+    "closestSpeed": 102,
+    "initialDistance": 0.6098794374841595,
+    "initialAltitude": 3900,
+    "initialSpeed": 101
   }
 ]
