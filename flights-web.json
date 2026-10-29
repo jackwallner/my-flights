@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.6,
+    "distance": 0.13,
     "altitude": 2375,
-    "speed": 145,
-    "timestamp": "2026-10-29T23:51:01.399Z",
-    "lat": 45.6296,
-    "lon": -122.541,
-    "precision": "tracked"
+    "speed": 161,
+    "timestamp": "2026-10-29T23:57:54.263Z",
+    "lat": 45.6232,
+    "lon": -122.5284,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "PC12",
+    "callsign": "TDY514",
     "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-10-25T23:29:48.749Z"
   },
-  "overheadScore": 0.6,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6296,
-      -122.541
+      45.616,
+      -122.5338
+    ],
+    [
+      45.6232,
+      -122.5284
+    ],
+    [
+      45.6304,
+      -122.5229
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-29T23:51:32.144Z"
+  "timestamp": "2026-10-29T23:58:14.903Z"
 }
