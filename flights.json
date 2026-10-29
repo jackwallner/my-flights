@@ -30898,5 +30898,24 @@
     "initialDistance": 0.6098794374841595,
     "initialAltitude": 3900,
     "initialSpeed": 101
+  },
+  {
+    "callsign": "N701RG",
+    "flightNumber": null,
+    "aircraftType": "F260",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A959C3",
+    "registration": "N701RG",
+    "firstSeen": "2026-10-29T21:37:11.831Z",
+    "lastSeen": "2026-10-29T21:37:22.161Z",
+    "duration": 10,
+    "closestDistance": 0.32305718541823697,
+    "closestAltitude": 1500,
+    "closestSpeed": 155,
+    "initialDistance": 0.32305718541823697,
+    "initialAltitude": 1500,
+    "initialSpeed": 155
   }
 ]
