@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 2325,
-    "speed": 160,
-    "timestamp": "2026-10-30T02:03:10.036Z",
-    "lat": 45.626,
-    "lon": -122.5443,
-    "precision": "tracked"
+    "distance": 0.36,
+    "altitude": 2650,
+    "speed": 156,
+    "timestamp": "2026-10-30T06:13:15.313Z",
+    "lat": 45.6283,
+    "lon": -122.5355,
+    "precision": "high"
   },
   "flight": {
     "callsign": "TDY1288",
@@ -15,15 +15,23 @@
     "destination": "BFI",
     "firstSeen": "2026-06-17T22:14:22.880Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.626,
-      -122.5443
+      45.6217,
+      -122.5407
+    ],
+    [
+      45.6283,
+      -122.5355
+    ],
+    [
+      45.6362,
+      -122.5318
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-30T02:03:40.811Z"
+  "status": "tracking",
+  "timestamp": "2026-10-30T06:13:25.553Z"
 }
