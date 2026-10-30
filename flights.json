@@ -30917,5 +30917,24 @@
     "initialDistance": 0.32305718541823697,
     "initialAltitude": 1500,
     "initialSpeed": 155
+  },
+  {
+    "callsign": "ASA381",
+    "flightNumber": "AS381",
+    "aircraftType": "B39M",
+    "aircraftName": null,
+    "origin": "BOI",
+    "destination": "PDX",
+    "icao": "ACF0D8",
+    "registration": "N933AK",
+    "firstSeen": "2026-10-30T20:38:35.843Z",
+    "lastSeen": "2026-10-30T20:38:46.306Z",
+    "duration": 10,
+    "closestDistance": 0.41703422526190553,
+    "closestAltitude": 6900,
+    "closestSpeed": 254,
+    "initialDistance": 0.41703422526190553,
+    "initialAltitude": 6900,
+    "initialSpeed": 254
   }
 ]
