@@ -1,45 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 2400,
-    "speed": 85,
-    "timestamp": "2026-10-31T20:24:43.781Z",
-    "lat": 45.6231,
-    "lon": -122.5292,
-    "precision": "high"
+    "distance": 0.38,
+    "altitude": 1500,
+    "speed": 144,
+    "timestamp": "2026-10-31T20:33:57.771Z",
+    "lat": 45.6289,
+    "lon": -122.5208,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": "TTD",
+    "callsign": "N7250N",
+    "aircraftType": "T210",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "firstSeen": "2026-10-31T20:33:47.462Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6229,
-      -122.5413
+      45.626,
+      -122.513
     ],
     [
-      45.623,
-      -122.5354
-    ],
-    [
-      45.6231,
-      -122.5292
-    ],
-    [
-      45.6234,
-      -122.5231
-    ],
-    [
-      45.6236,
-      -122.518
+      45.6289,
+      -122.5208
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-31T20:25:14.604Z"
+  "status": "tracking",
+  "timestamp": "2026-10-31T20:33:57.771Z"
 }

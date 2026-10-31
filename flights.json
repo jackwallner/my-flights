@@ -30955,5 +30955,24 @@
     "initialDistance": 0.5574039578459359,
     "initialAltitude": 2075,
     "initialSpeed": 176
+  },
+  {
+    "callsign": "N7250N",
+    "flightNumber": null,
+    "aircraftType": "T210",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A9B884",
+    "registration": "N7250N",
+    "firstSeen": "2026-10-31T20:33:47.462Z",
+    "lastSeen": "2026-10-31T20:33:57.748Z",
+    "duration": 10,
+    "closestDistance": 0.3761356172871013,
+    "closestAltitude": 1500,
+    "closestSpeed": 144,
+    "initialDistance": 0.6359918091476188,
+    "initialAltitude": 1500,
+    "initialSpeed": 144
   }
 ]
