@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 2075,
-    "speed": 176,
-    "timestamp": "2026-10-31T01:59:07.564Z",
-    "lat": 45.6333,
-    "lon": -122.5348,
-    "precision": "tracked"
+    "distance": 0.45,
+    "altitude": 2900,
+    "speed": 145,
+    "timestamp": "2026-10-31T15:06:14.380Z",
+    "lat": 45.6306,
+    "lon": -122.5355,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "AMF2168",
-    "aircraftType": "BE99",
-    "origin": "GEG",
-    "destination": "PDX",
-    "firstSeen": "2026-10-31T01:59:07.535Z"
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.45,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6333,
-      -122.5348
+      45.6234,
+      -122.5387
     ],
     [
-      45.6269,
-      -122.5428
+      45.6306,
+      -122.5355
+    ],
+    [
+      45.6363,
+      -122.5327
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-10-31T01:59:38.378Z"
+  "status": "tracking",
+  "timestamp": "2026-10-31T15:06:24.691Z"
 }
