@@ -30936,5 +30936,24 @@
     "initialDistance": 0.41703422526190553,
     "initialAltitude": 6900,
     "initialSpeed": 254
+  },
+  {
+    "callsign": "AMF2168",
+    "flightNumber": "A82168",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "GEG",
+    "destination": "PDX",
+    "icao": "ADEE36",
+    "registration": "N997SB",
+    "firstSeen": "2026-10-31T01:59:07.535Z",
+    "lastSeen": "2026-10-31T01:59:17.815Z",
+    "duration": 10,
+    "closestDistance": 0.5574039578459359,
+    "closestAltitude": 2075,
+    "closestSpeed": 176,
+    "initialDistance": 0.5574039578459359,
+    "initialAltitude": 2075,
+    "initialSpeed": 176
   }
 ]
