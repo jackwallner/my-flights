@@ -1,33 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 3400,
-    "speed": 140,
-    "timestamp": "2026-10-31T15:23:10.554Z",
-    "lat": 45.6306,
-    "lon": -122.542,
-    "precision": "tracked"
+    "distance": 0.14,
+    "altitude": 2400,
+    "speed": 85,
+    "timestamp": "2026-10-31T20:24:43.781Z",
+    "lat": 45.6231,
+    "lon": -122.5292,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "AMF1964",
-    "aircraftType": "BE99",
-    "origin": "PDX",
-    "destination": "HES",
-    "firstSeen": "2026-02-05T15:33:22.640Z"
+    "callsign": "N64269",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-04T00:11:12.231Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.14,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6306,
-      -122.542
+      45.6229,
+      -122.5413
     ],
     [
-      45.6356,
-      -122.5344
+      45.623,
+      -122.5354
+    ],
+    [
+      45.6231,
+      -122.5292
+    ],
+    [
+      45.6234,
+      -122.5231
+    ],
+    [
+      45.6236,
+      -122.518
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-10-31T15:23:41.473Z"
+  "timestamp": "2026-10-31T20:25:14.604Z"
 }
