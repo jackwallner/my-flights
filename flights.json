@@ -30974,5 +30974,24 @@
     "initialDistance": 0.6359918091476188,
     "initialAltitude": 1500,
     "initialSpeed": 144
+  },
+  {
+    "callsign": "JZA650",
+    "flightNumber": "AC8650",
+    "aircraftType": "DH8D",
+    "aircraftName": null,
+    "origin": "YVR",
+    "destination": "PDX",
+    "icao": "C055D2",
+    "registration": "C-GGMZ",
+    "firstSeen": "2026-11-01T17:38:42.823Z",
+    "lastSeen": "2026-11-01T17:38:53.085Z",
+    "duration": 10,
+    "closestDistance": 0.6112380166484188,
+    "closestAltitude": 4825,
+    "closestSpeed": 224,
+    "initialDistance": 0.6112380166484188,
+    "initialAltitude": 4825,
+    "initialSpeed": 224
   }
 ]
