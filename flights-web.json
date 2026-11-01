@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.7,
-    "altitude": 1825,
-    "speed": 97,
-    "timestamp": "2026-11-01T02:47:10.282Z",
-    "lat": 45.6142,
-    "lon": -122.5231,
-    "precision": "tracked"
+    "distance": 0.38,
+    "altitude": 2900,
+    "speed": 145,
+    "timestamp": "2026-11-01T15:46:28.058Z",
+    "lat": 45.6309,
+    "lon": -122.5321,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N491TC",
-    "aircraftType": "DA40",
-    "origin": "PUW",
-    "destination": null,
-    "firstSeen": "2026-07-10T05:42:24.386Z"
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.38,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6142,
-      -122.5231
+      45.6194,
+      -122.5411
+    ],
+    [
+      45.6263,
+      -122.5372
+    ],
+    [
+      45.6309,
+      -122.5321
+    ],
+    [
+      45.6358,
+      -122.5239
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-01T02:47:41.050Z"
+  "timestamp": "2026-11-01T15:46:48.571Z"
 }
