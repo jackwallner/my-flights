@@ -1,45 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.37,
-    "altitude": 7000,
-    "speed": 86,
-    "timestamp": "2026-11-01T02:04:15.625Z",
-    "lat": 45.6312,
-    "lon": -122.5307,
-    "precision": "high"
+    "distance": 0.7,
+    "altitude": 1825,
+    "speed": 97,
+    "timestamp": "2026-11-01T02:47:10.282Z",
+    "lat": 45.6142,
+    "lon": -122.5231,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6460M",
-    "aircraftType": "C152",
-    "origin": "YKM",
+    "callsign": "N491TC",
+    "aircraftType": "DA40",
+    "origin": "PUW",
     "destination": null,
-    "firstSeen": "2026-06-19T22:50:05.822Z"
+    "firstSeen": "2026-07-10T05:42:24.386Z"
   },
-  "overheadScore": 0.37,
+  "overheadScore": 0.7,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.634,
-      -122.5182
-    ],
-    [
-      45.6326,
-      -122.5246
-    ],
-    [
-      45.6312,
-      -122.5307
-    ],
-    [
-      45.6299,
-      -122.5357
-    ],
-    [
-      45.6285,
-      -122.5401
+      45.6142,
+      -122.5231
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-01T02:04:46.379Z"
+  "timestamp": "2026-11-01T02:47:41.050Z"
 }
