@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 1875,
-    "speed": 83,
-    "timestamp": "2026-11-01T00:49:02.840Z",
-    "lat": 45.6357,
-    "lon": -122.5277,
-    "precision": "tracked"
+    "distance": 0.37,
+    "altitude": 7000,
+    "speed": 86,
+    "timestamp": "2026-11-01T02:04:15.625Z",
+    "lat": 45.6312,
+    "lon": -122.5307,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N18586",
-    "aircraftType": "C150",
-    "origin": null,
+    "callsign": "N6460M",
+    "aircraftType": "C152",
+    "origin": "YKM",
     "destination": null,
-    "firstSeen": "2026-02-06T23:57:53.810Z"
+    "firstSeen": "2026-06-19T22:50:05.822Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6357,
-      -122.5277
+      45.634,
+      -122.5182
     ],
     [
-      45.6352,
-      -122.5229
+      45.6326,
+      -122.5246
+    ],
+    [
+      45.6312,
+      -122.5307
+    ],
+    [
+      45.6299,
+      -122.5357
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-01T00:49:33.611Z"
+  "status": "tracking",
+  "timestamp": "2026-11-01T02:04:25.881Z"
 }
