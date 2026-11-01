@@ -30993,5 +30993,24 @@
     "initialDistance": 0.6112380166484188,
     "initialAltitude": 4825,
     "initialSpeed": 224
+  },
+  {
+    "callsign": "B350",
+    "flightNumber": null,
+    "aircraftType": "B350",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": null,
+    "registration": null,
+    "firstSeen": "2026-11-01T18:06:56.008Z",
+    "lastSeen": "2026-11-01T18:07:06.255Z",
+    "duration": 10,
+    "closestDistance": 0.5678056278188296,
+    "closestAltitude": 2925,
+    "closestSpeed": 167,
+    "initialDistance": 0.5717064398073616,
+    "initialAltitude": 2700,
+    "initialSpeed": 165
   }
 ]
