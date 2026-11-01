@@ -31012,5 +31012,24 @@
     "initialDistance": 0.5717064398073616,
     "initialAltitude": 2700,
     "initialSpeed": 165
+  },
+  {
+    "callsign": "N19NG",
+    "flightNumber": null,
+    "aircraftType": "B06",
+    "aircraftName": null,
+    "origin": "TIW",
+    "destination": null,
+    "icao": "A16705",
+    "registration": "N19NG",
+    "firstSeen": "2026-11-01T23:14:43.705Z",
+    "lastSeen": "2026-11-01T23:15:04.230Z",
+    "duration": 21,
+    "closestDistance": 0.5278183227368737,
+    "closestAltitude": 700,
+    "closestSpeed": 104,
+    "initialDistance": 0.5843002621961157,
+    "initialAltitude": 700,
+    "initialSpeed": 104
   }
 ]
