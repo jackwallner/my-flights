@@ -31031,5 +31031,24 @@
     "initialDistance": 0.5843002621961157,
     "initialAltitude": 700,
     "initialSpeed": 104
+  },
+  {
+    "callsign": "N146NC",
+    "flightNumber": null,
+    "aircraftType": "PA46",
+    "aircraftName": null,
+    "origin": "PAE",
+    "destination": "QSA",
+    "icao": "A0BA29",
+    "registration": "N146NC",
+    "firstSeen": "2026-11-02T00:04:21.579Z",
+    "lastSeen": "2026-11-02T00:04:42.200Z",
+    "duration": 21,
+    "closestDistance": 0.2892691802196569,
+    "closestAltitude": 6775,
+    "closestSpeed": 186,
+    "initialDistance": 0.56034839863815,
+    "initialAltitude": 6900,
+    "initialSpeed": 186
   }
 ]

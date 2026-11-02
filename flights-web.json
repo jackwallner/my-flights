@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 700,
-    "speed": 104,
-    "timestamp": "2026-11-01T23:14:53.980Z",
-    "lat": 45.6168,
-    "lon": -122.5248,
+    "distance": 0.29,
+    "altitude": 6775,
+    "speed": 186,
+    "timestamp": "2026-11-02T00:04:31.948Z",
+    "lat": 45.6269,
+    "lon": -122.5346,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N19NG",
-    "aircraftType": "B06",
-    "origin": "TIW",
-    "destination": null,
-    "firstSeen": "2026-11-01T23:14:43.705Z"
+    "callsign": "N146NC",
+    "aircraftType": "PA46",
+    "origin": "PAE",
+    "destination": "QSA",
+    "firstSeen": "2026-11-02T00:04:21.579Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.29,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.616,
-      -122.5323
+      45.6346,
+      -122.5274
     ],
     [
-      45.6168,
-      -122.5248
+      45.6269,
+      -122.5346
     ],
     [
-      45.617,
-      -122.5213
+      45.6204,
+      -122.5406
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-01T23:15:14.479Z"
+  "timestamp": "2026-11-02T00:04:52.482Z"
 }
