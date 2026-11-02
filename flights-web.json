@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 6775,
-    "speed": 186,
-    "timestamp": "2026-11-02T00:04:31.948Z",
-    "lat": 45.6269,
-    "lon": -122.5346,
+    "distance": 0.06,
+    "altitude": 2400,
+    "speed": 153,
+    "timestamp": "2026-11-02T00:33:16.172Z",
+    "lat": 45.6257,
+    "lon": -122.5267,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N146NC",
-    "aircraftType": "PA46",
-    "origin": "PAE",
-    "destination": "QSA",
-    "firstSeen": "2026-11-02T00:04:21.579Z"
+    "callsign": "TDY1776",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-09-03T13:40:35.851Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.06,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6346,
-      -122.5274
+      45.6187,
+      -122.5322
     ],
     [
-      45.6269,
-      -122.5346
+      45.6257,
+      -122.5267
     ],
     [
-      45.6204,
-      -122.5406
+      45.6323,
+      -122.521
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-02T00:04:52.482Z"
+  "timestamp": "2026-11-02T00:33:36.663Z"
 }
