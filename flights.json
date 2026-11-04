@@ -31050,5 +31050,24 @@
     "initialDistance": 0.56034839863815,
     "initialAltitude": 6900,
     "initialSpeed": 186
+  },
+  {
+    "callsign": "N6058S",
+    "flightNumber": null,
+    "aircraftType": "C82S",
+    "aircraftName": null,
+    "origin": "PAE",
+    "destination": null,
+    "icao": "A7DD53",
+    "registration": "N6058S",
+    "firstSeen": "2026-11-04T22:11:09.907Z",
+    "lastSeen": "2026-11-04T22:11:30.634Z",
+    "duration": 21,
+    "closestDistance": 0.5806602478713706,
+    "closestAltitude": 9350,
+    "closestSpeed": 111,
+    "initialDistance": 0.6381962271828784,
+    "initialAltitude": 9350,
+    "initialSpeed": 112
   }
 ]
