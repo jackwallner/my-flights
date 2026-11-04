@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.69,
-    "altitude": 4425,
-    "speed": 140,
-    "timestamp": "2026-11-04T15:06:38.515Z",
-    "lat": 45.615,
-    "lon": -122.5207,
-    "precision": "tracked"
+    "distance": 0.27,
+    "altitude": 3000,
+    "speed": 162,
+    "timestamp": "2026-11-04T17:05:31.739Z",
+    "lat": 45.6244,
+    "lon": -122.5219,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "AMF1964",
-    "aircraftType": "Beec",
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
     "origin": "PDX",
     "destination": "PDT",
-    "firstSeen": "2026-02-05T15:33:22.640Z"
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.69,
+  "overheadScore": 0.27,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.615,
-      -122.5207
+      45.6182,
+      -122.5247
+    ],
+    [
+      45.6244,
+      -122.5219
+    ],
+    [
+      45.6329,
+      -122.5183
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-04T15:07:09.454Z"
+  "timestamp": "2026-11-04T17:05:52.312Z"
 }
