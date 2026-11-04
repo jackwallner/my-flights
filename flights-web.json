@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 9350,
-    "speed": 111,
-    "timestamp": "2026-11-04T22:11:20.375Z",
-    "lat": 45.6248,
-    "lon": -122.5143,
+    "distance": 0.14,
+    "altitude": 2050,
+    "speed": 163,
+    "timestamp": "2026-11-04T22:14:25.286Z",
+    "lat": 45.6231,
+    "lon": -122.5291,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N6058S",
-    "aircraftType": "C82S",
-    "origin": "PAE",
-    "destination": null,
-    "firstSeen": "2026-11-04T22:11:09.907Z"
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.14,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6294,
-      -122.5141
+      45.6158,
+      -122.5335
     ],
     [
-      45.6248,
-      -122.5143
+      45.6231,
+      -122.5291
     ],
     [
-      45.6191,
-      -122.5147
+      45.6312,
+      -122.5242
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-04T22:11:40.914Z"
+  "timestamp": "2026-11-04T22:14:45.823Z"
 }
