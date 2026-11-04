@@ -1,33 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 2575,
-    "speed": 147,
-    "timestamp": "2026-11-04T14:46:26.457Z",
-    "lat": 45.6297,
-    "lon": -122.5376,
+    "distance": 0.69,
+    "altitude": 4425,
+    "speed": 140,
+    "timestamp": "2026-11-04T15:06:38.515Z",
+    "lat": 45.615,
+    "lon": -122.5207,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "TDY1776",
-    "aircraftType": "PC-1",
+    "callsign": "AMF1964",
+    "aircraftType": "Beec",
     "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-09-03T13:40:35.851Z"
+    "destination": "PDT",
+    "firstSeen": "2026-02-05T15:33:22.640Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6232,
-      -122.5425
-    ],
-    [
-      45.6297,
-      -122.5376
+      45.615,
+      -122.5207
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-04T14:46:47.000Z"
+  "timestamp": "2026-11-04T15:07:09.454Z"
 }
