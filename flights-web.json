@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 2825,
-    "speed": 92,
-    "timestamp": "2026-11-05T10:52:08.039Z",
-    "lat": 45.6214,
-    "lon": -122.5169,
-    "precision": "tracked"
+    "distance": 0.24,
+    "altitude": 2725,
+    "speed": 97,
+    "timestamp": "2026-11-05T10:52:28.585Z",
+    "lat": 45.629,
+    "lon": -122.5263,
+    "precision": "high"
   },
   "flight": {
     "callsign": "B429",
@@ -15,15 +15,31 @@
     "destination": null,
     "firstSeen": "2026-02-08T01:38:54.621Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6214,
       -122.5169
+    ],
+    [
+      45.6247,
+      -122.5203
+    ],
+    [
+      45.629,
+      -122.5263
+    ],
+    [
+      45.6318,
+      -122.5304
+    ],
+    [
+      45.6344,
+      -122.5349
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-05T10:52:08.039Z"
+  "status": "completed",
+  "timestamp": "2026-11-05T10:52:59.343Z"
 }
