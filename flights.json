@@ -31088,5 +31088,24 @@
     "initialDistance": 0.5229806752748501,
     "initialAltitude": 1750,
     "initialSpeed": 155
+  },
+  {
+    "callsign": "SWA3295",
+    "flightNumber": "WN3295",
+    "aircraftType": "B38M",
+    "aircraftName": null,
+    "origin": "MDW",
+    "destination": "PDX",
+    "icao": "AC0B96",
+    "registration": "N8752Q",
+    "firstSeen": "2026-11-05T06:36:35.754Z",
+    "lastSeen": "2026-11-05T06:36:46.014Z",
+    "duration": 10,
+    "closestDistance": 0.5284992943136878,
+    "closestAltitude": 3625,
+    "closestSpeed": 235,
+    "initialDistance": 0.5284992943136878,
+    "initialAltitude": 3625,
+    "initialSpeed": 235
   }
 ]
