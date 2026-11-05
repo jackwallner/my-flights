@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 2100,
-    "speed": 154,
-    "timestamp": "2026-11-05T22:39:44.188Z",
-    "lat": 45.6204,
-    "lon": -122.5223,
+    "distance": 0.16,
+    "altitude": 1200,
+    "speed": 108,
+    "timestamp": "2026-11-05T22:55:48.547Z",
+    "lat": 45.6229,
+    "lon": -122.5264,
     "precision": "high"
   },
   "flight": {
-    "callsign": "BTQ352",
-    "aircraftType": "PC-1",
+    "callsign": "N21LW",
+    "aircraftType": "C182",
     "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-01-30T18:21:31.073Z"
+    "destination": null,
+    "firstSeen": "2026-06-07T23:51:48.539Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6137,
-      -122.5267
+      45.6232,
+      -122.5191
     ],
     [
-      45.6204,
-      -122.5223
+      45.6229,
+      -122.5264
     ],
     [
-      45.6262,
-      -122.5188
+      45.6227,
+      -122.5336
+    ],
+    [
+      45.6227,
+      -122.5408
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-05T22:40:04.721Z"
+  "status": "tracking",
+  "timestamp": "2026-11-05T22:56:09.046Z"
 }
