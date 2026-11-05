@@ -1,11 +1,11 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 1925,
-    "speed": 174,
-    "timestamp": "2026-11-05T02:56:25.486Z",
-    "lat": 45.6264,
-    "lon": -122.5363,
+    "distance": 0.24,
+    "altitude": 1950,
+    "speed": 179,
+    "timestamp": "2026-11-05T05:41:02.329Z",
+    "lat": 45.6286,
+    "lon": -122.5248,
     "precision": "high"
   },
   "flight": {
@@ -15,23 +15,23 @@
     "destination": "BFI",
     "firstSeen": "2026-06-17T22:14:22.880Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.24,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.62,
-      -122.5404
-    ],
-    [
-      45.6264,
-      -122.5363
-    ],
-    [
-      45.6355,
+      45.6194,
       -122.5302
+    ],
+    [
+      45.6286,
+      -122.5248
+    ],
+    [
+      45.6357,
+      -122.5208
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-05T02:56:46.025Z"
+  "status": "tracking",
+  "timestamp": "2026-11-05T05:41:12.575Z"
 }
