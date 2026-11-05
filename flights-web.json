@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.11,
+    "distance": 0.19,
     "altitude": 2675,
-    "speed": 145,
-    "timestamp": "2026-11-05T15:43:34.584Z",
-    "lat": 45.6236,
-    "lon": -122.5291,
+    "speed": 160,
+    "timestamp": "2026-11-05T21:04:37.087Z",
+    "lat": 45.6271,
+    "lon": -122.5317,
     "precision": "high"
   },
   "flight": {
-    "callsign": "TDY1992",
+    "callsign": "BOE1AU",
     "aircraftType": "PC-1",
     "origin": "PDX",
     "destination": "BFI",
-    "firstSeen": "2026-08-20T13:45:30.631Z"
+    "firstSeen": "2026-02-03T23:18:02.427Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.19,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.617,
-      -122.5327
+      45.6196,
+      -122.5364
     ],
     [
-      45.6236,
-      -122.5291
+      45.6271,
+      -122.5317
     ],
     [
-      45.6309,
-      -122.5266
+      45.6344,
+      -122.527
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-05T15:43:55.146Z"
+  "timestamp": "2026-11-05T21:04:57.585Z"
 }
