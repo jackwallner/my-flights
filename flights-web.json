@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.55,
+    "distance": 0.18,
     "altitude": 0,
-    "speed": 171,
-    "timestamp": "2026-11-06T22:25:54.222Z",
-    "lat": 45.6182,
-    "lon": -122.5366,
-    "precision": "tracked"
+    "speed": 174,
+    "timestamp": "2026-11-06T22:26:04.566Z",
+    "lat": 45.6271,
+    "lon": -122.5314,
+    "precision": "high"
   },
   "flight": {
     "callsign": "AMF2239",
@@ -15,15 +15,23 @@
     "destination": "BLI",
     "firstSeen": "2026-11-06T22:25:54.215Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6182,
       -122.5366
+    ],
+    [
+      45.6271,
+      -122.5314
+    ],
+    [
+      45.6355,
+      -122.5266
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-06T22:25:54.222Z"
+  "status": "completed",
+  "timestamp": "2026-11-06T22:26:25.120Z"
 }
