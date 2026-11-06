@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.16,
-    "altitude": 1200,
-    "speed": 108,
-    "timestamp": "2026-11-05T22:55:48.547Z",
-    "lat": 45.6229,
-    "lon": -122.5264,
+    "distance": 0.13,
+    "altitude": 2525,
+    "speed": 155,
+    "timestamp": "2026-11-06T00:19:56.806Z",
+    "lat": 45.6233,
+    "lon": -122.5296,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N21LW",
-    "aircraftType": "C182",
+    "callsign": "TDY007",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-06-07T23:51:48.539Z"
+    "destination": "RNT",
+    "firstSeen": "2026-05-18T22:08:46.446Z"
   },
-  "overheadScore": 0.16,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6232,
-      -122.5191
+      45.6164,
+      -122.5332
     ],
     [
-      45.6229,
-      -122.5264
+      45.6233,
+      -122.5296
     ],
     [
-      45.6227,
-      -122.5336
-    ],
-    [
-      45.6227,
-      -122.5408
+      45.6309,
+      -122.5258
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-05T22:56:19.296Z"
+  "timestamp": "2026-11-06T00:20:17.354Z"
 }
