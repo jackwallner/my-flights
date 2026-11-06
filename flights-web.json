@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 0,
-    "speed": 174,
-    "timestamp": "2026-11-06T22:26:04.566Z",
-    "lat": 45.6271,
-    "lon": -122.5314,
+    "distance": 0.59,
+    "altitude": 1425,
+    "speed": 100,
+    "timestamp": "2026-11-06T22:39:36.565Z",
+    "lat": 45.6163,
+    "lon": -122.534,
     "precision": "high"
   },
   "flight": {
-    "callsign": "AMF2239",
-    "aircraftType": "BE99",
+    "callsign": "N738FD",
+    "aircraftType": "C172",
     "origin": "PDX",
-    "destination": "BLI",
-    "firstSeen": "2026-11-06T22:25:54.215Z"
+    "destination": null,
+    "firstSeen": "2026-03-16T21:51:17.244Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6182,
-      -122.5366
+      45.6186,
+      -122.5405
     ],
     [
-      45.6271,
-      -122.5314
+      45.6163,
+      -122.534
     ],
     [
-      45.6355,
-      -122.5266
+      45.6138,
+      -122.5272
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-06T22:26:25.120Z"
+  "timestamp": "2026-11-06T22:39:57.480Z"
 }
