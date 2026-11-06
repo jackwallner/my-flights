@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.38,
-    "altitude": 2225,
-    "speed": 164,
-    "timestamp": "2026-11-06T14:54:50.743Z",
-    "lat": 45.6208,
-    "lon": -122.5346,
-    "precision": "tracked"
+    "distance": 0.19,
+    "altitude": 2500,
+    "speed": 169,
+    "timestamp": "2026-11-06T14:55:01.005Z",
+    "lat": 45.6282,
+    "lon": -122.53,
+    "precision": "high"
   },
   "flight": {
     "callsign": "TDY514",
@@ -15,15 +15,23 @@
     "destination": "BFI",
     "firstSeen": "2026-10-25T23:29:48.749Z"
   },
-  "overheadScore": 0.38,
+  "overheadScore": 0.19,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6208,
       -122.5346
+    ],
+    [
+      45.6282,
+      -122.53
+    ],
+    [
+      45.6367,
+      -122.5248
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-06T14:54:50.743Z"
+  "status": "completed",
+  "timestamp": "2026-11-06T14:55:21.482Z"
 }
