@@ -31107,5 +31107,24 @@
     "initialDistance": 0.5284992943136878,
     "initialAltitude": 3625,
     "initialSpeed": 235
+  },
+  {
+    "callsign": "AMF2239",
+    "flightNumber": "A82239",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "BLI",
+    "icao": "ADEE36",
+    "registration": "N997SB",
+    "firstSeen": "2026-11-06T22:25:54.215Z",
+    "lastSeen": "2026-11-06T22:25:54.215Z",
+    "duration": 0,
+    "closestDistance": 0.5547704478986748,
+    "closestAltitude": 0,
+    "closestSpeed": 171,
+    "initialDistance": 0.5547704478986748,
+    "initialAltitude": 0,
+    "initialSpeed": 171
   }
 ]

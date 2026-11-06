@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.29,
-    "altitude": 2225,
-    "speed": 176,
-    "timestamp": "2026-11-06T21:59:21.259Z",
-    "lat": 45.6241,
-    "lon": -122.5213,
-    "precision": "high"
+    "distance": 0.55,
+    "altitude": 0,
+    "speed": 171,
+    "timestamp": "2026-11-06T22:25:54.222Z",
+    "lat": 45.6182,
+    "lon": -122.5366,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ354",
-    "aircraftType": "PC-1",
+    "callsign": "AMF2239",
+    "aircraftType": "BE99",
     "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-01-31T21:45:56.090Z"
+    "destination": "BLI",
+    "firstSeen": "2026-11-06T22:25:54.215Z"
   },
-  "overheadScore": 0.29,
+  "overheadScore": 0.55,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.616,
-      -122.5255
-    ],
-    [
-      45.6241,
-      -122.5213
-    ],
-    [
-      45.6311,
-      -122.5175
+      45.6182,
+      -122.5366
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-06T21:59:42.051Z"
+  "status": "tracking",
+  "timestamp": "2026-11-06T22:25:54.222Z"
 }
