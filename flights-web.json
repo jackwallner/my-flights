@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.59,
-    "altitude": 1425,
-    "speed": 100,
-    "timestamp": "2026-11-06T22:39:36.565Z",
-    "lat": 45.6163,
-    "lon": -122.534,
+    "distance": 0.19,
+    "altitude": 2100,
+    "speed": 167,
+    "timestamp": "2026-11-07T00:13:21.760Z",
+    "lat": 45.6277,
+    "lon": -122.5309,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N738FD",
-    "aircraftType": "C172",
+    "callsign": "TDY925",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-03-16T21:51:17.244Z"
+    "destination": "RNT",
+    "firstSeen": "2026-11-05T00:04:41.474Z"
   },
-  "overheadScore": 0.59,
+  "overheadScore": 0.19,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6186,
-      -122.5405
+      45.6215,
+      -122.5346
     ],
     [
-      45.6163,
-      -122.534
+      45.6277,
+      -122.5309
     ],
     [
-      45.6138,
-      -122.5272
+      45.6354,
+      -122.5261
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-06T22:39:57.480Z"
+  "timestamp": "2026-11-07T00:13:42.284Z"
 }
