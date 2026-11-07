@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 975,
-    "speed": 87,
-    "timestamp": "2026-11-07T23:48:32.459Z",
-    "lat": 45.6366,
-    "lon": -122.5268,
-    "precision": "tracked"
+    "distance": 0.12,
+    "altitude": 400,
+    "speed": 62,
+    "timestamp": "2026-11-07T23:50:04.806Z",
+    "lat": 45.6259,
+    "lon": -122.5309,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N505PD",
@@ -15,15 +15,55 @@
     "destination": null,
     "firstSeen": "2026-02-06T21:09:58.652Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 11,
   "trail": [
     [
       45.6366,
       -122.5268
+    ],
+    [
+      45.6358,
+      -122.5351
+    ],
+    [
+      45.6339,
+      -122.5361
+    ],
+    [
+      45.6278,
+      -122.5357
+    ],
+    [
+      45.6272,
+      -122.5357
+    ],
+    [
+      45.6228,
+      -122.5358
+    ],
+    [
+      45.621,
+      -122.5331
+    ],
+    [
+      45.6233,
+      -122.5314
+    ],
+    [
+      45.6259,
+      -122.5309
+    ],
+    [
+      45.6281,
+      -122.5308
+    ],
+    [
+      45.6281,
+      -122.5308
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-07T23:48:32.459Z"
+  "status": "completed",
+  "timestamp": "2026-11-07T23:50:35.577Z"
 }
