@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.53,
+    "distance": 0.29,
     "altitude": 2550,
-    "speed": 104,
-    "timestamp": "2026-11-07T18:15:04.510Z",
-    "lat": 45.634,
-    "lon": -122.5302,
+    "speed": 171,
+    "timestamp": "2026-11-07T21:48:41.709Z",
+    "lat": 45.6299,
+    "lon": -122.5301,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N738FD",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-16T21:51:17.244Z"
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.29,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6342,
-      -122.5221
+      45.6224,
+      -122.5345
     ],
     [
-      45.634,
-      -122.5302
+      45.6299,
+      -122.5301
     ],
     [
-      45.6339,
-      -122.5368
+      45.6362,
+      -122.5258
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-07T18:15:24.989Z"
+  "timestamp": "2026-11-07T21:49:02.245Z"
 }
