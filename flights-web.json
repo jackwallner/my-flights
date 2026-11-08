@@ -1,33 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.48,
-    "altitude": 3775,
-    "speed": 173,
-    "timestamp": "2026-11-08T22:04:49.294Z",
-    "lat": 45.6279,
-    "lon": -122.539,
-    "precision": "tracked"
+    "distance": 0.14,
+    "altitude": 3300,
+    "speed": 100,
+    "timestamp": "2026-11-08T22:09:57.227Z",
+    "lat": 45.6266,
+    "lon": -122.5255,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N2865B",
-    "aircraftType": "S22T",
-    "origin": "SFF",
-    "destination": "QSA",
-    "firstSeen": "2026-09-12T01:01:34.059Z"
+    "callsign": "N839SP",
+    "aircraftType": "C172",
+    "origin": "PDT",
+    "destination": null,
+    "firstSeen": "2026-10-29T00:47:27.140Z"
   },
-  "overheadScore": 0.48,
+  "overheadScore": 0.14,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6348,
-      -122.5308
+      45.6272,
+      -122.5119
     ],
     [
-      45.6279,
-      -122.539
+      45.6269,
+      -122.5196
+    ],
+    [
+      45.6266,
+      -122.5255
+    ],
+    [
+      45.6264,
+      -122.5329
+    ],
+    [
+      45.6261,
+      -122.5398
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-08T22:05:09.834Z"
+  "timestamp": "2026-11-08T22:10:28.017Z"
 }
