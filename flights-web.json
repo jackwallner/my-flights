@@ -6,7 +6,7 @@
     "timestamp": "2026-11-08T21:41:12.832Z",
     "lat": 45.6226,
     "lon": -122.5273,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "BTQ354",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.16,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.617,
@@ -26,8 +26,12 @@
     [
       45.6226,
       -122.5273
+    ],
+    [
+      45.6297,
+      -122.5225
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-08T21:41:12.832Z"
+  "status": "completed",
+  "timestamp": "2026-11-08T21:41:33.353Z"
 }
