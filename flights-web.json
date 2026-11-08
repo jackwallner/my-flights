@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 1350,
-    "speed": 85,
-    "timestamp": "2026-11-08T21:15:12.450Z",
-    "lat": 45.6217,
-    "lon": -122.5403,
-    "precision": "tracked"
+    "distance": 0.51,
+    "altitude": 1300,
+    "speed": 82,
+    "timestamp": "2026-11-08T21:15:22.728Z",
+    "lat": 45.619,
+    "lon": -122.5362,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N983HC",
@@ -15,9 +15,9 @@
     "destination": null,
     "firstSeen": "2026-10-22T19:02:15.580Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6242,
@@ -26,8 +26,20 @@
     [
       45.6217,
       -122.5403
+    ],
+    [
+      45.619,
+      -122.5362
+    ],
+    [
+      45.6161,
+      -122.5317
+    ],
+    [
+      45.6138,
+      -122.5278
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-08T21:15:12.450Z"
+  "status": "completed",
+  "timestamp": "2026-11-08T21:15:53.533Z"
 }
