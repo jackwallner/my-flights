@@ -31126,5 +31126,24 @@
     "initialDistance": 0.5547704478986748,
     "initialAltitude": 0,
     "initialSpeed": 171
+  },
+  {
+    "callsign": "DAL2116",
+    "flightNumber": "DL2116",
+    "aircraftType": "B739",
+    "aircraftName": null,
+    "origin": "MSP",
+    "destination": "PDX",
+    "icao": "AB23B5",
+    "registration": "N817DN",
+    "firstSeen": "2026-11-09T20:23:02.801Z",
+    "lastSeen": "2026-11-09T20:23:13.305Z",
+    "duration": 11,
+    "closestDistance": 0.5352277898285677,
+    "closestAltitude": 3950,
+    "closestSpeed": 223,
+    "initialDistance": 0.6605704047816315,
+    "initialAltitude": 3800,
+    "initialSpeed": 217
   }
 ]
