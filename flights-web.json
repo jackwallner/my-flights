@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.25,
-    "altitude": 1600,
-    "speed": 99,
-    "timestamp": "2026-11-09T00:26:22.174Z",
-    "lat": 45.6211,
-    "lon": -122.5272,
+    "distance": 0.32,
+    "altitude": 2350,
+    "speed": 157,
+    "timestamp": "2026-11-09T00:30:49.155Z",
+    "lat": 45.6292,
+    "lon": -122.5334,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N8741V",
-    "aircraftType": "CH7B",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-03-01T00:03:19.190Z"
+    "callsign": "TDY1738",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-06-08T23:11:14.534Z"
   },
-  "overheadScore": 0.25,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6168,
-      -122.5394
-    ],
-    [
-      45.619,
-      -122.5333
-    ],
-    [
-      45.6211,
-      -122.5272
-    ],
-    [
-      45.6222,
-      -122.521
-    ],
-    [
       45.6223,
-      -122.5167
+      -122.5375
+    ],
+    [
+      45.6292,
+      -122.5334
+    ],
+    [
+      45.6364,
+      -122.5292
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-09T00:26:52.945Z"
+  "timestamp": "2026-11-09T00:31:09.724Z"
 }
