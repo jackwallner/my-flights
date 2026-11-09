@@ -1,45 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.14,
-    "altitude": 3300,
-    "speed": 100,
-    "timestamp": "2026-11-08T22:09:57.227Z",
-    "lat": 45.6266,
-    "lon": -122.5255,
+    "distance": 0.25,
+    "altitude": 1600,
+    "speed": 99,
+    "timestamp": "2026-11-09T00:26:22.174Z",
+    "lat": 45.6211,
+    "lon": -122.5272,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N839SP",
-    "aircraftType": "C172",
-    "origin": "PDT",
+    "callsign": "N8741V",
+    "aircraftType": "CH7B",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-10-29T00:47:27.140Z"
+    "firstSeen": "2026-03-01T00:03:19.190Z"
   },
-  "overheadScore": 0.14,
+  "overheadScore": 0.25,
   "isOverhead": true,
   "pathSnapshots": 5,
   "trail": [
     [
-      45.6272,
-      -122.5119
+      45.6168,
+      -122.5394
     ],
     [
-      45.6269,
-      -122.5196
+      45.619,
+      -122.5333
     ],
     [
-      45.6266,
-      -122.5255
+      45.6211,
+      -122.5272
     ],
     [
-      45.6264,
-      -122.5329
+      45.6222,
+      -122.521
     ],
     [
-      45.6261,
-      -122.5398
+      45.6223,
+      -122.5167
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-08T22:10:28.017Z"
+  "timestamp": "2026-11-09T00:26:52.945Z"
 }
