@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.23,
-    "altitude": 2025,
-    "speed": 173,
-    "timestamp": "2026-11-10T01:27:45.351Z",
-    "lat": 45.6215,
-    "lon": -122.5276,
+    "distance": 0.15,
+    "altitude": 2300,
+    "speed": 161,
+    "timestamp": "2026-11-10T05:00:47.368Z",
+    "lat": 45.623,
+    "lon": -122.5267,
     "precision": "high"
   },
   "flight": {
-    "callsign": "BTQ356",
+    "callsign": "N723KP",
     "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-02-01T01:16:07.516Z"
+    "destination": null,
+    "firstSeen": "2026-02-07T18:07:34.039Z"
   },
-  "overheadScore": 0.23,
+  "overheadScore": 0.15,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6147,
-      -122.5315
+      45.6172,
+      -122.5309
     ],
     [
-      45.6215,
-      -122.5276
+      45.623,
+      -122.5267
     ],
     [
-      45.6297,
-      -122.5229
+      45.63,
+      -122.5219
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-10T01:28:05.930Z"
+  "timestamp": "2026-11-10T05:01:07.870Z"
 }
