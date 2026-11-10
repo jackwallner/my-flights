@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 1825,
-    "speed": 172,
-    "timestamp": "2026-11-10T01:27:35.090Z",
-    "lat": 45.6147,
-    "lon": -122.5315,
-    "precision": "tracked"
+    "distance": 0.23,
+    "altitude": 2025,
+    "speed": 173,
+    "timestamp": "2026-11-10T01:27:45.351Z",
+    "lat": 45.6215,
+    "lon": -122.5276,
+    "precision": "high"
   },
   "flight": {
     "callsign": "BTQ356",
@@ -15,15 +15,23 @@
     "destination": "PDT",
     "firstSeen": "2026-02-01T01:16:07.516Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6147,
       -122.5315
+    ],
+    [
+      45.6215,
+      -122.5276
+    ],
+    [
+      45.6297,
+      -122.5229
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-10T01:27:35.090Z"
+  "status": "completed",
+  "timestamp": "2026-11-10T01:28:05.930Z"
 }
