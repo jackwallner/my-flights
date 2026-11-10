@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.15,
-    "altitude": 2300,
-    "speed": 161,
-    "timestamp": "2026-11-10T05:00:47.368Z",
-    "lat": 45.623,
-    "lon": -122.5267,
+    "distance": 0.24,
+    "altitude": 2250,
+    "speed": 169,
+    "timestamp": "2026-11-10T14:54:01.250Z",
+    "lat": 45.6247,
+    "lon": -122.5337,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N723KP",
+    "callsign": "TDY1776",
     "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-07T18:07:34.039Z"
+    "destination": "BFI",
+    "firstSeen": "2026-09-03T13:40:35.851Z"
   },
-  "overheadScore": 0.15,
+  "overheadScore": 0.24,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6172,
-      -122.5309
+      45.618,
+      -122.5384
     ],
     [
-      45.623,
-      -122.5267
+      45.6247,
+      -122.5337
     ],
     [
-      45.63,
-      -122.5219
+      45.6338,
+      -122.5266
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-10T05:01:07.870Z"
+  "timestamp": "2026-11-10T14:54:21.879Z"
 }
