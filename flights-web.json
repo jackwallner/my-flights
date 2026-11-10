@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.1,
-    "altitude": 1975,
-    "speed": 174,
-    "timestamp": "2026-11-10T17:39:39.907Z",
-    "lat": 45.6242,
-    "lon": -122.5298,
-    "precision": "high"
+    "distance": 0.56,
+    "altitude": 2350,
+    "speed": 167,
+    "timestamp": "2026-11-10T21:40:25.622Z",
+    "lat": 45.6164,
+    "lon": -122.5318,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "TDY1776",
+    "callsign": "BTQ354",
     "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "RNT",
-    "firstSeen": "2026-09-03T13:40:35.851Z"
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.1,
+  "overheadScore": 0.56,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6166,
-      -122.5346
-    ],
-    [
-      45.6242,
-      -122.5298
-    ],
-    [
-      45.6324,
-      -122.5242
+      45.6164,
+      -122.5318
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-10T17:40:00.445Z"
+  "status": "tracking",
+  "timestamp": "2026-11-10T21:40:25.622Z"
 }
