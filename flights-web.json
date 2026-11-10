@@ -1,11 +1,11 @@
 {
   "closestApproach": {
-    "distance": 0.34,
-    "altitude": 2050,
-    "speed": 189,
-    "timestamp": "2026-11-10T00:09:25.716Z",
-    "lat": 45.6197,
-    "lon": -122.5272,
+    "distance": 0.32,
+    "altitude": 2250,
+    "speed": 195,
+    "timestamp": "2026-11-10T00:09:35.980Z",
+    "lat": 45.6286,
+    "lon": -122.522,
     "precision": "tracked"
   },
   "flight": {
@@ -15,15 +15,19 @@
     "destination": "RNT",
     "firstSeen": "2026-05-18T22:08:46.446Z"
   },
-  "overheadScore": 0.34,
+  "overheadScore": 0.32,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
       45.6197,
       -122.5272
+    ],
+    [
+      45.6286,
+      -122.522
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-10T00:09:25.716Z"
+  "status": "completed",
+  "timestamp": "2026-11-10T00:09:56.477Z"
 }
