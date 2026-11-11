@@ -1,37 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 4975,
-    "speed": 78,
-    "timestamp": "2026-11-11T22:15:29.326Z",
-    "lat": 45.6186,
-    "lon": -122.5182,
+    "distance": 0.3,
+    "altitude": 1550,
+    "speed": 69,
+    "timestamp": "2026-11-11T23:33:39.393Z",
+    "lat": 45.6298,
+    "lon": -122.5248,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N515ED",
-    "aircraftType": "C172",
-    "origin": "PDT",
-    "destination": "SLE",
-    "firstSeen": "2026-11-11T22:15:19.071Z"
+    "callsign": "N4056V",
+    "aircraftType": "R44",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-02-07T00:55:41.449Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.3,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6209,
-      -122.514
+      45.6337,
+      -122.5316
     ],
     [
-      45.6186,
-      -122.5182
+      45.6316,
+      -122.5278
     ],
     [
-      45.6162,
-      -122.522
+      45.6298,
+      -122.5248
+    ],
+    [
+      45.6276,
+      -122.5214
+    ],
+    [
+      45.625,
+      -122.5174
+    ],
+    [
+      45.6226,
+      -122.5138
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-11T22:15:49.854Z"
+  "timestamp": "2026-11-11T23:34:20.421Z"
 }
