@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.55,
-    "altitude": 3850,
-    "speed": 221,
-    "timestamp": "2026-11-11T00:21:12.430Z",
-    "lat": 45.6287,
-    "lon": -122.5403,
-    "precision": "tracked"
+    "distance": 0.07,
+    "altitude": 2625,
+    "speed": 163,
+    "timestamp": "2026-11-11T01:08:05.425Z",
+    "lat": 45.6243,
+    "lon": -122.5291,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "C56X",
-    "aircraftType": "Cita",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-14T17:19:26.021Z"
+    "callsign": "BTQ356",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-02-01T01:16:07.516Z"
   },
-  "overheadScore": 0.55,
+  "overheadScore": 0.07,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6287,
-      -122.5403
+      45.6181,
+      -122.533
+    ],
+    [
+      45.6243,
+      -122.5291
+    ],
+    [
+      45.632,
+      -122.5236
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-11T00:21:43.165Z"
+  "timestamp": "2026-11-11T01:08:25.952Z"
 }
