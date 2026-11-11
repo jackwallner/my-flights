@@ -31164,5 +31164,24 @@
     "initialDistance": 0.49163631987379564,
     "initialAltitude": 1975,
     "initialSpeed": 168
+  },
+  {
+    "callsign": "CFS101",
+    "flightNumber": "EM101",
+    "aircraftType": "C208",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "SLE",
+    "icao": "AAAEC0",
+    "registration": "N788FE",
+    "firstSeen": "2026-11-11T19:32:27.982Z",
+    "lastSeen": "2026-11-11T19:32:39.472Z",
+    "duration": 11,
+    "closestDistance": 0.6096843007241156,
+    "closestAltitude": 2225,
+    "closestSpeed": 127,
+    "initialDistance": 0.6096843007241156,
+    "initialAltitude": 2225,
+    "initialSpeed": 127
   }
 ]
