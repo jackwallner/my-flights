@@ -31183,5 +31183,24 @@
     "initialDistance": 0.6096843007241156,
     "initialAltitude": 2225,
     "initialSpeed": 127
+  },
+  {
+    "callsign": "N515ED",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "PDT",
+    "destination": "SLE",
+    "icao": "A6746A",
+    "registration": "N515ED",
+    "firstSeen": "2026-11-11T22:15:19.071Z",
+    "lastSeen": "2026-11-11T22:15:39.614Z",
+    "duration": 21,
+    "closestDistance": 0.5780200194145301,
+    "closestAltitude": 4975,
+    "closestSpeed": 78,
+    "initialDistance": 0.6483046341616854,
+    "initialAltitude": 4975,
+    "initialSpeed": 78
   }
 ]
