@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.33,
-    "altitude": 3100,
-    "speed": 162,
-    "timestamp": "2026-11-11T14:52:58.178Z",
-    "lat": 45.6302,
-    "lon": -122.5314,
+    "distance": 0.46,
+    "altitude": 3375,
+    "speed": 168,
+    "timestamp": "2026-11-11T15:35:03.125Z",
+    "lat": 45.6188,
+    "lon": -122.5221,
     "precision": "high"
   },
   "flight": {
-    "callsign": "TDY1992",
-    "aircraftType": "PC-1",
+    "callsign": "AMF1964",
+    "aircraftType": "Beec",
     "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-08-20T13:45:30.631Z"
+    "destination": "HES",
+    "firstSeen": "2026-02-05T15:33:22.640Z"
   },
-  "overheadScore": 0.33,
+  "overheadScore": 0.46,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6231,
-      -122.5362
+      45.6147,
+      -122.5321
     ],
     [
-      45.6302,
-      -122.5314
+      45.6188,
+      -122.5221
     ],
     [
-      45.6362,
-      -122.5268
+      45.6225,
+      -122.5135
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-11T14:53:18.746Z"
+  "timestamp": "2026-11-11T15:35:23.617Z"
 }
