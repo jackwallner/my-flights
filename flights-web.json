@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 2750,
-    "speed": 178,
-    "timestamp": "2026-11-11T05:56:56.859Z",
-    "lat": 45.6287,
+    "distance": 0.51,
+    "altitude": 2200,
+    "speed": 161,
+    "timestamp": "2026-11-11T09:27:08.257Z",
+    "lat": 45.6304,
     "lon": -122.5378,
-    "precision": "high"
+    "precision": "tracked"
   },
   "flight": {
     "callsign": "PC12",
@@ -15,23 +15,19 @@
     "destination": null,
     "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6202,
-      -122.5423
+      45.6216,
+      -122.5412
     ],
     [
-      45.6287,
+      45.6304,
       -122.5378
-    ],
-    [
-      45.6352,
-      -122.5343
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-11T05:57:17.403Z"
+  "timestamp": "2026-11-11T09:27:28.755Z"
 }
