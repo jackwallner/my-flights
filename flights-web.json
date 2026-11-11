@@ -1,41 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.27,
-    "altitude": 3050,
-    "speed": 106,
-    "timestamp": "2026-11-10T22:34:18.465Z",
-    "lat": 45.6298,
-    "lon": -122.528,
-    "precision": "high"
+    "distance": 0.43,
+    "altitude": 2275,
+    "speed": 170,
+    "timestamp": "2026-11-11T00:14:11.791Z",
+    "lat": 45.6313,
+    "lon": -122.5337,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N64269",
-    "aircraftType": "C172",
-    "origin": "MMV",
-    "destination": null,
-    "firstSeen": "2026-02-04T00:11:12.231Z"
+    "callsign": "TDY484",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "RNT",
+    "firstSeen": "2026-11-11T00:14:01.467Z"
   },
-  "overheadScore": 0.27,
+  "overheadScore": 0.43,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6296,
-      -122.536
+      45.6237,
+      -122.5396
     ],
     [
-      45.6298,
-      -122.528
-    ],
-    [
-      45.6295,
-      -122.5209
-    ],
-    [
-      45.6293,
-      -122.5152
+      45.6313,
+      -122.5337
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-10T22:34:49.496Z"
+  "timestamp": "2026-11-11T00:14:32.323Z"
 }

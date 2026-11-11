@@ -31145,5 +31145,24 @@
     "initialDistance": 0.6605704047816315,
     "initialAltitude": 3800,
     "initialSpeed": 217
+  },
+  {
+    "callsign": "TDY484",
+    "flightNumber": "TDY484",
+    "aircraftType": "PC12",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "RNT",
+    "icao": "A9B357",
+    "registration": "N724KP",
+    "firstSeen": "2026-11-11T00:14:01.467Z",
+    "lastSeen": "2026-11-11T00:14:11.786Z",
+    "duration": 10,
+    "closestDistance": 0.43090259720338236,
+    "closestAltitude": 2275,
+    "closestSpeed": 170,
+    "initialDistance": 0.49163631987379564,
+    "initialAltitude": 1975,
+    "initialSpeed": 168
   }
 ]
