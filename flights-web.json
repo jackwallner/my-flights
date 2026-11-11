@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.61,
-    "altitude": 2225,
-    "speed": 127,
-    "timestamp": "2026-11-11T19:32:29.086Z",
-    "lat": 45.6308,
-    "lon": -122.5403,
+    "distance": 0.59,
+    "altitude": 2500,
+    "speed": 158,
+    "timestamp": "2026-11-11T20:46:33.410Z",
+    "lat": 45.627,
+    "lon": -122.5419,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "CFS101",
-    "aircraftType": "Cara",
+    "callsign": "BTQ352",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "SLE",
-    "firstSeen": "2026-11-11T19:32:27.982Z"
+    "destination": "PDT",
+    "firstSeen": "2026-01-30T18:21:31.073Z"
   },
-  "overheadScore": 0.61,
+  "overheadScore": 0.59,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6308,
-      -122.5403
+      45.627,
+      -122.5419
     ],
     [
-      45.6363,
-      -122.5334
+      45.6336,
+      -122.5386
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-11T19:33:00.011Z"
+  "timestamp": "2026-11-11T20:47:04.170Z"
 }
