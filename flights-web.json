@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.46,
-    "altitude": 3375,
-    "speed": 168,
-    "timestamp": "2026-11-11T15:35:03.125Z",
-    "lat": 45.6188,
-    "lon": -122.5221,
+    "distance": 0.07,
+    "altitude": 2075,
+    "speed": 98,
+    "timestamp": "2026-11-11T17:14:36.881Z",
+    "lat": 45.6257,
+    "lon": -122.5296,
     "precision": "high"
   },
   "flight": {
-    "callsign": "AMF1964",
-    "aircraftType": "Beec",
-    "origin": "PDX",
-    "destination": "HES",
-    "firstSeen": "2026-02-05T15:33:22.640Z"
+    "callsign": "N13096",
+    "aircraftType": "C172",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-05-08T16:59:31.185Z"
   },
-  "overheadScore": 0.46,
+  "overheadScore": 0.07,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6147,
-      -122.5321
+      45.6232,
+      -122.5438
     ],
     [
-      45.6188,
-      -122.5221
+      45.6246,
+      -122.5366
     ],
     [
-      45.6225,
-      -122.5135
+      45.6257,
+      -122.5296
+    ],
+    [
+      45.6264,
+      -122.5225
+    ],
+    [
+      45.6269,
+      -122.517
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-11T15:35:23.617Z"
+  "timestamp": "2026-11-11T17:15:07.681Z"
 }
