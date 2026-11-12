@@ -1,33 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 1100,
-    "speed": 78,
-    "timestamp": "2026-11-12T20:01:11.546Z",
-    "lat": 45.6303,
-    "lon": -122.5237,
-    "precision": "tracked"
+    "distance": 0.25,
+    "altitude": 1350,
+    "speed": 73,
+    "timestamp": "2026-11-12T20:05:49.002Z",
+    "lat": 45.6217,
+    "lon": -122.5313,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N7329A",
-    "aircraftType": "C150",
-    "origin": "PDX",
+    "callsign": "N983HC",
+    "aircraftType": "R22",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-03-19T23:10:51.367Z"
+    "firstSeen": "2026-10-22T19:02:15.580Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.25,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6303,
-      -122.5237
+      45.6289,
+      -122.5427
     ],
     [
-      45.6334,
-      -122.5209
+      45.6263,
+      -122.5386
+    ],
+    [
+      45.6243,
+      -122.5355
+    ],
+    [
+      45.6217,
+      -122.5313
+    ],
+    [
+      45.62,
+      -122.5283
+    ],
+    [
+      45.6177,
+      -122.5241
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-12T20:01:42.353Z"
+  "timestamp": "2026-11-12T20:06:19.831Z"
 }
