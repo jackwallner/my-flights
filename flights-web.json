@@ -1,37 +1,49 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 3600,
-    "speed": 109,
-    "timestamp": "2026-11-12T20:38:31.707Z",
-    "lat": 45.6319,
-    "lon": -122.5169,
+    "distance": 0.37,
+    "altitude": 900,
+    "speed": 66,
+    "timestamp": "2026-11-12T20:48:38.103Z",
+    "lat": 45.6243,
+    "lon": -122.5367,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N4391J",
-    "aircraftType": "P28A",
-    "origin": "PWT",
+    "callsign": "N7329A",
+    "aircraftType": "C150",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-11-12T20:38:21.361Z"
+    "firstSeen": "2026-03-19T23:10:51.367Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.37,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 6,
   "trail": [
     [
-      45.6287,
-      -122.5123
+      45.6363,
+      -122.5281
     ],
     [
-      45.6319,
-      -122.5169
+      45.6359,
+      -122.533
     ],
     [
-      45.636,
-      -122.5228
+      45.6339,
+      -122.5353
+    ],
+    [
+      45.6308,
+      -122.5362
+    ],
+    [
+      45.6272,
+      -122.5364
+    ],
+    [
+      45.6243,
+      -122.5367
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-12T20:38:52.231Z"
+  "status": "tracking",
+  "timestamp": "2026-11-12T20:48:38.103Z"
 }
