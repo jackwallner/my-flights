@@ -31221,5 +31221,24 @@
     "initialDistance": 0.4377501026971083,
     "initialAltitude": 2300,
     "initialSpeed": 183
+  },
+  {
+    "callsign": "N6290V",
+    "flightNumber": null,
+    "aircraftType": "C72R",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "A83A18",
+    "registration": "N6290V",
+    "firstSeen": "2026-11-12T19:20:06.057Z",
+    "lastSeen": "2026-11-12T19:20:06.057Z",
+    "duration": 0,
+    "closestDistance": 0.6715914266017539,
+    "closestAltitude": 1900,
+    "closestSpeed": 112,
+    "initialDistance": 0.6715914266017539,
+    "initialAltitude": 1900,
+    "initialSpeed": 112
   }
 ]

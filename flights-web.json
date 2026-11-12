@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.35,
-    "altitude": 2400,
-    "speed": 138,
-    "timestamp": "2026-11-12T19:06:12.652Z",
-    "lat": 45.6303,
-    "lon": -122.5322,
-    "precision": "high"
+    "distance": 0.67,
+    "altitude": 1900,
+    "speed": 112,
+    "timestamp": "2026-11-12T19:20:06.066Z",
+    "lat": 45.6141,
+    "lon": -122.5286,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N231HF",
-    "aircraftType": "M20T",
-    "origin": "MYL",
+    "callsign": "N6290V",
+    "aircraftType": "C72R",
+    "origin": null,
     "destination": null,
-    "firstSeen": "2026-03-21T21:39:40.862Z"
+    "firstSeen": "2026-11-12T19:20:06.057Z"
   },
-  "overheadScore": 0.35,
+  "overheadScore": 0.67,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6315,
-      -122.5225
-    ],
-    [
-      45.6303,
-      -122.5322
-    ],
-    [
-      45.6291,
-      -122.5416
+      45.6141,
+      -122.5286
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-12T19:06:33.174Z"
+  "status": "tracking",
+  "timestamp": "2026-11-12T19:20:06.066Z"
 }
