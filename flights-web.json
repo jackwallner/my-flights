@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 1900,
-    "speed": 106,
-    "timestamp": "2026-11-12T19:20:16.315Z",
-    "lat": 45.6177,
-    "lon": -122.5338,
-    "precision": "high"
+    "distance": 0.7,
+    "altitude": 1700,
+    "speed": 74,
+    "timestamp": "2026-11-12T19:43:32.688Z",
+    "lat": 45.6311,
+    "lon": -122.5138,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6290V",
-    "aircraftType": "C72R",
-    "origin": null,
+    "callsign": "N6758H",
+    "aircraftType": "C172",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-11-12T19:20:06.057Z"
+    "firstSeen": "2026-01-31T19:49:55.976Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.7,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6141,
-      -122.5286
-    ],
-    [
-      45.6177,
-      -122.5338
-    ],
-    [
-      45.6222,
-      -122.5396
-    ],
-    [
-      45.6253,
-      -122.5434
+      45.6311,
+      -122.5138
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-12T19:20:47.119Z"
+  "timestamp": "2026-11-12T19:44:03.474Z"
 }
