@@ -31240,5 +31240,24 @@
     "initialDistance": 0.6715914266017539,
     "initialAltitude": 1900,
     "initialSpeed": 112
+  },
+  {
+    "callsign": "N4391J",
+    "flightNumber": null,
+    "aircraftType": "P28A",
+    "aircraftName": null,
+    "origin": "PWT",
+    "destination": null,
+    "icao": "A54711",
+    "registration": "N4391J",
+    "firstSeen": "2026-11-12T20:38:21.361Z",
+    "lastSeen": "2026-11-12T20:38:31.701Z",
+    "duration": 10,
+    "closestDistance": 0.616082256636974,
+    "closestAltitude": 3600,
+    "closestSpeed": 109,
+    "initialDistance": 0.6949208731213724,
+    "initialAltitude": 3600,
+    "initialSpeed": 108
   }
 ]
