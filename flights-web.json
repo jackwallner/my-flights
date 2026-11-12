@@ -6,7 +6,7 @@
     "timestamp": "2026-11-12T20:38:31.707Z",
     "lat": 45.6319,
     "lon": -122.5169,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "N4391J",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.62,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6287,
@@ -26,8 +26,12 @@
     [
       45.6319,
       -122.5169
+    ],
+    [
+      45.636,
+      -122.5228
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-12T20:38:31.707Z"
+  "status": "completed",
+  "timestamp": "2026-11-12T20:38:52.231Z"
 }
