@@ -1,41 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 2000,
-    "speed": 85,
-    "timestamp": "2026-11-12T02:05:45.176Z",
-    "lat": 45.6341,
-    "lon": -122.5276,
+    "distance": 0.13,
+    "altitude": 2650,
+    "speed": 152,
+    "timestamp": "2026-11-12T02:52:16.674Z",
+    "lat": 45.6263,
+    "lon": -122.5309,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N4466R",
-    "aircraftType": "C172",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-03-01T01:16:04.720Z"
+    "callsign": "TDY1738",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "RNT",
+    "firstSeen": "2026-06-08T23:11:14.534Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6343,
-      -122.5218
+      45.621,
+      -122.5338
     ],
     [
-      45.6341,
-      -122.5276
+      45.6263,
+      -122.5309
     ],
     [
-      45.6333,
-      -122.5337
-    ],
-    [
-      45.6323,
-      -122.5401
+      45.6339,
+      -122.5264
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-12T02:06:15.989Z"
+  "timestamp": "2026-11-12T02:52:37.216Z"
 }
