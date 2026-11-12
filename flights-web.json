@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.7,
-    "altitude": 1700,
-    "speed": 74,
-    "timestamp": "2026-11-12T19:43:32.688Z",
-    "lat": 45.6311,
-    "lon": -122.5138,
+    "distance": 0.35,
+    "altitude": 1100,
+    "speed": 78,
+    "timestamp": "2026-11-12T20:01:11.546Z",
+    "lat": 45.6303,
+    "lon": -122.5237,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N6758H",
-    "aircraftType": "C172",
-    "origin": "TTD",
+    "callsign": "N7329A",
+    "aircraftType": "C150",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-01-31T19:49:55.976Z"
+    "firstSeen": "2026-03-19T23:10:51.367Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6311,
-      -122.5138
+      45.6303,
+      -122.5237
+    ],
+    [
+      45.6334,
+      -122.5209
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-12T19:44:03.474Z"
+  "timestamp": "2026-11-12T20:01:42.353Z"
 }
