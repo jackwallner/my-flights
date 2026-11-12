@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.66,
-    "altitude": 2700,
-    "speed": 159,
-    "timestamp": "2026-11-12T12:34:30.983Z",
-    "lat": 45.6249,
-    "lon": -122.5438,
-    "precision": "tracked"
+    "distance": 0.22,
+    "altitude": 2500,
+    "speed": 180,
+    "timestamp": "2026-11-12T14:07:06.350Z",
+    "lat": 45.6284,
+    "lon": -122.5309,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "PC12",
-    "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "callsign": "AMF2107",
+    "aircraftType": "BE99",
+    "origin": "PDX",
+    "destination": "GEG",
+    "firstSeen": "2026-11-12T14:06:56.032Z"
   },
-  "overheadScore": 0.66,
+  "overheadScore": 0.22,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6249,
-      -122.5438
+      45.62,
+      -122.5353
+    ],
+    [
+      45.6284,
+      -122.5309
+    ],
+    [
+      45.6355,
+      -122.5268
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-12T12:35:01.762Z"
+  "timestamp": "2026-11-12T14:07:26.933Z"
 }

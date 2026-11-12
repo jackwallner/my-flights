@@ -31202,5 +31202,24 @@
     "initialDistance": 0.6483046341616854,
     "initialAltitude": 4975,
     "initialSpeed": 78
+  },
+  {
+    "callsign": "AMF2107",
+    "flightNumber": "A82107",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "GEG",
+    "icao": "A9A734",
+    "registration": "N7209W",
+    "firstSeen": "2026-11-12T14:06:56.032Z",
+    "lastSeen": "2026-11-12T14:07:16.619Z",
+    "duration": 21,
+    "closestDistance": 0.22088062959180146,
+    "closestAltitude": 2500,
+    "closestSpeed": 180,
+    "initialDistance": 0.4377501026971083,
+    "initialAltitude": 2300,
+    "initialSpeed": 183
   }
 ]
