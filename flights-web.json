@@ -1,49 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.3,
-    "altitude": 1550,
-    "speed": 69,
-    "timestamp": "2026-11-11T23:33:39.393Z",
-    "lat": 45.6298,
-    "lon": -122.5248,
+    "distance": 0.6,
+    "altitude": 1225,
+    "speed": 78,
+    "timestamp": "2026-11-12T00:38:19.934Z",
+    "lat": 45.6164,
+    "lon": -122.5217,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N4056V",
-    "aircraftType": "R44",
+    "callsign": "N18586",
+    "aircraftType": "C150",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-02-07T00:55:41.449Z"
+    "firstSeen": "2026-02-06T23:57:53.810Z"
   },
-  "overheadScore": 0.3,
+  "overheadScore": 0.6,
   "isOverhead": true,
-  "pathSnapshots": 6,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6337,
-      -122.5316
+      45.6141,
+      -122.5262
     ],
     [
-      45.6316,
-      -122.5278
+      45.6164,
+      -122.5217
     ],
     [
-      45.6298,
-      -122.5248
+      45.6188,
+      -122.5173
     ],
     [
-      45.6276,
-      -122.5214
-    ],
-    [
-      45.625,
-      -122.5174
-    ],
-    [
-      45.6226,
+      45.6204,
       -122.5138
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-11T23:34:20.421Z"
+  "status": "tracking",
+  "timestamp": "2026-11-12T00:38:40.479Z"
 }
