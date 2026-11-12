@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.67,
+    "distance": 0.51,
     "altitude": 1900,
-    "speed": 112,
-    "timestamp": "2026-11-12T19:20:06.066Z",
-    "lat": 45.6141,
-    "lon": -122.5286,
-    "precision": "tracked"
+    "speed": 106,
+    "timestamp": "2026-11-12T19:20:16.315Z",
+    "lat": 45.6177,
+    "lon": -122.5338,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N6290V",
@@ -15,15 +15,27 @@
     "destination": null,
     "firstSeen": "2026-11-12T19:20:06.057Z"
   },
-  "overheadScore": 0.67,
+  "overheadScore": 0.51,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
       45.6141,
       -122.5286
+    ],
+    [
+      45.6177,
+      -122.5338
+    ],
+    [
+      45.6222,
+      -122.5396
+    ],
+    [
+      45.6253,
+      -122.5434
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-12T19:20:06.066Z"
+  "status": "completed",
+  "timestamp": "2026-11-12T19:20:47.119Z"
 }
