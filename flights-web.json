@@ -1,45 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.24,
-    "altitude": 2325,
-    "speed": 87,
-    "timestamp": "2026-11-12T22:44:49.091Z",
-    "lat": 45.625,
-    "lon": -122.5338,
+    "distance": 0.36,
+    "altitude": 1900,
+    "speed": 82,
+    "timestamp": "2026-11-12T23:18:52.565Z",
+    "lat": 45.6204,
+    "lon": -122.5329,
     "precision": "high"
   },
   "flight": {
-    "callsign": "GFY175",
-    "aircraftType": "DA40",
-    "origin": "PDX",
+    "callsign": "N4056V",
+    "aircraftType": "R44",
+    "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-11-12T22:44:28.561Z"
+    "firstSeen": "2026-02-07T00:55:41.449Z"
   },
-  "overheadScore": 0.24,
+  "overheadScore": 0.36,
   "isOverhead": true,
   "pathSnapshots": 5,
   "trail": [
     [
-      45.6174,
-      -122.5394
+      45.624,
+      -122.5439
     ],
     [
-      45.6213,
-      -122.5366
+      45.6222,
+      -122.5386
     ],
     [
-      45.625,
-      -122.5338
+      45.6204,
+      -122.5329
     ],
     [
-      45.629,
-      -122.5309
+      45.6189,
+      -122.5286
     ],
     [
-      45.6325,
-      -122.528
+      45.617,
+      -122.5234
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-12T22:45:19.874Z"
+  "status": "tracking",
+  "timestamp": "2026-11-12T23:19:13.106Z"
 }
