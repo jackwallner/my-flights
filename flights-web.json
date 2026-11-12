@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 2650,
-    "speed": 152,
-    "timestamp": "2026-11-12T02:52:16.674Z",
-    "lat": 45.6263,
-    "lon": -122.5309,
-    "precision": "high"
+    "distance": 0.66,
+    "altitude": 2700,
+    "speed": 159,
+    "timestamp": "2026-11-12T12:34:30.983Z",
+    "lat": 45.6249,
+    "lon": -122.5438,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "TDY1738",
+    "callsign": "PC12",
     "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "RNT",
-    "firstSeen": "2026-06-08T23:11:14.534Z"
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-09T16:25:48.403Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.66,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.621,
-      -122.5338
-    ],
-    [
-      45.6263,
-      -122.5309
-    ],
-    [
-      45.6339,
-      -122.5264
+      45.6249,
+      -122.5438
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-12T02:52:37.216Z"
+  "timestamp": "2026-11-12T12:35:01.762Z"
 }
