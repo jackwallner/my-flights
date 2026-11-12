@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 2500,
+    "distance": 0.35,
+    "altitude": 2400,
     "speed": 138,
-    "timestamp": "2026-11-12T19:06:02.274Z",
-    "lat": 45.6315,
-    "lon": -122.5225,
-    "precision": "tracked"
+    "timestamp": "2026-11-12T19:06:12.652Z",
+    "lat": 45.6303,
+    "lon": -122.5322,
+    "precision": "high"
   },
   "flight": {
     "callsign": "N231HF",
@@ -15,15 +15,23 @@
     "destination": null,
     "firstSeen": "2026-03-21T21:39:40.862Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.35,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6315,
       -122.5225
+    ],
+    [
+      45.6303,
+      -122.5322
+    ],
+    [
+      45.6291,
+      -122.5416
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-12T19:06:02.292Z"
+  "status": "completed",
+  "timestamp": "2026-11-12T19:06:33.174Z"
 }
