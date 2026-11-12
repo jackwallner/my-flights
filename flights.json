@@ -31259,5 +31259,24 @@
     "initialDistance": 0.6949208731213724,
     "initialAltitude": 3600,
     "initialSpeed": 108
+  },
+  {
+    "callsign": "GFY175",
+    "flightNumber": "GFY175",
+    "aircraftType": "DA40",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A12C0C",
+    "registration": "N175DA",
+    "firstSeen": "2026-11-12T22:44:28.561Z",
+    "lastSeen": "2026-11-12T22:44:59.345Z",
+    "duration": 31,
+    "closestDistance": 0.23944143867821643,
+    "closestAltitude": 2325,
+    "closestSpeed": 87,
+    "initialDistance": 0.6697474961739799,
+    "initialAltitude": 2050,
+    "initialSpeed": 84
   }
 ]

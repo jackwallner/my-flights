@@ -1,33 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.5,
-    "altitude": 2100,
-    "speed": 129,
-    "timestamp": "2026-11-12T22:27:01.988Z",
-    "lat": 45.6189,
-    "lon": -122.5205,
-    "precision": "tracked"
+    "distance": 0.24,
+    "altitude": 2325,
+    "speed": 87,
+    "timestamp": "2026-11-12T22:44:49.091Z",
+    "lat": 45.625,
+    "lon": -122.5338,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N16NH",
-    "aircraftType": "Bona",
-    "origin": null,
+    "callsign": "GFY175",
+    "aircraftType": "DA40",
+    "origin": "PDX",
     "destination": null,
-    "firstSeen": "2026-05-07T17:38:06.129Z"
+    "firstSeen": "2026-11-12T22:44:28.561Z"
   },
-  "overheadScore": 0.5,
+  "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6167,
-      -122.5296
+      45.6174,
+      -122.5394
     ],
     [
-      45.6189,
-      -122.5205
+      45.6213,
+      -122.5366
+    ],
+    [
+      45.625,
+      -122.5338
+    ],
+    [
+      45.629,
+      -122.5309
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-12T22:27:22.487Z"
+  "status": "tracking",
+  "timestamp": "2026-11-12T22:44:59.352Z"
 }
