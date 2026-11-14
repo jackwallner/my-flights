@@ -1,12 +1,12 @@
 {
   "closestApproach": {
-    "distance": 0.49,
-    "altitude": 2500,
-    "speed": 176,
-    "timestamp": "2026-11-14T14:40:06.501Z",
-    "lat": 45.6172,
-    "lon": -122.5295,
-    "precision": "tracked"
+    "distance": 0.06,
+    "altitude": 2900,
+    "speed": 167,
+    "timestamp": "2026-11-14T14:40:16.806Z",
+    "lat": 45.6245,
+    "lon": -122.5291,
+    "precision": "high"
   },
   "flight": {
     "callsign": "AMF8031",
@@ -15,15 +15,23 @@
     "destination": "AST",
     "firstSeen": "2026-11-14T14:40:06.417Z"
   },
-  "overheadScore": 0.49,
+  "overheadScore": 0.06,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6172,
       -122.5295
+    ],
+    [
+      45.6245,
+      -122.5291
+    ],
+    [
+      45.6324,
+      -122.5289
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-14T14:40:06.501Z"
+  "status": "completed",
+  "timestamp": "2026-11-14T14:40:37.308Z"
 }
