@@ -31297,5 +31297,24 @@
     "initialDistance": 0.48864306690927223,
     "initialAltitude": 2500,
     "initialSpeed": 176
+  },
+  {
+    "callsign": "N64RH",
+    "flightNumber": null,
+    "aircraftType": "S22T",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "COE",
+    "icao": "A86461",
+    "registration": "N64RH",
+    "firstSeen": "2026-11-14T20:08:03.049Z",
+    "lastSeen": "2026-11-14T20:08:23.686Z",
+    "duration": 21,
+    "closestDistance": 0.1228012066147653,
+    "closestAltitude": 2800,
+    "closestSpeed": 145,
+    "initialDistance": 0.5671044092113273,
+    "initialAltitude": 2550,
+    "initialSpeed": 148
   }
 ]

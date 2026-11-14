@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 2500,
-    "speed": 170,
-    "timestamp": "2026-11-14T15:59:36.474Z",
-    "lat": 45.6249,
-    "lon": -122.5373,
+    "distance": 0.12,
+    "altitude": 2800,
+    "speed": 145,
+    "timestamp": "2026-11-14T20:08:13.436Z",
+    "lat": 45.6241,
+    "lon": -122.5305,
     "precision": "high"
   },
   "flight": {
-    "callsign": "BTQ352",
-    "aircraftType": "PC-1",
+    "callsign": "N64RH",
+    "aircraftType": "S22T",
     "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-01-30T18:21:31.073Z"
+    "destination": "COE",
+    "firstSeen": "2026-11-14T20:08:03.049Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.12,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6183,
-      -122.541
+      45.6187,
+      -122.5378
     ],
     [
-      45.6249,
-      -122.5373
+      45.6241,
+      -122.5305
     ],
     [
-      45.6335,
-      -122.531
+      45.6289,
+      -122.5232
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-14T15:59:56.983Z"
+  "timestamp": "2026-11-14T20:08:33.972Z"
 }
