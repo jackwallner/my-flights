@@ -1,37 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.12,
-    "altitude": 2700,
-    "speed": 154,
-    "timestamp": "2026-11-16T17:30:07.147Z",
-    "lat": 45.6252,
-    "lon": -122.5309,
+    "distance": 0.11,
+    "altitude": 2750,
+    "speed": 101,
+    "timestamp": "2026-11-16T18:10:39.486Z",
+    "lat": 45.6259,
+    "lon": -122.5307,
     "precision": "high"
   },
   "flight": {
-    "callsign": "TDY1776",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-09-03T13:40:35.851Z"
+    "callsign": "N130JA",
+    "aircraftType": "C172",
+    "origin": "HIO",
+    "destination": "MMV",
+    "firstSeen": "2026-04-04T18:23:03.030Z"
   },
-  "overheadScore": 0.12,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6196,
-      -122.5346
+      45.6219,
+      -122.5436
     ],
     [
-      45.6252,
-      -122.5309
+      45.6239,
+      -122.5373
     ],
     [
-      45.6326,
-      -122.5261
+      45.6259,
+      -122.5307
+    ],
+    [
+      45.6277,
+      -122.5252
+    ],
+    [
+      45.6302,
+      -122.5177
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-16T17:30:27.716Z"
+  "timestamp": "2026-11-16T18:11:10.289Z"
 }
