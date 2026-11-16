@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.11,
-    "altitude": 2750,
-    "speed": 101,
-    "timestamp": "2026-11-16T18:10:39.486Z",
-    "lat": 45.6259,
-    "lon": -122.5307,
+    "distance": 0.42,
+    "altitude": 1350,
+    "speed": 123,
+    "timestamp": "2026-11-16T22:44:22.041Z",
+    "lat": 45.6185,
+    "lon": -122.5301,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N130JA",
-    "aircraftType": "C172",
-    "origin": "HIO",
-    "destination": "MMV",
-    "firstSeen": "2026-04-04T18:23:03.030Z"
+    "callsign": "N756YC",
+    "aircraftType": "T206",
+    "origin": "TTD",
+    "destination": null,
+    "firstSeen": "2026-01-31T20:08:49.499Z"
   },
-  "overheadScore": 0.11,
+  "overheadScore": 0.42,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6219,
-      -122.5436
+      45.6165,
+      -122.5219
     ],
     [
-      45.6239,
-      -122.5373
+      45.6185,
+      -122.5301
     ],
     [
-      45.6259,
-      -122.5307
-    ],
-    [
-      45.6277,
-      -122.5252
-    ],
-    [
-      45.6302,
-      -122.5177
+      45.6201,
+      -122.5369
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-16T18:11:10.289Z"
+  "timestamp": "2026-11-16T22:44:42.565Z"
 }
