@@ -1,37 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.42,
-    "altitude": 1350,
-    "speed": 123,
-    "timestamp": "2026-11-16T22:44:22.041Z",
-    "lat": 45.6185,
-    "lon": -122.5301,
+    "distance": 0.2,
+    "altitude": 1000,
+    "speed": 112,
+    "timestamp": "2026-11-16T22:57:12.084Z",
+    "lat": 45.6237,
+    "lon": -122.524,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N756YC",
-    "aircraftType": "T206",
-    "origin": "TTD",
+    "callsign": "N8031X",
+    "aircraftType": "RV6",
+    "origin": "QSA",
     "destination": null,
-    "firstSeen": "2026-01-31T20:08:49.499Z"
+    "firstSeen": "2026-09-01T21:31:04.063Z"
   },
-  "overheadScore": 0.42,
+  "overheadScore": 0.2,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6165,
-      -122.5219
+      45.6207,
+      -122.5396
     ],
     [
-      45.6185,
-      -122.5301
+      45.6223,
+      -122.5331
     ],
     [
-      45.6201,
-      -122.5369
+      45.6237,
+      -122.524
+    ],
+    [
+      45.6243,
+      -122.5179
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-16T22:44:42.565Z"
+  "timestamp": "2026-11-16T22:57:32.582Z"
 }
