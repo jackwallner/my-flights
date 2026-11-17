@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 1000,
-    "speed": 112,
-    "timestamp": "2026-11-16T22:57:12.084Z",
-    "lat": 45.6237,
-    "lon": -122.524,
+    "distance": 0.26,
+    "altitude": 2700,
+    "speed": 142,
+    "timestamp": "2026-11-16T23:59:52.311Z",
+    "lat": 45.6275,
+    "lon": -122.5228,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N8031X",
-    "aircraftType": "RV6",
-    "origin": "QSA",
-    "destination": null,
-    "firstSeen": "2026-09-01T21:31:04.063Z"
+    "callsign": "TDY925",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-11-05T00:04:41.474Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.26,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6207,
-      -122.5396
+      45.6141,
+      -122.5322
     ],
     [
-      45.6223,
-      -122.5331
+      45.6208,
+      -122.5275
     ],
     [
-      45.6237,
-      -122.524
+      45.6275,
+      -122.5228
     ],
     [
-      45.6243,
-      -122.5179
+      45.6336,
+      -122.5184
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-16T22:57:32.582Z"
+  "status": "tracking",
+  "timestamp": "2026-11-17T00:00:02.617Z"
 }
