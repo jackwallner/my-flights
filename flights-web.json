@@ -6,7 +6,7 @@
     "timestamp": "2026-11-17T18:09:55.383Z",
     "lat": 45.6281,
     "lon": -122.5297,
-    "precision": "tracked"
+    "precision": "high"
   },
   "flight": {
     "callsign": "TDY1992",
@@ -17,7 +17,7 @@
   },
   "overheadScore": 0.18,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
       45.6213,
@@ -26,8 +26,12 @@
     [
       45.6281,
       -122.5297
+    ],
+    [
+      45.6336,
+      -122.5256
     ]
   ],
-  "status": "tracking",
-  "timestamp": "2026-11-17T18:09:55.383Z"
+  "status": "completed",
+  "timestamp": "2026-11-17T18:10:15.905Z"
 }
