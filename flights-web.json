@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.63,
-    "altitude": 3250,
-    "speed": 163,
-    "timestamp": "2026-11-17T20:48:21.677Z",
-    "lat": 45.6313,
-    "lon": -122.5404,
-    "precision": "tracked"
+    "distance": 0.28,
+    "altitude": 2600,
+    "speed": 147,
+    "timestamp": "2026-11-17T21:51:55.381Z",
+    "lat": 45.6251,
+    "lon": -122.5348,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "BOE1AU",
+    "callsign": "BTQ354",
     "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "MWH",
-    "firstSeen": "2026-02-03T23:18:02.427Z"
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.63,
+  "overheadScore": 0.28,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6313,
-      -122.5404
+      45.6181,
+      -122.5385
+    ],
+    [
+      45.6251,
+      -122.5348
+    ],
+    [
+      45.6309,
+      -122.5318
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-17T20:48:52.766Z"
+  "timestamp": "2026-11-17T21:52:15.921Z"
 }
