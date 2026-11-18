@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.13,
-    "altitude": 8050,
-    "speed": 250,
-    "timestamp": "2026-11-18T19:11:35.467Z",
-    "lat": 45.6255,
-    "lon": -122.5313,
-    "precision": "tracked"
+    "distance": 0.24,
+    "altitude": 2675,
+    "speed": 179,
+    "timestamp": "2026-11-18T20:04:57.762Z",
+    "lat": 45.624,
+    "lon": -122.5226,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "GLF6",
-    "aircraftType": "Gulf",
+    "callsign": "G150",
+    "aircraftType": "G150",
     "origin": null,
     "destination": null,
-    "firstSeen": "2026-02-04T23:31:14.571Z"
+    "firstSeen": "2026-08-16T18:00:23.268Z"
   },
-  "overheadScore": 0.13,
+  "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.632,
-      -122.5171
+      45.6333,
+      -122.5195
     ],
     [
-      45.6255,
-      -122.5313
+      45.624,
+      -122.5226
+    ],
+    [
+      45.6173,
+      -122.5209
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-18T19:11:55.987Z"
+  "timestamp": "2026-11-18T20:05:18.368Z"
 }
