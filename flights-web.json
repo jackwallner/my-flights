@@ -1,45 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.04,
-    "altitude": 1525,
-    "speed": 88,
-    "timestamp": "2026-11-18T22:20:39.717Z",
-    "lat": 45.6253,
-    "lon": -122.5272,
+    "distance": 0.12,
+    "altitude": 3475,
+    "speed": 185,
+    "timestamp": "2026-11-18T23:33:13.059Z",
+    "lat": 45.6238,
+    "lon": -122.5301,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N9185H",
-    "aircraftType": "C172",
+    "callsign": "N923FP",
+    "aircraftType": "B350",
     "origin": "PDX",
-    "destination": null,
-    "firstSeen": "2026-02-07T02:50:31.140Z"
+    "destination": "YKM",
+    "firstSeen": "2026-05-12T17:32:01.999Z"
   },
-  "overheadScore": 0.04,
+  "overheadScore": 0.12,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.624,
-      -122.5387
+      45.6156,
+      -122.535
     ],
     [
-      45.6247,
-      -122.533
+      45.6238,
+      -122.5301
     ],
     [
-      45.6253,
-      -122.5272
-    ],
-    [
-      45.6259,
-      -122.5208
-    ],
-    [
-      45.6261,
-      -122.5165
+      45.6308,
+      -122.5256
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-18T22:21:10.490Z"
+  "timestamp": "2026-11-18T23:33:33.606Z"
 }
