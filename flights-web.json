@@ -1,29 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.7,
-    "altitude": 2825,
-    "speed": 154,
-    "timestamp": "2026-11-18T17:29:23.804Z",
-    "lat": 45.6277,
-    "lon": -122.5443,
+    "distance": 0.13,
+    "altitude": 8050,
+    "speed": 250,
+    "timestamp": "2026-11-18T19:11:35.467Z",
+    "lat": 45.6255,
+    "lon": -122.5313,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "TDY1776",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-09-03T13:40:35.851Z"
+    "callsign": "GLF6",
+    "aircraftType": "Gulf",
+    "origin": null,
+    "destination": null,
+    "firstSeen": "2026-02-04T23:31:14.571Z"
   },
-  "overheadScore": 0.7,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6277,
-      -122.5443
+      45.632,
+      -122.5171
+    ],
+    [
+      45.6255,
+      -122.5313
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-18T17:29:54.633Z"
+  "timestamp": "2026-11-18T19:11:55.987Z"
 }
