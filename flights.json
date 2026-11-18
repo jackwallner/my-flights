@@ -31316,5 +31316,24 @@
     "initialDistance": 0.5671044092113273,
     "initialAltitude": 2550,
     "initialSpeed": 148
+  },
+  {
+    "callsign": "N5369E",
+    "flightNumber": null,
+    "aircraftType": "BE35",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": null,
+    "icao": "A6CA4F",
+    "registration": "N5369E",
+    "firstSeen": "2026-11-18T20:10:37.884Z",
+    "lastSeen": "2026-11-18T20:11:08.941Z",
+    "duration": 31,
+    "closestDistance": 0.23478878916992088,
+    "closestAltitude": 2800,
+    "closestSpeed": 98,
+    "initialDistance": 0.6117206913907183,
+    "initialAltitude": 2400,
+    "initialSpeed": 87
   }
 ]
