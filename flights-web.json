@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 2600,
-    "speed": 163,
-    "timestamp": "2026-11-19T05:07:45.191Z",
-    "lat": 45.6247,
-    "lon": -122.5373,
-    "precision": "high"
+    "distance": 0.58,
+    "altitude": 5975,
+    "speed": 257,
+    "timestamp": "2026-11-19T13:40:24.224Z",
+    "lat": 45.6269,
+    "lon": -122.5418,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "TDY1288",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-06-17T22:14:22.880Z"
+    "callsign": "N464EG",
+    "aircraftType": "Cita",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-02-15T23:11:09.300Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.58,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6184,
-      -122.537
-    ],
-    [
-      45.6247,
-      -122.5373
-    ],
-    [
-      45.6332,
-      -122.5403
+      45.6269,
+      -122.5418
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-19T05:08:05.749Z"
+  "timestamp": "2026-11-19T13:40:54.987Z"
 }
