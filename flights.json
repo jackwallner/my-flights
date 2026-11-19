@@ -31335,5 +31335,24 @@
     "initialDistance": 0.6117206913907183,
     "initialAltitude": 2400,
     "initialSpeed": 87
+  },
+  {
+    "callsign": "AMF8036",
+    "flightNumber": "A88036",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "AST",
+    "icao": "AB3B8B",
+    "registration": "N8226Z",
+    "firstSeen": "2026-11-19T17:10:46.707Z",
+    "lastSeen": "2026-11-19T17:11:07.307Z",
+    "duration": 21,
+    "closestDistance": 0.05967341537686137,
+    "closestAltitude": 2800,
+    "closestSpeed": 141,
+    "initialDistance": 0.44680670134123873,
+    "initialAltitude": 2525,
+    "initialSpeed": 139
   }
 ]
