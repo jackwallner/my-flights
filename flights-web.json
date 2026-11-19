@@ -1,41 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.2,
-    "altitude": 1250,
-    "speed": 98,
-    "timestamp": "2026-11-19T22:24:21.590Z",
-    "lat": 45.6223,
-    "lon": -122.5258,
-    "precision": "high"
+    "distance": 0.69,
+    "altitude": 4475,
+    "speed": 105,
+    "timestamp": "2026-11-19T22:32:34.684Z",
+    "lat": 45.6297,
+    "lon": -122.5434,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "N7274G",
-    "aircraftType": "C150",
-    "origin": "PDX",
+    "callsign": "N54477",
+    "aircraftType": "C172",
+    "origin": "HIO",
     "destination": null,
-    "firstSeen": "2026-02-07T04:51:24.606Z"
+    "firstSeen": "2026-11-19T22:32:34.678Z"
   },
-  "overheadScore": 0.2,
+  "overheadScore": 0.69,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6223,
-      -122.5382
-    ],
-    [
-      45.6223,
-      -122.5319
-    ],
-    [
-      45.6223,
-      -122.5258
-    ],
-    [
-      45.6223,
-      -122.5186
+      45.6297,
+      -122.5434
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-19T22:24:42.111Z"
+  "timestamp": "2026-11-19T22:33:05.439Z"
 }

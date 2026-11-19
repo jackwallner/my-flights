@@ -31354,5 +31354,24 @@
     "initialDistance": 0.44680670134123873,
     "initialAltitude": 2525,
     "initialSpeed": 139
+  },
+  {
+    "callsign": "N54477",
+    "flightNumber": null,
+    "aircraftType": "C172",
+    "aircraftName": null,
+    "origin": "HIO",
+    "destination": null,
+    "icao": "A6EA35",
+    "registration": "N54477",
+    "firstSeen": "2026-11-19T22:32:34.678Z",
+    "lastSeen": "2026-11-19T22:32:34.678Z",
+    "duration": 0,
+    "closestDistance": 0.6946020900629748,
+    "closestAltitude": 4475,
+    "closestSpeed": 105,
+    "initialDistance": 0.6946020900629748,
+    "initialAltitude": 4475,
+    "initialSpeed": 105
   }
 ]
