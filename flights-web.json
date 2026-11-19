@@ -1,29 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.68,
-    "altitude": 1250,
-    "speed": 102,
-    "timestamp": "2026-11-18T23:41:15.471Z",
-    "lat": 45.6144,
-    "lon": -122.533,
-    "precision": "tracked"
+    "distance": 0.4,
+    "altitude": 3050,
+    "speed": 148,
+    "timestamp": "2026-11-19T00:14:16.144Z",
+    "lat": 45.6288,
+    "lon": -122.5362,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N8072X",
-    "aircraftType": "R22",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-07-17T20:07:19.886Z"
+    "callsign": "TDY1288",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-06-17T22:14:22.880Z"
   },
-  "overheadScore": 0.68,
+  "overheadScore": 0.4,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6144,
-      -122.533
+      45.6234,
+      -122.54
+    ],
+    [
+      45.6288,
+      -122.5362
+    ],
+    [
+      45.6358,
+      -122.5311
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-18T23:41:46.297Z"
+  "timestamp": "2026-11-19T00:14:36.697Z"
 }
