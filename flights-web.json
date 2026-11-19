@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.06,
-    "altitude": 2800,
-    "speed": 141,
-    "timestamp": "2026-11-19T17:10:56.970Z",
-    "lat": 45.6257,
-    "lon": -122.5294,
+    "distance": 0.2,
+    "altitude": 3025,
+    "speed": 137,
+    "timestamp": "2026-11-19T19:35:16.759Z",
+    "lat": 45.6273,
+    "lon": -122.5319,
     "precision": "high"
   },
   "flight": {
-    "callsign": "AMF8036",
-    "aircraftType": "BE99",
+    "callsign": "TDY1992",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "AST",
-    "firstSeen": "2026-11-19T17:10:46.707Z"
+    "destination": "BFI",
+    "firstSeen": "2026-08-20T13:45:30.631Z"
   },
-  "overheadScore": 0.06,
+  "overheadScore": 0.2,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6186,
-      -122.5328
+      45.6207,
+      -122.5344
     ],
     [
-      45.6257,
+      45.6273,
+      -122.5319
+    ],
+    [
+      45.634,
       -122.5294
-    ],
-    [
-      45.6316,
-      -122.5267
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-19T17:11:17.614Z"
+  "timestamp": "2026-11-19T19:35:37.315Z"
 }
