@@ -31373,5 +31373,24 @@
     "initialDistance": 0.6946020900629748,
     "initialAltitude": 4475,
     "initialSpeed": 105
+  },
+  {
+    "callsign": "AMF8037",
+    "flightNumber": "A88037",
+    "aircraftType": "BE99",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "AST",
+    "icao": "A02412",
+    "registration": "N108SX",
+    "firstSeen": "2026-11-20T20:14:25.534Z",
+    "lastSeen": "2026-11-20T20:14:46.138Z",
+    "duration": 21,
+    "closestDistance": 0.2231526478498472,
+    "closestAltitude": 2525,
+    "closestSpeed": 135,
+    "initialDistance": 0.6548795420812804,
+    "initialAltitude": 1825,
+    "initialSpeed": 137
   }
 ]
