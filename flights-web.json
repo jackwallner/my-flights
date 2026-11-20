@@ -1,41 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.22,
-    "altitude": 2525,
-    "speed": 135,
-    "timestamp": "2026-11-20T20:14:46.156Z",
-    "lat": 45.6267,
-    "lon": -122.5232,
+    "distance": 0.24,
+    "altitude": 2775,
+    "speed": 111,
+    "timestamp": "2026-11-20T21:14:00.551Z",
+    "lat": 45.6269,
+    "lon": -122.5334,
     "precision": "high"
   },
   "flight": {
-    "callsign": "AMF8037",
-    "aircraftType": "BE99",
+    "callsign": "GFY1124",
+    "aircraftType": "DA42",
     "origin": "PDX",
-    "destination": "AST",
-    "firstSeen": "2026-11-20T20:14:25.534Z"
+    "destination": null,
+    "firstSeen": "2026-08-17T20:29:50.540Z"
   },
-  "overheadScore": 0.22,
+  "overheadScore": 0.24,
   "isOverhead": true,
-  "pathSnapshots": 4,
+  "pathSnapshots": 5,
   "trail": [
     [
-      45.6149,
-      -122.5329
+      45.6178,
+      -122.5388
     ],
     [
-      45.6206,
-      -122.5284
+      45.6221,
+      -122.5363
     ],
     [
-      45.6267,
-      -122.5232
+      45.6269,
+      -122.5334
     ],
     [
-      45.6316,
-      -122.5192
+      45.6324,
+      -122.5301
+    ],
+    [
+      45.6369,
+      -122.5274
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-20T20:15:06.645Z"
+  "timestamp": "2026-11-20T21:14:31.369Z"
 }
