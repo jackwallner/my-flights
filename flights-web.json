@@ -1,29 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.65,
-    "altitude": 2950,
-    "speed": 118,
-    "timestamp": "2026-11-20T00:13:02.188Z",
-    "lat": 45.6294,
-    "lon": -122.5424,
-    "precision": "tracked"
+    "distance": 0.14,
+    "altitude": 1600,
+    "speed": 105,
+    "timestamp": "2026-11-20T00:52:04.454Z",
+    "lat": 45.6239,
+    "lon": -122.5253,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N324SP",
+    "callsign": "N44DM",
     "aircraftType": "C172",
-    "origin": "HIO",
+    "origin": "AST",
     "destination": null,
-    "firstSeen": "2026-04-22T16:44:05.725Z"
+    "firstSeen": "2026-04-30T21:44:46.809Z"
   },
-  "overheadScore": 0.65,
+  "overheadScore": 0.14,
   "isOverhead": true,
-  "pathSnapshots": 1,
+  "pathSnapshots": 4,
   "trail": [
     [
-      45.6294,
-      -122.5424
+      45.6277,
+      -122.5379
+    ],
+    [
+      45.6262,
+      -122.5326
+    ],
+    [
+      45.6239,
+      -122.5253
+    ],
+    [
+      45.622,
+      -122.5199
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-20T00:13:32.931Z"
+  "timestamp": "2026-11-20T00:52:25.020Z"
 }
