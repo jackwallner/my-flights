@@ -1,41 +1,41 @@
 {
   "closestApproach": {
-    "distance": 0.51,
-    "altitude": 1900,
-    "speed": 96,
-    "timestamp": "2026-11-20T03:38:16.071Z",
-    "lat": 45.6172,
-    "lon": -122.5317,
+    "distance": 0.19,
+    "altitude": 1475,
+    "speed": 112,
+    "timestamp": "2026-11-20T03:44:56.593Z",
+    "lat": 45.6257,
+    "lon": -122.5236,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N44DM",
+    "callsign": "N9185H",
     "aircraftType": "C172",
     "origin": "TTD",
     "destination": null,
-    "firstSeen": "2026-04-30T21:44:46.809Z"
+    "firstSeen": "2026-02-07T02:50:31.140Z"
   },
-  "overheadScore": 0.51,
+  "overheadScore": 0.19,
   "isOverhead": true,
   "pathSnapshots": 4,
   "trail": [
     [
-      45.6219,
-      -122.5438
+      45.6258,
+      -122.5407
     ],
     [
-      45.6197,
-      -122.5378
+      45.6257,
+      -122.5331
     ],
     [
-      45.6172,
-      -122.5317
+      45.6257,
+      -122.5236
     ],
     [
-      45.6155,
-      -122.5271
+      45.6255,
+      -122.5171
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-20T03:38:36.587Z"
+  "timestamp": "2026-11-20T03:45:17.131Z"
 }
