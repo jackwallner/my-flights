@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.53,
-    "altitude": 4700,
-    "speed": 167,
-    "timestamp": "2026-11-20T21:35:26.374Z",
-    "lat": 45.6248,
-    "lon": -122.5407,
-    "precision": "tracked"
+    "distance": 0.25,
+    "altitude": 2500,
+    "speed": 140,
+    "timestamp": "2026-11-20T21:54:50.998Z",
+    "lat": 45.6253,
+    "lon": -122.534,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N4312W",
-    "aircraftType": "BE35",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-09-30T15:21:57.200Z"
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.53,
+  "overheadScore": 0.25,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6248,
-      -122.5407
+      45.619,
+      -122.5377
     ],
     [
-      45.633,
-      -122.5376
+      45.6253,
+      -122.534
+    ],
+    [
+      45.6327,
+      -122.5298
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-20T21:35:57.701Z"
+  "timestamp": "2026-11-20T21:55:11.705Z"
 }
