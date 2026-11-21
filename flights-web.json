@@ -1,37 +1,29 @@
 {
   "closestApproach": {
-    "distance": 0.18,
-    "altitude": 2600,
-    "speed": 146,
-    "timestamp": "2026-11-21T01:03:15.422Z",
-    "lat": 45.6259,
-    "lon": -122.5324,
-    "precision": "high"
+    "distance": 0.7,
+    "altitude": 2175,
+    "speed": 153,
+    "timestamp": "2026-11-21T05:40:07.418Z",
+    "lat": 45.6249,
+    "lon": -122.5447,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ356",
+    "callsign": "TDY925",
     "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-02-01T01:16:07.516Z"
+    "destination": "BFI",
+    "firstSeen": "2026-11-05T00:04:41.474Z"
   },
-  "overheadScore": 0.18,
+  "overheadScore": 0.7,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 1,
   "trail": [
     [
-      45.6188,
-      -122.5363
-    ],
-    [
-      45.6259,
-      -122.5324
-    ],
-    [
-      45.6332,
-      -122.5283
+      45.6249,
+      -122.5447
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-21T01:03:35.938Z"
+  "timestamp": "2026-11-21T05:40:38.353Z"
 }
