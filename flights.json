@@ -31392,5 +31392,24 @@
     "initialDistance": 0.6548795420812804,
     "initialAltitude": 1825,
     "initialSpeed": 137
+  },
+  {
+    "callsign": "N79NH",
+    "flightNumber": null,
+    "aircraftType": "C182",
+    "aircraftName": null,
+    "origin": null,
+    "destination": null,
+    "icao": "AAB6E0",
+    "registration": "N79NH",
+    "firstSeen": "2026-11-22T23:49:54.679Z",
+    "lastSeen": "2026-11-22T23:50:15.260Z",
+    "duration": 21,
+    "closestDistance": 0.5429328403239478,
+    "closestAltitude": 1500,
+    "closestSpeed": 125,
+    "initialDistance": 0.5747233546343148,
+    "initialAltitude": 1700,
+    "initialSpeed": 123
   }
 ]
