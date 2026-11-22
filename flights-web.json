@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.64,
-    "altitude": 2400,
-    "speed": 162,
-    "timestamp": "2026-11-21T22:11:15.481Z",
-    "lat": 45.6262,
-    "lon": -122.5434,
+    "distance": 0.38,
+    "altitude": 2800,
+    "speed": 167,
+    "timestamp": "2026-11-22T01:00:18.209Z",
+    "lat": 45.6261,
+    "lon": -122.5372,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ354",
+    "callsign": "BTQ356",
     "aircraftType": "PC-1",
     "origin": "PDX",
     "destination": "PDT",
-    "firstSeen": "2026-01-31T21:45:56.090Z"
+    "firstSeen": "2026-02-01T01:16:07.516Z"
   },
-  "overheadScore": 0.64,
+  "overheadScore": 0.38,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6262,
-      -122.5434
+      45.6184,
+      -122.5403
     ],
     [
-      45.6328,
-      -122.5402
+      45.6261,
+      -122.5372
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-21T22:11:46.303Z"
+  "status": "tracking",
+  "timestamp": "2026-11-22T01:00:18.209Z"
 }
