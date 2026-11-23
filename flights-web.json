@@ -1,33 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.36,
-    "altitude": 4525,
-    "speed": 237,
-    "timestamp": "2026-11-23T09:06:19.188Z",
-    "lat": 45.6256,
-    "lon": -122.5366,
+    "distance": 0.56,
+    "altitude": 2825,
+    "speed": 164,
+    "timestamp": "2026-11-23T14:53:19.898Z",
+    "lat": 45.6219,
+    "lon": -122.5405,
     "precision": "tracked"
   },
   "flight": {
-    "callsign": "N464EG",
-    "aircraftType": "Cita",
-    "origin": "BFI",
-    "destination": "HIO",
-    "firstSeen": "2026-02-15T23:11:09.300Z"
+    "callsign": "TDY1992",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-08-20T13:45:30.631Z"
   },
-  "overheadScore": 0.36,
+  "overheadScore": 0.56,
   "isOverhead": true,
   "pathSnapshots": 2,
   "trail": [
     [
-      45.6364,
-      -122.53
+      45.6219,
+      -122.5405
     ],
     [
-      45.6256,
-      -122.5366
+      45.6291,
+      -122.5404
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-23T09:06:39.730Z"
+  "timestamp": "2026-11-23T14:53:50.669Z"
 }
