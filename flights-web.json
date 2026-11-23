@@ -1,37 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.19,
-    "altitude": 2600,
-    "speed": 152,
-    "timestamp": "2026-11-23T01:07:05.651Z",
-    "lat": 45.6284,
-    "lon": -122.5294,
-    "precision": "high"
+    "distance": 0.36,
+    "altitude": 4525,
+    "speed": 237,
+    "timestamp": "2026-11-23T09:06:19.188Z",
+    "lat": 45.6256,
+    "lon": -122.5366,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "BTQ358",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "PDT",
-    "firstSeen": "2026-10-11T17:58:55.115Z"
+    "callsign": "N464EG",
+    "aircraftType": "Cita",
+    "origin": "BFI",
+    "destination": "HIO",
+    "firstSeen": "2026-02-15T23:11:09.300Z"
   },
-  "overheadScore": 0.19,
+  "overheadScore": 0.36,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.6204,
-      -122.5329
+      45.6364,
+      -122.53
     ],
     [
-      45.6284,
-      -122.5294
-    ],
-    [
-      45.6353,
-      -122.5259
+      45.6256,
+      -122.5366
     ]
   ],
-  "status": "completed",
-  "timestamp": "2026-11-23T01:07:26.216Z"
+  "status": "tracking",
+  "timestamp": "2026-11-23T09:06:19.188Z"
 }
