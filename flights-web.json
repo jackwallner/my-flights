@@ -1,33 +1,45 @@
 {
   "closestApproach": {
-    "distance": 0.62,
-    "altitude": 2225,
-    "speed": 170,
-    "timestamp": "2026-11-24T00:04:49.275Z",
-    "lat": 45.6314,
-    "lon": -122.54,
-    "precision": "tracked"
+    "distance": 0.11,
+    "altitude": 2200,
+    "speed": 99,
+    "timestamp": "2026-11-24T00:11:40.547Z",
+    "lat": 45.6271,
+    "lon": -122.5282,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "TDY1738",
-    "aircraftType": "PC-1",
-    "origin": "PDX",
-    "destination": "BFI",
-    "firstSeen": "2026-06-08T23:11:14.534Z"
+    "callsign": "N8031X",
+    "aircraftType": "RV6",
+    "origin": "QSA",
+    "destination": null,
+    "firstSeen": "2026-09-01T21:31:04.063Z"
   },
-  "overheadScore": 0.62,
+  "overheadScore": 0.11,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 5,
   "trail": [
     [
       45.6237,
-      -122.5434
+      -122.5427
     ],
     [
-      45.6314,
-      -122.54
+      45.6258,
+      -122.5355
+    ],
+    [
+      45.6271,
+      -122.5282
+    ],
+    [
+      45.628,
+      -122.5213
+    ],
+    [
+      45.6286,
+      -122.5154
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-24T00:05:09.796Z"
+  "timestamp": "2026-11-24T00:12:11.470Z"
 }
