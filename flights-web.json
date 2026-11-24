@@ -1,45 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 1050,
-    "speed": 88,
-    "timestamp": "2026-11-24T05:04:32.456Z",
-    "lat": 45.6179,
-    "lon": -122.5288,
-    "precision": "high"
+    "distance": 0.41,
+    "altitude": 2800,
+    "speed": 173,
+    "timestamp": "2026-11-24T15:44:31.932Z",
+    "lat": 45.6185,
+    "lon": -122.5274,
+    "precision": "tracked"
   },
   "flight": {
-    "callsign": "B407",
-    "aircraftType": "B407",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-04-07T03:22:47.616Z"
+    "callsign": "AMF1964",
+    "aircraftType": "Beec",
+    "origin": "PDX",
+    "destination": "HES",
+    "firstSeen": "2026-02-05T15:33:22.640Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.41,
   "isOverhead": true,
-  "pathSnapshots": 5,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.619,
-      -122.5405
-    ],
-    [
       45.6185,
-      -122.5355
+      -122.5274
     ],
     [
-      45.6179,
-      -122.5288
-    ],
-    [
-      45.6177,
-      -122.5228
-    ],
-    [
-      45.6179,
-      -122.5164
+      45.6222,
+      -122.5181
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-24T05:05:03.483Z"
+  "timestamp": "2026-11-24T15:45:02.860Z"
 }
