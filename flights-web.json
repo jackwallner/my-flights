@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.56,
-    "altitude": 1600,
-    "speed": 156,
-    "timestamp": "2026-11-25T20:01:25.594Z",
-    "lat": 45.6323,
-    "lon": -122.537,
-    "precision": "tracked"
+    "distance": 0.13,
+    "altitude": 2200,
+    "speed": 175,
+    "timestamp": "2026-11-25T22:01:49.180Z",
+    "lat": 45.6237,
+    "lon": -122.5303,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "N3023W",
-    "aircraftType": "BE35",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-09-13T22:02:31.043Z"
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.56,
+  "overheadScore": 0.13,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6323,
-      -122.537
+      45.6152,
+      -122.5346
     ],
     [
-      45.6348,
-      -122.5284
+      45.6237,
+      -122.5303
+    ],
+    [
+      45.6304,
+      -122.5268
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-25T20:01:57.144Z"
+  "timestamp": "2026-11-25T22:02:09.755Z"
 }
