@@ -1,37 +1,33 @@
 {
   "closestApproach": {
-    "distance": 0.39,
-    "altitude": 1800,
-    "speed": 125,
-    "timestamp": "2026-11-25T18:01:25.655Z",
-    "lat": 45.6287,
-    "lon": -122.5361,
-    "precision": "high"
+    "distance": 0.56,
+    "altitude": 1600,
+    "speed": 156,
+    "timestamp": "2026-11-25T20:01:25.594Z",
+    "lat": 45.6323,
+    "lon": -122.537,
+    "precision": "tracked"
   },
   "flight": {
     "callsign": "N3023W",
     "aircraftType": "BE35",
-    "origin": "TTD",
+    "origin": null,
     "destination": null,
     "firstSeen": "2026-09-13T22:02:31.043Z"
   },
-  "overheadScore": 0.39,
+  "overheadScore": 0.56,
   "isOverhead": true,
-  "pathSnapshots": 3,
+  "pathSnapshots": 2,
   "trail": [
     [
-      45.633,
-      -122.5301
+      45.6323,
+      -122.537
     ],
     [
-      45.6287,
-      -122.5361
-    ],
-    [
-      45.6251,
-      -122.541
+      45.6348,
+      -122.5284
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-25T18:01:46.205Z"
+  "timestamp": "2026-11-25T20:01:57.144Z"
 }
