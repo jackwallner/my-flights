@@ -1,37 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.44,
-    "altitude": 3400,
-    "speed": 113,
-    "timestamp": "2026-11-25T22:40:51.137Z",
-    "lat": 45.6181,
-    "lon": -122.5255,
+    "distance": 0.28,
+    "altitude": 2550,
+    "speed": 165,
+    "timestamp": "2026-11-26T00:21:14.627Z",
+    "lat": 45.6211,
+    "lon": -122.5251,
     "precision": "high"
   },
   "flight": {
-    "callsign": "N14SK",
-    "aircraftType": "C152",
-    "origin": "HIO",
-    "destination": null,
-    "firstSeen": "2026-05-02T04:53:33.165Z"
+    "callsign": "TDY925",
+    "aircraftType": "PC-1",
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-11-05T00:04:41.474Z"
   },
-  "overheadScore": 0.44,
+  "overheadScore": 0.28,
   "isOverhead": true,
   "pathSnapshots": 3,
   "trail": [
     [
-      45.6159,
-      -122.5325
+      45.6138,
+      -122.5295
     ],
     [
-      45.6181,
-      -122.5255
+      45.6211,
+      -122.5251
     ],
     [
-      45.6199,
-      -122.5177
+      45.6277,
+      -122.5208
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-25T22:41:11.688Z"
+  "timestamp": "2026-11-26T00:21:35.181Z"
 }
