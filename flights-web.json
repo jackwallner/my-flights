@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.32,
-    "altitude": 2025,
-    "speed": 173,
-    "timestamp": "2026-11-26T02:15:48.170Z",
-    "lat": 45.6237,
-    "lon": -122.5353,
-    "precision": "tracked"
+    "distance": 0.23,
+    "altitude": 2300,
+    "speed": 172,
+    "timestamp": "2026-11-26T03:03:12.388Z",
+    "lat": 45.6252,
+    "lon": -122.5335,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "PC12",
+    "callsign": "TDY925",
     "aircraftType": "PC-1",
-    "origin": null,
-    "destination": null,
-    "firstSeen": "2026-02-09T16:25:48.403Z"
+    "origin": "PDX",
+    "destination": "BFI",
+    "firstSeen": "2026-11-05T00:04:41.474Z"
   },
-  "overheadScore": 0.32,
+  "overheadScore": 0.23,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6237,
-      -122.5353
+      45.6181,
+      -122.5369
     ],
     [
-      45.6307,
-      -122.5308
+      45.6252,
+      -122.5335
+    ],
+    [
+      45.6337,
+      -122.529
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-26T02:16:18.965Z"
+  "timestamp": "2026-11-26T03:03:32.891Z"
 }
