@@ -1,33 +1,37 @@
 {
   "closestApproach": {
-    "distance": 0.58,
-    "altitude": 4150,
-    "speed": 196,
-    "timestamp": "2026-11-27T20:30:50.158Z",
-    "lat": 45.6194,
-    "lon": -122.5171,
-    "precision": "tracked"
+    "distance": 0.25,
+    "altitude": 2400,
+    "speed": 144,
+    "timestamp": "2026-11-27T21:55:07.884Z",
+    "lat": 45.6264,
+    "lon": -122.5338,
+    "precision": "high"
   },
   "flight": {
-    "callsign": "JZA651",
-    "aircraftType": "CRJ",
+    "callsign": "BTQ354",
+    "aircraftType": "PC-1",
     "origin": "PDX",
-    "destination": "YVR",
-    "firstSeen": "2026-11-27T20:30:50.116Z"
+    "destination": "PDT",
+    "firstSeen": "2026-01-31T21:45:56.090Z"
   },
-  "overheadScore": 0.58,
+  "overheadScore": 0.25,
   "isOverhead": true,
-  "pathSnapshots": 2,
+  "pathSnapshots": 3,
   "trail": [
     [
-      45.6194,
-      -122.5171
+      45.6209,
+      -122.5368
     ],
     [
-      45.629,
-      -122.5134
+      45.6264,
+      -122.5338
+    ],
+    [
+      45.6333,
+      -122.5303
     ]
   ],
   "status": "completed",
-  "timestamp": "2026-11-27T20:31:20.916Z"
+  "timestamp": "2026-11-27T21:55:28.382Z"
 }
