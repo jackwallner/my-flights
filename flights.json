@@ -31411,5 +31411,24 @@
     "initialDistance": 0.5747233546343148,
     "initialAltitude": 1700,
     "initialSpeed": 123
+  },
+  {
+    "callsign": "JZA651",
+    "flightNumber": "AC8651",
+    "aircraftType": "CRJ9",
+    "aircraftName": null,
+    "origin": "PDX",
+    "destination": "YVR",
+    "icao": "C05F09",
+    "registration": "C-GJZS",
+    "firstSeen": "2026-11-27T20:30:50.116Z",
+    "lastSeen": "2026-11-27T20:31:00.412Z",
+    "duration": 10,
+    "closestDistance": 0.5817762283472973,
+    "closestAltitude": 4150,
+    "closestSpeed": 196,
+    "initialDistance": 0.5817762283472973,
+    "initialAltitude": 4150,
+    "initialSpeed": 196
   }
 ]
